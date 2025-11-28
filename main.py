@@ -7,6 +7,7 @@ import uvicorn
 import logging
 from QueryCoordinator import QueryCoordinator
 from QueryService import QueryService
+import time
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
@@ -17,7 +18,7 @@ def queryResult(
     query_id: int
 ):
     res = QueryCoordinator.get_instance().getQID(query_id)
-    return return JSONResponse(content={
+    return JSONResponse(content={
         "query_id":query_id, 
         "res":res
     })
@@ -28,7 +29,7 @@ def upload_text(
     file: UploadFile = File(...)
 ):
     try:
-        content_bytes = await file.read()
+        content_bytes = file.read()
         content_str = content_bytes.decode("utf-8")
     except:
         return JSONResponse(content={

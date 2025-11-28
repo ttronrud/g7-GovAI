@@ -17,7 +17,7 @@ from sentence_transformers import SentenceTransformer
 import prompts
 import chroma
 import tqdm
-from queue import Queue
+import QueryState
 
 #minimum service interface
 class Service:   
@@ -172,40 +172,42 @@ class SearchService(Service):
         return txt
     
     def finalPassResults(self, document_text, reg_results):
-        outputs = []
+        outputs_final = []
         pbar = tqdm.tqdm(total=len(reg_results), desc="Generating Output")
-        for regulation_entry in reg_results:
+        for regulation_entry, metadata, ids in zip(reg_results['documents'][0], reg_results['metadatas'][0], reg_results['ids'][0]):
             summary_prompt = [
                 {"role": "system", "content": "You are a helpful government assistant."},
-                {"role": "user", "content": prompts.SUMMARY_PROMPT.format(prop_txt=document_txt, reg_txt = regulation_entry)}
+                {"role": "user", "content": prompts.SUMMARY_PROMPT.format(prop_txt=document_text, reg_txt = regulation_entry)}
             ]
             text = self.llm_tokenizer.apply_chat_template(summary_prompt, tokenize=False, add_generation_prompt=True)
-            model_inputs = self.llm_tokenizer([text], return_tensors="pt").to(model.device)
+            model_inputs = self.llm_tokenizer([text], return_tensors="pt").to(self.llm_model.device)
             outputs = self.llm_model.generate(**model_inputs, max_new_tokens=2048)
             delta = outputs.size(1) - model_inputs['input_ids'].size(1)
-            summ_txt = tokenizer.batch_decode(outputs[:,-delta:], skip_special_tokens=True)[0]
+            summ_txt = self.llm.tokenizer.batch_decode(outputs[:,-delta:], skip_special_tokens=True)[0]
             
             output_prompt = [
                 {"role": "system", "content": "You are a helpful government assistant."},
-                {"role": "user", "content": prompts.OUTPUT_PROMPT.format(reg_title = [ADD REG TITLE FROM ENTRY?], prop_txt=document_txt, reg_summ_txt = summ_txt)}
+                {"role": "user", "content": prompts.OUTPUT_PROMPT.format(reg_title = metadata['title'], prop_txt=document_text, reg_summ_txt = summ_txt)}
             ]
             
             text = self.llm_tokenizer.apply_chat_template(output_prompt, tokenize=False, add_generation_prompt=True)
-            model_inputs = self.llm_tokenizer([text], return_tensors="pt").to(model.device)
+            model_inputs = self.llm_tokenizer([text], return_tensors="pt").to(self.llm_model.device)
             outputs = self.llm_model.generate(**model_inputs, max_new_tokens=2048)
             delta = outputs.size(1) - model_inputs['input_ids'].size(1)
-            output_txt = tokenizer.batch_decode(outputs[:,-delta:], skip_special_tokens=True)[0]
+            output_txt = self.llm_tokenizer.batch_decode(outputs[:,-delta:], skip_special_tokens=True)[0]
+    
             
-            ld_res = json.loads(replace_strs(o['res']))
-            outputs.append({ # ANDREW TODO - REPLACE REFS TO TITLES, LINKS, ETC WITH PROPER ENTRIES, ENSURE ALIGNMENT THROUGH FLOW
-                'title' : regulation_entry['title'],
-                'link' : regulation_entry['LINK'],
-                'id' : regulation_entry['ID'],
-                'act' : regulation_entry['ACT'],
+            ld_res = json.loads(self.replace_strs(output_txt))
+            outputs_final.append({ # ANDREW TODO - REPLACE REFS TO TITLES, LINKS, ETC WITH PROPER ENTRIES, ENSURE ALIGNMENT THROUGH FLOW
+                'title' : metadata['title'],
+                'link' : metadata['url'],
+                'id' : ids,
+                'act' : metadata['act'],
                 'applicable' : ld_res['applicable'].lower(),
                 'violation' : ld_res['violation'].lower(),
                 'notes': ld_res['notes']
             })
+            
             pbar.update(1)
         
         pbar.close()
@@ -227,7 +229,9 @@ class SearchService(Service):
             
             retMon.updateQIDData(data['qid'], outputs)
             retMon.updateQIDState(data['qid'], QueryState.COMPLETE)
+        
             
         
     def isStillActive():
         return True
+    
