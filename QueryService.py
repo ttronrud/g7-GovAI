@@ -15,6 +15,7 @@ from chromadb import Documents, EmbeddingFunction, Embeddings
 import torch
 from sentence_transformers import SentenceTransformer
 import prompts
+import chroma
 
 #minimum service interface
 class Service:   
@@ -61,19 +62,16 @@ class SearchService(Service):
                            
         # embedding initialization
         self.embed_model_name = embed_model_name
-        try:
-            self.collection = client.create_collection(
-                name="documents_cosine",
-            embedding_function=SearchEmbeddingFunction(
-                model_name=embed_model_name)
-            )
-        except InternalError:
-            self.collection = client.get_collection(
-                name="documents_cosine",
-                embedding_function=SearchEmbeddingFunction(
-                    model_name=embed_model_name)
-            )
-        
+        self.db = chroma.ChromaDB("documents", "cosine", self.embed_model_name )
+        num_docs = self.db.collection.count()
+        if num_docs == 0:
+            regs_folder = "/PATH/TO/REGS/"
+            acts_folder = "/PATH/TO/ACTS/"
+            chroma.parseRegs(self, regs_folder, "lxml")
+            chroma.addRegulationLinks(self, regs_folder, 'lxml')
+            chroma.parseActs(self, acts_folder, 'lxml')
+            chroma.addActLinks(self, acts_folder, 'lxml')
+
         # general-purpose query model initialization
         self.llm_tokenizer = AutoTokenizer.from_pretrained(query_model_name)
         self.llm_model = AutoModelForCausalLM.from_pretrained(
@@ -140,7 +138,7 @@ class SearchService(Service):
                 self.rerankFormatInstruction(search_query, reg)
             ) for reg in reg_results
         ]
-        rr_scores np.array([score[0] for score in rr_scores]) # flatten
+        rr_scores = np.array([score[0] for score in rr_scores]) # flatten
         sorted_scores, sorted_regs = [],[]
         for idx in np.argsort(rr_scores)[::-1]:
             sorted_scores.append(rr_scores[idx])
