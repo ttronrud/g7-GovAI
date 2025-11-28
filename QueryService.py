@@ -17,6 +17,7 @@ from sentence_transformers import SentenceTransformer
 import prompts
 import chroma
 import tqdm
+from queue import Queue
 
 #minimum service interface
 class Service:   
@@ -60,7 +61,8 @@ class SearchService(Service):
                        reranker_model_name = "Qwen/Qwen3-Reranker-0.6B",
                        query_model_name = "Qwen/Qwen3-4B-Instruct-2507-FP8",
                        device_map = "cuda:0"):
-                           
+        
+        self.processing_queue = Queue()
         # embedding initialization
         self.embed_model_name = embed_model_name
         self.db = chroma.ChromaDB("documents", "cosine", self.embed_model_name )
@@ -88,6 +90,9 @@ class SearchService(Service):
         self.rr_token_false_id = self.rr.tokenizer.convert_tokens_to_ids("no")
         self.rr_token_true_id = self.rr.tokenizer.convert_tokens_to_ids("yes")
         self.rr_max_length = 8192
+    
+    def submit(self, data):
+        self.processing_queue.push(data)
     
     # generate search query from document, search collection and return results
     def collectionQuery(self, document_text, n_results=20):
@@ -139,7 +144,7 @@ class SearchService(Service):
         pbar = tqdm.tqdm(total = len(reg_results), desc="Re-Ranking Regulations")
         rr_scores = [
             self.rerankComputeLogits(
-                self.rerankFormatInstruction(search_query, reg, pbar)
+                self.rerankFormatInstruction(search_query, reg['documents'][0], pbar)
             ) for reg in reg_results
         ]
         pbar.close()
@@ -205,3 +210,24 @@ class SearchService(Service):
         
         pbar.close()
         return outputs
+        
+    
+    def processQueue(self, retMon):
+        while not self.processing_queue.empty():
+            data = self.processing_queue.get() # pop next off the queue
+            
+            retMon.updateQIDState(data['qid'], QueryState.PROCESSING_EMBEDDING) # alert QueryCoordinator
+            regulations = self.collectionQuery(data['data'])
+            
+            retMon.updateQIDState(data['qid'], QueryState.PROCESSING_RERANKING) 
+            scores_rr, regulations_rr = self.rerankResults(data['data'],regulations)
+            
+            retMon.updateQIDState(data['qid'], QueryState.PROCESSING_OUTPUT)
+            outputs = self.finalPassResults(data['data'], regulations_rr)
+            
+            retMon.updateQIDData(data['qid'], outputs)
+            retMon.updateQIDState(data['qid'], QueryState.COMPLETE)
+            
+        
+    def isStillActive():
+        return True

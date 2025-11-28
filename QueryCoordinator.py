@@ -73,7 +73,7 @@ class QueryCoordinator():
     
     def updateQIDData(self, qid, data):
         if qid in self.QIDdb:
-            self.QIDdb[qid]['output'].append(data)
+            self.QIDdb[qid]['output'] += data
         
     
     #detects whether a thread has broken
