@@ -1,4 +1,3 @@
-import asyncio
 import logging
 from queue import Queue
 import time

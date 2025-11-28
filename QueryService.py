@@ -16,6 +16,7 @@ import torch
 from sentence_transformers import SentenceTransformer
 import prompts
 import chroma
+import tqdm
 
 #minimum service interface
 class Service:   
@@ -120,24 +121,28 @@ class SearchService(Service):
         output = prompts.RERANK_PROMPT.format(instruction=instruction,query=query, doc=regulation)
         return output
     
-    def rerankComputeLogits(self, query):
+    def rerankComputeLogits(self, query, pbar = None):
         batch_logits = self.rr_model(**query).logits[:, -1, :]
         pos_vector = batch_logits[:, self.rr_token_true_id]
         neg_vector = batch_logits[:, self.rr_token_false_id]
         batch_scores = F.softmax(
             torch.stack([pos_vector, neg_vector],dim=1), dim=1
         )
+        if pbar is not None:
+            pbar.update(1)
         return batch_scores[:,0].exp().tolist()
     
     # take list of regulations from search step 0,
     # and re-rank them with the search query
     # return sorted list of scores and regulations
     def rerankResults(self, search_query, reg_results):
+        pbar = tqdm.tqdm(total = len(reg_results), desc="Re-Ranking Regulations")
         rr_scores = [
             self.rerankComputeLogits(
-                self.rerankFormatInstruction(search_query, reg)
+                self.rerankFormatInstruction(search_query, reg, pbar)
             ) for reg in reg_results
         ]
+        pbar.close()
         rr_scores = np.array([score[0] for score in rr_scores]) # flatten
         sorted_scores, sorted_regs = [],[]
         for idx in np.argsort(rr_scores)[::-1]:
@@ -163,6 +168,7 @@ class SearchService(Service):
     
     def finalPassResults(self, document_text, reg_results):
         outputs = []
+        pbar = tqdm.tqdm(total=len(reg_results), desc="Generating Output")
         for regulation_entry in reg_results:
             summary_prompt = [
                 {"role": "system", "content": "You are a helpful government assistant."},
@@ -195,3 +201,7 @@ class SearchService(Service):
                 'violation' : ld_res['violation'].lower(),
                 'notes': ld_res['notes']
             })
+            pbar.update(1)
+        
+        pbar.close()
+        return outputs

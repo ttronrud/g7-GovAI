@@ -47,12 +47,12 @@ def upload_text(
 # and will not be exposed publicly
 if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG, 
-                        filename="logs/" + str(time.asctime().replace(":","-")) + "_" +config_parser["test"]["log_filename"], 
+                        filename="logs/" + str(time.asctime().replace(":","-")) + "_log.txt", 
                         filemode="a+", format="%(asctime)-15s %(levelname)-8s %(message)s")
     logging.info("MAIN::Logging Initialized successfully")
     
     QueryCoordinator.get_instance()
-    service = QueryService()#args?
+    service = QueryService()
     QueryCoordinator.get_instance().addService(service)
     
     HOST = "localhost"
