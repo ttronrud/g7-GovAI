@@ -175,22 +175,22 @@ class ChromaDB():
                 titles.append(" ")
             docs.append(full_text)
 
-            act_metadatas = []
-            for title, term in zip(titles, terms):
-                act_metadatas.append({
-                    "title": title,
-                    "terms": term,
-                    "category": "Act",
-                    "act": "N/A"
-                }) 
-            for m in act_metadatas:
-                m['terms'] = ", ".join(m['terms'])
+        act_metadatas = []
+        for title, term in zip(titles, terms):
+            act_metadatas.append({
+                "title": title,
+                "terms": term,
+                "category": "Act",
+                "act": "N/A"
+            }) 
+        for m in act_metadatas:
+            m['terms'] = ", ".join(m['terms'])
 
-            self.collection.add(
-                ids=ids,
-                documents=docs,
-                metadatas=act_metadatas
-        )
+        self.collection.add(
+            ids=ids,
+            documents=docs,
+            metadatas=act_metadatas
+    )
 
     def addActLinks(self, folder, parser):
         for root, dirs, files in tqdm(os.walk(folder)):
