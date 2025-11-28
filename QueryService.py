@@ -66,8 +66,8 @@ class SearchService(Service):
         self.db = chroma.ChromaDB("documents", "cosine", self.embed_model_name )
         num_docs = self.db.collection.count()
         if num_docs == 0:
-            regs_folder = "/PATH/TO/REGS/"
-            acts_folder = "/PATH/TO/ACTS/"
+            regs_folder = "laws-lois-xml\eng\regulations"
+            acts_folder = "laws-lois-xml\eng\acts"
             chroma.parseRegs(self, regs_folder, "lxml")
             chroma.addRegulationLinks(self, regs_folder, 'lxml')
             chroma.parseActs(self, acts_folder, 'lxml')
