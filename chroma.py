@@ -3,7 +3,7 @@ from chromadb import Documents, EmbeddingFunction, Embeddings
 import torch
 from sentence_transformers import SentenceTransformer
 from bs4 import BeautifulSoup
-from tqdm import tqdm
+from tqdm import tqdm, trange
 import os
 
 class MyEmbeddingFunction(EmbeddingFunction):
@@ -25,11 +25,11 @@ class ChromaDB():
         self.model_name = model_name
         self.client = chromadb.PersistentClient()
         self.collection = self.client.get_or_create_collection(
-        name=name,
-        embedding_function=MyEmbeddingFunction(model_name=self.model_name),
-        metadata={
-            "hnsw:space": distance_function
-        }
+            name=name,
+            #embedding_function=MyEmbeddingFunction(model_name=self.model_name),
+            metadata={
+                "hnsw:space": distance_function
+            }
         )
         
     def parseRegs(self, folder, parser):
@@ -99,12 +99,20 @@ class ChromaDB():
                 
         for m in metadatas:
             m['terms'] = ", ".join(m["terms"])
-            
+        
         self.collection.add(
-            ids=ids,
-            documents=docs,
-            metadatas=metadatas
-        )
+                ids=ids,
+                documents=docs,
+                metadatas=metadatas
+        )        
+        # batch-add the elements to the collection to avoid embedding OOM
+        #for idx in trange(0,len(ids)):
+        #    print(len(docs[idx]))
+        #    self.collection.add(
+        #            ids=[ids[idx]],
+        #            documents=[docs[idx]],
+        #            metadatas=[metadatas[idx]]
+        #)
             
     def addRegulationLinks(self, folder, parser):
         for root, dirs, files in tqdm(os.walk(folder)):

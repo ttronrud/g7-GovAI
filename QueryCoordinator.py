@@ -38,30 +38,28 @@ class QueryCoordinator():
         self.process_times = []
         self.ptime_navg = 100
     def get_instance():
-        global instance
-        if instance == None:
-            instance = QueryCoordinator()
-        return instance
+        global static_instance
+        if static_instance == None:
+            static_instance = QueryCoordinator()
+        return static_instance
     
     def addQID(self, data):
         self.serviceRefresh()
-        if self.getNOngoingJobs() < self.max_ongoing_queries:
+        
+        qid = random.randint(0, 1000000)
+        while qid in self.QIDdb:
             qid = random.randint(0, 1000000)
-            while qid in self.QIDdb:
-                qid = random.randint(0, 1000000)
-            self.QIDdb[qid] = {'qid':qid, 
-                                'time_init':time.time(), 'time_rdy':-1,
-                                'data':data, 'output' : [], 'processing_stage':QueryState.QUEUED}
-            logging.info(f"QCOORD::new QID generated: {qid}")
-            for s in self.services:
-                self.submitToService(s,self.QIDdb[qid])
-            return qid
-        logging.warning(f"QCOORD::Query submission bounced")
-        return -1
+        self.QIDdb[qid] = {'qid':qid, 
+                            'time_init':time.time(), 'time_rdy':-1,
+                            'data':data, 'output' : [], 'processing_stage':QueryState.QUEUED}
+        logging.info(f"QCOORD::new QID generated: {qid}")
+        for s in self.services:
+            self.submitToService(s,self.QIDdb[qid])
+        return qid
         
     def getQID(self, qid):
         if qid in self.QIDdb:
-            if self.QIDdb[qid]['processing_stage'] = QueryState.COMPLETE:
+            if self.QIDdb[qid]['processing_stage'] == QueryState.COMPLETE:
                 self.QIDdb[qid]['processing_stage'] = QueryState.RETRIEVED
             return self.QIDdb[qid]
         return None
@@ -98,7 +96,6 @@ class QueryCoordinator():
     def submitToService(self, service, data):
         service.submit(data)
         logging.info(f"QCOORD::{data['qid']} submitted to service {service.getName()}")
-        data['n_serv_submits'] += 1
     
     def endSystem(self):
         self.active = False

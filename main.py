@@ -1,23 +1,23 @@
+import asyncio
 from fastapi import FastAPI, File, UploadFile, Request, Form
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import JSONResponse
 from fastapi.templating import Jinja2Templates
-import model
 import uvicorn
 import logging
 from QueryCoordinator import QueryCoordinator
-from QueryService import QueryService
+from QueryService import SearchService
+from QueryState import QueryState
 import time
 
 app = FastAPI()
-app.mount("/static", StaticFiles(directory="static"), name="static")
-templates = Jinja2Templates(directory="templates")
 
 @app.get("/get-response/{query_id}")
 def queryResult(
     query_id: int
 ):
     res = QueryCoordinator.get_instance().getQID(query_id)
+    res['processing_stage'] = res['processing_stage'].name
     return JSONResponse(content={
         "query_id":query_id, 
         "res":res
@@ -25,11 +25,11 @@ def queryResult(
 
 # submit a new proposal onto processing queue
 @app.post("/submit/")
-def upload_text(
+async def upload_text(
     file: UploadFile = File(...)
 ):
     try:
-        content_bytes = file.read()
+        content_bytes = await file.read()
         content_str = content_bytes.decode("utf-8")
     except:
         return JSONResponse(content={
@@ -53,7 +53,7 @@ if __name__ == "__main__":
     logging.info("MAIN::Logging Initialized successfully")
     
     QueryCoordinator.get_instance()
-    service = QueryService()
+    service = SearchService()
     QueryCoordinator.get_instance().addService(service)
     
     HOST = "localhost"

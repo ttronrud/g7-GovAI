@@ -17,7 +17,7 @@ from sentence_transformers import SentenceTransformer
 import prompts
 import chroma
 import tqdm
-import QueryState
+from QueryState import QueryState
 
 #minimum service interface
 class Service:   
@@ -68,12 +68,12 @@ class SearchService(Service):
         self.db = chroma.ChromaDB("documents", "cosine", self.embed_model_name )
         num_docs = self.db.collection.count()
         if num_docs == 0:
-            regs_folder = "laws-lois-xml\eng\regulations"
-            acts_folder = "laws-lois-xml\eng\acts"
-            chroma.parseRegs(self, regs_folder, "lxml")
-            chroma.addRegulationLinks(self, regs_folder, 'lxml')
-            chroma.parseActs(self, acts_folder, 'lxml')
-            chroma.addActLinks(self, acts_folder, 'lxml')
+            regs_folder = "laws-lois-xml/eng/regulations"
+            acts_folder = "laws-lois-xml/eng/acts"
+            self.db.parseRegs(regs_folder, "xml")
+            self.db.addRegulationLinks(regs_folder, 'xml')
+            self.db.parseActs(acts_folder, 'xml')
+            self.db.addActLinks(acts_folder, 'xml')
 
         # general-purpose query model initialization
         self.llm_tokenizer = AutoTokenizer.from_pretrained(query_model_name)
@@ -86,16 +86,19 @@ class SearchService(Service):
         #re-ranker initialization
         self.rerank_model_name = reranker_model_name
         self.rr_tokenizer = AutoTokenizer.from_pretrained(self.rerank_model_name, padding_side='left')
-        self.rr_model = AutoModelForCausalLM.from_pretrained(self.rerank_model_name).eval()
-        self.rr_token_false_id = self.rr.tokenizer.convert_tokens_to_ids("no")
-        self.rr_token_true_id = self.rr.tokenizer.convert_tokens_to_ids("yes")
+        self.rr_model = AutoModelForCausalLM.from_pretrained(self.rerank_model_name, device_map=device_map).eval()
+        self.rr_token_false_id = self.rr_tokenizer.convert_tokens_to_ids("no")
+        self.rr_token_true_id = self.rr_tokenizer.convert_tokens_to_ids("yes")
         self.rr_max_length = 8192
     
     def submit(self, data):
-        self.processing_queue.push(data)
+        self.processing_queue.put(data)
+        
+    def getName(self):
+        return "Search Service"
     
     # generate search query from document, search collection and return results
-    def collectionQuery(self, document_text, n_results=20):
+    def collectionQuery(self, document_text, n_results=50):
         messages = [
             {"role": "system", "content": prompts.QUERY_INSTRUCTIONS},
             {"role": "user", "content": prompts.QUERY_PROMPT.format(proposal_txt=document_text)}
@@ -114,23 +117,28 @@ class SearchService(Service):
         output_ids = generated_ids[0][len(model_inputs.input_ids[0]):].tolist() 
         content = self.llm_tokenizer.decode(output_ids, skip_special_tokens=True)
         
-        results = self.collection.query(
+        results = self.db.collection.query(
             query_texts = content,
             n_results = n_results
         )
-        return results
+        print(content)
+        return results, content
     
     def rerankFormatInstruction(self, query, regulation):
-        if instruction is None:
-            instruction = prompts.RERANK_INSTRUCTION
+        instruction = prompts.RERANK_INSTRUCTION
         output = prompts.RERANK_PROMPT.format(instruction=instruction,query=query, doc=regulation)
-        return output
+        rr_inputs = self.rr_tokenizer(output, padding=False, max_length=self.rr_max_length,truncation='longest_first',return_attention_mask=False,return_tensors='pt')
+        #rr_inputs = self.rr_tokenizer.pad(rr_inputs, padding=True, return_tensors="pt", max_length=8192)
+        for key in rr_inputs:
+            rr_inputs[key] = rr_inputs[key].to(self.rr_model.device)
+        return rr_inputs
     
     def rerankComputeLogits(self, query, pbar = None):
-        batch_logits = self.rr_model(**query).logits[:, -1, :]
+        with torch.no_grad():
+            batch_logits = self.rr_model(**query).logits[:, -1, :].to("cpu")
         pos_vector = batch_logits[:, self.rr_token_true_id]
         neg_vector = batch_logits[:, self.rr_token_false_id]
-        batch_scores = F.softmax(
+        batch_scores = F.log_softmax(
             torch.stack([pos_vector, neg_vector],dim=1), dim=1
         )
         if pbar is not None:
@@ -141,21 +149,28 @@ class SearchService(Service):
     # and re-rank them with the search query
     # return sorted list of scores and regulations
     def rerankResults(self, search_query, reg_results):
-        pbar = tqdm.tqdm(total = len(reg_results), desc="Re-Ranking Regulations")
+        pbar = tqdm.tqdm(total = len(reg_results['documents'][0]), desc="Re-Ranking Regulations")
         rr_scores = [
             self.rerankComputeLogits(
-                self.rerankFormatInstruction(search_query, reg['documents'][0], pbar)
-            ) for reg in reg_results
+                self.rerankFormatInstruction(search_query, reg),pbar
+            ) for reg in reg_results['documents'][0]
         ]
         pbar.close()
         rr_scores = np.array([score[0] for score in rr_scores]) # flatten
         sorted_scores, sorted_regs = [],[]
         for idx in np.argsort(rr_scores)[::-1]:
             sorted_scores.append(rr_scores[idx])
-            sorted_regs.append(reg_results[idx])
+            sorted_reg = {
+                'ids':reg_results['ids'][0][idx],
+                'document':reg_results['ids'][0][idx],
+                'metadata':reg_results['metadatas'][0][idx]
+            }
+            sorted_regs.append(sorted_reg)
+        for sc,scr in zip(sorted_scores, sorted_regs):
+            print(sc,scr['metadata']['act'],">",scr['metadata']['title'])
         return sorted_scores, sorted_regs
     
-    def replace_strs(txt):
+    def replace_strs(self,txt):
         txt = txt.replace("\"violation\": Uncertain","\"violation\": \"uncertain\"")
         txt = txt.replace("\"violation\": uncertain","\"violation\": \"uncertain\"")
         txt = txt.replace("\"violation\": true","\"violation\": \"true\"")
@@ -174,20 +189,22 @@ class SearchService(Service):
     def finalPassResults(self, document_text, reg_results):
         outputs_final = []
         pbar = tqdm.tqdm(total=len(reg_results), desc="Generating Output")
-        for regulation_entry, metadata, ids in zip(reg_results['documents'][0], reg_results['metadatas'][0], reg_results['ids'][0]):
+        #for regulation_entry, metadata, ids in zip(reg_results['documents'], reg_results['metadatas'], reg_results['ids']):
+        for regulation_entry in reg_results:
+            metadata = regulation_entry['metadata']
             summary_prompt = [
                 {"role": "system", "content": "You are a helpful government assistant."},
-                {"role": "user", "content": prompts.SUMMARY_PROMPT.format(prop_txt=document_text, reg_txt = regulation_entry)}
+                {"role": "user", "content": prompts.SUMMARY_PROMPT.format(prop_txt=document_text, reg_title = metadata['title'],reg_txt = regulation_entry['document'])}
             ]
             text = self.llm_tokenizer.apply_chat_template(summary_prompt, tokenize=False, add_generation_prompt=True)
             model_inputs = self.llm_tokenizer([text], return_tensors="pt").to(self.llm_model.device)
             outputs = self.llm_model.generate(**model_inputs, max_new_tokens=2048)
             delta = outputs.size(1) - model_inputs['input_ids'].size(1)
-            summ_txt = self.llm.tokenizer.batch_decode(outputs[:,-delta:], skip_special_tokens=True)[0]
+            summ_txt = self.llm_tokenizer.batch_decode(outputs[:,-delta:], skip_special_tokens=True)[0]
             
             output_prompt = [
                 {"role": "system", "content": "You are a helpful government assistant."},
-                {"role": "user", "content": prompts.OUTPUT_PROMPT.format(reg_title = metadata['title'], prop_txt=document_text, reg_summ_txt = summ_txt)}
+                {"role": "user", "content": prompts.OUTPUT_PROMPT.format(reg_title = metadata['title'], prop_txt=document_text, reg_summ_txt = summ_txt, json_form=prompts.OUTPUT_JSON_FORMAT)}
             ]
             
             text = self.llm_tokenizer.apply_chat_template(output_prompt, tokenize=False, add_generation_prompt=True)
@@ -198,31 +215,38 @@ class SearchService(Service):
     
             
             ld_res = json.loads(self.replace_strs(output_txt))
-            outputs_final.append({ # ANDREW TODO - REPLACE REFS TO TITLES, LINKS, ETC WITH PROPER ENTRIES, ENSURE ALIGNMENT THROUGH FLOW
+            outputs_final.append({
                 'title' : metadata['title'],
                 'link' : metadata['url'],
-                'id' : ids,
+                'id' : regulation_entry['ids'],
                 'act' : metadata['act'],
                 'applicable' : ld_res['applicable'].lower(),
                 'violation' : ld_res['violation'].lower(),
-                'notes': ld_res['notes']
+                'notes': ld_res['notes'],
+                'intermediate_summary':summ_txt
             })
+            print(outputs_final[-1]['title'])
+            print(outputs_final[-1]['link'])
+            print(outputs_final[-1]['applicable'],outputs_final[-1]['violation'])
+            print(outputs_final[-1]['intermediate_summary'])
+            print(outputs_final[-1]['notes'])
             
             pbar.update(1)
         
         pbar.close()
+        
         return outputs
         
     
     def processQueue(self, retMon):
         while not self.processing_queue.empty():
             data = self.processing_queue.get() # pop next off the queue
-            
+            torch.manual_seed(1337)
             retMon.updateQIDState(data['qid'], QueryState.PROCESSING_EMBEDDING) # alert QueryCoordinator
-            regulations = self.collectionQuery(data['data'])
+            regulations,prop_summ = self.collectionQuery(data['data'])
             
             retMon.updateQIDState(data['qid'], QueryState.PROCESSING_RERANKING) 
-            scores_rr, regulations_rr = self.rerankResults(data['data'],regulations)
+            scores_rr, regulations_rr = self.rerankResults(prop_summ,regulations)
             
             retMon.updateQIDState(data['qid'], QueryState.PROCESSING_OUTPUT)
             outputs = self.finalPassResults(data['data'], regulations_rr)
@@ -232,6 +256,6 @@ class SearchService(Service):
         
             
         
-    def isStillActive():
+    def isStillActive(self):
         return True
     
