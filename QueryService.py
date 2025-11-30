@@ -60,9 +60,11 @@ class SearchService(Service):
     def __init__(self, embed_model_name =  "Qwen/Qwen3-Embedding-0.6B",
                        reranker_model_name = "Qwen/Qwen3-Reranker-0.6B",
                        query_model_name = "Qwen/Qwen3-4B-Instruct-2507-FP8",
-                       device_map = "cuda:0"):
+                       device_map = "cuda:0",
+                       console_verbose=False):
         
         self.processing_queue = Queue()
+        self.console_verbose = console_verbose
         # embedding initialization
         self.embed_model_name = embed_model_name
         self.db = chroma.ChromaDB("documents", "cosine", self.embed_model_name )
@@ -121,8 +123,62 @@ class SearchService(Service):
             query_texts = content,
             n_results = n_results
         )
-        print(content)
         return results, content
+    
+    # generate search query from document, search collection and return results
+    def collectionQueryMultiprompt(self, document_text, n_results=10):
+        results = {}
+        for query_prompt in prompts.QUERY_PROMPTS:
+            messages = [
+                {"role": "system", "content": prompts.QUERY_INSTRUCTIONS},
+                {"role": "user", "content": query_prompt.format(proposal_txt=document_text)}
+            ]
+            text = self.llm_tokenizer.apply_chat_template(
+                messages,
+                tokenize=False,
+                add_generation_prompt=True,
+            )
+            model_inputs = self.llm_tokenizer([text], return_tensors="pt").to(self.llm_model.device)
+
+            generated_ids = self.llm_model.generate(
+                **model_inputs,
+                max_new_tokens=256
+            )
+            output_ids = generated_ids[0][len(model_inputs.input_ids[0]):].tolist() 
+            content = self.llm_tokenizer.decode(output_ids, skip_special_tokens=True)
+            query_results = self.db.collection.query(
+                query_texts = content,
+                n_results = n_results
+            )
+            for k in query_results.keys():
+                if type(query_results[k]) is type([]) and type(query_results[k][0]) is type([]):
+                    results[k] = results.get(k, []) + query_results[k][0]
+        messages = [
+            {"role": "system", "content": prompts.QUERY_INSTRUCTIONS},
+            {"role": "user", "content": prompts.QUERY_RERANKPROMPT.format(proposal_txt=document_text)}
+        ]
+        text = self.llm_tokenizer.apply_chat_template(
+            messages,
+            tokenize=False,
+            add_generation_prompt=True,
+        )
+        model_inputs = self.llm_tokenizer([text], return_tensors="pt").to(self.llm_model.device)
+
+        generated_ids = self.llm_model.generate(
+            **model_inputs,
+            max_new_tokens=256
+        )
+        output_ids = generated_ids[0][len(model_inputs.input_ids[0]):].tolist() 
+        content = self.llm_tokenizer.decode(output_ids, skip_special_tokens=True)
+        # deduplicate results in case of multiple hits
+        dedup_results = {}
+        for r_idx in range(len(results['ids'])):
+            if results['ids'][r_idx] not in dedup_results.get('ids',[]):
+                for k in results.keys():
+                    dedup_results[k] = dedup_results.get(k,[])+ [results[k][r_idx]]
+        if self.console_verbose:
+            print("de-duplicated search results size: ",len(dedup_results['ids']))
+        return dedup_results, content
     
     def rerankFormatInstruction(self, query, regulation):
         instruction = prompts.RERANK_INSTRUCTION
@@ -149,11 +205,11 @@ class SearchService(Service):
     # and re-rank them with the search query
     # return sorted list of scores and regulations
     def rerankResults(self, search_query, reg_results):
-        pbar = tqdm.tqdm(total = len(reg_results['documents'][0]), desc="Re-Ranking Regulations")
+        pbar = tqdm.tqdm(total = len(reg_results['documents']), desc="Re-Ranking Regulations")
         rr_scores = [
             self.rerankComputeLogits(
                 self.rerankFormatInstruction(search_query, reg),pbar
-            ) for reg in reg_results['documents'][0]
+            ) for reg in reg_results['documents']
         ]
         pbar.close()
         rr_scores = np.array([score[0] for score in rr_scores]) # flatten
@@ -161,13 +217,15 @@ class SearchService(Service):
         for idx in np.argsort(rr_scores)[::-1]:
             sorted_scores.append(rr_scores[idx])
             sorted_reg = {
-                'ids':reg_results['ids'][0][idx],
-                'document':reg_results['ids'][0][idx],
-                'metadata':reg_results['metadatas'][0][idx]
+                'ids':reg_results['ids'][idx],
+                'document':reg_results['ids'][idx],
+                'metadata':reg_results['metadatas'][idx]
             }
             sorted_regs.append(sorted_reg)
-        for sc,scr in zip(sorted_scores, sorted_regs):
-            print(sc,scr['metadata']['act'],">",scr['metadata']['title'])
+        if self.console_verbose:
+            print("re-ranked dedup findings")
+            for sc,scr in zip(sorted_scores, sorted_regs):
+                print(scr['metadata']['act'],">",scr['metadata']['title'])
         return sorted_scores, sorted_regs
     
     def replace_strs(self,txt):
@@ -225,17 +283,31 @@ class SearchService(Service):
                 'notes': ld_res['notes'],
                 'intermediate_summary':summ_txt
             })
-            print(outputs_final[-1]['title'])
-            print(outputs_final[-1]['link'])
-            print(outputs_final[-1]['applicable'],outputs_final[-1]['violation'])
-            print(outputs_final[-1]['intermediate_summary'])
-            print(outputs_final[-1]['notes'])
             
             pbar.update(1)
         
         pbar.close()
-        
-        return outputs
+        if self.console_verbose:
+            print("Applicable:")
+            for o in outputs_final:
+                if o['applicable'] == "true":
+                    print(o['title'])
+                    print(o['link'])
+                    print(o['applicable'],o['violation'])
+                    #print(o['intermediate_summary'])
+                    print(o['notes'])
+                    print("~"*15)
+            print("~"*15 + "\n" + "~"*15)
+            print("Not Applicable:")
+            for o in outputs_final:
+                if o['applicable'] == "false":
+                    print(o['title'])
+                    print(o['link'])
+                    print(o['applicable'],o['violation'])
+                    #print(o['intermediate_summary'])
+                    print(o['notes'])
+                    print("~"*15)
+        return outputs_final
         
     
     def processQueue(self, retMon):
@@ -243,7 +315,7 @@ class SearchService(Service):
             data = self.processing_queue.get() # pop next off the queue
             torch.manual_seed(1337)
             retMon.updateQIDState(data['qid'], QueryState.PROCESSING_EMBEDDING) # alert QueryCoordinator
-            regulations,prop_summ = self.collectionQuery(data['data'])
+            regulations,prop_summ = self.collectionQueryMultiprompt(data['data'])
             
             retMon.updateQIDState(data['qid'], QueryState.PROCESSING_RERANKING) 
             scores_rr, regulations_rr = self.rerankResults(prop_summ,regulations)

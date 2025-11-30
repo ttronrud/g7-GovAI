@@ -1,8 +1,28 @@
 QUERY_INSTRUCTIONS = "You are a helpful government assistant." 
-QUERY_PROMPT = """Read the following proposal and come up with a very short query that can be used to ask another model what applicable regulations should be looked up based on the combination of proposal details, industry, and location.
+QUERY_PROMPTS = ["""Read the following proposal and come up with a very short search query that can be used to search for applicable regulations based on industry of the proposal.
 # Start of Proposal
 {proposal_txt}
 # End of Proposal
+Only output the query without quotation marks.
+""",
+"""Read the following proposal and come up with a very short search query that can be used to search for applicable regulations based on location of the proposal.
+# Start of Proposal
+{proposal_txt}
+# End of Proposal
+Only output the query without quotation marks.
+""",
+"""Read the following proposal and come up with a very short search query that can be used to search for applicable regulations based on type of and details within the proposal.
+# Start of Proposal
+{proposal_txt}
+# End of Proposal
+Only output the query without quotation marks.
+""",
+]
+QUERY_RERANKPROMPT = """Read the following proposal and come up with a very short precise search query that can be used to search for applicable regulations based on type of and details within the proposal, including its location and industry.
+# Start of Proposal
+{proposal_txt}
+# End of Proposal
+Only output the query without quotation marks.
 """
 
 #RERANK_INSTRUCTION = 'Given a web search query, retrieve relevant passages that answer the query'

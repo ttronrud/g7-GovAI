@@ -53,7 +53,7 @@ if __name__ == "__main__":
     logging.info("MAIN::Logging Initialized successfully")
     
     QueryCoordinator.get_instance()
-    service = SearchService()
+    service = SearchService(console_verbose=True)
     QueryCoordinator.get_instance().addService(service)
     
     HOST = "localhost"
