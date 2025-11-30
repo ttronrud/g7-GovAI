@@ -41,7 +41,7 @@ SUMMARY_PROMPT = """Your job is to summarize the relevant aspects of a specific 
 {reg_txt}
 # End of Regulation
 
-Extract the potentially relevant aspects of the regulation based on the proposal and briefly summarize them as compactly as possible. Do not make a determination on whether the proposal meets the regulations or not. Include whether the location(s) specified in the proposal fall under the jurisdiction of the regulation. Regulations can exist to exempt locations from other regulations. Include whether the specific industry targeted by the regulation matches the proposal. Reason and respond succinctly.
+Extract the potentially relevant aspects of the regulation based on the proposal and briefly summarize them as compactly as possible. Do not make a determination on whether the proposal meets the regulations or not. Include whether the location(s) specified in the proposal fall under the jurisdiction of the regulation. Remember that certain regulations exempt locations from other regulations, but that would make the exemption applicable. Include whether the specific industry targeted by the regulation matches the proposal. Reason and respond succinctly.
 """
 OUTPUT_JSON_FORMAT = "{'applicable':[true/false/uncertain], 'violation':[true/false/uncertain], 'notes':[additional information and context regarding applicability and violation status]}"
 

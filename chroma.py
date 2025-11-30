@@ -13,8 +13,9 @@ class MyEmbeddingFunction(EmbeddingFunction):
         model_name,
         device="cuda" if torch.cuda.is_available() else "cpu"
         )
+        self.model.max_seq_length = 2048
     def __call__ (self, input: Documents) -> Embeddings:
-        embeddings = self.model.encode(input)
+        embeddings = self.model.encode(input, max_length=2048)
         return embeddings
         
 class ChromaDB():
@@ -198,7 +199,14 @@ class ChromaDB():
             ids=ids,
             documents=docs,
             metadatas=act_metadatas
-    )
+        )
+        #for idx in trange(0,len(ids)):
+        #    print(len(docs[idx]))
+        #    self.collection.add(
+        #            ids=[ids[idx]],
+        #            documents=[docs[idx]],
+        #            metadatas=[act_metadatas[idx]]
+        #)
 
     def addActLinks(self, folder, parser):
         for root, dirs, files in tqdm(os.walk(folder)):

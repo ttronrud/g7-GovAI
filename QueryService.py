@@ -126,7 +126,7 @@ class SearchService(Service):
         return results, content
     
     # generate search query from document, search collection and return results
-    def collectionQueryMultiprompt(self, document_text, n_results=10):
+    def collectionQueryMultiprompt(self, document_text, n_results=25):
         results = {}
         for query_prompt in prompts.QUERY_PROMPTS:
             messages = [
