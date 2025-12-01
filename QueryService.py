@@ -126,7 +126,7 @@ class SearchService(Service):
         return results, content
     
     # generate search query from document, search collection and return results
-    def collectionQueryMultiprompt(self, document_text, n_results=25):
+    def collectionQueryMultiprompt(self, document_text, n_results=10):
         results = {}
         for query_prompt in prompts.QUERY_PROMPTS:
             messages = [
@@ -180,6 +180,37 @@ class SearchService(Service):
             print("de-duplicated search results size: ",len(dedup_results['ids']))
         return dedup_results, content
     
+    def getMultihitActsFromResults(self, dedup_results, min_hits = 3):
+        acts_hits = {}
+        for res_md in dedup_results['metadatas']:
+            res_act = res_md['act']
+            acts_hits[res_act] = acts_hits.get(res_act,0) + 1
+        acts = []
+        for act in acts_hits.keys():
+            if act != "N/A" and act != "NO ACT" and acts_hits[act] >= min_hits:
+                    acts.append(act)
+        print(acts)
+        return acts
+    
+    def getRegulationsFromActs(self, acts, regulations):
+        all_act_regulations = self.db.collection.get(
+            where={
+                "act": {"$in":acts}
+            }
+        )
+        for nu_idx in range(len(all_act_regulations['ids'])):
+            if all_act_regulations['ids'][nu_idx] in regulations['ids']:
+                continue
+            for k in regulations.keys():
+                if k in all_act_regulations.keys():
+                    regulations[k].append(all_act_regulations[k][nu_idx])
+                else:
+                    regulations[k].append(0.0) # distances
+        for ridx in range(len(regulations['ids'])):
+            print(regulations['metadatas'][ridx]['act'],">",regulations['ids'][ridx],">",regulations['metadatas'][ridx]['title'])
+        return regulations
+            
+    
     def rerankFormatInstruction(self, query, regulation):
         instruction = prompts.RERANK_INSTRUCTION
         output = prompts.RERANK_PROMPT.format(instruction=instruction,query=query, doc=regulation)
@@ -204,7 +235,7 @@ class SearchService(Service):
     # take list of regulations from search step 0,
     # and re-rank them with the search query
     # return sorted list of scores and regulations
-    def rerankResults(self, search_query, reg_results):
+    def rerankResults(self, search_query, reg_results, cutoff_percentile = 50, override_score = 0.1):
         pbar = tqdm.tqdm(total = len(reg_results['documents']), desc="Re-Ranking Regulations")
         rr_scores = [
             self.rerankComputeLogits(
@@ -214,7 +245,11 @@ class SearchService(Service):
         pbar.close()
         rr_scores = np.array([score[0] for score in rr_scores]) # flatten
         sorted_scores, sorted_regs = [],[]
+        cutoff_score = min(override_score, np.percentile(rr_scores,cutoff_percentile))
+        print("reranking cutoff selected:",cutoff_score)
         for idx in np.argsort(rr_scores)[::-1]:
+            if rr_scores[idx] < cutoff_score:
+                break # we're done
             sorted_scores.append(rr_scores[idx])
             sorted_reg = {
                 'ids':reg_results['ids'][idx],
@@ -317,8 +352,11 @@ class SearchService(Service):
             retMon.updateQIDState(data['qid'], QueryState.PROCESSING_EMBEDDING) # alert QueryCoordinator
             regulations,prop_summ = self.collectionQueryMultiprompt(data['data'])
             
+            acts_of_interest = self.getMultihitActsFromResults(regulations)
+            expanded_regs = self.getRegulationsFromActs(acts_of_interest, regulations)
+            
             retMon.updateQIDState(data['qid'], QueryState.PROCESSING_RERANKING) 
-            scores_rr, regulations_rr = self.rerankResults(prop_summ,regulations)
+            scores_rr, regulations_rr = self.rerankResults(prop_summ,expanded_regs)
             
             retMon.updateQIDState(data['qid'], QueryState.PROCESSING_OUTPUT)
             outputs = self.finalPassResults(data['data'], regulations_rr)
