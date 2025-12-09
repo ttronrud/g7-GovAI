@@ -1,0 +1,189 @@
+**Detailed Summary of the Lighters Regulations (S.C. 2010, c. 21)**
+
+---
+
+### **Overview**
+
+The *Lighters Regulations*, made under **section 37 of the Canada Consumer Product Safety Act (CCPSA)**, establish comprehensive safety standards for lighters sold in Canada. These regulations aim to **prevent injuries, particularly to children**, by ensuring that lighters are designed with child-resistant features, operate safely under various conditions, and are clearly labeled with necessary warnings and instructions.
+
+The regulations apply to all lighters sold or imported into Canada, with special provisions for **luxury lighters** (refillable, higher-value lighters) and **different types of fuel** (gas vs. wick).
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **CFR** | Title 16 of the U.S. Code of Federal Regulations, revised as of January 1, 2004. Used as a reference for testing standards. |
+| **Gas lighter** | A lighter using liquid hydrocarbons (e.g., n-butane, isobutane) with a vapor pressure at 24°C > 100 kPa. |
+| **Lighter** | Any device with a fuel reservoir and an integral ignition system used for domestic purposes or to ignite tobacco. |
+| **Luxury lighter** | A refillable lighter (not a utility lighter) that has a value of **over $2.50** at time of sale (if made in Canada) or **over $2.50 in duty value** (if imported). |
+| **Production lot** | A group of substantially identical lighters manufactured under the same conditions by the same manufacturer. |
+| **Shield** | A structure that surrounds the fuel orifice and extends beyond it. |
+| **Surrogate lighter** | A test device that mimics the appearance, size, weight, and child-resistance characteristics of the actual lighter—contains no fuel and produces a sound or light instead of a flame. |
+| **Utility lighter** | A lighter that is **100 mm or longer** when fully extended. |
+| **Wick lighter** | A lighter using fuels like hexane with vapor pressure at 24°C ≤ 34 kPa. |
+
+---
+
+## **Child Resistance Requirements**
+
+### **General Rule**
+- **All lighters except luxury lighters must be child-resistant.**
+
+### **Child Resistance Test Protocol**
+A lighter is considered child-resistant **if its surrogate lighter** passes one of the following tests and **at least 85% of children** in the test **cannot operate it**:
+
+- **Utility lighters**: Test per **CFR section 1212.4**, *excluding* subsections (a)(3) and (b)(1).
+- **All other lighters**: Test per **CFR section 1210.4**, *excluding* subsections (a)(3) and (b)(1).
+
+> These tests simulate how easily a child (typically aged 3–6 years) could ignite the lighter.
+
+### **Requirements for Child-Resistant Mechanisms**
+The child-resistant mechanism must:
+1. **Reset automatically** after each ignition attempt.
+2. For **gas lighters**, continue to function effectively after testing in **sections 5–9 of the schedule**.
+3. For **wick lighters**, continue to function effectively after testing in **sections 11 and 12 of the schedule**.
+
+---
+
+## **Flame Height and Operation Requirements**
+
+### **Gas Lighters – Flame Height Limits**
+- **No shield, no flame height adjustment**: Max **50 mm** vertical flame height.
+- **With shield, no flame height adjustment**: Max **100 mm**.
+- **With flame height adjustment**:
+  - **Maximum flame height**: 120 mm
+  - **Minimum flame height**: 50 mm
+- **After extinguishing**: Flame must **not reappear for more than 2 seconds**.
+
+### **Prohibited Flame Behaviors**
+During testing (sections 5–10), gas lighters must **not exhibit**:
+- A sudden increase in flame height of **50 mm or more**
+- Vertical flame height exceeding the maximum limits
+- Explosion
+- Combustion outside the fuel orifice or main flame
+- Escape of liquid fuel causing a shower of burning droplets
+- Any other unsafe or abnormal burning behavior
+
+### **Durability and Safety During Testing**
+- Must not show **damage** that would make operation unsafe.
+- During **section 8 (drop test)**: No fuel escape exceeding **15 mg/min**.
+- During **section 9 (temperature test)**: No total fuel exhaustion after cooling period.
+- During **section 10 (pressure test)**: No drop in internal pressure exceeding **250 kPa/min**.
+
+### **Extended Operation Test (Section 7)**
+During a **2-minute continuous burn**:
+- Must not ignite component parts
+- Must not expel the valve mechanism
+- Must not rupture the fuel reservoir (with or without flame)
+
+---
+
+## **Wick Lighter Requirements**
+
+### **Burn Test (Sections 11 & 12)**
+- Must not exhibit:
+  - Sudden flame increase of **50 mm or more**
+  - Explosion
+  - Combustion outside the wick
+  - Any other unsafe burning behavior
+
+### **Drop Test (Section 12)**
+- Must not suffer:
+  - Rupture of fuel reservoir
+  - Any damage that would make operation unsafe
+
+---
+
+## **Labeling and Marking Requirements**
+
+### **Mandatory Permanent Markings**
+Every lighter must have:
+- **Manufacturer’s name** (in Roman letters, Arabic numerals, or combination)
+- **Trademark** registered in Canada or pending application
+
+> Markings must remain **clear and visible throughout the lighter’s useful life**.
+
+### **Production Lot Identification**
+If multiple production lots are offered for sale, each lighter must have a **clear and visible identification** of its lot.
+
+### **Business Information**
+- If **manufactured in Canada**: Must show manufacturer or distributor’s **principal place of business**.
+- If **imported**: Must show **importer or distributor’s name and principal place of business in Canada**.
+
+> Applies **only if not a luxury lighter** (see exception below).
+
+### **Child Safety Warning**
+All lighters must carry the warning:
+> **"KEEP OUT OF REACH OF CHILDREN / TENIR HORS DE LA PORTÉE DES ENFANTS"**  
+(or any equivalent warning conveying the same meaning)
+
+### **Flame Adjustment Symbols**
+Every lighter with a flame height adjustment mechanism must have a **clear, easily understood symbol** indicating:
+- Direction to increase flame height
+- Direction to decrease flame height
+
+---
+
+## **Refillable Lighters – Specific Requirements**
+
+- Must include a **clear, legible warning** (in English and French) to:
+  > Keep lighters and their fuels out of children’s reach.
+
+- Must include **safe refuelling instructions** (in English and French), including:
+  - Type of fuel to use (and warning: **only use the correct fuel**)
+  - For **gas lighters**: Warning about proper mating between refill container and fuel reservoir
+  - For **wick lighters**: Warning to:
+    - Fill slowly
+    - Avoid overfilling
+    - Wipe the lighter and hands dry before use
+
+---
+
+## **Documentation and Compliance Obligations**
+
+### **Manufacturers/Importers of Non-Luxury Lighters**
+Must:
+1. Possess and maintain a **certificate** stating:
+   - That the **surrogate lighter passed child resistance tests** (as per CFR 1210.4 or 1212.4)
+   - Includes:
+     - Name and address of certificate issuer
+     - Name and address of manufacturer
+     - Name and model of the lighter
+2. Keep a **copy of the certificate for 3 years** after manufacture or importation.
+3. Within **15 days of an inspector’s request**, provide:
+   - Full test data (including CFR sections 1210.4(g)(1)–(10) or 1212.4(g)(1)–(10))
+   - Name and model of the lighter
+
+### **Manufacturers/Importers of Luxury Lighters**
+Must:
+- Prepare and maintain **records identifying the lighter** that include:
+  - **Value at time of sale** (if manufactured in Canada)
+  - **Duty value** (if imported), determined under **sections 47–55 of the Customs Act)
+- Keep these records for **6 years** after sale or importation.
+
+---
+
+## **Testing Requirements**
+
+### **Pre-Testing Conditions**
+- Lighters must be:
+  - **Maintained at 23 ± 2°C for at least 10 hours** before testing
+  - **Tested in a draft-free chamber** with subdued lighting (for flame tests)
+  - Positioned to produce a **vertically upward flame**
+  - Flame height measured to the **nearest 5 mm**
+
+### **Test Procedures**
+
+#### **Gas Lighter Flame Height Test (Section 5–6)**
+1. Activate for **5 seconds** to produce flame.
+2. Measure maximum flame height:
+   - **No shield**: from flame tip to top of orifice
+   - **With shield**: from flame tip to top of shield (or fully withdrawn position)
+3. Take normal extinguishing action
+4. Record duration of any re-ignition after extinguishing
+5. If adjustable: Repeat at **maximum and minimum flame heights**
+
+#### **Inversion Test (Section 8)**
+- Adjust flame to **50

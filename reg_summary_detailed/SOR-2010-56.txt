@@ -1,0 +1,186 @@
+### **Detailed Summary of the *Declarations Regulations (Chemical Weapons Convention)***
+
+This regulation, made under **section 11a and 18 of the *Chemical Weapons Convention Implementation Act*** by Her Excellency the Governor General in Council on the recommendation of the Minister of Foreign Affairs, establishes a comprehensive reporting and declaration framework for activities involving **toxic chemicals and precursors** listed in the Chemical Weapons Convention (CWC). The primary objective is to ensure **transparency, accountability, and compliance** with international obligations under the CWC by requiring detailed disclosures from individuals and entities that handle or produce certain chemicals — particularly those with potential use in chemical weapons.
+
+The regulation is structured into several key parts, each targeting different types of facilities and activities, and is designed to cover both **existing operations** and **future activities**. Below is a detailed breakdown of its provisions:
+
+---
+
+## **I. Definitions**
+
+The regulation begins with a clear set of definitions that establish key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Chemical Weapons Convention Implementation Act* (CWCIA). |
+| **CAS Registry Number** | A unique identification number assigned by the *Chemical Abstracts Service* (American Chemical Society) to a chemical substance. Used for precise identification when available. |
+| **Contact Information** | Includes address, telephone number, fax number (if applicable), and email address. |
+| **Discrete Organic Chemical** | Any carbon-based compound **excluding** carbon monoxide, CO₂, carbon disulfide, carbonyl sulfide, and metal carbonates. Excludes **oligomers, polymers**, and chemicals containing only carbon and metal. |
+| **PSF Chemical** | A discrete organic chemical containing **phosphorus, sulfur, or fluorine** — a category of concern due to potential use in chemical warfare agents. |
+| **Schedule 1 Chemical** | Toxic chemicals or precursors listed in **Schedule 1** of the CWC Annex on Chemicals. These are the most strictly regulated due to their direct link to chemical weapon production. |
+| **Schedule 2 Chemical** | Toxic chemicals or precursors listed in **Schedule 2**. Less restricted than Schedule 1 but still subject to reporting thresholds. |
+| **Schedule 3 Chemical** | Toxic chemicals or precursors listed in **Schedule 3** — generally less sensitive but still monitored. |
+| **Single Small-Scale Facility** | A specific facility defined in the *Schedule 1 Chemicals Regulations* (CWCIA), intended to allow small-scale, legitimate uses (e.g., medical or protective purposes) of Schedule 1 chemicals. |
+| **Other Facility** | Any plant or site **other than** the single small-scale facility where Schedule 1 chemical activities occur. |
+
+> **Note**: Unless otherwise specified, all terms used in the regulations have the same meaning as in the CWC itself.
+
+---
+
+## **II. Electronic Submission**
+
+- All notices and declarations may be submitted **electronically**, providing flexibility and efficiency in reporting.
+
+---
+
+## **III. Scope of Application**
+
+- This regulation applies to **any activity authorized under the Schedule 1 Chemicals Regulations (CWCIA)**.
+- It applies to both **existing operations** and **planned future activities** at:
+  - The **single small-scale facility**
+  - **Other facilities** (i.e., larger or different types of sites)
+
+---
+
+## **IV. Initial Declarations (Mandatory Within 90 Days of Coming Into Force)**
+
+Any person operating at the **single small-scale facility** or an **other facility** under an authorization under subsection **8(1)** of the Act must submit an **initial declaration** within **90 days** of the regulation’s coming into force.
+
+### **Required Information in Initial Declaration:**
+
+| Item | Details |
+|------|--------|
+| **Name & Contact Info** | Full name and contact details (address, phone, email) of the declarant |
+| **Authorized Representative** | Name, position, and contact info (if applicable, for corporations) |
+| **Facility Details** | Name and address; if no address, a precise location description |
+| **Technical Description** | Detailed description including equipment inventory and diagrams |
+
+> This ensures that the National Authority has a full understanding of the physical setup and capabilities of the facility.
+
+---
+
+## **V. Notification of Changes to Information**
+
+Declarants must notify the National Authority in writing of any changes to declared information:
+
+| Change Type | Notification Deadline |
+|-----------|------------------------|
+| **Name, contact info, facility address/location** | Within **7 days** of change |
+| **Technical description (equipment, diagrams)** or **purpose of operation** | At least **200 days before** the change occurs |
+
+> This allows sufficient time for planning and regulatory review while maintaining timely updates.
+
+---
+
+## **VI. Annual Declarations (By Calendar Year)**
+
+### **1. Annual Declaration of Actual Activities (Due by February 28 of the Following Year)**
+
+Any person conducting activities at a single small-scale or other facility must submit an **annual declaration** detailing the year’s activities.
+
+#### Required Information:
+- Declarant and representative details
+- Facility name and location
+- For each **Schedule 1 chemical**:
+  - IUPAC name and CAS number (or structural formula if no CAS)
+  - Quantity **produced** (and production methods if for protective purposes)
+  - Quantity **consumed** and **purpose of consumption**
+  - Quantity **received or shipped** (with origin/destination, purpose)
+  - **Maximum storage** at any time during the year
+  - **Final storage quantity** at year-end
+- For each **precursor** (from Schedules 1, 2, or 3) used in Schedule 1 chemical production:
+  - IUPAC name and CAS number (or structural formula)
+  - Quantity consumed
+- Any **changes** to the facility’s technical description
+- If activities cease, the **date of cessation**
+
+> This provides a comprehensive audit trail of chemical flows and usage.
+
+---
+
+### **2. Anticipated Annual Declaration (Due by September 15 of the Current Year)**
+
+Any person **anticipating** activities in the coming calendar year must submit an **advance declaration**.
+
+#### Required Information:
+- Declarant and representative details
+- Facility name and location
+- For each Schedule 1 chemical:
+  - IUPAC name and CAS number (or structural formula)
+  - **Anticipated quantity produced** and **purpose**
+  - For other facilities: **Quarterly production timeline** (e.g., Q1, Q2)
+- Anticipated changes to facility operations or technical setup
+
+> This allows the National Authority to anticipate and assess risks before activities begin.
+
+---
+
+## **VII. Export/Import Notifications and Declarations**
+
+### **1. Pre-Export/Import Notification (Minimum 45 Days Before)**
+
+Any person planning to **export or import** a Schedule 1 chemical under authorization in subsection **8(2)** of the Act must:
+
+- Submit a written notification to the National Authority **at least 45 days before** the export/import
+- Include:
+  - Declarant and contact details
+  - IUPAC name and CAS number (or structural formula)
+  - Quantity (in grams or kilograms)
+  - Country of destination or origin
+  - Name and address of the facility in that country
+  - Purpose of export/import
+  - Date of export/import
+
+> This ensures transparency in international chemical movement.
+
+---
+
+### **2. Post-Export/Import Annual Declaration (Due by February 28 of Following Year)**
+
+After any calendar year of export/import, a full annual declaration must be submitted with:
+
+- Declarant and representative details
+- IUPAC name and CAS number
+- Quantity exported or imported
+- Country of destination or origin
+- Facility name and address
+- Purpose of movement
+- Date of movement
+
+> Provides a complete record of international flows for audit and compliance.
+
+---
+
+## **VIII. Reporting Requirements for Schedule 2 Chemicals (Plant Sites)**
+
+This section applies to **plant sites** (one or more plants) where **activities involving Schedule 2 chemicals** exceed specific thresholds **during a calendar year**, excluding export/import.
+
+### **Thresholds for Triggering Reporting:**
+
+| Chemical Type | Threshold |
+|-------------|----------|
+| **Schedule 2 chemicals marked with * in Part A** | **100 grams** (except if <0.5% of mixture weight) |
+| **Other Schedule 2 chemicals in Part A** | **10 kg** (except if <0.5% of mixture) |
+| **Schedule 2 chemicals in Part B** | **100 kg** (except if <10% of mixture) |
+
+> **Clarification**: The thresholds apply only to the **weight of the chemical in the mixture**, not the total mixture weight.
+
+---
+
+### **Initial Declaration (Mandatory Within 90 Days of Regulation’s Coming Into Force)**
+
+Any person who during the period **January 1, 1994 – one year before regulation came into force** carried out activities (non-export/import) with Schedule 2 chemicals must submit an initial declaration within 90 days.
+
+#### Required Information:
+- Declarant and representative details
+- For each **plant site**:
+  - Name, address, precise location
+  - Owner or operator
+  - Number of plants within the site (if any)
+- For each **plant** within the site:
+  - Name, location, building number
+  - Owner/operator
+  - Main activities
+  - Whether it produces, processes, or consumes Schedule 2 chemicals
+  - Whether it is dedicated or multi-purpose
+  - Whether it carries out other Schedule 2 chemical activities (and details

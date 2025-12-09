@@ -1,0 +1,201 @@
+**Detailed Summary of the Tobacco Charges Regulations (S.C. 2024, c. 15, s. 217)**
+
+---
+
+### **Overview**
+
+The *Tobacco Charges Regulations* are a set of administrative rules made under **subsection 42.1(1)a of the Tobacco and Vaping Products Act (TVPA)**. These regulations establish a system by which **designated manufacturers of tobacco products in Canada** are required to pay an **annual charge** to the federal government. This charge is based on their **net sales revenue** and is intended to recover the **annual cost base** of implementing and enforcing the TVPA — including regulatory, monitoring, and enforcement activities related to tobacco control.
+
+The regulations were issued on **March 3, 2025**, and come into force on **May 1, 2025**, with certain provisions (specifically Section 9) taking effect on **April 1, 2028**.
+
+---
+
+## **Key Provisions and Components**
+
+---
+
+### **1. Definitions**
+
+The regulations define key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Annual Charge** | The amount a designated manufacturer must pay annually to recover the cost of administering the Tobacco and Vaping Products Act. |
+| **Annual Cost Base** | The total cost incurred by the Government of Canada during a fiscal year in carrying out the purposes of the TVPA (e.g., enforcement, compliance, public health initiatives). |
+| **Cigar** | A roll or tubular tobacco product intended for smoking, with a filler and wrapper/binder made from natural or reconstituted tobacco. Excludes little cigars. |
+| **Cigarette** | Any roll or tubular tobacco product intended for smoking, excluding cigars, little cigars, tobacco sticks, or bidis. |
+| **Civic Address** | A complete address (unit, number, street, municipality, province/state, postal code, and country) for use in Canada or abroad. |
+| **Designated Manufacturer** | An entity that **manufactures or imports** tobacco products for retail sale in Canada. Excludes entities that only package, label, or distribute. |
+| **Fiscal Year** | April 1 to March 31 of the following year. |
+| **Heated Tobacco Product** | A product that requires a device to heat tobacco for consumption. |
+| **Net Sales Revenue** | Total revenue from sales of tobacco products (excluding taxes) minus returns. Includes monetary and non-monetary consideration. |
+| **Smokeless Tobacco** | Chewing tobacco or snuff. |
+| **Tobacco Product** | Does **not** include papers, tubes, filters, or device components. |
+
+---
+
+### **2. Scope of Application**
+
+The regulations apply to designated manufacturers in the following situations:
+
+- Sales of tobacco products **at retail in Canada**;
+- Sales as **ships’ stores**, as governed by the *Ships’ Stores Regulations*;
+- Sales to an **accredited representative** under the *Excise Act, 2001* (e.g., authorized agents or distributors).
+
+---
+
+### **3. Submission of Statement of Sales and Revenue**
+
+**Deadline:**  
+Designated manufacturers must submit a **Statement of Sales and Revenue** to the Minister **no later than April 30** of each fiscal year.
+
+#### Required Information in the Statement:
+
+1. **Basic Contact Details:**
+   - Name, phone, email, and civic address of:
+     - The manufacturer’s principal place of business;
+     - The individual who prepared the statement;
+     - The individual responsible for financial affairs (including employer if different);
+     - The individual responsible for payment-related communications.
+
+2. **Business Number:**  
+   The Business Number assigned by the Minister of National Revenue.
+
+3. **Date and Fiscal Year:**  
+   Date of submission and the fiscal year it covers.
+
+4. **Net Sales Revenue by Category:**  
+   Must be broken down by product type:
+   - Cigarettes
+   - Cigars
+   - Little cigars
+   - Cigarette tobacco
+   - Leaf tobacco
+   - Pipe tobacco
+   - Water pipe tobacco
+   - Smokeless tobacco
+   - Heated tobacco products
+   - All other tobacco products
+
+5. **Per-Category Data (for weighted or unit sales):**
+   - For **weight-based sales**:
+     - Total weight sold (kg) minus weight returned.
+   - For **unit/package sales**:
+     - Total units sold minus units returned.
+   - For **excise duties**:
+     - Total value of excise duty paid on sales minus duty on returns.
+
+#### Required Attestations:
+- **Attestation by the preparer**: The information is correct, complete, and provided in good faith.
+- **Attestation by financial officer**: The statement was prepared in accordance with **generally accepted accounting principles (GAAP)**.
+
+#### Submission Method:
+- Must be submitted **electronically** using the official form titled *Statement of Tobacco Sales and Revenue*, as amended from time to time.
+
+---
+
+### **4. Response to Requests for Clarification**
+
+- A designated manufacturer must provide **any necessary information** to clarify the statement **within 10 days** of a request from the Minister.
+
+---
+
+### **5. Estimation of Net Sales Revenue**
+
+If:
+- A statement is **not submitted**, or
+- The Minister has **reasonable grounds** to believe the information is **incorrect or incomplete**,
+
+The Minister may **estimate** the manufacturer’s net sales revenue using available data.
+
+> **Note**: Any reference to "total net sales revenue" in the regulations when an estimate is used will be interpreted as referring to the **estimated** revenue.
+
+---
+
+### **6. Calculation of the Annual Charge**
+
+The annual charge is calculated using the following formula:
+
+\[
+\text{Annual Charge} = \left( \frac{\text{Manufacturer's Net Sales Revenue}}{\text{Aggregate Net Sales Revenue of All Designated Manufacturers}} \right) \times \text{Annual Cost Base}
+\]
+
+Where:
+- **Manufacturer's Net Sales Revenue** = Revenue from sales in the prior fiscal year.
+- **Aggregate Net Sales Revenue** = Sum of all designated manufacturers’ net sales revenue.
+- **Annual Cost Base** = Total government costs incurred during that fiscal year for TVPA operations.
+
+#### Special Provisions for Corrections:
+
+- If the Minister becomes aware that a manufacturer **was not previously charged** but should have been:
+  - The Minister must calculate the charge using the formula above.
+
+- If new information leads the Minister to believe a prior charge was **inaccurate**:
+  - Recalculate the charge using the new data.
+  - **Subtract** the previously calculated charge from the new one.
+  - **Only applies if less than 7 years have passed** since November 30 of the fiscal year to which the new information relates.
+
+> This ensures that corrections are not retroactively applied after a long period.
+
+---
+
+### **7. Payment of the Annual Charge**
+
+A designated manufacturer must pay the annual charge **no later than November 30** of each fiscal year, under the following conditions:
+
+#### Case A: Payment Required (when sales revenue meets threshold)
+- If the manufacturer’s net sales revenue was **at least 0.001%** of the total aggregate net sales revenue of all manufacturers:
+  - Pay the **calculated annual charge**.
+
+#### Case B: Recalculated Charge (after correction)
+- If the charge was **recalculated** (due to new information):
+  - **If the previous charge was higher**:
+    - Pay the **positive difference** (new minus old) **only if** the manufacturer’s sales were ≥0.001% of total.
+  - **If the previous charge was lower**:
+    - Pay the **new recalculated charge** **even if** previous sales were <0.001%, **provided** the new sales are ≥0.001%.
+
+> This ensures that manufacturers with minimal sales are not unfairly burdened unless they now meet the threshold.
+
+#### Case C: Refund (Negative Amount)
+
+- If the **subtraction under correction results in a negative amount** (i.e., the recalculated charge is lower than the old one):
+  - The Minister must **credit** that negative amount to the manufacturer’s account **by November 30** of the fiscal year.
+
+> This acts as a **refund mechanism** for overpayments due to corrections.
+
+---
+
+### **8. Public Disclosure Requirements**
+
+By **November 30 of each fiscal year**, the Minister must make the following information **publicly available**:
+
+1. **Names of manufacturers** who:
+   - Failed to submit a statement, or
+   - Submitted incorrect or incomplete information.
+   - Plus any **measures taken** (e.g., fines, penalties, audits).
+
+2. **Names of manufacturers** who:
+   - Were required to pay an annual charge by November 30 (under paragraph 7(a) or 7(b)(ii)).
+
+3. **Names of manufacturers** who:
+   - Failed to pay the charge by November 30.
+   - Plus any **measures taken** (e.g., enforcement actions, interest, legal proceedings).
+
+> This promotes **transparency**, accountability, and public trust in the regulatory system.
+
+---
+
+### **9. Recordkeeping Obligations**
+
+- Designated manufacturers must **retain all documents** used to prepare the statement and any clarifying information **for at least seven years** after submission.
+- Records must be kept:
+  - In **paper or electronic form**;
+  - At the **principal place of business** in Canada;
+  - **Readily accessible** at all times;
+  - Ready to be **submitted to the Minister upon written request**.
+
+---
+
+### **10. Effective Dates**
+
+- **Sections 

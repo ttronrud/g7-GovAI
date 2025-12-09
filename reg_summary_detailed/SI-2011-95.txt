@@ -1,0 +1,152 @@
+**Detailed Summary of the Regulation:**
+
+**Regulation Title:**  
+Transfer of Control and Supervision of Email, Data Centre and Network Services to Shared Services Canada  
+**Effective Date:** November 15, 2011  
+**Governing Legislation:**  
+Public Service Rearrangement and Transfer of Duties Act (S.C. 2003, c. 22, s. 207; R.S., c. P-34)  
+**Issuing Authority:**  
+His Excellency the Governor General in Council, on the recommendation of the Prime Minister  
+
+---
+
+### **Purpose of the Regulation**
+
+This regulation implements a major restructuring of federal public administration by transferring control and supervision of key IT infrastructure services — specifically, email, data centre operations, and network services — from individual federal departments to **Shared Services Canada (SSC)**. The goal is to enhance efficiency, reduce duplication, improve service delivery, and achieve cost savings through centralized, standardized, and scalable IT operations across the federal government.
+
+---
+
+### **Key Provisions**
+
+#### 1. **Transfer of Functions**
+The following two units are transferred to Shared Services Canada:
+
+- **(a) The Email, Data Centre and Network Services Unit**  
+- **(b) The Email, Data Centre and Network Services Support Unit**
+
+These units were previously responsible for managing and operating core IT services such as:
+- Email systems (including email hosting, security, and user management)
+- Data centre operations (including physical infrastructure, power, cooling, security, and maintenance)
+- Network services (including internal and external connectivity, bandwidth management, and network security)
+
+The transfer involves not only the operational control but also the **supervision** of these services, meaning that SSC will now be accountable for oversight, performance monitoring, and compliance with federal IT standards.
+
+#### 2. **Scope of Departments and Agencies Affected**
+The transfer applies to **all departments and agencies of the federal public administration** listed in the schedule, with one notable exception:
+
+> **Excluded:**  
+> The **Communications Security Establishment (CSE)** and the **Communications Security Establishment Internal Services Unit (CSE-ISU)**  
+> — These units are excluded due to their unique, sensitive, and classified nature, which requires specialized, secure, and compartmentalized operations incompatible with centralized shared services.
+
+**List of Affected Departments and Agencies (Full List):**
+- Atlantic Canada Opportunities Agency  
+- Canada Border Services Agency  
+- Canada Revenue Agency  
+- Canada School of Public Service  
+- Canadian Food Inspection Agency  
+- Canadian International Development Agency  
+- Canadian Northern Economic Development Agency  
+- Canadian Nuclear Safety Commission  
+- Canadian Space Agency  
+- Correctional Service of Canada  
+- Department of Agriculture and Agri-Food  
+- Department of Canadian Heritage  
+- Department of Citizenship and Immigration  
+- Department of Employment and Social Development  
+- Department of the Environment  
+- Department of Finance  
+- Department of Fisheries and Oceans  
+- Department of Foreign Affairs and International Trade  
+- Department of Health  
+- Department of Indian Affairs and Northern Development  
+- Department of Industry  
+- Department of Justice  
+- Department of National Defence (excluding CSE and CSE-ISU)  
+- Department of Natural Resources  
+- Department of Public Safety and Emergency Preparedness  
+- Department of Transport  
+- Department of Veterans Affairs  
+- Department of Western Economic Diversification  
+- Economic Development Agency of Canada for the Regions of Quebec  
+- Federal Economic Development Agency for Southern Ontario  
+- Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)  
+- Immigration and Refugee Board  
+- Library and Archives of Canada  
+- National Research Council of Canada  
+- Office of Infrastructure of Canada  
+- Parks Canada Agency  
+- Privy Council Office  
+- Public Health Agency of Canada  
+- Public Service Commission  
+- Royal Canadian Mounted Police  
+- Statistics Canada  
+- Treasury Board  
+
+> This includes **all 22 federal departments and agencies** listed, with the exception of CSE and CSE-ISU.
+
+---
+
+### **Legal Basis**
+
+The transfer is authorized under **paragraph 2(a)(a)** of the *Public Service Rearrangement and Transfer of Duties Act* (S.C. 2003, c. 22, s. 207; R.S., c. P-34). This provision enables the Governor in Council to transfer functions and duties between federal departments and agencies, particularly those related to administrative, operational, or support services, in the interest of efficiency, cost-effectiveness, and service delivery.
+
+The Act provides the legal framework for reorganizing public services, including the consolidation of shared services such as IT, human resources, finance, and procurement.
+
+---
+
+### **Implications and Objectives**
+
+1. **Centralization of IT Services**  
+   By consolidating email, data centre, and network operations under a single entity (Shared Services Canada), the federal government aims to:
+   - Standardize IT infrastructure across departments
+   - Improve interoperability and system reliability
+   - Reduce redundant investments in separate data centres and email platforms
+
+2. **Cost Efficiency and Budget Savings**  
+   The government expects significant cost reductions through economies of scale, reduced operational overhead, and optimized resource use.
+
+3. **Improved Service Reliability and Security**  
+   Centralized management allows for better monitoring, proactive maintenance, and consistent security protocols across all departments.
+
+4. **Enhanced Scalability and Innovation**  
+   SSC can invest in modern technologies (e.g., cloud infrastructure, automation, cybersecurity) that benefit all departments simultaneously.
+
+5. **Compliance and Governance**  
+   Shared Services Canada will be responsible for ensuring compliance with federal IT policies, privacy laws (such as PIPEDA), and cybersecurity standards (e.g., federal cybersecurity framework).
+
+---
+
+### **Implementation Timeline**
+
+- **Effective Date:** November 15, 2011  
+- The transfer was implemented as a phased process, with departments transitioning their operations and responsibilities to SSC over a period of months following the effective date.
+
+---
+
+### **Notable Exclusions and Justifications**
+
+- **CSE and CSE-ISU are excluded** due to:
+  - The handling of classified information
+  - The need for high levels of physical and cyber security
+  - The sensitive nature of intelligence and communications functions
+- These units remain under the direct control of the Department of National Defence and are not subject to shared services models.
+
+---
+
+### **Broader Context**
+
+This regulation is part of a broader federal initiative to **modernize and streamline public services** through shared services and digital transformation. It reflects a shift from departmental silos to a more integrated, service-oriented federal government model.
+
+Similar transfers have occurred in other areas, such as:
+- Centralization of HR functions (e.g., Payroll, Human Resources Services)
+- Consolidation of procurement and finance services
+
+This email, data centre, and network transfer is one of the most significant in terms of infrastructure and operational impact.
+
+---
+
+### **Conclusion**
+
+This regulation represents a pivotal step in the modernization of Canada’s federal public service. By transferring the control and supervision of core IT services — email, data centres, and networks — to Shared Services Canada, the government aims to achieve greater efficiency, consistency, and resilience in its digital infrastructure. While the scope is broad and affects nearly all federal departments, the exclusion of sensitive agencies like CSE ensures that critical national security functions remain protected and operationally independent.
+
+The regulation underscores the federal government’s commitment to leveraging shared services as a tool for improving performance, reducing costs, and enhancing service delivery across the public sector.

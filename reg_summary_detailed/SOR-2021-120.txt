@@ -1,0 +1,141 @@
+### **Detailed Summary of the Canadian Ballast Water Regulations (S.C. 2019, c. 1, s. 141 and related statutes)**
+
+The **Canadian Ballast Water Regulations** are a comprehensive set of rules designed to protect Canada’s aquatic ecosystems—particularly the Great Lakes and other sensitive waters—from the introduction and spread of invasive species through ballast water. These regulations are **complementary and additional** to the **International Convention for the Control and Management of Ships’ Ballast Water and Sediments, 2004 (the “Convention”)**, and are enacted under the authority of the *Canada Shipping Act, 2001* and the *Fisheries Act*.
+
+They establish specific, enforceable standards for the management of ballast water on vessels operating in Canadian waters, including both commercial and pleasure craft. Below is a detailed, structured summary of the key provisions and their implications.
+
+---
+
+## **I. Legal Authority and Purpose**
+
+- **Legal Basis**:  
+  The regulations are made under:
+  - Subsections **35(1)a** and **35.1(1)b** of the *Canada Shipping Act, 2001*,
+  - **Section 190c**,
+  - Paragraphs **244(f)(d), (g), and (h)(e)** of the *Canada Shipping Act, 2001*,
+  - Subsection **43(1)(g)** of the *Fisheries Act*.
+
+- **Purpose**:  
+  To prevent the **introduction of harmful aquatic organisms and pathogens** into Canadian waters via ballast water, in accordance with international standards, while allowing for flexibility in certain cases (e.g., small vessels, exemptions, or alternative methods).
+
+---
+
+## **II. Definitions and Key Terms**
+
+The regulations define key terms used throughout:
+
+| Term | Meaning |
+|------|--------|
+| **Ballast water** | Water taken on board to maintain stability during voyages; defined per Convention Article 1. |
+| **Ballast water management (BWM)** | The process of managing ballast water to minimize the transfer of invasive species. |
+| **Ballast water management system (BWMS)** | A system (e.g., filtration, treatment) that meets international standards (BWMS Code). |
+| **Ballast water exchange standard** | Requires a complete exchange of ballast water in open ocean or designated areas (per Annex Regulation D-1). |
+| **Ballast water performance standard** | Requires treatment of ballast water to reduce viable organisms to safe levels (per Annex Regulation D-2). |
+| **Viable organisms** | Living organisms capable of surviving and reproducing in new environments (as defined in BWMS Code). |
+| **Residual amounts** | Water that cannot be removed from a tank using installed equipment. |
+| **Sediments** | Particles that settle out of ballast water. |
+| **Great Lakes Basin** | Includes the five Great Lakes, their tributaries, and the St. Lawrence River up to the lower exit of the St. Lambert Lock in Montreal. |
+| **Waters under Canadian jurisdiction** | Canadian territorial waters and the Exclusive Economic Zone (EEZ). |
+| **Canadian pleasure craft** | A non-Canadian vessel primarily maintained or operated in Canada and not registered elsewhere. |
+| **IBWM Certificate** | International Ballast Water Management Certificate issued under Annex E-2 or E-3. |
+
+> **Interpretive Clarifications**:
+> - "Administration" is read as "Minister" for Canadian vessels, pleasure craft, and offshore platforms.
+> - "Ship" is read as "vessel".
+> - "Survey" is read as "inspection".
+> - "Discharge" = "release" (leakage, dumping, pouring, etc.).
+> - "Should" in G3 guidelines is interpreted as "must" (mandatory).
+> - "Location within 10 nautical miles" means without physical barriers.
+
+---
+
+## **III. Scope of Application**
+
+### **Vessels Covered**
+- **All Canadian vessels** operating **everywhere in the world**.
+- **Non-Canadian vessels** operating in **waters under Canadian jurisdiction** (i.e., Canadian territorial waters and EEZ), **except**:
+  - Vessels operated exclusively in the **Great Lakes Basin** and not taking on or releasing ballast water in Canadian waters (unless for safety reasons).
+  - Vessels used in **government non-commercial service**.
+  - Vessels carrying **only permanent ballast water** in sealed tanks (not subject to release).
+
+> **Exclusions**:
+> - Vessels operated by non-Convention parties (e.g., non-signatory countries) operating exclusively in the Great Lakes Basin and not releasing ballast water in Canadian waters.
+> - Vessels used solely in government non-commercial service.
+> - Vessels with sealed ballast water (no release possible).
+
+> **Note**: The regulations apply to **any quantity** of ballast water that may be released—regardless of volume.
+
+---
+
+## **IV. Core Compliance Requirements**
+
+### **1. Ballast Water Management Plan (BWMP)**
+- **Mandatory for Canadian vessels and Canadian pleasure craft**.
+- Must be **approved by the Minister** upon application and must meet the requirements in **Annex Regulation B-1**.
+- Must be **in English, French, or both**.
+- Must remain **up to date** and reflect current compliance methods.
+- **Amendments** must be submitted to the Minister for approval if they alter the plan.
+
+> **Exception**: Vessels under 50 meters in length or under 3,000 gross tons may opt into **alternative compliance** (see below).
+
+---
+
+### **2. Ballast Water Record Book**
+- **Master and authorized representative** must ensure:
+  - Entries are made according to Annex requirements.
+  - Signatures meet Annex B-2 requirements.
+  - Entries are maintained on board and kept **readily available** for inspection.
+- For **Canadian vessels and pleasure craft**, the authorized representative must **retain entries** after the on-board period.
+
+> **Language Requirement**: Entries must be in **English, French, or both** (despite Annex B-2).
+
+---
+
+### **3. Inspection and Certification**
+- **Initial and renewal inspections** under Annex Section E must be conducted.
+- A **valid IBWM Certificate** must be held and kept on board.
+- **Issuance and endorsement** of the certificate are the responsibility of the Minister upon meeting inspection requirements.
+
+> **For non-Canadian vessels**:
+> - Must hold a valid IBWM Certificate **or** an equivalent document issued by their home country if it is a Convention party.
+> - **No ballast water release** in Canadian waters unless certified.
+
+---
+
+## **V. Compliance Pathways**
+
+### **A. Ballast Water Exchange Standard (D-1)**
+- Requires **complete exchange** of ballast water in a designated area to reduce invasive species.
+- **Mandatory conditions**:
+  1. **Minimum distance from land**: At least **200 nautical miles** from nearest land.
+  2. **Minimum depth**: At least **2,000 meters**.
+  3. **Alternative areas**: If the above are not feasible, use **designated alternate exchange areas** listed in **TP 13617** (List of Canada’s Designated Alternate Ballast Water Exchange Areas and Fresh Waters).
+  4. **Exception**: If exchange would threaten **safety or stability** of vessel due to weather, design, or equipment failure — master may waive it and must **record the reason** in the record book.
+
+> **Saltwater flushing requirement**:
+> - If tanks contain **only residual amounts** and were not previously exchanged, the vessel must perform a **saltwater flush**:
+>   - Add water to tanks (as per exchange standard),
+>   - Mix with residual amounts and sediments,
+>   - Release the mixture such that **salinity exceeds 30 ppt** (parts per thousand).
+
+---
+
+### **B. Ballast Water Performance Standard (D-2)**
+- Requires **treatment of ballast water** to reduce viable organisms to safe levels.
+- Applies to vessels using a **ballast water management system (BWMS)**.
+- **Approved systems** must be certified by the **Minister** under **Regulation D-3** of the Annex.
+- A vessel is deemed to meet the performance standard if:
+  1. The BWMS was installed **before September 8, 2024** (or before **September 8, 2030** for vessels built before January 1, 2009),
+  2. The vessel meets **section 8** (basic BWM requirements),
+  3. Holds a **valid IBWM Certificate**,
+  4. The system is in **good working order** and maintained per manufacturer’s instructions,
+  5. The ballast water is managed **as per manufacturer’s instructions**, including any operating limitations.
+
+> **Eastern waters of the St. Lawrence River**:
+> - Defined as waters from the lower St. Lambert Lock to a line from Cap-des-Rosiers to Pointe Ouest, Anticosti Island, and along 63°W to the north shore.
+
+> **Exception for Great Lakes Basin**:
+> - A vessel using a BWMS may **avoid performance standard** if it exchanges ballast water in the Great Lakes Basin or eastern St. Lawrence River **only if**:
+>   - The system was installed before the applicable date,
+>   - The exchange was conducted per **G6 Guidelines (2017)** (sequential method),
+>   - The ballast water was not mixed with

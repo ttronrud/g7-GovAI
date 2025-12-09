@@ -1,0 +1,157 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the **New Harmonized Value-added Tax System Regulations, No. 2**, issued under the *Excise Tax Act* (S.C. 2009, c. 32, s. 23(1); S.C. 1993, c. 27, s. 125(1); S.C. 2009, c. 32, s. 37(1); R.S., c. E-15).
+
+---
+
+## 🔍 **Overview of the Regulation**
+
+**Title:**  
+*New Harmonized Value-added Tax System Regulations, No. 2*
+
+**Issued by:**  
+Her Excellency the Governor General in Council, on the recommendation of the Minister of Finance.
+
+**Legal Basis:**  
+Sections 236.01a, 277b, and 277.1c of the *Excise Tax Act*.
+
+**Purpose:**  
+To implement and refine the **Harmonized Sales Tax (HST)** system in Canada by introducing specific rules governing the taxation of **imported taxable supplies**, particularly those involving **provincial investment plans** and **stratified investment plans**, and to clarify how **taxes are applied based on location, usage, and type of supply**.
+
+This regulation expands and adapts existing HST rules to address unique tax treatment for financial institutions with provincial-specific investment offerings and to ensure equitable tax collection across provinces.
+
+---
+
+## 📚 Key Definitions and Interpretations
+
+### 1. **Core Definitions (Applicable to the Act and Specific Provisions)**
+
+| Term | Meaning |
+|------|--------|
+| **Act** | Refers to the *Excise Tax Act*. |
+| **Imported Taxable Supply** | Same meaning as in section 217 of the Act — goods or services brought into Canada from outside or from another province. |
+| **Provincial Investment Plan (PIP)** | A financial institution whose units are **only sold in one province**. Must meet one of three criteria:<br>• It is a financial institution under section 11 of the *Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations* and its units are restricted to sale in a specific province;<br>• It is a stratified investment plan where all series are provincial series for that province;<br>• It has a permanent establishment only in that province during the taxation year (as defined under section 3 of the Attribution Method Regulations). |
+| **Provincial Series** | A subset of a financial institution’s investment offerings where units are **only available for sale in one province**. |
+| **Provincial Stratified Investment Plan** | A stratified investment plan (not a PIP) that includes one or more provincial series. |
+| **Series / Unit** | As defined in subsection 1(1) of the *Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations*. |
+
+> These definitions are **applicable to subsections 218.1(1), (1.2), 220.07(1)–(4), and 220.08(1)** of the Act, as adapted by these regulations.
+
+---
+
+## 🏛️ Special Classes of Tax-Exempt Persons (Section 132.1(3))
+
+For the purpose of **exemption from HST**, the following are prescribed:
+
+- Charities  
+- Non-profit organizations  
+- Selected public service bodies (as defined in subsection 259(1) of the Act)
+
+> A person in this category is deemed to have a **permanent establishment** in a province **if it were a corporation** and its activities constitute a **business** under the *Income Tax Act*.
+
+> ⚠️ This provision was **repealed** by SOR/2019-59, s. 28 — **no longer in force**.
+
+---
+
+## 🚗 Vehicle/Allowance Tax Rules (Paragraph 174(f))
+
+For **allowances paid for motor vehicle use**:
+
+- If **all or substantially all** of the supplies or vehicle use occurs in **one participating province**, the tax rate is:
+  > HST rate (from subsection 165(1)) + **the province’s HST rate**
+
+- If the supplies or use occur in **two or more provinces**, the tax rate is:
+  > HST rate + **the lowest HST rate** among the participating provinces.
+
+> This ensures that the tax burden is proportional to where the activity occurs.
+
+---
+
+## 🚫 Exclusion of Certain HST Rules (Subsections 178.3(5), (6), 178.4(5), (6))
+
+> These rules **do not apply** to **supplies of exclusive products made by independent sales contractors**.
+
+> This means that HST rules related to **tax on internal charges or expenses** do **not apply** in such cases — simplifying compliance for independent contractors.
+
+---
+
+## 🚘 Vehicle Importation Rules (Description of I in Paragraph 202(4)(b))
+
+For **bringing a vehicle or aircraft into a participating province**:
+
+- **If brought from another participating province**:
+  - Tax rate = **HST rate of destination province** – **HST rate of origin province**
+  - This creates a **tax differential** based on provincial rates.
+
+- **In any other case** (e.g., from non-participating province or domestic movement):
+  - Tax rate = **0%**
+
+> This reflects the principle that **inter-provincial movement between HST provinces** is taxed at the difference between the rates, while movement into non-HST provinces is exempt.
+
+---
+
+## 📏 Provincial Rate and Specified Item Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Provincial Rate** | - In a **participating province**: the HST rate of that province<br>- In a **non-participating province**: 0% |
+| **Specified Item (in respect of a province)** | Property or service listed in a **schedule to the Deduction for Provincial Rebate (GST/HST) Regulations**, and for which a **provincial rebate or credit** may be paid by provincial legislation. |
+
+> Example: Certain vehicles, services, or goods may qualify as "specified items" in Ontario, allowing provincial rebates.
+
+---
+
+## 📦 Application of HST to Imported Supplies (Section 218.1(1))
+
+### When a recipient is a **Provincial Investment Plan or Stratified Investment Plan**
+
+If a person receives an imported taxable supply (property or service) and is a **provincial investment plan or stratified investment plan** at the time the consideration becomes due or is paid, **additional HST must be paid**.
+
+#### Formula:
+> **Additional Tax = (Tax Rate for Province) × (Value of Consideration) × (Extent of Use in Province)**
+
+Where:
+
+| Case | Extent of Use |
+|------|---------------|
+| **Provincial Stratified Investment Plan** | Sum of all percentages (from section 51 of the Attribution Method Regulations) indicating how much of the property/service was used for activities related to a **provincial series** in that province |
+| **Provincial Investment Plan (for the province)** | 100% |
+| **Provincial Investment Plan (for another province)** | 0% |
+
+> Applies to both **intangible personal property** (e.g., software, licenses) and **physical goods** (e.g., equipment, machinery) under paragraph (b) of *imported taxable supply*.
+
+---
+
+## 🚨 Threshold for Exemption (Paragraph 218.1(1)(a))
+
+If a **provincial stratified investment plan** receives an imported supply of intangible personal property or service, and the **total extent of use** in participating provinces is **less than 10%** of total use across all provinces, then:
+
+> **No additional HST is payable** under section 218.1(1)(a).
+
+> Formula to determine threshold:
+> > (Total extent of use in participating provinces) / (Total extent of use in all provinces) < 10%
+
+> This provides **exemption** for minor or non-provincial usage.
+
+---
+
+## 💼 Qualifying Taxpayers and Internal/External Charges (Section 218.1(1.2))
+
+If a **qualifying taxpayer** (as defined in subsection 217.1(1)) is a **provincial investment plan or stratified investment plan** during a fiscal year ending in a specified year, then:
+
+> Additional tax must be paid on **internal and external charges** and **qualifying consideration** — **only to the extent** that the outlay or expense relates to activities in a **particular participating province**.
+
+### Tax Calculation:
+
+#### 1. **Internal Charges** (e.g., administrative costs)
+> Tax = (Sum of internal charges > 0) × (Provincial rate) × (Extent of use in province)
+
+- **Extent of use** = Percentage of internal charge attributable to consumption/use/supply of property/service in a provincial series.
+
+#### 2. **External Charges** (e.g., third-party expenses)
+> Tax = (Sum of external charges > 0) × (Provincial rate) × (Extent of use in province)
+
+- Same extent calculation as above.
+
+#### 3. **Qualifying Consideration** (e.g., fees, commissions)
+> Tax = (Sum of qualifying consideration > 0) × (Provincial rate) × (Extent of use in province)
+
+> All are calculated using the **extent of use** determined under **section 5

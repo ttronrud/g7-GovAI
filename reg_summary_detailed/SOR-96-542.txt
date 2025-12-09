@@ -1,0 +1,224 @@
+**Detailed Summary of the Canada Deposit Insurance Corporation (CDIC) Deposit Insurance Information By-law (1996)**
+
+---
+
+### **Overview**
+
+The Canada Deposit Insurance Corporation (CDIC) adopted this **Deposit Insurance Information By-law** on **December 4, 1996**, under **paragraph 11(2)(f)a of the Canada Deposit Insurance Corporation Act (CDIC Act)**. This by-law establishes detailed rules governing how member financial institutions (such as banks and credit unions) must communicate information about their status as CDIC members, the nature of insured deposits, and the limits of deposit insurance coverage.
+
+The primary objective of the by-law is to **ensure transparency, accuracy, and consistency** in how member institutions present information to the public — particularly regarding:
+- What constitutes a deposit,
+- Whether a deposit is insured by CDIC,
+- The institution’s membership status,
+- And the maximum insurance coverage available.
+
+It also includes provisions for **prohibiting misleading statements**, **standardizing disclosures**, and **ensuring public access to key information**, especially during transitional periods for new members.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Deposit Insurance Corporation Act* |
+| **CDIC** | The Canada Deposit Insurance Corporation, the federal agency that insures eligible deposits in Canadian financial institutions |
+| **Electronic business site** | A website or digital platform used by a member institution to conduct business where individuals can make deposits or open accounts (includes ATMs) |
+| **Place of business** | A physical location in Canada where customers can make deposits with a representative; excludes ATMs |
+
+> Note: Several sections have been **repealed** over time (e.g., point of service, certain advertising rules, transitional coverage provisions), indicating updates or replacements in later regulations. These are marked accordingly.
+
+---
+
+## **Core Provisions and Requirements**
+
+---
+
+### **1. Prohibition of False, Misleading, or Deceptive Representations**
+
+**Rule:**  
+No person (including member institutions) may make false, misleading, or deceptive statements about:
+- What constitutes a deposit,
+- What constitutes a deposit insured by CDIC,
+- Or who is a member institution.
+
+**Enforcement:**  
+All representations must comply with **Sections 4 to 11** of the CDIC Act, which govern the accuracy and integrity of deposit-related disclosures.
+
+> This provision ensures that consumers are not misled into believing that a transaction is insured when it is not, or that an entity is a member when it isn’t.
+
+---
+
+### **2. Removal of Membership References Upon Termination or Closure**
+
+When a member institution:
+- Has its deposit insurance policy **terminated or cancelled**, or
+- **Ceases to use a location as a place of business**
+
+It must **immediately remove all references** to:
+- Its membership status,
+- The deposit insurance provided by CDIC,
+
+Including:
+- Membership signs,
+- Brochures,
+- Badges,
+
+From:
+- All places of business,
+- All electronic business sites (websites, apps, etc.),
+- Any other digital platforms.
+
+> Purpose: Prevents continued public confusion after a member institution no longer qualifies for insurance.
+
+---
+
+### **3. Display Requirements for Membership Sign, Brochure, and Badge**
+
+#### **Membership Sign (Physical or Digital)**
+
+- Must be **prominently displayed** at:
+  - Each entrance to every **place of business** (during business hours),
+  - Within each place of business (in main areas, during business hours).
+
+- **Digital display** must appear:
+  - On the **home page** of the institution’s website,
+  - Either directly or via a **single hyperlink** to a page with information about membership.
+
+> The size may be adjusted, **but only if proportions are preserved** and the content remains clearly visible and legible.
+
+#### **Brochure (Physical and Digital)**
+
+- Must be **physically displayed** at each place of business.
+- Must be **available to depositors** and others.
+
+**Account Opening Process Requirements:**
+- If all documents are digital → provide **digital brochure**.
+- If all documents are physical → provide **printed version of digital brochure**.
+- Otherwise → provide either digital or printed version.
+
+**Brochure Content (Mandatory):**
+- General information about CDIC,
+- Contact information for CDIC,
+- CDIC logo or identifiers,
+- Explanation of what constitutes an **insured deposit**,
+- Maximum **insurance coverage** ($1 million per account per depositor),
+- What a depositor should know when CDIC makes an insurance payment.
+
+> Institutions may make **additional representations** about the brochure **only if not false, misleading, or deceptive**.
+
+#### **Display Restrictions**
+- The location and manner of display must **not give the impression** that:
+  - A person is a member when they are not,
+  - A deposit is insured when it is not eligible.
+
+---
+
+### **4. Display of the Membership Badge (Digital Form)**
+
+**Applicable to electronic business sites (excluding ATMs):**
+
+Must prominently display the **digital badge** at:
+1. The **home page**,
+2. The **landing page** for each insured deposit product,
+3. The **first page after login** showing insured deposits,
+4. Every page where the membership sign appears.
+
+**At Automated Teller Machines (ATMs):**
+- Must display the badge **in either physical or digital form** at every ATM where deposits are accepted.
+
+**Prohibited Practice:**
+- A member institution **cannot display the badge** on the home page if that page is shared with a **non-member institution**.
+
+**Badge Content Requirements:**
+- Must include the **CDIC logo or identifier**.
+- In **digital form**, must include a **hyperlink** to the CDIC brochure (unless on an ATM).
+
+> Purpose: Ensures consistent, visible, and accurate identification of insured deposits across digital platforms.
+
+**Display Restrictions:**
+- Must not create the impression that:
+  - A person is a member when they are not,
+  - A deposit is insured when it is not eligible.
+
+---
+
+### **5. Transitional Coverage for Federal Credit Unions**
+
+This section applies specifically to **federal credit unions** joining CDIC during a transition period.
+
+**Mandatory Elements of the Statement of Transitional Coverage:**
+- Purpose of the statement,
+- Description of **pre-existing deposit insurance coverage** during the transition,
+- **Expiration date** of that coverage,
+- Description of **post-transition coverage** for new deposits.
+
+**Availability Requirements:**
+- Must be available via **hyperlink on every page** of the website referencing deposit products,
+- Must be **physically available** to depositors at each place of business.
+
+**Prominent Display (180 Days):**
+- Must display a **sign** at each place of business for 180 days after becoming a member, directing depositors to the statement.
+
+**Pre-Existing Deposit Notification (for deposits >$100,000):**
+- Must provide a copy of the statement **or an indication of how to obtain it**:
+  - At least **12 weeks before**, and no later than **4 weeks before** the end of the transition period,
+  - For any pre-existing deposit exceeding **$100,000** that is repaid on a fixed date.
+
+**No Repeat Requirement:**
+- Once a depositor receives the statement for one pre-existing deposit, they are **not required to receive it again** for other qualifying deposits.
+
+> This ensures that large depositors are fully informed about changes in insurance coverage during transitions.
+
+---
+
+### **6. Warning Statements for Non-Insured Deposits**
+
+When a member institution issues a document evidencing a deposit that is **not eligible for CDIC insurance**, it must include a **warning statement** in substantially the same words as one of the following:
+
+- “Not insured by the CDIC”  
+- “Not insured by the Canada Deposit Insurance Corporation”  
+- “The deposit evidenced by this instrument does not constitute a deposit that is insured under the Canada Deposit Insurance Corporation Act”
+
+**For instruments containing both insured and uninsured deposits:**
+- Must include a warning statement **before or beside** the list of non-insured deposits, such as:
+  - “The following deposits … do not constitute deposits insured under the Act”,
+  - “Not insured by the CDIC” next to each non-insured deposit,
+  - Or in a footnote adjacent to each reference.
+
+> Purpose: Protects consumers from assuming that all deposits are covered.
+
+---
+
+### **7. Oral and Written Communication Requirements**
+
+When a person **calls a member institution** to make a deposit or open an account:
+
+- The institution must make an **oral representation** using one of the standard warning statements (same as in Section 6),
+- And issue a **written notice** (in paper or electronic form) with the same warning.
+
+> Ensures that even verbal interactions are transparent and compliant.
+
+---
+
+### **8. Use of Trade Names**
+
+A member institution **may not use trade names** in representations about:
+- Membership status,
+- What constitutes a deposit,
+- What is insured,
+
+**Unless** it meets the following conditions:
+
+- Maintains an **up-to-date list** of all trade names,
+- Makes the list **available on its website** in a location where depositors would reasonably look,
+- Provides a **copy of the list** to CDIC with its Return of Insured Deposits,
+- Provides **at least 15 days’ notice** before first public use of a new trade name,
+- **Permits CDIC to make the list publicly available**.
+
+> Prevents confusion caused by multiple brand names or misleading branding.
+
+---
+
+### **9. List of Instruments (for Insured Deposits)**
+
+Each member institution must maintain a list of all instruments (e.g., cheques, certificates, account statements) that

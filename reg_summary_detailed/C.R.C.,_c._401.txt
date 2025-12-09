@@ -1,0 +1,190 @@
+The provided text constitutes the **Civil Service Insurance Regulations**, a set of rules governing the administration, operation, and financial obligations of civil service insurance contracts under the *Civil Service Insurance Act*. Below is a **detailed, structured summary** of the regulation, broken down by key provisions and their implications.
+
+---
+
+## **1. Citation and Definitions**
+
+- **Title**: These Regulations may be cited as the *Civil Service Insurance Regulations*.
+- **Act Reference**: "Act" refers to the *Civil Service Insurance Act* (Loi).
+- **Revoked Provisions**:
+  - The definitions of *insurance contract*, *insured*, and *insurance money*, as well as references to the *Minister* and *Superintendent*, have been **revoked** by **SOR/88-130, section 1**.
+  - This indicates that these definitions are no longer in force and are superseded by updated legislation or regulatory frameworks.
+
+> **Note**: The revocation suggests that the foundational definitions of key terms have been replaced or restructured, likely due to changes in policy or administrative structure.
+
+---
+
+## **2. Contract Execution and Signature Requirements**
+
+- **Signature Requirement**:
+  - Insurance contracts must be signed **by, or bear the lithographed or facsimile signature of the Minister**.
+  - The contract must then be **countersigned by the Superintendent**.
+  
+> **Purpose**: Ensures legal validity and administrative oversight of insurance contracts. The Minister represents government authority, while the Superintendent provides regulatory scrutiny.
+
+---
+
+## **3. Grace Period for Premium Payments**
+
+- A **30-day grace period** applies to **all premiums after the first premium**.
+- During this period:
+  - The contract remains in full force.
+  - However, **if the insured dies within this grace period**, any **unpaid overdue premiums will be deducted from the insurance money payable**.
+
+> **Implication**: The grace period protects the insured from immediate contract termination due to late payment, but penalizes late payment in the event of death.
+
+---
+
+## **4. Conversion to Paid-Up Insurance**
+
+- If, after the contract has been in force for **at least two years**, and **two or more annual premiums (or equivalent half-yearly, quarterly, or monthly payments)** have been made, **a premium is not paid by its due date** and remains unpaid after a **30-day grace period**, the contract is **automatically converted to paid-up insurance**.
+
+- The **paid-up amount** is calculated as the **net level premium reserve**:
+  - Based on the **H.M. Mortality Table** of the Institute of Actuaries of Great Britain.
+  - Using a **6% annual interest rate**.
+  - Determined **as of the due date of the unpaid premium**.
+
+> **Purpose**: Prevents loss of coverage due to non-payment by converting the policy to a reduced, fully paid-up form that reflects the current value of the policy.
+
+---
+
+## **5. Reinstatement of Converted Contracts**
+
+- A contract converted to paid-up insurance **may be reinstated** to its original form **if**:
+  - The insured pays **all overdue premiums**.
+  - **Less than five years** have passed since the due date of the first unpaid premium.
+- **Additional requirement**:
+  - If **more than 90 days** have elapsed since the due date of the first unpaid premium:
+    - Interest must be paid at **6% per annum compounded annually** from the due date to the date of reinstatement.
+    - The insured must provide **evidence of insurability** to the Minister.
+
+> **Implication**: Reinstatement is conditional on timely action and financial accountability. The 90-day threshold and interest provision serve as deterrents against prolonged non-payment.
+
+---
+
+## **6. Surrender of Policy**
+
+- The insured may **surrender** the insurance contract **with the consent of the beneficiary**.
+- Upon surrender, the insured receives a **cash surrender value** equal to the **level premium reserve**:
+  - Calculated using the **H.M. Mortality Table** of the Institute of Actuaries of Great Britain.
+  - At a **6% annual interest rate**.
+
+> **Purpose**: Provides a liquidity option for the insured who no longer needs coverage.
+
+---
+
+## **7. Adding Beneficiaries**
+
+- A person eligible under the Act to be a beneficiary but **not originally named** may become a beneficiary if:
+  1. The instrument (e.g., written declaration) is **attached to the insurance contract**;
+  2. An **endorsement** is made on the contract with respect to the instrument; or
+  3. The instrument **identifies or describes** the insurance contract.
+
+> **Purpose**: Allows flexibility in beneficiary designation without requiring a full reissue of the policy.
+
+---
+
+## **8. Apportionment of Insurance Money**
+
+- The insured may **vary the apportionment** of the insurance money through a **declaration**.
+
+> **Purpose**: Enables the insured to adjust how the payout is distributed among beneficiaries.
+
+---
+
+## **9. Proof Required for Claims**
+
+- Any person claiming under the insurance contract must provide proof to the Superintendent of:
+  1. The **death of the insured**;
+  2. The **age of the insured**, unless previously provided.
+
+> **Purpose**: Ensures accurate claims processing and prevents fraud.
+
+---
+
+## **10. Age Understatement and Premium Adjustment**
+
+- If the **age of the insured is understated** in the application:
+  - The **amount payable** under the contract is adjusted to reflect the **correct age**.
+  - The ratio used is:
+    > (Premium for stated age) / (Premium for actual age) = (Amount payable) / (Sum assured)
+  - Both ages are considered as of the **date of contract**.
+  - The "premium proper" is the **net annual premium** derived from the H.M. Mortality Table at a **6% interest rate**.
+
+> **Purpose**: Prevents unfair advantage by ensuring premiums are proportional to actual risk.
+
+---
+
+## **11. Age Determination for Premium Calculation**
+
+- The insured’s age for premium purposes is the **age at their birthday nearest to the date of the contract**.
+
+> **Purpose**: Standardizes age determination for consistent premium calculation.
+
+---
+
+## **12. Payment Options for Insurance Money**
+
+The insured may choose how the insurance money (or portion thereof) is paid, with options including:
+
+| Option | Description |
+|-------|-------------|
+| (a) One lump sum | Full payment in a single sum. |
+| (b) Annuity-certain for a fixed term | Payments for a specified number of years (e.g., 5, 10, 15, 20). |
+| (c) Life annuity | Payments to the beneficiary for life. |
+| (d) Guaranteed annuity | Payments for a fixed term (5, 10, 15, or 20 years) and thereafter as long as the beneficiary lives. |
+
+> **Additional Rule**:
+- If the beneficiary dies **before the term ends** (in options (b) or (d)):
+  - Remaining payments go to **designated alternate beneficiaries**.
+  - If no designation exists, the **commuted value** of the remaining payments is paid **in one lump sum** to the beneficiary’s estate.
+
+---
+
+## **13. Lump Sum Payment for Low Annual Payments**
+
+- **Exception**: If the annual annuity payment would be **less than $240**, the beneficiary may **request** that the insurance money or the commuted value of remaining payments be paid in **one lump sum**.
+
+> **Purpose**: Provides flexibility for low-income beneficiaries or those receiving small periodic payments.
+
+---
+
+## **14. Actuarial Basis for Annuity Calculations**
+
+- Annuities are calculated using:
+  - **1971 Individual Annuity Mortality Table** (from *Transactions of The Society of Actuaries*, Vol. XXIII).
+  - **Interest Rates**:
+    - **First 15 years**: Annual yield to maturity of **Government of Canada obligations** (as fixed by the Minister under *section 113(2) of the Canada Pension Plan*) **plus 0.5%**, rounded to the nearest 0.25%.
+    - **After 15 years**: Fixed at **4.5% per annum**.
+
+> **Purpose**: Ensures actuarial fairness and reflects real-world interest rates, with a transition to a stable rate after the initial period.
+
+---
+
+## **15. Election of Payment Plan**
+
+- The insured must **elect the plan** (payment method) in the application.
+- For each beneficiary, the plan may be:
+  - **Not varied** (fixed);
+  - **Varied at the beneficiary’s option**;
+  - **Varied at the beneficiary’s option with Minister’s consent**.
+
+- The election may be **changed later** by a **declaration** attached to or endorsed on the contract.
+- A **duplicate of the declaration** must be filed with the Minister at the time of submission.
+
+> **Purpose**: Gives flexibility to beneficiaries while maintaining regulatory oversight and ensuring clarity in future claims.
+
+---
+
+## **16. Restrictions on Use of Insurance Money**
+
+- The insured may **only use the insurance money** in ways **authorized by the Act**.
+- Any attempt to **pledge, assign, or otherwise transfer** the insurance money **without authorization** is **void**.
+
+> **Purpose**: Protects beneficiaries and ensures funds are used solely for intended purposes (e.g., death benefits, funeral expenses, etc.).
+
+---
+
+## **17. Self-Destruction as a Non-Assumed Risk**
+
+- **Self-destruction** (suicide or intentional self-harm) within

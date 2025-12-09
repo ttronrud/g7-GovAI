@@ -1,0 +1,146 @@
+**Detailed Summary of the Gasoline Excise Tax Regulations (S.C. 1995, c. 36, s. 5)**
+
+---
+
+### **Overview**
+
+These regulations, made under **subsection 68.16(6)a of the Excise Tax Act**, establish specific rules for calculating the **excise tax liability** on gasoline purchases when the cost of gasoline is recovered from certain individuals or entities. The regulations apply to situations where a person purchases gasoline (with excise tax already paid) and then recovers part or all of that cost from a designated recipient.
+
+The regulations are designed to ensure that the excise tax is appropriately assessed and collected in cases where the cost of gasoline is passed on to others—particularly employees, contractors, or business entities—under specific conditions.
+
+---
+
+### **Key Provisions and Explanations**
+
+#### **1. Definition of "Act"**
+- In these regulations, **"Act"** refers to the **Excise Tax Act**. This provides the legal framework under which the regulations operate.
+
+---
+
+#### **2. Calculation of Excise Tax Liability (Under Paragraph 68.16(6)(a))**
+
+> **When a person purchases gasoline and recovers part of the cost from someone described in paragraphs 68.16(1)(g.1) to (g.3) of the Act**, the excise tax payable under subsection 68.16(1) is calculated as follows:
+
+- **Formula**:  
+  $$
+  \text{Excise Tax Payable} = 0.015 \times \text{Number of litres of gasoline purchased at a price including excise tax}
+  $$
+
+- **Purpose**:  
+  This rule applies when a person (e.g., an employee, contractor, or business) pays for gasoline and then recovers the cost from someone such as:
+  - A **person who is an employee** (paragraph g.1),
+  - A **person who is a contractor** (paragraph g.2),
+  - A **person who is a business associate** (paragraph g.3).
+
+- **Key Point**:  
+  The tax is calculated based on the **volume of gasoline purchased**, not on the amount of reimbursement received. The $0.015 per litre rate is a fixed multiplier applied to the total volume.
+
+> ⚠️ **Note**: This calculation is required even if the cost was reimbursed — the tax liability is still triggered by the purchase.
+
+---
+
+#### **3. Alternative Calculation for Automobile or Truck Use (Despite Subsection 1)**
+
+> If the gasoline was used in an **automobile or truck**, the person who is deemed the purchaser may **choose** to calculate the excise tax using a different formula:
+
+- **Formula**:  
+  $$
+  \text{Excise Tax Payable} = 0.0015 \times \text{Number of kilometres driven in Canada}
+  $$
+
+- **Conditions**:
+  - The person must be the one **deemed by section 3 of the Act to be the purchaser** of the gasoline.
+  - The option is **at the discretion of the purchaser** (i.e., they can choose either the litre-based or kilometre-based method).
+
+- **Purpose**:  
+  This provides flexibility for individuals who use their personal vehicles for work or business purposes, allowing them to base the tax on usage (distance driven) rather than volume of fuel purchased.
+
+- **Limitation**:  
+  This alternative method **does not apply** if the gasoline was used for non-automobile purposes or if the vehicle is not used in Canada.
+
+---
+
+#### **4. Determination of Who is Deemed the Purchaser (Under Paragraph 68.16(6)(b))**
+
+> When a person purchases gasoline and recovers part of the cost from someone described in paragraphs 68.16(1)(g.1) or (g.2), the **purchaser is deemed to be the person who made the purchase** — unless a specific exception applies.
+
+- **General Rule**:  
+  The **person who bought the gasoline** is deemed to be the purchaser.
+
+- **Exception (Reimbursement from Employer)**:  
+  If the reimbursement comes from a person described in:
+  - Paragraph **68.16(1)(g.1)** (employee),
+  - Paragraph **68.16(1)(g.2)** (contractor),
+  **and** the reimbursement was made because the person was the **employer** of the person who purchased the gasoline,
+
+  → Then the **reimburser (the employer)** is **deemed to be the purchaser** of the gasoline.
+
+- **Purpose**:  
+  This rule ensures that **tax liability is properly assigned** to the entity that is financially responsible for the cost of gasoline — particularly in employment or business arrangements where an employer reimburses employee expenses.
+
+> Example:  
+> An employee buys gasoline for a personal vehicle and gets reimbursed by their employer. Even though the employee bought the fuel, the employer is deemed the purchaser and is responsible for the excise tax under these regulations.
+
+---
+
+#### **5. Repeal Clause**
+
+> These regulations **do not contain any provisions that are to be repealed** — the "Repeal" section is simply a placeholder or administrative note indicating that no prior regulations are being revoked.
+
+> The regulations are **not being replaced or canceled**; they are in force as written.
+
+---
+
+#### **6. Coming Into Force**
+
+- These regulations **come into force on the day they are registered** (i.e., officially published in the Canada Gazette).
+
+- This means they become effective immediately upon formal registration, without a specified date or delay.
+
+---
+
+### **Summary Table**
+
+| Provision | Key Detail |
+|--------|-----------|
+| **Tax Calculation (General)** | $0.015 × number of litres purchased (when cost is recovered from employee, contractor, or business associate) |
+| **Alternative Calculation (Vehicle Use)** | $0.0015 × number of km driven in Canada (optional, only if used in auto/truck) |
+| **Who is Deemed Purchaser?** | Person who bought the fuel, unless reimbursement was made by an employer to an employee or contractor → then the employer is deemed purchaser |
+| **Applicable Sections** | 68.16(6)(a), (6)(b), and 68.16(1)(g.1)–(g.3) of the Excise Tax Act |
+| **Effective Date** | Day of registration (immediate effect) |
+| **Repeal Status** | No repeal — regulations are active and in force |
+
+---
+
+### **Policy Objectives & Rationale**
+
+1. **Prevent Tax Evasion or Avoidance**  
+   By requiring tax to be calculated on the volume of gasoline or usage, the government ensures that the excise tax is not avoided when costs are passed on to employees or contractors.
+
+2. **Clarify Tax Responsibility**  
+   The rules define who is legally responsible for the excise tax — especially in employer-employee reimbursement scenarios — to prevent double taxation or tax liability gaps.
+
+3. **Provide Flexibility**  
+   The option to calculate tax based on kilometres allows for more practical and usage-based taxation, particularly in cases of business or personal vehicle use.
+
+4. **Align with Excise Tax Principles**  
+   The regulations support the broader goal of ensuring that excise taxes are collected fairly and accurately, regardless of how the cost of gasoline is distributed.
+
+---
+
+### **Practical Implications**
+
+- **Employees** who use company vehicles or receive reimbursements for fuel must still pay excise tax — either on the volume of fuel purchased or on distance driven.
+- **Employers** who reimburse employees for fuel may be personally liable for the excise tax if the reimbursement is made due to employment.
+- **Businesses** that reimburse contractors or employees for fuel must account for excise tax under these rules.
+
+---
+
+### **Conclusion**
+
+The **Gasoline Excise Tax Regulations** provide a clear, structured, and equitable framework for determining excise tax liability when gasoline is purchased and reimbursed. They balance simplicity with fairness by offering two calculation methods (volume-based and usage-based) and clearly defining who is responsible for the tax in various scenarios — especially in employment and business reimbursement contexts. These rules remain in effect and are essential for ensuring compliance with the Excise Tax Act in relation to gasoline purchases.
+
+--- 
+
+*Prepared by: Regulation Summarizer (Expert in Canadian Tax and Regulatory Law)*  
+*Date: April 5, 2024*

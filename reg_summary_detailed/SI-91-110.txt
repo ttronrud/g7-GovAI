@@ -1,0 +1,152 @@
+### **Detailed Summary of the Propane Dispenser Specifications (SOR/90-278, 1990)**
+
+The **Propane Dispenser Specifications**, established by the Minister of Consumer and Corporate Affairs under the authority of **paragraph 10(1)(i) of the Weights and Measures Act** and **sections 13* and 27** of the *Weights and Measures Regulations, C.R.C., c. 1605*, provide comprehensive technical requirements for the **design, composition, construction, performance, installation, and use of metering assemblies used to deliver liquid propane to motor vehicles**.
+
+These specifications came into force on **August 15, 1991**, and apply to **all propane dispensers used in trade**—that is, those installed in commercial or retail settings for the sale of liquid propane to consumers for use in motor vehicles.
+
+---
+
+## **Key Definitions**
+
+- **ATC (Automatic Temperature Compensator)**: A device that adjusts volume measurements to account for temperature variations in liquid propane, ensuring accurate volume readings despite changes in temperature.
+- **Propane Dispenser**: A complete system consisting of a meter and its associated components, designed to measure liquid propane delivered to motor vehicle fuel tanks.
+- **Supply Tank**: A storage tank connected to the dispenser that supplies propane to the dispenser for delivery.
+
+All other terms used in the specifications retain their standard definitions as defined in the *Weights and Measures Regulations*.
+
+---
+
+## **Core Provisions and Requirements**
+
+### 1. **Mandatory Electronic ATC**
+> *A propane dispenser shall be equipped with an electronic ATC.*
+
+- This requirement ensures **accurate measurement** of liquid propane volume by compensating for temperature-induced volume changes (since propane expands or contracts with temperature).
+- The electronic ATC is essential because liquid propane’s density varies significantly with temperature, and without compensation, volume readings would be inaccurate.
+- This requirement was introduced to improve measurement reliability and compliance with the principles of fair trade.
+
+> **Note**: Any propane dispenser submitted for initial inspection *after August 15, 1991* must include an electronic ATC to be certified as compliant.
+
+---
+
+### 2. **Vapour Separator with Float-Operated Vapour Release Valve**
+> *If a propane dispenser has a vapour separator with a float-operated vapour release valve, it must have a continuous bleed or alternative means to ensure satisfactory operation at differential pressures up to 700 kPa.*
+
+- **Purpose**: To maintain consistent and reliable operation of the vapour release valve under varying pressure conditions.
+- A **float-operated valve** controls vapour release to prevent over-pressurization and to maintain proper liquid flow.
+- A **continuous bleed** ensures that vapour can escape even when pressure differentials exceed 700 kPa, which may occur during rapid filling or changes in supply pressure.
+- This prevents pressure build-up that could damage equipment or cause inaccurate metering.
+
+---
+
+### 3. **Temperature Sensor Placement for Electronic ATC**
+> *The temperature sensor of the electronic ATC and the test thermal well must be installed adjacent to each other in one of the following locations:*
+> - In the **meter chamber**  
+> - In the **vapour separator housing**  
+> - In the **inlet or outlet piping to the meter**
+
+- **Critical requirement**: The temperature sensor must be positioned so that:
+  - The **sensing end is in the main flow of liquid propane** (not in vapour or stagnant zones).
+  - The sensor is located **no more than 0.5 meters from the meter**, measured along the piping.
+  - **No valves, pumps, flow-control devices, or other equipment** that alter the temperature of the liquid are located between the meter chamber and the sensor.
+
+- **Rationale**: Ensures that the temperature reading used by the ATC reflects the actual temperature of the liquid being measured, avoiding errors due to thermal gradients or interference from control devices.
+
+---
+
+### 4. **Propane Return Fitting for Inspection**
+> *A 1 3/4 inch Acme thread male fitting shall be installed on the supply tank or its piping to allow propane to be returned to the supply tank during inspections.*
+
+- This fitting enables **inspector access** to perform accuracy tests on the dispenser.
+- It allows liquid propane to be safely and efficiently **circulated back** into the supply tank during calibration or testing, ensuring the meter is at a stable temperature before testing.
+
+> **Exception/Alternative for Remote Installations**:
+> - If the required fitting is located **more than 30 meters (100 feet)** from the dispenser:
+>   - The **owner of the dispenser** must provide one of the following:
+>     1. A **vapour return line** with a 1 3/4 inch Acme thread male fitting installed in the dispenser and accessible to the inspector, enabling liquid return.
+>     2. A **hose** with a 1 3/4 inch Acme thread male fitting, of **appropriate diameter and sufficient length**, to reach the fitting on the supply tank.
+
+- **Purpose**: Ensures **temperature stabilization** of the meter prior to and during inspection, which is critical for accurate measurement and valid test results.
+
+---
+
+### 5. **System Design for Proper Operating Pressure and Cavitation Prevention**
+> *The static pressure of the supply tank, the diameter and configuration of the inlet piping to the pump, and the capacity of the pump shall be such as to ensure proper operating pressure and prevent cavitation under normal use.*
+
+- **Cavitation** occurs when vapor bubbles form in the liquid due to low pressure, leading to damage and inaccurate metering.
+- Proper system design ensures:
+  - Sufficient **static pressure** to maintain liquid flow.
+  - Adequate **piping diameter and configuration** to minimize pressure drops.
+  - Appropriate **pump capacity** to deliver propane at a consistent rate without creating cavitation.
+
+- This protects both the integrity of the system and the accuracy of the metering process.
+
+---
+
+### 6. **Vapour Return Line Diameter Requirements**
+> *The vapour return line connecting the vapour separator to the supply tank must be of sufficient diameter to vent all vapour under normal operating conditions.*
+
+- Ensures that **all vapour generated** during normal use (especially during filling) can be safely and completely vented.
+- Prevents vapour accumulation, which could lead to:
+  - Pressure build-up
+  - Inaccurate metering
+  - Safety hazards
+
+---
+
+### 7. **Prohibition on Use of Vapour Return Lines to Fuel Tanks**
+> *No person shall use a vapour return line connected from a propane dispenser or supply tank to the fuel tank of a motor vehicle during a propane delivery transaction.*
+
+- This provision **prohibits the use of the return line** for any purpose other than inspection or system testing.
+- Prevents contamination of the vehicle’s fuel system and avoids safety risks such as:
+  - Introduction of propane vapour into the fuel tank
+  - Potential ignition hazards
+  - Damage to vehicle fuel systems
+
+---
+
+### 8. **Pressure Relief Valve Restrictions**
+> *No pressure relief valve shall be installed on the downstream side of a meter in a propane dispenser, except for a hydrostatic pressure relief valve required to relieve excessive pressure due to thermal expansion of propane.*
+
+- **Downstream pressure relief valves** (i.e., after the meter) are prohibited because they can:
+  - Interfere with accurate volume measurement
+  - Allow uncontrolled pressure release, potentially leading to inaccurate readings or safety issues
+
+- **Exception**: A **hydrostatic pressure relief valve** may be installed **only** if it is necessary to relieve pressure caused by **thermal expansion** of propane (e.g., when the liquid heats up and expands).
+- This valve must be **specifically designed** and **positioned** to protect the system from overpressure due to thermal effects, not for general pressure relief.
+
+---
+
+## **Enforcement and Compliance**
+
+- These specifications are **mandatory** for all propane dispensers used in trade.
+- Compliance is enforced through **inspection and certification** by authorized officials under the *Weights and Measures Act*.
+- Any dispenser submitted for **initial inspection after August 15, 1991** must:
+  - Be equipped with an **electronic ATC**.
+  - Meet all other technical and design requirements outlined above.
+- Failure to comply results in **non-certification**, rendering the dispenser non-compliant with trade regulations and potentially illegal for commercial use.
+
+---
+
+## **Significance and Objectives**
+
+The Propane Dispenser Specifications were developed to:
+
+1. **Ensure accurate and fair measurement** of liquid propane volume sold to consumers.
+2. **Improve measurement reliability** by standardizing temperature compensation and sensor placement.
+3. **Enhance safety** by regulating pressure relief, vapour handling, and return line use.
+4. **Facilitate accurate inspections** through standardized return fittings and temperature stabilization procedures.
+5. **Prevent fraud and consumer harm** by eliminating measurement inaccuracies due to temperature or design flaws.
+
+---
+
+## **Conclusion**
+
+The *Propane Dispenser Specifications* represent a comprehensive regulatory framework governing the technical and operational standards for liquid propane dispensing systems in Canada. By mandating electronic temperature compensation, precise sensor placement, safe return line design, and strict prohibitions on unsafe practices, the regulations ensure **accuracy, safety, and fairness** in the sale of propane to motor vehicle users.
+
+These specifications remain a cornerstone of Canada’s efforts to maintain public confidence in fuel measurement and trade practices under the *Weights and Measures Act*.
+
+---
+
+**Citation**:  
+*Propane Dispenser Specifications*, SOR/90-278, 1990 Canada Gazette Part II, p. 2011; SOR/78

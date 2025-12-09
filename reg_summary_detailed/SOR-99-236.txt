@@ -1,0 +1,157 @@
+Certainly. Below is a **detailed, comprehensive summary** of the **Sulphur in Gasoline Regulations** as published under the *Canadian Environmental Protection Act, 1999* (CEPA), effective from October 31, 1998, and amended over time.
+
+---
+
+## 🔍 **Detailed Summary of the Sulphur in Gasoline Regulations**
+
+### 📌 **Background and Purpose**
+
+The **Sulphur in Gasoline Regulations** were introduced under **section 47b and 87 of the Canadian Environmental Protection Act (CEPA)**, following a proposal published in *Canada Gazette, Part I*, on October 31, 1998. The regulations were developed in response to concerns that **high sulphur content in gasoline contributes significantly to air pollution** when burned in internal combustion engines.
+
+The primary environmental objective is to **reduce harmful emissions**—particularly **sulphur dioxide (SO₂)**—which leads to acid rain, smog, and respiratory health issues. By setting strict limits on sulphur levels in gasoline, the regulations aim to improve air quality and protect public health and the environment.
+
+---
+
+## 📚 **Key Definitions and Scope**
+
+The regulations define key terms used throughout the document:
+
+| Term | Definition |
+|------|-----------|
+| **Gasoline** | A fuel sold or represented as gasoline; a petroleum distillate suitable for spark ignition engines. Must meet specific test criteria: vapour pressure ≥35 kPa, antiknock index ≥80, distillation range (10% and 50%) between 35–70°C and 60–120°C. |
+| **Low-sulphur gasoline** | Gasoline meeting sulphur concentration limits and identified as such under section 5. |
+| **Batch** | An identifiable quantity of gasoline with a single sulphur concentration, sampled and measured per section 3. |
+| **Blend** | Mixing of gasoline or components (including oxygenates), **excluding** mixing only of low-sulphur gasolines or adding only additives/oxygenates. |
+| **Blending Facility** | Any facility (including mobile units like tankers or boats) where blending occurs. |
+| **Primary Supplier** | Owner, operator, or manager of a refinery or blending facility; or importer of gasoline. |
+| **Pool Average** | Volume-weighted average sulphur concentration of gasoline produced or imported at a facility or refinery over a year. |
+| **Additive** | Substances added to improve engine performance (e.g., corrosion inhibitors, oxidation inhibitors). |
+| **Oxygenate** | Oxygen-containing organic compound added to increase oxygen content (e.g., ethanol). |
+| **Sulphur-limited oxygenate/butane** | Oxygenates or butane with sulphur content not exceeding the prescribed limit (see section 2(1)(b)). |
+| **Year** | A calendar year. |
+| **Scientific Research** | Excludes consumer preference or marketing research. |
+
+> ⚠️ **Note**: Several definitions have been **repealed** over time (e.g., "California gasoline", "imported", "produced", "trading system") due to changes in policy or relevance. These are marked in the text.
+
+---
+
+## 🚨 **Core Sulphur Concentration Limits**
+
+These are the **primary environmental standards** established under **section 139 of CEPA**:
+
+| Scenario | Sulphur Limit |
+|--------|---------------|
+| **Per batch of gasoline (general rule)** | **12 mg/kg** (if not using pool average) |
+| **Per batch using pool average** | **80 mg/kg** |
+| **Pool average (for primary suppliers who elect this method)** | **10 mg/kg** |
+| **Final concentration in gasoline sold to consumers** | **80 mg/kg** |
+
+> 🔍 **Important Notes**:
+> - The **12 mg/kg** limit applies to **individual batches** unless the primary supplier chooses to use a **pool average**.
+> - If a primary supplier elects to use a **pool average**, the **average concentration across the entire pool must not exceed 10 mg/kg**.
+> - If **sulphur compliance units** are used to adjust sulphur levels (e.g., through use of low-sulphur oxygenates), the **adjusted pool average must still not exceed 10 mg/kg**.
+> - The **80 mg/kg** limit applies to **gasoline sold to end users**, even if the batch itself is below 12 mg/kg — this ensures compliance at the point of sale.
+
+---
+
+## 🚫 **Exemptions from the Sulphur Limits**
+
+The regulations **do not apply** to the following types of gasoline:
+
+1. **Gasoline for aircraft**  
+   - If it has an **octane number ≥99.5** OR contains **≥5 mg/L of lead**.
+
+2. **Gasoline for competition vehicles**  
+   - If it has an **antiknock index ≥100**.
+
+3. **Gasoline used in scientific research**  
+   - Research purposes only (excluding consumer preference or marketing studies).
+
+4. **Gasoline-like blendstock**  
+   - Fuel intended for further refining or blending into low-sulphur gasoline (this is a **distinct category** with special handling).
+
+> ❗ These exemptions are **not blanket** — they are only valid when the specified conditions are met.
+
+---
+
+## 📏 **Sampling and Testing Methods**
+
+To ensure accuracy and consistency:
+
+- **Sampling Method**:  
+  - Must follow the **National Standard of Canada CAN/CGSB-3.5-2016** (Automotive Gasoline), unless an **alternative method** is approved under the *Benzene in Gasoline Regulations* (subsection 6(1)).
+
+- **Testing Methods**:
+  - **Total sulphur in gasoline/oxygenates**: Measured using **ASTM D5453-19a** (UV Fluorescence).
+  - **Total volatile sulphur in butane**: Measured using **ASTM D6667-14(2019)** (UV Fluorescence).
+
+> These standardized methods ensure uniformity and reliability in compliance monitoring.
+
+---
+
+## 📂 **Recordkeeping Requirements**
+
+All **primary suppliers** must maintain detailed records for **five years** after the record is created. Required records include:
+
+### 1. **Batch Identification and Use**
+- Each batch must be **identified and recorded** as one of the following:
+  - Low-sulphur gasoline
+  - Gasoline for aircraft
+  - Gasoline for competition vehicles
+  - Gasoline for scientific research
+  - Gasoline for export
+  - Gasoline in transit
+  - Gasoline-like blendstock
+
+> ⚠️ **If not identified**, the batch is **automatically classified as low-sulphur gasoline**.
+
+### 2. **Record Content (for designated types)**
+For each batch identified under paragraphs (1)(b) to (f), the supplier must keep a record of:
+- Type of gasoline
+- Intended use or delivery destination
+
+### 3. **Gasoline-like Blendstock Records**
+Before dispatch, import, or sale, the supplier must provide a record that includes:
+- Name and address of the person dispatching, importing, or selling
+- Name and address of the **primary supplier** who originally produced or imported
+- Registration number of the refinery or province of origin
+- Name and address of purchaser/receiver and facility
+- Date of dispatch/import/sale
+- Volume of the batch
+
+> ✅ **Mandatory**: The seller must **provide a copy of this record to the buyer before transfer of ownership**.
+
+---
+
+## 📈 **Pool Average System (Election-Based Compliance)**
+
+Primary suppliers may **choose to calculate sulphur levels using a pool average** instead of individual batch testing. This allows for greater flexibility in managing large volumes of fuel.
+
+### How to Elect:
+- Submit a **notice of election** to the Minister:
+  - **First-time producers/importers**: No later than **60 days before first production/import**
+  - **Existing suppliers**: No later than **November 1 of the year before** the year in which the calculation will begin
+  - **Exception**: For the year 2020, notice must be submitted within **30 days of the regulation coming into force**
+
+### Required Information in the Notice:
+- Pool definition (refinery, blending facility, or imported gasoline)
+- Sampling locations, frequency, and methods
+- Location where sulphur concentration is determined
+- Method for measuring batch volume
+- Location where samples and records are stored
+- Method for adjusting sulphur concentration (if using sulphur-limited oxygenates or butane)
+
+> ⚠️ **Adjustments must be transparent and verifiable** — including where the additives are added, how their sulphur content is measured, and how the batch concentration is recalculated.
+
+### Pool Average Calculations:
+
+- The **pool average** is calculated as a **volume-weighted average** of all gasoline in the pool.
+- **Exclusions**:
+  - All batches of **low-sulphur gasoline exported** by the supplier or affiliate
+- **Inclusions**:
+  - **Gasoline-like blendstock** may be included in the pool **only if**:
+    1. It is **owned** by the supplier
+    2. It is **segregated** from other gasoline at the blending facility
+    3. The resulting low-sulphur gasoline is **excluded** from the blending facility’s pool average
+
+> ❌ If gasoline-like blendstock is blended **with existing low-sulphur gasoline

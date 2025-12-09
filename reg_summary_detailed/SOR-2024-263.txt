@@ -1,0 +1,161 @@
+### **Detailed Summary of the Clean Electricity Regulations (S.C. 2023, c. 12, s. 55)**
+
+The **Clean Electricity Regulations**, enacted under the *Canadian Environmental Protection Act, 1999* (CEPA 1999), are a comprehensive regulatory framework designed to **combat climate change by limiting excessive carbon dioxide (CO₂) emissions from fossil fuel-based electricity generation**. These regulations represent a significant step in Canada’s commitment to decarbonizing its energy sector and aligning with national climate goals, including the *Pan-Canadian Framework on Clean Growth and Climate Change*.
+
+---
+
+## **1. Legal Authority and Adoption Process**
+
+The regulations were formally adopted by **Her Excellency the Governor in Council**, on the recommendation of the **Minister of the Environment** and the **Minister of Health**, pursuant to specific provisions in CEPA 1999:
+
+- **Subsection 93(1)d**: Authorizes the Governor in Council to make regulations to protect human health and the environment.
+- **Sections 286.1e and 326f**: Provide additional authority for regulating emissions and establishing compliance mechanisms.
+- **Subsection 330(3.2)g**: Enables the regulation of greenhouse gas emissions from electricity generation.
+
+### **Public Consultation and Review**
+Before adoption, the proposed regulations were:
+- Published in *Canada Gazette, Part I*, on **August 19, 2023**.
+- Opened for public comment, allowing stakeholders (industries, environmental groups, researchers, etc.) to submit feedback or file **notices of objection** requesting a board of review.
+- Reviewed by the **National Advisory Committee**, which provided expert advice under section 6c of CEPA 1999.
+
+### **Governor in Council Determination**
+The Governor in Council concluded that:
+- The proposed regulations **do not conflict** with other federal or provincial environmental or health legislation.
+- They provide **adequate protection** to both human health and the environment from climate change risks associated with fossil fuel electricity generation.
+
+Thus, the regulations were finalized and enacted.
+
+---
+
+## **2. Core Purpose**
+
+> **To protect the environment and human health from the threat of climate change by establishing a regime that prohibits excessive carbon dioxide (CO₂) emissions from the use of fossil fuels to generate electricity.**
+
+This objective is central to Canada’s strategy of reducing greenhouse gas (GHG) emissions and transitioning toward a low-carbon electricity system.
+
+---
+
+## **3. Key Definitions**
+
+The regulations define critical terms used throughout the framework:
+
+| Term | Definition |
+|------|-----------|
+| **Fossil Fuel** | Any fuel (other than biomass) that releases CO₂ when combusted or produced via processes generating CO₂ (e.g., coal, oil, natural gas). |
+| **Biomass** | Organic material from plants or animals (e.g., wood, agricultural waste, biogas) that is non-fossilized and biodegradable. |
+| **Biogas** | A gaseous mixture (mainly methane and CO₂) recovered from anaerobic decomposition of biomass; not suitable for injection into natural gas pipelines. |
+| **Renewable Natural Gas** | Biogas processed to meet pipeline standards or synthetic gas derived from biomass. |
+| **Unit** | An assembly of connected equipment (e.g., boilers, engines, turbines, generators) that operates together to generate electricity. A carbon capture system is considered part of the unit even if not physically connected. |
+| **Facility** | A group of units, buildings, or equipment located on a single site or contiguous sites, under common ownership or control. |
+| **Responsible Person** | Owner or person with charge, management, or control over a unit. |
+| **Electricity Generation Capacity** | Measured in MW; defined as the maximum net power output (gross power adjusted to standard conditions) or the maximum continuous rating if not tested. |
+| **Commissioning Date** | The day the oldest boiler or combustion engine in a unit begins operation. |
+| **Continuous Emission Monitoring System (CEMS)** | Equipment that samples, conditions, and analyzes emissions and records data continuously. |
+| **Standard Conditions** | 15°C temperature and 101.325 kPa pressure. |
+| **Useful Thermal Energy** | Steam or hot water used for non-electric purposes (e.g., heating, industrial processes), reducing the need for fuel consumption. |
+
+---
+
+## **4. Planned Units: Special Provisions**
+
+A **planned unit** is one that meets specific pre-construction criteria and is subject to special rules regarding future compliance.
+
+### **Criteria for a Planned Unit:**
+A unit is considered "planned" if:
+- Its **commissioning date** falls between **January 1, 2025, and December 31, 2034**.
+- **By December 31, 2025**, the following are completed:
+  - All required environmental assessment (EIA) or impact assessment (IA) information has been submitted to relevant authorities.
+  - The proponent owns or leases the land where the unit will be built.
+  - All permits required for construction have been submitted to relevant authorities.
+  - Contracts worth **at least $10 million** have been signed for key equipment.
+- **By December 31, 2027**, construction has begun at the site.
+
+> **Note**: These provisions ensure that major new fossil fuel power projects are subject to rigorous planning, transparency, and environmental review before operations begin.
+
+---
+
+## **5. Application of the Regulations**
+
+The regulations **begin to apply** to a unit when it meets **all three criteria**:
+
+1. Has an **electricity generation capacity of at least 25 MW**.
+2. Generates electricity using **fossil fuel**.
+3. Is **connected directly or indirectly** to an electricity system (i.e., part of the national grid).
+
+### **Exceptions and Flexibility for Smaller Units**
+- A unit with **less than 25 MW** may still be considered to meet the threshold **if**:
+  - Its commissioning date is **on or after January 1, 2025**; and
+  - The **combined capacity** of all other non-planned units at the same facility (with commissioning dates on or after January 1, 2025) is **at least 25 MW**.
+
+> This allows smaller facilities to remain compliant by aggregating capacity with nearby units.
+
+### **Exemption for Planned Units Below 25 MW**
+- A planned unit with less than 25 MW **is not subject** to the regulations.
+
+---
+
+## **6. Determining Electricity Generation Capacity**
+
+The unit’s capacity is determined as follows:
+
+- **Primary Method**: Maximum **gross power** measured at generator terminals, after a performance test conducted under strict conditions.
+- **Fallback Method**: If no performance test is done, use the **maximum continuous rating** (as reported to the electricity system operator).
+
+### **Performance Test Requirements**
+To conduct a valid performance test:
+- Must occur **on or after January 1, 2025**.
+- Must last **at least two hours**.
+- Must not exceed equipment operating limits (temperature, pressure, conductivity).
+- Must not alter the planned maintenance schedule.
+- Results must be adjusted to **standard conditions** (15°C, 101.325 kPa).
+
+### **Performance Test Verifier**
+The verifier must:
+- Be **independent** of the responsible person.
+- Have **at least five years of experience** in testing fossil fuel power units.
+- Demonstrate knowledge of performance testing and CEMS systems.
+
+> The test report must be submitted to the Minister within **60 days** of the test, and must include all information outlined in **Schedule 1**.
+
+---
+
+## **7. Registration Reporting Requirements**
+
+A responsible person must submit a **registration report** to the Minister containing data on the unit, including:
+- Unit details (capacity, location, equipment).
+- Commissioning date.
+- Emission data.
+- Other operational parameters.
+
+### **Deadline for Submission**
+- The **later of**:
+  - **December 31, 2025**, or
+  - The **60th day after** the unit meets the eligibility criteria (Section 5).
+
+### **Updates to Information**
+Any change in unit information (e.g., equipment modification, capacity change) must be reported within **60 days** of the change.
+
+---
+
+## **8. Registration as Multiple Subunits**
+
+A single physical unit may be registered as **multiple subunits** under certain conditions:
+
+### **Conditions for Subunit Registration:**
+1. Each subunit would be a standalone unit if not physically connected.
+2. Each subunit has a **maximum continuous rating**.
+3. Each produces **useful thermal energy**.
+4. All boilers and combustion engines are accounted for in one subunit.
+5. Either:
+   - All boilers started operating **on or before December 31, 2024**, or
+   - All were part of a planned unit on the unit’s commissioning date.
+
+### **Submission Requirements:**
+- If no registration report exists: submit reports for each subunit by the **later of December 31, 2025 or 60 days after eligibility**.
+- If a registration report exists: submit updated reports **before any subunit would be subject to emission limits**.
+
+### **Effect of Subunit Registration:**
+- Each subunit is **treated as a separate unit** under the regulations.
+- The original unit is **no longer subject** to the regulations (except for subsection 43(2)).
+
+> This allows for more granular

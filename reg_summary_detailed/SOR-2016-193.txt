@@ -1,0 +1,166 @@
+**Detailed Summary of the Surface Coating Materials Regulations (S.C. 2010, c. 21)**
+
+---
+
+### **Overview**
+The *Surface Coating Materials Regulations*, made under **section 37 of the Canada Consumer Product Safety Act (CCPSA)**, establish strict limits on the levels of **lead and mercury** that may be present in certain surface coating materials sold to consumers. These regulations aim to protect public health—particularly children and pregnant women—by reducing exposure to toxic substances in consumer products.
+
+The regulations came into force upon registration and apply to a wide range of paint and coating products, with specific exemptions and labeling requirements.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Accessible part** | Any part of a product that a person may touch, lick, mouth, or swallow during normal use. This includes surfaces children might reach or interact with. |
+| **Container** | The packaging in which a surface coating material is sold to the consumer. |
+| **Display panel** | Any part of the container where the product's common or generic name or functional description is displayed. |
+| **Good Laboratory Practices (GLP)** | Practices aligned with the OECD Principles of Good Laboratory Practice (ENV/MC/CHEM(98)17), adopted by the Organisation for Economic Co-operation and Development, ensuring scientific integrity and reliability in testing. |
+| **Surface coating material** | A paint or similar substance (with or without pigment) that forms a solid film when applied to a surface and can be removed. Examples include paints, varnishes, and touch-up sprays. |
+
+---
+
+## **Lead Content Restrictions**
+
+### **General Limit**
+- **No surface coating material** may contain **more than 90 mg/kg of total lead** when tested on a dried sample using a method compliant with **Good Laboratory Practices (GLP)**.
+
+### **Exemptions (Where Lead Limits Do Not Apply)**
+The 90 mg/kg limit **does not apply** to surface coating materials used for the following purposes:
+1. **Agricultural structures**:
+   - Anti-corrosive or anti-weathering coatings on:
+     - Interior or exterior surfaces of buildings used for agriculture.
+     - Equipment used in agriculture.
+2. **Non-building structures**:
+   - Anti-corrosive or anti-weathering coatings on structures (e.g., silos, storage tanks) serving agricultural or public purposes.
+3. **Touch-up coatings** on metal surfaces.
+4. **Outdoor graphic art**:
+   - Includes billboards and outdoor signage.
+5. **Art, craft, or hobby activities** — **except when used by children**.
+
+> ⚠️ **Important Note**: Even though these uses are exempt from the lead limit, **if the material is used by children**, the exemption does not apply, and the lead limit still applies.
+
+---
+
+## **Labeling Requirements for Lead-Containing Coatings**
+
+### **When Lead Exceeds 90 mg/kg (in exempted uses)**
+If a surface coating material used in one of the exempted categories contains **more than 90 mg/kg of lead**, the **display panel** on the container must include a **warning** that meets the following criteria:
+
+#### Required Warning Text:
+> **DANGER**  
+> CONTAINS LEAD / CONTIENT DU PLOMB  
+> DO NOT APPLY TO SURFACES ACCESSIBLE TO CHILDREN OR PREGNANT WOMEN /  
+> NE PAS APPLIQUER SUR UNE SURFACE ACCESSIBLE AUX ENFANTS OU AUX FEMMES ENCEINTES  
+> Must be used exclusively [Insert applicable uses mentioned in exemption list]. /  
+> Utiliser uniquement aux fins suivantes : [insérer les fins mentionnées au paragraphe 2(2) qui s’appliquent].
+
+- The italicized portion must be replaced with the **specific use(s)** (e.g., "on agricultural buildings" or "as a touch-up on metal").
+- The warning must be clearly visible and in **both English and French** (bilingual).
+- The **signal word “DANGER”** must appear in **each** display panel if the warning is split into separate English and French panels.
+- If the warning appears on a **single bilingual panel**, “DANGER” must appear **only once**.
+
+---
+
+## **Labeling Requirements for Small Display Panels**
+
+If the **area of the display panel is less than 35 cm²**, the container may contain **only** the following simplified warning:
+
+> **DANGER**  
+> CONTAINS LEAD / CONTIENT DU PLOMB
+
+- No additional text about use restrictions or exclusions is required.
+- This rule ensures that small containers (e.g., small paint samples or specialty paints) still meet basic safety disclosure standards.
+
+---
+
+## **Design and Visibility Requirements for Warnings**
+
+All required warnings must be:
+- **Permanent, clear, and legible**
+- Written in **capital letters**, **except** for the section on uses (which may be in lowercase)
+- In **bold-face or medium-face sans-serif type** (e.g., Arial, Helvetica)
+- Of a **minimum height and size** based on the **display panel area**, as specified in a table (not included here but referenced in the regulation)
+
+> **Minimum height** is determined by measuring the height of an uppercase letter with an ascender or descender (e.g., "b" or "p") to ensure readability.
+
+---
+
+## **Calculation of Display Panel Area**
+
+To determine the area of the display panel:
+- **Exclusions**:
+  - Any seam
+  - Any convex or concave surface at the top or bottom of the container
+- **For curved containers (not bags)**:
+  - The display panel area is **40% of the total container surface area**, excluding the top and bottom.
+
+> This ensures that even on complex-shaped containers, the warning area is consistently measured and standardized.
+
+---
+
+## **Mercury Content Limit**
+
+- A surface coating material must not contain **more than 10 mg/kg of total mercury** when tested using a GLP-compliant method.
+
+> This is a separate restriction from the lead limit and applies to all surface coating materials, regardless of use.
+
+---
+
+## **Special Restrictions on Removable Coatings Applied to Accessible Parts**
+
+Certain **removable materials** (e.g., stickers, films) or surface coatings applied to **accessible parts** of the following products must **not exceed 90 mg/kg total lead**:
+
+| Product Type | Reason |
+|------------|--------|
+| **Furniture** | Especially children’s furniture, which may be touched or climbed on |
+| **Products for children** | Includes toys, educational items, etc. |
+| **Pencils** | Children may handle and ingest them |
+| **Artist brushes** | May be used by children or in art classes |
+
+> These items are considered high-risk due to potential ingestion or contact by children. The lead limit applies even if the coating is not a paint.
+
+---
+
+## **Repeal Clause**
+The regulation includes a **repeal clause**, indicating that any prior conflicting or outdated provisions are superseded by these new rules.
+
+---
+
+## **Effective Date**
+These regulations come into force on the **day they are registered** (i.e., upon publication in the Canada Gazette).
+
+---
+
+## **Purpose and Public Health Rationale**
+
+- **Lead** is a neurotoxin that can cause developmental delays, behavioral issues, and cognitive impairments—especially in children.
+- **Mercury** is a toxic heavy metal that can harm the nervous system, kidneys, and brain.
+- By setting strict limits and requiring clear, visible warnings, the regulation ensures:
+  - Consumers are informed of potential risks.
+  - High-risk products (especially those used by children) are properly labeled.
+  - Exemptions are carefully defined to allow practical use in agriculture and outdoor art without compromising safety.
+
+---
+
+## **Key Takeaways for Stakeholders**
+
+| Stakeholder | Key Actions |
+|-----------|-------------|
+| **Manufacturers & Importers** | Must test for lead and mercury using GLP-compliant methods. Label containers appropriately based on use. Avoid lead in children’s products or accessible parts. |
+| **Retailers** | Must ensure products are labeled correctly and are not sold without proper warnings. |
+| **Consumers** | Should check labels for "Contains Lead" and avoid using coatings on surfaces accessible to children or pregnant women. |
+| **Regulatory Authorities** | Enforce compliance through product inspections and testing. |
+
+---
+
+## **Conclusion**
+
+The *Surface Coating Materials Regulations* represent a targeted and science-based approach to reducing exposure to toxic substances in consumer products. By setting clear lead and mercury limits, defining specific exemptions, and mandating visible, standardized warnings, the regulations balance **consumer safety** with **practical industrial needs**—particularly in agriculture, outdoor art, and crafts.
+
+They reflect Canada’s commitment to protecting public health, especially that of vulnerable populations like children and pregnant women, while allowing necessary uses in specific sectors.
+
+--- 
+
+✅ **Final Note**: These regulations remain in force and are part of the broader framework under the *Canada Consumer Product Safety Act* to ensure the safety of consumer goods.

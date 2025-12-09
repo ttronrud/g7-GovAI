@@ -1,0 +1,161 @@
+**Detailed Summary of the *Anhydrous Ammonia Bulk Storage Regulations***
+
+---
+
+### **1. Regulation Title and Citation**
+The regulations are officially titled the **Anhydrous Ammonia Bulk Storage Regulations** and may be cited as such. These rules establish safety, design, location, and operational standards for the storage of **anhydrous ammonia** (dry ammonia gas in liquid form) on railway property.
+
+> **Note**: Anhydrous ammonia is *not* the same as aqua ammonia, which is a solution of ammonia in water.
+
+---
+
+### **2. Key Definitions**
+The regulation defines several critical terms used throughout:
+
+- **Anhydrous Ammonia**: Liquid ammonia gas (not dissolved in water).
+- **Design Pressure**: Equivalent to *Maximum Allowable Working Pressure* (MAWP) as defined in the **ASME Boiler and Pressure Vessel Code**.
+- **Filling Density**: A percentage calculated by dividing the maximum allowable weight of anhydrous ammonia in a tank by the water capacity of the tank (measured at **60°F**) and multiplying by 100. This ensures safe loading without overfilling.
+- **Main Track**: A track operated under timetable, train order, or block signaling; used for regular train operations.
+- **Owning or Operating Company**: The entity that owns or operates the facility, as authorized by the Commission through a railway company.
+- **Private Track**: A track not owned by the carrier, either because it's leased or used exclusively by a user under written agreement—treated as equivalent to ownership.
+- **Team Track**: A railway track used for loading/unloading by **multiple companies** or users.
+- **Shall** = Mandatory requirement  
+  **Should** = Recommendation (not enforceable)
+
+---
+
+### **3. Scope of Application**
+- Applies to **stationary bulk storage facilities** for anhydrous ammonia located on **railway right-of-way or leased land** under the jurisdiction of the Commission.
+- Applies to:
+  - New installations
+  - Additions or modifications to existing installations
+- **Effective Date**: February 1, 1965
+- **Exception**: Installations already in operation before February 1, 1965 must comply with these regulations, and if ordered by the Commission, must also meet requirements for **location, construction, and design**.
+
+> **Exemption Clause**: Installations with a total water capacity **not exceeding 2,000 Imperial gallons** (measured at 60°F) are exempt from this Part, provided they meet all other applicable requirements.
+
+---
+
+### **4. Approval and Application Process**
+No construction may begin without **Commission approval** obtained through a formal application submitted by the **railway company**.
+
+#### Required Application Components:
+- Submit **four copies** of detailed drawings (plans and profiles) to the Commission.
+- Drawings must:
+  - Be drawn to a **minimum scale**:
+    - Plans: **50 feet to 1 inch**
+    - Profiles: **20 feet to 1 inch**
+  - Be **dated**, include an **identification number**, and bear the **applicant’s name**.
+
+#### Required Plan Content:
+- Distances from:
+  - Loading/unloading rack to:
+    - Gauge side of nearest rail (on loading track)
+    - Schools, stations, residential areas, hospitals, and public assembly sites within **200 feet**
+    - Engine houses, shops, grain elevators, etc., within **125 feet**
+  - Centerline of loading track to:
+    - Gauge side of nearest rail on main track
+    - Gauge side of nearest adjacent track not serving the installation
+  - Location of:
+    - Storage tanks
+    - Other structures (pumphouses, warehouses, racks)
+    - Property boundaries
+    - Adjacent rail lines
+    - Public buildings within 350 feet of tanks
+    - Buildings within 200 feet of tanks (engine houses, etc.)
+
+#### Required Profile Content:
+- Elevation of installation relative to:
+  - Loading/unloading track
+  - Main track within 200 feet of nearest tank
+- A **second profile** is required if:
+  - Drainage direction needs to be shown
+  - Major features require clearer depiction
+
+#### Notes/Legends Must Include:
+- Evidence from the **Provincial Fire Marshal** or local authority that they have **no objection** to the installation (e.g., signed plan or letter)
+- Statement that **tank design** has been approved by the **Pressure Vessel Inspection Branch** of the province before fabrication
+- Size, contents, and water capacity (in Imperial gallons) of all tanks
+- Type and construction of buildings (pumphouses, compressor houses, etc.)
+- Type of motive power (e.g., electric, diesel) for pumps/compressors
+- Whether tracks are **team tracks** or **private tracks**
+
+> After approval, the railway must **retain copies of all drawings** for the **life of the facility** and for **at least two years after decommissioning**.
+
+---
+
+### **5. Minimum Distances from Rail Tracks and Structures**
+All storage tanks must be located at **minimum distances** from rail tracks and other structures:
+
+| Feature | Minimum Distance |
+|--------|------------------|
+| From **any track** (measured from gauge side of rail to nearest point on tank shell) | **20 feet** |
+| From **main track** | **50 feet** (measured from gauge side of nearest rail to tank shell) |
+| From **adjacent track not serving installation** | Same as main track (50 feet if adjacent track is main track; 20 feet otherwise) |
+
+> **Note**: For **provincial highways**, recommended distance is **half** the distance required for main tracks.
+
+---
+
+### **6. Distances from Nearby Buildings and Public Areas**
+#### For Tanks > 2,000 Imperial Gallons:
+- **300 feet** from:
+  - Stations, office buildings, or other public assembly places on railway property
+  - Schools, hospitals, theatres, residential areas, or similar places of public assembly
+- **150 feet** from:
+  - Engine houses, railway shops, grain elevators, or similar buildings
+
+#### For Tanks ≤ 2,000 Imperial Gallons:
+- **50 feet** from public assembly buildings (stations, schools, hospitals, etc.)
+- **25 feet** from engine houses, shops, grain elevators
+
+#### For Tanks > 100 Imperial Gallons:
+- **10 feet** from any building on the installation site used **exclusively** by the owning/operating company
+- **5 feet** from any building opening at the same level as the tank vent or within 5 feet above it
+
+> If a building poses a **hazard** to the storage area, distance must be **at least 50 feet** from tanks >100 Imperial gallons.
+
+---
+
+### **7. Inter-Tank Distances**
+- **Between two tanks** (each >2,000 Imperial gallons): **Minimum 5 feet** clear distance
+- **Between anhydrous ammonia tank and flammable liquid tank**: **Minimum 20 feet**
+  - Exception: For installations with **>150,000 Imperial gallons** total capacity, the distance must be **at least 100 feet**
+- **Anhydrous ammonia tank shall not be located within a diked area** containing flammable liquid storage tanks
+- **Between different groups of tanks** (as defined in Section 22): **Minimum 25 feet**
+
+> Distances are measured from the **gauge side of the nearest adjacent track or main track** to the **centerline of the loading/unloading track**.
+
+---
+
+### **8. Loading/Unloading Track Requirements**
+- Must be:
+  - **At least 50 feet** from the **main track**
+  - **At least 20 feet** from the **nearest adjacent track not serving the installation**
+  - **50 feet** if the adjacent track is a **main track**
+- **Structures over 4 feet high** must be at least **6 feet** from the gauge side of the loading track
+- **Structures 4 feet or less high** must be at least **3 feet 7¾ inches** from the rail
+  - In **Newfoundland**, this is **3 feet 10 inches** for non-standard gauge tracks
+  - For **curved tracks**, add **1 inch per degree of curvature**
+
+> **Loading/unloading racks** must be:
+- At least **150 feet** from any station, office, or public building on railway property
+- **Recommended minimum of 150 feet** from schools, hospitals, theatres, residential areas
+- **75 feet** from engine houses, rail shops, grain elevators (except in specific cases)
+- **10 feet** from any building used exclusively by the owning/operating company
+
+---
+
+### **9. Pumphouses, Compressors, and Outdoor Equipment**
+- Must be located **at least 10 feet** from:
+  - Storage tanks
+  - Loading/unloading points
+  - Buildings
+- **Exception**: Outdoor pumps/compressors driven by **explosion-proof motors** (Class I, Division I, Group D) wired per **Canadian Electrical Code** are exempt from this requirement.
+
+> Must also be **at least 25 feet** from any location on **another property** that may be developed (e.g., future construction).
+
+---
+
+### **10. Tank Truck Safety During Operations**
+- During loading/unloading, **tank trucks must remain at least 10 feet** from the tank or tank car (me

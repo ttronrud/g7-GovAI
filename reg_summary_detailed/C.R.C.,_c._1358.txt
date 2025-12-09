@@ -1,0 +1,208 @@
+The regulation you provided is a **detailed and comprehensive set of definitions and provisions** from the *Public Service Superannuation Act* (Act), specifically addressing **employee classifications, service definitions, salary calculations, pension types, installment payment rules, default and recovery mechanisms, and interest provisions**. Although the regulation is largely **repealed or superseded** (as noted at the top: *Repealed, SOR/2016-203, s. 2*), it remains historically significant and may still inform current interpretations or transitional arrangements under the Public Service Superannuation system.
+
+Below is a **detailed, structured summary** of the key components of this regulation, organized by thematic section for clarity and understanding.
+
+---
+
+## 🔍 OVERVIEW
+
+This regulation outlines the **definitions, classifications, and procedural rules** governing the eligibility, calculation, and payment of superannuation and pension benefits under the *Public Service Superannuation Act*. It defines who qualifies as an employee, what constitutes full-time or part-time work, how pensions are structured, and how contributions and installments are managed — especially in cases where employees choose to pay into the Superannuation Account in installments rather than making lump-sum contributions.
+
+Key notes:
+- The regulation is **repealed** as of **SOR/2016-203, section 2**, meaning it no longer applies in its current form.
+- It was largely **in effect prior to 2016**, and many of its principles may have been incorporated into updated legislation or administrative guidelines.
+- It reflects the **historical structure** of public service pension administration in Canada, particularly during the mid-20th century.
+
+---
+
+## 1. DEFINITIONS AND CLASSIFICATIONS OF EMPLOYEES
+
+### a) Key Definitions
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Public Service Superannuation Act* (Loi) |
+| **Department** | Includes any portion of the executive government of Canada, Parliament (Senate and House of Commons), Library of Parliament, and any public service entity specified in Schedule I. |
+| **Deputy Head** | Chairperson, president, or chief executive officer of a department. |
+| **Employee** | An officer or clerk in the public service. |
+
+### b) Active Service (in Forces)
+Defines eligibility for certain benefits based on military service:
+- Full-time service in a component of the **naval, army, or air forces of Canada** placed on active service under the *Militia Act*.
+- Service in forces of Her Majesty (outside Canada's forces) during wartime, including Allied forces.
+
+> ⚠️ *Note: This definition was repealed by S.C. 1950, c. 43, s. 250.*
+
+### c) Veterans’ Hospital
+A place where a person received treatment (inpatient or outpatient with allowances) from:
+- Department of Veterans Affairs  
+- Department of Pensions and National Health  
+- Department of Soldiers’ Civil Re-establishment  
+
+Used to determine eligibility for certain benefits or service credit.
+
+---
+
+## 2. EMPLOYMENT STATUS CLASSIFICATIONS
+
+### a) Full-Time Employee
+Defined in three scenarios:
+
+1. **With established normal hours**  
+   → Engaged to work the **greater of**:
+   - The normal hours per week for the employee’s occupational group, or  
+   - 30 hours per week.
+
+2. **Without established normal hours**  
+   → Engaged to work **37.5 hours per week**.
+
+3. **Concurrent part-time positions**  
+   → If the sum of (A ÷ B) across all positions ≥ 1, where:
+   - A = average hours per week worked  
+   - B = average hours per week for full-time equivalent  
+   → Then considered full-time.
+
+> *Note: This definition excludes certain roles (e.g., commissioners under Inquiries Act) before July 4, 1994.*
+
+---
+
+### b) Part-Time Employee
+- Works on average **at least 12 hours per week** across all positions.
+- Is **not** a full-time employee.
+
+---
+
+### c) Seasonal Employee
+- **Before July 4, 1994**:  
+  → Certified under the *Public Service Employment Act* OR appointed for less than 12 months in successive years (excluding teachers under Indian Act or NW Territories ordinances).  
+  → **Exclusion**: Does **not** include someone who previously contributed to the Superannuation Account.
+
+- **After July 3, 1994**:  
+  → Has **one or more lay-offs of at least three consecutive months per year**.
+
+> *Note: Excludes those who previously contributed to the Superannuation Account.*
+
+---
+
+### d) Sessional Employee
+- Employee of **either or both Houses of Parliament**.
+- Employed for **one or more sessions** of Parliament.
+- **Exclusion**: Does not apply to someone who previously contributed to the Superannuation Account.
+
+> *Note: Excluded to prevent double-counting of past contributions.*
+
+---
+
+## 3. SALARY FOR BENEFIT PURPOSES
+
+For part-time employees, **basic pay** is calculated as follows:
+
+- If working **less than average hours** → Pay they would have earned if working the average hours.
+- Otherwise → Actual remuneration received for average hours.
+
+This ensures that part-time employees are compensated fairly based on their actual workload and average hours.
+
+---
+
+## 4. KINDS OF SUPERANNUATION OR PENSION BENEFITS
+
+Two types of benefits are recognized:
+
+### a) Benefit under Judges Act
+- Paid from the **Consolidated Revenue Fund** or other government funds.
+- Related to service period.
+- Paid in **instalments during lifetime and after** (if provided).
+
+### b) Benefit from Boards, Commissions, or Corporations (Schedule A)
+- Paid from **non-Consolidated Revenue Fund** accounts.
+- Must be:
+  - Related to service period,
+  - Paid in instalments during lifetime and after.
+
+> These benefits are **not** considered "pensionable" under the Superannuation Act if they are not tied to service or paid from specific funds.
+
+---
+
+## 5. INSTALLMENT PAYMENT PLANS (Key Provision)
+
+### a) Election to Pay in Installments
+- A contributor may choose to pay **installments** instead of a lump sum for a period of service in pensionable employment.
+- **First instalment** due at end of month when election is received.
+- Subsequent instalments paid **monthly** during life of contributor.
+
+#### Number of Installments:
+- If first payment is **before age 45**:  
+  → Total number of instalments to be paid **before age 65**.
+- If first payment is **after age 45**:  
+  → Total number of instalments to be paid within **20 years**.
+
+> **Calculation Basis**:
+> - Based on **Canadian Life Table No. 2 (1941)**, for males or females.
+> - Interest at **4% per annum**.
+
+### b) Amendments to Payment Plans
+Contributors may:
+- Change to **lump sum**,
+- Larger monthly instalments (similar to original plan),
+- Or a combination of lump sum and monthly instalments (within same or shorter period).
+
+> **Restriction**: If multiple periods of service exist and one is invalid, the contributor may reduce payments to the **minimum required** for valid periods — **without extending the payment period**.
+
+---
+
+## 6. DEFAULT AND RECOVERY MECHANISMS
+
+### a) Default on Installment
+If a contributor misses a payment:
+- Minister **demands payment immediately** (except during leave without pay).
+- Amount in default, **with interest at 4% per annum**, becomes due.
+
+#### Payment Options:
+- **Lump sum immediately**, or  
+- **Monthly instalments** for:
+  - The **life of the contributor**, or  
+  - The **remainder of the original payment period** (whichever is shorter).
+
+> If contributor does **not respond within 30 days**, defaults to the **monthly instalment option**.
+
+---
+
+### b) Alternative Payment Plan (After Default)
+A contributor may, before expiry of 30-day window:
+- Pay **all defaults** with interest (4% per annum from due date).
+- Over a period starting:
+  - 30 days after the end of the period when contributions were paid without default, or  
+  - The last day of the month when the election is made — whichever is **later**.
+
+> If contributor **dies before full payment**, unpaid amounts with interest continue to be payable into the Superannuation Account.
+
+---
+
+### c) Error in Payment
+If an amount is paid in error:
+- Minister **immediately demands repayment** of the erroneous amount.
+
+---
+
+### d) Response to Demand
+A person receiving a demand must:
+- Pay the amount in **one lump sum**, or  
+- Arrange to pay in **monthly instalments** within 30 days.
+
+---
+
+## 7. RECOVERY FROM BENEFITS (POST-DEATH OR POST-EMPLOYMENT)
+
+### a) When a Contributor Leaves Service
+- If a contributor ceases employment and becomes entitled to benefits:
+  - The **benefit can be offset** by **retention or set-off** of the unpaid amount.
+  - Options:
+    - **Lump sum**, or  
+    - **Monthly instalments** (life or remaining term, whichever is shorter).
+
+> Interest at **4% per annum** applies.
+
+---
+
+### b) Upon Death of Contributor
+- If an amount due to the Superannuation Account is **not paid**:
+  - Minister may demand payment from the **widow or children** (

@@ -1,0 +1,131 @@
+### **Detailed Summary of the On-Road Vehicle and Engine Emission Regulations (Canada)**
+
+---
+
+#### **1. Regulatory Background and Legal Authority**
+
+The **On-Road Vehicle and Engine Emission Regulations** were enacted under **section 160 of the Canadian Environmental Protection Act (CEPA), 1999**, following a public consultation process initiated under **subsection 332(1)** of the same Act.
+
+- On **March 30, 2002**, the Minister of the Environment published a proposed version of the Regulations in *Canada Gazette, Part I*, providing an opportunity for stakeholders—including industry, environmental groups, and the public—to submit comments or file formal objections.
+- Objections could request a **board of review** to examine the proposed rules and assess whether they were reasonable or scientifically sound.
+- After reviewing all public feedback, the Governor in Council, on the recommendation of the Minister, **formally adopted and enacted** the final regulations.
+
+This regulatory action reflects Canada’s commitment to reducing air pollution from motor vehicles by establishing **science-based, enforceable emission standards** aligned with international best practices—particularly those of the United States Environmental Protection Agency (EPA).
+
+---
+
+#### **2. Key Definitions and Terminology**
+
+The regulations define critical terms used throughout the text to ensure clarity, consistency, and technical accuracy in enforcement and compliance. These definitions cover both **vehicle types** and **emission-related concepts**.
+
+---
+
+##### **A. Vehicle Classifications**
+
+| Term | Definition |
+|------|-----------|
+| **Light-duty vehicle** | Designed primarily for transporting people with seating capacity of **≤12 persons**. |
+| **Light-duty truck** | Vehicles with GVWR ≤ 3,856 kg (8,500 lb). Subdivided into: <br> - **Light-duty truck 1**: Loaded weight ≤ 1,701 kg (3,750 lb) <br> - **Light-duty truck 2**: Loaded weight > 1,701 kg <br> - **Heavy light-duty truck (truck 3/4)**: Adjusted loaded weight > 2,608 kg (5,750 lb) |
+| **Medium-duty passenger vehicle** | Heavy-duty vehicle with GVWR < 4,536 kg (10,000 lb), designed for passenger transport, but excludes vehicles with seating >12, open cargo areas ≥183 cm, or seating >9 behind driver. |
+| **Heavy-duty vehicle** | GVWR > 3,856 kg (8,500 lb). Includes: <br> - **Class 2B**: GVWR > 3,856 kg and ≤ 4,536 kg <br> - **Class 3**: GVWR > 4,536 kg and ≤ 6,350 kg |
+| **Tractor** | GVWR > 11,793 kg (26,000 lb); designed to pull trailers, not carry cargo. |
+| **Motorcycle** | Two- or three-wheeled vehicle with headlight, tail light, stoplight; curb weight ≤ 793 kg (1,749 lb). |
+
+> *Note: "Complete heavy-duty vehicle" was repealed in 2015 (SOR/2015-186, s.1), so it is no longer applicable.*
+
+---
+
+##### **B. Engine Types**
+
+| Term | Definition |
+|------|-----------|
+| **Diesel engine** | Engine operating similarly to the theoretical Diesel cycle; typically lacks a throttle during normal operation. |
+| **Otto-cycle engine** | Engine operating similarly to the theoretical Otto cycle; uses a throttle during normal operation. |
+| **Heavy-duty engine** | Engine designed for use in heavy-duty vehicles, excluding medium-duty passenger vehicles, Class 2B, or Class 3 vehicles. |
+| **Otto-cycle heavy-duty vehicle** | A heavy-duty vehicle powered by an Otto-cycle engine. |
+
+---
+
+##### **C. Emission-Related Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Exhaust emissions** | Substances released from any opening downstream of the engine’s exhaust port. |
+| **Crankcase emissions** | Pollutants emitted from engine crankcase ventilation or lubrication systems. |
+| **Evaporative emissions** | Hydrocarbons released from fuel systems (e.g., fuel tanks, lines) **excluding exhaust and crankcase emissions**. |
+| **HC + NOX** | Sum of hydrocarbon and nitrogen oxide (NOx) exhaust emissions. |
+| **NMHC** | Non-methane hydrocarbon exhaust emissions. |
+| **NMOG + NOX** | Sum of non-methane organic gas (NMOG) and NOx exhaust emissions. |
+
+> These emissions are central to the regulatory standards and are measured under specific test procedures.
+
+---
+
+##### **D. Technical and Testing Concepts**
+
+| Term | Definition |
+|------|-----------|
+| **Federal Test Procedure (FTP)** | A standardized test procedure (based on EPA’s Light-duty Urban Dynamometer Driving Schedule – UDDS) used to measure **urban driving exhaust and evaporative emissions**. |
+| **Test group** | Grouping of vehicles based on EPA certification or CFR classification. Used to apply emission standards. |
+| **Engine family** | Grouping of engines (for manufacturers) based on EPA certification or CFR section 24 (for heavy-duty engines) or section 420 (for motorcycles). |
+| **Evaporative emission family** | Grouping for evaporative emissions, determined under CFR section 1821. |
+| **Family emission limit** | Maximum emission level set by a manufacturer for a given test group, engine family, or evaporative family. |
+| **Full useful life emission bin** | A set of emission standards applied over the vehicle’s **useful life** (as defined in CFR), chosen by the manufacturer from specific tables depending on model year and vehicle type. |
+| **Useful life** | The period during which an emission standard applies, as defined in the CFR. May be full or intermediate. |
+| **Static loaded radius arc** | A circular arc formed by a standard tire-rim assembly at curb weight, with the center at the tire’s center and radius equal to the distance from the center to the ground. Used in calculating vehicle angles (approach, break-over, departure). |
+| **Approach angle, Break-over angle, Departure angle** | Geometric measures of a vehicle’s ability to navigate obstacles: <br> - **Approach**: angle between level ground and a tangent to the front tire arc touching the underside forward of the front tire. <br> - **Break-over**: supplement of the largest angle between tangents to front and rear arcs. <br> - **Departure**: angle between level ground and tangent to rear tire arc touching underside rearward of rear tire. |
+
+> These angles are important for off-road capability and vehicle design compliance.
+
+---
+
+##### **E. Fuel and Weight Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Curb weight** | Weight of a vehicle in operational status with standard equipment, fuel at nominal capacity, and optional equipment. |
+| **Loaded vehicle weight** | Curb weight + 136 kg (300 lb) — assumed standard load. |
+| **Adjusted loaded vehicle weight** | Numerical average of curb weight and GVWR. Used in classifying heavy-duty trucks. |
+| **Nominal fuel tank capacity** | Manufacturer-specified fuel tank volume, rounded to the nearest 3/8 L (1/10 US gallon). |
+
+---
+
+##### **F. Reference to U.S. Federal Regulations (CFR)**
+
+The regulations **incorporate by reference** specific standards from the **Code of Federal Regulations (CFR)**, particularly **Title 40, Chapter I, Subchapter C, Part 86**, which governs vehicle emissions in the United States.
+
+However, the incorporated standards are **modified** to exclude:
+
+1. **References to EPA discretion** (e.g., administrative flexibility or exemptions).
+2. **Alternative standards** such as:
+   - Fleet average emissions
+   - Emission credits
+   - Small-volume manufacturer exemptions
+   - Financial hardship provisions
+3. **Conformity evidence from any other authority** (i.e., only EPA-conformant standards apply).
+
+> This ensures that Canada applies **strict, uniform, and transparent standards** derived directly from U.S. EPA rules, without introducing leniency or alternative pathways.
+
+---
+
+#### **3. Regulatory Objectives and Scope**
+
+The primary objectives of these regulations are:
+
+- To **reduce air pollution** from on-road vehicles by setting **science-based, measurable emission limits**.
+- To ensure **consistency with international standards**, particularly U.S. EPA standards, which are widely recognized as benchmarks in environmental protection.
+- To promote **technology innovation** through performance-based standards that encourage manufacturers to develop cleaner engines and emission control systems.
+- To provide **clear definitions and classification systems** that allow for consistent application across different vehicle types and engine technologies.
+
+The scope covers:
+
+- All **on-road vehicles** (self-propelled, designed for highway use).
+- **Light-duty**, **medium-duty**, and **heavy-duty vehicles**, including trucks, passenger cars, motorcycles, and tractors.
+- **Engine types** (diesel, Otto-cycle) with specific emission controls.
+- **Emissions** from exhaust, crankcase, and evaporative sources.
+
+> Vehicles excluded from scope include:
+> - Military vehicles used in combat
+> - Vehicles that cannot exceed 40 km/h (25 mph) on level pavement
+> - Vehicles lacking essential highway safety features (e.g., reverse gear, differential)
+> - Vehicles with features

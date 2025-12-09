@@ -1,0 +1,146 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the regulation you provided — which governs the **determination of country of origin for goods imported from NAFTA (now CUSMA) countries**, with specific provisions on **how origin is established and marked on goods**, particularly for **tariff marking and compliance under the Canada–United States–Mexico Agreement (CUSMA)**.
+
+---
+
+## 📜 **Regulation Summary: Determination of Country of Origin for Goods Imported from CUSMA Countries**
+
+### 🔹 **Legal Basis & Purpose**
+- **Enacted by**: His Excellency the Governor General in Council, on the recommendation of the Minister of Finance.
+- **Authority**: Pursuant to **subsection 63.1(1)** of the *Customs Tariff*.
+- **Effective Date**: Upon the coming into force of **Section 133 of the Canada–United States–Mexico Agreement (CUSMA) Act** (Chapter 44 of the Statutes of Canada, 1993).
+- **Purpose**: To establish clear, consistent rules for determining the **country of origin** of goods imported from CUSMA countries (Canada, U.S., Mexico), so that these goods may be properly **marked** to indicate their origin — a key requirement under trade agreements to ensure fair competition and compliance with rules of origin.
+
+> ⚠️ **Note**: This regulation was **repealed in 2018** (SOR/2018-116, s. 8), but it was **replaced by updated CUSMA Rules of Origin Regulations**. However, this document reflects the **original framework** used during the transition from NAFTA to CUSMA and remains relevant as a foundational reference.
+
+---
+
+## 🔍 Key Definitions and Terminology
+
+| Term | Definition |
+|------|-----------|
+| **CUSMA Country** | A party to the Canada–United States–Mexico Agreement (Canada, U.S., Mexico). |
+| **Goods** | Any tangible product imported into Canada. |
+| **Materials** | Goods incorporated into other goods; includes parts, components, and ingredients. |
+| **Incorporated** | Physically included in the final product through production. |
+| **Foreign Materials** | Materials whose country of origin differs from where the goods are produced. |
+| **Domestic Materials** | Materials whose country of origin matches the country of production. |
+| **Minor Processing** | Non-substantive operations such as cleaning, trimming, coating, or packaging that do not alter the essential character of the goods. |
+| **Simple Assembly** | Fitting together of five or fewer foreign parts (excluding fasteners) via gluing, bolting, sewing, etc., without significant processing. |
+| **Fungible Goods/Materials** | Interchangeable goods/materials with identical commercial properties (e.g., different brands of steel). |
+| **Commingled** | Physically mixed or combined in inventory, making direct identification of origin impractical. |
+| **Tariff Provision** | A heading, subheading, or item in the Harmonized System (HS) classification. |
+| **Applicable Change in Tariff Classification** | A change in classification specified in Schedule III for a given tariff provision. |
+| **Ultimate Purchaser** | The last person in Canada who buys the goods in their original form. |
+| **Usual Container** | The standard packaging in which goods reach the ultimate purchaser. |
+
+---
+
+## 🎯 Core Principles for Determining Country of Origin
+
+The country of origin is determined based on **one of four primary criteria**, in order of priority:
+
+---
+
+### ✅ **1. Wholly Obtained or Produced in a CUSMA Country**
+Goods are considered to originate in a country if they are:
+- **Mineral goods** extracted in that country,
+- **Vegetables or crops** harvested in that country,
+- **Live animals** born and raised there,
+- **Hunted, trapped, or fished** in that country,
+- **Taken from sea** by vessels registered and flying that country’s flag,
+- **Produced on factory ships** from marine products (if ship is registered and flies that country’s flag),
+- **Recovered from seabed** outside territorial waters where that country has rights,
+- **Obtained from outer space** by that country or its nationals,
+- **Waste or scrap** derived from production or collection in that country (only if fit for raw material recovery).
+
+> ✔️ This applies even if the goods are not further processed — they originate in the country of production.
+
+---
+
+### ✅ **2. Produced Exclusively from Domestic Materials**
+If all materials used in manufacturing the goods are **domestically sourced** (i.e., from Canada), then the **country of origin is Canada**.
+
+> ⚠️ This requires that **no foreign materials** are incorporated.
+
+---
+
+### ✅ **3. Foreign Materials Undergo an Applicable Change in Tariff Classification**
+If foreign materials are incorporated into goods and:
+- Undergo a **change in tariff classification** (as defined in Schedule III), **and**
+- Meet all other applicable requirements of the regulations,
+
+Then the **origin of the goods is determined by the country of origin of those materials**.
+
+> 🔍 Example: A foreign component is reclassified into a different HS code during processing — this counts as an "applicable change."
+
+> ❌ **Exclusions from "applicable change"**:
+- Change due to **end-use** only,
+- Change due to **dismantling/disassembly**,
+- Mere **dilution with water** (if no material change),
+- Mere **collection of parts** to be classified as an assembled good (Rule 2(a) of General Rules).
+
+---
+
+### ✅ **4. Origin Determined by Last Country of Production (Default Rule)**
+If origin cannot be determined under sections 4–6, then:
+- **If goods undergo only minor processing**: Origin is the country of origin of all materials that impart essential character.
+- **If goods are produced by simple assembly** and all such parts have the **same country of origin**: Origin is that country.
+- **In all other cases**: Origin is the **last country where production occurred** (excluding minor processing).
+
+> ⚠️ This is the **fallback rule** when no other criteria apply.
+
+---
+
+## 📌 Special Rules for Fungible Goods and Commingled Materials
+
+### 🔹 Fungible Goods (Interchangeable Materials)
+- If **fungible materials** are **commingled** (mixed), and **direct physical identification is not practical**, the country of origin is determined at the importer’s choice:
+  - Under **subsection (1)** (direct rules), or
+  - Using an **inventory management method** (as set out in **Part 1 or Part 2 of Schedule 8** of the *CUSMA Rules of Origin Regulations*).
+
+> 📌 This allows importers to use internal tracking systems to assign origin based on inventory records rather than physical inspection.
+
+> ⚠️ If multiple fungible goods have **different origins**, and are commingled, **all countries of origin** are attributed to the commingled goods.
+
+---
+
+## 🚫 Disregarding Foreign Materials (Threshold Rules)
+
+Foreign materials may be **ignored** when determining origin **if**:
+- They do **not undergo an applicable change in tariff classification** or meet other requirements, **and**
+- Meet one of the following **value or weight thresholds**:
+
+| Chapter | Threshold |
+|--------|-----------|
+| **Chapters 50–63** (e.g., textiles, clothing, footwear) | Combined **weight** of foreign materials ≤ **7%** of total goods |
+| **All other chapters** (except 1–4, 6–8, 11, 12, 15, 17, 20) | Value of foreign materials ≤ **7%** of total value of goods |
+| **Chapter 22** (e.g., machinery, equipment) | Value ≤ **10%** of total value |
+
+> ✅ The **value of materials** is determined at the importer’s discretion:
+> - **Option A**: Value for duty (as defined in subsection 2(1) of the *Customs Act*), with a specific reading of "in accordance with regulations" to refer to **this regulation** (not the Currency Act).
+> - **Option B**: Value as determined in **Schedule 6** of the CUSMA Rules of Origin Regulations, with possible adjustments.
+
+> ⚠️ **Excluded from consideration**:
+> - Accessories, spare parts, or tools delivered with goods,
+> - Packing materials and containers,
+> - Indirect materials (e.g., lubricants, tools, fuel, maintenance supplies).
+
+---
+
+## 📚 Special Cases: Goods for Personal or Household Use
+
+Certain **specific household or personal-use items** are **exempt from marking requirements** under this regulation (i.e., subsection (1) does not apply). These include:
+
+| Item | Examples |
+|------|---------|
+| **Bakeware & Cookware** | Aluminum, cast iron |
+| **Bath Mats & Towels** | Knitted or woven |
+| **Batteries** | Dry cell |
+| **Blankets** | Any type |
+| **Brushes** | Toothbrushes, handles |
+| **Candles** | All types |
+| **Cards** | Credit/ID cards > ½ inch in diameter, imported in sheet form |
+| **Chrome-plated ware** | Food serving utensils |
+| **Lighters** | Cigar/cigarette only (not for vehicles) |
+| **Clocks & Movements** | Not for vehicle OEM use |
+| **Containers** | Caraf

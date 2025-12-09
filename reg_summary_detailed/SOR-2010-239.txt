@@ -1,0 +1,186 @@
+**Detailed Summary of the *Electronic Documents (Banks and Bank Holding Companies) Regulations***  
+*Pursuant to the Bank Act (Bank Act), S.C. 2005, c. 54, s. 135 and s. 138; in force as of June 1, 2011*
+
+---
+
+### **1. Regulatory Background and Authority**
+These regulations were made by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, under specific provisions of the *Bank Act*:
+- **Section 978(1)a**
+- Sections **993b, 995b, 996b, 998b, 1002b, and 1003b**
+
+The purpose of these regulations is to **establish rules governing the use of electronic documents** by banks and bank holding companies in compliance with the Bank Act, particularly in relation to the **provision and receipt of notices, documents, and other information**.
+
+---
+
+### **2. Key Definitions and Interpretations**
+
+- **"Act"** refers to the *Bank Act*.
+- **"Prescribed notices, documents or other information"** (for section 993 of the Act) means the types of information specified in **sections 82 to 135 of the Bank Act**.
+- All electronic documents provided under these regulations must be:
+  - **Clear, simple, and not misleading** in language and presentation.
+  - Delivered in a **language and format that is understandable** to the recipient.
+
+---
+
+### **3. When Electronic Documents Are Not Required to Be Sent to a Designated Information System**
+
+Under **paragraph 995(1)(b)** of the Bank Act, an electronic document **does not need to be sent directly to a designated information system** if:
+1. It is **posted on or made available through a generally accessible electronic source** (e.g., a public website); and  
+2. The **addressee is given written notice** (in paper or electronic form) of:
+   - The **availability** of the document; and  
+   - Its **location** (e.g., URL or link).
+
+> ✅ This allows for broader dissemination of information via public websites, reducing administrative burden on banks, as long as recipients are properly informed.
+
+> ⚠️ **Note**: This provision **does not apply** to notices or documents referred to in **section 8** of the Bank Act (which may involve more sensitive or legally critical communications).
+
+---
+
+### **4. Consent for Electronic Document Delivery**
+
+#### **General Principle (Paragraph 995(1)(c))**
+An addressee may give **consent** to receive electronic documents in:
+- **Writing** (paper or electronic form), or  
+- **Orally**
+
+> This flexibility supports both formal and informal consent mechanisms.
+
+---
+
+#### **Requirements Before Written Consent Is Given**
+
+Before an addressee gives written consent, the originator (or their agent) must provide the following **in writing** (paper or electronic form):
+
+1. **Right to revoke consent at any time**  
+   → The addressee may withdraw their consent at any point.
+
+2. **Responsibility for informing the originator of changes**  
+   → The addressee must notify the originator of any changes to:
+   - The designated information system; or  
+   - Contact information related to that system.
+
+3. **Retention obligations**  
+   → The electronic document will be retained for a period specified in the notice.  
+   → The **addressee is responsible for retaining a copy** of the document.
+
+4. **Effective date of consent**  
+   → The notice must specify **when the consent takes effect**.
+
+> 🔍 *Note: These requirements ensure transparency, accountability, and clarity in consent processes.*
+
+---
+
+#### **Consent in Writing – Mandatory Information**
+If consent is given in writing, it must include:
+- The **name of the information system** designated by the addressee for receiving electronic documents; and  
+- A **list** (in paper or electronic form) of the specific notices, documents, or information covered by the consent.
+
+> This ensures that recipients are fully aware of what they are agreeing to receive.
+
+---
+
+#### **Consent Given Orally**
+If consent is given **orally**, the originator must:
+- Provide the addressee with a **written notice** (paper or electronic) containing the information required under subsection (2) above; and  
+- **Confirm in writing** the details of the consent (e.g., effective date, designated system, etc.).
+
+> This ensures that oral consents are legally binding and properly documented.
+
+---
+
+#### **One-Time Consent Exception**
+If the consent is for a **one-time delivery** of an electronic document (e.g., a single report or notice), then **subsection (2)** (the pre-consent notification requirements) **does not apply**.
+
+> This provides flexibility for temporary or ad hoc communications.
+
+---
+
+#### **Revocation of Consent**
+An addressee may revoke consent:
+- In writing,  
+- In paper, or  
+- Orally.
+
+Upon revocation, the originator must:
+- Provide the addressee with **written confirmation** (paper or electronic) of the revocation.  
+- Specify **when the revocation takes effect**.
+
+> This ensures that revocation is formalized and effective, protecting both parties.
+
+> ❌ *Note: Sections (2) and (3) related to revocation were repealed by SOR/2020-47, s. 15 and s. 16 respectively — indicating that the current version reflects an updated or revised regulatory framework. However, the core principles remain in effect.*
+
+---
+
+### **5. Concurrent Delivery to Multiple Addressees**
+
+Under **paragraphs 996(b) and 998(b)** of the Bank Act:
+- If a notice, document, or information is required to be sent to **several addressees**, it must be provided to **all of them simultaneously** (concurrently).
+
+> This prevents delays or inconsistencies in communication and ensures equal treatment of recipients.
+
+---
+
+### **6. Delivery to a Designated Information System**
+
+If a notice or document is required to be sent to a **specific physical location** under the Bank Act, it may instead be delivered:
+- To an **information system designated by the addressee** (e.g., a secure email or internal portal).
+
+> This allows for digital substitution of physical delivery, provided the recipient has designated a system and consented to receive the document there.
+
+---
+
+### **7. When an Electronic Document is Considered "Provided"**
+
+An electronic document is deemed to have been **provided** to an addressee when:
+- It **leaves the control of the originator or their agent** (i.e., it is sent from their system); **or**
+- It is **posted on or made available through the originator’s secure website**.
+
+> This establishes a clear legal benchmark for when delivery is complete, even in digital form.
+
+> ⚠️ **Important**: This rule does **not affect** the timing of delivery under **section 9** of the Bank Act, which requires a **paper copy to be mailed** to the addressee if there is a reasonable belief that they did not receive the electronic version.
+
+> So, even if an electronic document is delivered via a secure website, a **paper copy must still be mailed** if there is reason to believe the addressee missed it.
+
+---
+
+### **8. When an Electronic Document is Considered "Received"**
+
+An electronic document is considered **received** when:
+- It **enters the designated information system** of the addressee;  
+- It is **posted on or made available through the originator’s secure website**; or  
+- The **notice in paragraph 4(1)(b)** (the notice of availability) is received by the addressee.
+
+> This defines the point at which the recipient is legally deemed to have received the document, which is critical for compliance with record-keeping and legal obligations.
+
+---
+
+### **9. Electronic Signatures**
+
+Under **section 1002 of the Bank Act**, a signature may be **electronic** and must consist of:
+- One or more **letters, characters, numbers, or symbols** in digital form that are:
+  - Incorporated in, attached to, or associated with the electronic document.
+
+> This allows for the use of digital signatures (e.g., digital certificates, email signatures, or electronic seals) to authenticate electronic communications.
+
+---
+
+### **10. Regulatory Timeline and Enforcement**
+
+- **Coming into force**: **June 1, 2011**  
+- These regulations apply to **banks and bank holding companies** operating under the *Bank Act*.
+
+---
+
+### **Summary of Key Provisions (Table Format)**
+
+| Provision | Key Point |
+|--------|----------|
+| **Electronic Delivery** | Documents may be sent via public websites if addressees are notified in writing. |
+| **Consent Requirements** | Must be given in writing or orally; written consent must include system name and list of covered documents. |
+| **Pre-Consent Notification** | Required before written consent; includes revocation rights, change responsibilities, retention obligations, and effective date. |
+| **Oral Consent** | Must be followed by written confirmation with all required details. |
+| **One-Time Consent** | Exempts from pre-consent notification. |
+| **Revocation** | Must be formalized with written confirmation and effective date. |
+| **Concurrent Delivery** | Required for multiple recipients. |
+| **Designated System** | Can substitute physical delivery if addressee designates a system. |
+| **"Provided" Definition

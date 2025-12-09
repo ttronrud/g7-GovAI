@@ -1,0 +1,164 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the *Federal Sales Tax New Housing Rebate Regulations*, as issued on December 18, 1990, under subsection 59(1) and section 121 of the *Excise Tax Act* (S.C. 1990, c. 45, s. 12).
+
+---
+
+## 🔍 **Detailed Summary of the Federal Sales Tax New Housing Rebate Regulations**
+
+### **1. Purpose and Legal Authority**
+- These regulations establish the framework for determining the **estimated federal sales tax** for residential housing complexes eligible for a **rebate under section 121 of the Excise Tax Act**.
+- The Minister of Finance enacted these rules **pursuant to subsection 59(1)** and **section 121** of the *Excise Tax Act*, which allows for tax rebates on certain new residential housing supplies.
+- The regulations are officially titled:  
+  **"Federal Sales Tax New Housing Rebate Regulations"**  
+  and may be cited as such.
+
+---
+
+### **2. Key Definitions and Scope**
+
+#### **"Act" Definition**
+- "Act" refers to the *Excise Tax Act*, which governs the collection, administration, and rebate of federal sales tax on supplies of goods and services, including real estate.
+
+---
+
+### **3. Determination of "Estimated Federal Sales Tax" (Under Section 121(1))**
+
+This section defines how the **estimated federal sales tax** is calculated for a residential complex when applying for a rebate under section 121 of the Act.
+
+#### **General Rule:**
+The estimated federal sales tax is calculated using a formula based on the **value of the complex**, depending on the type of property and the nature of the rebate claim.
+
+---
+
+#### **A. For Non-Condominium Residential Complexes**
+- The estimated tax is based on the **interior floor space (in square metres)** of the complex.
+- Formula:
+  > **Number of square metres of interior floor space of the complex**
+
+---
+
+#### **B. For Condominium Units**
+- The estimated tax is based on a **combined measure** of:
+  1. The **interior floor space of the unit itself**, and  
+  2. A **proportional share** of the common area space, calculated as:
+     >  
+     > *(Total interior floor space of common areas in the complex)*  
+     > × *(Unit’s interior floor space ÷ Total interior floor space of all units in the complex)*
+
+- This ensures that the value of common areas (e.g., hallways, stairwells, parking, etc.) is fairly allocated to individual units based on their size relative to the total.
+
+> ✅ **Purpose**: Prevents overvaluation or undervaluation of common areas by distributing them proportionally among unit owners.
+
+---
+
+#### **C. Alternative Formula (Other Cases)**
+If the above formulas do not apply, the estimated tax is determined by:
+
+| Case | Value Used |
+|------|-----------|
+| Rebate to an **individual** under subsection 121(2) | Consideration for sale of the complex to the individual |
+| Rebate to a **builder** under subsection 121(3) | Consideration for supply by the builder |
+| Builder **deemed to have collected tax** under section 191 | Consideration for supply by the builder |
+| Builder is a **limited partnership**, complex is a condominium unit, and subsection 336(5) applies | **80% of the subscription price** (as defined in subsection 336(6)) for the interest in the limited partnership |
+| Tax **deemed collected** under subsection 336(3)** | Consideration for the supply |
+| Tax **deemed collected** under subsection 336(4)** (common area tax) | Portion of the supply consideration attributable to the unit |
+
+> 🔍 **Note**: The "consideration" refers to the price paid or received for the supply (e.g., purchase price, subscription price, or sale price), and is interpreted in accordance with the Act’s definitions.
+
+> ⚠️ **Key Exception**: In all cases, if the **amount applied for in the rebate application is not based on fair market value**, the formula above applies — otherwise, fair market value is used.
+
+---
+
+### **4. Interior Floor Space Definition (Critical for Calculations)**
+
+The regulations define **interior floor space** in a precise way to ensure consistency in measurement:
+
+#### ✅ Includes:
+- The **width of enclosing walls** that are:
+  - **Not adjacent** to any other complex or unit → **entire width** included
+  - **Adjacent** to another complex or unit → **half the width** included
+
+> 📌 Example:  
+> A wall shared between two units → only half the width counts toward each unit’s interior floor space.
+
+#### ❌ Excludes:
+The following areas are **not included** in interior floor space:
+1. **Storage rooms, attics, and basements**  
+   → **Only if** they are **finished to a standard comparable** to living areas  
+   → Otherwise, they are excluded
+
+2. **Parking areas**  
+   → Fully excluded
+
+3. **Areas set aside for equipment**  
+   → Such as:
+   - Heating systems
+   - Water, gas, or electricity supply systems  
+   → Excluded regardless of use
+
+> ⚠️ **Exception**: If the complex is a **specified single-unit residential complex**, the builder (who supplies it) must determine the interior floor space.
+
+> ⚠️ In all other cases, the **builder of the complex** is responsible for determining the interior floor space.
+
+---
+
+### **5. Repeal Note**
+- The section previously referenced in the regulations (SOR/96-551, s. 3, 4(T)) has been **repealed**.
+- This means that any prior provisions related to specific exclusions or adjustments in those sections are no longer in force.
+- The current rules are now the authoritative ones for determining the estimated federal sales tax for new housing rebates.
+
+---
+
+## 📌 Summary Table: Key Determinants of Estimated Federal Sales Tax
+
+| Scenario | Formula / Value Used |
+|--------|------------------------|
+| Non-condominium complex | Total interior floor space (sq. m) |
+| Condominium unit | Unit floor space + (common area × [unit floor space / total unit floor space]) |
+| Rebate to individual (121(2)) | Consideration for sale to individual |
+| Rebate to builder (121(3)) | Consideration for supply by builder |
+| Builder collected tax under s.191 | Consideration for supply |
+| Builder is LP & s.336(5) applies | 80% of subscription price |
+| Tax deemed under s.336(3) | Consideration for supply |
+| Tax deemed under s.336(4) | Portion of supply attributable to unit |
+
+---
+
+## 🔍 Key Principles and Rationale
+
+1. **Fairness and Proportionality**  
+   - The formula ensures that common areas are fairly distributed among units based on size, preventing overvaluation of shared spaces.
+
+2. **Tax Neutrality and Accuracy**  
+   - The use of **interior floor space** as a proxy for value avoids subjective valuation and ensures consistency across similar properties.
+
+3. **Builder Accountability**  
+   - Builders are responsible for determining the value and interior space, especially in cases involving limited partnerships or deemed tax collection.
+
+4. **Prevention of Abuse**  
+   - The rule that the amount applied for must be based on fair market value (or the formula) prevents applicants from submitting inflated or fictitious values.
+
+5. **Clarity in Complex Structures**  
+   - Specific definitions of what constitutes "interior floor space" and what is excluded help reduce ambiguity in valuation, especially in multi-unit developments.
+
+---
+
+## 🚨 Important Notes & Limitations
+
+- These regulations apply **only to new housing** and are **not retroactive**.
+- They are **specific to federal sales tax rebates** under section 121 of the *Excise Tax Act*.
+- The rules are **not applicable to commercial properties** or non-residential complexes.
+- The **repeal of SOR/96-551** means older, outdated provisions are no longer valid — the current rules are the only ones in force.
+
+---
+
+## ✅ Conclusion
+
+The *Federal Sales Tax New Housing Rebate Regulations* provide a **clear, standardized, and equitable method** for calculating the estimated federal sales tax on new residential housing complexes when claiming a rebate under section 121 of the *Excise Tax Act*. By using **interior floor space** as a key metric and applying **proportional allocation** for common areas, the regulations ensure fairness, consistency, and transparency in tax rebate claims.
+
+They also introduce **specific rules for builders, limited partnerships, and individual buyers**, while excluding non-living, non-functional spaces to maintain accuracy and prevent overstatement of value.
+
+These regulations remain a foundational component of Canada’s federal sales tax policy for new housing, balancing fiscal responsibility with support for homebuyers and builders.
+
+---
+
+Let me know if you’d like this summarized in a one-page executive summary, translated into French, or adapted for use in policy analysis or legal advice.

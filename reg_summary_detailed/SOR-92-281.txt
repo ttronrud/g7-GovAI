@@ -1,0 +1,116 @@
+Certainly. Below is a **detailed and structured summary** of the provided regulation, written in clear, professional language suitable for understanding the regulatory framework and its implications.
+
+---
+
+### **Detailed Summary of the Regulation on Debt Obligations and Share Issuance by Property and Casualty Companies (Effective June 1, 1992)**
+
+#### **1. Regulatory Authority and Legal Basis**
+- The regulation was issued by **His Excellency the Governor General in Council**, acting on the **recommendation of the Minister of Finance**.
+- It is based on specific provisions of the **Insurance Companies Act** (*Act*), particularly:
+  - **Subsection 2(1)** – Definition of "total assets"
+  - **Section 476** – Regulation of debt obligations and capital adequacy
+  - **Section 703** – Related provisions on financial oversight and reporting
+- The regulation came into force on **June 1, 1992**.
+- **Note**: This regulation was **repealed** by **SOR/2009-296, section 5**, meaning it is no longer in effect as of the date of repeal (2009).
+
+---
+
+#### **2. Key Definitions and Interpretations**
+
+##### **(a) "Prescribed Subsidiary"**
+- A **prescribed subsidiary** is a subsidiary of a property and casualty company (P&C) or a marine company that:
+  - Is **not** a financial institution.
+  - Is **not engaged in insuring property and casualty risks** (in the case of a P&C company), or
+  - Is **not engaged in insuring marine risks** (in the case of a marine company).
+- **Exclusions**:
+  - Financial institutions that do not engage in insurance of property/casualty or marine risks are **not** considered prescribed subsidiaries.
+- This definition helps determine which subsidiaries are subject to the debt obligation and capital adequacy rules under section 476.
+
+##### **(b) "Debt Obligation"**
+- The term "debt obligation" is defined **as per subsection 2(1) of the Insurance Companies Act**.
+- This typically includes:
+  - Bonds, loans, notes, mortgages, and other forms of debt issued by the company or its subsidiaries.
+- The definition ensures consistency with the Act’s financial reporting standards.
+
+##### **(c) "Aggregate of Total Debt Obligations"**
+- This is a key financial metric used to assess a company’s leverage and risk exposure.
+- It is calculated as:
+  > **Aggregate Debt Obligations =**  
+  > (Total debt obligations of the parent company)  
+  > + (Total debt obligations of its prescribed subsidiaries **not held by the parent company**)  
+  > **Minus** (Total stated capital of the parent company)
+- This formula ensures that:
+  - Only **outstanding debt** not backed by the company’s own capital is considered.
+  - The company’s own capital (stated capital) is subtracted to avoid double-counting.
+
+##### **(d) "Total Assets"**
+- Refers to the **total assets** of the parent company as reported on its **balance sheet** as of a given date.
+- These assets are determined **in accordance with the accounting principles and specifications** set out by the **Superintendent of Insurance** under **subsection 331(4)** of the Act.
+- **Exclusion**: Assets of subsidiaries that are **not prescribed subsidiaries** are **excluded** from the total.
+- This ensures that only the assets directly attributable to the parent company (after removing non-prescribed subsidiaries) are considered in capital adequacy calculations.
+
+##### **(e) "Prescribed Percentage of Total Assets"**
+- The regulation establishes a **capital adequacy threshold**:
+  - The **aggregate of total debt obligations** of a P&C or marine company **must not exceed 2%** of its total assets.
+- This means:
+  > **Debt Obligations / Total Assets ≤ 2%**
+- This cap is designed to:
+  - Limit excessive leverage.
+  - Ensure financial stability and solvency.
+  - Protect policyholders and maintain public confidence in the insurance sector.
+
+---
+
+#### **3. Purpose and Regulatory Objectives**
+
+The primary purpose of these regulations is to:
+
+- **Ensure financial stability** of property and casualty (P&C) and marine insurance companies.
+- **Limit debt exposure** by setting a strict 2% ratio between total debt obligations and total assets.
+- **Improve transparency and accountability** by clearly defining what constitutes debt obligations and total assets.
+- **Protect policyholders** by preventing companies from taking on excessive debt that could threaten their ability to meet claims.
+
+---
+
+#### **4. Scope and Application**
+
+- Applies to:
+  - **Property and casualty companies**
+  - **Marine companies**
+- Applies to:
+  - The parent company
+  - Its **prescribed subsidiaries** (specifically, those that are not financial institutions engaged in insurance)
+- Does **not** apply to:
+  - Subsidiaries that are financial institutions not involved in insuring property/casualty or marine risks.
+
+---
+
+#### **5. Repeal Status**
+
+- The regulation was **repealed** on **January 1, 2009**, by **SOR/2009-296, section 5**.
+- This means:
+  - It is **no longer in force**.
+  - It has been replaced by updated regulatory frameworks, likely under current insurance oversight policies.
+- The repeal reflects ongoing modernization of the insurance regulatory regime in Canada, with more comprehensive and dynamic capital adequacy standards now in place.
+
+---
+
+#### **6. Significance and Historical Context**
+
+- This regulation was part of a broader effort in the 1990s to strengthen the financial integrity of insurance companies.
+- The 2% debt-to-assets ratio was a relatively conservative measure to prevent insolvency during periods of high claim frequency or economic downturns.
+- While outdated, it represented a foundational step in the development of **solvency and risk-based capital rules** in Canadian insurance regulation.
+
+---
+
+### **Conclusion**
+
+This 1992 regulation established a clear, enforceable framework to limit the debt exposure of property and casualty and marine insurance companies by setting a **2% maximum ratio of total debt obligations to total assets**. It defined key terms such as "prescribed subsidiary" and "debt obligation" with precision, ensuring that only relevant financial obligations were included in the calculation. However, due to the **repeal in 2009**, the regulation is **no longer applicable**. It serves as an important historical document reflecting the evolution of insurance regulation in Canada toward more robust, risk-based, and dynamic capital requirements.
+
+---
+
+> **Note for Regulatory Professionals**: When reviewing historical or archival documents, this regulation should be interpreted in context with current laws and regulations, particularly the **Insurance Companies Act (as amended)** and the **Solvency and Risk-Based Capital (SBC) framework** now in effect.
+
+--- 
+
+Let me know if you'd like a version tailored for public explanation, legal analysis, or compliance purposes.

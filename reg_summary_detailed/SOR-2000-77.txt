@@ -1,0 +1,149 @@
+Certainly. Below is a **detailed, comprehensive summary** of the *Public Sector Pension Investment Board Regulations* (S.C. 1999, c. 34), as issued under the *Public Sector Pension Investment Board Act*.
+
+---
+
+## 🔍 **Detailed Summary of the Public Sector Pension Investment Board Regulations (S.C. 1999, c. 34)**
+
+These regulations establish the investment policies, standards, and procedural rules governing the **Public Sector Pension Investment Board (PSPIB)** — a federal body responsible for managing the investment portfolios of public sector pension plans in Canada. The regulations ensure prudent, diversified, and transparent investment practices while protecting against conflicts of interest and excessive risk exposure.
+
+---
+
+### 📌 **1. Scope and Authority**
+
+- The regulations were made by **Her Excellency the Governor General in Council**, on the recommendation of the **President of the Treasury Board**, pursuant to **paragraph 50(d) of the Public Sector Pension Investment Board Act**.
+- They apply to the **Board’s investment activities**, including direct and indirect investments, and define key terms used throughout the regulatory framework.
+
+---
+
+### 📚 **2. Key Definitions**
+
+The regulations provide precise definitions of critical terms used in investment and governance contexts:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Public Sector Pension Investment Board Act*. |
+| **Canadian resource property** | Same meaning as in subsection 66(15) of the *Income Tax Act* — includes minerals, oil, gas, and other natural resources. |
+| **Child** | A biological or legally adopted child of a person or their spouse/common-law partner. |
+| **Common-law partner** | A person cohabiting in a conjugal relationship for at least one year. |
+| **Debt obligation** | Bonds, debentures, notes, or any other evidence of indebtedness. |
+| **Derivative** | Financial instruments derived from underlying assets (e.g., options, futures), *excluding* convertible securities, asset-backed securities, mutual fund securities, index participation units, government strips, or subdivided dividend shares. |
+| **Financial institution** | Banks, insurance companies, trust/loan corporations, cooperative credit societies, and entities primarily engaged in securities dealing. |
+| **Foreign institution** | An entity engaged in financial services (banking, insurance, securities) but incorporated outside of Canada. |
+| **Investment corporation** | A corporation holding ≥98% of its assets in cash, investments, or loans; no debt obligations; and ≥98% income from investments/loans. |
+| **Loan** | Includes deposits, financial leases, conditional sales contracts, repurchase agreements; excludes investments in securities or guarantees. |
+| **Market terms and conditions** | Fair, arm’s-length terms that would apply in an open market transaction. |
+| **Person** | Includes individuals and entities. |
+| **Public exchange** | A recognized market for trading securities (e.g., Toronto Stock Exchange). |
+| **Real estate corporation** | A corporation formed to acquire, hold, manage, or lease real property (excluding petroleum/natural gas properties). |
+| **Real or immovable property** | Includes leasehold interests. |
+| **Related party** | Broadly defined to include directors, officers, employees, contributors, survivors, unions, spouses, common-law partners, children, and entities controlled by any of the above. **Excludes** the Government of Canada or its agencies, or financial institutions holding Board assets. |
+| **Resource corporation** | A corporation formed to acquire, explore, develop, or manage Canadian resource properties. |
+| **Security** | Shares or debt obligations of a corporation; ownership interests or debt in other entities. *Excludes* deposits with financial institutions. |
+| **Transaction** | Includes contracts, guarantees, investments, assignments of loans, security interests, and modifications/renewals. |
+| **Underlying asset** | Any financial reference such as interest rates, indices, commodities, currencies, or benchmarks. |
+| **Voting share** | A share that carries voting rights under all circumstances. |
+
+---
+
+### 🔗 **3. Control and Affiliation Rules**
+
+These rules define who controls an entity and how affiliations are determined:
+
+- A **person controls** a corporation if they beneficially own **more than 50% of the voting shares** and can elect a majority of directors.
+- A person controls an **unincorporated entity** if they own >50% of ownership interests and can direct its affairs.
+- The **general partner** of a limited partnership controls it.
+- A **trustee** controls a trust.
+- **Control is transitive**: If A controls B, and B controls C, then A is deemed to control C.
+- **Affiliation** exists when two entities are controlled by the same person or one controls the other.
+
+---
+
+### 📈 **4. Investment Policy and Standards (Section 32)**
+
+The Board must establish and maintain a **written investment policy statement** that includes:
+
+1. **Categories of investments** allowed.
+2. **Use of derivatives** (options, futures) — subject to risk management.
+3. **Diversification** of the portfolio across asset classes.
+4. **Asset mix and return expectations** (e.g., equity vs. fixed income).
+5. **Policies for managing financial risks**:
+   - Credit risk
+   - Market risk
+   - Liquidity risk
+6. **Lending policies** (cash or securities).
+7. **Retention or delegation of voting rights**.
+8. **Valuation methods** for non-traded investments.
+9. **Criteria for related party transactions** — particularly whether a transaction is "nominal" (i.e., fair value).
+
+> ⚠️ **Annual Review Requirement**: The Board must **review and confirm or amend** this policy statement **at least once per financial year**.
+
+> 🔁 *Note: Several provisions (e.g., on valuation, delegation of voting rights) were repealed in later amendments (SOR/2001-463, SOR/2012-295). These are marked as [Repealed] in the original text.*
+
+---
+
+### 🚫 **5. Prohibitions on Concentrated Investments**
+
+To prevent overexposure and reduce risk, the Board **must not directly or indirectly invest more than 10% of the total market value of its assets** in:
+
+- **Any one person**;
+- **Two or more associated persons**;
+- **Two or more affiliated corporations**.
+
+#### ✅ Exceptions to the 10% Rule:
+
+The restriction **does not apply** to:
+
+1. **Subsidiaries of the Board**;
+2. **Securities issued or fully guaranteed by**:
+   - Government of Canada or a province;
+   - Government of the United States or its agencies;
+3. **Mortgage-backed securities funds** fully guaranteed by the federal or provincial government;
+4. **Funds that substantially replicate a broad market index** (e.g., S&P/TSX Composite);
+5. **Segregated funds, mutual funds, or pooled funds** that comply with the *Pension Benefits Standards Regulations, 1985*.
+
+> This allows strategic exposure to government-backed or index-based products without violating concentration limits.
+
+---
+
+### 🚫 **6. Prohibition on Holding More Than 30% of Voting Shares**
+
+The Board **shall not directly or indirectly invest in securities of a corporation** where it would hold **more than 30% of the voting rights** (i.e., shares with voting power).
+
+#### Exceptions:
+
+- **Subsidiaries of the Board** are exempt.
+- **Investment corporations** are exempt **if**:
+  - They do not engage in transactions with related parties that would violate section 16 (conflict of interest);
+  - Their investments are limited to those authorized under these regulations;
+  - They do **not** invest in other investment corporations with >30% voting shares;
+  - They provide the Board with an **undertaking** (a binding commitment) to:
+    - Avoid prohibited transactions with related parties;
+    - Avoid investing in other investment corporations with >30% voting shares;
+    - Limit investments to those authorized under these regulations.
+
+- **Real estate corporations** are exempt **if**:
+  - Activities are limited to acquiring, holding, leasing, or managing real property (owned or held on behalf of the Board, or other real estate corporations with >30% voting shares);
+  - Investments outside real estate are restricted;
+  - No transactions with related parties violate section 16;
+  - No investment in other real estate corporations with >30% voting shares;
+  - They provide the Board with an undertaking to avoid such violations.
+
+- **Resource corporations** are exempt **if**:
+  - Activities are limited to Canadian resource properties (owned or held on behalf of the Board or affiliated resource corporations);
+  - Investments outside resource properties are restricted;
+  - No borrowing for purposes other than income from resource properties;
+  - No transactions with related parties that violate section 16;
+  - No investment in other resource corporations with >30% voting shares;
+  - They provide the Board with an undertaking to avoid such violations.
+
+> These exemptions allow strategic investment in specialized entities (like real estate or resource companies) under strict conditions and oversight.
+
+---
+
+### 🔐 **7. Related Party Transactions**
+
+The regulations establish strict rules for transactions involving **related parties** (e.g., directors, employees, family members):
+
+- Transactions must be **fair and nominal** in value (i.e., not exploitative).
+- The **value** of a related party transaction must be determined using **market terms and conditions** — meaning what a fair, independent third party would pay.
+- The Board must ensure that such transactions

@@ -1,0 +1,193 @@
+Certainly. Below is a **detailed, structured summary** of the regulation titled:
+
+> **"Fees in Respect of Drugs and Medical Devices Order"**  
+> (Issued by the Minister of Health, Ottawa, May 3, 2019)  
+> S.C. 2017, c. 20, s. 317; R.S., c. F-27
+
+---
+
+## 🔍 **Overview of the Regulation**
+
+This regulation establishes and governs the **fees for submissions and authorizations related to drugs, veterinary health products, biocides, and medical devices** under the *Food and Drugs Act* and associated regulations. It also outlines **remission (reduction or exemption) of fees** for qualifying applicants—particularly small businesses—and includes mechanisms for **annual fee adjustments** based on inflation.
+
+The Order was made pursuant to **sections 30.61(1)a and 30.63(1)a of the Food and Drugs Act**, following consultation with interested parties, and is designed to ensure transparency, fairness, and affordability in the regulatory process.
+
+---
+
+## 📚 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Entity** | As defined in the Criminal Code (an organization). |
+| **Fiscal Year** | - For sections 16, 17, 25, 26, etc.: the fiscal year of the applicant or affiliated entities.<br>- Otherwise: April 1 to March 31. |
+| **Performance Standard** | The official document titled *Performance Standards for the Fees in Respect of Drugs and Medical Devices Order*, published on **February 16, 2024**. |
+| **Small Business** | A person meeting **either**:<br>1. Total employees (including affiliated entities) < 100; OR<br>2. Total gross revenue (including affiliated entities) between **$30,000 and $5 million** (exclusive). |
+
+> **Affiliation Rules**:  
+> - Entities are affiliated if one is a subsidiary of the other, or both are subsidiaries of the same entity, or are controlled by the same entity/individual.  
+> - A corporation is "controlled" if more than 50% of its voting power is held by an entity/individual (directly or indirectly).  
+> - Non-corporate entities are "controlled" if an entity/individual holds more than 50% of profits or assets.  
+> - **Deemed affiliation**: If two corporations exist primarily to qualify for small business fee remission, they are treated as affiliated.
+
+> **Note**: These definitions are critical for determining eligibility for fee remission.
+
+---
+
+## 🎯 Purpose of the Order
+
+1. **Fix Fees** for various regulatory actions, including:
+   - Examination of new drug submissions (human/veterinary)
+   - Supplements to new/abbreviated drug submissions
+   - Establishment licence applications
+   - Drug identification number (DIN) applications
+   - Veterinary health product notifications
+   - Preclinical submissions and experimental studies
+   - Biocide market authorization applications
+   - Medical device licence applications
+   - Amendments to Class II, III, or IV medical device authorizations
+   - Right to sell drugs or medical devices
+
+2. **Remit (Reduce) Fees** in whole or part under specific conditions (e.g., small business status, public health emergencies, prior authorizations, etc.)
+
+3. **Exclude Certain Applications** from fees:
+   - Publicly funded health care institutions
+   - Government branches or provincial agencies
+   - Extraordinary use new drug submissions (e.g., public health emergencies)
+
+---
+
+## 🚫 Exclusions (Fees Do Not Apply)
+
+- **Publicly funded health care institutions** (e.g., hospitals, clinics funded by federal/provincial governments)
+- **Government branches or provincial agencies**
+- **Drugs under extraordinary use new drug submissions** (e.g., emergency drugs under section C.08.002.01)
+
+> *Note: These exclusions ensure that public health services are not burdened by regulatory fees.*
+
+---
+
+## 💰 Fee Adjustment Mechanism (Inflation-Based)
+
+Starting **April 1, 2021**, all fees are **adjusted annually** on April 1 based on inflation:
+
+### Formula:
+> New Fee = (Old Fee) × (1 + CPI change over previous 12 months)  
+> → Rounded **up to the nearest dollar**
+
+Where:
+- **CPI** = April All-items Consumer Price Index for Canada (published by Statistics Canada under the *Statistics Act*)
+- The change is calculated over the **previous fiscal year** (April 1 to March 31)
+
+> Example: If the CPI increased by 3.2%, the fee increases by 3.2%.
+
+> Applies to fees in **Divisions 1 to 5 of Part 2** and **Division 1 of Part 3** of the Order (i.e., most drug and device submissions).
+
+---
+
+## 📄 Fee Structure (Schedule 1)
+
+The fee amounts are detailed in **Schedule 1**, organized by **submission class** (e.g., new drug, supplement, abbreviated submission) and **fiscal year**.
+
+### Two Scenarios:
+1. **Fees in listed fiscal years (columns 3–6 of Schedule 1)** → Use the fee amount specified in that column.
+2. **Fees in other fiscal years** → Calculate using the inflation formula in subsection 4(2).
+
+> The fee is **paid by the person who files the submission**.
+
+---
+
+## 📝 Payment Timeline (Preliminary Examination)
+
+| Scenario | Payment Trigger |
+|--------|----------------|
+| **Preliminary examination conducted** | - Full fee paid upon receipt of notice that the submission is **complete and accepted**<br>- 10% fee paid if submission is found to be **incomplete** |
+| **No preliminary examination** | Full fee paid upon receipt of notice that the submission has been **received** |
+
+> ⚠️ **Important**: If the Minister issues a notice in the **following fiscal year**, the fee is still based on the **fiscal year in which the submission was filed**.
+
+---
+
+## 🚀 Deferred Payment for Co-Submitted Applications
+
+If a person files:
+- A **submission** (e.g., new drug) **and simultaneously** applies for authorization under **section C.07.003** of the *Food and Drug Regulations*,
+
+Then **fee payment is deferred** until:
+- A **notice of compliance** is issued under section C.08.004, **or**
+- A **drug identification number (DIN)** is assigned under subsection C.01.014.2(1)
+
+> This avoids double charging for overlapping processes.
+
+---
+
+## 🎁 Fee Remissions (Reduced or Full Exemptions)
+
+### 1. **Remission for Small Business Applicants**
+
+Subject to **section 18**, remission is granted if:
+- The applicant provides a **form established by the Minister** containing:
+  - A statement that the applicant **met the "small business" definition** in the **last completed fiscal year**
+  - The following supporting data:
+    - List of affiliated entities
+    - Start/end dates of fiscal years
+    - Number of employees (for applicant and affiliates)
+    - Gross revenue (for applicant and affiliates)
+
+> **If the applicant has not completed their first fiscal year**:
+> - Must provide a **statement of anticipated compliance** with small business status
+> - Projected gross revenue and employee numbers for the first fiscal year
+
+> ✅ **Remission amount**:
+> - **50% of the full fee** if the applicant meets all conditions
+
+> 🚨 **Note**: This remission is **not available** if the applicant has previously filed a drug submission or a biocide application under section 27.1.
+
+---
+
+### 2. **Remission for Designated COVID-19 Drugs**
+
+If:
+- The applicant filed an application under the **ISAD Interim Order** for a **designated COVID-19 drug** (as defined in section C.08.001.1 before the Agile Licensing amendment)
+- And later filed a **submission for that same drug**
+
+Then **full remission** of the fee is granted — **provided the applicant has not previously filed a submission** for that drug.
+
+> This supports rapid development of emergency treatments during the pandemic.
+
+---
+
+### 3. **Remission for Patent Authorization**
+
+If the applicant has received an **authorization under section 21.04 of the Patent Act** for the drug, then **full remission** of the fee is granted.
+
+> This incentivizes innovation through patent protection.
+
+---
+
+### 4. **Remission for First-Time Filers (No Prior Submissions)**
+
+If:
+- The applicant has **never filed a drug submission** or a biocide application under section 27.1
+- And meets the small business criteria
+
+Then **full remission** of the fee is granted.
+
+> This encourages new entrants into the market.
+
+---
+
+## ⚠️ Exceptions to Fee Application
+
+Fees **do not apply** for:
+- Submissions reviewed jointly or in parallel with a **foreign regulatory authority**
+- Medical device applications that include **drugs** and are subject to a decision under section 36 or 38 of the *Medical Devices Regulations*
+- **Public health emergency drugs** under section C.08.002.01 or supplements under C.08.003(7)
+
+> These exceptions reflect the urgency and public interest in emergency responses.
+
+---
+
+## 📚 Key Provisions Summary Table
+
+| Provision | Key Detail |
+|--------|

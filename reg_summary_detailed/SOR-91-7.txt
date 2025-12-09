@@ -1,0 +1,157 @@
+### **Detailed Summary of the National Energy Board Cost Recovery Regulations (S.C. 1990, c. 7, s. 13)**
+
+---
+
+#### **Overview and Purpose**
+
+The **National Energy Board Cost Recovery Regulations**, effective **January 1, 1991**, were enacted under **section 24.1 of the National Energy Board Act** and with the **approval of the Treasury Board**. These regulations establish a formal framework for the **recovery of certain operational and administrative costs** from regulated companies operating in Canada’s energy sector—specifically pipelines and power lines.
+
+The primary objective is to ensure that the **National Energy Board (NEB)** can recover reasonable and attributable costs associated with its regulatory responsibilities, including oversight, enforcement, and program delivery, without relying solely on government funding. This system provides a **cost-based, tiered mechanism** for cost recovery based on the size and type of the regulated entity.
+
+---
+
+## **Key Definitions**
+
+The regulations define several key terms to clarify the scope and application of cost recovery:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *National Energy Board Act* |
+| **Commodity pipeline** | A pipeline transporting goods other than oil or natural gas (e.g., chemicals, food products) |
+| **Gas pipeline** | A pipeline used for transporting natural gas |
+| **Oil pipeline** | A pipeline used for transporting oil, oil products, natural gas liquids, or liquefied petroleum gas |
+| **Cost of service** | Total cost of providing services, including operating expenses, depreciation, amortization, taxes, and return on rate base |
+| **Program costs** | Costs attributable to NEB activities aimed at fulfilling its responsibilities under the Act or other federal legislation |
+| **Fiscal year** | The regular fiscal year of the regulated company |
+| **Year** | A calendar year |
+| **Border accommodation pipeline/commodity pipeline** | Small pipelines (<100 mm diameter, ≤700 kPa pressure, <500 m³/day capacity) crossing Canada–U.S. borders; defined with specific technical thresholds |
+| **Large/Intermediate/Small companies** | Categorized by annual cost of service: < $1M (small), $1M–$10M (intermediate), ≥$10M (large) |
+
+> ⚠️ *Note: Several terms such as "equichange transfer," "sale transfer," "intermediate electricity exporter," and "loop flow" have been repealed as of SOR/2009-307, s. 1 and s. 2.*
+
+---
+
+## **Cost Recovery and Administration Levy Structure**
+
+### **1. Large Companies (Annual Cost of Service ≥ $10,000,000)**
+
+| Company Type | Cost Recovery / Levy | Conditions |
+|------------|------------------------|----------|
+| **Large oil pipeline company** | Pays a **cost recovery charge** calculated per subsection 14(1) | Must file a request for relief within 30 days if the charge exceeds 2% of estimated cost of service |
+| **Large gas pipeline company** | Pays a **cost recovery charge** calculated per subsection 14(2) | Same relief mechanism applies |
+| **Large commodity pipeline company** | Pays an **administration levy of $50,000/year** | Relief available if a lower levy is paid under section 5.2 or 5.3 |
+| **Large power line company** | Pays a **cost recovery charge** calculated per subsection 14(3) | Annual transmission ≥50,000 MWh (excluding inadvertent/loop flow) |
+
+> 🔍 **Relief Mechanism (Section 4.1):**
+> - Companies may apply for relief if the cost recovery charge exceeds **2% of their actual cost of service**.
+> - Application must be submitted within **30 days** of receiving notice of the charge.
+> - The Board may **adjust the cost of service estimate** if actual circumstances differ materially or if there's an error in the estimate.
+> - After adjustment, the Board determines **revised relief amounts** (i.e., the portion above 2% of actual cost) by **September 30** of the following year.
+
+> 📝 **Reporting Requirement:**
+> - Companies receiving relief must submit **actual cost of service** to the Board by **August 31** of the following year.
+
+---
+
+### **2. Intermediate Companies ($1M–$10M annual cost of service)**
+
+| Company Type | Levy | Conditions |
+|------------|------|----------|
+| Intermediate oil, gas, or commodity pipeline company | Pays **$10,000/year administration levy** | No levy if exemption or certificate is obtained under section 58 or if a lower levy is paid under section 5.2/5.3 |
+
+> ✅ **Exemption Clause:**  
+> - No levy is required if the company obtains an **exemption order under section 58** or a **certificate** after June 30 of the year.
+
+---
+
+### **3. Small Companies (<$1M annual cost of service)**
+
+| Company Type | Levy | Conditions |
+|------------|------|----------|
+| Small oil, gas, or commodity pipeline company | Pays **$500/year administration levy** | Exempt if exemption/certificate is obtained after June 30 |
+| Small power line company (transmits ≥0.5 MWh/year) | Pays **$500/year administration levy** | Same exemption rules apply |
+
+> 💡 **Special Levy for Border Accommodation Pipelines**  
+> - A **$500 levy** is payable for each certificate or exemption order authorizing construction or operation of a **border accommodation pipeline** (e.g., small cross-border pipelines).
+
+---
+
+### **4. Construction-Based Levies (for New Projects)**
+
+For companies seeking approval to build new pipelines or power lines:
+
+| Scenario | Levy | Payment Terms |
+|--------|------|---------------|
+| Construction of a **border accommodation pipeline** or **commodity pipeline** | 0.2% of estimated construction cost | Paid within **90 days** of invoice |
+| Construction of an **international or interprovincial power line** | 0.2% of estimated construction cost | Paid within 90 days of invoice |
+
+> ❌ **Exemption:**  
+> - No levy is due if the company already holds a valid certificate or exemption order.
+
+> 📌 Applies only to applications filed **after the coming into force** of the Regulations.
+
+---
+
+## **Cost Determination Methodology (Section 6)**
+
+The total costs attributed to the NEB are calculated as follows:
+
+> **Total attributable costs = 95% of:**
+> - **1/4 of estimated program costs** (from the *Expenditure Plan* in the Government of Canada’s Estimates for the **previous fiscal year**)  
+> - **3/4 of forecasted program costs** (from the *Expenditure Plan* for the **next fiscal year**)
+
+This formula blends **past and future spending projections** to provide a forward-looking, budgetary basis for cost recovery.
+
+---
+
+## **Annual Financial Adjustments (Section 7)**
+
+The Board must annually assess whether actual expenditures differ from projected costs:
+
+1. **Compare actual expenditures** with the total program costs calculated under Section 6.
+2. **Adjust the total costs** by:
+   - Subtracting any **over-recovery** (if actual spending was less than projected)
+   - Adding any **under-recovery** (if actual spending exceeded projections)
+   - Subtracting **all administration levies** already collected from:
+     - Large commodity pipeline companies ($50,000)
+     - Intermediate commodity pipeline companies ($10,000)
+     - Small commodity pipeline companies ($500)
+     - Border accommodation pipelines ($500)
+
+This ensures that the NEB’s cost recovery is **accurate, transparent, and not double-counted**.
+
+---
+
+## **Reporting Requirements (By August 31 or September 30)**
+
+All companies must provide timely reports to the NEB:
+
+| Company Type | Required Information |
+|------------|------------------------|
+| **Large oil/gas pipeline companies** | - Forecast of deliveries (m³) for the next year<br>- Actual deliveries (m³) for the prior year |
+| **Large power line companies** | - Forecast of electricity transmission (MWh) for next year<br>- Actual transmission (MWh) for prior year |
+| **Intermediate, small oil/gas pipeline companies** | - Estimate of cost of service for current year<br>- Actual cost of service for prior year |
+
+> 📌 These reports are essential for calculating future cost recovery charges and monitoring performance.
+
+---
+
+## **Notification of Charges (By September 30 or December 31)**
+
+- **By September 30**:  
+  - The Board notifies **large power line companies** of their **next year’s cost recovery charge**  
+  - Notifies **large oil/gas pipeline companies** of their charge (subject to possible relief)
+
+- **By December 31**:  
+  - Notifies companies that obtained **relief** under Section 4.1 of the **adjusted cost recovery charge reduction**  
+  - Notifies companies that **did not obtain relief** of the **increased charge** (if the charge exceeds 2% of cost of service)
+
+> This ensures transparency and allows companies to plan accordingly.
+
+---
+
+## **Workload Allocation and Accountability (Section 8)**
+
+The Board must annually determine the **percentage of time** spent by its officers and employees on specific responsibilities:
+
+- Time spent on **oil, oil pipelines, oil products, natural gas liquids, and liquefied petroleum gas

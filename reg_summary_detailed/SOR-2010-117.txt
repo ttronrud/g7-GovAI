@@ -1,0 +1,146 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the *New Harmonized Value-added Tax System Regulations* as referenced in the provided text. This summary is based on the language and structure of the regulation, which is part of the **Excise Tax Act (Canada)** and governs the application of the Harmonized Sales Tax (HST) or Goods and Services Tax (GST) to various types of supplies — particularly focusing on **intangible personal property**, **services**, and **passenger transportation services**.
+
+---
+
+## 📚 **Detailed Summary of the New Harmonized Value-added Tax System Regulations**
+
+### 🔹 **Legal Basis and Authority**
+- These regulations were issued by **Her Excellency the Governor General in Council**, on the **recommendation of the Minister of Finance**, under:
+  - **Section 277a** and **Section 277.1b** of the *Excise Tax Act* (R.S., c. E-15).
+- The regulations implement a **harmonized tax system** for goods and services in Canada, aiming to simplify tax collection and ensure consistent application across provinces.
+- They are part of the broader framework for the **Harmonized Sales Tax (HST)**, which combines the **Goods and Services Tax (GST)** and **Provincial Sales Tax (PST)** into a single tax rate per province.
+
+---
+
+## 🔍 Key Definitions and Concepts
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Excise Tax Act* (R.S., c. E-15). |
+| **Continuous Journey** | Defined in Part VII of Schedule VI to the Act — a journey on a conveyance (e.g., plane, train, bus) that includes stops for refueling or servicing. |
+| **Leg of a Journey** | A segment of a continuous journey between two stops (e.g., from city A to city B). |
+| **Origin** | The starting point of a continuous journey. |
+| **Stopover** | A stop during a journey (excluding temporary stops where individuals are not scheduled to be outside Canada for ≥24 hours). |
+| **Termination** | The endpoint of a continuous journey. |
+| **Canadian Element of a Service** | The portion of a service that is performed within Canada. |
+| **Canadian Rights (in respect of intangible personal property)** | The rights to use digital or intangible assets (e.g., software, digital content) that can be used in Canada. |
+| **Computer-Related Service** | Includes technical support via telecommunications or electronic storage/transfer of data. |
+| **Final Recipient** | A person who acquires a service or internet access directly, not for resale. |
+| **Specified Location** | A permanent establishment of a supplier or a vending machine. |
+| **Participating Provinces** | Provinces that participate in the HST system (e.g., Ontario, BC, PEI). Tax rates vary by province. |
+| **Non-Participating Provinces** | Provinces that do not participate in the HST system (e.g., Saskatchewan, Alberta — though some have HST-like systems). |
+
+> ⚠️ **Note**: The rules apply only to supplies **not covered** by specific exemptions in Parts VI, VII, or VIII of Schedule IX to the Excise Tax Act (e.g., certain advisory, consulting, or professional services).
+
+---
+
+## 🚚 Application of the Rules: By Supply Type
+
+---
+
+### 1. **Intangible Personal Property** (e.g., software, digital content)
+
+#### Case A: Canadian Rights Can Be Used *Primarily* in Participating Provinces
+- The supply is **made in a participating province** if:
+  - **Value ≤ $300 and made at a specified location in the province** with an individual present (recipient or agent), **and** the rights can be used in that province.
+  - **If not**, then:
+    - The supplier obtains a **"particular address"** (home or business address of the recipient).
+    - This address must be **in the participating province**.
+    - The rights must be usable in that province.
+    - The **tax rate** in the province is the **highest** among all participating provinces where the rights can be used.
+
+> ✅ Example: A software license sold to a user in Ontario with a home address in Ontario — taxed in Ontario at 13% (HST).
+
+#### Case B: Canadian Rights Can Be Used *Primarily* in Non-Participating Provinces
+- The supply is **made in a non-participating province**.
+
+> ✅ Example: A digital music service used primarily in Alberta — taxed in Alberta.
+
+#### Case C: Canadian Rights Can Be Used in *Both* Participating and Non-Participating Provinces
+- The supply is **made in a particular province** if:
+  - Value ≤ $300 and made at a specified location in the province with an individual present → rights usable there.
+  - Otherwise:
+    - Supplier obtains a **"particular address"** (most closely connected to the supply).
+    - This address must be in the province.
+    - Rights must be usable there.
+    - The **tax rate** in that province is the **highest** among all provinces where rights are usable.
+
+> ✅ Example: A cloud-based tool used by a business in both Ontario and BC — taxed in Ontario (highest rate: 13%) if that’s where the business address is.
+
+#### Tie-Breaker Rule (Same Tax Rates)
+- If two or more participating provinces have the **same tax rate**, the supply is made in:
+  - The province where the **supplier’s business address** is most closely connected to the supply.
+  - If not, the province **closest in proximity** to that address.
+
+---
+
+### 2. **Intangible Personal Property Relating to Real or Tangible Personal Property**
+
+#### Real Property (e.g., real estate, land)
+- **Made in a participating province** if:
+  - The real property is **situated primarily in participating provinces**.
+  - An **equal or greater proportion** is not located in another participating province.
+  - If not, the tax rate in the participating province is the **highest** among those with no greater proportion in another participating province.
+- **Made in a non-participating province** if the property is **not primarily in participating provinces**.
+
+#### Tangible Personal Property (e.g., equipment, inventory)
+- **Made in a participating province** if:
+  - The property is **ordinarily located primarily in participating provinces**.
+  - An **equal or greater proportion** is not located in another participating province.
+  - If not, the tax rate in the province is the **highest** among those with no greater proportion in another province.
+- **Made in a non-participating province** if the property is **not primarily located in participating provinces**.
+
+> ⚠️ **Critical Timing Rule**:
+> - If the tangible property **remains in the same province** throughout the service period:
+>   - Taxed based on **location at the start** of service.
+> - If the property **moves during the service**:
+>   - Taxed based on **where the service is performed** (Canadian element) and **where the property is located at any time**.
+
+---
+
+### 3. **Supply of Services**
+
+#### General Rule:
+- A service is made in a province if the supplier obtains, in the ordinary course of business:
+  - A recipient’s **home or business address**.
+  - If multiple addresses: the one **most closely connected** to the supply.
+  - If no such address: the recipient’s address **most closely connected** to the supply.
+
+> ✅ Example: A service provider receives a business address in Quebec — service is taxed in Quebec.
+
+#### Services with Canadian Element in Participating Provinces
+- Made in a **participating province** if:
+  - The **Canadian element** is performed **primarily in participating provinces**.
+  - An **equal or greater proportion** is not performed in another participating province.
+  - If not, the **tax rate** in the province is the **highest** among those with no greater proportion in another province.
+- Made in a **non-participating province** if the Canadian element is **not primarily performed in participating provinces**.
+
+#### Special Cases:
+
+##### A. **Services in Relation to Real Property**
+- Same rules as for intangible property:
+  - If real property is primarily in participating provinces → taxed in a participating province.
+  - Else → taxed in a non-participating province.
+
+##### B. **Services in Relation to Tangible Personal Property**
+- If property **remains in the same province** throughout the service:
+  - Taxed based on **location at the start** of service.
+- If property **moves during service**:
+  - Taxed based on **where the Canadian element is performed** and **where the property is located at any time**.
+
+> ✅ Example: A technician servicing machinery in Ontario → service is in Ontario. If machinery moves to Alberta mid-service → service is taxed in Alberta.
+
+##### C. **Services Performed in the Presence of the Recipient** (e.g., hands-on training, installation)
+- Made in a participating province if:
+  - The Canadian element is performed primarily in participating provinces.
+  - An equal or greater proportion is not performed elsewhere.
+  - If not, the tax rate is the highest among provinces where the service is performed.
+- Otherwise → taxed in a non-participating province.
+
+> ⚠️ Excludes advisory, consulting, or professional services (covered under exemptions in Schedule IX).
+
+---
+
+### 4. **Passenger Transportation Services**
+
+#### Made in a Participating Province if

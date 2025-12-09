@@ -1,0 +1,180 @@
+**Detailed Summary of Rule 63 – Appeals to the Court of Appeal under the Criminal Code (Canada)**
+
+This regulation, **Rule 63**, governs the procedural requirements for appeals to the **Court of Appeal** under the *Criminal Code (Canada)*. It establishes a comprehensive framework for initiating, processing, and managing criminal appeals, including procedural deadlines, documentation, service, transcript preparation, and the preparation of submissions. The rule is designed to ensure consistency, fairness, and efficiency in appellate proceedings while respecting the rights of all parties, including prisoners and those without legal representation.
+
+---
+
+### **1. Scope and Applicability**
+- Applies to **appeals to the Court of Appeal** under the *Criminal Code*.
+- Unless otherwise indicated, the **interpretation and definitions** in the *Criminal Code* apply to this rule.
+- Key terms are defined:
+  - **Appeal** includes a **cross-appeal**.
+  - **Clerk** = Clerk of the Court of Queen’s Bench in the judicial district where the trial occurred.
+  - **Judge** = A Judge of the Court of Appeal.
+  - **Notice of Appeal** includes a **Notice of Cross-Appeal**.
+  - **Penal institution** includes penitentiaries (under *Corrections and Conditional Release Act*) and correctional institutions (under *Corrections Act*).
+  - **Prisoner appeal** = an appeal by a person in custody who is **not represented by counsel**.
+  - **Registrar** = Registrar of the Court of Appeal (including deputy registrars).
+  - **Trial decision** = conviction, acquittal, sentence, or order against which an appeal may be taken.
+  - **Trial judge** = the judge who presided at the trial.
+
+> **Address of Registrar**:  
+> The Registrar, The Court of Appeal, Justice Building, Queen Street, P.O. Box 6000, Fredericton, N.B. E3B 5H1.
+
+---
+
+### **2. Filing a Notice of Appeal**
+- A Notice of Appeal must be issued **within 30 days** of:
+  - The **trial decision** (conviction, acquittal, or verdict), or
+  - The **date of sentencing**, whichever is later.
+- Extensions may be granted by the Court of Appeal or a Judge.
+- The notice must:
+  - State the **relief sought**.
+  - Include **grounds of appeal**, such as:
+    - Evidence wrongly admitted or excluded.
+    - Misdirection or nondirection by the trial judge.
+
+#### **Form Requirements by Appellant Type**:
+| Appellant Type | Form |
+|---------------|------|
+| Attorney General or counsel instructed by AG | Form 63A |
+| Convicted person represented by counsel | Form 63B |
+| Convicted person not represented by counsel | Form 63C |
+| All other cases | Form 63D |
+
+> **Note**: In prisoner appeals (unrepresented), the notice is served on the **senior officer of the penal institution**.
+
+---
+
+### **3. Service of Notice of Appeal**
+- **Standard Service**:
+  - Original and **3 copies** must be:
+    - Filed with the **Registrar**, or
+    - Sent by **prepaid registered mail or courier** to the Registrar.
+- **Prisoner Appeals (unrepresented)**:
+  - Original and **4 copies** must be **served on the senior officer** of the institution.
+  - The senior officer must:
+    - Endorse the date of service on all copies.
+    - Return a copy to the prisoner.
+    - Forward the original and 3 other copies to the Registrar.
+
+---
+
+### **4. Registrar’s Duties Upon Receiving a Notice of Appeal**
+Upon receiving the notice, the Registrar must:
+- Assign a **Court of Appeal file number**.
+- Enface (stamp) the file number and date of issue on all copies.
+- Forward a copy to:
+  - The **clerk of the court** (if trial was in the Court of Queen’s Bench), or
+  - The **trial judge** (if trial was in Provincial Court).
+- **Retain and file the original** if the appellant is an accused or defendant.
+- Forward a copy to the **Attorney General**.
+- Return a copy to the appellant.
+- If the appellant is the AG or an informant, return the original to the appellant and retain a copy.
+
+> **Service by Registrar**:  
+> Forwarding a copy to the Attorney General is **deemed service** on the respondent.
+
+---
+
+### **5. Service of the Notice on the Respondent**
+- An appellant who is not an accused or defendant must serve the notice on the respondent **within 15 days** of issuance (or extension).
+- Service must be done in accordance with **Rule 18** (service of originating process) or as directed by a Judge.
+
+> **Important**: If a convicted person **retains counsel after filing**, counsel must immediately:
+> - Notify the respondent and the Registrar of their retention.
+> - Provide their address for service.
+
+---
+
+### **6. Cross-Appeal**
+- A respondent may file a **Notice of Cross-Appeal** within 15 days of receiving the Notice of Appeal.
+- Must be served in the same manner as a Notice of Appeal.
+
+---
+
+### **7. Request for Transcript of Evidence**
+- **General Rule**:
+  - An accused or defendant must, **immediately after filing**, request the **transcript** under *section 682(2)* of the *Criminal Code*.
+- **Prisoner Appeal**:
+  - The **Attorney General** must forward a request for transcript if the prisoner has a right of appeal or leave to appeal.
+
+#### **Transcript Scope**:
+- **If appeal is against sentence only**:
+  - Transcript limited to:
+    - Evidence on sentence.
+    - Reason for sentence given by the trial judge.
+- Parties may **agree in writing** or a Judge may order to:
+  - Omit part of the transcript.
+  - Substitute a **Statement of Facts** for the transcript and exhibits.
+
+> If such agreement is made, the appellant or AG must **modify or withdraw** their request for the transcript.
+
+---
+
+### **8. Handling of Exhibits**
+- **Trial court retains exhibits** until:
+  - **No appeal**: 90 days after expiry of appeal period (or extension).
+  - **Appeal taken**:
+    - Appeal abandoned,
+    - 30 days after expiry of time to appeal to the Supreme Court of Canada (or extension), or
+    - Final disposition by the Supreme Court of Canada.
+- **Before final disposition**, a Judge or Registrar may request the trial court to forward exhibits to the Court of Appeal.
+- After appeal is disposed of:
+  - Exhibits are returned to the trial court or to the parties who produced them.
+- **Refusal to accept return**:
+  - A party may apply to the trial judge for an order to **destroy or dispose** of exhibits after 10 days’ notice.
+- **No effect on other laws** regarding seized or forfeited property.
+
+---
+
+### **9. Trial Judge’s Report**
+- If the appeal is against sentence or otherwise directed, the **trial judge** must forward a **report** on:
+  - The case generally.
+  - Matters raised in the Notice of Appeal.
+- The Registrar must **mail copies** of the report to all parties or their counsel.
+
+---
+
+### **10. Preparation of the Appeal Book**
+- The appellant must prepare an **Appeal Book** containing the following in order:
+  1. Index.
+  2. Copy of Notice of Appeal and Cross-Appeal.
+  3. Copy of any leave order.
+  4. Copy of any order on conduct of appeal.
+  5. Information or indictment.
+  6. Decision appealed from.
+  7. Copy of jury charge (if appeal involves charging error).
+  8. Decision of trial and appeal court (in summary conviction cases).
+  9. Other relevant trial rulings not in transcript.
+  10. Statement of Facts (if agreed).
+  11. List of all exhibits (if appeal is not against sentence only).
+  12. Pre-sentence reports and criminal record (if appeal is against sentence).
+
+> **Prisoner Appeals (unrepresented)**:
+> - The **Attorney General** prepares the Appeal Book.
+> - A copy of the Appeal Book and transcript is **free of charge** and forwarded to the prisoner.
+
+> **Compliance**:
+> - The Registrar may **refuse to accept** an Appeal Book that is not legible or non-compliant.
+> - Parties may agree to **omit** any material from the Appeal Book.
+
+---
+
+### **11. Written Submissions (Appellant’s and Respondent’s)**
+#### **Appellant’s Submission**:
+- Required **unless**:
+  - The appellant is unrepresented and stated in the Notice of Appeal that they wish to present **oral argument only**.
+  - The points of argument are included in the Notice of Appeal.
+  - A Judge orders otherwise.
+- Must contain:
+  - Who is appealing.
+  - Court appealed from.
+  - Result in the lower court.
+- Structure: **4 Parts + 2 Schedules**.
+- **Page Limit**: 35 pages (excluding Schedules A and B), unless ordered otherwise by the Chief Justice.
+- Must be **numbered**.
+- Must be served **within 15 days** of transcript notification (or 30 days if no transcript), on each party or their solicitor of record.
+- Must be filed with the Registrar:
+  - If served under Rule 63.05(6): original notice with proof of service.
+  - 5

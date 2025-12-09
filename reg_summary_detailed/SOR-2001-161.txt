@@ -1,0 +1,160 @@
+**Detailed Summary of the Iodinated Contrast Media Anti-Dumping Duty Remission Order (S.C. 1997, c. 36)**
+
+---
+
+### **Overview**
+This regulation, made under **section 115 of the Customs Tariff** and on the recommendation of the **Minister of Finance**, establishes a **remission (reduction or waiver)** of anti-dumping duties for certain **iodinated contrast media products** imported into Canada from the **United States**. The order applies specifically to products used in **radiographic imaging** (e.g., X-rays), with **low osmolality** (less than 900 mOsm/kg H₂O), and is based on a detailed methodology tied to price comparisons, cost analysis, and specific manufacturer-importer relationships.
+
+The remission is granted to **mitigate the impact of anti-dumping duties** on certain products where a **compensatory arrangement** or **market pricing dynamics** suggest that the actual cost to Canadian importers is not reflective of dumping, especially when products are sold under similar conditions.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Comparable Iodinated Contrast Media Product** | A product identified as a "close equivalent" based on active ingredient, strength, packaging, and sales format. Used to benchmark pricing and determine duty remission. |
+| **Compensatory Arrangement** | Any agreement (direct or indirect) affecting price, net return to exporter, net cost to importer, or payment of duties—such as rebates, volume-based incentives, or price adjustments. |
+| **Cost and Profit Amount** | A calculated figure representing total costs (import, distribution, marketing) plus a profit margin, derived using specific methodologies in the schedule. |
+| **Import Value** | The value of the product after deducting cost and profit; used to compare against the reference value. |
+| **Iodinated Contrast Media** | Low-osmolality (≤900 mOsm/kg H₂O) contrast agents used in radiographic imaging, originating or exported from the United States. |
+| **Period of Investigation** | July 1, 1998 – June 30, 1999. This was the timeframe used in the final dumping determination under the *Special Import Measures Act*. |
+| **Reference Value** | A benchmark price per millilitre, derived from export prices adjusted by a percentage (e.g., +11.72% or +22.51%), used to determine if dumping occurred. |
+| **Resale Price** | The delivered price to a Canadian end-user, minus all discounts, rebates, incentives, and compensatory arrangements (including duty payments), regardless of timing or volume. |
+
+---
+
+## **Purpose and Scope of the Remission**
+
+The primary purpose is to **remit anti-dumping duties** on iodinated contrast media products **originating in or exported from the U.S.**, where:
+
+- The product was **imported on or after December 31, 1999**, and
+- The duties paid were **higher than those calculated using a specific methodology** tied to the reference value.
+
+The remission is **not automatic** and is **conditional** and **limited to specific product lines and companies**.
+
+---
+
+## **Eligible Product Groups and Remission Rules**
+
+### **1. Products from Searle Ltd. → Nycomed Amersham Canada Ltd. (1999 portion of investigation)**
+- Applies to products **identical** to those exported by Searle Ltd. and imported by Nycomed Amersham Canada Ltd. during **January 1, 1999 – June 30, 1999**.
+- **Reference Value Calculation**:
+  - Start with the export price per ml (from the 1999 final determination under section 25 of the *Special Import Measures Act*).
+  - Increase it by **11.72%**.
+- **Cost and Profit Amount**:
+  - Calculate a weighted average of:
+    - Export prices (Searle Ltd.)
+    - Resale prices (Nycomed Amersham Canada Ltd.)
+  - Subtract weighted average export price from weighted average resale price → express as a percentage of export price.
+  - Multiply reference value by that percentage.
+- **Import Value**:
+  - Resale price minus cost and profit amount.
+- **Duty Remission Amount**:
+  - The difference between the **reference value** and the **import value**.
+  - If import value is below reference value, remission is **reduced by the difference**.
+
+> ✅ This group benefits from a **price-based benchmark** tied to actual resale and export data.
+
+---
+
+### **2. Products from Bristol-Myers Squibb → Bracco Diagnostics Canada Inc. (Full Period of Investigation)**
+- Applies to all identical products exported by Bristol-Myers Squibb and imported by Bracco Diagnostics Canada Inc. during the **entire period of investigation** (July 1, 1998 – June 30, 1999).
+- **Reference Value Calculation**:
+  - Increase export price per ml by **22.51%**.
+- **Cost and Profit Amount**:
+  - Establish a weighted average reference value for the company.
+  - Subtract that from **28.5¢ per ml**.
+- **Import Value**:
+  - Resale price minus cost and profit amount.
+- **Duty Remission Amount**:
+  - Reference value minus import value.
+
+> ⚠️ This group has a **higher reference value increase** (22.51%), suggesting a more significant adjustment to account for market conditions.
+
+---
+
+### **3. Other Searle or Bristol-Myers Products (Not Covered in 1 or 2)**
+- Applies to **other** products exported by Searle or Bristol-Myers and imported by Nycomed or Bracco, **excluding** those covered in (a) or (b).
+- **Reference Value**:
+  - Equal to the reference value of the **comparable product** (same active ingredient, strength, packaging, sales unit).
+- **Import Value**:
+  - Resale price minus cost and profit amount of the comparable product.
+- **Duty Remission**:
+  - Reference value minus import value.
+
+> 🔍 Uses **comparability** to ensure fair pricing across similar products.
+
+---
+
+### **4. All Other Products (Non-Searle/Non-BMS)**
+- Applies to any iodinated contrast media product imported by **any other entity** not listed in (a), (b), or (c).
+- **Reference Value**:
+  - Derived from **public interest prices** of comparable products.
+    - Public interest price = reference value + cost and profit amount of comparable product.
+    - Weighted average of these public interest prices across comparable products.
+- **Cost and Profit Amount**:
+  - Includes:
+    - Taxes and duties (excluding anti-dumping duties)
+    - Post-importation costs and expenses
+    - Profit margin (as per sections 20–22 of the *Special Import Measures Regulations*)
+    - Additional shipping/preparation costs beyond normal export sales
+    - All other export/shipment-related costs
+- **Reference Value**:
+  - Public interest price minus cost and profit amount.
+- **Import Value**:
+  - Resale price minus cost and profit amount.
+- **Duty Remission**:
+  - Reference value minus import value.
+
+> 📌 This is the most **broad and complex** category, using **public interest pricing** to reflect what would be a fair market price, adjusted for cost and profit.
+
+---
+
+## **Adjustments Over Time**
+
+- The **reference value** and **cost and profit amount** are **reindexed annually** on **September 1**.
+- Indexing is based on the **Consumer Price Index (CPI)** for the **previous one-year period ending June 30**.
+- This ensures that the remission remains **realistic and inflation-adjusted** over time.
+
+---
+
+## **Conditions for Remission**
+
+To qualify for remission, the importer must meet **all of the following conditions**:
+
+1. **Product Release**  
+   The product must have been **released into the Canadian market**.
+
+2. **Timely Claim**  
+   A claim for remission must be submitted to the **Minister of National Revenue within two years** of the product being **accounted for under section 32 of the Customs Act**.
+
+3. **Evidence Submission**  
+   Upon request by the **Canada Customs and Revenue Agency (CCRA)**, the importer must provide **detailed documentation** to verify eligibility.
+
+4. **Audit Obligation**  
+   The importer **agrees to be audited at any time**, including after remission, to verify:
+   - Accuracy and completeness of submitted information
+   - That facts used to determine eligibility have not changed materially
+
+5. **Audit Compliance**  
+   When an audit is conducted, the CCRA must be able to confirm that:
+   - The information remains **accurate and complete**
+   - The facts remain **unchanged in all material respects**
+
+> 🔒 This ensures **transparency, accountability, and compliance** with anti-dumping regulations.
+
+---
+
+## **Effective Date and Enforcement**
+
+- The Order **comes into force on the day it is registered** (i.e., published in the Canada Gazette).
+- It is **binding** on all importers, manufacturers, and customs authorities involved in the importation of iodinated contrast media from the U.S.
+
+---
+
+## **Key Regulatory Principles**
+
+| Principle | Explanation |
+|--------|-------------|
+| **Market-Based Pricing** | Uses resale prices and cost structures to determine whether dumping has occurred

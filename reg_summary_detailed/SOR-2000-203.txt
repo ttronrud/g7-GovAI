@@ -1,0 +1,192 @@
+Certainly. Below is a **detailed, comprehensive summary** of the provided regulation — specifically, the **Radiation Protection Regulations** approved under the *Nuclear Safety and Control Act* by the Governor in Council on May 31, 2000 (as amended and partially repealed in later legislation, notably SOR/2020-237).
+
+---
+
+## 📚 **Detailed Summary of the Radiation Protection Regulations (S.C. 1997, c. 9)**
+
+### 🔍 **Overview**
+These regulations, made by the **Canadian Nuclear Safety Commission (CNSC)** and approved by the Governor in Council under **section 44 of the Nuclear Safety and Control Act**, establish detailed requirements for the **protection of people from radiation exposure** in licensed nuclear activities. The regulations define key radiation terms, set dose limits, outline radiation protection program obligations, and specify record-keeping and reporting responsibilities for licensees.
+
+> ⚠️ **Note**: Some provisions have been **repealed** (e.g., "working level" and "working level month" were repealed in SOR/2020-237, s.1), and others are outdated or superseded. This summary includes only the **current and relevant provisions** as of the latest amendments.
+
+---
+
+## 1. 🔤 **Key Definitions**
+
+The regulations begin with a comprehensive list of definitions essential to understanding radiation safety:
+
+| Term | Meaning |
+|------|--------|
+| **Absorbed Dose** | Energy absorbed per unit mass (measured in **gray, Gy**) |
+| **Effective Dose** | Sum of (equivalent dose × tissue weighting factor) across all organs; measures overall health risk (in **sieverts, Sv**) |
+| **Equivalent Dose** | Absorbed dose × radiation type weighting factor (in **Sv**) |
+| **Dose Limits** | Set in sections 13–15; apply to nuclear energy workers and the public |
+| **Worker** | A person performing work authorized under a license |
+| **Caregiver** | A non-professional individual who voluntarily provides care to someone receiving nuclear therapy |
+| **Pregnancy Balance** | Period from when a licensee is informed of a pregnancy to the end of pregnancy |
+| **Radon Progeny** | Radioactive decay products of radon-222: Bi-214, Pb-214, Po-214, Po-218 |
+| **Skin** | Defined as the layer 7 mg/cm² below the surface |
+| **Dosimeter** | Device worn to measure radiation exposure |
+| **Licensed Activity** | Activities listed in paragraphs 26(a)–(f) of the Act |
+| **Licensee** | Person authorized to carry out a licensed activity |
+
+> 💡 These definitions form the foundation for all dose-related and safety requirements.
+
+---
+
+## 2. 🚫 **Exclusions Where Regulations Do Not Apply**
+
+The regulations **do not apply** to radiation exposure in the following scenarios:
+
+- **Medical treatment or diagnosis** (as directed by a qualified medical practitioner under provincial law)
+- **Voluntary participation in biomedical research** supervised by a qualified medical professional
+- **Caregiving** (support provided to a person receiving nuclear therapy)
+
+> ✅ This recognizes that radiation exposure in medical contexts is subject to medical justification and informed consent, and is not subject to the same strict dose controls as occupational exposure.
+
+---
+
+## 3. 🛡️ **Mandatory Radiation Protection Program**
+
+Every licensee must implement a **comprehensive radiation protection program** that includes:
+
+- **Management control over work practices** (e.g., minimizing exposure through engineering controls)
+- **Personnel qualification and training** (ensuring staff understand risks and safety procedures)
+- **Control of occupational and public exposure** (monitoring, shielding, access control)
+- **Planning for unusual situations** (emergency preparedness and response)
+
+Additionally, licensees must:
+
+- **Ascertain and record** the quantity and concentration of any nuclear substance released during licensed activities:
+  - Via **direct monitoring**, or
+  - Via **estimation** if direct measurement is impractical (e.g., due to time/resource constraints)
+
+> 🔍 This ensures transparency and accountability in environmental releases.
+
+---
+
+## 4. 📊 **Dose Monitoring and Record-Keeping Requirements**
+
+### A. **Radon Progeny Exposure**
+- Licensees must **ascertain and record**:
+  - Magnitude of exposure to **radon progeny** for each person (e.g., workers, patients)
+  - **Effective dose** and **equivalent dose** received by or committed to that person
+
+> ✅ Monitoring is required via **direct measurement** or **estimation** if measurement is not feasible.
+
+### B. **Action Levels**
+- An **action level** is a threshold dose or parameter indicating a loss of control in the radiation protection program.
+- If such a level is reached:
+  - The licensee must:
+    1. Investigate the cause
+    2. Restore the effectiveness of the radiation protection program
+    3. Notify the CNSC within the time frame specified in the license
+
+> ⚠️ This serves as a proactive safety mechanism to prevent overexposure.
+
+---
+
+## 5. 📝 **Information to Be Provided to Nuclear Energy Workers**
+
+Every licensee must provide **written information** to each nuclear energy worker:
+
+### To All Workers:
+- Confirmation that they are a **nuclear energy worker**
+- Description of **radiation risks** in their work
+- Applicable **effective dose limits** and **equivalent dose limits** (per sections 13–15)
+- Annual radiation dose levels
+- Responsibilities during emergencies and associated radiation risks
+
+### To Female Workers:
+- Risks of radiation exposure to **embryos/fetuses** and **breastfed infants**
+- Importance of **promptly informing the licensee** of pregnancy or breastfeeding
+- Rights under **section 11** of the Act
+- Applicable **effective dose limits for pregnant workers** (e.g., 1 mSv during pregnancy)
+
+> ✅ This promotes informed consent, transparency, and worker health.
+
+### Written Acknowledgement
+- Every worker must provide a **written acknowledgment** confirming receipt of this information.
+
+---
+
+## 6. 📏 **Dosimetry Requirements**
+
+### Who Needs Dosimetry?
+Licensees must use a **licensed dosimetry service** to measure and monitor radiation for workers who have a **reasonable probability** of receiving:
+
+- An **effective dose > 5 mSv** in a **one-year dosimetry period**, or
+- An **equivalent dose to skin/hands/feet > 50 mSv** in a one-year period
+
+> 🔍 This targets high-risk workers and ensures dose tracking.
+
+### Required Information to Be Provided to Dosimetry Service:
+- Full name (including previous surname)
+- Social Insurance Number (SIN)
+- Gender
+- Job category
+- Date, province, and country of birth
+
+> 🛡️ This supports accurate dose tracking and compliance with national health databases.
+
+---
+
+## 7. 📂 **Personal Information and Privacy**
+
+- If a licensee collects personal information (as defined in the *Privacy Act*) to share with the CNSC, another government body, or a licensed dosimetry service:
+  - The individual must be **informed of the purpose** of collection
+
+> ✅ This ensures compliance with privacy laws and builds trust.
+
+---
+
+## 8. 📝 **Worker’s Right to Provide Personal Information**
+
+On request, a nuclear energy worker must provide:
+- Full name, SIN, gender, birth details
+- Dose records for:
+  - Current **one-year** dosimetry period
+  - Past **five-year** dosimetry period
+
+> 🔍 This enables transparency and supports dose review and health monitoring.
+
+---
+
+## 9. 🚑 **Pregnancy and Breastfeeding Accommodations**
+
+### Upon Pregnancy Notification:
+- The licensee must make **reasonable accommodations** (e.g., reduced exposure, modified duties) to protect the fetus.
+- Accommodations must not result in **undue hardship** (e.g., excessive cost or business disruption).
+
+### Upon Breastfeeding Notification:
+- The licensee must make **accommodations to reduce intake** of nuclear substances (e.g., limiting exposure, changing work assignments).
+- Again, accommodations must avoid undue hardship.
+
+> 💡 These provisions protect vulnerable populations and align with health and safety best practices.
+
+---
+
+## 10. 📏 **Dose Limits (Sections 13–14)**
+
+> ⚠️ *Note: Some of these limits have been repealed or modified (e.g., SOR/2020-237, s.14), but the core framework remains.*
+
+The regulations require that:
+
+- The **effective dose** to specific organs/tissues during specified periods **does not exceed** the limits set in the table (e.g., 50 mSv/year for hands/feet, 1 mSv/year for public).
+- The **equivalent dose** to specific organs (e.g., skin, lens of the eye) must not exceed defined thresholds.
+
+> 📌 **Exception**: Dose limits **do not apply** during **emergency response** (see below).
+
+---
+
+## 11. 🚨 **Emergency Response and Dose Limits**
+
+### General Rule:
+- During emergency response, **dose limits may be exceeded** if:
+  - The worker is acting to **save or protect human life**
+  - The worker is participating in **authorized emergency actions**
+
+### Specific Emergency Dose Limits:
+| Action | Effective Dose | Skin Dose |
+|-------|----------------|----------|
+| General emergency response | Up to **

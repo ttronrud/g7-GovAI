@@ -1,0 +1,191 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the **Cost of Borrowing (Foreign Insurance Companies) Regulations**, as enacted under the *Insurance Companies Act* and referenced in the provided text.
+
+---
+
+## 🔍 **Detailed Summary of the Cost of Borrowing (Foreign Insurance Companies) Regulations**
+
+### 📌 **Regulatory Background and Authority**
+- **Enacted by:** Her Excellency the Governor General in Council, on the recommendation of the Minister of Finance.
+- **Legal Basis:** Sections 598 to 606a and 703b of the *Insurance Companies Act* (Act).
+- **Purpose:** To ensure that foreign insurance companies (or entities acting as lenders) provide borrowers with clear, accurate, and transparent information about the **total cost of borrowing**, including interest and fees, in a standardized and accessible format.
+
+> These regulations apply specifically to **foreign insurance companies** offering credit agreements (loans, lines of credit, credit cards) to individuals or entities outside the scope of certain exclusions.
+
+---
+
+## 📚 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Insurance Companies Act* |
+| **APR** | Annual Percentage Rate – the cost of borrowing expressed as an annual rate on the principal |
+| **Borrower** | A person to whom a loan is proposed or who is a holder/applicant for a credit card |
+| **Credit Agreement** | Includes any loan, line of credit, or credit card agreement |
+| **Disbursement Charge** | A fee to cover costs of arranging, documenting, insuring, or securing a loan (e.g., legal, appraisal, insurance) – *excludes* certain standard charges |
+| **Hypothec** | A mortgage or lien on immovable property |
+| **Principal** | The amount borrowed, excluding interest or other borrowing costs |
+| **Public Index** | A publicly published interest rate (e.g., in a newspaper or media) used to determine variable rates; must be published weekly in areas where borrowers reside |
+
+---
+
+## 🚫 Exclusions from Scope
+
+These regulations **do not apply** to credit agreements involving:
+
+1. **Business loans** (loans taken for business purposes)
+2. **Non-natural person borrowers** (e.g., corporations, trusts, non-individual entities)
+3. **Loans under the Canada Student Loans Act**
+4. **Loans governed by other federal or provincial legislation** that already require disclosure of interest or discount rates
+
+> This ensures that student loans and business financing are governed by other specific rules.
+
+---
+
+## 📊 APR Calculation Rules (Section 600 of the Act)
+
+### For **loans not involving credit cards or lines of credit**:
+The APR must be calculated using the following formula:
+
+> **APR = (Total Cost of Borrowing / Principal) × (100 / Term in Years)**
+
+Where:
+- **Total Cost of Borrowing** = Sum of all borrowing costs (interest, fees, etc.) over the loan term
+- **Principal** = Average outstanding balance at the end of each period (before subtracting payments)
+- **Term** = Duration of the loan in years (to at least two decimal places)
+
+### Key Rules for APR Calculation:
+| Rule | Description |
+|------|-------------|
+| **Rounding** | APR may be rounded to the **nearest eighth of a percent** (e.g., 5.125%) |
+| **Payment Order** | Each payment is applied **first to accumulated cost of borrowing**, then to principal |
+| **Time Periods** | - 1 month = 1/12 year<br>- 1 week = 1/52 year<br>- 1 day = 1/365 year |
+| **Variable Rates** | Must use the **annual rate in effect on the day of calculation** |
+| **No Installments** | If no payments exist, APR is calculated assuming **lump-sum repayment at maturity** |
+| **New Credit Agreements** | Even if the loan carries an outstanding balance from a prior agreement, it counts as a **new credit agreement** for APR purposes |
+
+### For **credit cards or lines of credit**:
+- **Fixed interest rate**: APR = the fixed annual interest rate
+- **Variable interest rate**: APR = the annual rate **on the date of disclosure**
+
+> If there is **no cost of borrowing beyond interest**, the APR equals the interest rate.
+
+---
+
+## 💰 What Constitutes "Cost of Borrowing"?
+
+The total cost of borrowing includes:
+
+✅ **Interest** (as defined in section 598(a))  
+✅ **Administrative charges** (e.g., account management, transaction fees)  
+✅ **Legal fees** (for lawyers or notaries required by the foreign company)  
+✅ **Insurance charges** (excluding optional or borrower-beneficiary insurance)  
+✅ **Broker fees** (if included in the loan amount and paid directly by the foreign company)  
+✅ **Appraisal, inspection, or surveying fees** (only if required by the foreign company and related to security property)
+
+---
+
+## ❌ What Is **Excluded** from Cost of Borrowing?
+
+The following charges are **not included** in the cost of borrowing:
+
+- Insurance that is **optional** or where the **borrower is the beneficiary** and the insured asset reflects the value of collateral
+- **Overdraft fees**
+- Fees to **register documents** or obtain information from public registries about security interests
+- **Penalty charges** for early repayment
+- Legal fees (unless required by the foreign company)
+- Insurance against **defects in title** (if paid directly by the borrower)
+- Appraisal/inspection services provided **directly to the borrower**
+- Insurance against **default on a high-ratio mortgage**
+- Maintenance fees for tax accounts (required or optional)
+- Fees to **discharge a security interest**
+- **Default charges**
+
+> These exclusions prevent overstatement of costs and protect borrowers from misleading disclosures.
+
+---
+
+## 📄 Disclosure Requirements
+
+All foreign companies must provide a **written disclosure statement** to the borrower before or at the time of entering into a credit agreement.
+
+### Form of Disclosure Statement:
+- Can be:
+  - A **separate document**
+  - A **part of the credit agreement or application**
+
+### Formatting and Presentation Rules:
+| Requirement | Details |
+|-----------|--------|
+| **Consolidated Presentation** | For agreements or applications, the disclosure must be in a **single, clear location** |
+| **Information Box** | Must appear at the **beginning** of the agreement or application, containing key data from one of **Schedules 1 to 5** |
+| **Text Legibility** | - Font size: **minimum 12 points**<br>- Bold for titles, numbers, interest rates, dates, amounts<br>- 10-point font for other text<br>- Standard spacing<br>- Margins above/below/sides<br>- Dark text on light background (high contrast) |
+
+> The goal is **clarity, simplicity, and readability**.
+
+### Assumptions and Estimates:
+- If the information is based on an **assumption or estimate**:
+  - It must be **reasonable**
+  - Must be **clearly labeled** as an estimate
+  - Must be **known to be unverifiable at the time of disclosure**
+
+> This protects borrowers from being misled by speculative or unverifiable data.
+
+### Language and Clarity:
+- All disclosures must be:
+  - **Clear**
+  - **Simple**
+  - **Not misleading**
+
+> The language must be accessible to the average consumer.
+
+---
+
+## 📬 Delivery and Timing of Disclosure
+
+### By Mail:
+- A disclosure statement sent by mail is considered **provided on the fifth business day after the postmark date**
+
+### For Multiple Borrowers:
+If a foreign company enters into a credit agreement with **two or more borrowers**:
+- Must provide the disclosure to **all borrowers**
+- **Exception**: If **all borrowers consent** (in writing or orally) to having it provided to **one borrower on their behalf**, the company may provide it to that one.
+- **If only some consent**, the company may provide it to one borrower **only if** it also provides it to **all others who did not consent**
+- **Oral consent** must be **confirmed in writing** (paper or electronic)
+
+> This promotes efficiency without compromising transparency.
+
+---
+
+## ⏱️ Timing of Initial Disclosure Statement
+
+The initial disclosure must be provided **on or before**:
+
+- The **earlier of**:
+  - The **first payment** (other than a disbursement charge) made by the borrower
+  - **Two clear business days before** the agreement is signed (for mortgages or hypothecs)
+  - **On the day the agreement is signed** (for all other types)
+
+> **Exceptions** (when disclosure is not required before signing):
+- Borrower **consents** to receiving the statement later
+- Borrower receives **independent legal advice**
+- The agreement includes a **rescission period of at least two business days**
+- The agreement offers **favourable terms** that reduce the cost of borrowing
+
+> These exceptions allow flexibility in cases where borrowers are fully informed or given time to reconsider.
+
+---
+
+## 📋 Required Information in Initial Disclosure Statement
+
+### For **Fixed Interest Rate, Fixed Amount, Fixed Repayment** Loans:
+Must include:
+1. Principal amount
+2. Advance dates and amounts
+3. Total payments
+4. Total cost of borrowing (as an amount)
+5. Loan term and amortization period (if different)
+6. Annual interest rate and compounding details
+7. APR (if different from interest rate)
+8. Start date of interest and any grace periods
+9. Payment schedule and due dates
+10. Payment order: **first

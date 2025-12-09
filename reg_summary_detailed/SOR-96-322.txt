@@ -1,0 +1,137 @@
+**Detailed Summary of the Regulation (Governor in Council Variation of Telecom Decision CRTC 95-14)**
+
+---
+
+### **Background and Context**
+
+On **March 8, 1995**, the **Canadian Radio-television and Telecommunications Commission (CRTC)** issued **Telecom Decision CRTC 95-3**, titled *Provision of Directory Database Information and Real-Time Access to Directory Assistance Databases*. This decision granted **independent telephone directory publishers** (such as Southam, Thomson, White Directory, and Koocanusa) access to **non-confidential residential telephone listing information** held by **Stentor member telephone companies**, in **machine-readable form**. 
+
+However, this access was **excluded** from **Manitoba Telephone System** and **Newfoundland Telephone**.
+
+To protect consumer privacy, the CRTC mandated that telephone companies implement **new privacy safeguards**, including the establishment of a **1-800 toll-free number** through which individuals could request that their personal information be removed from directory listings shared with third parties (i.e., de-listing).
+
+---
+
+### **White Directory’s Request for Waiver**
+
+On **March 28, 1995**, **White Directory of Canada, Inc.** requested the CRTC to **waive the de-listing mechanism** for independent directory publishers, under the condition that such publishers would **not resell, rent, or otherwise dispose of** the listing information to third parties. This request was aimed at enabling White Directory to use the data for directory production without being required to provide a de-listing option to subscribers.
+
+---
+
+### **CRTC’s Initial Response (Telecom Decision CRTC 95-14)**
+
+On **June 27, 1995**, the CRTC issued **Telecom Decision CRTC 95-14**, titled *White Directory — Application to Review and Vary Decision 95-3*. In a **majority decision**, the CRTC **rejected White Directory’s request** to waive the de-listing mechanism. The majority held that the de-listing process was essential to protecting consumer privacy and should apply to all users, including independent publishers.
+
+However, a **minority decision** within the same ruling **supported** the waiver, arguing that allowing independent publishers to access directory data without a de-listing requirement would promote fair competition and that the de-listing mechanism should not be applied uniformly to all users.
+
+---
+
+### **Petition for Variation of CRTC Decision**
+
+On **August 25, 1995**, a formal petition was filed by **Southam Inc., Thomson Newspapers Company Limited, White Directory of Canada, Inc., and Koocanusa Publications Inc.** They requested that **Telecom Decision CRTC 95-14 be varied** to allow telephone companies to provide independent publishers with the **same non-confidential residential listing information** that they already share with their own directory publishing affiliates — **on the condition** that the data be used **only for the purpose of publishing telephone directories** and **not resold, rented, or otherwise disposed of to third parties**.
+
+This petition was based on the argument that:
+- Independent publishers are already engaged in the same commercial activity as affiliated publishers.
+- The current de-listing requirement creates unnecessary barriers and undermines fair competition.
+- A consistent, fair, and competitive market is in the public interest.
+
+---
+
+### **Government Process and Public Consultation**
+
+- On **November 11, 1995**, the **Minister of Industry** published a **notice of receipt** of the petition in *Canada Gazette, Part I*, as required by **subsection 12(4) of the Telecommunications Act**.
+- In accordance with **section 13 of the Telecommunications Act**, the Minister provided an opportunity for **provincial consultations** to gather regional perspectives on the proposed variation.
+
+---
+
+### **Governor in Council’s Determination**
+
+After careful consideration, the **Governor in Council** (the federal government’s decision-making body) concluded the following:
+
+1. **Fair and sustainable competition** in the directory publishing market is in the **public interest**.
+2. The **minority decision** in CRTC 95-14 — which supported waiving the de-listing mechanism for independent publishers — is **reasonable and appropriate**.
+3. The **CRTC’s majority decision** should be **varied** to adopt the minority view, **on the condition** that:
+   - Directory subscriber listings made available to independent publishers in machine-readable form are used **solely for the purpose of publishing telephone directories**.
+   - These listings **must not be resold, rented, or otherwise disposed of** to any third party.
+4. The **privacy safeguards** must be:
+   - **Cost-effective**
+   - **Competitively neutral**
+   - Not **unduly restrictive** of new service development or innovation.
+
+---
+
+### **Broader Policy Considerations**
+
+The Governor in Council also recognized the **evolving nature of telecommunications and electronic services**, and concluded that:
+
+- The issue of **subscriber privacy** must be expanded beyond traditional landline telephone listings to include:
+  - **Internet and email subscriber listings**
+  - **Facsimile (fax) subscriber listings**
+  - **Cellular and Personal Communications Services (P.C.S.) subscriber listings**
+  - **Subscriber listings from other emerging telecommunications services**
+
+These developments have a **growing impact on citizen privacy**, and thus, the **protection of subscriber information** must be re-evaluated in light of technological change.
+
+---
+
+### **Concerns Regarding the Unlisted Number Service**
+
+The Governor in Council noted that:
+- The **current pricing** of the **unlisted number service** (the toll-free number through which individuals can request removal of their listing) may **deter subscribers** from de-listing their information.
+- This creates a **privacy risk**, as individuals may remain listed even if they wish to remain private.
+- Therefore, the **unlisted number service should be made available** to subscribers of **other telecommunications services** (e.g., Internet, email, cellular) to ensure **consistent privacy rights** across all service types.
+
+---
+
+### **Final Actions Taken by the Governor in Council**
+
+1. **Variation of Telecom Decision CRTC 95-14**:
+   - The **majority decision** is **replaced** by the **minority decision**.
+   - Independent telephone directory publishers are now allowed to access **non-confidential residential telephone listing information** in machine-readable form.
+   - Such access is **conditional** on the **non-resale, non-rental, and non-disposal** of the data to third parties.
+
+2. **Mandatory Reporting Requirement**:
+   - Pursuant to **section 14 of the Telecommunications Act**, the Governor in Council **requires the CRTC to submit a report** on the following matters:
+     - The **appropriate level of protection** that should be afforded to subscriber listings from:
+       - Internet and email services
+       - Fax services
+       - Cellular and P.C.S. services
+       - Other emerging telecommunications services
+     - An **evaluation of the unlisted number service**, including:
+       - Its effectiveness
+       - Its cost structure
+       - Its impact on consumer privacy and participation in the market
+   - The report must be submitted **on or before December 30, 1996**.
+
+---
+
+### **Key Objectives and Principles of the Regulation**
+
+| Objective | Description |
+|--------|-------------|
+| **Fair Competition** | Ensures independent directory publishers have equal access to data as affiliated publishers, promoting a competitive and diverse directory market. |
+| **Consumer Privacy** | Maintains strong privacy safeguards through de-listing mechanisms and prohibits resale of data. |
+| **Privacy in Emerging Services** | Expands privacy protections to new communication technologies (e.g., Internet, cellular). |
+| **Cost-Effectiveness & Neutrality** | Requires privacy measures to not create undue costs or barriers to innovation. |
+| **Transparency & Accountability** | Mandates a formal CRTC report to ensure ongoing review and public accountability. |
+
+---
+
+### **Significance of the Regulation**
+
+This regulation represents a **critical step in balancing innovation and consumer privacy** in Canada’s evolving telecommunications landscape. It:
+
+- **Modernizes** the privacy framework for directory data.
+- **Supports fair market competition** among directory publishers.
+- **Sets a precedent** for applying privacy protections to new digital services.
+- **Establishes a transparent, ongoing process** for evaluating privacy standards in response to technological change.
+
+It also reflects a broader shift in policy: from treating directory listings as static, legacy data to recognizing them as part of a **dynamic, digital privacy ecosystem**.
+
+---
+
+### **Conclusion**
+
+The Governor in Council, acting under the **Telecommunications Act**, has effectively **revised the CRTC’s 1995 decision** to allow independent telephone directory publishers to access residential listing data — **with strict conditions** that prevent resale or disposal of data. This change promotes **market fairness and competition**, while preserving **consumer privacy** through de-listing rights and safeguards. Furthermore, it initiates a **forward-looking review** of privacy protections for **digital and emerging communication services**, ensuring that Canada’s privacy standards evolve with technological progress.
+
+This regulation remains a foundational policy document in Canada’s telecommunications privacy framework.

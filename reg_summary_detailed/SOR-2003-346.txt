@@ -1,0 +1,189 @@
+**Detailed Summary of Canadian Payments Association By-law No. 3 — Payment Items and Automated Clearing Settlement System**
+
+---
+
+### **Overview**
+This by-law, adopted by the **Board of Directors of the Canadian Payments Association (CPA)** and approved by **Her Excellency the Governor General in Council** on June 25, 2003, establishes the rules governing the **exchange of payment items**, **clearing**, and **settlement** through the **Automated Clearing Settlement System (ACSS)** under the *Canadian Payments Act*.
+
+The by-law defines key terms, outlines procedures for exchanges and settlements, sets eligibility requirements for participants (direct clearers, group clearers, clearing agents), and establishes responsibilities, obligations, and risk management frameworks for all parties involved in the ACSS.
+
+---
+
+## **Key Definitions (as applied in the by-law)**
+
+| Term | Definition |
+|------|-----------|
+| **ACSS Cycle** | The period from the final adjustment time of one business day to the final adjustment time of the next business day. |
+| **Automated Clearing Settlement System (ACSS)** | The system used by direct clearers, group clearers, clearing agents, and the Bank of Canada to record and settle payment items electronically. |
+| **Business Day** | Any day excluding ACSS holidays as specified in the rules. |
+| **Clearing** | The reconciliation of payment items and calculation of net balances owed between participants. |
+| **Clearing Agent** | A direct or group clearer appointed to represent an indirect clearer in exchanges and either effect clearing/settlement or make entries into ACSS. |
+| **Clearing Balance** | The net amount owed to or by a member as a result of clearing. |
+| **Direct Clearer** | A member (excluding Bank of Canada) that exchanges payment items on its own behalf and makes entries into ACSS. |
+| **Exchange** | The delivery and receipt of payment items. |
+| **Federal Credit Union** | As defined in Section 2 of the *Bank Act*. |
+| **Final Adjustment Time** | The deadline before which errors affecting clearing balances must be corrected. |
+| **Final Exchange** | The last exchange of payment items at a regional exchange point during an ACSS cycle. |
+| **Group** | A group of entities (including members and non-members) linked via a group clearer, as defined in Section 28. |
+| **Group Clearer** | A member that exchanges payment items on behalf of a group or its members and either clears/settles or enters into ACSS. |
+| **Indirect Clearer** | A member whose payment items are exchanged via a clearing agent. |
+| **Pledge** | A grant of security (collateral) to the Bank of Canada to secure advances for settlement purposes. |
+| **Regional Exchange Point** | Physical or electronic locations in Canada where payment items are exchanged (including the National Electronic Settlement Region). |
+| **Settlement** | The actual payment of the clearing balance. |
+
+---
+
+## **Scope of Application**
+
+This by-law applies to:
+
+1. **Exchanges involving payment items that trigger clearing through the ACSS**, including:
+   - Between direct clearers, group clearers, and clearing agents.
+   - Between indirect clearers via their clearing agents.
+
+2. **Exchanges involving payment items that do not trigger clearing through ACSS**, including:
+   - Between indirect clearers and their clearing agents.
+   - Between indirect clearers represented by the same clearing agent.
+   - Between a group clearer and its group members.
+   - Among entities within a group through the group clearer.
+
+3. **Clearing and settlement** resulting from any of the above exchanges.
+
+4. **Non-member locals** (e.g., local financial institutions not members of the CPA):
+   - If a member exchanges payment items on behalf of a non-member local, the local must comply with the by-laws and rules as if it were a member.
+
+---
+
+## **Settlement Mechanisms**
+
+Settlement may occur through one of the following methods, as specified in the rules:
+
+- A **payment message** under *By-law No. 9 — Lynx* (a payment messaging system).
+- Based on **clearing balances** calculated by the ACSS.
+- Through a **clearing agent**.
+
+> ⚠️ *Note: The original provision listing “payment message” was repealed in 2021 (SOR/2021-182, s. 54), so current settlement mechanisms are now primarily via ACSS balances or through clearing agents.*
+
+---
+
+## **Eligibility and Requirements for Payment Items**
+
+Payment items may be exchanged for clearing and settlement **only if** they meet the following criteria:
+
+### ✅ **General Requirements (for paper or electronic items):**
+- Drawn on a **member** or a **non-member local** that belongs to a **member central or cooperative credit association**.
+- Payable on **demand**.
+- Identified in accordance with the rules.
+- Conform to value, value date, and other requirements set out in the rules.
+
+### ✅ **Exceptional Cases (items not meeting full requirements but specified in rules):**
+- Items that do not fully meet the above criteria but are **specifically allowed** under the rules may still be exchanged.
+
+### ✅ **Government Payment Items:**
+- Items drawn on or by the **Receiver General of Canada** and payable by the **Government of Canada** may be exchanged if specified in the rules.
+
+### ✅ **International Payment Items:**
+- Certain international payment items falling within a class defined in the rules may be exchanged.
+
+### ❌ **Prohibited Exchanges:**
+- **Payment items in dispute** (as defined in the rules) may not be exchanged for clearing or settlement.
+
+---
+
+## **Irrevocability of Exchanges**
+
+- Every exchange of a payment item becomes **irrevocable and irreversible** at the time specified in the rules.
+- If no such time is specified, irrevocability occurs **upon settlement**.
+
+> This ensures finality and prevents disputes after settlement.
+
+---
+
+## **Member Obligations**
+
+Every member must:
+- Exchange payment items in accordance with the by-laws and rules.
+- Ensure that all payment items comply with the by-laws and rules.
+- Maintain a **settlement account** with each of its clearing agents.
+- Establish a **loan facility** with each clearing agent (to cover shortfalls in clearing balances).
+
+> An indirect clearer may also maintain a settlement account and loan facility with a **designated central** (as per subsection 33(2)).
+
+---
+
+## **Return of Payment Items After Settlement**
+
+Despite section 14 (which generally protects against liability), **payment items that become irrevocable upon settlement may be returned** after settlement **in accordance with the rules and for specified reasons** (e.g., error, fraud, or dispute).
+
+- Every member must **accept returned payment items** as per the rules.
+
+---
+
+## **Liability and Indemnity**
+
+- The **Canadian Payments Association**, its directors, officers, or employees are **not liable** for any loss or damage suffered by a member due to honest and good-faith actions related to the ACSS.
+- This protects the Association from claims arising from operational or administrative decisions.
+
+---
+
+## **Ownership and Operation of the ACSS**
+
+- The **Association owns the ACSS**.
+- The **operation, management, and maintenance** of the ACSS are part of the Association’s core business.
+- **Subject to section 46** and **except in case of a national failure of the ACSS**, the Association must ensure the system is **operational on all business days**.
+
+> This underscores the critical role of the ACSS in the Canadian financial system.
+
+---
+
+## **Access to Information**
+
+- Access to information about clearing and ACSS operations is governed by the rules (typically involving confidentiality and security protocols).
+
+---
+
+## **Entry into the ACSS**
+
+- Only the following may make entries into the ACSS:
+  - Direct clearers
+  - Group clearers
+  - Clearing agents
+  - The **Bank of Canada**
+
+> This ensures a controlled, secure, and auditable flow of financial data.
+
+---
+
+## **Appointment as Direct Clearer**
+
+A member may be appointed as a **direct clearer** if it:
+1. Maintains a **settlement account** with the Bank of Canada.
+2. Has established a **loan facility** with the Bank of Canada and entered into agreements covering:
+   - Settlement of clearing balances
+   - Administration of the loan facility
+   - Advances from the Bank of Canada
+   - Pledging of collateral
+3. Meets **technical, financial, and other requirements** set out in the rules.
+
+> ⚠️ *Note: The requirement in subsection 26(d) was repealed in 2020 (SOR/2020-167, s. 4).*
+
+- The **Board may revoke** direct clearer status if the member no longer meets the requirements.
+- The **President must notify all members** of any revocation promptly.
+
+---
+
+## **Group Formation and Appointment**
+
+A **group** may consist of:
+- A group clearer (a central or cooperative credit association) and one or more of the following:
+  - Centrals
+  - Cooperative credit associations
+  - Federal credit unions
+  - Locals (members or non-members) belonging to the group clearer
+  - Locals belonging to another central or cooperative credit association if that central/co-op belongs to the group
+
+> **Special Rule**: If two non-member locals belong to two centrals where one belongs to the other, one central may appoint the other as group clearer for both.
+
+A group may also consist of:
+- Two or more members from one of the following categories who appoint a member of that category as group clearer:
+  - Authorized foreign banks

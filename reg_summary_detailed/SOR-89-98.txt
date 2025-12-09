@@ -1,0 +1,168 @@
+### **Detailed Summary of the Vessel Traffic Services Zones Regulations (Canada)**
+
+---
+
+#### **1. Legal Basis and Purpose**
+These regulations are made under **section 635.15 and 635.16 of the Canada Shipping Act (S.C. 1987, c. 7, s. 75)**, and were published in the *Canada Gazette, Part I*, on **July 2, 1988**, following a public consultation period. The purpose is to establish **Vessel Traffic Services (VTS) Zones** across Canada to enhance maritime safety, prevent collisions, manage traffic flow, and protect the environment by ensuring vessels comply with operational and reporting requirements.
+
+The regulations are effective upon the coming into force of **sections 73 to 76 of the Act**, which amended the Canada Shipping Act and related legislation (including the Arctic Waters Pollution Prevention Act, Maritime Code Act, and Oil and Gas Production and Conservation Act), and are formally titled:
+
+> **The Vessel Traffic Services Zones Regulations**
+
+---
+
+#### **2. Key Definitions**
+The regulations define several key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Shipping Act* |
+| **Berth** | Includes wharfs, piers, locks, anchorages, or mooring buoys |
+| **Departure manoeuvre** | When a vessel leaves a berth and safely gets under way |
+| **Manoeuvre** | Any ship movement, including compass adjustments, sea trials, dredging, cable laying/picking up, and calibration of navigational aids |
+| **Marine Traffic Regulator** | A person designated by the Commissioner of the Canadian Coast Guard under section 562.18(2) of the Act |
+| **Pollutant** | As defined in section 654 of the Canada Shipping Act |
+| **VTS OFFSHORE** | Refers to Western Canada VTS Zones as described in *Notice to Mariners TP 390* (Annual Edition) |
+
+---
+
+#### **3. Scope of Application**
+The regulations apply to the following vessels:
+
+✅ **All ships 20 metres or more in length**  
+✅ **Ships engaged in towing or pushing any vessel/object** (excluding fishing gear), where:
+- The **combined length** of the towing ship and object is **45 metres or more**, **OR**
+- The **length of the object being towed** is **20 metres or more**
+
+❌ **Exclusions**:
+- Ships **towing or pushing within a log booming ground** (i.e., restricted or protected areas)
+- **Pleasure yachts less than 30 metres in length**
+- **Fishing vessels less than 24 metres in length and not exceeding 150 gross tons**
+
+> *Note: These exclusions ensure that smaller, non-commercial, or low-risk vessels are not burdened with full VTS compliance.*
+
+---
+
+#### **4. VTS Zones Covered**
+The VTS zones referenced in this regulation are those listed in **Column I of the Schedule** to the regulations. These zones are defined in the **Vessel Traffic Services Zones Regulatory Specifications (TP 8771)**, published and maintained by the **Canadian Coast Guard (CCG)**, and are updated periodically.
+
+- The zones include:
+  - **ECAREG (Eastern Canada VTS Zone)** – a major zone covering key maritime routes in Eastern Canada
+  - **VTS OFFSHORE (Western Canada VTS Zones)** – defined in the annual *Notice to Mariners TP 390*
+
+These zones are critical for monitoring and managing vessel traffic in high-density or complex areas (e.g., near ports, major shipping lanes, or sensitive ecosystems).
+
+---
+
+#### **5. Mandatory Radio Equipment Requirements**
+Before entering a VTS zone, the **master of the vessel must ensure** that:
+
+- Radio equipment is capable of:
+  - **Receiving and transmitting** on the **channel** specified in **Column 5** of Table I of TP 8771
+  - **Transmitting on the radio frequency** specified in **Column 6** of the same table
+
+Additionally, a **continuous listening watch** must be maintained on:
+- The designated channel and frequency **at all times** when:
+  - The ship is **at anchor or moored**
+  - The ship is **under way** near the **conning position** (i.e., the bridge or command area)
+
+> ⚠️ This listening watch **may be suspended** only if a **marine traffic regulator** directs the vessel to use a different channel or frequency.
+
+---
+
+#### **6. Mandatory Reporting Requirements**
+The master of a vessel must report to a **marine traffic regulator** under the following circumstances:
+
+---
+
+##### **(a) General Entry into a VTS Zone**
+- **At least 15 minutes before** entering a VTS zone, **unless**:
+  - The vessel has already received a **traffic clearance** under section 562.18 of the Act
+- **Immediately before** commencing a **manoeuvre** that could endanger navigation
+- **As soon as practicable** after arriving at a **berth** in a VTS zone
+- **Immediately before** starting a **departure manoeuvre**
+- **When arriving at a calling-in point** (defined in Column 4 of Table II of TP 8771)
+- **As soon as practicable after** completing a manoeuvre (e.g., docking, undocking)
+- **Immediately after** completing a departure manoeuvre
+
+---
+
+##### **(b) Advance Notice (24-Hour Warning)**
+For vessels meeting **any of the following conditions**, a report must be made **at least 24 hours before** entering a VTS zone from seaward:
+
+- Ship of **500 gross tons or more**
+- Towing or pushing a vessel where the **combined gross tonnage is 500 tons or more**
+- Carrying **pollutants or dangerous goods**, or towing/pushing a vessel doing so
+
+> *Note: If the estimated time of arrival is less than 24 hours after departure from the last port, the report must be made as soon as possible.*
+
+---
+
+##### **(c) Specific Report Content by Scenario**
+
+| Scenario | Required Information |
+|--------|------------------------|
+| **General entry (a)** | Name of ship, call sign, master’s name, position, time of arrival, course/speed, weather, ETA into zone, destination, route, last port, draft, dangerous goods/pollutants, hull/steering/propulsion defects, discharge threats, agent name, certificate expiry dates |
+| **Advance notice (b)** | Name, call sign, position, ETA into zone, destination, ETA to destination, cargo (pollutants/dangerous goods) |
+| **Departure manoeuvre (c)** | Name, call sign, position, ETA departure, destination, ETA arrival, cargo details |
+| **Manoeuvre commencement (a)(iii)** | Name, position, type of manoeuvre |
+| **Arrival at calling-in point (d)** | Name or number of calling-in point |
+| **Post-manoeuvre report (e)** | Description of the manoeuvre |
+| **Emergency or incident (f)** | Name, position, and nature of event (e.g., fire, collision, pollution, obstruction, ice, weather) |
+
+> All reports must include the **name and position of the ship**.
+
+---
+
+#### **7. Reporting in Case of Emergencies or Significant Changes**
+The master must report **immediately** upon becoming aware of:
+
+- A **fire** on board
+- A **collision, grounding, or striking** incident
+- A **defect** in critical systems (hull, propulsion, steering, radar, compass, radio, anchors, cables) — if not already reported
+- A **discharge or threat of discharge** of pollutants
+- Another vessel in **apparent difficulty**
+- An **obstruction to navigation**
+- A **malfunctioning or missing aid to navigation**
+- The **presence of pollutants in water**
+- A **ship impeding other vessels**
+- **Ice or weather conditions** that threaten safe navigation
+
+Additionally, if there is a **significant change** in any previously reported information (e.g., route change, cargo change, weather shift), a **new report must be filed**.
+
+---
+
+#### **8. Time Zone and Time Format Requirements**
+
+- All times specified in reports must be given in the **time zone** of the VTS zone the vessel is entering or is within.
+- The **24-hour clock system** must be used.
+- A **specific requirement**: Reports under subsection 6(1.1) must specify the **time in Coordinated Universal Time (UTC)** using the 24-hour format.
+
+> This ensures consistency and avoids confusion across time zones and international operations.
+
+---
+
+#### **9. Jurisdiction and Reporting Destinations**
+
+- Reports must be sent to:
+  - **ECAREG** (Eastern Canada VTS Zone)
+  - **VTS OFFSHORE** (Western Canada VTS Zones)
+
+> This allows regional coordination and real-time monitoring by the appropriate Canadian Coast Guard VTS units.
+
+---
+
+#### **10. Repealed Provisions**
+Two provisions were **repealed** by **SOR/96-214, section 5 and 6**:
+- A provision requiring reporting on certain traffic patterns
+- A provision requiring reporting on other ships in difficulty
+
+> These have been removed to streamline reporting and avoid redundancy.
+
+---
+
+### **Summary of Key Objectives and Outcomes**
+
+| Objective | How Achieved |
+|--------|--------------|
+| **Improve maritime safety** | Through mandatory reporting, continuous radio watch,

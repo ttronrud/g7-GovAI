@@ -1,0 +1,158 @@
+Certainly. Below is a **detailed, comprehensive summary** of the regulation you provided — the *Regulations respecting royalties on petroleum produced from frontier lands*, as amended and revoked in 2008. This summary includes context, structure, key definitions, royalty calculation rules, deferral mechanisms, and important notes on repeals and applicability.
+
+---
+
+## 🔍 **Detailed Summary of the Regulations Respecting Royalties on Petroleum Produced from Frontier Lands**
+
+### 📌 **Background and Context**
+
+- The regulation was introduced under the **Canada Petroleum Resources Act (C.P.R.A.)**, specifically pursuant to **subsection 107(2)**, which mandates that proposed regulations be published in *Canada Gazette Part I* to allow public comment.
+- On **April 27, 1991**, a proposed version of the *Frontier Lands Petroleum Royalty Regulations* was published, giving stakeholders (including industry, Indigenous groups, and other interested parties) a reasonable opportunity to submit representations to the Ministers of Energy, Mines and Resources and Indian Affairs and Northern Development.
+- Based on that consultation, the Governor General in Council, acting on the recommendation of the Ministers, **revoked the previous 1987 regulations (P.C. 1988-1325)** and issued the new **Regulations respecting royalties on petroleum produced from frontier lands**.
+- These regulations were **repealed in 2008** by **SOR/2008-96, s. 2**, meaning they are no longer in force and are **no longer applicable** under current Canadian law.
+
+> ⚠️ **Important Note**: Although this regulation was historically significant, it has been **fully repealed** and superseded by more modern royalty frameworks. The content below is a **historical and interpretive summary** of what the regulation entailed when it was in effect.
+
+---
+
+## 📚 Key Structural Elements
+
+### 1. **Applicability and Scope**
+- Applies to **petroleum produced from "frontier lands"** — defined as lands where exploration and production are conducted under specific conditions involving high risk, uncertainty, and limited data.
+- Applies to **production licences** issued for frontier lands, with the royalty regime tied directly to the **project** (defined as a development plan approved under the *Canada Oil and Gas Operations Act*).
+- The regulation governs **royalty payments** from the **first production month** through to the **final production month**, with tiered royalty rates based on time and production phase.
+
+---
+
+## 📚 Key Definitions (Translated and Explained)
+
+| Term | Definition and Purpose |
+|------|------------------------|
+| **Project** | A defined development plan (or amended version) approved under the *Canada Oil and Gas Operations Act*. |
+| **Project Lands** | Frontier lands designated in a production licence for petroleum production. |
+| **Project Commencement Date** | The date when the development plan is formally approved. |
+| **Production Month** | A calendar month in which petroleum is produced on one or more days. |
+| **Month of Payout** | The first month when cumulative gross revenues equal or exceed cumulative costs — marking the point at which the investor recovers their initial capital investment. |
+| **Gross Revenues** | Total revenue from selling petroleum, as defined in Schedule II. |
+| **Net Revenues** | Gross revenues minus allowed capital and operating costs, cost adjustments, and operating cost adjustments. |
+| **Allowed Capital Costs** | Capital expenditures (e.g., drilling, equipment) that are approved under Schedule I and attributable to a specific interest holder. |
+| **Allowed Operating Costs** | Operating expenses (e.g., labor, maintenance) approved under Schedule I. |
+| **Capital Cost Adjustment** | A monthly adjustment: **5%** in months before project commencement, **1%** after. |
+| **Operating Cost Adjustment** | A fixed **10%** of allowed operating costs per month. |
+| **Return Allowance** | A return to the interest holder for capital invested, calculated under section 9. |
+| **Qualified Frontier Exploration Expenses** | Expenses incurred before August 31, 2008, for exploratory, delineation, or discovery wells on frontier lands. Must be ≤ $5 million per well, not non-qualifying, and reasonable in context. |
+| **Investment Royalty Credit** | **25%** of qualified frontier exploration expenses claimed as Canadian exploration expenses under the *Income Tax Act*. |
+| **Abandonment and Restoration** | Includes decommissioning wells, removing infrastructure, restoring environmental conditions to pre-production state, and monitoring. |
+| **Abandonment and Restoration Royalty Trust** | A trust established to fund restoration efforts; certified under section 7. |
+
+---
+
+## 💰 Royalty Structure: Tiered Rates Based on Time and Production Phase
+
+The royalty rate increases progressively over time, reflecting a risk-based approach to rewarding early investment and managing long-term returns.
+
+### 📅 Royalty Rates (Before Month of Payout)
+
+| Production Month Range | Royalty Rate |
+|------------------------|-------------|
+| Months 1–18 (before payout) | 1% of gross revenues |
+| Months 19–36 | 2% of gross revenues |
+| Months 37–54 | 3% of gross revenues |
+| Months 55–72 | 4% of gross revenues |
+| Months 73–(last month before payout) | 5% of gross revenues |
+
+> This structure incentivizes early production while protecting the Crown’s revenue stream during the initial high-risk phase.
+
+---
+
+### 📅 Royalty Rates (From Month of Payout Onward)
+
+In the month of payout and beyond, the royalty is set at the **greater of**:
+
+1. **30% of net revenues**, or  
+2. **5% of gross revenues**
+
+> This provides a **stronger incentive for profitability** after the investment is recovered, aligning royalty with actual economic performance.
+
+---
+
+## 🧮 Royalty Calculation Formula
+
+The monthly royalty payable is calculated as:
+
+> **Royalty Payable = (Prescribed Royalty) + (Deferred Royalty) – (Credit for Investment Royalty Credit Balance)**
+
+Where:
+- **Prescribed Royalty** = As determined under subsection (1) (based on time and revenue).
+- **Deferred Royalty** = Amount deferred under section 6.1(2).
+- **Investment Royalty Credit Balance** = The amount by which total investment credits exceed deductions under subsection 3(3).
+
+> The royalty is then **reduced by the lesser of**:
+> - The amount calculated under subsection (2) (i.e., 30% of net revenues), or  
+> - The investment royalty credit balance.
+
+---
+
+## 🚫 Exemptions from Royalty Payment
+
+Royalty is **not payable** in the following cases:
+
+1. Petroleum **consumed on project lands** during drilling, testing, or in production infrastructure (for project operations).
+2. Petroleum **injected into formations** for conservation purposes.
+3. Petroleum **consumed in facility operations** if:
+   - It is used for processing or transporting petroleum from the project, and
+   - The cost is not included in a gas processing or transportation allowance.
+4. Petroleum **flared** (burned off).
+
+> ⚠️ Exception: Royalty **is payable** for **wasted petroleum** only if it falls within the definition under subsection 18(2) of the *Canada Oil and Gas Operations Act*.
+
+---
+
+## 💳 Payment Schedule
+
+Royalty is paid in **two installments**:
+
+1. **First installment** – Due on the **last day of the following month**  
+   = Equal to the royalty payable for the **previous month**.
+
+2. **Second installment** – Due on the **last day of the second following month**  
+   = Equal to the **difference** between:
+   - The royalty payable for the current month, and  
+   - The first installment.
+
+> If the second installment would be **negative** (i.e., the royalty for the month is less than the first installment), then:
+> - **No second installment is due**, and  
+> - The **positive amount is added to the first installment** of the following month.
+
+---
+
+## 💼 Royalty Deferral Mechanism
+
+An interest holder may **defer up to 30% of a royalty payment** for a production month **if** they make a contribution to an **Abandonment and Restoration Royalty Trust**.
+
+- The deferral is limited to **30% of a contribution** made into the trust.
+- The amount deferred **cannot reduce the royalty payable for that month below** the amount determined under paragraph 3(1)(b)(ii) (i.e., the minimum royalty threshold).
+- Contributions can be applied:
+  - To defer royalty in the **month of contribution**, or
+  - To defer royalty in a **future month**.
+
+> This provides financial flexibility for producers, especially during early production, allowing reinvestment in environmental restoration.
+
+---
+
+## 📐 Compliance and Tax Principles
+
+- The **Income Tax Act** applies with modifications to determine whether transactions are conducted at **arm’s length** (i.e., fair market value).
+- **Partnerships and trusts** are treated as **corporations** for royalty purposes.
+- If a trust is deemed related to a person, the **trustee is considered related** to that person.
+- All percentages are calculated to **eight decimal places**, then **rounded to seven**.
+
+---
+
+## 📅 Key Dates and Milestones
+
+| Event | Date |
+|------|------|
+| Proposal Published | April 27, 1991 |
+| New Regulations Issued | After public consultation (exact date not specified) |
+|

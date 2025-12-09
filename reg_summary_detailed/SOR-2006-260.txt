@@ -1,0 +1,166 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the *Pest Control Products Incident Reporting Regulations*, S.C. 2002, c. 28, as amended and in force (with relevant repeals and updates noted).
+
+---
+
+## 📚 **Detailed Summary of the Pest Control Products Incident Reporting Regulations**
+
+### **1. Legal Authority and Purpose**
+- These regulations were made by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Health**, under **subsection 67(1) of the Pest Control Products Act (PCA)**.
+- **Purpose**: To establish a formal, mandatory reporting system for incidents involving pest control products (PCPs) that pose potential health or environmental risks.
+- The goal is to ensure **timely, accurate, and comprehensive reporting** of adverse events to the Minister, enabling risk assessment, regulatory oversight, and public protection.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Pest Control Products Act*. |
+| **Animal** | Any invertebrate or vertebrate, excluding humans. |
+| **Domestic animal** | An animal under human control and dependent on humans for survival (e.g., dogs, cats, livestock). |
+| **Incident** | An event involving exposure to a pest control product with health or environmental effects. **Exclusions**: <br> - Acts or activities that constitute offences under the *Criminal Code*; <br> - Exposure of a targeted subject (e.g., pests being treated). |
+| **Incident Report** | A report containing specific information required by sections 3 and 4, submitted by a registrant or applicant to the Minister. |
+| **Individual of a species at risk** | *Repealed* by SOR/2019-173, s. 2. |
+| **Scientific study** | A study (human epidemiological or scientific investigation) sponsored by the registrant/applicant that identifies: <br> - New health/environmental hazards; <br> - Greater risks than those at registration; <br> - Previously undetected components or derivatives of the product. |
+
+> ✅ **Note**: Information in an incident report does **not need to be proven or substantiated** by the registrant or applicant — it may be included even if unverified.
+
+---
+
+### **3. Classification of Incidents**
+
+Incidents are categorized based on **subject** (human, animal, plant) and **effect** of exposure:
+
+| Category | Description |
+|--------|-------------|
+| **(a)** Human death | Death of a human due to exposure. |
+| **(b)** Major human effect | Human symptoms indicating life-threatening conditions, adverse reproductive/developmental effects, or chronic disability. |
+| **(c)** Other human effect | Any human health effect not falling under (a) or (b). |
+| **(d)** Animal death | Death of any animal; if in the U.S., specifically a **domestic animal**. |
+| **(e)** Animal effect (non-death) | Any adverse effect on animals other than death. |
+| **(f)** Effect on plants | Harm to terrestrial or aquatic plants. |
+| **(g)** Package failure | A failure in packaging that could lead to human exposure or injury. |
+| **(h)** Scientific study findings** | Study (ongoing, discontinued, or concluded) sponsored by the registrant/applicant showing: <br> - New hazards; <br> - Greater risk than at registration; <br> - Undetected components or derivatives. |
+
+> 🔍 These categories determine **reporting obligations**, timeframes, and reporting thresholds.
+
+---
+
+### **4. Prescribed Information for Incident Reports**
+
+All incident reports must include the following **core information** (as required by sections 7, 8, and 16 of the PCA):
+
+#### **Mandatory Information (Section 3(1))**
+- Contact information of the registrant or applicant  
+- Date of incident occurrence  
+- Date registrant/applicant received the information  
+- Location: city, province/state, country  
+- Identification of the pest control product  
+- Application details: site, method, date of application  
+- Incident category (as per section 2)  
+- Exposure circumstances:  
+  - Site, date, route of exposure  
+  - Weather conditions  
+  - Duration  
+  - Subject details (for humans): age, gender, pregnancy status *(restricted)*  
+- Incident and effect details: symptoms, duration, outcome  
+- Scientific test information (if applicable):  
+  - Sample details  
+  - Method of analysis  
+  - Results  
+
+#### **Scientific Study Information (Section 3(2))**
+- Title and date of the study  
+- Name of author  
+- Product identification  
+- Incident category  
+- Full scientific study and test data  
+- Type of study (e.g., epidemiological, toxicological)  
+- Reason for submission (from subparagraphs 2(f)(i) to (iii))  
+- Findings regarding new hazards, increased risk, or undetected components  
+
+---
+
+### **5. Deemed Receipt of Information**
+
+- Information is deemed to have been **received by the registrant/applicant** on a certain date if:
+  - Received by an **employee or agent** of the registrant/applicant; **or**
+  - Received by an **employee or agent of a related corporation** (as defined under *Income Tax Act*, subsection 251(2)) — whether located in Canada or abroad.
+
+> ⚠️ **Special Rule for Scientific Studies**:  
+> If the study is received by a related corporation (paragraph 1(b)), the information is **deemed received by the registrant/applicant one year after receipt** by that person.
+
+> 📌 This provides a buffer period for studies that take time to reach the registrant.
+
+---
+
+### **6. Language Requirements**
+
+- All incident reports must be submitted in **English or French** (official languages of Canada).
+- If a scientific study is published in a non-English/French language:
+  - If **translation cannot be completed within the required timeframe**, the registrant must provide a **summary in English or French** with the incident report.
+  - The **full translated study must be provided as soon as feasible** after the incident report is submitted.
+
+---
+
+### **7. Reporting Obligations by Category**
+
+Every registrant or applicant must report incidents within specified timeframes:
+
+| Incident Category | Reporting Deadline |
+|------------------|--------------------|
+| **Human death** or **major human effect** | **Within 15 days** of receiving information |
+| **Incident identified in a scientific study** | **Within 30 days** of receiving information |
+| **Animal death (in Canada)** | **Within 90 days** of receiving information |
+| **Incidents in the U.S. with domestic animal death** | **Within 90 days** (only if applicable) |
+| **Other incidents** (e.g., non-death effects on humans, animals, plants, package failure) | **Accumulated and reported annually** per the reporting table below |
+
+> 📅 **Annual Reporting Requirement (Accumulated Incidents)**  
+> Registrants must compile information for the following categories over a reporting period and submit reports by the deadline in column 2:
+
+| Category | Reporting Deadline |
+|--------|--------------------|
+| Domestic animal death in U.S. | As per annual reporting cycle |
+| Human effect (other than death or major effect) | Annual reporting |
+| Animal effect (non-death) | Annual reporting |
+| Effect on terrestrial or aquatic plants | Annual reporting |
+| Package failure (human exposure/injury) | Annual reporting |
+
+> 🔁 **Note**: These are **cumulative** reports for each reporting period, not immediate individual reports.
+
+---
+
+### **8. Special Reporting Obligations (Transition and Legacy)**
+
+#### **For Registrants Before the Regulations Came Into Force**
+- A registrant who, in the **year before the regulations came into force**, had accumulated information under the previous rules **must submit**:
+  - Incident reports for the **portion of the reporting period immediately before** the new regulations took effect.
+  - Must be submitted by **February 28, 2022**.
+
+#### **Upon Cessation of Registration**
+- If a registrant **ceases to be the registrant** of a product:
+  - Must provide all incident reports and annual summaries **before ceasing** or **within 15 days after cessation**.
+  - The **reporting period is deemed to end** on the day of cessation.
+
+---
+
+### **9. Annual Summary Requirement**
+
+#### **When Required**
+A registrant must provide an **annual summary** for an active ingredient if:
+- The active ingredient is part of a PCP involved in an incident during the year; **and**
+- It is implicated in **at least 10 incidents** of the same type of exposure (human, animal, or plant) as defined in section 2.
+
+> 🔍 "Same type of subject" means incidents involving the same exposure category (e.g., human, animal, plant).
+
+#### **What the Summary Must Include**
+- For each incident: the **category of incident** (as per section 2)
+- A **concise critical analysis** of all data related to the active ingredient, including:
+  - Comparison with past years
+  - Commentary on changes in the **risk profile** of the product(s) containing that ingredient
+
+#### **Deadline**
+- Must be submitted by **March 31 of the following calendar year**.
+
+> ⚠️ **Special Provision (Transition)**  
+> Registrants who received information about incidents in the year **before the regulations came into force** must submit an annual summary by

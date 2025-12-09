@@ -1,0 +1,183 @@
+Certainly. Below is a **detailed, comprehensive summary** of the *Assessment of Financial Institutions Regulations, 2017*, as issued under the *Office of the Superintendent of Financial Institutions Act*.
+
+---
+
+## 📝 **Detailed Summary of the Assessment of Financial Institutions Regulations, 2017**
+
+### 🔹 **1. Purpose and Legal Authority**
+These regulations establish the **framework for assessing financial institutions** under the *Office of the Superintendent of Financial Institutions Act (OSFI Act)*. They are made by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, pursuant to:
+- **Section 23(3)(a)** and  
+- **Section 38b** of the OSFI Act.
+
+The primary objective is to ensure that financial institutions contribute fairly and proportionally to the administrative costs of regulating them, based on their size, risk profile, and type.
+
+---
+
+### 🔹 **2. Key Definitions**
+The regulations define key terms used throughout the assessment process:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Office of the Superintendent of Financial Institutions Act*. |
+| **Approved Mortgage Insurer** | A company that insures residential mortgages, either formally approved under the *Protection of Residential Mortgage or Hypothecary Insurance Act* or treated as such under subsections 6(4) or 7(1) of that Act. |
+| **Authorized Foreign Bank** | Same meaning as in the *Bank Act* — a foreign bank authorized to operate in Canada. |
+| **Capital** | The amount of risk-weighted assets or capital requirements determined for a financial institution in accordance with specific statutes (e.g., Bank Act, Insurance Companies Act). |
+| **Cooperative Credit Association (CCA)** | A cooperative credit society (excluding retail associations), including central co-ops subject to an order under section 473(1) of the *Cooperative Credit Associations Act*. |
+| **Foreign Fraternal Benefit Society** | As defined in section 571 of the *Insurance Companies Act*. |
+| **Foreign Life Company** | As defined in section 571 of the *Insurance Companies Act*. |
+| **Life Company** | As defined in subsection 2(1) of the *Insurance Companies Act*. |
+| **Minimum Assessment** | The base assessment amount per institution, adjusted annually for inflation. |
+| **Mortgage Insurance Company** | A company whose only activities are insuring mortgage risks. |
+| **Property and Casualty (P&C) Insurer** | Any insurer (provincial, foreign, or company) under the *Insurance Companies Act*, excluding life companies, foreign life companies, fraternal societies, or mortgage insurers — or Green Shield Canada. |
+| **Retail Association** | As defined in section 2 of the *Cooperative Credit Associations Act*. |
+| **Society** | As defined in subsection 2(1) of the *Insurance Companies Act*. |
+| **Trust and Loan Company (TLC)** | A company operating under the *Trust and Loan Companies Act*. |
+
+---
+
+## 🔹 **3. Base Assessment Amount: How It Is Calculated**
+
+The **base assessment** is the core of the financial institution’s annual assessment and is calculated differently depending on the institution type.
+
+---
+
+### ✅ **3.1 Minimum Assessment (Starting Point)**
+
+Each institution starts with a **minimum assessment** based on its type:
+
+| Institution Type | Minimum Assessment |
+|------------------|--------------------|
+| Bank | $30,000 |
+| Authorized Foreign Bank (not under restrictions) | $30,000 |
+| Authorized Foreign Bank (subject to restrictions under s. 524(2) of Bank Act) | $15,000 |
+| Trust and Loan Company (restricted to fiduciary activities) | $15,000 |
+| Trust and Loan Company (not restricted) | $30,000 |
+| Retail Association | $30,000 |
+| Cooperative Credit Association | $15,000 |
+| Company, Provincial, or Foreign Company under Insurance Companies Act | $15,000 |
+| Society or Foreign Fraternal Benefit Society | $2,000 |
+
+> ⚠️ **Note**: These minimums are adjusted annually for inflation (see below).
+
+---
+
+### ✅ **3.2 Inflation Adjustment (Subsection 2(2))**
+
+The minimum assessment is **adjusted annually for inflation** using the **Consumer Price Index (CPI)**.
+
+#### Formula:
+$$
+\text{Adjusted Minimum Assessment} = \text{Previous Year's Minimum} \times \left( \frac{\text{CPI}_{\text{current year}}}{\text{CPI}_{\text{previous year}}} \right)
+$$
+
+Where:
+- **CPI** = Average of the 12-month CPI values for Canada (as published by Statistics Canada).
+- The result is **rounded to the nearest multiple of $10**.
+
+#### Exception:
+- If the CPI ratio is **less than 1**, **no adjustment** is made — the prior year’s minimum applies.
+- This rule **does not apply** to the fiscal year beginning **April 1, 2016** (a transitional provision).
+
+> 💡 This ensures that assessments keep pace with inflation without increasing costs disproportionately in periods of deflation.
+
+---
+
+### ✅ **3.3 Capital Base Determination**
+
+The **capital** of an institution is determined based on its financial reporting and regulatory framework:
+
+| Institution Type | Capital Definition |
+|------------------|--------------------|
+| **Bank, Trust & Loan, Retail Association** | Total risk-weighted assets from the financial return (Q4 of the fiscal year) under relevant Acts:  
+- Bank Act (s. 628)  
+- Trust & Loan Act (s. 495)  
+- Cooperative Act (s. 431) |
+| **Authorized Foreign Bank** | Minimum capital equivalency deposit (from annual return under s. 601 of the Bank Act) |
+| **Cooperative Credit Association** | 1/20th of total borrowings (from Q4 financial return under s. 431) |
+| **Life Company, Society, Foreign Life, Foreign Fraternal Benefit Society** | Minimum required capital (from annual return under s. 665(1) of Insurance Companies Act) |
+| **Foreign Company under Insurance Act** | Minimum required margin of assets in Canada (from s. 665(2)) |
+
+> 📌 The capital base reflects the institution’s risk exposure and is used to determine the **proportionate share of regulatory costs**.
+
+---
+
+### ✅ **3.4 Base Assessment Formula by Institution Type**
+
+#### A. **Banks, Authorized Foreign Banks, Trust & Loan Companies, Retail Associations**
+
+The base assessment is:
+- **If minimum assessment > formula result**, then use the **minimum assessment**.
+- Otherwise, use:
+  $$
+  \text{Base Assessment} = \text{Minimum Assessment} + \left[ \text{Formula Result} - \text{Minimum Assessment} \right]
+  $$
+
+Where:
+- **A** = Capital of the institution
+- **B** = Sum of capital for all similar institutions (excluding those in subsection 2(2))
+- **C** = Excess of administrative expenses over revenues (for banks, TLCs, retail associations)
+
+> This formula ensures that institutions with higher capital or greater administrative costs pay more.
+
+---
+
+#### B. **Cooperative Credit Associations**
+
+Base assessment:
+- If minimum assessment > formula result → use minimum
+- Else → use:
+  $$
+  \text{Base Assessment} = \text{Minimum Assessment} + \left[ \text{Formula Result} - \text{Minimum Assessment} \right]
+  $$
+
+Where:
+- **A** = Capital
+- **B** = Sum of capital for all CCAs (excluding those in subsection 2(2))
+- **C** = Excess of administrative expenses over revenues (for CCA administration)
+
+---
+
+#### C. **Life Companies, Societies, Foreign Life Companies, Foreign Fraternal Benefit Societies**
+
+Base assessment:
+- If minimum assessment > formula result → use minimum
+- Else → use:
+  $$
+  \text{Base Assessment} = \text{Minimum Assessment} + \left[ \text{Formula Result} - \text{Minimum Assessment} \right]
+  $$
+
+Where:
+- **A** = Capital
+- **B** = Sum of capital for all such institutions (excluding those in subsection 2(2))
+- **C** = Excess of administrative expenses over revenues (for Insurance Companies Act administration)
+
+---
+
+#### D. **Property and Casualty (P&C) Insurers**
+
+Base assessment:
+- If minimum assessment > formula result → use minimum
+- Else → use:
+  $$
+  \text{Base Assessment} = \text{Minimum Assessment} + \left[ \text{Formula Result} - \text{Minimum Assessment} \right]
+  $$
+
+Where:
+- **A** = Capital
+- **B** = Sum of capital for all P&C insurers (excluding those in subsection 2(2))
+- **C** = Excess of administrative expenses over revenues (for Insurance Companies Act and Green Shield Canada Act)
+
+---
+
+#### E. **Mortgage Insurance Companies**
+
+Base assessment:
+- If minimum assessment > formula result → use minimum
+- Else → use:
+  $$
+  \text{Base Assessment} = \text{Minimum Assessment} + \left[ \text{Formula Result} - \text{Minimum Assessment} \right]
+  $$
+
+Where:
+- **A** = Capital
+- **B** = Sum of

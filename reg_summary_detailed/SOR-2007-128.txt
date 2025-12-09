@@ -1,0 +1,152 @@
+### **Detailed Summary of the *Cargo, Fumigation and Tackle Regulations* (S.C. 2005, c. 29, s. 16(1))**
+
+These regulations are made under the **Canada Shipping Act, 2001** (the "Act") by Her Excellency the Governor General in Council, on the recommendation of the Minister of Transport, Infrastructure and Communities. They provide comprehensive rules governing the **safe loading, carrying, stowing, unloading, and handling of cargo**, particularly **bulk cargo**, **dangerous goods**, and **packaged goods**, on **Canadian vessels** and **foreign vessels in Canadian waters**.
+
+The regulations are structured into several key divisions, each addressing specific types of cargo and operational requirements. Below is a detailed and organized summary of the key provisions, definitions, and application criteria.
+
+---
+
+## **I. Scope and Application**
+
+### **1. Applicability**
+- **Applies to:**
+  - All **Canadian vessels** **everywhere**.
+  - **Foreign vessels** in **Canadian waters**.
+- **Exemptions:**
+  - **Pleasure craft** (non-commercial vessels).
+  - **Fisheries vessels** used for catching, harvesting, or transporting fish or marine resources **unless**:
+    - The vessel is **24 meters or longer**, and
+    - Its sole activity is related to the catch or harvest of other vessels or aquaculture facilities.
+  - Vessels engaged in **oil or gas drilling, production, conservation, or processing** — these are excluded from the scope.
+
+> ⚠️ *Note: The regulations do not apply to vessels involved in oil/gas operations or pleasure craft, emphasizing focus on commercial cargo transport.*
+
+---
+
+## **II. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Canada Shipping Act, 2001 |
+| **Cargo Transport Unit (CTU)** | Includes road freight vehicles, railway wagons, freight containers, road/rail tank vehicles, and portable tanks. |
+| **IMO** | International Maritime Organization |
+| **Minister** | Minister of Transport |
+| **Short-run ferry** | Vessel operating over a water route ≤5 km between two points, carrying only unberthed passengers and CTUs on open decks. |
+| **SOLAS** | International Convention for the Safety of Life at Sea, 1974 (including 1988 Protocol) |
+| **BLU Code** | Code of Practice for the Safe Loading and Unloading of Bulk Carriers (IMO) |
+| **Bulk cargo** | Uniformly composed cargo loaded directly into cargo space without containment (e.g., coal, grain, ore). |
+| **Dangerous goods (except Division 2)** | Substances/materials covered by the **IMDG Code**. |
+| **IMDG Code** | International Maritime Dangerous Goods Code (IMO) |
+| **Packaged goods** | Dangerous goods in containment as specified in IMDG Code. |
+| **Solid bulk cargo** | Bulk cargo that is not liquid or gas (e.g., iron ore, cement). |
+| **Inland voyage** / **Inland waters** | As defined in *Vessel Safety Certificates Regulations*. |
+| **Near coastal voyage, Class 2** / **Sheltered waters voyage** | As defined in *Vessel Safety Certificates Regulations*. |
+| **Length** | 96% of total length on a waterline at 85% of least moulded depth, or from stem to rudder stock (whichever is greater). |
+| **Single-side skin construction** | A cargo hold bounded by side shell only; or a double-side skin with width <760 mm (pre-2000) or <1,000 mm (post-2000, pre-2006). |
+| **Double-side skin** | Each side of the vessel is constructed with side shell and longitudinal bulkhead connecting deck and double bottom. |
+| **IMSBC Code** | International Maritime Solid Bulk Cargoes Code (IMO) — governs safe handling of solid bulk cargoes (e.g., iron ore, coal). |
+
+> ✅ **Note:** For documents incorporated by reference (except CAN/CSA S826.1-01), "should" is interpreted as "shall" — meaning **mandatory compliance**.
+
+> ✅ **"Administration"** in referenced documents:
+> - For **Canadian vessels** → Minister of Transport
+> - For **foreign vessels** → Government of the flag state
+
+> ✅ All references to documents are to the **latest amended version** unless otherwise specified.
+
+---
+
+## **III. General Requirements for Cargo Loading and Carrying (Division 1)**
+
+### **1. Mass Marking Requirement**
+- **No package or object** with a **gross mass of 1 tonne or more** may be loaded on a vessel in Canadian waters **unless**:
+  - Its gross mass is **clearly and durably marked** on the outside.
+- If exact mass is impractical, an **approximate mass** may be marked with the word **“approximate”** or **“approximatif”**.
+- Applies to:
+  - **Authorized representatives**
+  - **Vessel masters**
+  - **Agents responsible for loading**
+
+> 📌 *Purpose: Prevents misloading due to unmarked heavy cargo, reducing risk of structural failure or accidents.*
+
+---
+
+## **IV. SOLAS Compliance for General Cargo (Division 2)**
+
+This section applies to **all cargo except bulk or dangerous goods**.
+
+### **Key Requirements:**
+| Regulation | Requirement |
+|---------|------------|
+| **Regulation 2 (Chapter VI, SOLAS)** | Every shipper must comply with SOLAS Chapter VI, Regulation 2 — safe loading and stowage. |
+| **Regulations 5.2 & 5.5 (Chapter VI, SOLAS)** | Every person packing cargo must comply with these rules — including proper labeling, packaging, and securing. |
+| **Regulation 5.1, 5.3, 5.4 (Chapter VI, SOLAS)** | Master must ensure these are met — covering cargo stowage, securing, and stability. |
+| **Regulation 5.6 (Chapter VI, SOLAS)** | Master must keep a **Cargo Securing Manual** on board unless: |
+> - Vessel is a Canadian vessel on a **sheltered waters voyage** or **near coastal voyage, Class 2**; or  
+> - Vessel is engaged on an **inland voyage**.  
+
+> 🔍 **Approval of Cargo Securing Manual:**  
+> - The Minister may approve a manual if it meets or exceeds the **standard in the Annex to Appendix 2 of the CSS Code** (Code of Safe Practice for Cargo Stowage and Securing).
+
+---
+
+## **V. Solid Bulk Cargo (Division 3)**
+
+This division governs the **safe handling of solid bulk cargo** (e.g., iron ore, coal, cement), excluding grain.
+
+### **Applicable Rules:**
+- Master must ensure compliance with:
+  1. **Regulation 3.1 of Chapter VI of SOLAS**
+  2. **Part B of Chapter VI of SOLAS** (excluding terminal representative requirements)
+  3. **IMSBC Code** (subject to Section 117)
+
+> 🔍 **Part B of SOLAS** covers terminal operations, including:
+> - Pre-loading inspections
+> - Stowage plans
+> - Stability and structural loading assessments
+
+### **Terminal Representative Obligations**
+- Must ensure compliance with **Part B of SOLAS** requirements applicable to terminal representatives.
+
+---
+
+## **VI. Special Loading Requirements (Section 7.2 of Chapter VI, SOLAS)**
+
+- **Does not apply before January 1, 2011** for **non-Safety Convention vessels** if:
+  - The master has **comprehensive information** on:
+    - Effects of solid bulk cargo on vessel stability
+    - Distribution of cargo to avoid over-stressing the vessel's structure under standard loading conditions
+
+> ✅ This provides a **transition period** for older vessels to meet safety standards.
+
+---
+
+## **VII. Stowage Plan Requirements (Regulation 7.3, Chapter VI, SOLAS)**
+
+- The **loading/unloading plan** must include information from **Appendix 2 of the BLU Code**.
+- For vessels where **subsection (3)** applies (e.g., certain structural or operational conditions), the plan **does not need** to include calculated values of:
+  - Maximum permissible bending moments
+  - Shear forces
+
+> ✅ Reduces burden on smaller or less complex vessels while maintaining safety.
+
+> 📂 **Master must keep a copy of the plan on board**.
+
+> 🔍 **"Appropriate authority of the port State"** is interpreted as **"terminal operator"** when loading/unloading in Canadian waters.
+
+---
+
+## **VIII. Safety Convention Vessels (150 m or more)**
+
+### **1. Single-Side Skin Construction & High-Density Cargo (≥1,780 kg/m³)**
+
+> Applies to vessels:
+> - ≥150 m in length
+> - Built before **July 1, 1999**
+> - Carrying solid bulk cargo with density ≥1,780 kg/m³
+
+#### **Compliance Timeline:**
+- **Vessels constructed 17+ years before regulation came into force:**
+  - Must comply **by the date the regulation comes into force**.
+- **Vessels constructed less than 17 years before the date:**
+  - Must comply by the **earliest of**

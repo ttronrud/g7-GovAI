@@ -1,0 +1,191 @@
+### **Detailed Summary of the Unemployment Insurance (Collection of Premiums) Regulations**
+
+---
+
+#### **1. Regulation Citation and Key Definitions**
+
+- **Regulation Title**: *Unemployment Insurance (Collection of Premiums) Regulations*  
+- **Citation**: These Regulations may be cited as the *Unemployment Insurance (Collection of Premiums) Regulations*.
+
+##### **Key Definitions**:
+- **Act**: Refers to the *Unemployment Insurance Act* (Loi).
+- **Minister**: The Minister of National Revenue (ministre).
+- **Pay Period**: The period during which an insured person receives or enjoys remuneration (e.g., weekly, biweekly, monthly).
+- **Pay Week**: A period of seven consecutive days ending on an employer’s payroll ending date. If multiple pay weeks are contiguous, the last one determines the pay week.
+
+> These definitions form the foundation for how earnings and premiums are calculated and collected.
+
+---
+
+#### **2. Scope of Coverage: Who is Included?**
+
+- **Employer**: Any person who pays or has paid remuneration or earnings to an insured person for services performed in *insurable employment*.
+- **Insurable Employment**: Work that is eligible for unemployment insurance coverage.
+
+> This ensures that only those engaged in qualifying employment are subject to premium obligations.
+
+---
+
+#### **3. What Constitutes "Earnings from Insurable Employment"?**
+
+Earnings include:
+- All remuneration (cash or non-cash) received for insurable employment.
+- Includes allowances, bonuses, overtime, shift premiums, cost-of-living adjustments, and incentive payments.
+- **Exclusions**:
+  - Value of board, lodging, or other benefits **if no cash remuneration is paid** in that pay period.
+  - For clergy: Value of lodging provided by the diocese, parish, or congregation.
+  - Any income excluded under **paragraphs 6(1)(a) or (b)** or **subsections 6(6) or (16)** of the *Income Tax Act*.
+
+> This clarifies what is considered taxable and insurable income.
+
+---
+
+#### **4. Allocation of Earnings to Pay Periods**
+
+Earnings are allocated based on when they are paid or when they are earned:
+
+| Type of Earnings | Allocation Rule |
+|------------------|-----------------|
+| Regular remuneration | Allocated to the pay period in which it is paid. |
+| Overtime, bonuses, sick leave, shift premiums, incentives, cost-of-living allowances, separation payments, wages in lieu of notice | Allocated to the pay period in which they are paid. |
+| Remuneration not paid in a pay period | Allocated to the pay period in which it is actually paid. |
+
+> **Exception for Unpaid Leave, Abandonment, Dismissal, or Layoff**:
+- If an employee is on unpaid leave, has abandoned employment, or has been dismissed/laid off, remuneration (e.g., bonuses, allowances) is allocated to the **last regular pay period** before the event.
+
+> This ensures continuity in premium calculation even during transitions out of employment.
+
+---
+
+#### **5. Exclusion of Earnings from "Excepted Employment"**
+
+- **No premium is payable** on earnings from **excepted employment** (e.g., work not covered under the insurance scheme).
+- This protects individuals whose work is outside the scope of unemployment insurance.
+
+---
+
+#### **6. Determining Premium Amounts**
+
+Premiums are calculated based on **insurable earnings** using a tiered structure with **incremental rates**:
+
+##### **Step-by-Step Premium Calculation**:
+
+1. **Earnings Range Structure**:
+   - The insurable earnings are divided into ranges up to **$3,900.00**.
+   - The premium rate starts at **$0.50** and increases in **recurring cycles** of **$0.34 increments**, with **$0.33** used in specific cycles (e.g., every 12th or 24th range).
+
+   - **First 12 ranges** (up to $3,880.50):  
+     Starts at $0.50, increases by $0.34, with **$0.33** used in some cycles.
+
+   - **Next 56 ranges** (up to $3,899.49):  
+     All increments are $0.34, with **$0.33** used in specific intervals.
+
+   - **Final two ranges** ($3,899.50 to $3,900):  
+     Premium rate is **$0.50 and $0.01** (i.e., $0.51 total).
+
+2. **Premium Formula**:
+   > **Premium = Insurable Earnings × Premium Rate**
+
+3. **Rounding Rules**:
+   - If the product results in a **fraction of a cent**, it is **rounded to the nearest cent**.
+   - If equidistant between two cents, **round up** to the higher cent.
+
+> This ensures precise and consistent premium calculations.
+
+---
+
+#### **7. Cap on Employee Premiums**
+
+- An employee’s premium **shall not exceed** the premium payable on **maximum insurable earnings** for a pay period.
+- Maximum insurable earnings are determined under **sections 5, 8, and 9** of the Act.
+
+> This prevents overcharging and ensures fairness.
+
+---
+
+#### **8. Employer Remittance Obligations**
+
+Every employer must remit **employees’ premiums** and **employer’s premiums** to the **Receiver General** within strict deadlines.
+
+##### **Standard Deadline**:
+- **On or before the 15th day of the month** following the month in which remuneration was paid.
+
+##### **Special Deadlines for Employers with High Average Monthly Withholding**:
+
+| Employer Category | Deadline Rules |
+|------------------|----------------|
+| **Average monthly withholding ≥ $15,000 and < $50,000** | - Earnings paid **before the 16th day** → due by **25th**<br>- Earnings paid **after the 15th day** → due by **10th of next month** |
+| **Average monthly withholding ≥ $50,000** | - Must remit by the **third day after the end of the following periods**:<br>  1. First 7 days of the month<br>  2. 8th to 14th day<br>  3. 15th to 21st day<br>  4. 22nd to end of month<br> - Deadline is **not on a Saturday or holiday** |
+
+> These staggered deadlines help manage large volumes of remittances and ensure timely collection.
+
+---
+
+#### **9. Election to Change Remittance Schedule**
+
+An employer may **elect to follow the standard 15th-day rule** instead of the accelerated schedule **if**:
+- The **average monthly withholding** for the **prior calendar year** is **less than $15,000**, **or**
+- The average is **≥ $15,000 but < $50,000**, and the employer **advises the Minister** of the election.
+
+> This provides flexibility for smaller or less active employers.
+
+---
+
+#### **10. Determining Average Monthly Withholding**
+
+- The **average monthly withholding amount** is calculated under **subsections 108(1.2) and (1.3)** of the *Income Tax Regulations*.
+- It reflects the total premiums paid over the year, divided by the number of months.
+
+> This metric determines eligibility for special remittance schedules.
+
+---
+
+#### **11. Final Remittance Upon Business Closure**
+
+- Any employer who **ceases operations** must remit all outstanding employee and employer premiums **within seven days** of ceasing business.
+- This ensures no outstanding liabilities remain.
+
+---
+
+#### **12. Required Documentation**
+
+- Every remittance must be accompanied by an **authorized information return**.
+- These returns provide detailed records of earnings, premiums, and payments.
+
+> Ensures transparency and auditability.
+
+---
+
+#### **13. Prescribed Persons (Special Remittance Obligations)**
+
+Certain entities are designated as **"prescribed persons"** under subsection 53(1) of the Act and must remit premiums:
+
+- **Employers** required to remit under subsection 53(1) of the Act.
+- **Persons or partnerships** acting on behalf of multiple employers, **if**:
+  - Their **average monthly remittance** (across all employers) for the **second year before the current year** is **≥ $50,000**.
+  - They remit:
+    - Premiums under the Unemployment Insurance Act,
+    - Premiums under the Income Tax Act (subsection 153(1)), and
+    - Canada Pension Plan (subsection 21(1)) contributions.
+
+> This allows for consolidated reporting and compliance for multi-employer entities.
+
+---
+
+#### **14. Minimum and Maximum Insurable Earnings**
+
+##### **Maximum Insurable Earnings** (by pay period):
+
+| Pay Period Type | Maximum Insurable Earnings |
+|----------------|----------------------------|
+| Pay Week | Maximum weekly insurable earnings |
+| Multiple of pay week | Weekly max × number of weeks |
+| Semi-monthly | Annual max ÷ 24 |
+| Monthly | Annual max ÷ 12 |
+| Irregular 52-week contract | Annual max ÷ number of regular pay periods |
+
+> Ensures fair caps based on frequency of payment.
+
+##### **Minimum Insurable Earnings** (to ensure basic coverage):
+
+| Pay Period

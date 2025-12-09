@@ -1,0 +1,158 @@
+### **Detailed Summary of the Regulations Limiting Carbon Dioxide Emissions from Natural Gas-Fired Generation of Electricity**
+
+These regulations, enacted under **section 330(3.2)d** and **subsection 93(1)** of the *Canadian Environmental Protection Act, 1999 (CEPA 1999)*, establish a binding framework to **limit carbon dioxide (CO₂) emissions** from **natural gas-fired electricity generation** in Canada. The regulations were introduced in response to growing environmental concerns about greenhouse gas emissions and were developed after a public consultation and review by the National Advisory Committee.
+
+---
+
+## **1. Legal Basis and Adoption**
+
+- The regulations were proposed on **February 17, 2018**, in *Canada Gazette, Part I*, and made final by **Governor in Council** on the recommendation of the **Minister of the Environment** and the **Minister of Health**.
+- The process followed CEPA 1999 provisions:
+  - **Subsection 332(1)a**: Allows the Minister to publish proposed regulations.
+  - **Subsection 93(3)**: Provides for public and advisory input from the **National Advisory Committee**.
+  - **Subsection 93(4)**: Confirms that the proposed rules do not conflict with other environmental or health legislation and provide sufficient protection to human health and the environment.
+
+Thus, the regulations are legally valid and enforceable under CEPA 1999.
+
+---
+
+## **2. Scope of the Regulations**
+
+The regulations apply to **electricity generation units** that use **natural gas combustion**, either alone or in combination with other fuels (excluding coal), with specific thresholds and conditions.
+
+### **Applicable Units**
+
+#### **A. Boiler Units (Thermal Power Plants)**
+- Must have a **capacity of 25 MW or more**.
+- Must begin generating electricity **on or after January 1, 2019**.
+- Must meet **all three conditions** during a calendar year:
+  1. More than **30% of heat input** comes from natural gas.
+  2. **Heat-to-electricity ratio ≤ 0.9** (i.e., not more than 90% of thermal energy is used to generate electricity).
+  3. Electricity is **sold or distributed to the electric grid**.
+
+> *Exception*: Applies retroactively to units that:
+> - Generated electricity **before January 1, 2019**;
+> - Were **moved to a new facility** on or after that date;
+> - Were previously registered under the coal emissions regulations and ceased using coal.
+
+#### **B. Combustion Engine Units (Gas-Turbine Plants)**
+- Must have a **capacity of 25 MW or more**.
+- Must begin generating electricity **on or after January 1, 2021**.
+- Must meet:
+  1. More than **30% of heat input** comes from natural gas.
+  2. **At least 33% of potential electrical output** is sold or distributed to the grid.
+    - *Exception*: If temporary replacement engines (up to 90 days) are installed during repairs, this threshold is waived.
+
+> *Exception*: Applies retroactively to units where:
+> - More than **50% of total engine capacity** consists of engines installed **on or after January 1, 2021** (unless they are ≤150 MW replacing pre-2021 engines).
+
+---
+
+## **3. Definitions Key to Interpretation**
+
+Important definitions clarify what constitutes a "unit" and how emissions are measured:
+
+| Term | Definition |
+|------|-----------|
+| **Natural Gas** | A gaseous hydrocarbon mixture (≥70% methane) with a heating value between 35–41 MJ/m³. Excludes landfill gas, refinery gas, sour gas, and gases with variable sulfur content. |
+| **Unit** | An integrated system including boilers or engines, heat recovery systems, turbines, generators, and emission controls. |
+| **Heat-to-Electricity Ratio** | Total useful thermal energy (in GWh) / Total electricity generated (in GWh). Must be ≤0.9 for boiler units. |
+| **Potential Electrical Output** | Maximum electricity that could be generated if the unit operated at full capacity continuously. |
+| **Useful Thermal Energy** | Steam or hot water used for non-electric purposes (e.g., heating, industrial processes). |
+| **Standard Conditions** | 15°C and 101.325 kPa. All volumes are expressed at these conditions (standard m³). |
+| **Responsible Person** | Owner or operator of the unit. |
+| **Auditor / Performance Test Verifier** | Independent third parties with expertise in emission monitoring and quality assurance. |
+
+> **Note**: In interpreting incorporated documents, "should" means "must"; recommendations are treated as obligations.
+
+> Any standards from **ASTM**, **Gas Processors Association**, or **API** incorporated by reference are effective as amended.
+
+---
+
+## **4. Emission Intensity Limits**
+
+The core of the regulation is a **cap on CO₂ emissions per unit of electricity generated** (in tonnes of CO₂ per GWh):
+
+| Unit Type | Emission Limit (t CO₂/GWh) |
+|---------|----------------------------|
+| **All boiler units** (except those under special rules) | **420 t CO₂/GWh** |
+| **Combustion engine units with >150 MW engines** | **420 t CO₂/GWh** |
+| **Combustion engine units with ≤150 MW engines** | **550 t CO₂/GWh** |
+
+> These limits apply **only when the unit meets the eligibility conditions** in subsections 3(1) and 3(2).
+
+---
+
+## **5. Special Provisions for Units with High Initial Emissions (Subsection 3(4))**
+
+For **boiler units** that meet the eligibility criteria but have **high initial CO₂ emissions**, additional restrictions are imposed **after the end of their useful life** to ensure long-term emissions reductions.
+
+These apply only if the **initial performance test** shows emissions intensity exceeding certain thresholds:
+
+| Initial Emission Intensity | Limit Triggered | Year After End of Useful Life |
+|---------------------------|----------------|-------------------------------|
+| >600 t/GWh | **420 t/GWh** | Year 1 |
+| >550 t/GWh and ≤600 t/GWh | **420 t/GWh** | Year 6 |
+| >480 t/GWh and ≤550 t/GWh | **420 t/GWh** | Year 9 |
+| ≤480 t/GWh | **420 t/GWh** | Year 11 |
+
+> This ensures that even as units age, they do not emit disproportionately high levels of CO₂.
+
+---
+
+## **6. Performance Testing Requirements**
+
+To determine actual CO₂ emissions, **performance tests** must be conducted annually.
+
+### **Initial Performance Test**
+- Must be conducted within **12 months** of:
+  - January 1, 2019, if the unit ceased using coal before that date.
+  - The first day the unit sold electricity to the grid (if it ceased using coal on or after Jan 1, 2019).
+- Conducted in the presence of an **independent performance test verifier**.
+- Must last **at least 2 hours** and not exceed **100% of the unit’s capacity**.
+- Follows the **Reference Method (2012)** published by the Department of the Environment.
+
+### **Annual Performance Tests**
+- Required annually while the unit remains under the regulation.
+- Must also last at least 2 hours and not exceed 100% capacity.
+- Must show a **maximum 2% increase** in CO₂ emissions intensity compared to the previous year.
+
+> **Exclusion Clause**: If a combustion engine is temporarily replaced (for repairs), emissions during the **90-day replacement period** are excluded from calculations.
+
+---
+
+## **7. Exemptions During Emergencies**
+
+Under **emergency circumstances**, a responsible person may apply for a temporary exemption from emission limits.
+
+### **Eligible Emergency Circumstances**
+- An **extraordinary, unforeseen, and irresistible event** (e.g., extreme weather, grid failure).
+- A **government-issued measure** under the *Regulations Prescribing Circumstances for Granting Waivers Pursuant to Section 147 of CEPA*.
+
+### **Application Requirements**
+- Must be submitted to the **Minister of the Environment** within **15 days** of the emergency.
+- Must include:
+  - Unit registration number (if available),
+  - Date of emergency,
+  - Explanation and supporting documentation showing the emergency condition.
+
+### **Minister’s Response**
+- If satisfied, the Minister must:
+  - **Grant the exemption** within **30 days**,
+  - Assign a registration number if none exists,
+  - Notify the responsible person.
+
+### **Duration of Exemption**
+- Begins on the day of the emergency.
+- Ends on the **earliest of**:
+  - 90 days after the emergency,
+  - A date specified by the Minister,
+  - The day the emergency ends.
+
+> This ensures that emergency measures are temporary and do not become permanent.
+
+---
+
+## **8. Exemptions for Non-Eligible Years**
+
+- A unit **not meeting eligibility conditions** (e.g., heat input from natural gas <30%, or heat-to-electricity ratio >0.9) is **not subject to emission limits** for that calendar

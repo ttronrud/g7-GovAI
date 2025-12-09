@@ -1,0 +1,188 @@
+### **Detailed Summary of the Canada Deposit Insurance Corporation (CDIC) Co-owned and Trust Deposit Disclosure By-law**
+
+This by-law, adopted by the Board of Directors of the **Canada Deposit Insurance Corporation (CDIC)** on **August 2, 2019**, implements specific disclosure requirements for deposits held under **co-ownership, trusts, and special income arrangements**. It operates under the authority granted by **paragraph 11(2)(g)a of the Canada Deposit Insurance Corporation Act** and **section 14c of the Act’s schedule**, with the primary objective of ensuring **transparency and accuracy in deposit records** to support CDIC’s ability to assess and provide deposit insurance coverage.
+
+The by-law came into force on **April 30, 2022**, following the enactment of **section 212 of the Budget Implementation Act, 2018, No. 1**, and was amended by **S.I. 2020-36** to ensure compliance with evolving regulatory standards.
+
+---
+
+## **I. Purpose and Legal Basis**
+
+- **Purpose**: To ensure that member financial institutions (depository institutions) accurately and timely disclose information about deposits that are:
+  - Co-owned by two or more individuals;
+  - Held in trust (by a trustee or nominee broker);
+  - Held under a designated "special income arrangement" (e.g., RRSP, RRIF, TFSA, etc.);
+  - Held through nominee brokers or professional trustees.
+
+- **Legal Authority**:
+  - Paragraph 11(2)(g)a of the *Canada Deposit Insurance Corporation Act*;
+  - Section 14c of the Act’s schedule (which outlines disclosure obligations for deposits).
+
+This by-law replaces the **Canada Deposit Insurance Corporation Joint and Trust Account Disclosure By-law (SOR/95-279)**, which is now repealed.
+
+---
+
+## **II. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Deposit Insurance Corporation Act*. |
+| **Determination Date** | The key date used to define when disclosure obligations arise. It is either: <br> - The filing date of a winding-up petition (if a winding-up order is initiated before the majority of insured deposits are paid), or <br> - The date when one of the events listed in subsection 14(2.1) of the Act first occurs (e.g., insolvency, closure, or significant financial distress). |
+| **Senior Officer** | For a nominee broker or professional trustee (non-individual): <br> - CEO or board member; or <br> - An officer who reports directly to a CEO or board. For individuals, it is the person performing similar roles. |
+| **Special Income Arrangement (SIA)** | Includes the following registered plans: <br> - RRSP (section 5(1)) <br> - RRIF (section 5(2)) <br> - TFSA (section 5(3)) <br> - Tax-Free First Home Savings Account (section 5(3.1)) <br> - Registered Education Savings Plan (RESP) (section 5(4)) <br> - Registered Disability Savings Plan (RDSP) (section 5(5)) |
+
+> Each of these is considered a distinct type of SIA under the by-law.
+
+---
+
+## **III. Disclosure Requirements by Deposit Type**
+
+All disclosures must be made **on the member institution’s records before the determination date**.
+
+---
+
+### **1. Co-Owned Deposits**
+- Must be disclosed by:
+  - Indicating that the deposit is **co-owned**;
+  - Listing **each co-owner’s full name**.
+
+> Applies to any deposit where two or more individuals jointly hold ownership.
+
+---
+
+### **2. Trusts (Non-Nominee Broker / Non-Professional Trustee Accounts)**
+
+#### Subsection 6(1): Basic Trust Disclosure
+- Must indicate the deposit is **held in trust**;
+- List **each trustee’s name** and **one trustee’s address**.
+
+#### Subsection 6(2): Trust with Beneficiary
+- Must indicate the deposit is **held in trust**;
+- List **each trustee’s name and address**;
+- List **beneficiary’s name and address**.
+
+#### Subsection 6(3): Beneficiary Interest or Right
+- Must indicate the deposit is **held in trust**;
+- List **each trustee’s name and address**;
+- List **beneficiary’s name and address**;
+- Specify the **amount or percentage of the beneficiary’s interest or right** in the deposit.
+
+> These disclosures apply **only if the deposit is not a nominee broker deposit or a professional trustee account**.
+
+---
+
+### **3. Special Income Arrangement (SIA) Deposits with Trustee Role**
+
+If a depositor is acting as a **trustee for another person** (e.g., managing a TFSA for a child), and the deposit is **not** a nominee broker deposit or a professional trustee account:
+
+- Must disclose:
+  - The **type of SIA**;
+  - The **name and address** of the individual for whose benefit the arrangement is established.
+
+> This ensures clarity about who the actual beneficiary is, even if the depositor is acting in a trustee capacity.
+
+---
+
+### **4. Nominee Broker Deposits**
+
+Nominee brokers act as intermediaries to hold deposits on behalf of beneficiaries.
+
+#### General Disclosure Rules (for all nominee broker deposits):
+- Must indicate the deposit is **held in trust by a nominee broker**;
+- Must list the **nominee broker’s legal name and address**.
+
+#### Additional Requirements:
+
+##### Subsection 6(2): With Beneficiary
+- Must include:
+  - The **alphanumeric code** assigned to the beneficiary (as per rules below);
+  - The code must be consistent across all deposits held under the **same type of SIA** at the same institution.
+
+##### Subsection 6(3): Beneficiary Interest
+- Must specify:
+  - The **amount or percentage of interest** associated with the alphanumeric code.
+
+##### Special Disclosure for SIA Deposits:
+- If the deposit is held under an SIA, the **type of SIA** and **each alphanumeric code** assigned to beneficiaries must be disclosed.
+
+---
+
+### **5. Alphanumeric Code Assignment Rules (for Nominee Brokers)**
+
+These rules govern how codes are assigned to beneficiaries:
+
+| Rule | Explanation |
+|------|-------------|
+| **No duplicate codes** | A nominee broker must not assign the same alphanumeric code to more than one beneficiary. |
+| **Same code for same SIA type** | For a beneficiary, all deposits made under the **same type of SIA** at the **same member institution** must share the same code. |
+| **Same code for same institution (non-SIA)** | For deposits not held under an SIA, all deposits made by the same nominee broker at the same institution must share the same code. |
+| **Different SIA types may share a code** | A beneficiary can have **different codes** for different SIA types (e.g., one for RRSP, one for TFSA), but **same code can be reused** across different SIA types. |
+
+> This ensures consistency and traceability in tracking beneficiary interests.
+
+---
+
+### **6. Information to Be Provided to CDIC (by Nominee Broker)**
+
+Under **paragraph 7(1)(b)** of the schedule, the nominee broker must provide the following to CDIC:
+
+- The **type of SIA**, if any;
+- For each alphanumeric code:
+  - The code itself;
+  - The **name of the individual** for whose benefit the arrangement exists;
+  - The **type of SIA** associated with that code.
+
+> This data must be provided **electronically**, in a format that allows **data extraction and manipulation** (e.g., CSV, XML, database export).
+
+---
+
+## **IV. Attestation Requirements**
+
+Two types of attestations are required from nominee brokers and professional trustees.
+
+---
+
+### **1. Initial Attestation (Required upon First Agreement)**
+
+Must be sent **within 30 days** of entering into an agreement or arrangement with a member institution.
+
+**Contents**:
+- Member institution name and nominee broker’s legal name and mailing address;
+- If the broker claims **capability** to fulfill obligations under paragraph 7(1)(b):
+  - Description of policies/procedures to ensure compliance;
+- If the broker claims **inability** to comply:
+  - Explanation of reasons and proposed actions and timeline to fix the issue;
+- Signed by the **nominee broker or a senior officer**;
+- Includes contact details:
+  - Mailing address, email, and phone number of the signer;
+  - If the broker is not an individual, also of **another senior officer**;
+- Must be **sent electronically**.
+
+> **Exception**: If multiple agreements are signed within 30 days, a **single attestation** may be sent covering all institutions involved.
+
+---
+
+### **2. Updated Attestation (Annual Update)**
+
+Must be sent **no later than May 31 of each year**, starting in 2022.
+
+**Contents**:
+- Broker’s legal name and mailing address;
+- List of all member institutions involved, highlighting any changes since last update;
+- If capable of compliance:
+  - Description of policies/procedures (only if changed from last update);
+- If not capable:
+  - Explanation and proposed actions/timeline;
+- Signed by broker or senior officer;
+- Includes contact details of signer and (if applicable) another senior officer;
+- Must be sent **within 10 days** of any change in:
+  - Legal name;
+  - Capability to fulfill obligations.
+
+> Ensures ongoing compliance and up-to-date information.
+
+---
+
+## **V. Contact Information Requirements**
+
+-

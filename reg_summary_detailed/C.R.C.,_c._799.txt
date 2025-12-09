@@ -1,0 +1,124 @@
+**Detailed Summary of the *Temporary Export of Aircraft Remission Order***
+
+---
+
+### **1. Title and Citation**
+The regulation is officially titled the **Temporary Export of Aircraft Remission Order** and may be cited as such. It establishes a temporary framework for the remission (i.e., forgiveness or refund) of sales tax paid under the *Excise Tax Act* in specific circumstances involving the importation or purchase of qualifying aircraft and engines, and their subsequent export or exclusive use outside Canada.
+
+---
+
+### **2. Key Definitions**
+
+- **Deputy Minister**: Refers to the Deputy Minister of National Revenue for Customs and Excise. This official is responsible for administering and approving remissions under the Order.
+
+- **Eligible Carrier**: A common air carrier that holds a commercial air service license issued by the **Canadian Transport Commission** (now part of Transport Canada). Only such licensed carriers are eligible to apply for remission.
+
+- **Engines**: Includes all aircraft engines and spare engines necessary to operate qualifying aircraft.
+
+- **Parts**: Components of aircraft or engines required for maintenance, repair, or operation of qualifying aircraft or engines.
+
+- **Qualifying Aircraft**: Any aircraft that is licensed by the Canadian Transport Commission (or its successor body).
+
+---
+
+### **3. Conditions for Sales Tax Remission on Aircraft and Engines**
+
+A remission of sales tax may be granted to an eligible carrier **only if all of the following conditions are met**:
+
+#### **(a) Export Within 10 Years**
+- The qualifying aircraft and engines must be **exported from Canada within 10 years** of:
+  - Their original **importation into Canada**, or
+  - Their **original purchase in Canada**.
+
+#### **(b) Exclusive Use Outside Canada**
+- The aircraft and engines must be used **exclusively outside Canada** after **September 30, 1973**, for a **minimum of 30 consecutive days**.
+- This use must be in fulfillment of a **contract for commercial air service**.
+
+#### **(c) Satisfactory Evidence**
+- The carrier must provide **evidence satisfactory to the Deputy Minister** proving:
+  - The time period specified in (a) (i.e., export within 10 years),
+  - The conditions of use specified in (b) (i.e., exclusive use outside Canada for at least 30 days).
+
+#### **(d) No Prior Remission or Refund**
+- No remission or refund of sales tax has previously been granted under **any Canadian Act** for the importation or purchase of the qualifying aircraft or engines.
+
+#### **(e) Availability of Records**
+- A **complete record** of the use of the aircraft and engines must be maintained and made available for inspection by officers of the **Department of National Revenue (Customs and Excise)**.
+
+---
+
+### **4. Calculation of Sales Tax Remission**
+
+The amount of sales tax remitted is calculated as follows:
+
+#### **(a) For Each 30-Day Period Used Outside Canada**
+- **1/120** of the original sales tax paid on the importation or purchase of the qualifying aircraft and engines is remitted **for each 30-day period** the aircraft and engines are used outside Canada.
+
+> Example: If the original sales tax was $120,000, then for each 30-day period of use outside Canada, $1,000 ($120,000 ÷ 120) is remitted.
+
+#### **(b) For Days Beyond 30-Day Periods**
+- For each **additional day** beyond the full 30-day periods, an additional **1/30 of the amount calculated under (a)** is remitted.
+
+> Example: If the aircraft is used for 45 days outside Canada:
+> - 1 full 30-day period → 1/120 of tax remitted
+> - 15 additional days → 15 × (1/30) of the 30-day amount = 1/2 of the 30-day remittance
+
+> So, total remittance = (1/120) + (1/2 × 1/120) = (3/240) = 1/80 of original tax (or equivalent in dollar value).
+
+> This effectively provides a **proportional remission** based on actual time of use outside Canada.
+
+---
+
+### **5. Remission for Parts (Maintenance and Repair Components)**
+
+- **Eligible carriers** may also receive a **25% remission** of the sales tax paid on **parts** (aircraft or engine components) **only if**:
+  - A remission has been granted under this Order for the **same qualifying aircraft** (i.e., the aircraft for which the parts were used).
+
+- **Important Limitation**:
+  - **No remission** will be granted for parts **if** a remission or refund of sales tax has already been granted under **any other Act of Parliament** for the same parts.
+
+> This ensures that the remission for parts is not duplicated or available under multiple legislative provisions.
+
+---
+
+### **6. Application and Timeliness Requirements**
+
+- A remission **cannot be granted** unless:
+  - An **application is submitted** by the eligible carrier to the Deputy Minister.
+  - The application is in a **form satisfactory to the Deputy Minister**.
+  - The application is submitted **within two years** of the end of the calendar year in which the remission **first became payable**.
+
+> This creates a strict **time limit** for claiming remission, even if the use or export occurred earlier.
+
+> Example: If the aircraft was used outside Canada in 2023, the application must be submitted by **December 31, 2025**.
+
+---
+
+### **7. Key Objectives and Policy Implications**
+
+- **Encourage Investment in Aviation**: By allowing remission of sales tax on aircraft and engines, the government incentivizes carriers to acquire aircraft and engines for international operations.
+- **Promote Commercial Air Service**: The requirement that use must be for commercial air service outside Canada ensures that the benefit is tied to actual international operations.
+- **Ensure Accountability**: The requirement for complete records and evidence ensures transparency and prevents misuse of the remission.
+- **Prevent Double Benefits**: The prohibition on prior remissions under other Acts and the 25% cap on parts remission prevent overuse or duplication of benefits.
+- **Time-Limited and Conditional**: The 10-year export window and 30-day minimum use period ensure that the remission is not available indefinitely or for non-commercial purposes.
+
+---
+
+### **8. Summary of Key Provisions in a Table**
+
+| Provision | Description |
+|--------|-------------|
+| **Eligible Parties** | Common air carriers licensed by the Canadian Transport Commission |
+| **Eligible Assets** | Qualifying aircraft and engines (including spares), and parts (subject to conditions) |
+| **Remission Conditions** | Export within 10 years OR exclusive use outside Canada for ≥30 days after Sept 30, 1973 |
+| **Evidence Required** | Proof of time and use; records available for inspection |
+| **No Prior Remission** | Cannot claim if tax has already been refunded under any other Act |
+| **Remission Calculation** | 1/120 per 30-day period; 1/30 per additional day beyond 30 days |
+| **Parts Remission** | 25% of the remitted tax on aircraft (but not if prior remission exists) |
+| **Application Deadline** | Must be submitted within 2 years of the end of the calendar year when remission first became payable |
+
+---
+
+### **Conclusion**
+
+The *Temporary Export of Aircraft Remission Order* is a targeted fiscal incentive designed to support the development and operation of Canadian commercial air carriers engaged in international air service. It allows eligible carriers to recover a portion of the sales tax paid on aircraft and engines when those assets are exported or used exclusively abroad for commercial purposes. The regulation balances fiscal responsibility with operational flexibility through strict eligibility criteria, time limits, and record-keeping requirements. It reflects a policy intent to promote international air connectivity while ensuring that tax revenue is not unduly compromised.

@@ -1,0 +1,188 @@
+Certainly. Below is a **detailed and structured summary** of the provided regulation — the *Hazardous Materials Information Review Regulations*, made under the *Hazardous Materials Information Review Act*.
+
+---
+
+## 📚 **Detailed Summary of the Hazardous Materials Information Review Regulations**
+
+### **1. Background and Legal Authority**
+- The regulation was issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Consumer and Corporate Affairs**.
+- It is based on **paragraph 48(1)(a)** of the *Hazardous Materials Information Review Act*.
+- The Minister consulted with:
+  - All provincial governments,
+  - Worker representatives,
+  - Employer representatives,
+  - Supplier representatives (as deemed appropriate).
+- The regulation **revokes** the outdated Order in Council **P.C. 1987-2720**, dated December 31, 1987, and replaces it with updated, modernized rules.
+
+> ✅ **Purpose**: To establish a clear, transparent, and enforceable framework for determining when information related to hazardous materials may be exempt from public disclosure under the Act.
+
+---
+
+### **2. Name and Citation**
+- The regulation is officially titled:  
+  **Hazardous Materials Information Review Regulations**  
+  (May be cited as: *Hazardous Materials Information Review Regulations*)
+
+---
+
+### **3. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Hazardous Materials Information Review Act* |
+| **Electronic Document** | Any data stored in or produced by a computer system or similar device, including displays, printouts, or outputs. Includes digital files, spreadsheets, reports, etc. |
+| **Electronic Signature** | A digital signature that is unique to a person, created via technology, and allows verification of identity and authenticity. Must meet three criteria: uniqueness, process-based attachment, and verifiable identification. |
+| **Product Identifier** | The chemical name, common name, generic name, trade name, or brand name of a hazardous product. |
+| **Original Claim** | A first-time application for exemption from disclosure of information about a hazardous product. Does *not* include refiled claims. |
+| **Refiled Claim** | A new application filed by the same claimant, only concerning previously exempted information (not new information). |
+| **Subsequent Claim for Exemption** | Repealed (no longer applies). |
+| **Prescribed Medical Professional** | A nurse who is legally authorized to practice nursing in a province under provincial law. Used in section 29 of the Act. |
+
+> ⚠️ **Note**: Several definitions have been **repealed**, including:
+> - CAS registry number (SOR/2015-18)
+> - Existing claim, subsequent claim (SOR/2002-235)
+> - Certain provisions related to fees and claims (SOR/2020-39)
+
+These reflect ongoing modernization and simplification of the regulatory framework.
+
+---
+
+### **4. Criteria for Validity of Exemption Claims (Section 11 of the Act)**
+
+For a claim for exemption from disclosing information under **section 11** of the Act to be valid, the Minister must consider **three core criteria**:
+
+#### ✅ **Primary Criteria (Must be met for validity)**:
+1. **Not Publicly Available**  
+   The information must not be accessible to the general public or otherwise available through open channels.
+
+2. **Reasonable Measures to Maintain Confidentiality**  
+   The claimant must have taken reasonable steps to ensure the information remains confidential (e.g., internal access controls, non-disclosure agreements).
+
+3. **Actual or Potential Economic Value**  
+   The information must have **actual or potential economic value** to the claimant or their competitors due to its non-public nature. Disclosure would result in:
+   - A **material financial loss** to the claimant, OR
+   - A **material financial gain** to the claimant’s competitors.
+
+#### ✅ **Additional Criterion (For Validity Only – Not for Rejection)**:
+- The **cost and business resources** expended by the claimant to develop the information must be **substantial** in the circumstances.
+
+> 🔍 **Important Note**: This additional criterion is **not used to deny** a claim — it only strengthens the case *for* exemption when present.
+
+---
+
+### **5. Confidentiality Exception – What Does “Not Publicly Available” Mean?**
+
+Even if the information is known to certain individuals, it **does not cease to be non-publicly available** if:
+- The individuals obtained it **in confidence** (expressly or impliedly),
+- Are **contractually or legally bound** (by trust, law, or equity) to maintain confidentiality, or
+- Possess it **without lawful authority** (i.e., without right to possess it).
+
+> 🚫 This means that mere internal knowledge or employee access does not automatically make information public.
+
+---
+
+### **6. Fees for Claims**
+
+Fees are required under **subsection 11(3)** of the Act and vary based on claim type and number.
+
+#### 🔹 Original Claim Fees:
+- **One original claim**: $1,800  
+- **More than one original claim filed at the same time**:
+  - First 15: $1,800 each
+  - Next 10: $400 each
+  - Beyond 25: $200 each additional claim
+
+#### 🔹 Refiled Claim Fees:
+- **One refiled claim**: $1,440  
+- **More than one refiled claim**:
+  - First 15: $1,440 each
+  - Next 10: $320 each
+  - Beyond 25: $160 each additional claim
+
+> 💡 **Note**: Refiled claims are less expensive than original claims, reflecting reduced burden.
+
+#### 🔹 Reduced Fee for Small Businesses:
+- If the claimant:
+  - Had **gross annual revenue ≤ $3 million** in the prior fiscal year, AND
+  - Employed **≤ 100 employees**
+- Then the fee for a claim is **half** the amount required under **section 4 or 5** (which typically refers to standard filing fees).
+
+> 📌 This provision supports small and medium-sized enterprises (SMEs) by reducing compliance costs.
+
+---
+
+### **7. Requirements for a Valid Claim for Exemption**
+
+A claim must:
+- Be **in writing**  
+- Bear a **written or electronic signature** (or a facsimile of the signature)  
+- Be **dated** by the claimant  
+- Include the following information:
+
+#### 📌 General Information:
+- Name, address, phone number, fax number, and email address of the claimant  
+- Name, address, phone number, fax number, and email address of a contact person (if different from claimant)
+
+#### 📌 Claim Type:
+- Clearly state whether it is an **original claim** or a **refiled claim**
+
+#### 📌 Claimant Status:
+- State whether the claimant is a **supplier** or an **employer**
+
+---
+
+### **8. Specific Information Required by Claimant**
+
+#### ✅ For Suppliers:
+- Chemical name of the material/substance
+- CAS registry number (or any other unique identifier)
+- Chemical name of any **impurity, stabilizing solvent, or additive** known to the supplier that:
+  - Is classified as a health hazard under the *Hazardous Products Act*
+  - Contributes to the classification of the product
+- Concentration or concentration range of ingredients
+- Name of any **toxicological study** related to the material or ingredient
+
+#### ✅ For Employers:
+- Same information as above, but focused on:
+  - Chemical name of hazardous material or substance
+  - CAS number or unique identifier
+  - Impurities, solvents, additives contributing to health hazard classification
+  - Concentration or concentration range of ingredients
+  - Name of any toxicological study
+- **Product identifier** of the hazardous product
+- Information that could **identify the supplier** of the product
+
+#### ✅ General Information About the Hazardous Product:
+- Product identifier
+- Registry number of the **prior claim** (if it's a refiled claim)
+- Generic chemical name of any material, substance, ingredient, impurity, stabilizer, or solvent in the product
+- Full list of all materials, substances, ingredients, impurities, additives, solvents, and their **chemical names**, **CAS numbers**, and **concentrations**
+
+> ⚠️ **Important**: Claims must not contain **false or misleading information**. Fraudulent claims are prohibited.
+
+---
+
+### **9. Filing Methods**
+
+A claim may be submitted via:
+1. **Registered mail** to the office responsible for administering the Act  
+2. **In person** by the claimant or their authorized agent  
+3. **Electronic transmission** (e.g., email, facsimile) — **if the office has secure electronic receiving capabilities**
+
+> 🔐 Electronic submission requires secure transmission protocols to protect sensitive data.
+
+---
+
+### **10. Registry and Filing Date**
+
+- Upon receipt of a claim that meets **section 8 requirements**, the Minister must:
+  - Assign a **unique registry number** to the claim
+  - Assign a registry number to the **safety data sheet or label** related to the claim
+  - Assign a registry number to the **required fee**
+- The **filing date** of the claim is the same as the date the registry number is assigned.
+
+> ✅ This ensures a clear, traceable record of all claims.
+
+---
+
+### **11. Repealed

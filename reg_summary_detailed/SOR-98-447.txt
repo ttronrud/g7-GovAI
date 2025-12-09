@@ -1,0 +1,74 @@
+**Detailed Summary of the Regulations Defining “Advertising Revenues”**
+
+**Regulatory Authority and Legal Basis**  
+These regulations are issued by the **Copyright Board of Canada** under **subsection 68.1(3)(a)** of the *Copyright Act* (S.C. 1997, c. 24, s. 45). The purpose of these regulations is to provide a clear and consistent definition of the term **"advertising revenues"** as used in the context of the Copyright Act, particularly in relation to the licensing and compensation arrangements involving wireless transmission systems (e.g., broadcast television or radio services).
+
+---
+
+**Effective Date**  
+The regulations come into force on **August 31, 1998**.
+
+---
+
+**Key Definitions and Provisions**
+
+1. **Definition of "System"**  
+   - The term **"system"** is defined as a **wireless transmission system**.  
+   - This includes entities such as television or radio broadcasters that transmit content via wireless means (e.g., over-the-air broadcasts), and may be relevant in determining how advertising revenue is allocated and reported.
+
+2. **Definition of "Advertising Revenues" (Under Subsection 68.1(1))**  
+   - **Advertising revenues** are defined as the **total compensation** received by a system (wireless transmission system) for advertising activities.  
+   - This compensation may take the form of:
+     - Money (cash payments)
+     - Goods (e.g., products or services provided as part of a sponsorship)
+     - Services (e.g., promotional or technical support)
+   - The compensation is **net of**:
+     - Taxes
+     - Commissions paid to advertising agencies (such as media buying or agency fees)
+
+3. **Valuation of Goods and Services**  
+   - For the purpose of calculating advertising revenues, any **goods or services** received by the system must be valued at their **fair market value**.  
+   - This ensures consistency and fairness in financial reporting, preventing under- or overvaluation due to subjective or arbitrary pricing.
+
+4. **Special Provision for Group Broadcasting Arrangements**  
+   A key and nuanced provision addresses situations where **multiple systems broadcast a single event**, either simultaneously or with a delay. In such cases:
+
+   - If one system acts on behalf of a **group of systems** (e.g., a national broadcaster coordinating a live sports or cultural event across several regional stations), and pays another system within that group for participation:
+     - The **compensation paid by the lead system to a participating system** (within the group) is **included in the advertising revenues** of the **system receiving the payment** (i.e., the participating system).
+     - The **difference** between:
+       - The total compensation received by the lead system (the one acting on behalf of the group), and  
+       - The amount paid to other systems in the group (i.e., the compensation referred to in paragraph (a))  
+     - Is considered part of the **advertising revenue of the lead system** (the one acting on behalf of the group).
+
+   🔍 **Example**:  
+   Suppose System A (a national broadcaster) coordinates the broadcast of a major sporting event across Systems B, C, and D.  
+   - System A receives $1 million from a sponsor.  
+   - System A pays $200,000 to System B and $150,000 to System C as part of a shared broadcast agreement.  
+   - Under this regulation:
+     - The $200,000 paid to System B is **included in System B’s advertising revenue**.
+     - The $150,000 paid to System C is **included in System C’s advertising revenue**.
+     - The remaining amount ($1 million – $350,000 = $650,000) is **included in System A’s advertising revenue**.
+
+   This provision ensures that revenue is properly allocated to the systems that actually receive or benefit from the advertising payments, avoiding double-counting or misattribution.
+
+---
+
+**Purpose and Rationale**  
+These regulations are designed to:
+- Provide **clarity and consistency** in how advertising revenues are defined and calculated under the Copyright Act.
+- Ensure **fair treatment** of all systems involved in broadcasting, especially in collaborative or shared programming scenarios.
+- Prevent **double counting** of payments or revenue misallocation in multi-system events.
+- Support accurate licensing and royalty calculations, particularly in the context of **public interest broadcasting** or **sponsorship agreements**.
+
+---
+
+**Application Context**  
+These regulations are primarily relevant to:
+- Licensing of broadcasting services under the Copyright Act.
+- Determining the **advertising revenue** that qualifies as a basis for royalty payments or compensation to content creators or rights holders.
+- Regulatory oversight of how systems monetize advertising, especially in multi-system or networked broadcasting environments.
+
+---
+
+**Conclusion**  
+The Regulations Defining “Advertising Revenues” establish a precise, transparent, and equitable framework for calculating advertising revenue in wireless transmission systems. By defining what constitutes advertising revenue, setting valuation standards, and addressing complex group-broadcast scenarios, the regulations ensure fair and consistent application of the Copyright Act’s provisions—particularly in relation to public interest broadcasting and sponsorship. They remain a foundational reference for broadcasters, licensing bodies, and regulators in Canada’s media and intellectual property landscape.

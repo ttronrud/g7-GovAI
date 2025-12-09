@@ -1,0 +1,173 @@
+### **Detailed Summary of the Formaldehyde Emissions from Composite Wood Products Regulations (Canada)**
+
+---
+
+#### **1. Background and Legal Authority**
+
+The **Formaldehyde Emissions from Composite Wood Products Regulations** were made under **section 93(1)** of the *Canadian Environmental Protection Act, 1999 (CEPA 1999)*, following a formal process that included:
+
+- **Public consultation**: On June 29, 2019, the Minister of the Environment published a proposed regulation in *Canada Gazette, Part I*, inviting public comments and objections.
+- **Notice of objection**: Individuals or organizations could file a notice of objection, requesting a board of review if they believed the proposed rules were inadequate or inconsistent with environmental or health protections.
+- **Advisory input**: The National Advisory Committee was given the opportunity to provide expert advice under section 6c of CEPA 1999.
+- **No regulatory overlap**: The Administrator in Council concluded that these regulations do not conflict with or duplicate provisions in other federal statutes and provide sufficient protection to human health and the environment.
+
+As such, the regulations were formally adopted by the **Government of Canada in Council**, on the recommendation of the **Minister of the Environment** and the **Minister of Health**, pursuant to CEPA 1999.
+
+---
+
+#### **2. Scope and Applicability**
+
+##### **What the Regulations Apply To**
+- All **composite wood products** that contain formaldehyde.
+- These include:
+  - **Composite wood panels**:
+    - Hardwood plywood
+    - Particleboard
+    - Medium-density fibreboard (MDF)
+    - Thin medium-density fibreboard (T-MDF)
+  - **Laminated products** (e.g., panels with veneer glued to a core)
+  - **Component parts** (finished goods into which these are incorporated)
+  - **Finished goods** (products sold to end-users)
+
+> **Note**: The regulations apply only to products *intended for sale or use in Canada*, not to those used solely in manufacturing, research, or export.
+
+---
+
+#### **3. Exclusions from the Regulations**
+
+The following composite wood products are **exempt** from these formaldehyde emission limits:
+
+| Excluded Product Type | Reason |
+|------------------------|--------|
+| **Curved plywood** | Not covered under standard testing methods |
+| **Finger-jointed lumber** | Not a composite panel or laminated product |
+| **Structural wood products** with moisture-resistant adhesives (e.g., plywood, OSB, glued-laminated timber, I-joists, CLT) | Comply with existing structural standards (CSA, NIST, ASTM) that already regulate emissions |
+| **Hardboard** | Excluded due to different manufacturing process and resin types |
+| **Spools, packaging, pallets, crates, dunnage** | Non-end-use items |
+| **Products used in vehicles** (e.g., cars, rail, aircraft, vessels) | Not for consumer use in dwellings or homes |
+| **Windows** where composite wood represents <5% of volume | Minor component; low emission risk |
+| **Exterior or garage doors** where composite wood is <3% of volume or uses no-added or ultra-low-emitting resins | Minimal contribution to indoor air quality |
+| **Products for R&D or laboratory use** | Not intended for consumer exposure |
+| **Products manufactured or imported solely for export** | No domestic market exposure |
+| **Second-hand goods or goods acquired by consumers for personal use** | Post-sale use; not at risk of new emissions |
+
+> **Important Note**: A person who *only installs* composite wood products (e.g., a contractor) is **not considered a seller or offeror** under these regulations.
+
+---
+
+#### **4. Formaldehyde Emission Limits**
+
+The regulations set **maximum allowable formaldehyde emissions** when tested using approved methods:
+
+| Product Type | Maximum Formaldehyde Emission |
+|-------------|-------------------------------|
+| **Hardwood plywood** | 0.05 ppm |
+| **Particleboard** | 0.09 ppm |
+| **Medium-density fibreboard (MDF)** | 0.11 ppm |
+| **Thin MDF (T-MDF)** | 0.13 ppm |
+| **Laminated products** | 0.05 ppm |
+
+> These limits apply **to the panel or product itself** before it is incorporated into a finished good.
+
+Additionally, **correlated limits** are established under a **Directive (Government of Canada, June 2023)** and verified by **third-party certifiers**. These correlated limits are used when testing is conducted using alternative methods (e.g., ASTM D6007), ensuring equivalent environmental safety.
+
+---
+
+#### **5. Testing and Certification Requirements**
+
+##### **A. Mandatory Testing and Verification for Manufacturers**
+
+Every manufacturer must ensure that their products meet emission limits through a **systematic testing and verification process**:
+
+- **Specimen selection**:
+  - Must be conducted **four times per year**.
+  - Must occur **between 60 and 120 days** after the previous selection.
+  - Selection must be done by a **third-party certifier**.
+
+- **Testing Method**:
+  - Must be conducted using **ASTM E1333** (large chamber method), **unless equivalence** to ASTM E1333 is established.
+  - If using **ASTM D6007** (small-scale chamber method), the manufacturer must:
+    - Have an **accredited laboratory** establish equivalence between D6007 and E1333.
+    - Have this **equivalence verified by a third-party certifier**.
+    - **Re-establish and re-verify** equivalence annually for the first **three years**, then **every two years** thereafter.
+    - Re-evaluate equivalence if there is a change in:
+      - Equipment
+      - Testing procedures
+      - Personnel
+      - Evidence that the equivalence is no longer valid
+
+> **Purpose**: Ensures that alternative testing methods yield results comparable to the more rigorous ASTM E1333.
+
+##### **B. Frequency of Testing Based on Production Volume**
+
+Testing frequency depends on the **volume of production** per week/month:
+
+| Product Type | Testing Frequency |
+|-------------|-------------------|
+| **Hardwood plywood or laminated products** |  
+- ≤ 9,290 m²/month → once per month  
+- > 9,290 m²/month but ≤ 18,581 m²/week → once every 9,290 m²  
+- > 18,581 m²/week but < 37,161 m²/week → twice per week  
+- ≥ 37,161 m²/week → four times per week  
+|  
+| **Particleboard, MDF, T-MDF** |  
+- Once every 8–12 hours, depending on shift length (±1 hour)  
+|  
+
+> This ensures higher monitoring for high-volume producers.
+
+##### **C. Additional Testing Triggers**
+
+Testing must be conducted **immediately** if any of the following occur:
+- Change in resin composition that increases the formaldehyde-to-urea ratio
+- Increase of >10% in formaldehyde resin per m² or per panel
+- Increase of >20% in adhesive application rate
+- Decrease of >20% in press time
+- Manufacturer believes emissions exceed the limit
+
+> These triggers ensure responsiveness to process changes that could increase formaldehyde emissions.
+
+##### **D. Verification of Testing Results**
+
+- A **third-party certifier** must verify all test results.
+- Verification must be performed **quarterly**.
+- Re-verification is required if:
+  - Two consecutive tests (per ASTM E1333) exceed the limit
+  - Test results from ASTM E1333 and ASTM D6007 do not align with the established correlation
+
+---
+
+#### **6. Recordkeeping and Compliance Obligations**
+
+Manufacturers must maintain and provide the following:
+
+- **Declaration of Certification**:
+  - Must retain a copy for each product type.
+  - Must provide a copy to the **Minister upon request** (under section 29(6.2)).
+
+- **Information Submission**:
+  - Must submit information to the Minister under **section 31**, including details on:
+    - Product type
+    - Resin composition
+    - Testing results
+    - Production volumes
+    - Compliance status
+
+> This ensures transparency and enables the government to monitor compliance and environmental impact.
+
+---
+
+#### **7. Definitions and Key Terms**
+
+| Term | Definition |
+|------|-----------|
+| **Accredited Laboratory** | Must be accredited under ISO/IEC 17025 or Quebec’s Environment Quality Act (CQLR, c. Q-2), with scope including formaldehyde emissions testing |
+| **ASTM D6007** | Standard for small-scale chamber testing of formaldehyde emissions |
+| **ASTM E1333** | Standard for large-scale chamber testing (more rigorous) |
+| **Component Part** | A finished good or product into which a composite panel is embedded |
+| **Finished Good** | A product sold to end-users (excluding site-built buildings) |
+| **Product Type** | A specific product variant differing by composition or formaldehyde emissions, made with the same resin and manufacturer |
+| **Lot** | A production batch defined by start/end of quality control testing |
+| **Production Line** | A set of equipment and operations in one facility |
+| **Laminated Product** | A product made by gluing veneer to a core (composite panel or veneer) |
+| **Veneer** | Wood sheet ≤6

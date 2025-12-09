@@ -1,0 +1,179 @@
+The regulation you provided is **repealed** — meaning it is no longer in force. This is clearly indicated by the opening statements:
+
+> **[Repealed, SOR/2017-110, s. 2]**  
+> **[Repealed, SOR/2000-104, s. 1]**
+
+---
+
+### 🔍 Detailed Summary (Despite Repeal)
+
+Even though the regulation has been **repealed**, here is a detailed summary of what it **originally required**, as it would have applied prior to its repeal:
+
+---
+
+## 📌 Overview of the Regulation (Prior to Repeal)
+
+This regulation established reporting obligations for certain **liquid fossil fuels** originating from **crude oil, coal, or bituminous sands** in Canada. It required producers and importers to report specific information to the **Minister of the Environment** (or relevant federal department) on a periodic basis, particularly concerning fuel types and additives used in their production or importation.
+
+---
+
+## 🏷️ Scope of Application
+
+The regulations applied to:
+
+- **Liquid fuels** derived from:
+  - Crude oil
+  - Coal
+  - Bituminous sands
+
+Specific fuel types included:
+- Aviation gasoline (Jet A, Jet A-1, Jet B, others)
+- Gasoline grades (Regular, Mid-grade, Premium, Super-premium, others)
+- Kerosene (and other specified types)
+
+---
+
+## 📝 Reporting Obligations
+
+### 1. **General Reporting Requirement (Section 1)**  
+Every person who:
+- Produces in Canada **or**
+- Imports into Canada  
+more than **400 cubic metres** of a fuel listed in **Form 1 of the Schedule**  
+must submit, **for each quarter** of the calendar year, the information required by **Form 1**.
+
+✅ **Deadline**:  
+The information must be submitted **by January 31st** of the year following the calendar year in which the fuel was produced or imported.
+
+> Example: If fuel was produced in 2023, the report must be submitted by January 31, 2024.
+
+---
+
+### 2. **Additive Reporting Requirement (Section 2)**  
+Every person who produces or imports a fuel containing **any additive other than lead or lead compounds** must:
+
+- Submit information required by **Form 2 of the Schedule**  
+- **Within 60 days** of selling a cumulative total of **400 cubic metres** of that fuel containing the additive during a calendar year.
+
+> Note: This applies only to **new or previously unreported additives**. Once reported, no further reporting is needed for that additive in future years (unless there’s a change).
+
+---
+
+### 3. **Change Reporting Requirement (Section 4)**  
+If any **change occurs** in the information previously submitted under:
+- Section 1 (Form 1)
+- Section 2 (Form 2)  
+then the person must report the change to the Minister **within 60 days** of the change occurring.
+
+---
+
+## 📤 Format and Delivery Requirements
+
+### ✅ Electronic Submission (Preferred)
+- All required information must be submitted **electronically**.
+- In the **form and format specified by the Minister**.
+- Must bear the **electronic signature** of an authorized official.
+
+### 📄 Paper Submission (Fallback)
+If:
+- The Minister has not specified an electronic format, **or**
+- It is **impractical** to submit electronically due to circumstances beyond the sender’s control (e.g., technical issues, lack of access)
+
+Then the information must be sent on **paper**, signed by an authorized official, in the form and format specified by the Minister.
+
+> If no format is specified, the information may be in **any form and format** acceptable to the Minister.
+
+---
+
+## 👤 Who is an "Authorized Official"?
+
+An authorized official is defined as:
+
+| Entity Type | Authorized Official |
+|-----------|---------------------|
+| **Corporation** | An officer authorized to act on behalf of the corporation |
+| **Any other person** | The person themselves, or someone authorized to act on their behalf |
+| **Any other entity** | A person authorized to act on its behalf |
+
+> This ensures accountability and legal validity of submissions.
+
+---
+
+## 📄 Forms and Required Information
+
+### 🔹 Form 1 (Fuel Production/Importation Report)
+Includes details such as:
+
+| Field | Description |
+|------|-------------|
+| Reporting Period | Calendar year and quarter |
+| Company Name | Legal name of producer/importer |
+| Facility Name & Address | Physical location of operation |
+| Telephone | Contact number |
+| Fuel Type | Specific types: Aviation gasoline (Jet A, Jet A-1, Jet B), gasoline grades (Regular, Premium, etc.), kerosene, etc. |
+| Additive Content (for kerosene) | Concentration levels: ≤15 mg/kg, >15–1000 mg/kg, >1000 mg/kg |
+| Fuel Type (diesel variants) | Type 0, Type 1, Type 2, Type 4, Type 5, Type 6, or other |
+
+> Form 1 is submitted **quarterly** and **once per fuel type** per calendar year.
+
+---
+
+### 🔹 Form 2 (Additive Reporting)
+Used when a new additive is introduced into a fuel product.
+
+Required information includes:
+
+| Field | Description |
+|------|-------------|
+| Fuel Manufacturer/Importer | Name, address, phone |
+| Additive Manufacturer | Name, address, phone |
+| Chemical Name of Each Constituent | Full chemical name of each additive |
+| Element(s) | Specific chemical elements present in the additive |
+
+> Form 2 must be submitted **within 60 days** of reaching **400 m³** of cumulative sales of the fuel with that additive.
+
+> Submitted **once per additive** (not per fuel type).
+
+---
+
+## 🚫 Exclusions
+
+- **Lead or lead compounds** are **exempt** from the additive reporting requirement.
+- The regulation does **not apply** to fuels below 400 cubic metres in volume per year.
+
+---
+
+## ⚠️ Key Notes
+
+- The regulation was **repealed**:
+  - By **SOR/2017-110, section 2** (likely due to policy or regulatory modernization)
+  - Also previously by **SOR/2000-104, section 1**
+- This means **no current legal obligation** exists under this regulation.
+- It may have been replaced by newer environmental or fuel reporting frameworks (e.g., under the **Canadian Environmental Protection Act (CEPA)** or **Fuel Additive Regulations** under the **Ministry of Environment and Climate Change**).
+
+---
+
+## 📚 Conclusion
+
+Although this regulation has been **officially repealed**, it historically governed:
+
+- Mandatory reporting of **fuel production and importation** (above 400 m³ per quarter)
+- **Additive disclosures** (for non-lead additives) when a cumulative volume of 400 m³ is reached
+- Strict **timelines** (60 days for new additives, 60 days for changes)
+- **Electronic submission** with official authentication
+
+> 📌 **Status Today**: **Repealed** — Not currently in effect.  
+> 🔍 **Replacement**: Likely replaced by more modern or comprehensive fuel reporting systems under CEPA or other environmental statutes.
+
+---
+
+## ✅ Recommendation
+
+If you are a fuel producer, importer, or regulator reviewing compliance:
+
+- **Verify current applicable regulations** under the **Canadian Environmental Protection Act (CEPA)** or the **Federal Fuel Additive Regulations**.
+- Consult the **Government of Canada’s Environment and Climate Change Canada (ECCC)** website for up-to-date reporting requirements.
+
+---
+
+Let me know if you'd like help identifying the **current replacement regulation** or a comparison with active fuel reporting rules.

@@ -1,0 +1,172 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the regulation titled:
+
+---
+
+## **General Preferential Tariff, General Preferential Tariff Plus and Least Developed Country Tariff Rules of Origin Regulations**  
+*Under subsection 16(2)a of the Customs Tariff*  
+*Statutory Authority: S.C. 2001, c. 28, s. 34(1); S.C. 1997, c. 36*  
+*Effective Date: January 1, 2025*  
+*Repealed: SOR/2013-165 (prior version)*
+
+---
+
+### **1. Purpose of the Regulation**
+This regulation establishes the **rules of origin** for goods eligible to receive preferential tariff treatment under three distinct programs:
+- **General Preferential Tariff (GPT)**
+- **General Preferential Tariff Plus (GPT Plus)**
+- **Least Developed Country Tariff (LDC Tariff)**
+
+These rules determine whether a good qualifies as "originating" in a beneficiary country (GPT), beneficiary-plus country (GPT Plus), or a least developed country (LDC). Origin status is essential for eligibility for reduced or zero tariffs upon importation into Canada.
+
+The regulation is made under the authority of the **Customs Tariff** and specifically subsection **16(2)a**, which allows the Governor General in Council to establish origin rules based on ministerial recommendation (by the Minister of Finance).
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Beneficiary Country** | A country or territory that qualifies for the **General Preferential Tariff** (GPT). |
+| **Beneficiary-Plus Country** | A country or territory that qualifies for the **General Preferential Tariff Plus** (GPT Plus), which typically includes higher-value or more developed economies with enhanced trade benefits. |
+| **Least Developed Country (LDC)** | A country or territory designated as a least developed country under international agreements (e.g., UN LDC list), eligible for special tariff treatment. |
+| **Fabric** | A specific category of textile products defined in **headings 50.07, 51.11–51.13, 52.08–52.12, 53.09–53.11, 54.07–54.08, 55.12–55.16, 58.01–58.07, 58.09–58.11, 59.01–59.11, 60.01–60.06** of the List of Tariff Provisions. |
+
+> *Note: "Fabric" is central to the rules for textile goods, particularly those in Chapters 61–63.*
+
+---
+
+### **3. Rules for Determining Origin**
+
+#### **A. Originating Goods in Beneficiary or Beneficiary-Plus Countries**
+A good is considered to originate in a beneficiary country or beneficiary-plus country **if it meets one of the following criteria**:
+
+1. **Natural Products**:
+   - A mineral product extracted from the soil or seabed.
+   - A vegetable product harvested in the country.
+   - A live animal born and raised in the country.
+   - A good obtained from a live animal in the country.
+   - A good obtained from hunting or fishing in the country.
+   - A good obtained from sea fishing or marine resources taken by a vessel of the country.
+
+2. **Manufacturing on Board a Factory Ship**:
+   - A good produced on a factory ship **exclusively from a fabric** originating in the country.
+
+3. **Waste/Scrap**:
+   - Waste or scrap derived from manufacturing operations within the country.
+
+4. **Used Goods for Raw Material Recovery**:
+   - A used good imported into Canada **for recovery of raw materials only**.
+
+5. **Manufactured Exclusively from Originating Materials**:
+   - A good produced in the country **exclusively from a product or good** that originated in the country (or in a beneficiary country or Canada) under any of the above.
+
+> ✅ This rule applies to all goods **outside Chapters 61 to 63** of the List of Tariff Provisions.
+
+---
+
+#### **B. Value Rule (40% Threshold)**
+For goods **not in Chapters 61–63**, a good originates in a beneficiary country or beneficiary-plus country **if the value of non-originating materials, parts, or products used in production is no more than 40% of the ex-factory price** of the final good as packed for shipment to Canada.
+
+> ⚠️ This is a **value-based rule** — a key mechanism to prevent "origin shifting" through excessive use of foreign inputs.
+
+---
+
+#### **C. Deemed Origin (For Specific Goods)**
+Certain materials and packaging are **deemed to originate** in the beneficiary country or beneficiary-plus country, even if they were sourced elsewhere:
+
+- **Materials/Parts**: Any materials or parts used in manufacturing that originated in:
+  - Another beneficiary country
+  - Canada
+- **Packing**: Any packaging required for transportation, **excluding** packaging used for sale to consumers in the beneficiary country.
+
+> ✅ Applies to goods in Chapters 61–63 (textile and apparel goods).
+
+---
+
+#### **D. Rules for Textile & Apparel Goods (Chapters 61–63)**
+
+These rules apply to goods listed in **Chapters 61, 62, and 63** of the List of Tariff Provisions (mainly apparel, garments, and textiles).
+
+| Chapter | Origin Rule |
+|--------|-------------|
+| **Chapter 61 & 62** | A good originates if it is **cut, knit to shape, and sewn or otherwise assembled** in the beneficiary country or beneficiary-plus country. |
+| **Chapter 63** | A good originates if it is **cut, knit to shape, and sewn or otherwise assembled** in the beneficiary country or beneficiary-plus country **from fabric produced in any beneficiary country, beneficiary-plus country, or Canada**. |
+
+> 🔍 **Important Note**: Subsections (3) and (4) (deemed origin) apply **only to the fabric or parts knit to shape** that determine the tariff classification — meaning only the key components that define the product’s HS code are subject to the rules.
+
+---
+
+#### **E. Origin in Least Developed Countries (LDCs)**
+
+A good originates in an LDC **if the value of non-originating materials used in production is no more than 80% of the ex-factory price** of the final good (as packed for shipment).
+
+> ✅ This is a **more lenient threshold** (80% vs. 40%) to support developing nations.
+
+---
+
+#### **F. Deemed Origin for LDC Goods**
+
+- Any materials or parts used in manufacturing that originated in:
+  - Another LDC
+  - Canada
+- Any transportation packaging (excluding consumer packaging)
+
+> Applies to goods in **Part A1, A2, A3, or B** of the schedule.
+
+---
+
+#### **G. Rules for LDC Apparel Goods (by Part)**
+
+| Part | Origin Rule |
+|------|-------------|
+| **Part A1 or A2** | Must be **cut, knit to shape, and sewn or otherwise assembled** in the LDC. |
+| **Part A3** | Must be **sewn or otherwise assembled** in the LDC. |
+| **Part B** | Must be **cut, knit to shape, and sewn or otherwise assembled** in the LDC **from fabric produced in any LDC or Canada**. |
+
+> 🔍 Again, **only the fabric or parts that determine the tariff classification** are subject to the deemed origin rules.
+
+---
+
+### **4. Retention of Origin Status During Transport**
+
+When a good that qualifies as originating is transported **outside** a beneficiary country, beneficiary-plus country, or LDC, it **retains its originating status only if**:
+
+1. The good remains **under customs control** during transit.
+2. It does **not undergo any further production or processing** outside the country of origin.
+3. The only allowed operations are:
+   - Unloading
+   - Reloading
+   - Separation from bulk shipments
+   - Storing
+   - Preserving condition
+
+> ❌ Any processing, manufacturing, or reassembly outside the country **destroys origin status**.
+
+---
+
+### **5. Grouping and Assembly Rules**
+
+For determining origin, **each good in a shipment is considered separately**, but exceptions apply:
+
+1. **Group, Set, or Assembly**:
+   - If goods are classified under the **same tariff item**, they are treated as **one good**.
+
+2. **Tools, Parts, and Accessories**:
+   - Are considered part of the **main good** if:
+     - Imported with the good
+     - Customarily included in the sale of that good
+     - Their price is included in the good’s price
+     - No separate charge is made
+
+3. **Unassembled Goods Imported in Multiple Shipments**:
+   - If components are imported in separate shipments due to transport or production constraints, they are treated as **one good**.
+
+> This prevents "fragmented origin" manipulation and ensures that the final product is treated as a single unit.
+
+---
+
+### **6. Shipping Requirements for Tariff Eligibility**
+
+To qualify for preferential tariff treatment, goods must be **shipped directly to Canada** (with or without transhipment):
+
+| Tar

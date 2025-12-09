@@ -1,0 +1,178 @@
+**Detailed Summary of the Chromium Electroplating, Chromium Anodizing and Reverse Etching Regulations (S.C. 2004, c. 15, s. 31)**
+
+---
+
+### **Overview**
+
+The *Chromium Electroplating, Chromium Anodizing and Reverse Etching Regulations* are a set of environmental protection regulations under the **Canadian Environmental Protection Act (CEPA), 1999**. These regulations were enacted on **November 6, 2004**, following a public consultation process and approval by the Governor in Council, based on recommendations from the Minister of the Environment and the Minister of Health.
+
+The primary objective of these regulations is to **minimize the release of hexavalent chromium compounds**—a known carcinogen and environmental hazard—into the air during industrial processes such as chromium electroplating, chromium anodizing, and reverse etching.
+
+These processes involve the use of hexavalent chromium (Cr(VI)) in aqueous solutions to coat or modify metal surfaces. Due to the toxicity of Cr(VI), strict controls are imposed to prevent emissions that could endanger human health and the environment.
+
+---
+
+## **Key Provisions and Structure**
+
+### **1. Scope of Application**
+
+- Applies to **any person** who uses a solution containing **hexavalent chromium compounds** for:
+  - Chromium electroplating
+  - Chromium anodizing
+  - Reverse etching
+- Specifically, the regulations apply to facilities where **50 kg or more of chromium trioxide (CrO₃)** is used per calendar year.
+
+> This threshold ensures that only significant industrial users are subject to the regulatory requirements.
+
+---
+
+### **2. Definitions**
+
+The regulations define key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Hexavalent chromium** | Chromium in oxidation state +6 (Cr(VI)) – highly toxic and carcinogenic |
+| **Total chromium** | Sum of hexavalent chromium and all other chromium species |
+| **Facility** | Location where the processes are carried out |
+| **Tank** | Container where the electrochemical process occurs |
+| **Point source** | Stack or vent discharging emissions from a tank |
+| **Control device** | Equipment (e.g., scrubber) in the emission collection system |
+| **Dilution air** | Air introduced to dilute emissions (not allowed in release testing) |
+| **HEPA filter** | High-efficiency particulate air filter (pore size ≤ 0.1 µm) |
+| **Surface tension** | Molecular force at solution-air interface, measured in dynes/cm |
+| **Representative operating conditions** | Average rectifier output over the previous 30 days |
+
+---
+
+### **3. Methods for Controlling Hexavalent Chromium Releases**
+
+A facility must choose **one of three methods** to control emissions from each tank:
+
+#### **Method 1: Use of a Point Source (with Control Device)**
+- A **control device** (e.g., scrubber) must be installed in the emission collection system.
+- The device must **not release more than 0.03 mg/dscm** of hexavalent chromium (if measured separately), or **0.03 mg/dscm of total chromium** (in other cases).
+- **dscm** = dry standard cubic metre of sample gas at 25°C and 101.325 kPa.
+
+> **Important Timing Provision:**  
+> For facilities operating on the day the regulation comes into force, the 0.03 mg/dscm limit applies **30 months later**, not immediately.
+
+#### **Method 2: Limiting Surface Tension of the Solution**
+- Surface tension must be kept **below specific thresholds**:
+  - **< 35 dyn/cm** if measured with a **tensiometer**
+  - **< 45 dyn/cm** if measured with a **stalagmometer**
+- Must be measured **daily** during operation, with measurements taken at least **16 hours apart**.
+- If the tank is unused for **over 24 consecutive hours**, surface tension must be re-measured and reduced before reuse.
+
+> **Application Timing:**  
+> For facilities operating on the day the regulation comes into force, this limit applies **three months later**.
+
+#### **Method 3: Use of a Tank Cover**
+- The tank cover must:
+  - Fully enclose the open surface area of the tank
+  - Have a **seal** joining the cover to the tank
+  - Include a **membrane** with:
+    - Minimum surface area of **0.28 m²/kA of current**
+    - Pore openings **≤ 1 µm**
+  - Include an **evacuation device** with a **HEPA filter** (pore openings ≤ 0.1 µm)
+
+> **Application Timing:**  
+> For facilities operating on the day the regulation comes into force, the requirements apply **six months later**.
+
+---
+
+### **4. Notification Requirements**
+
+All persons subject to the regulations must submit a **notice to the Minister** indicating:
+
+- The method used to control emissions for each tank
+- **Within 30 days of the regulation coming into force**, for new facilities
+- **At least 30 days before beginning operations**, for existing facilities
+
+If a person intends to **change the method** of control or the surface tension measurement method, they must notify the Minister **at least 30 days in advance**.
+
+---
+
+### **5. Release Testing Requirements**
+
+#### **When a Release Test Must Be Conducted**
+- **Initial test** upon implementation of any of the following:
+  - Replacement of a control device
+  - Increase in tank surface area by **>25%**
+  - Installation of new tanks increasing total surface area by >25%
+  - Changes to ventilation system affecting flow/velocity (excluding isolation/removal of tanks)
+- **After initial compliance**, a new release test must be performed **every five years**
+- If a test was conducted **within 24 months before the regulation came into force**, and met certain conditions, a **five-year interval** may apply **after** the regulation takes effect.
+
+#### **Conditions for Valid Release Test**
+- Must be performed under **representative operating conditions** (average rectifier output over 30 days)
+- **No dilution air** allowed
+- Sampling consists of **three two-hour runs**, each yielding **at least 1.7 dscm** of sample
+- Sampling must be done by a **trained, qualified sampler** using a **validated method**
+- Laboratory analysis must:
+  - Be conducted by a lab accredited under **ISO/IEC 17025** or **Quebec’s Environment Quality Act (CQLR, c. Q-2)**
+  - Analyze parameters relevant to chromium
+  - Use a method with:
+    - **Detection limit ≥ 8 µg/L**
+    - **Precision ≤ 5% RSD at 10× detection limit**
+    - **Accuracy = 100% ± 5% at 10× detection limit**
+- **Average of three runs must not exceed 0.03 mg/dscm** of hexavalent or total chromium
+
+> **Notice Requirement:** A person must notify the Minister **at least 30 days in advance** of any release test.
+
+---
+
+### **6. Inspection and Maintenance Plans**
+
+#### **For Control Devices**
+- Must be inspected **every 3 months** to verify:
+  - No fractures or deformation in internal/external surfaces or control panel
+  - No leaks or damage in ductwork
+  - No blockage or buildup in filtering media
+  - No visible hexavalent chromium at exit
+- For **composite mesh pad systems**, additional tasks:
+  - Verify no buildup on mesh pads
+  - Wash mesh pads **at least twice every 8 hours**, with **≥20 minutes wash time** (or per manufacturer’s recommendation, if less frequent)
+
+#### **For Tank Covers**
+- Must be inspected and maintained according to manufacturer instructions, including:
+  - Daily pressure test to verify membrane movement outward
+  - Daily purge of air inlet to check seal integrity
+  - Weekly inspection of access doors and membrane for tears or leaks
+  - Weekly drainage of evacuation device
+  - Monthly inspection of membrane for perforations using light source
+  - Monthly inspection of clamps; replace defective ones
+  - Quarterly inspection of piping for leaks or deterioration
+  - Annual replacement of HEPA filter
+
+> **Smoke Test Requirements:**
+- Must be performed **before first use** and **every 3 months thereafter**
+- Uses a device generating **15–30 m³ of smoke per 2 m² of tank surface**
+- Smoke must fill the space under the cover
+- If smoke leaks, repairs must be made and the test repeated before use
+
+> **Timing for New Facilities:**  
+> Smoke tests must occur **within 6 months** of regulation coming into force and then every 3 months.
+
+---
+
+### **7. Defect Response and Recordkeeping**
+
+- If any defect is identified during inspection or maintenance:
+  - Operations must **cease immediately**
+  - The defect must be **corrected**
+  - The correction must be **verified before resuming operations**
+- A **detailed record** must be kept for each inspection and maintenance task, including:
+  - Date of task
+  - Description of task
+  - Date defect was identified
+  - Description of corrective action taken
+
+---
+
+### **8. Regulatory Intent and Environmental Protection**
+
+The regulations are designed to:
+- Prevent the release of **hexavalent chromium**, a known human carcinogen
+- Ensure that emissions are **measured, monitored, and controlled** through scientifically sound methods
+- Promote **best practices** in

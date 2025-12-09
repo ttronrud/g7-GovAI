@@ -1,0 +1,166 @@
+**Detailed Summary of the Radiocommunication Act Exemption Order (Jammers — Department of National Defence and Canadian Forces)**  
+*Issued: Ottawa, January 23, 2024*  
+*Under subsection 14(1)a of the Radiocommunication Act (R.S., c. R-2; S.C. 1989, c. 17, s. 2)*  
+*Statutory Citation: S.C. 2014, c. 39, s. 181*
+
+---
+
+### **Overview**
+
+This regulation, issued by the Minister of Industry, provides a legal exemption under the *Radiocommunication Act* allowing specific individuals and entities to operate, install, possess, manufacture, import, distribute, or lease **radio frequency jammers**—devices that intentionally interfere with or block radio communications—without violating the Act’s general prohibition on such activities. The exemption is strictly limited to operations deemed necessary for **national security, public safety, national defence, international relations, law enforcement, and protection of property or persons**.
+
+The Order is designed to support the operational needs of the **Department of National Defence (DND)** and the **Canadian Forces (CF)**, as well as related government and foreign military entities, while ensuring that jammer use remains **controlled, accountable, and minimally disruptive** to the broader radiocommunication environment.
+
+---
+
+## **Key Provisions and Structure**
+
+The Order is structured into two main parts:
+
+---
+
+### **Part 1: Exemptions for DND, Canadian Forces, and Related Entities (Section 2)**
+
+This section grants exemptions to the following persons or entities under subsection 4(4) and paragraph 9(1)(b) of the Radiocommunication Act:
+
+#### **1. DND and Canadian Forces Personnel**
+- **Who is covered**:  
+  - His Majesty in right of Canada, represented by the **Minister of National Defence**, and  
+  - Any **employee of DND** or **officer or non-commissioned member of the Canadian Forces** who is required in the course of their duties or training to:
+    - Install, use, possess, manufacture, import, distribute, or lease a jammer  
+    - For purposes specified in subsection (2)
+
+#### **2. Other Officers or Servants of the Crown**
+- **Who is covered**:  
+  - Any officer or servant of the Crown (under the supervision of someone in paragraph 1(a)) who is required to carry out activities involving jammers for purposes specified in subsection (2)
+
+#### **3. DND Public Works and Government Services (PWGSC) Employees**
+- **Who is covered**:  
+  - The **Minister of Public Works and Government Services** and any **employee of PWGSC** who is required to import a jammer **on behalf of DND** for a purpose specified in subsection (2)
+
+#### **4. Foreign Military Personnel in Canada**
+- **Who is covered**:  
+  - Any **member of a foreign military force** present in Canada under an international arrangement, who is required to:
+    - Install, use, possess, import, or distribute a jammer  
+    - Under the **supervision of a person in paragraph 1(a)**  
+    - For a purpose specified in subsection (3)
+
+> ✅ **Purpose of Exemption (Section 2(2))**  
+> The exemption applies for the following **authorized purposes**:
+> - National security  
+> - Public safety (including in penitentiaries and prisons)  
+> - National defence  
+> - International relations  
+> - Investigation or prosecution of offences in Canada (including preservation of evidence)  
+> - Protection of property or prevention of serious harm to any person  
+
+> ✅ **Foreign Military Purpose (Section 2(3))**  
+> For foreign military personnel, the exemption applies only for:
+> - National defence  
+> - International relations  
+> - Protection of property or prevention of serious harm to any person  
+
+---
+
+### **Part 2: Exemptions for Contractors and Bidders (Section 3)**
+
+This section grants exemptions to **contractors and bidders** involved in supplying jammers to DND.
+
+#### **Who is covered**:
+- Any **person or entity** that:
+  - Responds to a **solicitation of bids** for the provision of jammers to DND, and offers a jammer for sale; **OR**
+  - Has entered into a **contract with the Government of Canada** for the provision of jammers or related services, and:
+    - Is required to install, use, possess, manufacture, import, distribute, offer for sale, or sell a jammer  
+    - In accordance with the terms of the contract or any related subcontract  
+
+> ✅ **Purpose of Exemption (Section 3(2))**  
+> The exemption applies **only** for:
+> - National defence  
+> - International relations  
+
+> ⚠️ **Note**: Contractors are not permitted to use jammers for other purposes (e.g., public safety, law enforcement) unless explicitly authorized under a separate exemption.
+
+---
+
+## **Conditions and Requirements for Compliance**
+
+To ensure responsible and lawful use, the Order imposes several **mandatory conditions** on all exempted persons and entities.
+
+### **1. Mandatory Notification to the Minister (Section 2(1))**
+Any person or entity covered under paragraph 2(1)(a), (b), or (d) must **not operate a jammer** unless they have received a **written notice** from DND or the Canadian Forces containing:
+- Postal and email addresses, and telephone number of the **headquarters or centre of operations** responsible for jammers  
+- Titles, postal and email addresses, and telephone numbers of **individuals responsible for jammers**  
+- Titles, email addresses, and telephone numbers of **persons responsible for responding to inquiries** (including outside business hours)  
+
+> 🔁 **Update Requirement**: If any of this information changes, the DND or CF must **immediately update** the Minister.
+
+---
+
+### **2. Mandatory Training Requirement (Section 2(1))**
+- All persons covered under paragraphs 2(1)(a), (b), or (d) must:
+  - **Receive or be receiving training** in relation to **each activity** they perform involving jammers  
+  - Training must be relevant to the specific use (e.g., installation, operation, maintenance)
+
+> ⚠️ **Note**: Training is required regardless of whether the activity is conducted in a formal or informal setting.
+
+---
+
+### **3. Accessibility of Directives and Instructions**
+- **DND must ensure** that all directives, instructions, and orders related to jammer use are **reasonably accessible** to employees responsible for jammers (in paper or electronic format).  
+- **Canadian Forces must ensure** similar accessibility for officers and non-commissioned members.
+
+> 📌 Purpose: To ensure consistent, transparent, and standardized operational guidance.
+
+---
+
+### **4. Minimization of Interference and Emissions (Section 2(1))**
+All exempted persons must:
+- **Minimize jammer interference** to:
+  - The **smallest physical area**  
+  - The **fewest radio frequencies**  
+  - The **appropriate power level**  
+  - The **minimum duration** required to achieve the intended purpose  
+- **Minimize unwanted emissions** and **exposure of persons to radiofrequency (RF) fields**  
+- Ensure jammers are **capable of frequency adjustment** (i.e., can be tuned to interfere only with specific frequencies)
+
+> 🔍 This ensures that jammer use does not cause unintended disruption to civilian or commercial radio services.
+
+---
+
+### **5. Access and Security Controls (Section 2(1))**
+- Jammers must be:
+  - **Accessible only to persons exempted under this Order** or to contractors exempted under paragraph 3(1)(b)  
+  - **Turned off and stored securely** when not in use, including during transport  
+
+> 🔒 This prevents unauthorized access or misuse.
+
+---
+
+### **6. Recordkeeping Requirements (Section 2(1))**
+The **Department of National Defence** (or Canadian Forces) must maintain a **detailed record** of every jammer use by exempted personnel or entities. Records must include:
+- **Place, date, and (if possible) time** of use  
+- **Radio frequencies interfered with or obstructed**  
+- **Purpose** of use (as specified in paragraphs 2(2)(a) to (f))  
+
+> 📂 These records are critical for accountability, audits, and potential regulatory or legal review.
+
+---
+
+### **7. Restricted Use by Contractors (Section 3(1)(b))**
+A person or entity under paragraph 3(1)(b) (i.e., a contractor) may **only use a jammer** under the following conditions:
+- The use is **under the direct supervision** of a person referred to in paragraph 2(1)(a) (e.g., a DND officer)  
+- The purpose is one of:
+  - Testing the jammer’s functionality  
+  - Performing maintenance on the jammer  
+  - Providing training to DND or CF personnel  
+
+> ❌ **No other use is permitted** (e.g., testing on civilian networks, unauthorized interference).
+
+---
+
+## **Duration and Termination**
+
+- **Effective Date**: The Order comes into force on the day it is **registered** (i.e., published in the Canada Gazette).  
+- **Expiry Date**: The Order **ceases to have effect on the fifth anniversary** of the day it comes into force.
+
+> 📅 Example: If registered on January 23, 2024, the Order expires on **January 23, 2029

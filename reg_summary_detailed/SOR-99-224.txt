@@ -1,0 +1,170 @@
+**Detailed Summary of the *Interest Payable on Certain Deposits By-law* (Canada Deposit Insurance Corporation – CDBC)**  
+*Issued by the Board of Directors, May 18, 1999*  
+*Under paragraph 11(2)(g)a and subsection 14(2.51)b of the Canada Deposit Insurance Corporation Act (CDI Act)*  
+*Reference: R.S., c. 18 (3rd Supp.), s. 51; S.C. 1997, c. 15, s. 112*
+
+---
+
+### **1. Purpose and Scope of the By-law**
+
+This by-law establishes the rules for calculating and determining interest payable on certain deposits held at member financial institutions of the Canada Deposit Insurance Corporation (CDIC), specifically those referenced in **subsection 14(2.51)** of the CDI Act.
+
+It applies only to deposits that are subject to interest calculation under the terms of a deposit contract and are covered under the CDIC’s insurance framework. The by-law does **not** apply to all deposits, only those where interest is tied to variable indices or reference points.
+
+---
+
+### **2. Key Definitions**
+
+- **Act**: Refers to the *Canada Deposit Insurance Corporation Act* (CDI Act), which provides the legal foundation for CDIC’s operations and regulatory powers.
+  
+- **Interest Termination Date**: This is a critical date that varies depending on the type of interest involved:
+  - For interest under **subsection 14(2.3)** of the Act (interest payable during winding-up): the date when the winding-up of the member institution begins.
+  - For interest under **paragraph 14(2.5)(a)** (interest paid by the CDIC): the date on which the CDIC makes the payment.
+  - For interest under **paragraph 14(2.5)(b)** (interest payable upon winding-up): the date when the winding-up process commences.
+
+> The interest termination date marks the cutoff point after which interest calculations are adjusted or terminated.
+
+---
+
+### **3. Application of the By-law**
+
+The by-law applies **only to deposits** that fall under **subsection 14(2.51)** of the CDI Act. This typically includes certain types of time deposits, fixed-term deposits, or other interest-bearing accounts where interest is linked to market indices or reference rates.
+
+---
+
+### **4. Prescribed Variable Indexes and Reference Points**
+
+The by-law **prescribes specific variable indexes and reference points** that can be used to determine interest rates under paragraph 14(2.51)(d) of the Act. These are standardized benchmarks (e.g., the Bank of Canada’s benchmark interest rates, or other market-based indices) that ensure consistency and transparency in interest calculations when the contract references such indices.
+
+> This provision ensures that even if a contract references a particular index, the CDIC can verify and apply the correct, legally recognized benchmark.
+
+---
+
+### **5. Methodology for Calculating Interest After the Interest Termination Date**
+
+When a deposit contract extends beyond the interest termination date and not all necessary data is available by that date, interest is calculated using specific formulas based on the structure of the deposit contract.
+
+#### **Case 1: No Periodic Interest Calculations**
+
+If the contract does **not** specify periodic interest payments (e.g., no monthly or quarterly interest), interest is calculated using the following formula:
+
+\[
+\text{Interest} = P \times \left( \frac{R}{365} \right) \times D
+\]
+
+Where:
+- \( P \) = Principal amount of the deposit  
+- \( R \) = Interest rate determined by reference to:
+  - The **change** in an index/reference point between the **first day of the term** and the **interest termination date** (if based on change), or  
+  - The **value** of the index/reference point on the **interest termination date** (if based on value)
+- \( D \) = Number of days elapsed in the term of the contract as of the interest termination date  
+- \( T \) = Total number of days in the term of the contract  
+
+> This formula assumes a simple interest calculation over the elapsed period.
+
+---
+
+#### **Case 2: Periodic Interest Calculations – Interest Termination Date Before First Payment Date**
+
+If the contract specifies periodic interest payments (e.g., quarterly), but the **interest termination date occurs before the first interest calculation date**, interest is calculated using:
+
+\[
+\text{Interest} = P \times \left( \frac{R}{365} \right) \times D
+\]
+
+Where:
+- \( D \) = Number of days from the start of the term to the interest termination date  
+- \( R \) and \( D \) are defined as above  
+- The rate \( R \) is based on the change or value of the index as described
+
+> In this scenario, the interest is prorated based on the time elapsed until the termination date.
+
+---
+
+#### **Case 3: Periodic Interest Calculations – Interest Termination Date on or After First Payment Date**
+
+If the interest termination date occurs **on or after** the first interest calculation date, then the total interest is the **sum of two components**:
+
+1. **Accrued but unpaid interest** (that was due under the contract but not paid before the termination date)
+2. **Additional interest** calculated from the **last interest calculation date** to the **interest termination date**, using the formula:
+
+\[
+\text{Interest} = P \times \left( \frac{R}{365} \right) \times d
+\]
+
+Where:
+- \( P \) = Principal amount as of the **preceding interest calculation date**
+- \( R \) = As defined (based on change or value of index)
+- \( d \) = Number of days from the **last interest calculation date** to the **interest termination date**
+- The total term \( T \) is the number of days from the last interest calculation date to the next one
+
+> This ensures that interest is calculated incrementally, aligning with the contractual payment schedule.
+
+---
+
+### **6. Limitations on Interest Calculation**
+
+- **No interest if minimum interest exceeds calculated amount**:  
+  If the deposit contract provides for a **minimum interest rate** that is **higher** than what would be calculated under the by-law, then that higher amount **shall not be applied**. The interest is capped at the amount calculated under the by-law.
+
+- **No interest if maximum interest is lower than calculated amount**:  
+  If the contract provides a **maximum interest rate** that is **lower** than what would be calculated under the by-law, then that lower amount **shall not apply** — the interest is calculated at the full amount permitted by the by-law.
+
+> This protects the depositor from being underpaid due to contractual caps or floor clauses that are inconsistent with the by-law.
+
+---
+
+### **7. Exclusion of Penalty Provisions**
+
+The by-law explicitly **excludes any provision in the deposit contract** that would reduce interest in the case of early withdrawal (e.g., penalties or forfeiture clauses).  
+- Interest is calculated **without regard** to any penalty clauses.
+- This ensures that even if a depositor withdraws early, the interest is still determined based on the by-law’s fair and transparent methodology — not reduced due to contractual penalties.
+
+---
+
+### **8. Conditions for No Interest to be Paid**
+
+Interest shall **not be payable** in the following situations:
+
+1. **Index or reference point has not existed** by the interest termination date, **and**  
+   - The contract does **not** provide for an **alternative index** to be used in its place.
+
+2. **Index or reference point no longer exists** on the interest termination date, **and**  
+   - The contract does **not** provide for an **alternative index**, **and**  
+   - Not all necessary information is available by the interest termination date.
+
+> This prevents the CDIC from paying interest on a deposit if the referenced index is invalid or unavailable, and the contract fails to provide a fallback.
+
+---
+
+### **9. Effective Date**
+
+This by-law **comes into force on the day it is registered** with the appropriate government authority (e.g., the Minister of Finance or the Registrar of the CDI Act).
+
+---
+
+### **Key Principles and Objectives**
+
+| Principle | Explanation |
+|--------|-------------|
+| **Transparency** | Uses clearly defined formulas and reference points to ensure predictable and fair interest calculations. |
+| **Fairness** | Prevents underpayment due to minimum or maximum interest clauses in contracts. |
+| **Consistency** | Applies standardized rules regardless of the financial institution, promoting uniformity across the CDIC-insured sector. |
+| **Accountability** | Requires the use of actual, measurable indices and avoids speculative or unverifiable benchmarks. |
+| **Risk Mitigation** | Prevents interest payments in cases where market references no longer exist or are unattainable. |
+
+---
+
+### **Practical Implications for Depositors and Institutions**
+
+- **Depositors**: Can expect interest to be calculated fairly and transparently based on the original contract terms and market benchmarks, even after a financial institution’s failure or winding-up.
+- **Member Institutions**: Must ensure their deposit contracts clearly specify:
+  - The index or reference point used
+  - The method of interest calculation (periodic vs. non-periodic)
+  - Whether a fallback index is provided if the original index is unavailable
+
+---
+
+### **Conclusion**
+
+The *Interest Payable on Certain Deposits By-law* provides a **clear, structured, and legally enforceable framework** for determining interest on deposits when a financial institution is in the process of winding up or when the CDIC is paying interest. It

@@ -1,0 +1,155 @@
+### **Detailed Summary of the National Energy Board Processing Plant Regulations (2002)**
+
+The **National Energy Board (NEB) Processing Plant Regulations**, adopted on **December 20, 2002**, pursuant to **subsection 48(2) of the Canadian Energy Regulator Act (Act)**, establish comprehensive safety, environmental, operational, and compliance standards for **hydrocarbon processing plants** in Canada. These regulations were developed to ensure the safe and environmentally responsible design, construction, operation, maintenance, and eventual decommissioning of processing facilities that fall within the definition of a "pipeline" under the Act.
+
+These regulations **do not apply** to:
+- Well-site facilities  
+- Field facilities  
+
+They specifically govern **processing plants** — defined as facilities used for processing, extraction, or conversion of fluids, including compressors and related structures located within the plant boundaries.
+
+---
+
+## **Key Definitions and Scope**
+
+| Term | Definition |
+|------|-----------|
+| **Processing Plant** | A facility used for processing, extracting, or converting fluids, including compressors and structures integral to fluid transportation. |
+| **Pressure Vessel** | A vessel designed to contain fluids at internal pressures exceeding 103 kPa (non-water service) or 610 mm (water service), with internal volume >42.5 L and diameter >152 mm (non-water) or >610 mm (water). |
+| **Pressure Piping** | An assembly of pipes, valves, fittings, pumps, compressors, and safety devices designed to transport fluids and connected to a boiler or pressure vessel. |
+| **Environment** | Includes air, land, water, living organisms, and all interacting natural systems. |
+| **Incident** | An occurrence that results or could result in significant adverse effects on property, environment, or human safety. |
+| **Abandon** | Permanent cessation of operations resulting in discontinuance of service. |
+| **Decommission** | Permanent cessation without discontinuance of service. |
+| **Deactivate** | Temporary removal from service. |
+| **Release** | Includes discharge, spill, leak, seep, pour, emit, dump, or exhaust. |
+| **Operate** | Includes repair, maintain, deactivate, reactivate, and decommission. |
+
+> These definitions are foundational to interpreting the regulatory obligations.
+
+---
+
+## **Applicability and Jurisdiction**
+
+- Applies to **hydrocarbon processing plants** that fall under the definition of "pipeline" in the **Canadian Energy Regulator Act**.
+- Does **not apply** to well sites or field facilities.
+- Applies to **all phases** of a processing plant’s lifecycle: design, construction, operation, maintenance, deactivation, reactivation, and decommissioning.
+
+---
+
+## **Core Regulatory Obligations**
+
+### 1. **Compliance with Design, Construction, Operation, and Abandonment Standards**
+A company must ensure that its processing plant is designed, constructed, operated, or abandoned in full compliance with:
+- These Regulations
+- The **Canada Occupational Health and Safety Regulations (COHSR)**
+
+> **If there is a conflict**, the **COHSR prevails** to the extent of inconsistency.
+
+### 2. **Internal Design and Planning Requirements**
+- Companies must develop and submit to the Regulator:
+  - A **design program** for pressure vessels and pressure piping (this provision was **repealed in 2013** under SOR/2013-17, s.5)
+  - A **quality control and quality assurance (QC/QA) program** covering all aspects of the plant lifecycle
+  - A **risk analysis** to determine spatial separation between ignition sources and flammable vapour sources
+  - A **construction safety manual** (to be submitted and kept accessible at the site)
+  - **Operations manuals** (to be regularly reviewed and updated)
+  - An **emergency procedures manual** (to be submitted before initial operations and updated when required)
+  - A **safe-work permit system** to manage all work activities at the plant
+  - A **training program** for employees and visitors
+  - A **processing plant integrity program** to monitor and mitigate hazards
+
+### 3. **Safety and Environmental Protection Programs**
+- **Safety Program**: To anticipate, prevent, manage, and mitigate dangerous conditions during construction, operations, and emergencies.
+- **Environmental Protection Program**: To anticipate, prevent, manage, and mitigate conditions that could significantly harm the environment.
+
+### 4. **Employee Training and Competency**
+- Employees must receive appropriate **knowledge and training** for their assigned tasks.
+- All **visitors** must be made familiar with safety procedures before entry.
+- Training must cover:
+  - Daily operational safety procedures
+  - Responsible environmental practices
+  - Proper operation of equipment
+  - Emergency procedures and use of emergency equipment
+
+### 5. **Contractor Management and Oversight**
+When contracting out work:
+- Contractors must be fully informed of:
+  - Site-specific conditions and features
+  - Special safety practices and procedures
+- The company must ensure that construction, operation, or abandonment activities follow approved manuals (developed under sections 27 and 30).
+- The company must **authorize a qualified person** to halt work if:
+  - It is not being conducted in accordance with manuals
+  - A hazard to personnel exists
+- This authorized person must have **sufficient expertise, knowledge, and training** to perform the duty competently.
+
+### 6. **Design and Equipment Requirements**
+- **Detailed designs** of the processing plant must be developed, implemented, and maintained.
+- **Emergency power sources** must be available.
+- All **fluid storage tanks, bulbs, spheres, or containers** (excluding fresh water) must be designed to:
+  - Contain fluids
+  - Minimize risks to safety and the environment in case of unintentional release
+- **Ignition sources** must not be located in the same building as flammable vapour sources unless:
+  - Air intake flues are outside areas where gas is likely to be present
+  - Flammable vapours are safely vented to a flare header or environmentally safe location
+  - A specific risk analysis confirms the installation of active, reactive, or passive safety devices
+  - The building is cross-ventilated
+- All **process vessels and equipment** releasing flammable or toxic substances must be **safely vented** to flare headers or safe discharge points.
+- **Flare headers** must have mechanisms to prevent flame from entering connected piping or vessels.
+- **Fire suppression systems** must be reliable and appropriate to the fire risk posed by hydrocarbon storage or processing buildings.
+- The plant must be equipped with detection systems for:
+  - Explosive and flammable gases
+  - Toxic or noxious gases
+  - Fire, combustion products, or temperature rise
+- **Alarm devices** must:
+  - Be audible or visible from all locations in the plant
+  - Provide timely warnings to allow safe evacuation or response
+
+### 7. **Pressure Systems and Testing**
+- All **pressure-relief piping and systems** must be designed and constructed so that emergency releases do not:
+  - Cause property damage
+  - Harm the environment
+  - Create a hazard to persons
+- **Pressure tests** must be conducted under direct supervision of the company or its independent agent.
+- The **agent or mandatary** supervising the test must be **independent** of any contractor involved in fabrication or testing.
+- A **record of the test** must be prepared, dated, and signed by the supervisor.
+- **Non-destructive examination (NDE)** of welded joints is mandatory:
+  - All piping welds must undergo mandatory NDE (unless justified by documented risk analysis)
+  - Visual inspection alone is **not acceptable**
+  - Any proposed NDE program or modification must be submitted to the Regulator for review and approval before implementation
+
+### 8. **Construction and Maintenance Safety**
+- During construction:
+  - Activities must not create hazards greater than those normally associated with similar activities in Canada
+  - Workers must be informed of safety and environmental practices
+  - Workers must be made aware of increased risks during final construction, testing, and acceptance phases
+- **Maintenance activities** must not create hazards or environmental damage beyond typical industry standards
+- Workers must be informed of safety procedures and environmental protection practices
+
+### 9. **Emergency Preparedness and Response**
+- A **comprehensive emergency procedures manual** must be:
+  - Developed and implemented
+  - Reviewed and updated regularly
+  - Submitted to the Regulator **before initial operations**
+  - Updated and resubmitted as needed
+- The company must establish **liaison with emergency agencies** (e.g., police, fire, medical services) and consult them in developing and updating emergency plans
+- All relevant emergency personnel must be informed of:
+  - Plant location
+  - Potential emergency scenarios
+  - Safety procedures
+- The company must:
+  - Maintain communication facilities for both normal operations and emergencies
+  - Retain data (as per record retention program) for incident analysis
+  - Clearly mark emergency shutdown valves (open/closed positions)
+  - Post emergency contact numbers and hazard warnings along plant boundaries
+
+### 10. **Hazard Detection and Monitoring**
+- All **hazard-detection devices** (e.g., gas sensors, fire alarms) must be:
+  - Operated during regular maintenance to verify functionality
+  - Tested, repaired, and replaced with documentation retained per the record retention program
+- Any bypassing or inactivation of hazard detection or shutdown devices is **prohibited**, unless equivalent safety measures are in place.
+
+### 11. **Integrity and Monitoring Programs**
+- A **processing plant integrity program** must be established to:
+  - Monitor processes and components
+  - Identify and mitigate identifiable hazards
+  - Include management, record-keeping, and methodology

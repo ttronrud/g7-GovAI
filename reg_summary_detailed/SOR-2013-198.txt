@@ -1,0 +1,147 @@
+Certainly. Below is a **detailed, comprehensive summary** of the provided regulation — the **Motor Vehicle Tire Safety Regulations** — in clear, structured language, organized by key components and purpose. This summary is based on the text you provided, which appears to be a version of the Canadian *Motor Vehicle Tire Safety Regulations* as amended and in force as of 2012 (with some repeals noted).
+
+---
+
+## 📚 **Detailed Summary of the Motor Vehicle Tire Safety Regulations**
+
+### 🔹 **Legal Basis and Enactment**
+- These regulations were enacted under **subsection 11(3)** of the **Motor Vehicle Safety Act (MVSA)**.
+- A proposed version was published in the *Canada Gazette, Part I*, on **February 11, 2012**, giving interested parties a reasonable opportunity to submit written representations to the Minister of Transport.
+- Based on that consultation, **His Excellency the Governor General in Council**, acting on the recommendation of the Minister of Transport, officially adopted the regulations under:
+  - Subsection **3(2)** of the MVSA
+  - Sections **4 and 5b**
+  - Subsection **7(1)**
+  - Section **10**
+  - Subsection **11(1)** of the MVSA
+
+> ✅ This means the regulations are legally binding and enforceable under federal motor vehicle safety law.
+
+---
+
+## 🔍 **Key Definitions and Terminology**
+
+The following terms are defined and used throughout the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Motor Vehicle Safety Act* |
+| **Bead** | Steel-wire reinforced portion of the tire that fits onto the rim |
+| **Bias Ply Tire** | Tire with cords laid at angles less than 90° to the tread centerline (diagonal construction) |
+| **CMVSS** | Canada Motor Vehicle Safety Standard |
+| **FI Tire** | Tire designed only for farm implements occasionally driven on roads |
+| **Load Rating** | Maximum load a tire can carry at a given inflation pressure |
+| **Maximum Load Rating** | Load rating at the tire’s maximum permissible inflation pressure |
+| **Maximum Permissible Inflation Pressure** | Highest cold pressure to which a tire may be safely inflated |
+| **Ply** | Layer of rubber-coated parallel cords |
+| **Radial Ply Tire** | Tire with cords laid at approximately 90° to the tread centerline |
+| **Rim** | Support structure on which the tire beads sit |
+| **Sidewall** | Part of the tire between the tread and the bead |
+| **ST Tire** | Tire designed exclusively for use on trailers |
+| **Tread** | Part of the tire that contacts the road |
+| **TSD 109** | Technical Standards Document No. 109: New Tires and Specialty Tires (amended) |
+| **TSD 119** | Technical Standards Document No. 119: Tires for vehicles with GVWR >4,536 kg and motorcycles |
+| **TSD 139** | Technical Standards Document No. 139: Radial tires for vehicles with GVWR ≤4,536 kg |
+| **T-type Temporary-Use Spare Tire** | Spare tire designed for higher inflation pressures than standard/reinforced tires |
+
+> ⚠️ **Note**: All terms used in TSD 109, 119, or 139 that are not defined in those documents but are defined elsewhere in the regulations take on the meaning from the other standard.
+
+---
+
+## 🚗 **Classes of Tires Prescribed Under the Act**
+
+Tires are classified into specific categories that must meet safety standards under **Sections 4 and 5** of the MVSA. Each class must comply with relevant **Technical Standards Documents (TSDs)** and **Section 6**.
+
+---
+
+### 🔹 Class 1: Tires Prescribed Under Subsection 3(1)
+These tires **must conform to TSD 109 and Section 6**:
+- Radial ply tires designed for **passenger cars manufactured before January 1, 1975**
+- Bias ply tires
+- T-type temporary-use spare tires
+
+> 📌 **Note**: These are older or specialized tires with specific safety requirements.
+
+---
+
+### 🔹 Class 2: Tires Prescribed Under Subsection 4(1)
+These tires **must conform to TSD 119 and Section 6**:
+- Tires for **motor vehicles with GVWR >4,536 kg**
+- Tires for **motorcycles**
+- **Light-truck tires** with tread depth ≥1.43 cm used on vehicles with GVWR ≤4,536 kg
+- **ST tires** (trailers)
+- **FI tires** (farm implements)
+- Tires with **rim diameter code 12 or lower**
+
+> 📌 **Important**: The table in **Table III of TSD 119** has been replaced by a new version in this regulation.
+
+> ⚠️ *Note: Sections 4.3(b) and 4.3(c) of TSD 109 have been updated to require:*
+> - Maximum permissible inflation pressure to be expressed in **kilopascals (kPa)**, and optionally in **psi**
+> - Maximum load rating to be expressed in **kilograms (kg)**, and optionally in **pounds (lbs)**
+
+---
+
+### 🔹 Class 3: Tires Prescribed Under Subsection 5(1)
+These tires **must conform to TSD 139 and Section 6**:
+- Radial ply tires for **motor vehicles with GVWR ≤4,536 kg**, manufactured **on or after January 1, 1975**
+
+> 📌 This class covers modern radial tires and is subject to **winter tire requirements**.
+
+---
+
+## ❄️ **Winter Tire Requirements (TSD 139 – Section 5.5)**
+
+A tire qualifies as a **winter tire** if it meets **either** of the following:
+
+1. **Snow Traction Test (ASTM F1805 - 06)**:
+   - Tested under medium pack snow
+   - Test load = 74% of the inflation-rated load
+   - Must achieve a **traction index ≥110** compared to a standard reference tire (ASTM E1136 - 10)
+
+2. **Snow Traction Test (ASTM F1805 - 20)**:
+   - Must achieve a **traction index ≥112** compared to a reference tire (ASTM F2493)
+   - Reference tire must be in effect within the last two years
+
+✅ **Additional Requirement**:
+- The tire must be **marked with the Alpine Symbol** (as specified in Section 5.5(i) of TSD 139) on **at least one sidewall**
+
+> ⚠️ *Note: This requirement was repealed by SOR/2014-307, s. 35 — meaning it is no longer in effect.*  
+> ❌ **Conclusion**: The winter tire definition and marking requirement are **repealed** and **no longer applicable**.
+
+---
+
+## 🔤 **Tire Identification Number (TIN) Requirements**
+
+Every tire of a prescribed class must have a **tire identification number (TIN)** on one or more sidewalls.
+
+### ✅ For Class 1 & 2 (TSD 109/119):
+- TIN must be **permanently molded** into or onto the tire
+- Must be located in accordance with **Figures 2 and 3 of Schedule 1**
+- Depth/height: **between 0.5 mm and 1 mm** from the surrounding surface
+
+### ✅ For Class 3 (TSD 139):
+- TIN on **one sidewall**
+- **Additional TIN or partial TIN** on the **other sidewall**
+
+> 🔍 **Format of TIN**:
+> - **Manufacturer code**: 2 or 3 symbols (approved by Canadian Minister or U.S. NHTSA)
+> - **Size designation**: 2 symbols
+> - **Date of manufacture**:
+>   - First two digits = week of manufacture (e.g., "01" = first week of year)
+>   - Last two digits = last two digits of the year (e.g., "20" = year 2020)
+
+> 📌 Optional additions (manufacturer’s choice):
+> - Up to 4 symbols identifying:
+>   - Brand owner (if applicable)
+>   - Main characteristics of the tire (e.g., performance, tread pattern)
+
+> ✅ **Alternative Option**:
+> - Instead of molding, the symbols may be **permanently laser-etched** into the tire within the same location and depth requirements.
+
+> 📌 **U.S. Federal Regulation Reference**:
+> - Manufacturers may use the **U.S. DOT-style TIN format** (Option 1 or 2 in Figure 1 of 49 CFR §574.5, Chapter V) — provided it is applied in the correct location and size.
+> - However, **retreaded tire requirements** under U.S. regulations **do not apply** in Canada.
+
+> ✅ **National Safety Mark**:
+> - The symbol in **Figure 1 of Schedule 1** is the **official national safety mark**.
+> - It must be reproduced with a **minimum height** as specified in **Figure 3 of Schedule 1**.
+> - Must be permanently

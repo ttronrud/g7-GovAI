@@ -1,0 +1,138 @@
+**Detailed Summary of the Regulation: "Regulations Specifying Publicly Available Information"**  
+*Under the Personal Information Protection and Electronic Documents Act (PIPEDA)*  
+*Published in S.C. 2000, c. 5*  
+*Coming into force: January 1, 2001*
+
+---
+
+### **Overview**
+
+This regulation, made by Her Excellency the Governor General in Council on the recommendation of the Minister of Industry, under paragraph 26(1)(a.1) of the *Personal Information Protection and Electronic Documents Act (PIPEDA)*, establishes specific categories of personal information that are considered **"publicly available"** and therefore **exempt from the full scope of PIPEDA’s privacy protections**.
+
+The purpose of these regulations is to clarify when personal information may be shared or used without requiring consent, because it has already been made publicly accessible through official or legitimate sources. This helps balance individual privacy rights with public access to information that is lawfully and transparently available.
+
+---
+
+### **Key Provisions and Categories of Publicly Available Personal Information**
+
+The regulation identifies five distinct categories of personal information that are considered publicly available under PIPEDA. For each category, specific conditions must be met to qualify as "publicly available."
+
+---
+
+#### **1. Information in a Publicly Available Telephone Directory (with Opt-Out Right)**
+
+- **Information Included**: Name, address, and telephone number of a subscriber.
+- **Condition for Public Availability**:
+  - The subscriber must have the **right to refuse** having their personal information included in the directory.
+- **Implication**:
+  - If a person has opted out (e.g., by requesting removal), their information is not considered publicly available.
+  - If the information appears in a directory where individuals can opt out, it is deemed publicly available **only when the individual has not exercised that right**.
+- **Legal Basis**: Paragraph 7(1)(d), (2)(c.1), and (3)(h.1) of PIPEDA.
+
+> ✅ Example: A person who has requested to be removed from a phone directory — their name, address, and phone number are **not** publicly available under this rule.
+
+---
+
+#### **2. Information in a Professional or Business Directory (with Purpose-Based Use)**
+
+- **Information Included**: Name, title, address, and telephone number of an individual.
+- **Condition for Public Availability**:
+  - The collection, use, and disclosure of the information must **relate directly** to the purpose for which it appears in the directory, listing, or notice.
+- **Implication**:
+  - The information is considered publicly available **only if** it is used in a way directly connected to the directory’s purpose (e.g., business listings, professional services).
+  - If the information is used for unrelated purposes (e.g., marketing without a clear link to the listing), it does not qualify.
+- **Legal Basis**: Paragraphs 7(1)(d), (2)(c.1), and (3)(h.1) of PIPEDA.
+
+> ✅ Example: A dentist’s name, title, address, and phone number in a medical directory — publicly available because the listing serves the purpose of connecting patients with healthcare providers.
+
+> ❌ Example: A business listing in a directory being used to send unsolicited promotional mail unrelated to the service offered — not considered publicly available.
+
+---
+
+#### **3. Information in a Statutory Registry with Public Access Rights**
+
+- **Information Included**: Personal information collected under a statutory authority.
+- **Condition for Public Availability**:
+  - The registry must be **authorized by law** to allow public access.
+  - The collection, use, and disclosure of the information must **relate directly** to the purpose for which it appears in the registry.
+- **Implication**:
+  - Examples include government-issued registries such as:
+    - Property registries
+    - Business registration databases
+    - Voter registration lists
+    - Driver’s license or vehicle ownership records
+  - Public access is legally mandated, and the information is considered publicly available only when used in connection with the registry’s official purpose.
+- **Legal Basis**: Paragraphs 7(1)(d), (2)(c.1), and (3)(h.1) of PIPEDA.
+
+> ✅ Example: A business owner’s registration details in the provincial business registry — publicly available because the registry is authorized by law and the information supports regulatory oversight.
+
+---
+
+#### **4. Information in Judicial or Quasi-Judicial Records (Publicly Accessible)**
+
+- **Information Included**: Personal information found in records or documents of judicial or quasi-judicial bodies.
+- **Condition for Public Availability**:
+  - The record must be **available to the public**.
+  - The use or disclosure must **relate directly** to the purpose for which the information appears in the record or document.
+- **Implication**:
+  - Includes court records, administrative decisions, licensing decisions, or tribunal findings.
+  - Public access is a fundamental principle in democratic governance.
+  - The information is considered publicly available **only when used in a way directly tied to the original judicial or quasi-judicial function**.
+- **Legal Basis**: Paragraphs 7(1)(d), (2)(c.1), and (3)(h.1) of PIPEDA.
+
+> ✅ Example: A court judgment listing a defendant’s name and address — publicly available because it serves the purpose of judicial transparency.
+
+> ❌ Example: A court record being used for commercial profiling or private surveillance — not considered publicly available.
+
+---
+
+#### **5. Information in Publicly Available Publications (with Individual Consent)**
+
+- **Information Included**: Personal information published in magazines, books, or newspapers (in printed or electronic form).
+- **Condition for Public Availability**:
+  - The individual must have **provided the information voluntarily**.
+- **Implication**:
+  - The information is considered publicly available **only if** the individual explicitly consented to its publication.
+  - This provision protects individuals from having their personal details published without their knowledge or agreement.
+  - If information is published without consent (e.g., in a scandalous article), it is not considered publicly available under this regulation.
+- **Legal Basis**: Paragraphs 7(1)(d), (2)(c.1), and (3)(h.1) of PIPEDA.
+
+> ✅ Example: A person who voluntarily submits their name and address to a magazine for inclusion in a feature article — their information is publicly available.
+
+> ❌ Example: A journalist publishing someone’s name and address without their consent — not considered publicly available under this regulation.
+
+---
+
+### **Purpose of the Regulation**
+
+- To **clarify exceptions** to PIPEDA’s general requirement that personal information must be collected, used, and disclosed in a fair and transparent manner with consent.
+- To **ensure public access** to information that is lawfully accessible and used for legitimate, transparent purposes.
+- To **protect individuals** from misuse of their personal information in public records or media when such information was not voluntarily shared or when access is not legally authorized.
+
+---
+
+### **Limitations and Boundaries**
+
+- The regulation **does not apply** to all personal information in public directories or publications.
+- It **only applies** when the information meets the specified conditions (e.g., opt-out rights, purpose-based use, legal access, individual consent).
+- The **use of the information must be directly related** to the purpose for which it appears in the source (e.g., directory, registry, publication).
+- The regulation **does not eliminate privacy obligations** — it only defines when information is exempt from certain PIPEDA requirements (such as consent or notice).
+
+---
+
+### **Effective Date**
+
+- These regulations **come into force on January 1, 2001**.
+
+---
+
+### **Conclusion**
+
+This regulation provides a clear, legally grounded framework for identifying when personal information is considered "publicly available" under PIPEDA. It ensures that individuals are not unfairly exposed to privacy risks when their data is lawfully and transparently accessible through public directories, government records, or publications — provided the information was shared with proper consent or through a legally authorized process.
+
+It serves as a critical tool for organizations and government bodies to operate within the bounds of privacy laws while supporting transparency, accountability, and public access to information.
+
+---
+
+**Key Takeaway**:  
+> Personal information is not automatically public. It is only considered publicly available under specific, legally defined conditions — including opt-out rights, purpose-based use, statutory access, judicial transparency, or individual consent. This protects privacy while enabling lawful public access.

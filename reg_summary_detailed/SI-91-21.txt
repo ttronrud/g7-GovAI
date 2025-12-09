@@ -1,0 +1,131 @@
+**Detailed Summary of the *Railway Track Scales for In-Motion Weighing Specifications***  
+*Issued by the Minister of Consumer and Corporate Affairs, January 28, 1991 (SOR/78-792, 1978 Canada Gazette Part II, p. 3894)*
+
+---
+
+### **Overview**
+
+The *Railway Track Scales for In-Motion Weighing Specifications* are a set of regulatory requirements established under the **Weights and Measures Act** and the **Weights and Measures Regulations, C.R.C., c. 1605**, specifically under **paragraph 10(1)(i)** of the Act and **sections 13* and 27*** of the Regulations. These specifications govern the **design, composition, construction, performance, installation, and use** of **electronic railway track scales** used for **in-motion weighing of railway cars**.
+
+These specifications ensure that such scales provide accurate, reliable, and traceable weight measurements in commercial trade, while protecting against errors, fraud, and unsafe operations. The regulations apply to **all electronic track scales intended for use in trade** for in-motion weighing of railway cars.
+
+---
+
+### **Key Definitions Used in the Specifications**
+
+To ensure clarity and consistency, the following terms are defined:
+
+- **Act**: The *Weights and Measures Act*  
+- **Actual tare**: The actual weight of an empty railway car determined by in-motion weighing (as opposed to a marked or "stencilled" tare).  
+- **Double weighing**: Weighing a railway car in two phases (e.g., before and after coupling) on the same track scale, with results automatically summed to give total weight.  
+- **Dynamic adjustment**: Electronic adjustments made to compensate for dynamic forces (e.g., vibration, acceleration) during in-motion weighing.  
+- **In-motion weighing (or weighing)**: The process of measuring the weight of a railway car while it is moving over the load-receiving element of the scale.  
+- **Registration**: A displayed or printed weight value.  
+- **Rollback**: A reversal in direction of a railway car during the weighing process.  
+- **Single weighing**: Weighing a railway car while it is fully supported by the scale.  
+- **Stencilled tare**: The empty weight of a railway car marked on the car itself (e.g., with paint or stickers).  
+- **Track scale**: An electronic weighing machine designed for in-trade in-motion weighing of railway cars.  
+- **Wheel detector**: A sensor (e.g., photoelectric cell) that detects the motion of a railway car to initiate and monitor the weighing sequence and detect malfunctions.
+
+All other terms have the same meaning as in **Part V of the Weights and Measures Regulations**.
+
+---
+
+### **Core Requirements and Functional Provisions**
+
+#### **1. Wheel Detectors – Essential for Safe and Accurate Operation**
+- Must be installed to:
+  - Initiate logic sequences to determine **train velocity** and **axle configuration**.
+  - Monitor and detect **false logic or malfunctions** that could compromise weighing accuracy or safety.
+- If a malfunction is detected, the track scale must **automatically become inoperable** to prevent erroneous readings.
+
+#### **2. Operating Modes: Static and Dynamic**
+- The scale must have **two distinct operating modes**:
+  - **Static mode**: For stationary or non-moving loads (e.g., when cars are being weighed in a fixed position).
+  - **Dynamic mode**: For in-motion weighing of moving railway cars.
+- The scale must **indicate which mode is currently active** to the operator.
+- **Dynamic adjustment must not affect static mode settings** — adjustments in one mode must not interfere with the other.
+
+#### **3. Adjustment Mechanisms – Sealable and Limited**
+- Coarse zero and span adjustments (used to calibrate the scale) must be **sealable** in both static and dynamic modes to prevent unauthorized or tampering changes.
+- Dynamic adjustment range is strictly limited to **no more than 0.25% of the scale’s total capacity** to ensure precision and prevent over-correction.
+
+#### **4. Weight Registration Precision**
+- In static mode, weight registrations must have a **minimum increment of 10 kg or less** to ensure sufficient resolution for commercial trade.
+
+#### **5. Use Beyond Authorized Purpose**
+- If a track scale is used **outside the authorized scope** (as approved under section 3 of the Act or certified under section 19), the registration must be accompanied by a **clear statement indicating it is not for trade use**.
+
+#### **6. Printer Requirements (if equipped)**
+- **Prevention of Unauthorized Keyboard Entries**:
+  - Must prevent keyboard input from altering or overwriting weight data during in-motion weighing.
+  - Every keyboard entry must be **marked as such** (e.g., “keyboard entry”) to ensure transparency and auditability.
+- **Operating Mode Indication**:
+  - When used for non-in-motion purposes (e.g., static weighing), the printer must clearly indicate the **operating mode**.
+- **Printed Record Must Include**:
+  - Date and time of entry.
+  - Identification number and weight of each railway car.
+  - Total gross weight (if summation of net weights is required), subject to subsection 12(1).
+- **Prevention of Locomotive Weight Printing**:
+  - Must prevent printing of the locomotive’s weight.
+- **Automatic Clearing of Data**:
+  - After printing the car’s weight, all stored weight data for that car must be **automatically cleared** to prevent data retention or duplication.
+- **Tare Weight Labeling**:
+  - Any tare value printed must be clearly labeled as:
+    - “Actual tare” or “tare réelle” (for measured tare), or
+    - “Stencilled tare” or “tare inscrite au pochoir” (for marked tare), depending on the source.
+
+#### **7. Unit Train Weighing Restrictions**
+- A track scale intended **only for unit trains** (a group of coupled cars) **shall not compute or register net weights** of individual cars.
+- However, **gross weight of individual cars** may be printed **only if** each is labeled with “UT” (unit train) or “TB” (train body) to indicate it is for overload determination.
+
+#### **8. Velocity Limitation and Safety Features**
+- The scale must **prevent registration** of a car’s weight if its velocity exceeds the **maximum approved operating velocity** (as specified in the notice of approval under section 3 of the Act).
+- If velocity exceeds the limit:
+  - The weight **must not be printed or stored** in memory.
+  - The scale must **identify the car** and **alert the operator** via an audible or visual signal.
+
+#### **9. Structural Integrity and Rail Alignment**
+- **Rails must be securely fastened** to prevent movement under load.
+- **End supports** must be positioned to **prevent lifting** of the weighbridge under load.
+- Movement of the weighbridge must be **constrained longitudinally and transversely** to ensure proper operation.
+- **Foundations and anchoring** of approach and departure rails must be strong and rigid to:
+  - Maintain **horizontal and vertical alignment** with the weighbridge.
+  - Prevent adverse effects from **thermal expansion and contraction**.
+
+#### **10. Rail Continuity Requirements (for Double and Single Weighing)**
+- **Double weighing** (of coupled cars):
+  - Approach and departure rails must be **straight, uninterrupted, and joint-free** for **at least 30 meters**.
+- **Double weighing** (of uncoupled cars):
+  - Requires **at least 25 meters** of straight, joint-free rail.
+- **Single weighing**:
+  - Requires **at least 25 meters** of straight approach rail.
+- **Gaps between rails** must be minimized using:
+  - Transverse bevelling and overlapping.
+  - Any other method that reduces impact and vibration at rail joints.
+
+#### **11. Use of Stencilled Tare – Strict Conditions**
+- Stencilled tare may **only be used for determining transportation charges** if:
+  - The tare is marked in **50 kg increments or less**.
+  - The tare is accompanied by the **date** it was determined.
+  - The **difference between actual tare and stencilled tare** does not exceed:
+    - **150 kg** for cars ≤ 25,000 kg,
+    - **200 kg** for cars > 25,000 kg and ≤ 30,000 kg,
+    - **250 kg** for cars > 30,000 kg.
+
+> *Note: Stencilled tare is not a substitute for actual tare in commercial accuracy or legal compliance.*
+
+#### **12. Actual Tare Storage and Identification**
+- When actual tare is recorded:
+  - It must be **accompanied by a unique railway car identification code** to ensure traceability and prevent data confusion.
+
+#### **13. Net Weight Determination for Commodities**
+- For **weight assessment of cargo** (not just for transportation charges):
+  - The train must be weighed **loaded and then unloaded**.
+  - The **difference between the two weights** equals the **net weight** of the commodities.
+- After printing the net weight, **all related data must be erased immediately** from the scale’s memory to ensure data integrity and prevent reuse.
+
+#### **14. Registration of Individual Car Weights**
+- If net weight of individual cars is determined:
+  - Gross weight, tare, and net weight must be clearly labeled as:
+    -

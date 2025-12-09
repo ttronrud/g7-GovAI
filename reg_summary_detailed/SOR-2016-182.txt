@@ -1,0 +1,163 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the *Matches Regulations* under the *Canada Consumer Product Safety Act*, as published in *S.C. 2010, c. 21*, made by His Excellency the Governor General in Council on the recommendation of the Minister of Health, pursuant to Section 37 of the Act.
+
+---
+
+## 📚 **Detailed Summary of the Matches Regulations (S.C. 2010, c. 21)**
+
+### 🔹 **1. Purpose of the Regulations**
+These regulations establish safety standards for matches sold in Canada. They are designed to prevent hazards such as spontaneous ignition, fire risk, structural failure of match components, and unsafe handling or packaging. The goal is to protect consumers from injury or property damage due to defective or unsafe match products.
+
+The regulations apply to all types of matches—including wood matches, round matches, and matchbooks—subject to specific performance, composition, and packaging requirements.
+
+---
+
+### 🔹 **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Ignition compound** | The chemical substance applied to the end of the splint (matchstick) to create the combustible head. It must be uniformly applied and safe under use. |
+| **Lot** | A defined group of matches, such as a batch, shipment, or delivery, that is treated as a single unit for testing and compliance purposes. |
+| **Striking surface** | The part of a matchbook, box, or container that is designed to be rubbed against the match head to ignite it (commonly called the "friction surface" or "frottoir"). |
+| **Wood matches** | Matches with a wooden splint. *Excludes* wood matches attached to a common base (e.g., those in a shared base with other matches). |
+
+> Note: The term "corps inflammable" (inflammable body) is included in the original text but is not a formal definition in the regulation—it appears to be a translation note.
+
+---
+
+### 🔹 **3. Safety Requirements for Matches**
+
+#### ✅ **General Requirements (Section 2)**
+All matches must meet the following criteria:
+
+1. **No White Phosphorus**  
+   - Matches must **not contain white phosphorus**, which poses a significant health and safety risk (e.g., respiratory irritation, toxic fumes, spontaneous combustion).
+
+2. **Uniform Application of Ignition Compound**  
+   - The ignition compound must be **evenly and consistently applied** across the match head. Any unevenness may lead to inconsistent ignition or failure to ignite.
+
+3. **Match Head Integrity**  
+   - The match head must be:
+     - Free from **chipping, cracking, or crumbling**.
+     - Not **adhering to the head of another match** (prevents dangerous sticking or transfer of flame).
+
+4. **Wood Match Splint Requirements**  
+   - Must be made from **good-grade, long-fibre wood**.
+   - Must **not be broken, split, or crushed**—ensuring durability and safe handling.
+
+5. **No Spontaneous Ignition**  
+   - Matches must **not ignite spontaneously** when tested according to **Schedule 1** (a standardized test method involving heat exposure).
+
+6. **Ignition Compound Behavior**  
+   - When ignited, the ignition compound must **not**:
+     - Crack,
+     - Explode, or
+     - Drop glowing particles (which could cause burns or fires).
+
+7. **Splint Glow Duration**  
+   - After the flame is extinguished, the splint must **not glow for more than 3 seconds**. This prevents prolonged fire hazards after use.
+
+8. **Breaking Resistance of Splints (Tested per Schedule 2)**  
+   - Matches must withstand specific bending forces without breaking:
+     - **Wood matches**: 700 gf·cm (gram-force centimeters)
+     - **Round matches (non-wood)**: 100 gf·cm
+     - **All other matches**:
+       - 300 gf·cm when placed **on edge**
+       - 100 gf·cm when placed **flat**
+
+> These tests ensure that the splint remains structurally sound during normal handling and use.
+
+---
+
+### 🔹 **4. Matchbook Requirements (Section 3)**
+
+Matchbooks must meet the following design and safety standards:
+
+1. **Cover Must Fully Enclose Match Heads**  
+   - When closed, the cover must **completely cover all match heads** to prevent accidental contact or exposure.
+
+2. **Fastening Wire Safety**  
+   - Any wire used to secure the cover to the common base must:
+     - **Not pierce** the striking surface.
+     - **Not loosen** the striking surface during use or handling.
+
+3. **Friction Paint Proximity Rule**  
+   - Any friction paint (used to create the striking surface) on the **inside of the cover** must be **at least 2.54 cm (1 inch)** away from the match heads.
+
+4. **Striking Surface Orientation**  
+   - The striking surface must be on the **side opposite to the opening** of the matchbook. This ensures that users rub the surface only when opening the book, reducing the risk of accidental ignition during storage or transport.
+
+---
+
+### 🔹 **5. Labeling Requirements**
+
+Every matchbook, box, or container that **immediately covers or encloses** the matches must clearly and legibly display:
+
+- The **name and mailing address** of either:
+  - The **manufacturer**, if the matches are produced in Canada; or
+  - The **importer or distributor**, if the matches are imported.
+
+> This ensures traceability and accountability for product safety.
+
+---
+
+### 🔹 **6. Sampling and Compliance Procedures**
+
+#### 📌 For Lots of Matches (Sections 5–7, Testing Procedure)
+
+To determine whether a lot complies with the safety requirements (including ignition compound, head integrity, and splint strength), the following sampling and evaluation process applies:
+
+| Step | Description |
+|------|-------------|
+| **Step 1: Random Sampling** | A sample is selected at random based on the total number of matches in the lot (as defined in **Column 1 of Table 1 in Schedule 3**). The number of matches to test is specified in **Column 2**. |
+| **Step 2: Defect Classification** | Each tested match is evaluated: |
+| &nbsp;&nbsp;• Major Defect | If it fails any requirement in **Sections 5–7** (e.g., spontaneous ignition, chipping, cracking, or failure to meet breaking resistance). |
+| &nbsp;&nbsp;• Minor Defect | If it fails only **paragraphs 2(1)(b) or (c)** or **subsection 2(2)** (e.g., uneven ignition compound, adhesion issues). |
+| **Step 3: Lot Non-Compliance** | The lot is deemed **non-compliant** if: |
+| &nbsp;&nbsp;• Number of matches with **major defects ≥ Column 3** of Table 1, **OR** |
+| &nbsp;&nbsp;• Number of matches with **minor defects ≥ Column 4** of Table 1. |
+
+> This statistical sampling ensures that even large shipments can be evaluated efficiently while maintaining high safety standards.
+
+---
+
+#### 📌 For Lots of Matchbooks (Paragraphs 3(a)–(c))
+
+To determine compliance with matchbook requirements (cover, wire, paint, orientation):
+
+| Step | Description |
+|------|-------------|
+| **Step 1: Random Sampling** | A sample is selected based on the total number of matchbooks in the lot (as in **Column 1 of Table 2 in Schedule 3**). The number to test is in **Column 2**. |
+| **Step 2: Defect Classification** | Any matchbook that fails any of the requirements in **paragraphs 3(a) to (c)** is deemed to have a **defect**. |
+| **Step 3: Lot Non-Compliance** | The lot is deemed **non-compliant** if the number of defective matchbooks is **equal to or greater than the number in Column 3** of Table 2. |
+
+> This ensures that packaging integrity and safety features are consistently maintained across batches.
+
+---
+
+### 🔹 **7. Testing Methods**
+
+#### ✅ **Spontaneous Ignition Test (Schedule 1)**
+
+Purpose: To verify that matches do not ignite without user action.
+
+**Procedure**:
+1. Place a **wooden block** (22 mm thick, 50 mm² cross-section) with a **25 mm diameter hole** on a flat surface.
+2. Insert the matches so that their **bases rest on the surface** and **heads point upward**.
+3. Place the block in a **convection oven at 90 ± 1°C**.
+4. Position a **temperature sensor** (range: 65–120°C) at a distance of **6.5 mm to 12 mm** from and at the same level as the match heads.
+5. Leave the matches in the oven for a **minimum of 2 hours**.
+6. If **any match ignites spontaneously** during this time, it fails the test.
+
+> This simulates real-world storage conditions and detects potential fire hazards due to heat exposure.
+
+---
+
+#### ✅ **Breaking Resistance Test (Schedule 2)**
+
+Purpose: To assess the mechanical strength of the splint under stress.
+
+**Procedure**:
+1. Insert the match into a **holding clamp apparatus**.
+2. Set the **moment arm**:
+   - **2 cm** for **wood matches**
+   - **1.5 cm** for **

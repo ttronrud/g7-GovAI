@@ -1,0 +1,132 @@
+### **Detailed Summary of the Vessel Registration and Tonnage Regulations (S.C. 2005, c. 29, s. 16(1))**
+
+These regulations, made under the authority of the **Canada Shipping Act, 2001**, specifically govern the **registration and tonnage measurement of vessels** in Canada. They establish clear definitions, exemptions, procedures for tonnage calculation, and requirements for International Tonnage Certificates (1969), ensuring compliance with international standards and Canadian maritime safety and regulatory frameworks.
+
+---
+
+## **I. Regulatory Authority and Legal Basis**
+
+- The regulations were issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Transport, Infrastructure and Communities**.
+- Authority stems from:
+  - **Paragraph 35(1)(d) and (f)a** of the Canada Shipping Act, 2001
+  - **Section 77** of the Canada Shipping Act, 2001
+- These provisions empower the Minister to set rules related to vessel registration, tonnage measurement, and certification in accordance with international conventions and national safety requirements.
+
+---
+
+## **II. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **1969 Convention** | The *International Convention on Tonnage Measurement of Ships, 1969*, as amended. This sets the global standard for calculating a vessel’s tonnage (gross tonnage and net tonnage). |
+| **Act** | Refers to the *Canada Shipping Act, 2001*. |
+| **International Tonnage Certificate (1969)** | A formal document certifying a vessel’s tonnage. For Canadian vessels: issued under subsection 8(5), sections 12 or 13 of the Act. For foreign vessels: issued under Article 7 or 8 of the 1969 Convention or paragraph 15(2)(b). |
+| **Length** | For vessels in Part 1: measured parallel to the waterline from the forward end of the foremost hull surface to the aft end of the aftermost hull surface. For vessels in Part 2: 96% of total length on a waterline at 85% of the least moulded depth from the keel, or the distance from stem to rudder stock, whichever is greater. In vessels with a raked keel, the measurement must be parallel to the designed waterline. |
+| **Power** | The power (in kilowatts) declared by the manufacturer in accordance with the current version of **ISO 8665** (Standard for marine engine power measurement). |
+| **TP 13430** | The *Standard for the Tonnage Measurement of Vessels*, published by the Department of Transport, as amended. It provides the technical methodology for calculating tonnage in Canada. |
+
+---
+
+## **III. Exemptions from Vessel Registration Requirement (Section 46(1))**
+
+Certain small or specialized vessels are **exempt from registration** under subsection 46(1) of the Act, including:
+
+1. **Low-power vessels**  
+   - Vessels equipped with one or more primary propulsion engines whose **aggregate power is less than 7.5 kW**.
+
+2. **Sail-only vessels**  
+   - Vessels **8.5 meters or less in length** that are **propelled solely by sail**.
+
+3. **Human-powered vessels**  
+   - Vessels powered by human effort (e.g., rowboats, canoes), **except** those covered under the *Special-purpose Vessels Regulations*.
+
+4. **Recreational boating schools**  
+   - Vessels operated by a recreational boating school **for training purposes**, provided:
+     - They are **not required to hold a safety certificate** under the *Vessel Safety Certificates Regulations*; and
+     - Were **originally licensed under section 202 of the Act** before being transferred to the school.
+
+> ⚠️ **Important Note**:  
+> - Subsection (1) does **not apply** to vessels that carry **more than 12 passengers** — meaning such vessels are subject to registration requirements regardless of size or power.  
+> - The Minister may issue a **one-year exemption** for any vessel or class of vessels, on terms and conditions deemed appropriate, **if** the exemption is not expected to harm marine safety. This can be amended or revoked at any time.
+
+> ✅ **Government vessel exemptions** under subsection 46(3) of the Act apply to:
+> - Vessels with engine power < 7.5 kW; or
+> - Vessels ≤ 8.5 m in length, propelled solely by sail.
+
+---
+
+## **IV. Notification and Notice Requirements**
+
+### **A. Notification under Section 58 of the Act**
+- All notifications must be in **writing**.
+
+### **B. Notice of Change in Ownership (Section 60(3)(a))**
+- The **Chief Registrar** must give notice to owners and registered mortgagees **at least 30 days before cancelling** a vessel’s registration.
+- Delivery methods:
+  - **To an individual**:
+    - Left personally with the individual; or
+    - Left with an adult household member if the individual cannot be found.
+    - Or sent via **ordinary mail, courier, fax, or electronic means** to the last known address.
+  - **To a corporation**:
+    - Sent to head office or agent via fax, mail, or courier.
+    - Left with an officer or agent managing the business.
+    - Or sent electronically (non-fax) to an individual (as above).
+- **Mail delivery is deemed effective on the fourth day after mailing**.
+
+### **C. Timeframe for Evidence of Registration Requirement**
+- A person who acquires a vessel or a share in a vessel must provide evidence to the Chief Registrar within **30 days** of acquisition that the vessel is required or entitled to be registered under Part 2 of the Act.
+
+---
+
+## **V. Evidence of Foreign De-registration**
+
+- For a Canadian vessel previously registered in a foreign state but now **no longer registered**, the owner must provide:
+  - An **original or true copy** of a written document such as:
+    - A deletion certificate
+    - An abstract or transcript of registry
+  - Proving the vessel is **no longer registered** and is **free of all encumbrances** in the foreign registry.
+
+> ⚠️ *Note: This provision was repealed in SOR/2015-99, s. 4 — meaning it no longer applies as of that date.*
+
+---
+
+## **VI. International Tonnage Certificate (1969) Requirements**
+
+### **A. Mandatory Holding**
+- Every **Canadian vessel** that navigates in Canadian waters and is subject to the **1969 Convention** must **hold and keep on board** an International Tonnage Certificate (1969).
+
+### **B. Validity of Transferred Certificates**
+- A certificate held by a vessel transferred from a foreign state party to the 1969 Convention to Canadian registry remains valid until the **earlier of**:
+  - **Three months after registration in Canada**, or
+  - The day the Minister issues a new certificate.
+
+### **C. Cancellation of Certificates Due to Alterations**
+
+| Change | Effect on Certificate |
+|-------|------------------------|
+| **Increase in tonnage** (due to alterations in: <br> - arrangement, construction, capacity, or use of spaces <br> - passenger capacity <br> - assigned load line or permitted draught) | Certificate **ceases to be valid** and must be **cancelled**. |
+| **Decrease in net tonnage** (due to alterations in: <br> - arrangement, construction, capacity, or use of spaces <br> - passenger capacity <br> - trade (if load line changes)) | Certificate **remains valid** and **not cancelled**. A new certificate is not issued until **12 months after the current one** is issued. |
+
+> ✅ **Exemptions from Subsection (3)** (i.e., from the 12-month rule):
+> - Vessels transferred to another state’s flag.
+> - Vessels undergoing **substantial alterations** (e.g., removal of superstructure) that change the assigned load line.
+> - Passenger vessels engaged in special trades (e.g., pilgrim trade) carrying large numbers of unberthed passengers.
+
+### **D. Issuance of New Certificates After Change in Tonnage**
+- If a change in tonnage results from an alteration (as per subsections 2 or 3), the **new tonnage** must be calculated using the methods in this regulation.
+- The Minister shall issue a **new International Tonnage Certificate (1969)** in the form specified in **Annex II of the 1969 Convention**.
+
+### **E. Consistency with Original Certificate Method**
+- If a vessel’s tonnage has changed due to alteration, the authorized representative must ensure that the new tonnage is calculated using the **same method** used to determine the original tonnage on the certificate of registry.
+
+---
+
+## **VII. Tonnage Calculation Rules by Vessel Size**
+
+### **A. Vessels 24 m or More (Division 1)**
+
+Applies to:
+- Initial registration or listing applications
+- Vessels altered such that tonnage changes by **more than 1%** (compared to original calculation)
+- Vessels previously registered in Canada but no longer are when applying
+- Canadian vessels whose tonnage was calculated

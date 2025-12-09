@@ -1,0 +1,159 @@
+### **Detailed Summary of General Export Permit No. 46 – Cryptography for Use by Certain Consignees**  
+**Issued by:** Minister of Foreign Affairs  
+**Under:** Subsection 7(1.1)a of the *Export and Import Permits Act*  
+**Date of Issuance:** January 9, 2013  
+**Legal References:**  
+- S.C. 2004, c. 15, s. 56  
+- R.S., c. E-19  
+
+---
+
+## **1. Purpose of the Permit**
+This permit authorizes **residents of Canada** to export or transfer specific **cryptography-related goods and technologies** to certain consignees under defined conditions. The primary objective is to allow Canadian entities to share cryptographic capabilities with specific foreign entities—particularly those based in designated countries—while maintaining national security and compliance with international export controls.
+
+---
+
+## **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Controlled** | Means actual control—whether direct (e.g., ownership of securities) or indirect (e.g., through trusts, agreements, or ownership of corporations). Control is determined by "control in fact," not just legal ownership. |
+| **Designated Country** | A list of 30 countries including Argentina, Australia, Austria, Belgium, Bulgaria, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Japan, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Republic of Korea, Spain, Sweden, Switzerland, Turkey, Ukraine, the United Kingdom, and the United States. |
+| **Entity** | Includes corporations, trusts, partnerships, funds, or unincorporated associations or organizations. |
+| **Export Controls Division (ECD)** | The division within the Department of Foreign Affairs and International Trade responsible for administering export controls. |
+| **Government of a Foreign Country** | Includes: (1) any political subdivision of a foreign government; (2) any agency or agent of such a government; (3) any entity controlled by such a government or its subdivisions. |
+| **Guide** | Refers to the *Export Control List* under section 1, which categorizes goods and technologies subject to export controls. |
+| **Ineligible Destination** | Countries banned from receiving such exports due to human rights, proliferation, or security concerns. These include: Afghanistan, Belarus, Burma (Myanmar), Côte d’Ivoire, Cuba, DPRK, Eritrea, Guinea, Iran, Iraq, Lebanon, Liberia, Libya, Pakistan, Sierra Leone, Sudan, Syria, and Zimbabwe. |
+
+> **Note:** Terms like *development, information security, production, software, and use* are defined consistently with the *Guide* under "Definitions of Terms Used in Groups 1 and 2."
+
+---
+
+## **3. Who Can Export Under This Permit?**
+
+Any **resident of Canada** may export or transfer eligible goods or technologies **if** the recipient (consignee) meets one of the following two conditions:
+
+### **Condition A: Consignee is Controlled by a Canadian Resident**
+- The consignee is directly or indirectly controlled by a Canadian resident (individual or entity).
+
+### **Condition B: Consignee is Controlled by an Entity Based in a Designated Country**
+- The consignee is controlled by an entity that:
+  - Has its **head office in a designated country**, and  
+  - Controls the **Canadian resident** making the export.
+
+> This means that even if the recipient is outside Canada, it may still qualify if it is under the control of a Canadian entity and is headquartered in a designated country.
+
+---
+
+## **4. Eligible Goods and Technologies**
+
+The permit allows exports of goods and technologies listed in the **Export Control List (ECL)** under specific items, **excluding** certain restricted subcategories.
+
+### **Eligible Items (with exclusions):**
+
+#### **Item 1-5.A.2 or 1-5.A.3 of the Guide**
+- **All items** under these categories **except**:
+  - Item 1-5.A.2.c (specific cryptographic algorithms or software)
+  - Item 1-5.A.3.b (certain encryption systems)
+
+#### **Item 1-5.B.2 of the Guide**
+- **All items** except:
+  - Goods used in the **development or production** of goods listed in:
+    - Subparagraphs (a)(i) to (iii) or (b)(ii)
+  - Goods **specially designed to evaluate or validate** the information security functions of goods in those subparagraphs
+
+> *Note:* This restriction prevents the export of tools used to test or build other sensitive cryptographic products.
+
+#### **Item 1-5.D.2 of the Guide**
+- Excludes:
+  - Software used in the development, production, or use of goods in:
+    - Subparagraphs (a)(i) to (iii), (c)(ii), or (c)(iii)
+  - Software that:
+    - Has characteristics of goods in subparagraphs (a)(i) to (iii)
+    - Performs or simulates the functions of those goods
+    - Certifies software in subparagraph (ii)
+    - Is specially designed or modified to support technology used in developing, producing, or using goods in those subparagraphs
+
+> *Implication:* Certain software tools that serve as building blocks or test platforms for sensitive cryptography are excluded.
+
+#### **Item 1-5.E.2 of the Guide**
+- Excludes:
+  - Technologies used in the development, production, or use of goods listed in:
+    - Subparagraphs (a)(i) to (iii), (b)(i), (b)(ii), or (c)(i) to (c)(iii)
+
+> *Note:* This ensures that only specific, non-core cryptographic technologies are permitted under this permit.
+
+---
+
+## **5. Prohibited Exports (What Is NOT Allowed)**
+
+The permit **does not authorize** exports to or for the following:
+
+| Prohibited Scenario | Explanation |
+|--------------------|-----------|
+| **Ineligible destinations** | Exports to countries on the list (e.g., Iran, North Korea, Syria) are strictly prohibited. |
+| **Countries on the Area Control List** | These are countries subject to broader restrictions due to geopolitical or security risks. |
+| **Countries under special economic measures** | Includes countries subject to orders under the *Special Economic Measures Act* (SEMA) or *United Nations Act*. |
+| **Government of a foreign country** | No exports to any foreign government, including its agencies or political subdivisions. |
+| **Goods/technologies intended for third parties** | The product must be used **only** by the consignee. Cannot be incorporated into products for others. |
+| **Goods developed or produced under contract with the Government of Canada** | Excludes government-developed or government-exclusive-use items. |
+| **Goods used in government-developed products** | Excludes items used in development or production for the Government of Canada. |
+| **Items not listed in Section 2 of the Guide** | Only those explicitly referenced in the permit’s list are allowed. If another permit is required, it must be obtained separately. |
+
+---
+
+## **6. Reporting and Recordkeeping Requirements**
+
+All persons exporting or transferring goods under this permit must comply with strict documentation and reporting obligations.
+
+### **Mandatory Pre-Export Reporting (First Export per Calendar Year):**
+- Provide written information to the **Export Controls Division (ECD)** including:
+  - Name, address, phone, fax, and email of the exporter
+  - If a corporation:  
+    - Business number (from the Minister of National Revenue)  
+    - Name, address, phone, fax, and email of a designated contact person
+
+- **Insert "GEP-46" or "LGE-46"** in the appropriate field of the **Customs Act reporting form** if the item is required to be reported under that Act.
+
+### **Post-Export Reporting (Within 15 Days of Request):**
+- Within **15 days** of receiving a request from the ECD, provide records related to any export or transfer during the specified period.
+
+### **Annual Reporting Deadline:**
+- By **January 31** each year, submit records for all exports or transfers made during the **previous calendar year**.
+
+### **Record Retention Period:**
+- Retain all records for **six years** after the year in which the export or transfer occurred. Records must include:
+
+| Required Information |
+|----------------------|
+| Item number from the Guide describing the good or technology |
+| Name and version number of the good or technology |
+| Estimated value and, if quantifiable, quantity of the export |
+| Cryptographic details: |
+| - Algorithms used |
+| - Key sizes employed |
+| - Function performed by the algorithms |
+| - How keys are generated and managed (if known) |
+| Date of export or transfer |
+| Consignee’s full contact details (name, address, phone, fax, email) |
+
+> These records are critical for compliance audits and potential inspections.
+
+---
+
+## **7. Effective Date**
+
+This permit comes into force on the **date of registration** with the Government of Canada.
+
+---
+
+## **8. Strategic and Policy Implications**
+
+### ✅ **Why This Permit Exists**
+- Allows Canadian companies to support international partners in secure communications, digital infrastructure, and cybersecurity—especially in key economies (designated countries).
+- Promotes collaboration in global information security while maintaining safeguards against misuse.
+- Balances economic openness with national security and non-proliferation goals.
+
+### ⚠️ **Risks and Limitations**
+- **No access to government entities** – Exports are strictly limited to private-sector consignees.
+- **Strict exclusions** – Prevents

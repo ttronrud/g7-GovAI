@@ -1,0 +1,183 @@
+### **Detailed Summary of the Procurement Ombudsman Regulations**
+
+The **Procurement Ombudsman Regulations**, made under **section 23.1a of the Department of Public Works and Government Services Act** (commonly referred to as the *Public Works and Government Services Act*), establish the framework for the **Procurement Ombudsman** to review complaints and disputes related to government procurement processes in Canada. These regulations were enacted on **May 5, 2008**, following the coming into force of **Section 307 of the Federal Accountability Act (S.C. 2006, c. 9, s. 307)** and are designed to promote **fairness, openness, transparency, and accountability** in how the federal government acquires goods and services.
+
+---
+
+## **I. Purpose and Legal Basis**
+
+- The regulations are created by **Her Excellency the Governor General in Council**, based on the recommendation of the **Minister of Public Works and Government Services**.
+- They operate under **section 23.1a of the Department of Public Works and Government Services Act**, which empowers the creation of a procurement ombudsman mechanism to address complaints about government procurement practices.
+- The primary goal is to ensure that procurement decisions are **fair, transparent, and consistent with public policy**, financial regulations, and principles of competition.
+
+---
+
+## **II. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Department of Public Works and Government Services Act*. |
+| **Contracting Department** | The department responsible for awarding a contract. |
+| **Working Day** | A day that is not a Saturday or a statutory holiday. |
+
+---
+
+## **III. Scope of Application**
+
+The regulations apply differently depending on the type of complaint or review:
+
+| Provision | Scope |
+|--------|--------|
+| **Sections 7 to 14** | Apply to contracts for the acquisition of **materiel or services** awarded **after the coming into force** of these regulations. |
+| **Sections 15 to 22** | Apply when the **facts or grounds** of a complaint arise **after** the regulations come into force. |
+| **Section 23** | Applies when a **dispute** under that section arises **after** the regulations come into force. |
+
+> This ensures that the ombudsman mechanism is only activated for new or ongoing cases post-regulation, providing clarity on retroactive application.
+
+---
+
+## **IV. Exclusions from Ombudsman Jurisdiction**
+
+The Procurement Ombudsman **does not have authority** to perform duties under subsection 22.1(3) of the Act in the following cases:
+
+1. **Canadian Security Intelligence Service (CSIS)**  
+2. **Staff of the Senate and the House of Commons**
+
+> These exclusions reflect national security concerns and the unique nature of parliamentary operations, where transparency and oversight may be limited.
+
+---
+
+## **V. Review of Departmental Procurement Practices**
+
+The ombudsman may initiate a **review of a department’s procurement practices** if there are **reasonable grounds** to believe the practices are inconsistent with:
+
+- Relevant **Cabinet policies and procedures**
+- **Multi-departmental policies**
+- **National security exemptions**
+- The **Financial Administration Act (FAA)** and its regulations
+- **Resources required** to respond to the review
+- **Previous audit findings**
+- **Time elapsed** since the last review
+
+### **Process for Practice Reviews**
+
+- The ombudsman may **request documents or information** from the department for review.
+- Before making recommendations:
+  - Must consider:
+    - Consistency with fairness, openness, transparency
+    - Potential impact on government operations and resources
+    - Seriousness of any inconsistencies
+- The department must be given **30 working days** to respond to proposed recommendations.
+- **Final recommendations** must be issued within **1 year** of the review's start.
+- If delayed, **interim recommendations** must be issued within the 1-year period, with **final recommendations** delivered within **120 working days** after the interim ones.
+
+> This ensures timely, structured, and accountable oversight of systemic procurement issues.
+
+---
+
+## **VI. Complaint Procedures**
+
+There are **three types of complaints** governed by the regulations:
+
+---
+
+### **Type 1: Complaints on Contract Award (Section 7)**
+
+Applies when a **contract is awarded**, and the complainant believes the award was not fair or transparent.
+
+#### **Filing Deadline**
+- Within **30 working days** of:
+  - Public notice of award, **or**
+  - When the award became known or should have been known (if no public notice)
+
+#### **Extensions**
+- May be granted up to **90 working days** if the complainant can show **reasons beyond their control**.
+
+#### **Pre-Existing Objection**
+- If the complainant previously objected to the award and was **denied**, they must file the complaint within **30 working days of the denial**.
+
+#### **Required Information for Filing**
+The complainant must submit:
+1. Name and address
+2. Contract identification (date of public notice or award)
+3. Name of contracting department and intended user department
+4. Proof of eligibility (meeting the requirement in subsection 22.2(1) of the Act)
+5. Clear, detailed statement of facts and grounds
+6. Declaration that the complaint is **not** the subject of a prior inquiry by:
+   - The **Canadian International Trade Tribunal (CITT)**, or
+   - A **court of competent jurisdiction**
+7. Upon request (for section 13):
+   - A **net profit calculation** (lower of bid amount or award amount, minus bid submission costs)
+   - Supporting documentation of bid costs
+
+#### **Review Process**
+- The ombudsman must **determine within 10 working days** whether to review the complaint.
+- A review is triggered if:
+  - The contract is **not exempt** under the **Canadian Free Trade Agreement (CFTA)** (e.g., under articles 800, 801, 802, 809, 1205.1)
+  - The contract value meets or exceeds the threshold in **article 504 of the CFTA** (based on article 505)
+  - All eligibility requirements are met
+  - The complaint is not subject to prior inquiry
+  - There are **reasonable grounds** to believe the contract was not awarded in accordance with **FAA regulations**
+
+#### **Expanded vs. Simple Process**
+
+| Process | Conditions | Timeline & Procedures |
+|--------|-----------|------------------------|
+| **Simple Process** | Default process; applies unless otherwise requested | - Contracting department has **15 working days** to respond to the complaint |
+| **Expanded Process** | Requested by complainant or department, or deemed necessary by ombudsman | - Department has **at least 25 working days** to respond<br>- Complainant has **10 working days** to respond (extendable if needed)<br>- If complainant raises new arguments, department gets 10 working days to respond (extendable)<br>- All responses are exchanged and considered in full |
+
+#### **Factors Considered in Review**
+The ombudsman evaluates:
+- Whether the complainant had a **reasonable chance** of winning the contract
+- **Seriousness** of non-compliance with FAA regulations
+- Whether the complainant **failed to provide required information** to the contracting department
+- Degree of **prejudice** to the complainant
+- Impact on **fairness, openness, or transparency** of the process
+- Whether any party acted in **bad faith**
+
+> The ombudsman **cannot substitute** their judgment for the assessment of bids unless:
+> - There is **insufficient written evidence**, or
+> - The assessment is **unreasonable**
+
+#### **Possible Recommendations**
+- **Compensation** for lost profit, capped at:
+  - The **lesser of**:
+    - Net profit (bid or award amount, minus bid costs)
+    - **10% of the contract value** (excluding options/extensions, minus bid costs)
+  - OR
+  - Compensation equal to **bid submission costs**, capped at **10% of the contract value**
+
+> Compensation is only available if a **competitive process** was held, unless the complainant was **prevented from bidding** due to the department’s actions.
+
+#### **Timeline for Findings/Recommendations**
+- Must be provided within **120 working days** of complaint filing.
+
+---
+
+### **Type 2: Complaints on Contract Administration (Section 16)**
+
+Applies when a party believes the **administration** of a contract (e.g., interpretation of terms, scope of work) is flawed.
+
+#### **Filing Deadline**
+- Within **30 working days** of becoming aware (or reasonably should have become aware) of the grounds for complaint.
+
+#### **Extensions**
+- Up to **90 working days** if due to **force majeure or other unforeseen circumstances**.
+
+#### **Pre-Existing Objection**
+- If the complainant previously objected to contract administration and was denied, the complaint must be filed within **30 working days of denial**.
+
+#### **Required Information**
+- Name and address
+- Contract identification
+- Contracting department and intended user department
+- Proof of eligibility (meeting 22.2(1) and section 15 requirements)
+- Statement of facts and grounds
+
+#### **Review Criteria**
+A review is conducted if:
+- All eligibility requirements are met
+- There is **no dispute** over the **terms, conditions, or scope of work**
+
+#### **Review Process**
+-

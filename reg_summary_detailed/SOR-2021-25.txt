@@ -1,0 +1,117 @@
+Certainly. Below is a **detailed, structured summary** of the **Cross-border Movement of Hazardous Waste and Hazardous Recyclable Material Regulations**, as published and enacted under the *Canadian Environmental Protection Act, 1999* (CEPA 1999), with an emphasis on clarity, context, and regulatory significance.
+
+---
+
+## 📚 **Detailed Summary of the Cross-border Movement of Hazardous Waste and Hazardous Recyclable Material Regulations**
+
+### 🔹 **1. Regulatory Background and Legal Authority**
+
+These regulations were issued by **His Excellency the Administrator of the Government of Canada in Council**, based on recommendations from:
+- The **Minister of the Environment** and the **Minister of Health** (for provisions other than Section 82),
+- The **Minister of Transport** (for Section 82).
+
+They are made under several key provisions of federal law:
+- **Sections 191 and 286.1c of CEPA 1999** – Authorize the regulation of hazardous waste and recyclable material movement.
+- **Subsection 93(1) and 102(1)** – Enable the regulation of cross-border movements.
+- **Subsection 120(1)d of the Canada Shipping Act, 2001** – Applies to maritime transport of hazardous materials.
+- **Paragraph 109(b) of the Impact Assessment Act** – Requires environmental assessments for significant cross-border movements.
+- **Subsection 5(1) of the Environmental Violations Administrative Monetary Penalties Act** – Provides for monetary penalties for non-compliance.
+- **S.C. 2004, c. 15, s. 31; S.C. 1999, c. 33; S.C. 2009, c. 14, s. 80; S.C. 2018, c. 27, s. 694; S.C. 2001, c. 26; S.C. 2019, c. 28, s. 1; S.C. 2009, c. 14, s. 126** – Supportive statutory references.
+
+The proposed regulations were **published in the Canada Gazette, Part I, on December 15, 2018**, and a **public comment period** was provided for stakeholders to submit feedback or file objections, allowing for a transparent and participatory regulatory process.
+
+---
+
+### 🔹 **2. Key Definitions and Key Concepts**
+
+| Term | Definition and Purpose |
+|------|------------------------|
+| **Hazardous Waste** | Any material to be disposed of via operations listed in **column 2 of Part 1 of Schedule 1** (e.g., landfilling, incineration), and meeting one or more of the following criteria:<br>• Listed in **Schedule 6**<br>• Meets criteria in **Classes 2–6, 8, or 9** under Transportation of Dangerous Goods Regulations<br>• Contains a substance in **Schedule 7** at or above concentration thresholds<br>• Produces a leachate with an **environmentally hazardous constituent** (as defined in Schedule 2, per Method 1311)<br>• Is pure or sole active ingredient and unused (as in Schedule 8) |
+
+> ⚠️ **Exclusions from hazardous waste**:  
+> - Less than 5 kg or 5 L per shipment (unless contains mercury or meets Class 6.2 criteria)  
+> - Residual container contents after removal of hazardous substance  
+> - Mixed with non-hazardous waste (unless separated during/after collection)  
+> - Personal/household waste  
+> - Discharge from ships authorized under Canada Shipping Act  
+
+> 🔁 **Expanded definition**:  
+> Even if not technically "hazardous waste" under CEPA, substances are considered hazardous **if**:  
+> - They are defined as hazardous under destination/transit country law  
+> - Their import is prohibited in destination country  
+> - They fall under **Article 1(a)** of the **Basel Convention** or **Article 1(2)** (with exceptions for Articles 3 and 4)  
+> - Movement is to a foreign country or through a foreign country  
+
+| **Hazardous Recyclable Material** | Same criteria as hazardous waste, but applies to recycling operations in **Part 2 of Schedule 1** (e.g., shredding, reprocessing).<br>Exclusions are similar to hazardous waste. |
+
+| **Authorized Carrier** | A person transporting hazardous waste/recyclable material:  
+> - By boat, ship, or craft (under Canada Shipping Act)  
+> - Or under the laws of the jurisdiction where transport occurs |
+
+| **Authorized Facility** | A facility authorized by local authorities to perform:  
+> - **Final disposal** (D1–D12, DC1–DC2)  
+> - **Final recycling** (R1–R11, RC1–RC2)  
+
+| **Receiving Facility** | The first authorized facility that receives the waste or recyclable material under a permit, regardless of whether the operation is interim or final. |
+
+| **Shipment** | A single unit of cargo (in containers or bulk) transported without separation. Includes:<br>• Return to Canada or origin country<br>• Movement within Canada<br>• Export to foreign country and import after transit |
+
+| **Movement Document** | A required document that must accompany a shipment depending on the type of movement:<br>• **Import to Canada** → Sections 15, 16<br>• **Export from Canada** → Sections 27, 28<br>• **Transit through foreign country** → Sections 39, 40<br>• **Transit through Canada** → Sections 49, 50<br>• **Return to Canada** → Sections 60, 61<br>• **Return to foreign country** → Sections 71, 72<br>• **Movement within Canada** → Section 80 |
+
+| **Notification** | A formal submission required under CEPA 1999, paragraph 185(1)(a), to inform the government of proposed shipments. |
+
+| **Line Entry** | A numbered entry in a notification or movement document specifying details of a hazardous waste or recyclable material shipment. Includes specific data fields (e.g., quantity, chemical identity, destination). Some information is excluded in movement documents (e.g., specific safety or environmental data). |
+
+| **Sign** | Includes electronic signatures approved by the Minister for online submissions. |
+
+| **Unique Identification Number** | A unique identifier assigned to individuals, entities, or facilities (by province or country). |
+
+| **Competent Authority** | The designated national body responsible for overseeing hazardous waste movement:<br>• For **Basel Convention** parties → designated authority under the Convention<br>• For **OECD Decision C(2001)107/FINAL** → designated authority under OECD rules<br>• For the **United States** → U.S. Environmental Protection Agency (EPA) |
+
+| **Canada-USA Agreement** | The 1986 Agreement on transboundary movement of hazardous waste, amended over time. Forms a key basis for bilateral cooperation between Canada and the U.S. |
+
+| **OECD Decision C(2001)107/FINAL** | A revision of the 1992 OECD waste recovery decision, which sets standards for transboundary movements of waste destined for recovery (recycling). |
+
+| **Environmentally Hazardous Constituent** | A leachate component (from waste) that exceeds a threshold defined in **Schedule 2**, based on **Method 1311 (Toxicity Characteristic Leaching Procedure)**. |
+
+| **Persistent Organic Pollutant (POP)** | A substance listed in **Schedule 5** at or above specified concentration thresholds. |
+
+---
+
+### 🔹 **3. Core Regulatory Objectives**
+
+The primary goals of these regulations are:
+
+1. **Ensure Safe and Environmentally Responsible Cross-border Movement**  
+   Prevent pollution and protect human health and ecosystems during the transport, transit, and disposal of hazardous waste and recyclable materials.
+
+2. **Compliance with International Agreements**  
+   Align Canada’s practices with:
+   - The **Basel Convention** (1992) – controls transboundary movement of hazardous waste.
+   - The **Canada-USA Agreement** – facilitates cooperation on waste movement.
+   - **OECD Decision C(2001)107/FINAL** – sets standards for waste recovery operations.
+
+3. **Strengthen Accountability and Transparency**  
+   Require detailed **notifications** and **movement documents** with specific line entries to ensure traceability and oversight.
+
+4. **Promote Safe Handling and Transport**  
+   Apply strict rules on carriers, consignors, consignees, and facilities to ensure safe handling and compliance with national and international standards.
+
+5. **Support Sustainable Recycling**  
+   Regulate the movement of recyclable materials to ensure they are properly processed and do not become environmental hazards.
+
+---
+
+### 🔹 **4. Key Regulatory Requirements**
+
+#### ✅ 1. **Notification Requirements**
+- A formal **notification** must be submitted before any shipment of hazardous waste or recyclable material is transported.
+- Includes detailed information such as:
+  - Type and quantity of material
+  - CAS Registry Number (for chemical identification)
+  - Destination and origin
+  - Transport mode and carrier
+  - Environmental and health risks
+- Required for **all shipments** involving cross-border movement or transit.
+
+#### ✅ 2. **Movement

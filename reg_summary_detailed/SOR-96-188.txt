@@ -1,0 +1,142 @@
+### **Detailed Summary of the Treasury Board Regulations on Interest on Overdue Accounts and Administrative Charges for Dishonoured Instruments (S.C. 1991, c. 24, s. 45)**
+
+These regulations, issued under **subsection 155.1(6)** of the **Financial Administration Act (FAA)**, establish the rules governing **interest on overdue accounts** and **administrative charges for dishonoured instruments** (such as cheques or payment orders) owed to Her Majesty in right of Canada. The regulations were **effective April 1, 1996**, and were **repealed by SOR/2018-89, s. 2**, meaning they are no longer in force as of that date. However, this summary provides a comprehensive and accurate interpretation of the content and intent of the regulation prior to its repeal.
+
+---
+
+## **1. Purpose of the Regulations**
+
+The primary purpose is to:
+- Define how **interest** is calculated and applied when payments are overdue;
+- Specify **administrative charges** for dishonoured instruments (e.g., cheques that bounce);
+- Provide **exceptions and waivers** where appropriate (e.g., due to emergencies, fraud, or force majeure);
+- Ensure consistency in financial administration across government departments.
+
+These rules apply to **amounts owing to Her Majesty** (i.e., the federal government) in connection with goods, services, facilities, contributions, loans, or overpayments — but **do not apply to Crown corporations or departmental debts**.
+
+---
+
+## **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Financial Administration Act* |
+| **Average Bank Rate** | The weighted arithmetic average of the Bank of Canada’s bank rates established during the month immediately preceding the month in which interest is being calculated |
+| **Bank Rate** | The minimum rate at which the Bank of Canada makes short-term advances to members of the Canadian Payments Association |
+| **Concessionary Loan** | A loan with no interest or interest 3% or more below the Government of Canada’s average cost of borrowing on the date of agreement |
+| **Demand for Payment** | Any written demand, including invoices, bills, statements, or assessments |
+| **Due Date** | Varies by type of obligation:<br>• Goods/services/facilities: 30 days after issuance if no due date specified<br>• Repayable contributions: scheduled repayment day or 30 days after issuance<br>• Overpayments: scheduled repayment day or 30 days after issuance<br>• Licences, leases, loans, mortgages: payment due date under agreement<br>• Accountable advances: repayment date under Accountable Advances Regulations<br>• Other: applicable law, contract, or order; default: 30 days after issuance |
+| **Financial Institution** | Banks, trust companies, cooperative credit societies that hold deposits and honour cheques |
+| **In Writing** | Includes electronic forms that can be reproduced in intelligible, written form within a reasonable time |
+| **Pre-authorized Debit** | Automatic debit initiated by creditor based on prior debtor authorization |
+
+---
+
+## **3. Scope and Exclusions**
+
+### ✅ **Applies to:**
+- Amounts owed to Her Majesty (federal government) for goods, services, facilities, contributions, licences, loans, or overpayments.
+- Interest is charged on overdue amounts unless exempted.
+
+### ❌ **Does NOT Apply to:**
+| Excluded Amounts | Reason |
+|------------------|--------|
+| Amounts owed to a Crown corporation | Separate financial governance applies |
+| Amounts owing by a department | Internal departmental accounting; not subject to these rules |
+| Capital market transactions | Excluded from interest provisions |
+| Interest-bearing loans (e.g., hypothecary loans, mortgages) | Excluded unless otherwise specified |
+| Tax-related amounts (e.g., under Income Tax Act) | Interest is governed by tax legislation |
+| Any other amount where interest is already provided by another law or agreement | Pre-existing interest rules prevail |
+
+> ⚠️ **Note**: Section 7 (which would otherwise allow interest on certain loans) is **excluded** from this Part, reinforcing the exclusivity of these rules.
+
+---
+
+## **4. Interest Calculation Rules**
+
+### **General Interest Rule (Subsection 1(1))**
+- **Interest rate**: Monthly compound interest at **average bank rate + 3%**
+- **Accrual period**: Begins on the **due date** and ends on the **day before payment is received** by Her Majesty or an authorized agent.
+- **Partial payment**: If only part of the amount is paid, interest stops accruing on the portion paid on the day before receipt of that partial payment.
+
+### **Interest on Overpayments or Erroneous Payments**
+- Interest is payable by the **debtor** on any amount not repaid by its due date.
+- Accrues from the **due date** until the day before repayment is received.
+- **Exception for fraud or misconduct**:  
+  If the overpayment or erroneous payment resulted from **fraud, falsification, wilful misrepresentation**, or other offences, interest accrues from the **day the overpayment was made** until the day before repayment.
+
+### **Interest on Late or Missed Payments on Concessionary Loans**
+- Interest is charged at the **difference between the standard rate (average bank rate + 3%) and the concessionary rate** in the loan agreement.
+- Applies only if the loan is **not** a multilateral debt relief loan or developmental assistance loan.
+
+### **Exclusions from Interest**
+- **No interest** if:
+  1. The delay or error was caused by **Her Majesty or its authorized agent** in processing payments or establishing amounts payable.
+  2. A **system breakdown or communication failure** occurred in the government’s payment processing system.
+  3. The total amount due (including interest) for a period is **less than the minimum threshold** for a demand for payment — as set by the deputy head of the program/service and published on the Government of Canada website.
+
+---
+
+## **5. Waivers of Interest**
+
+The **appropriate Minister** or a **public officer authorized in writing** may waive or reduce interest under the following conditions:
+
+### **Waiver Conditions (Subsection 6(2))**
+| Condition | Explanation |
+|--------|-------------|
+| **Administrative costs exceed interest** | If the cost of assessing, billing, and collecting interest would exceed the amount owed |
+| **Amount in dispute settled** | If the debt is settled in whole or in part in favour of the debtor |
+| **Overpayment recovered from subsequent payment** | Applies to salary, wages, or benefits — **except** when a fine or penalty has already been imposed |
+| **Urgent and critical situation** | Includes: <br>• National or provincial emergency<br>• Substantial financial hardship<br>• Natural disaster (fire, flood, storm, earthquake, drought)<br>• Disease (human, animal, plant)<br>• Accident, pollution, sabotage, terrorism<br>• Results in danger to life, health, property, social disruption, or breakdown of essential services |
+
+> These waivers are **not automatic** and require assessment of the debtor’s case, payment history, and compliance record.
+
+### **Waiver for Circumstances Beyond Debtor’s Control**
+- Includes:
+  - Death or incapacity of debtor or responsible person
+  - Postal disruption that delays payment and no alternative method exists
+  - Delay in processing a **pre-authorized debit** due to failure in external systems or communication links
+
+> Waiver must consider:
+> - The debtor’s case
+> - Payment history and voluntary compliance
+> - Diligence in managing the debt
+
+---
+
+## **6. Administrative Charges for Dishonoured Instruments**
+
+### **General Rule (Subsection 10(1))**
+- When a payment instrument (e.g., cheque) is **dishonoured**, a **$15 administrative charge** is payable by the debtor to Her Majesty.
+
+### **Additional Charges**
+- If the government reimburses a **financial institution** for processing a dishonoured instrument:
+  - An **additional $10 charge** is due from the debtor.
+- If the financial institution charges Her Majesty for **monitoring or clearing** the dishonoured instrument:
+  - The debtor pays **the amount charged by the institution**, in addition to the $15 charge.
+
+> Example: A cheque is dishonoured. Debtor pays $15 + $10 (reimbursement) + $X (monitoring fee) = total administrative charge.
+
+### **Exclusions from Charges**
+- No charge applies if:
+  - The dishonour was due to an **error or delay by Her Majesty or its agent**
+  - A **system breakdown or communication failure** prevented processing
+- Waiver of charge is possible if:
+  - Administrative costs of assessment and collection exceed the charge
+  - The situation involves an **urgent and critical emergency** (same as interest waiver)
+  - The dishonour resulted from an **error by the financial institution or other entity** (e.g., incorrect account details)
+
+> Waiver considerations:
+> - The debtor’s case
+> - The debtor’s diligence in taking steps to fix the issue
+
+---
+
+## **7. Key Interactions and Provisions**
+
+### ✅ **Interest and Administrative Charges Are Separate**
+- Administrative charges under Part II are **in addition** to any interest under Part I or other laws.
+
+### ✅ **Interest Continues to Accrue Even After a Dishonoured Payment**
+- If a payment instrument is tendered (in full or in part) to settle an amount due (including interest), and it is later dishonoured:
+  - **Interest continues to accrue** from

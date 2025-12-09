@@ -1,0 +1,150 @@
+**Detailed Summary of the Gypsum Board Products Anti-dumping Duty Remission Order, 2017**
+
+---
+
+### **1. Introduction and Legal Authority**
+
+This regulation, known as the **Gypsum Board Products Anti-dumping Duty Remission Order, 2017**, was issued by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, under **section 115a of the Customs Tariff**. It is a statutory instrument designed to provide a **remission (reduction or waiver)** of anti-dumping duties that certain importers have paid or may be required to pay on **gypsum board products**.
+
+The Order is grounded in the **Special Import Measures Act (SIMA)**, specifically under **section 115a**, which allows for the remission of anti-dumping duties in cases where the dumping margin is deemed excessive or where the market conditions justify relief.
+
+**Legal References:**
+- *S.C. 2005, c. 38, para. 145(2)(j)* – Authority to issue remission orders under SIMA.
+- *S.C. 1997, c. 36* – The Special Import Measures Act.
+
+---
+
+### **2. Definitions**
+
+Key terms used in the Order are defined as follows:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Special Import Measures Act* (SIMA). |
+| **Agency** | Refers to the *Canada Border Services Agency* (CBSA), responsible for enforcing customs and import regulations. |
+| **Gypsum board products** | Defined as the subject goods identified in **paragraph 30 of the Canadian International Trade Tribunal (CITT) finding** issued on **January 4, 2017**, in **Inquiry Number NQ-2016-002**. This includes various types of drywall or plasterboard used in construction. |
+| **Import value** | The value calculated for "B" in the formula specified in paragraph 2(1)(b) of the Act, **as if it were the export price** under sections 24 and 25 of the Act. This is the value used to determine the dumping margin. |
+| **Reference value** | The value calculated for "A" in the same formula (paragraph 2(1)(b)), representing the **normal value** of the product (i.e., the price at which the product is sold in the domestic market of the exporting country). |
+
+> These values are critical in calculating the **remission amount**.
+
+---
+
+### **3. Remission Formula**
+
+A remission is granted for each gypsum board product equal to the **amount by which the anti-dumping duties exceed** the greater of:
+
+1. **Zero (0)**  
+2. An amount calculated using the following formula:
+
+> **Remission Amount = [Reference Value × (1 – 32.17%)] – Import Value**
+
+Where:
+- **Reference Value** = The normal value per thousand square feet, calculated at the time of the final determination (January 4, 2017), **reduced by 32.17%**.
+- **Import Value** = The value per thousand square feet of the imported product, calculated based on:
+  - **If section 25(1)(b) of the Act applies** (i.e., if the product is subject to a specific valuation method), then:
+    - Under **section 25 of the Act**, **without any deductions** for duties under paragraphs (1)(c) or (1)(d) — except for duties imposed under the *Customs Tariff*.
+  - **Otherwise**, under **section 24 of the Act** (the general valuation method).
+
+> ⚠️ **Critical Adjustment**:  
+> If the **import value (B)** is **less than** the **reference value (A)**, then the remission amount is **reduced by the difference** between the reference value and the import value.  
+> This ensures that remission does not exceed the actual dumping margin.
+
+---
+
+### **4. Scope of the Investigation**
+
+The remission applies to the results of an investigation initiated on **June 8, 2016**, under **subsection 31(1) of the Special Import Measures Act**. This investigation concluded with a finding by the **Canadian International Trade Tribunal (CITT)** on **January 4, 2017**, that certain gypsum board products were being **dumped in a manner that caused or threatened injury to the Canadian industry**.
+
+This finding established the basis for anti-dumping duties and also forms the foundation for the remission calculation.
+
+---
+
+### **5. Annual Indexing of Reference Value**
+
+To account for inflation and changes in market prices, the **reference value** for each gypsum board product is **indexed annually**, starting on **January 1, 2018**.
+
+- The indexing is based on the **Industrial Product Price Index (IPPI)** for gypsum product manufacturing.
+- The index covers the **12-month period ending on September 30** of the immediately preceding calendar year.
+- This ensures that the reference value remains relevant and reflects real-world cost changes over time.
+
+> Example: The reference value for 2018 would be adjusted based on the 12-month IPPI from October 1, 2017, to September 30, 2018.
+
+---
+
+### **6. Conditions for Remission**
+
+To qualify for remission, the importer must meet the following conditions:
+
+#### **(a) Timely Claim**
+- A claim for remission must be submitted to the **Minister of Public Safety and Emergency Preparedness** **within two years** of the date when the gypsum board products are accounted for under **section 32 of the Customs Act**.
+
+> This creates a strict deadline for claiming remission, emphasizing timely compliance.
+
+#### **(b) Submission of Evidence**
+- Upon request by the **CBSA**, the importer must file with the Agency:
+  - All necessary **evidence or information** required to verify eligibility for remission.
+  - This includes documentation supporting the import value, the normal value, and the calculation of the dumping margin.
+
+#### **(c) Agreement to Audit**
+- The importer **agrees to be subject to audits** by the CBSA at any time — including **after remission has been granted**.
+- The audit purpose is to verify:
+  - Whether the information provided under (a) or (b) is **accurate and complete**.
+  - Whether the **facts relied upon** to determine eligibility remain unchanged in **all material respects**.
+
+#### **(d) Audit Compliance**
+- At the time of any audit, the CBSA must be able to conclude that:
+  - The information supplied is **accurate and complete**.
+  - The facts remain **unchanged in all material respects**.
+
+> This provision ensures **transparency, accountability, and compliance** with the remission process.
+
+---
+
+### **7. Effective Date**
+
+The Order comes into force on the **day it is registered** with the Government of Canada (i.e., upon official publication in the *Canada Gazette*).
+
+---
+
+### **8. Purpose and Rationale**
+
+This remission order serves several key policy and economic purposes:
+
+- **Mitigates the burden** of anti-dumping duties on Canadian importers who have already paid duties, especially when the dumping margin is high or when the import value is significantly lower than the normal value.
+- Provides **economic relief** to businesses that may have been adversely affected by the imposition of high anti-dumping duties.
+- Maintains **fairness and consistency** in the application of anti-dumping measures by allowing a calculated, transparent, and indexed adjustment.
+- Reinforces the **principles of international trade fairness** by acknowledging market dynamics and inflation.
+- Balances protection of domestic industries with the need for importers to remain competitive and viable.
+
+---
+
+### **9. Key Features and Implications**
+
+| Feature | Significance |
+|--------|-------------|
+| **32.17% reduction** | A fixed discount applied to the normal value to determine the threshold for remission. This reflects a policy decision to limit the maximum possible remission. |
+| **Valuation method** | Uses section 24 or 25 of the Act, depending on circumstances, with specific rules on duty deductions. |
+| **Indexing mechanism** | Ensures remission remains relevant over time, adjusting for inflation in manufacturing costs. |
+| **Audit obligation** | Imposes a long-term compliance requirement, reducing the risk of fraud or misrepresentation. |
+| **Time limit for claims** | Encourages prompt action and prevents prolonged disputes. |
+
+---
+
+### **10. Conclusion**
+
+The **Gypsum Board Products Anti-dumping Duty Remission Order, 2017** is a carefully structured and legally sound instrument that:
+
+- Provides **targeted relief** to importers of gypsum board products,
+- Is based on **transparent, formula-driven calculations**,
+- Incorporates **economic realism** through indexing,
+- And includes **strong compliance and audit mechanisms** to ensure integrity.
+
+It reflects a balanced approach to trade policy — protecting domestic industries while ensuring that anti-dumping measures do not impose undue financial hardship on legitimate importers.
+
+This Order remains in force and is applicable to all future shipments of gypsum board products falling within the defined scope, subject to the conditions and timelines outlined.
+
+--- 
+
+✅ **Summary in One Sentence:**  
+The Gypsum Board Products Anti-dumping Duty Remission Order, 2017 provides a formula-based, annually indexed reduction of anti-dumping duties for gypsum board products, subject to strict eligibility conditions, timely claims, and audit compliance,

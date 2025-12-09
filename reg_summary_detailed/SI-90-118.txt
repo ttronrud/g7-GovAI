@@ -1,0 +1,147 @@
+Certainly. Below is a **detailed and comprehensive summary** of the regulation you provided — the *Spruce Falls Remission Order* — structured for clarity, accuracy, and ease of understanding.
+
+---
+
+## 🔍 **Detailed Summary of the Spruce Falls Remission Order**
+
+### **1. Legal Basis and Authority**
+- **Governing Authority**:  
+  The Order is issued by **His Excellency the Governor General in Council**, acting on the recommendation of the **Minister of Finance** and the **Treasury Board**.
+- **Legal Authority**:  
+  The Order is made under **Section 23 of the Financial Administration Act**, which empowers the Governor General to issue orders to remit taxes in the public interest.
+
+> This means the government has determined that granting tax remission to Spruce Falls Power and Paper Company, Limited (Spruce Falls) serves the broader public interest — likely due to economic, environmental, or strategic reasons related to energy infrastructure or industrial development.
+
+---
+
+### **2. Name and Citation**
+- The Order is officially titled:  
+  **"The Spruce Falls Remission Order"**  
+  It may be cited as such in legal or administrative contexts.
+
+---
+
+### **3. Key Definitions**
+The Order defines several key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Income Tax Act* (in both English and French). |
+| **Power Rights Agreement** | The agreement dated **October 31, 1989**, between Spruce Falls and **Ontario Hydro**, under which Ontario Hydro supplies electricity to Spruce Falls **at no charge**. |
+| **Spruce Falls** | Short for *Spruce Falls Power and Paper Company, Limited*. |
+| **Water Power Lease Agreement** | The original agreement dated **January 1, 1983**, as amended on **March 17, 1989**, between the Government of Ontario (Her Majesty The Queen in Right of Ontario) and Spruce Falls. This agreement grants Spruce Falls the right to develop water power on certain lands. |
+
+---
+
+### **4. Core Provision: Tax Remission**
+A **remission of income tax** is granted to Spruce Falls for each **taxation year starting in 1989 and continuing thereafter**.
+
+#### ✅ What is being remitted?
+The remission equals the **difference** between two values:
+
+| Numerator (What is being compared against) | Denominator (What would be the result if rules applied) |
+|------------------------------------------|--------------------------------------------------------|
+| **Actual tax liability** (under current law) | **Tax liability under hypothetical scenario** |
+
+More specifically:
+
+> Remission =  
+> **(Actual income tax payable + interest & penalties)**  
+> −  
+> **(Tax that would have been payable *if* certain tax rules applied)**
+
+#### 📌 Hypothetical Tax Scenario (What "would have been payable")
+Under this hypothetical, the following provisions of the *Income Tax Act* are applied as if:
+- Spruce Falls **assigned** the **Water Power Lease Agreement** to Ontario Hydro.
+- Spruce Falls **acquired** the **Power Rights Agreement** from Ontario Hydro.
+- The **Water Power Lease Agreement** is treated as a **former business property**.
+- The **Power Rights Agreement** is treated as **depreciable property** acquired as a **replacement** for the former business property.
+
+Additionally:
+- Spruce Falls is deemed to have **elected under subsection 13(4)** of the Act (which governs the treatment of business property dispositions) **as and when required** for both:
+  - The assignment of the lease (disposition of former business property)
+  - The acquisition of the Power Rights Agreement (acquisition of depreciable property)
+
+> This hypothetical scenario effectively applies **capital cost allowance (CCA)** rules to the Power Rights Agreement, which would otherwise not apply due to the nature of the lease.
+
+> **Result**: In this scenario, the tax liability would be lower because the cost of the Power Rights Agreement would be eligible for depreciation (a tax deduction), reducing taxable income.
+
+> The remission compensates Spruce Falls for the **tax burden it would have otherwise faced** due to the lack of depreciation treatment on the Power Rights Agreement.
+
+---
+
+### **5. Conditions for the Remission to Apply**
+
+The remission is **not automatic** — it is subject to **specific conditions** that must be met by Spruce Falls.
+
+#### 🔹 Condition 1: No Deduction for Power Rights Agreement Cost
+- In calculating **profit or loss (excluding capital gains)** for any taxation year from 1989 onward:
+  - Spruce Falls **must not claim a deduction** for the **cost of the Power Rights Agreement**.
+- This ensures that the tax benefit is not double-counted or improperly reduced through accounting.
+
+#### 🔹 Condition 2: Application of Subsections 13(4) and 44(1)
+- If Spruce Falls **disposes of the Power Rights Agreement** (sells or transfers it), then:
+  - Subsections **13(4)** and **44(1)** of the Income Tax Act must be treated as **applying** to the transaction.
+  - This means:
+    - The assignment of the Water Power Lease Agreement is treated as a **disposal of former business property**.
+    - The acquisition of the Power Rights Agreement is treated as the **acquisition of depreciable property** replacing the former business property.
+    - Spruce Falls must have elected under subsection 13(4) as and when required.
+
+> This ensures that future dispositions are taxed in a manner consistent with the original intent of the remission — to allow for depreciation and proper capital cost treatment.
+
+#### 🔹 Condition 3: Treatment of Power Rights Agreement as Class 14 Property
+- For income tax purposes, the **Power Rights Agreement** is treated as **property included in Class 14** of **Schedule II to the Income Tax Regulations**.
+- Class 14 typically includes **depreciable property used in business**, such as equipment, machinery, or energy rights.
+- This classification allows the agreement to be eligible for **capital cost allowance (CCA)**, which reduces taxable income annually.
+
+> This is a crucial step in making the Power Rights Agreement tax-deductible for depreciation purposes — a major shift from its original treatment.
+
+#### 🔹 Condition 4: Pre-1996 Fulfillment of Agreement Conditions
+- All **conditions precedent** contained in the **Power Rights Agreement** must be **fully satisfied** by both parties (Spruce Falls and Ontario Hydro) **before the year 1996**.
+- This condition ensures that the underlying legal and operational framework for the agreement was complete and enforceable prior to the remission taking effect.
+
+> If any condition was not met by 1996, the remission would not apply — protecting the integrity of the agreement.
+
+---
+
+### **6. Scope and Duration**
+- **Start Year**: The remission applies to the **1989 taxation year** and **all subsequent years**.
+- **Ongoing Effect**: The benefit continues annually unless terminated or modified by future legislation.
+
+---
+
+### **7. Purpose and Public Interest Justification**
+While not explicitly stated in the text, the **public interest justification** (mentioned in the opening clause) likely includes:
+- **Supporting energy infrastructure development** in Ontario.
+- **Promoting energy efficiency and reliability** through long-term power supply agreements.
+- **Encouraging industrial investment** in a region with significant hydroelectric potential.
+- **Avoiding double taxation or economic inefficiencies** arising from the lack of depreciation on the Power Rights Agreement.
+
+This remission effectively **recalibrates the tax treatment** of a key asset (the Power Rights Agreement) to reflect its true economic and operational role — as a depreciable business asset — rather than as a non-depreciable lease.
+
+---
+
+### **8. Key Implications and Outcomes**
+
+| Implication | Explanation |
+|-----------|-------------|
+| **Tax Relief for Spruce Falls** | The company avoids paying income tax on the difference between actual and hypothetical tax liabilities due to the lack of depreciation. |
+| **Depreciation Eligibility** | The Power Rights Agreement is now eligible for CCA (capital cost allowance), which reduces taxable income annually. |
+| **Future Dispositions Treated Correctly** | Any future sale of the Power Rights Agreement will be taxed under proper business property rules (13(4) and 44(1)). |
+| **Transparency and Compliance** | Spruce Falls must maintain accurate records and comply with accounting rules to ensure the remission remains valid. |
+| **Public Policy Alignment** | Reflects a government policy of supporting sustainable, long-term energy infrastructure through targeted tax relief. |
+
+---
+
+### **9. Legal and Policy Significance**
+- This Order is a **classic example of tax policy intervention** to address a specific, non-standard transaction involving public-private energy partnerships.
+- It demonstrates how the government can **redefine the tax treatment of a business asset** in a way that aligns with economic reality, even when standard rules do not apply.
+- It also illustrates the **importance of timing** — the condition that all conditions must be met **before 1996** ensures that the remission is tied to a specific historical event and not retroactively applied to unfulfilled agreements.
+
+---
+
+## ✅ Conclusion
+
+The **Spruce Falls Remission Order** is a targeted, legally sound, and strategically significant tax relief measure that:
+- Grants income tax remission to Spruce Falls Power and Paper Company, Limited for taxation years from 1989 onward,
+- Based on a comparison between actual tax liability and a hypothetical tax liability under specific rules that would allow depreciation of the Power Rights

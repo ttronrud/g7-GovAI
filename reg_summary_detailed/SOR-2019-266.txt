@@ -1,0 +1,148 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the **Output-Based Pricing System Regulations**, as issued under the *Greenhouse Gas Pollution Pricing Act* and the *Environmental Violations Administrative Monetary Penalties Act*.
+
+---
+
+## 📚 **Detailed Summary of the Output-Based Pricing System Regulations**
+
+### 🔹 **Legal Basis and Purpose**
+The regulations are made by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of the Environment**, pursuant to:
+- Sections **192, 193, 198, and 256** of the *Greenhouse Gas Pollution Pricing Act (GHGPPA)*
+- Section **5b** of the *Environmental Violations Administrative Monetary Penalties Act (EVA MP Act)*
+
+**Purpose**:  
+To implement an **output-based pricing system (OBPS)** for greenhouse gas (GHG) emissions from **covered industrial facilities**. This system ties the cost of emissions to the amount of production (output), ensuring that facilities with higher output face higher emission costs, while those with lower output face lower costs — thereby promoting efficiency and innovation without disproportionately burdening small or low-output operations.
+
+---
+
+## 🔍 Key Definitions and Interpretations
+
+### 1. **Facility Definition (Subsection 1(1))**
+A "facility" refers to a group of interconnected elements used in an integrated way to carry out a specified industrial activity.
+
+#### Components:
+- A **site or multiple sites** where the industrial activity occurs, including:
+  - Buildings, equipment, structures, and stationary items.
+- Any **associated sites** used in conjunction with the activity, such as:
+  - Quarries, tailings ponds, wastewater lagoons, landfills.
+- **Portions of natural gas transmission pipelines** (within a province) that:
+  - Transmit processed natural gas.
+  - Include compressors, storage installations, and associated equipment.
+  - **Excluded**: Pipelines used in **local distribution** downstream of a metering station.
+
+#### Ownership & Control Requirements:
+- If **multiple individuals or entities** are responsible (e.g., owners, managers, decision-makers), the facility is **only included** if **at least one person** is jointly responsible (in ownership, management, or decision-making).
+- For **pipeline systems**, same requirement applies: **joint responsibility** required.
+- **Integrated operation** is key — if two or more pipeline systems in the same province are operated under **shared control**, they are **deemed a single facility**.
+- If two or more facilities share **a common responsible party** but are **not operated integrally**, they remain **separate facilities**.
+
+#### Additional Clarifications:
+- Any **public road or railway track** bordering the facility and used for its industrial operations is **deemed part of the facility**.
+- **Railway tracks used exclusively** for facility operations are included.
+- **Buildings used for legal/administrative purposes** (not directly involved in production) are **excluded** from the facility definition.
+
+> ⚠️ *Note: For non-covered facilities, the "specified industrial activities" are defined as if the facility were covered.*
+
+---
+
+### 2. **Core Definitions (Key Terms)**
+
+| Term | Definition |
+|------|-----------|
+| **GHG** | Greenhouse gas (used only in English) |
+| **Global Warming Potential (GWP)** | As defined in Schedule 3 of the Act (e.g., CO₂e equivalent for different gases) |
+| **Gaseous/Liquid/Solid Fuel** | Defined by physical state at 15°C and 101.325 kPa |
+| **Natural Gas** | ≥70% methane by volume or HHV between 35–41 MJ/m³; excludes landfill/digester gas |
+| **Boiler Unit / Combustion Engine Unit** | Same meaning as in *Regulations Limiting CO₂ Emissions from Natural Gas-fired Generation* |
+| **Stationary Fuel Combustion Emissions** | From devices burning fossil fuels to produce useful heat |
+| **Industrial Process Emissions** | From chemical/physical reactions not aimed at producing heat |
+| **Industrial Product Use Emissions** | Emissions from using SF₆, HFCs, PFCs as cover gases or in foam-blowing |
+| **Leakage Emissions** | Uncontrolled emissions (not including process or product use emissions) |
+| **Flaring Emissions** | Controlled combustion of gases/liquids *not* to produce useful heat (excludes landfill gas flaring) |
+| **Venting Emissions** | From design, pressure exceedance, or processing procedures |
+| **Waste & Wastewater Emissions** | From waste disposal, biological treatment, incineration, landfill gas flaring (excludes tire/asphalt combustion) |
+| **On-site Transportation Emissions** | From vehicles/machinery used for transport of materials or people |
+| **Thermal Energy** | Useful steam or hot water used in industrial processes |
+| **Thermal Energy to Electricity Ratio** | Ratio of thermal energy produced to gross electricity generated (excludes duct burners) |
+| **Total Capacity** | Either: <br> - Maximum continuous rating (MW), or <br> - Peak output over two consecutive hours (if no report) |
+| **Unit** | Assembly including boiler/engine + connected equipment (duct burners, turbines, generators, controls) |
+| **Specialty Lime / Grey/White Cement** | Defined by chemical composition (e.g., ferric oxide content) |
+| **Additional Industrial Activity** | Recognized by the Minister as being at risk of competitiveness/carbon leakage; not in Schedule 1 |
+
+> ✅ *ISO 14065 (2013)*: Standard for GHG validation and verification bodies.  
+> ✅ *Quantification Methods (2022)*: Document used to calculate emissions; the **most recent version before a compliance period begins** must be followed.
+
+> ⚖️ **Amendment Flexibility**:
+> - If ISO 14065 is updated, the **previous version can be used for up to 4 years** after publication.
+> - For compliance periods, the **version published before the period starts** is required.
+
+---
+
+## 📊 Emission Types Covered (Section 2)
+
+GHGs must be quantified for **eight emission types**:
+
+| Emission Type | Notes |
+|-------------|-------|
+| Stationary fuel combustion | From burning solid, liquid, or gaseous fuels to generate heat |
+| Industrial process emissions | From chemical reactions (non-combustion) |
+| Industrial product use emissions | From using SF₆, HFCs, PFCs as cover gases or in foams |
+| Venting emissions | From equipment design or pressure issues |
+| Flaring emissions | From non-useful gas combustion (excludes landfill gas) |
+| Leakage emissions | Uncontrolled (fugitive) emissions |
+| On-site transportation | Vehicles/materials used on-site |
+| Waste & wastewater emissions | From disposal, treatment, or incineration |
+
+> ❌ Exclusions:
+> - Combustion of tires/asphalt to produce useful heat
+> - Emissions from landfill gas flaring (included in waste emissions)
+
+---
+
+## 📈 Output-Based Standards (Section 3)
+
+- Output-based standards are established for:
+  - **Industrial activities listed in Column 1 of Schedule 1** (e.g., cement, steel, chemicals, refining)
+  - **Additional industrial activities** recognized by the Minister as being at risk of **carbon leakage or competitiveness impacts**
+
+> 🎯 **Key Principle**: Emission intensity (e.g., kg CO₂e per unit of output) is tied to the **level of production**.  
+> This means a facility emits more GHGs when it produces more — but the **per-unit cost is fixed** based on the output standard.
+
+---
+
+## 🚫 Facility Designation & Cancellation (Section 4)
+
+### Conditions for Designation:
+- A facility may be designated as a **covered facility** only if it is expected to emit **at least 10 kt of CO₂e** in **any of the first three calendar years** after first production.
+
+### Cancellation (Under Section 172(3) of the Act):
+- If a facility **fails to meet the 10 kt CO₂e threshold** in any of the first three years, the Minister may **cancel its designation**.
+- **Notice must be given at least 30 days** before cancellation.
+- If cancellation occurs **during a calendar year**, it takes effect on **December 31 of that year**.
+
+> 🚨 This ensures only facilities with significant emissions are subject to the pricing system.
+
+---
+
+## 🚪 When a Facility Ceases to Be Covered (Section 5)
+
+A covered facility **ceases to be covered** under either of the following:
+
+1. **No production** from all specified industrial activities for **five consecutive compliance periods**  
+2. The **person responsible** requests cancellation due to expected cessation of activities for **at least 12 consecutive months**
+
+### Effective Dates of Cessation:
+- **For (1)**: On **December 31 of the fifth consecutive year** with no production reported.
+- **For (2)**: On the **later of**:
+  - The **30th day after** the Minister receives the request, or
+  - The **date production actually ceases**
+
+> This provides a clear, predictable endpoint for compliance obligations.
+
+---
+
+## 📅 Compliance Requirements (Part 2 of the Act)
+
+Covered facilities must:
+1. **Submit annual GHG emissions reports** detailing:
+   - Production volumes per specified industrial activity
+   - GHG emissions (

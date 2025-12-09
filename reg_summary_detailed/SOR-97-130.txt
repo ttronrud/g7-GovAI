@@ -1,0 +1,178 @@
+### **Detailed Summary of the National Energy Board Electricity Regulations (S.C. 1990, c. 7, s. 23 and s. 34)**
+
+---
+
+#### **Overview and Legal Basis**
+
+These regulations, known as the **National Energy Board Electricity Regulations**, were enacted by His Excellency the Governor General in Council, on the recommendation of the Minister of Natural Resources, under **sections 58.39a and 119.094b of the National Energy Board Act (NEBA)**. Their purpose is to implement and regulate provisions of the NEBA related to:
+
+- The **construction and operation of international power lines** connecting Canada to the United States;
+- The **exportation of electricity** from Canada to other countries, particularly the U.S.
+
+These regulations provide a comprehensive legal and procedural framework governing the **application process, environmental assessments, technical requirements, and operational conditions** for international electricity transmission and export.
+
+The regulations may be cited as the **National Energy Board Electricity Regulations**.
+
+---
+
+## **Key Definitions**
+
+The regulations define key terms used throughout the document:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the National Energy Board Act. |
+| **Electricity transfer** | Includes five types: sale, equichange, adjustment, carrier, and storage transfers. |
+| **Energy** | Total quantity of electricity transmitted over time, measured in watt-hours (Wh) or multiples/sub-multiples. |
+| **Power** | Rate of energy transfer, measured in watts (W) or multiples/sub-multiples. |
+| **Power system** | Encompasses generating stations, transformers, switching stations, transmission lines, substations, and distribution networks. |
+| **Power transfer capability** | Maximum power that can be transferred between two interconnected systems without compromising reliability. |
+| **Firm energy/power** | Energy or power guaranteed to be available at all specified times under an agreement. |
+| **Interruptible energy/power** | Energy or power that can be curtailed or interrupted at the supplier’s discretion. |
+| **Adjustment transfer** | Used to balance energy accounts or compensate for services rendered. |
+| **Border accommodation transfer** | Transfers made to provide electricity to: (1) persons in the U.S. lacking access; (2) cross-border works; or (3) individuals affected by emergencies in the U.S. |
+| **Carrier transfer** | Power routed through another system’s circuits to reach a third party or return to the original system. |
+| **Storage transfer** | Energy stored temporarily in a reservoir (e.g., hydroelectric) with expectation of return later. |
+| **Environmental effect** | Any change in the environment—including health, socio-economic, cultural, or heritage impacts—caused by a project, including accidents, cumulative effects, or environmental feedback. |
+| **Notice** | Public notice of permit applications, published per NEBA sections 58.12 or 119.04. |
+| **Permit** | Authorization for either (1) construction/operation of an international power line (Part III.1), or (2) exportation of electricity (Part VI). |
+| **Power line outside Canada** | The section of a power line in the U.S. from the border crossover point to the first U.S. switching station. |
+
+---
+
+## **Inspection Authority**
+
+- Members of the National Energy Board (NEB) or individuals **authorized in writing** by the Board may inspect:
+  - Instruments, devices, plant, equipment, books, records, accounts, and other materials used in the **exportation of electricity**.
+- Inspections may include **testing** necessary to verify compliance.
+- Authorized personnel must **produce their written authorization** upon request.
+- Operators or persons in charge of premises or equipment must **permit inspections** and **assist** the Board or authorized persons in carrying them out.
+
+---
+
+## **Application Requirements for International Power Lines**
+
+### **1. Power Lines ≤ 50 kV Operating Voltage**
+
+Applications must include the following information (unless already known to the Board):
+
+- **Applicant details**: Name, address, contact info of applicant and authorized representatives.
+- **Owner/operator of the international power line in Canada**: If different from applicant.
+- **Proof of publication of notice**.
+- **Early public notification process** description.
+- **Map** showing:
+  - Terminal points, general route, international boundary crossover point, and distances from crossover to terminals.
+  - Provinces, cities, parks, rivers, roads, railways, navigable waters, and the power line outside Canada.
+- **Plan of survey** to accurately locate the international boundary crossover point.
+- **Owner/operator of the power line outside Canada**.
+- **Brief engineering description** including:
+  - Voltage level
+  - Number and size of conductors
+  - Maximum power transfer capability
+  - Single-line diagram of all facilities
+- **Copy of any agreement** between applicant and foreign power line owner/operator.
+- **Environmental considerations**:
+  - Evidence that screening is not required under the *Canadian Environmental Assessment Act* (CEAA) due to exclusion list status, or
+  - A full description of environmental effects, including:
+    - Significance of effects
+    - Public comments received
+    - Feasible mitigation measures
+- **Provincial approvals** required and current status.
+- **Approvals required for the power line outside Canada** and their current status.
+
+---
+
+### **2. Power Lines > 50 kV Operating Voltage**
+
+Applications are more extensive and require detailed technical and environmental analysis:
+
+- **Applicant and representative details**.
+- **Owner/operator details** (names, addresses) and:
+  - Description of their power systems
+  - Copy of their most recent annual report
+- **Proof of notice publication**.
+- **Map** showing:
+  - General route and facility sites considered
+  - Alternative routes/sites
+  - Areas subject to physical/environmental constraints (e.g., land use, biophysical)
+  - Proposed ancillary facilities
+- **Environmental, land-use, and other criteria** used to select routes/sites.
+- **All terminal points and international boundary crossover point**.
+- **Distances from crossover to each terminal point**.
+- **Detailed map** of:
+  - Terminal points, crossover point, distances
+  - Provinces, cities, rivers, roads, railways, navigable waters
+  - Power line outside Canada
+- **Plan of survey** for accurate boundary crossover location.
+- **Owner/operator details of power line outside Canada**.
+- **Copy of their most recent annual reports**.
+- **Engineering description** including:
+  - Voltage level
+  - Number and size of conductors
+  - Tower or structure design
+  - Single-line diagram
+  - Power transfer capability under **winter and summer conditions**
+  - Criteria for those capabilities
+- **Total export/import power transfer capabilities** (with and without the proposed line), for both applicant’s and interconnected systems — with criteria stated.
+- **Copies of**:
+  - Interconnection agreements
+  - Any agreements with foreign power line owner/operator
+- **Provincial requirements and review process**:
+  - Description of review process per province
+  - Public consultation process
+  - Timeline/schedule for the process
+- **List of required approvals** and current status:
+  - From all provinces
+  - From U.S. authorities for importation
+- **Schedule** of:
+  - Projected approval dates
+  - Start and completion dates for construction of both the Canadian and U.S. sections
+- **Environmental assessment report**:
+  - Can be a screening report or a **comprehensive study** under CEAA or provincial legislation.
+  - **Must include**:
+    - A map showing the proposed route with a **minimum 1 km width** on each side, clearly depicting:
+      - Surface geology
+      - Wildlife habitats (including ecologically or economically important species)
+      - Rare/endangered plants
+      - Spawning beds
+      - Parks, recreational areas
+      - Historic/ archaeological sites
+      - Conservation areas
+      - Indian reserves
+      - Existing land use
+    - Justification for the right-of-way width
+    - Description of environmental effects, including:
+      - Significance of effects
+      - Public comments
+      - Feasible mitigation measures
+    - Measures to minimize **visual impact**
+    - **Radio/TV interference levels** under fair/foul weather at maximum load, with mitigation plans
+    - For voltages **above 240 kV**:
+      - Noise, ozone, electric field gradient, magnetic field strength at edge of right-of-way
+      - Protection measures for people/animals (e.g., electric shock on vehicles)
+    - **Noise levels** (in decibels) at substations, public exposure, and noise mitigation
+    - Pesticides/herbicides used in construction/maintenance:
+      - Quantities, application methods
+      - Potential environmental harm
+      - Mitigation strategies
+    - Surface restoration plans and waste disposal plans
+    - Applicant’s **intentions for ongoing environmental monitoring** during construction and operation
+- **For comprehensive study reports only** (additional factors):
+  - Purpose of the project
+  - Technically and economically feasible alternatives and their environmental impacts
+  - Need for and requirements of any follow-up program
+  - Capacity of renewable resources likely affected to meet future needs
+- **Adverse effects on other provinces** due to operation at full transfer capability:
+  - Impact on power system reliability
+  - Mitigation measures
+- **Safety and environmental standards, practices, and procedures**:
+  - To be used in design, construction, and operation
+  - Must include date of issuance of relevant documents
+
+---
+
+## **Permit Terms and Conditions**
+
+Permits for international power lines may include the following terms and conditions:
+
+1. **Notice

@@ -1,0 +1,176 @@
+Certainly. Below is a **detailed, clear, and comprehensive summary** of the *Air Canada Pension Plan Funding Regulations, 2014*, as provided in your query.
+
+---
+
+## 📚 **Detailed Summary of the Air Canada Pension Plan Funding Regulations, 2014**
+
+### 🔹 **Regulatory Background and Legal Authority**
+These regulations were issued under the authority of the **Pension Benefits Standards Act, 1985 (PBSSA)**, specifically:
+- Subsection 9(1)a
+- Paragraphs 10.1(2)(c)b and (d)b
+- Subparagraphs 28(1)(b)(iv) and (b.1)(ii)c
+- Subsection 29(6)d
+- Section 39e of the PBSSA
+
+They were made by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, and came into force on **January 1, 2014**.  
+They were **repealed (ceased to be in force)** on **December 31, 2020**, except for certain transitional provisions.
+
+---
+
+## 🔍 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Air Canada pension plan (or "plan")** | A defined benefit pension plan administered by Air Canada that was established *before May 2, 2013*, excluding multi-employer plans. |
+| **Solvency deficiency** | The difference between a plan’s solvency liabilities (determined via a solvency valuation) and the market value of its assets related to defined benefit provisions (also determined via solvency valuation). In other words: <br> **Solvency Deficiency = Solvency Liabilities – Market Value of Assets** |
+
+> If the solvency deficiency is positive, the plan is underfunded.
+
+All other terms used in these regulations have the same meaning as in the *Pension Benefits Standards Regulations, 1985*, unless otherwise defined.
+
+---
+
+## 🎯 Scope and Application
+
+- Applies to **all Air Canada pension plans** established before May 2, 2013.
+- Does **not render the Pension Benefits Standards Regulations (PBSSR) inapplicable** overall.
+- However, **Section 9 of the PBSSR (except subsection 9(14)) does not apply** to these plans.
+- **Section 9(14)** of the PBSSR *does* apply, but with a specific interpretation:
+  - A "special payment" includes the amount required under **paragraph 5(1)(b)** of the regulations.
+- For clarity: The amounts required under paragraph 5(1)(b) are considered "**other payments**" under paragraph 10(2)(d) of the PBSSR.
+
+---
+
+## ✅ Funding Requirements (Core Principle)
+
+Every Air Canada pension plan must be funded in each plan year by **three components**:
+
+1. **Normal cost** of the plan  
+   → The actuarial cost of providing pension benefits to employees (based on current service, salary, and benefit formulas).
+
+2. **An additional amount determined under subsection (2)**  
+   → This is a calculated payment to address solvency deficiencies.
+
+3. **Amount required to be paid under a defined contribution provision** in the plan  
+   → If the plan includes a defined contribution component (e.g., employer contributions to a separate fund), this amount must also be paid.
+
+---
+
+## 💰 Calculation of the Additional Funding Amount (Subsection 2)
+
+The amount required under subsection (2) depends on whether the **aggregate solvency deficiency of all Air Canada plans** exceeds **$150 million**.
+
+### Case 1: Aggregate solvency deficiency ≥ $150 million  
+Use the formula:
+
+> **Amount to pay = (Solvency Deficiency of Plan) × (150,000,000 / Aggregate Solvency Deficiency of All Plans)**
+
+This is a **proportional share** of the total deficiency.
+
+### Case 2: Aggregate solvency deficiency < $150 million  
+Use the formula:
+
+> **Amount to pay = (Solvency Deficiency of Plan) × (Aggregate Solvency Deficiency of All Plans) / (Aggregate Solvency Liabilities of All Plans)**
+
+This is a **ratio-based formula** that considers both deficiency and liabilities.
+
+> This ensures that plans with higher relative underfunding contribute more proportionally.
+
+---
+
+## ⏳ Special Requirement for the 2020 Plan Year (Subsection 3)
+
+Unless the entire plan is terminated or Air Canada provides formal notice under subsection 6(1), **a specific additional payment must be made in the 2020 plan year**.
+
+### What is this payment?
+It is calculated under **subsection (4)** and must be paid **by December 31, 2020**.
+
+### Formula (based on the aggregate solvency deficiency):
+
+#### Case A: Aggregate deficiency ≥ amount determined by formula A  
+> **Amount = (Solvency Deficiency of Plan) × (Formula A) / (Aggregate Solvency Deficiencies of All Plans)**  
+> Where Formula A =  
+> - Number of plan years after 2013  
+> - Plus the sum of additional payments made in those years (beyond normal cost)  
+> - Multiplied by the solvency deficiency of the plan
+
+#### Case B: Aggregate deficiency < amount determined by formula G  
+> **Amount = (Solvency Deficiency of Plan) × (Formula G) / (Aggregate Solvency Deficiencies of All Plans)**  
+> Where Formula G = same as above, but includes solvency liabilities in the denominator.
+
+> This formula adjusts for the **cumulative underfunding** over time and ensures that plans contribute to closing the gap based on historical funding shortfalls.
+
+> **Note**: This payment is designed to address long-term underfunding and is not a one-time fix.
+
+---
+
+## ⚠️ Interest on Late Payments
+
+If an employer fails to make the required payment under subsection (3) (the 2020 special payment) **within the prescribed time**, the unpaid amount will bear **interest at the rate used to determine the plan’s solvency liabilities**.
+
+This encourages timely compliance and provides a financial incentive to meet funding obligations.
+
+---
+
+## 🚫 Discontinuation of Funding (Subsection 1)
+
+Air Canada may **choose to discontinue funding** of all Air Canada pension plans under these regulations for a given plan year.
+
+### How it works:
+- Air Canada must provide **written notice to the Superintendent** on or before:
+  - The day the actuarial report is filed, **or**
+  - June 30 of the plan year
+- The regulations **cease to apply** to the plans on **December 31 of the previous plan year**.
+
+> Example: If notice is given in 2020, the regulations stop applying to the plans on **December 31, 2020**.
+
+### Notification to Members and Beneficiaries
+- Within **30 days** of giving notice, Air Canada must send a **written notice** to:
+  - All plan members and beneficiaries
+  - Their spouses (or common-law partners, if cohabiting)
+
+> This ensures transparency and allows members to understand the change.
+
+---
+
+## 💡 Adjustment of Solvency Ratio (Post-Notice)
+
+In the plan year when the notice is provided, the **average solvency ratio** for each plan must be adjusted:
+- **Solvency assets are increased** by the amount determined under subsection (3) (the special payment).
+
+> This adjustment ensures that the solvency ratio reflects the actual funding that was made in that year, even if the plan is no longer being funded under the regulations.
+
+---
+
+## 🚫 Exclusion of Section 9.3 of PBSSR
+
+- **Section 9.3 of the PBSSR (except subsection 9.3(2)) does not apply** to Air Canada pension plans.
+- This means the standard solvency ratio rules (e.g., requiring a minimum ratio of 1.0) are not applied.
+
+> However, the **prescribed solvency ratio level is set at 1.0** for the purposes of **paragraphs 10.1(2)(c) and (d)** of the PBSSA.
+
+> This means that the plan must maintain a solvency ratio of **at least 1.0** (assets ≥ liabilities), as determined by the solvency valuation.
+
+---
+
+## 🚪 Special Payment on Termination
+
+If a plan is **terminated**, the special payment due under **paragraph 29(6)(b)** of the PBSSA is calculated as:
+
+> **Sum of:**
+> 1. The amount that would have been required under paragraph 5(1)(b) for the period from the day of termination to the end of the final plan year  
+> 2. The amount determined under subsection 5(4)
+
+> The amounts used are based on the **last actuarial report before termination**.
+
+> This ensures that even in the case of closure, the plan is properly funded to the extent possible.
+
+---
+
+## 📄 Required Information in Reports (Subparagraphs 28(1)(b)(iv) and (b.1)(ii))
+
+For reporting purposes, the following information must be included in the actuarial report filed with the Superintendent:
+
+1. The **amount of the plan’s solvency deficiency** (as shown in the last actuarial report)
+2. The fact that the plan is being funded **in accordance with these regulations**
+3. The

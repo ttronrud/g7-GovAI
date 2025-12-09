@@ -1,0 +1,167 @@
+Certainly. Below is a **detailed, structured summary** of the **Grade Crossings Regulations** as referenced in the provided text. This summary is organized thematically and legally to reflect the regulation’s purpose, definitions, applicability, responsibilities, and key operational requirements.
+
+---
+
+## 📚 **Detailed Summary of the Grade Crossings Regulations**
+
+### 🔹 **Legal Authority and Purpose**
+The regulations are made under the **Railway Safety Act** by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Transport**, pursuant to several specific statutory provisions:
+
+- Section 7.1b
+- Subsections 18(1)c and (2)d
+- Paragraph 23.1(1)(a)e
+- Subsection 24(1)f
+- Sections 37g and 47 of the *Railway Safety Act*
+
+**Purpose**:  
+To ensure the **safety of road and rail users** at grade crossings by establishing standardized design, signage, sightlines, warning systems, and traffic control measures. These regulations apply to both **public and private grade crossings**, with tailored responsibilities based on the type of crossing and its operational characteristics.
+
+---
+
+## 🔍 Key Definitions (Core Terms)
+
+| Term | Definition |
+|------|-----------|
+| **Grade Crossing** | A road crossing at grade (same level) with railway tracks, or multiple road crossings where railway lines are within 30 meters of each other. |
+| **Public Grade Crossing** | A crossing where the road is opened or maintained by a **road authority** and is designed for public use. |
+| **Private Grade Crossing** | A crossing not operated or maintained by a public road authority. May be owned or managed by a private entity (e.g., a company or property owner). |
+| **Existing Grade Crossing** | A crossing where actual construction began **before November 28, 2014**. |
+| **New Grade Crossing** | A crossing where construction begins **on or after November 28, 2014**. |
+| **Average Annual Daily Railway Movements (AADRM)** | Total railway movements per year divided by 365 days. Measures rail traffic volume. |
+| **Average Annual Daily Traffic (AADT)** | Total motor vehicle crossings per year divided by 365 days. Measures road traffic volume. |
+| **Cross-Product** | Product of AADRM × AADT. Used to assess risk and determine required safety measures. |
+| **Design Vehicle** | A standardized vehicle (from the *Geometric Design Guide for Canadian Roads*, 1999) used to determine road and crossing design parameters. |
+| **Railway Design Speed** | Speed at which railway equipment is designed to operate (e.g., 97 km/h for passenger trains). |
+| **Road Crossing Design Speed** | Speed at which motor vehicles are expected to travel across the crossing (based on road design). |
+| **Stopping Sight Distance (SSD)** | Distance a driver needs to see ahead to stop safely, calculated per Grade Crossings Standards. |
+| **Storage Distance (D)** | Shortest distance between the nearest rail and the edge of the intersecting road, measured along the centerline. |
+| **Sightlines** | Visibility lines required for drivers to see approaching trains and warning signs. Must remain unobstructed. |
+| **Traffic Control Devices** | Signs and systems including: Stop sign, Stop Ahead sign, Railway Crossing Ahead sign, Advisory Speed Tab, Prepare to Stop sign, and interconnected traffic signals. |
+| **Warning System** | Automated system (not an interconnected signal) that alerts road users to approaching trains via lights, bells, gates, or mechanisms. |
+
+> **Note**: Two adjacent roads crossing the same railway lines are treated as **separate grade crossings**.
+
+---
+
+## 🚧 Applicability and Exemptions
+
+### ✅ **Applies To**:
+- All **public grade crossings**
+- All **private grade crossings**, **except** those falling under specific exemptions.
+
+### ❌ **Exemptions (Where Regulations Do Not Apply)**
+
+These exemptions apply **only** if **all** the following conditions are met:
+
+#### 1. **Public Grade Crossing Exemption**
+Applies when:
+- AADRM < 3
+- Railway design speed ≤ 17 km/h (10 mph)
+- Crosses ≤ 1 track
+- Storage distance ≥ 30 m (unless access is exclusively for pedestrians/non-motor vehicles)
+- Whistling is required/allowed
+- Cross-product < 2,000
+
+#### 2. **Private Grade Crossing Exemption (Low Traffic)**
+Applies when:
+- Railway design speed ≤ 17 km/h (10 mph)
+- Crosses ≤ 2 tracks
+- Cross-product < 100
+
+#### 3. **Private Grade Crossing Exemption (Freight & Passenger Speeds)**
+Applies when:
+- Freight train speed ≤ 41 km/h (25 mph)
+- Passenger train speed ≤ 49 km/h (30 mph)
+- Crosses ≤ 1 track
+- Storage distance ≥ 30 m (unless pedestrian-only access)
+- Cross-product < 100
+- **No sidewalk** exists
+
+#### 4. **Zero Traffic Exemption**
+- If AADRM = 0 (no trains pass through the crossing)
+
+> ⚠️ **Important**: These exemptions are **not automatic**. They must be evaluated on a case-by-case basis, and the road/rail authority must still comply with relevant safety standards unless explicitly exempted.
+
+---
+
+## 🏗️ Responsibilities: Public vs. Private Crossings
+
+### 🔹 **Public Grade Crossing**
+
+| Responsibility | Responsible Party |
+|--------------|-------------------|
+| **Railway Company** | Must ensure: |
+| - Railway Crossing sign, Number of Tracks sign, Emergency Notification sign | ✅ |
+| - Maintenance of Stop sign on same post as Railway Crossing sign | ✅ |
+| - Operation and maintenance of warning system | ✅ |
+| - Maintenance of crossing surface (except design) | ✅ |
+| - Sightlines within railway right-of-way and adjacent land (including removal of trees/brush) | ✅ |
+
+| **Road Authority** | Must ensure: |
+| - Design, construction, and maintenance of road approach | ✅ |
+| - Traffic control devices (excluding Stop sign on shared post) | ✅ |
+| - Design of crossing surface | ✅ |
+| - Sightlines on land where road is located (including removal of obstructions) | ✅ |
+
+> 📌 **Notice Requirement**:  
+> Upon receiving a notice under **Section 3 of the Notice of Railway Works Regulations**, the railway company must provide the road authority with the following information within **60 days** (or earlier if a change occurs):
+
+- Precise location of the crossing  
+- Number of tracks  
+- AADRM  
+- Railway design speed  
+- Warning system in place  
+- Whether a Stop sign is on the same post as the Railway Crossing sign  
+- Whether whistling is required  
+
+> ⏳ **Deadline for Existing Crossings**:  
+> If no notice has been received within 2 years of **November 28, 2014**, the information must be provided **by the day two years after that date**.
+
+> 🔁 **Change Notification**:  
+> If there’s a change in any of the above parameters (e.g., increased traffic, speed change), the railway company must notify the road authority **60 days before the change takes effect**.
+
+> 🚨 **Speed Increase Notification**:  
+> If the railway design speed increases, the railway company must notify the road authority **60 days before the increase takes effect**, including precise location and new speed.
+
+> 📝 **Whistle Cancellation**:  
+> If a railway company stops using whistles, it must notify the road authority in writing **within 30 days** of the change.
+
+> 🔄 **Railway Transfer**:  
+> When a railway line is transferred to another company, the new company must provide the road authority with contact details **within 7 days** of the transfer.
+
+---
+
+### 🔹 **Private Grade Crossing**
+
+| Responsibility | Responsible Party |
+|--------------|-------------------|
+| **Railway Company** | Must ensure: |
+| - Railway Crossing sign, Number of Tracks sign, Emergency Notification sign | ✅ |
+| - Maintenance of Stop sign on same post as Railway Crossing sign | ✅ |
+| - Warning system | ✅ |
+| - Crossing surface and road approach within railway right-of-way | ✅ |
+| - Sightlines within railway right-of-way and adjacent land (excluding land owned by private authority) | ✅ |
+| - Removal of obstructions (trees/brush) | ✅ |
+
+| **Private Authority** | Must ensure: |
+| - Road approach outside railway right-of-way (excluding design speed and design vehicle) | ✅ |
+| - Traffic control devices on land owned by private authority (excluding Stop sign on shared post) | ✅ |
+| - Sightlines over private land up to the railway right-of-way | ✅ |
+| - Removal of obstructions (trees/brush) | ✅ |
+
+> ⚠️ **Exemption Conditions**:  
+> These responsibilities **do not apply** to private crossings if:
+> - Railway design speed ≤ 25 km/h, **and**
+> - Access is controlled by a **locked barrier**, **or**
+> - The crossing is **exclusively for private use** and not open to the public.
+
+---
+
+## 📋 Information Exchange Requirements
+
+### 🚆 **Railway Company to Road Authority (Public Crossings)**  
+Must provide the following information in writing:
+
+| Item | Details |
+|------|--------|
+| Location | Precise coordinates of the crossing

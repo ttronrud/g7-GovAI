@@ -1,0 +1,168 @@
+Certainly. Below is a **detailed, structured summary** of the regulation you provided, which pertains to the **prescription of financial services** under the *Excise Tax Act* (specifically, for the purposes of defining "financial service" in subsection 123(1)).
+
+---
+
+## 🔍 **Detailed Summary of the Financial Services (GST/HST) Regulations – S.C. 1990, c. 45, s. 12**
+
+> **Regulatory Context**:  
+This regulation was made under subsection 277(1) of the *Excise Tax Act* by the Governor in Council on the recommendation of the Minister of Finance. It defines and prescribes specific services that qualify as **"financial services"** for the purposes of the definition in **subsection 123(1)** of the Act. These services are critical for determining whether a supply of a service is subject to **Goods and Services Tax (GST) or Harmonized Sales Tax (HST)** under the Excise Tax Act.
+
+> **Note**: This regulation has been **repealed or amended** in parts:
+- **SOR/2011-56, s. 5** – Repealed sections related to cheque clearing and payment systems.
+- **SOR/2019-59, s. 5** – Repealed the section on clearing and settlement of cheques under the Canadian Payments Association.
+
+Thus, only the **current, surviving provisions** are relevant to the present analysis.
+
+---
+
+## 📌 Key Definitions and Interpretations
+
+### 1. **"Act"**
+- Refers to the *Excise Tax Act*.
+
+### 2. **"Employee Life and Health Trust", "Registered Disability Savings Plan (RDSP)", etc.**
+- These terms have the same meaning as defined in **subsection 248(1) of the Income Tax Act**.
+- This ensures consistency with tax law definitions, particularly regarding trust and savings plan structures.
+
+### 3. **"Person at Risk" (Definition in Section 4)**
+- A person who is **financially at risk** due to:
+  - Acquisition, ownership, or issuance of a financial instrument.
+  - Providing a guarantee, acceptance, or indemnity in respect of the instrument.
+- **Exclusions**:
+  - A person who becomes at risk **only by authorizing a transaction** or **supplying a clearing/settlement service** is **not** considered a "person at risk".
+
+> This definition is crucial for determining when certain services are **exempt** from being classified as financial services under paragraph (t).
+
+---
+
+## ✅ Prescribed Financial Services by Paragraph
+
+### 🔹 Paragraph (m): Clearing and Settlement of Cheques via Canadian Payments System
+> **Repealed** (SOR/2019-59, s. 5)  
+> → No longer in force.
+
+> **Note**: Previously, services related to clearing and settlement of cheques and other payment items under the **Canadian Payments Association (CPA)** national system were prescribed for paragraph (m). This provision is now **inactive**.
+
+---
+
+### 🔹 Subparagraph (q)(ii): Management/Administrative Services to Persons in Paragraph (q)
+> **Applies when supplied by a supplier providing management or administrative services** to a person falling under paragraph (q) of the definition of "financial service".
+
+#### Prescribed Services Include:
+1. **Issuance or transfer of ownership** of a financial instrument (e.g., shares, bonds, accounts) from the supplier to the person.
+2. **Operation or maintenance** of a savings, chequing, deposit, loan, charge, or other account held by the person with the supplier.
+3. **Arranging for issuance, renewal, variation, or transfer of ownership** of a financial instrument for a person who is:
+   - In a **self-directed RDSP**, **self-directed REES**, **self-directed RRIF**, **self-directed RRSP**, or **self-directed TFSA**.
+
+> **Purpose**: These services are deemed financial services because they involve direct administrative or operational involvement in managing financial instruments.
+
+> **Key Term Definitions**:
+- *Acquirer*, *issuer*, *payment card*, *payment card network*, and *payment card network operator* have the same meanings as in **Section 3 of the Payment Card Networks Act**.
+
+---
+
+### 🔹 Paragraph (r.6): Services Related to Payment Card Transactions
+> These services are prescribed for **paragraph (r.6)** of the definition of "financial service".
+
+#### The prescribed services include:
+
+1. **Service provided by a payment card network operator as acquirer**:
+   - Supplied to:
+     - The person who accepted the payment card, or
+     - A payment service provider engaged by that person.
+
+2. **Service rendered to a holder of a payment card**:
+   - Supplied by the network operator in its **capacity as issuer** of the card.
+
+3. **Settlement services**:
+   - From **acquirer to issuer**, or from **issuer to acquirer** (in settlement of a transaction).
+   - **Only if** the issuer supplies a corresponding settlement service (i.e., paying the network operator the amount charged to the card).
+
+4. **Settlement service where the network operator pays the acquirer**:
+   - For the amount charged to the payment card.
+   - **Only if** the issuer has paid the network operator the same amount.
+
+> **Purpose**: These services are essential to the functioning of the payment card ecosystem and are explicitly included as financial services to ensure proper taxation.
+
+> **Note**: The term *instrument* includes:
+> - Money
+> - An account
+> - A credit card voucher
+> - A charge card voucher
+> - A financial instrument
+
+---
+
+## 🔹 Paragraph (t): Administrative and Information Services (General)
+
+> **Prescribed services** for **paragraph (t)** of the definition of "financial service" include:
+
+1. **Transfer, collection, or processing of information**.
+2. **Any administrative service**, including:
+   - Payment or receipt of dividends, interest, principal, claims, benefits, or other amounts.
+   - **Exception**: Solely making a payment or taking a receipt is **not** a prescribed service.
+
+> **Purpose**: These services are considered financial in nature due to their administrative role in managing financial relationships.
+
+---
+
+## ❌ Exclusions from Paragraph (t) – When a Service is NOT Prescribed
+
+A service **is not** a prescribed service under paragraph (t) **if it is supplied by**:
+
+1. A **person at risk** (as defined above),  
+2. A **member of the same closely related group** as a person at risk — **if the recipient is not** the person at risk or another member of the same group, or  
+3. An **agent, salesperson, or broker** who arranges for:
+   - Issuance, renewal, variation, or transfer of ownership of an instrument for a person at risk or a member of the same closely related group.
+
+> **Rationale**: To prevent double taxation or overreach in cases where services are provided in a personal, advisory, or intermediary capacity rather than as a core financial service.
+
+> This exclusion protects individuals and closely related entities from being taxed on services that are not core to financial operations.
+
+---
+
+## 🔍 Additional Prescribed Entities and Persons
+
+### 1. **Prescribed Members of Investment Limited Partnerships**
+> For **subsection 273.2(2)** of the Excise Tax Act (relating to GST/HST attribution):
+
+- A **non-resident trust** is a prescribed member **if**:
+  - The total value of its assets in which **one or more persons resident in Canada** have a beneficial interest is **more than 5%** of the total value of the trust’s assets.
+
+- A **non-resident limited partnership** is a prescribed member **if**:
+  - The total value of all interests held by **persons resident in Canada** exceeds **5%** of the total value of all interests in the partnership.
+
+> **Purpose**: Ensures that Canadian residents are appropriately attributed tax obligations when dealing with foreign investment vehicles.
+
+---
+
+### 2. **Employee Life and Health Trust (ELHT)**
+> For **paragraph 149(5)(g)** of the Excise Tax Act:
+- An **employee life and health trust** is a **prescribed person**.
+
+> **Purpose**: Ensures that these trusts are treated as special financial entities for tax purposes, particularly in relation to GST/HST.
+
+---
+
+### 3. **Non-Resident Trusts (Subparagraph 217.1(1)(b)(iv))**
+> A **non-resident trust** is a prescribed person if:
+- The total value of its assets in which **one or more Canadian residents** have a beneficial interest is:
+  - **≥ $10,000,000**, **and**
+  - **≥ 10%** of the total value of the trust’s assets.
+
+> **Purpose**: Applies a threshold-based rule to identify significant foreign trusts with Canadian beneficial interests, triggering specific tax treatment.
+
+---
+
+### 4. **Selected Listed Financial Institutions (SLFIs)**
+> As defined in **subsection 1(1) of the Selected Listed Financial Institution Attribution Method (GST/HST) Regulations**, certain financial institutions are prescribed for **subsection 273.2(2)** of the Excise Tax Act.
+
+> **Purpose**: To ensure proper attribution of tax liability when such institutions are involved in financial transactions involving Canadian residents.
+
+---
+
+## 📅 Applicability and Effective Dates
+
+| Provision | Effective Date / Application |
+|--------|-------------------------------|
+| **Section 6** | Applies to supplies made **on or after

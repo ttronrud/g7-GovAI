@@ -1,0 +1,187 @@
+**Detailed Summary of the General Nuclear Safety and Control Regulations (S.C. 1997, c. 9)**
+
+---
+
+### **Overview**
+
+The *General Nuclear Safety and Control Regulations*, approved by Her Excellency the Governor General in Council on the recommendation of the Minister of Natural Resources under **section 44 of the Nuclear Safety and Control Act (NSCA)**, provide a comprehensive regulatory framework governing the licensing, operation, safety, security, and compliance of nuclear-related activities in Canada. These regulations were originally enacted in 2000 and remain in force, with certain provisions updated or repealed over time (e.g., the removal of outdated definitions or exemptions).
+
+These regulations apply broadly to all licensed nuclear activities, including those involving radioactive materials, nuclear facilities, radiation devices, and nuclear substances, and are designed to ensure public health, environmental protection, national security, and compliance with international obligations — particularly those related to nuclear non-proliferation.
+
+---
+
+## **Key Definitions**
+
+The following terms are defined and used throughout the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Nuclear Safety and Control Act* (NSCA). |
+| **Effective Dose** | As defined in subsection 1(1) of the *Radiation Protection Regulations*. Measures biological risk from radiation exposure. |
+| **Equivalent Dose** | As defined in subsection 1(1) of the *Radiation Protection Regulations*. Accounts for radiation type in assessing health risk. |
+| **Hazardous Substance/Waste** | Any non-nuclear substance or waste used or produced in a licensed activity that poses a risk to health or the environment. |
+| **IAEA** | The International Atomic Energy Agency. |
+| **IAEA Agreement** | The 1972 Canada–IAEA Agreement on safeguards under the Non-Proliferation Treaty (INFCIRC/164). |
+| **Irradiator** | A device that delivers controlled radiation to target materials (excluding persons). |
+| **Licensed Activity** | Activities authorized under paragraphs 26(a) to (f) of the NSCA. |
+| **Licensee** | A person legally authorized to carry out a licensed activity. |
+| **Prescribed Equipment** | Equipment specified under section 20 of the regulations (e.g., radiation devices, sealed sources, transport packages). |
+| **Prescribed Information** | Sensitive information related to nuclear weapons, security, or transport of nuclear materials. |
+| **Radioactive Source Teletherapy Machine** | A teletherapy machine using a nuclear substance to deliver radiation therapy. |
+| **Safeguards** | Verification systems established under international agreements to prevent nuclear proliferation. |
+| **Safeguards Agreement** | Includes the IAEA Agreement and any other Canadian agreements for verifying nuclear materials or information. |
+| **Safeguards Equipment** | Equipment used in implementing safeguards (e.g., monitoring devices). |
+| **Teletherapy Machine** | A device delivering radiation in a collimated beam for medical treatment. |
+| **Transit** | Movement of nuclear materials through Canada when origin and destination are outside Canada. |
+| **Worker** | A person performing work referred to in a licence. |
+
+> ⚠️ **Note**: The definition of *brachytherapy machine* has been **repealed** (SOR/2008-119, s.1), and certain other provisions have also been repealed or amended.
+
+---
+
+## **Application of the Regulations**
+
+These regulations generally apply to all licensed nuclear activities under the NSCA. They establish detailed requirements for:
+
+- Licensing applications  
+- Licence renewal, amendment, revocation, and replacement  
+- Worker safety and training  
+- Environmental and health protection  
+- Security and safeguards compliance  
+- Waste management  
+- Public notification and transparency  
+
+---
+
+## **Licensing Requirements**
+
+### **1. Information Required in a Licence Application**
+
+An applicant must provide the following information:
+
+1. **Applicant Details**: Name and business address.
+2. **Activity & Purpose**: Description of the licensed activity and its intended use.
+3. **Nuclear Substances**: Name, maximum quantity, and form of nuclear substances involved.
+4. **Facilities & Equipment**: Description of any nuclear facilities, prescribed equipment, or prescribed information included.
+5. **Compliance Measures**: Plans to comply with:
+   - *Radiation Protection Regulations*  
+   - *Nuclear Security Regulations*  
+   - *Packaging and Transport of Nuclear Substances Regulations, 2015*
+6. **Action Levels**: Proposed action levels for radiation protection (as per section 6 of Radiation Protection Regulations).
+7. **Access Controls**: Measures to control access to the site and nuclear materials.
+8. **Loss/Illicit Use Prevention**: Measures to prevent loss, illegal use, possession, or removal of nuclear materials or equipment.
+9. **Testing & Analysis**: Description and results of any tests, analyses, or calculations supporting the application.
+10. **Radioactive & Hazardous Waste**: 
+    - Name, quantity, form, origin, volume of waste generated  
+    - Proposed methods for storage, management, processing, or disposal  
+11. **Organizational Structure**: Internal management, responsibilities, and authority relevant to compliance.
+12. **Financial Guarantee**: Proposed financial assurance for liabilities related to the activity.
+13. **Other Required Information**: Any additional information mandated by law or regulation.
+
+> 🔍 **Exemption**: For applications involving **import/export** or **transit**, information requirements are governed by separate regulations (e.g., *Nuclear Non-Proliferation Import and Export Control Regulations* or *Packaging and Transport Regulations*).
+
+---
+
+### **2. Additional Requirements for Specific Applications**
+
+#### **Abandonment of Nuclear Substances/Facilities**
+Must include:
+- Name and location of land, buildings, structures, and equipment to be abandoned  
+- Proposed time and location of abandonment  
+- Method and procedure for abandonment  
+- Environmental and health impacts and mitigation measures  
+
+#### **Renewal of a Licence**
+- Must include all information required in a new application  
+- Must include a **statement identifying changes** from the previous application  
+
+#### **Amendment, Revocation, or Replacement**
+Must include:
+- Description of changes and implementation methods  
+- Statement of changes from the most recent application  
+- Description of affected nuclear substances, facilities, equipment, or systems  
+- Proposed start and completion dates for modifications  
+
+#### **Incorporation by Reference**
+Applications may **incorporate by reference** valid, expired, or revoked licences, provided the information remains accurate and relevant.
+
+---
+
+### **3. Commission’s Authority to Act on Its Own Motion**
+
+Under **section 25 of the NSCA**, the **Canadian Nuclear Safety Commission (CNSC)** may renew, suspend, amend, revoke, or replace a licence **without a formal application** if:
+
+- Failure to act would pose an **unreasonable risk** to:
+  - Environment  
+  - Health and safety of persons  
+  - National security  
+  - International obligations  
+
+**Suspension/Revocation Conditions** (triggered by CNSC on its own motion):
+- Licensee is not qualified to carry out the activity  
+- Activity poses an unreasonable risk to environment, health, or national security  
+- Failure to comply with the Act, regulations, or licence  
+- Conviction of an offence under the NSCA  
+- Unauthorized modification of records in the licence  
+- Licensee no longer carries out the activity  
+- Failure to pay licence fees  
+- Any of the above could pose an unreasonable risk  
+
+---
+
+## **Exemptions and Special Provisions**
+
+### **Exemption for Naturally Occurring Nuclear Substances**
+
+- Naturally occurring nuclear substances (e.g., uranium in soil, potassium-40 in food) **not associated with nuclear energy development or use** are **exempt** from most provisions of the NSCA and its regulations.
+- **Exceptions**:
+  - Transport of nuclear substances (regulated under transport rules)
+  - Import/export of nuclear substances listed in the *Nuclear Non-Proliferation Import and Export Control Regulations*
+
+> ⚠️ This exemption applies only to naturally occurring substances and does **not** extend to synthetic or enriched materials.
+
+---
+
+### **Exemptions for Enforcement Activities**
+
+Inspectors, designated officers, or peace officers may perform the following **without a licence**:
+
+- Possess, transfer, transport, or store nuclear substances  
+- Possess or transfer prescribed equipment or prescribed information  
+
+> ✅ **Purpose**: To enforce compliance with the NSCA or its regulations.
+
+**Service of Prescribed Equipment**: Inspectors or officers may service prescribed equipment (e.g., calibrate radiation devices) without a licence **if doing so is for enforcement purposes**.
+
+> ❗ **Important**: These exemptions **do not** apply to other activities. The licence requirement under **section 26 of the NSCA** still applies to all other operations.
+
+> Every person conducting such enforcement activities must **immediately notify the CNSC** of their actions.
+
+---
+
+## **Obligations of Licensees**
+
+Every licensee must:
+
+1. **Ensure Qualified Workers**  
+   Maintain sufficient numbers of trained, qualified personnel to operate safely and in compliance with the Act and licence.
+
+2. **Train Workers**  
+   Provide training in accordance with the Act, regulations, and licence requirements.
+
+3. **Protect Environment & Health**  
+   Take all reasonable precautions to:
+   - Protect the environment  
+   - Protect public health and safety  
+   - Maintain security of nuclear facilities and substances
+
+4. **Maintain Equipment**  
+   Provide and maintain devices (e.g., radiation detectors, shielding) in accordance with manufacturer specifications.
+
+5. **Require Worker Compliance**  
+   Require all workers to use appropriate protective equipment, clothing, and procedures as required by law.
+
+6. **Control Releases**  
+   Prevent unauthorized release of radioactive or hazardous substances into the environment.
+
+7

@@ -1,0 +1,161 @@
+Certainly. Below is a **detailed, comprehensive summary** of the provided regulation — the **Gas Pipeline Uniform Accounting Regulations, C.R.C., c. 1053**, as approved by His Excellency the Governor General in Council on the recommendation of the Minister of Energy, Mines and Resources under subsection 88(1) of the *National Energy Board Act*.
+
+---
+
+## 🔍 **Overview of the Regulation**
+
+This regulation establishes a **uniform system of accounting** for gas pipeline companies operating in Canada. It replaces the previous *Gas Pipeline Uniform Accounting Regulations* (which were repealed by SOR/2020-50, s. 6) and introduces a new, detailed framework for how gas pipeline companies must maintain, record, and report their financial and operational data.
+
+The primary objective is to ensure **transparency, consistency, and accountability** in the financial reporting of gas pipeline operators, enabling regulators to assess financial health, operational efficiency, and compliance with national energy policy objectives.
+
+The regulation applies only to companies authorized by the **Canadian Energy Regulator (CER)** — formerly the National Energy Board (NEB) — to **construct or operate a gas pipeline**.
+
+---
+
+## 📚 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Board** | Repealed (SOR/2020-50, s. 6) |
+| **Book Cost** | The total cost of plant recorded in plant accounts, without any deductions for depreciation, amortization, or other reductions. |
+| **Commission** | Refers to the Canadian Energy Regulator (CER), as defined in section 26(1) of the *Canadian Energy Regulator Act*. |
+| **Contingent Assets/Liabilities** | Assets or liabilities whose value or obligation is uncertain and depends on future events. |
+| **Fiscal Year** | Either the calendar year or a fiscal year approved by the Commission for the company. |
+| **Gas Plant in Service** | Plant used in pipeline operations or held for future use under a definite plan. |
+| **Minor Item of Plant** | A component or accessory part included within a larger plant unit. |
+| **Net Salvage Value** | Salvage value minus removal costs. |
+| **Operator** | A company authorized by the Commission to operate a gas pipeline. |
+| **Other Plant** | Property not directly involved in gas pipeline operations. |
+| **Plant** | Any installation or property whose cost is recorded in the Plant Accounts (Schedule IV). |
+| **Plant Retired** | A unit removed from service via sale, abandonment, demolition, or dismantling. |
+| **Plant Unit** | A complete structure, apparatus, or equipment that forms a component of a plant installation, including physically distinct parts with material value. |
+| **Salvage Value** | Amount received for retired plant, including insurance proceeds and material salvaged. |
+| **Undivided Interest** | Joint beneficial ownership of pipeline assets, liabilities, revenues, and expenses by two or more companies or persons. |
+
+> A company may submit questions about interpretation of these regulations to the Regulator for guidance.
+
+---
+
+## 🏢 Application to Companies: Group 1 vs. Group 2
+
+### ✅ **Group 1 Companies**  
+*(Companies listed in Schedule VIII)*
+
+These are the primary regulated operators and must comply with **all requirements** of the Regulations:
+
+1. **Keep separate books of account** in Canada, in accordance with **generally accepted accounting principles (GAAP)**.
+2. **Maintain accounts as prescribed** in these Regulations unless otherwise directed by the Commission.
+3. **Maintain a full system of accounts** as outlined in the Regulations.
+
+### ⚠️ **Group 2 Companies**  
+*(All other companies that construct or operate gas pipelines)*
+
+These companies are subject to **limited compliance**, with exemptions unless specifically required:
+
+1. Must keep **separate books of account** in accordance with GAAP **until one year after the Commission grants leave to abandon** the pipeline.
+2. Must **file audited financial statements** with the Regulator within **120 days** after the end of each fiscal year.
+3. Must comply with subsections **6(1), (7), (8), and (9)** — likely related to specific accounting treatments.
+4. Are **exempt from most provisions** of the Regulations **except** as prescribed in paragraphs (a) to (c).
+
+> This distinction reflects a phased approach to regulation, recognizing that Group 2 companies may be in transition or operating under temporary authorizations.
+
+---
+
+## 📂 Accounting Records and Requirements
+
+### General Principles:
+- Records must provide **sufficient detail** to fully explain all entries.
+- All records — including **minute books, capital stock records, correspondence, computer printouts, tapes, and card decks** — are included.
+- Records must be **readily accessible** for inspection by Regulator representatives.
+- Where a pipeline is held in **undivided interest**, the **operator must maintain records** that allow **easy identification and access** for each beneficial owner.
+
+### Record Retention:
+- Records must be retained for **one year after the Commission grants leave to abandon** the pipeline.
+
+---
+
+## 📊 Financial Statement Structure (Schedules I–VII)
+
+### 1. **Balance Sheet Accounts (Schedule I: 100–293)**
+- Reflect the company’s **financial position** at a given date.
+- Include:
+  - Assets
+  - Liabilities
+  - Share capital
+  - Retained earnings
+
+### 2. **Income Accounts (Schedule II: 300–341)**
+- Summarize revenue, expenses, and **extraordinary items**.
+- **Extraordinary items** are defined as:
+  - Not typical of normal operations
+  - Not expected to recur
+  - Not part of routine business evaluation
+- Must be recorded in:
+  - **Account 331**: Extraordinary Income
+  - **Account 341**: Extraordinary Income Deductions
+
+### 3. **Retained Earnings Accounts (Schedule III: 350–357)**
+- Track changes in retained earnings annually and include:
+  - Balance transferred from income
+  - Prior period adjustments
+  - Miscellaneous adjustments
+  - Dividend appropriations
+  - Income tax on retained earnings adjustments
+
+### 4. **Plant Accounts (Schedule IV: 401–498)**
+- Subsidiary to balance sheet accounts 100–107.
+- Classify all plant assets and are supported by **subsidiary accounts** that record:
+  - Costs by location (e.g., main gathering systems, compressor stations, storage facilities, pipelines)
+  - Expenditures for **additions, replacements, and retirements** approved by the Commission
+
+> Plant accounts must separately track expenditures for each authorized project.
+
+### 5. **Operating Revenue Accounts (Schedule V: 500–579)**
+- Classify all **revenue from pipeline operations**.
+
+### 6. **Operating Expense Accounts (Schedule VI: 610–729)**
+- Cover operating expenses related to pipeline operations.
+
+### 7. **Maintenance Expense Accounts (Schedule VII: 810–889)**
+- Cover maintenance costs for pipeline operations.
+
+---
+
+## 🏗️ Service Functions and Expense Allocation
+
+The service functions are defined as:
+
+| Function | Description |
+|--------|-------------|
+| Gathering | Collection of natural gas from wells |
+| Products Extraction | Processing of natural gas liquids (NGLs) |
+| Gas Supply (operating only) | Delivery of gas to customers |
+| Underground Storage | Storage of gas in underground facilities |
+| Transmission | Moving gas through pipelines |
+| General | General administrative or support functions |
+| Administrative and General (operating only) | Administrative costs directly tied to operations |
+
+> Expenses common to multiple accounts must be **equitably apportioned** and supported by **adequate records** showing the basis of allocation.
+
+> Subsidiary accounts must record expenses **by location** where practicable (e.g., per major facility).
+
+---
+
+## 📝 Capitalization of Construction Costs
+
+All costs directly related to the **acquisition, construction, or improvement** of plant must be **capitalized** and recorded in plant accounts.
+
+### Key Elements of Capitalized Costs:
+
+| Cost Element | Description |
+|------------|-------------|
+| **Labour** | Includes wages and employee benefits. Pay for employees **specifically assigned** to construction is included. Pay for incidental employees is not. |
+| **Materials & Supplies** | Purchase price at free delivery, taxes, transportation, inspection. Discounts are accounted for. Allowances are made for: <br> - Unused portions <br> - Salvage from temporary structures <br> - Recovered small tools |
+| **Special Equipment (e.g., shovels, dredgers)** | Includes labour, materials, depreciation, supplies, and rental/operation costs. If equipment is used **only on a project**, its cost is capitalized and not depreciated until after completion. |
+| **Transportation** | Includes transport of people, equipment, and materials. Cost of material delivery to the company is included in material cost if practicable. |
+| **Contract Work** | Payments made to third parties for work performed under contract. |
+| **Insurance** | Covers plant during construction, fire/willful destruction, injuries, and property damage. Recovered insurance is credited to the relevant cost account. |
+| **Privileges** | Compensation for temporary use of public or private property. |
+| **Engineering Services** | Fees for planning, design, supervision, inspection, or advice. |
+| **Earnings & Expenses During Construction** | Revenues from property included in construction cost and expenses attributable to those revenues. |
+| **

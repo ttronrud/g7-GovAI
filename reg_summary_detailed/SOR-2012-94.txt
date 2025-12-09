@@ -1,0 +1,139 @@
+**Detailed Summary of the Pangnirtung Airport Zoning Regulations**
+
+---
+
+### **1. Legal Basis and Regulatory Process**
+
+The **Pangnirtung Airport Zoning Regulations** were established under the authority of the **Aeronautics Act (R.S., c. A-2)**, specifically **paragraphs 5.4(2)(b)a and (c)a**, which empower the Minister of Transport to establish zoning regulations to protect airport safety and operational integrity.
+
+- A **notice of proposed regulations** was first published in two successive issues of the *Nunatsiaq News* on **February 10 and 17, 2012**, and a copy was published in two successive issues of the *Canada Gazette, Part I* on **March 19 and 26, 2011**.
+- This publication provided **a reasonable opportunity for interested parties** (e.g., residents, developers, aviation stakeholders) to submit representations or objections to the proposed rules.
+- Following public consultation, the Governor General in Council, on the recommendation of the Minister of Transport, formally adopted the regulations.
+
+> **Note:** There appears to be a typographical inconsistency in the dates (March 19 and 26, 2011, referenced in a 2012 notice). This may be a clerical error, as the notice was issued in 2012. However, the legal process is valid if the notice was properly published and a reasonable opportunity was afforded.
+
+---
+
+### **2. Purpose of the Regulations**
+
+The primary objectives of these regulations are:
+
+1. **To prevent development or use of land adjacent to or near Pangnirtung Airport** that could compromise the **safe operation of aircraft** or the airport itself.
+2. **To prevent interference with critical aeronautical signals and communications** (such as radar, radio, or navigation systems) that are essential for safe aircraft operations and air traffic control.
+
+These goals are designed to ensure **aviation safety**, **operational reliability**, and **compliance with national aeronautical standards**.
+
+---
+
+### **3. Key Definitions**
+
+The regulations define several technical terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | Refers specifically to **Pangnirtung Airport**, located in the vicinity of Pangnirtung, Nunavut. |
+| **Airport Reference Point (ARP)** | The geometric center of the runway thresholds at grid coordinates **7,338,711.001 N, 377,570.986 E** (latitude 66°08′42″ N, longitude 65°42′49″ W). It lies 491.57 m from the end of runway 06–24’s strip surface and is at an elevation of **22.77 m above sea level**. |
+| **Approach Surface** | An imaginary inclined surface extending from each end of the runway (runway approaches 06 and 24). It ascends at a **1:25 slope** (1 m vertical per 25 m horizontal) from a base elevation of 19.72 m (for approach 06) and 19.65 m (for approach 24), rising to a horizontal line 2,500 m out from the runway end. The outer ends of this line are 280 m from the runway centerline and 100 m above the base elevation. |
+| **Outer Surface** | A circular imaginary surface extending **4,000 meters** from the airport reference point. It maintains a **constant elevation of 45 meters above the ARP**, but is capped at **9 meters above ground level** if that would place it below 9 m above ground. This ensures safety even in low-lying terrain. |
+| **Strip Surface** | An imaginary rectangular surface associated with the runway (06–24), 60 m wide (30 m on each side of the centerline), stretching 983.14 m in length. It begins 45 m southwest of threshold 06 and ends 45 m northeast of threshold 24. Elevation increases gradually along the centerline based on a defined slope pattern (see Column 7 of the schedule). |
+| **Transitional Surface** | An inclined surface rising at a **1:5 slope** (1 m vertical per 5 m horizontal) from the lateral edges of the strip surface and its approach surfaces, extending upward until it intersects with the outer surface. Ensures a smooth transition between the runway area and the broader safety zone. |
+| **Zoning Plan** | **Plan No. E3303**, prepared by the Department of Public Works and Government Services and dated **December 1, 2008**, which serves as the foundational map and design for the regulatory zones. |
+
+---
+
+### **4. Scope of Application**
+
+The regulations apply to **all lands adjacent to or in the vicinity of Pangnirtung Airport**, within a **circular boundary of 4,000 meters** centered on the airport reference point.
+
+- The area includes:
+  - Land **under water** (e.g., lakes, rivers, or wetlands near the airport).
+  - **Public road allowances** (rights-of-way or adjacent road corridors).
+- This ensures comprehensive protection of the airport’s operational environment.
+
+---
+
+### **5. Prohibited Activities and Developments**
+
+The following activities are strictly prohibited on or within the designated lands:
+
+#### **(a) Construction or Development**
+- No person may:
+  - Place, erect, construct, or permit another to do so,
+  - A **building, structure, object**, or **addition to an existing structure**,
+  - That would **penetrate any of the following surfaces**:
+    - Approach surface
+    - Outer surface
+    - Transitional surface
+
+> This includes any physical structure (e.g., houses, towers, fences, or even large trees) that extends beyond the defined imaginary surfaces.
+
+#### **(b) Use or Development Causing Signal Interference**
+- No person may:
+  - Use or develop any land **under the outer surface** in a way that **interferes with signals or communications** to or from:
+    - Aircraft
+    - Aeronautical service facilities (e.g., radar stations, radio towers, control towers)
+
+> This protects the integrity of air traffic control and navigation systems.
+
+#### **(c) Growth of Natural Vegetation**
+- No person may allow **natural growth** (e.g., trees, bushes, tall grasses) to grow in a way that:
+  - Penetrates any of the approach, outer, or transitional surfaces.
+
+> This prevents obstructions that could interfere with aircraft visibility or radar detection, especially during takeoff and landing.
+
+#### **(d) Wildlife Attraction**
+- No person may use or permit the use of land for activities that **attract wildlife**, particularly **birds**, which may pose a hazard to aviation safety.
+
+> This is a critical safety measure to prevent bird strikes — a known risk in aviation.
+
+---
+
+### **6. Exceptions and Permitted Uses**
+
+Despite the general prohibitions, the following exceptions are allowed:
+
+- **Open Water Storage Reservoirs**:
+  - A person may use any of the lands as a site for an **open water storage reservoir** (e.g., for water supply or emergency use) **for a period of 48 hours or less**.
+  - This exception is intended to allow temporary, low-risk water storage without violating safety zones.
+
+> **Important Note**: This exception does **not** extend to permanent reservoirs or long-term water storage.
+
+---
+
+### **7. Effective Date**
+
+The regulations come into force on the day when the **requirements under subsection 5.6(2) of the Aeronautics Act** are met. These requirements typically involve:
+- Finalization of the regulatory process
+- Approval by the Minister of Transport
+- Confirmation of public consultation completion
+
+> The regulations were **officially in force on April 2, 2013**, as noted in the footnote.
+
+---
+
+### **8. Coordinate and Elevation Systems**
+
+To ensure precision and consistency in enforcement:
+
+- **Grid Coordinates**:
+  - Based on the **1983 North American Datum (NAD83)**, **Zone 20**, Universal Transverse Mercator (UTM) projection.
+  - All coordinates are in **meters (m)**.
+  - A combined average scale factor of **0.9997783** is applied to ensure accurate mapping.
+
+- **Elevations**:
+  - Measured in **meters (m)** above sea level.
+  - Based on the **Canadian Geodetic Vertical Datum (CGVD28)**.
+
+This technical standardization ensures that all land use decisions and enforcement actions are consistent and measurable.
+
+---
+
+### **9. Summary of Key Safety Zones (Visual Overview)**
+
+| Zone | Description |
+|------|-------------|
+| **Airport Reference Point (ARP)** | Central point (22.77 m elevation), 491.57 m from runway end |
+| **Approach Surfaces** | 2,500 m from runway ends, 1:25 slope, 100 m above base elevation at outer ends |
+| **Strip Surface** | 60 m wide, 983.14 m long, 19.72 m (06 end), 19.65 m (24 end), sloped between thresholds |
+| **Transitional Surfaces** | 1:5 slope, from strip edges to outer surface |
+| **Outer Surface** | 

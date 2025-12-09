@@ -1,0 +1,137 @@
+### **Detailed Summary of the Qikiqtarjuaq Airport Zoning Regulations**
+
+---
+
+#### **1. Legal Basis and Regulatory Process**
+
+The Qikiqtarjuaq Airport Zoning Regulations are established under the **Aeronautics Act** (specifically **section 5.5(1)a** and **paragraphs 5.4(2)(b) and (c)**), which empower the Minister of Transport to regulate land use around airports to ensure aviation safety.
+
+- A **notice of proposed regulations** was published in two successive issues of the *Nunatsiaq News* on **February 10 and 17, 2012**, and in two issues of the *Canada Gazette, Part I* on **March 19 and 26, 2011**.
+- This publication provided a **reasonable opportunity** for interested parties (e.g., local communities, developers, stakeholders) to submit representations or objections to the proposed rules.
+- After reviewing public feedback, the **Governor in Council**, on the recommendation of the Minister of Transport, formally enacted the regulations.
+
+---
+
+#### **2. Primary Objectives of the Regulations**
+
+The regulations are designed to:
+
+1. **Prevent incompatible land use or development** near or adjacent to Qikiqtarjuaq Airport that could compromise the **safe operation of aircraft**.
+2. **Avoid interference with critical aeronautical signals and communications** between aircraft and airport facilities (such as radar, radio, or navigation systems).
+
+These objectives are central to ensuring **aviation safety**, especially in remote Arctic environments where visibility, terrain, and environmental factors pose unique risks.
+
+---
+
+#### **3. Key Definitions**
+
+The following terms are defined within the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | Refers to Qikiqtarjuaq Airport, located in the vicinity of Qikiqtarjuaq, Nunavut. |
+| **Airport Reference Point (ARP)** | The geometric center of the runway thresholds at coordinates **7,492,677.709 N, 456,035.255 E** (67°32′48″ N, 64°01′54″ W), located 640.425 meters from the end of runway 03–21. Elevation: **4.48 m above sea level**. |
+| **Approach Surface** | An imaginary inclined surface extending from each runway end (03 and 21). It rises at a **1:25 slope** (1 meter vertically per 25 meters horizontally) from an assigned elevation (3.98 m for runway 03, 4.11 m for runway 21) to a horizontal line 2,500 meters out from the runway end. The outer ends are 280 meters from the runway centerline and 100 meters above the base elevation. |
+| **Outer Surface** | A circular imaginary surface extending **4,000 meters** from the ARP. It maintains a **constant elevation of 45 meters above the ARP**, but is capped at **9 meters above ground** if that would place it below 9 meters above ground. |
+| **Strip Surface** | An imaginary rectangular surface associated with runway 03–21, 60 meters wide (30 meters on each side), stretching 1,280.85 meters from threshold 03 (SW) to threshold 21 (NE). Elevation varies along its length with a defined slope pattern. |
+| **Transitional Surface** | An inclined surface rising at a **1:5 slope** (1 meter vertically per 5 meters horizontally) from the lateral edges of the strip surface and approach surfaces, extending upward until it intersects the outer surface. |
+| **Zoning Plan** | Plan No. E3262, prepared by the Department of Public Works and Government Services and dated **December 1, 2008**, which serves as the spatial reference for all surfaces and boundaries. |
+
+---
+
+#### **4. Geographic Scope of Application**
+
+- The regulations apply to **all lands adjacent to or in the vicinity of Qikiqtarjuaq Airport** within a **circle of 4,000 meters radius** centered on the airport reference point.
+- This includes:
+  - Land **under water** (e.g., lakes, rivers, or wetlands within the zone).
+  - **Public road allowances** (rights-of-way adjacent to roads).
+- The zone is defined precisely using **grid coordinates** and **elevation data** based on standardized geodetic systems.
+
+> **Geodetic Reference System**:
+> - Coordinates are in **UTM Zone 20 (NAD83)** with a combined scale factor of **0.9996175**.
+> - Elevations are based on the **Canadian Geodetic Vertical Datum (CGVD28)**.
+
+---
+
+#### **5. Prohibited Activities and Restrictions**
+
+The following activities are **strictly prohibited** on or within the regulated lands:
+
+##### **(a) Construction or Development**
+- No person may:
+  - **Place, erect, construct**, or **permit** another to do so:
+    - Any **building, structure, or object** (including temporary structures),
+    - Any **addition** to an existing structure,
+    - That would **penetrate** any of the following:
+      - Approach surface
+      - Outer surface
+      - Transitional surface
+
+> *Rationale*: Physical obstructions (e.g., trees, towers, buildings) can interfere with aircraft visibility, navigation, or landing paths.
+
+##### **(b) Use or Development Causing Signal Interference**
+- No person may:
+  - **Use or develop** any land **under the outer surface** in a way that causes:
+    - Interference with **signals or communications** to and from aircraft,
+    - Interference with **services provided by aeronautical facilities** (e.g., radar, radio towers, ground control).
+
+> *Rationale*: Prevents electromagnetic interference that could disrupt air traffic control or aircraft navigation systems.
+
+##### **(c) Uncontrolled Growth of Natural Vegetation**
+- No person may:
+  - Permit **natural growth** (e.g., trees, shrubs, vegetation) to grow in a way that:
+    - Penetrates any of the approach, outer, or transitional surfaces.
+
+> *Rationale*: Dense or tall vegetation can create hazards during takeoff and landing (e.g., bird strikes, reduced visibility, obstruction of flight paths).
+
+##### **(d) Wildlife Attraction (Birds and Other Animals)**
+- No person may:
+  - Use or permit use of the lands for activities that **attract wildlife**, especially **birds**, which may pose a **hazard to aviation safety**.
+
+> *Rationale*: Birds are a known hazard in aviation; attracting them (e.g., through feeding, open land, or water bodies) increases risk of bird strikes.
+
+---
+
+#### **6. Exceptions and Permitted Uses**
+
+Despite the above restrictions, **one significant exception** is allowed:
+
+- A person may use or permit the use of any of the regulated lands as a **site for an open water storage reservoir** (e.g., for water supply or emergency use) **for a period of 48 hours or less**.
+
+> *Rationale*: This exception recognizes the need for temporary water storage in a remote community while protecting long-term aviation safety.
+
+> *Note*: This exception does **not** extend to permanent reservoirs or long-term water storage.
+
+---
+
+#### **7. Effective Date**
+
+- The regulations **come into force** on the day when the requirements under **subsection 5.6(2) of the Aeronautics Act** are satisfied.
+- As of the publication date, the regulations were effective **April 2, 2013**.
+
+---
+
+#### **8. Key Design Features and Safety Principles**
+
+- The regulation uses **imaginary surfaces** (approach, strip, outer, transitional) to define safe zones around the airport, based on:
+  - **Runway orientation and length** (03–21, 1,280.85 meters long).
+  - **Elevation profiles** that ensure aircraft can safely approach and land without obstacles.
+  - **Slopes** (1:25 for approach surfaces, 1:5 for transitional surfaces) to maintain clear flight paths.
+- The **4,000-meter radius** ensures a comprehensive buffer zone, especially important in Arctic terrain with limited visibility and high wind exposure.
+
+---
+
+#### **9. Significance and Implications**
+
+- **Aviation Safety Focus**: The regulations reflect a proactive approach to safeguarding aviation operations in a remote, high-risk environment.
+- **Community and Environmental Balance**: While restricting development, the rules also allow for essential community needs (e.g., temporary water storage).
+- **Legal Clarity and Enforcement**: Clear definitions, measurable boundaries, and defined prohibited activities make the regulations enforceable and transparent.
+- **Adaptability to Climate and Terrain**: The use of precise geodetic data ensures the rules remain accurate despite environmental changes.
+
+---
+
+### **Conclusion**
+
+The **Qikiqtarjuaq Airport Zoning Regulations** are a comprehensive, science-based framework designed to protect the **safety and integrity of aviation operations** at Qikiqtarjuaq Airport. By defining clear spatial boundaries and prohibiting development or vegetation growth that could interfere with flight paths or communications, the regulations ensure that the airport remains safe and operational in a challenging Arctic setting. The inclusion of a limited exception for temporary water storage demonstrates a balanced approach that respects community needs without compromising aviation safety.
+
+These regulations serve as a model for

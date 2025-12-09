@@ -1,0 +1,168 @@
+**Detailed Summary of the Bagotville Airport Zoning Regulations**
+
+---
+
+### **1. Background and Legal Authority**
+
+The **Bagotville Airport Zoning Regulations** were enacted under the authority of the **Aeronautics Act**, specifically:
+
+- **Subsection 5.5(1)**: Requires that proposed regulations affecting an airport be published in two successive issues of a local newspaper and in two successive issues of *Canada Gazette, Part I* to ensure public notice.
+- **Paragraph 5.4(2)(b)**: Authorizes the Governor in Council (on the recommendation of the Minister of National Defence) to adopt zoning regulations to protect airport safety.
+
+The proposed regulations were:
+- Published in **two successive issues of a local newspaper** (May 27 and 28, 1992),
+- Published in **two successive issues of Canada Gazette Part I** (April 11 and 18, 1992).
+
+This provided a **reasonable opportunity for interested parties** (e.g., landowners, municipalities, aviation stakeholders) to submit representations to the Minister of National Defence.
+
+---
+
+### **2. Purpose of the Regulations**
+
+The primary purpose is to **prevent land adjacent to or near Bagotville Airport from being developed or used in ways that could compromise the safe operation of aircraft**. This includes:
+
+- Avoiding obstructions that could interfere with aircraft takeoff, landing, or approach.
+- Minimizing hazards such as bird populations or environmental features that could endanger aviation.
+
+---
+
+### **3. Legal Title and Scope**
+
+- **Title**: *Bagotville Airport Zoning Regulations*  
+- **Citation**: R.S., c. 33 (1st Supp.), s. 1  
+- **Applicability**: Applies to **all lands adjacent to or in the vicinity of Bagotville Airport**, including public road allowances, **except lands that are part of the airport itself**.
+
+---
+
+### **4. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | The Bagotville Airport located in the Municipality of Laterrière and the Town of La Baie, Quebec. |
+| **Airport Zoning Reference Point** | A fixed point on the centerline of runway 11–29 at the threshold of runway 29. It serves as the baseline elevation for all other surfaces. |
+| **Elevation of Reference Point** | **156 meters above sea level**. |
+| **Strip** | A rectangular area of the airport’s landing zone, including runways, designated for takeoff and landing in a specific direction. Each strip has defined width and length. |
+| **Approach Surface** | An imaginary inclined plane extending from each end of a strip (runway) to prevent obstructions during aircraft approach. Defined by specific slopes and elevation thresholds. |
+| **Transitional Surface** | An inclined plane rising from the sides of the strip and its approach surfaces, extending upward and outward to meet the outer surface. |
+| **Outer Surface** | An imaginary horizontal plane at **45 meters above the airport zoning reference point (i.e., 156 + 45 = 201 meters above sea level)**, except where it would fall below **9 meters above ground level** — in which case it is set at 9 meters above ground. |
+
+---
+
+### **5. Key Provisions and Restrictions**
+
+#### **A. Prohibition on Structures and Natural Growth**
+No person may:
+- Erect, construct, or add to any building, structure, or object on regulated land **if the highest point of the object exceeds**:
+  - The **approach surface**,
+  - The **outer surface**, or
+  - The **transitional surface**.
+
+This applies to **all structures**, including new constructions and expansions of existing ones.
+
+> **Exception**: Natural growth (e.g., trees, shrubs) is also restricted. Owners or lessees **must not allow natural growth to exceed** the elevation limits of the approach, outer, or transitional surfaces.
+
+#### **B. Restrictions on Hazardous Land Uses**
+To minimize **bird hazards** to aviation, the following land uses are prohibited:
+- Sanitary landfills  
+- Food garbage disposal sites  
+- Sewage lagoons  
+- Open water storage reservoirs  
+
+These are considered high-risk for attracting birds, which can pose a direct threat to aircraft during flight.
+
+---
+
+### **6. Description of Airport Features (Runways and Surfaces)**
+
+#### **Runway Strips**
+Two main strips are defined:
+
+| Runway | Width | Length |
+|--------|-------|--------|
+| **11–29** | 300 meters (150 m on each side of centerline) | 3,286.863 meters |
+| **18–36** | 300 meters (150 m on each side) | 1,956.965 meters |
+
+These are based on the **Department of Public Works Bagotville Airport Zoning Plan No. MM-88-6775**, dated January 4, 1988.
+
+---
+
+#### **Approach Surfaces**
+
+Each approach surface begins at the end of a runway strip and slopes upward to meet the outer surface. The slopes and elevation thresholds vary slightly by runway:
+
+| Runway | Initial Slope (to outer surface) | Final Horizontal Line Elevation (m above ref. point) |
+|--------|----------------------------------|-----------------------------------------------------|
+| **Runway 18** | 1:60 (1m up per 60m horizontal), then 1:50 | 291 m |
+| **Runway 36** | 1:60, then 1:50 | 294.6 m |
+| **Runway 11** | 1:60, then 1:50 | 293.4 m |
+| **Runway 31** | 1:60, then 1:50 | 291 m |
+
+- All approach surfaces extend **15,000 meters horizontally** from the end of the runway.
+- The final horizontal line is **2,400 meters from the runway centerline** on either side.
+- The surfaces are designed to ensure aircraft can approach safely without encountering obstructions.
+
+---
+
+#### **Transitional Surfaces**
+
+- Each transitional surface is an **inclined plane** rising at a **1:7 slope** (1 meter vertical per 7 meters horizontal).
+- It extends from the **lateral edges of the strip and its approach surfaces** up to where it meets the outer surface or the transitional surface of an adjacent strip.
+- Ensures smooth transition between the runway area and the outer zones, preventing sudden changes in elevation that could affect aircraft performance.
+
+---
+
+#### **Outer Surface**
+
+- A **horizontal plane** at **45 meters above the airport zoning reference point** (i.e., 201 meters above sea level).
+- **Exception**: If the ground elevation is higher than 45 meters above the reference point, the outer surface is **not reduced below 9 meters above ground level**.
+- This surface defines the **outer boundary** of the regulated zone.
+
+> The outer surface is described using a **complex polygonal path** based on arcs and straight lines, defined by precise coordinates in the **Quebec Plane Coordinate System (S.CO.P.Q.)**, Zone 7, Central Meridian 70°30′.
+
+---
+
+### **7. Geographical Coordinates and Boundary Description**
+
+The outer limits of the regulated zone are defined by a detailed, coordinate-based path involving:
+
+- **Arcs of circles** (radius 4,000 m and 8,000 m) centered at key runway intersections.
+- **Straight lines** with specific azimuths (directions).
+- **Distance measurements** between points.
+
+This ensures that the zoning boundary accurately reflects the **geometric requirements** for safe aviation operations, particularly around approach paths and lateral clearances.
+
+#### Example of Outer Surface Path (simplified):
+1. Starts at intersection of northerly limit of runway 11’s approach surface and a circle of 4,000 m radius.
+2. Follows a northerly arc to a point.
+3. Moves via straight lines to points along runways 18, 29, and 36.
+4. Returns via arcs and lines to the starting point.
+
+> The full boundary is **closed and symmetrical**, ensuring consistent protection around all runways.
+
+---
+
+### **8. Coordinate System and Measurement System**
+
+- All distances, angles, and coordinates are based on the **Quebec Plane Coordinate System (S.CO.P.Q.)**, Zone 7.
+- Central meridian: **70°30′**.
+- This system is used to ensure **precision and consistency** in land surveying and boundary definition across Quebec.
+
+---
+
+### **9. Enforcement and Compliance**
+
+- The regulations apply to **all landowners and lessees** within the defined zone.
+- Any violation (e.g., building exceeding surface elevation or using prohibited land uses) may result in enforcement actions by the Minister of National Defence or relevant authorities.
+- Compliance is essential to maintain **aviation safety** and prevent disruptions to airport operations.
+
+---
+
+### **10. Significance and Implications**
+
+- These regulations establish a **formal, legally binding zoning framework** for land use around Bagotville Airport.
+- They reflect **modern aviation safety standards**, particularly in managing:
+  - Obstruction risks (from structures and vegetation),
+  - Environmental hazards (bird populations),
+  - Geometric clearances (approach and transition zones).
+- The use of **precise mathematical and geographic definitions** ensures that the boundaries are objective, measurable, and enforceable.
+

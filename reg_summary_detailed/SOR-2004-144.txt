@@ -1,0 +1,97 @@
+**Detailed Summary of the Marine Transportation Security Regulations (S.C. 1994, c. 40)**
+
+---
+
+### **Overview**
+
+The *Marine Transportation Security Regulations* (MTSR), made under **section 5 of the Marine Transportation Security Act (MTSA)**, establish a comprehensive framework to ensure the security of Canada’s marine transportation system. These regulations implement the **International Ship and Port Facility Security Code (ISPS Code)**, which is incorporated into the **International Convention for the Safety of Life at Sea (SOLAS)**. The primary objective is to prevent, detect, and respond to threats that could compromise the safety and security of vessels, marine facilities, ports, and their interfaces.
+
+The regulations define key terms, establish security levels (MARSEC), outline responsibilities of operators, and provide procedures for managing security breaches, suspensions of security documents, and appeals.
+
+---
+
+## **I. Key Definitions**
+
+The regulations begin with a detailed list of definitions that form the foundation for interpreting the rules. Key definitions include:
+
+| Term | Meaning |
+|------|--------|
+| **Act** | Refers to the *Marine Transportation Security Act*. |
+| **Approved Training Course** | A course approved under section 803 by the Minister and delivered by a recognized institution. |
+| **CDC Facility** | A marine facility where certain dangerous cargoes (CDCs) are manufactured, stored, or transferred to/from a vessel under Part 2 of the MTSA. |
+| **CDC Residue** | Residual material left behind after unloading of CDCs (e.g., in large containment units), with volume and weight limits specified (e.g., ≤450 kg total, ≤0.05 m³ per accumulation). Exceptions apply for liquefied gases (UN1005, etc.). |
+| **Certain Dangerous Cargoes (CDCs)** | Dangerous goods listed in **Schedule 4** of the MTSA and found in **Schedule 1 of the Transportation of Dangerous Goods Regulations (TDGR)** or **Part 3 of the IMDG Code**. |
+| **Container** | A structure meeting the requirements of the *Safe Containers Convention Act*. |
+| **Container Terminal** | Any marine facility that accepts containers for transport. |
+| **Contracting Government** | A government that is a signatory to SOLAS. |
+| **Cruise Ship** | A vessel with sleeping facilities for over 100 non-crew passengers and not a ferry. |
+| **Cruise Ship Terminal** | A marine facility that interfaces with cruise ships. |
+| **Dangerous Goods** | As defined in the *Transportation of Dangerous Goods Act, 1992*. |
+| **Declaration of Security** | An agreement between a vessel and a marine facility or another vessel required under sections 228 or 315 of the MTSA. |
+| **Ferry** | A vessel operating on a fixed schedule between two or more points, exclusively for passengers, vehicles, or passenger vehicles. |
+| **Ferry Facility** | A marine facility that interfaces with ferries to which Part 2 applies. |
+| **Fishing Vessel** | As defined in the *Marine Personnel Regulations*. |
+| **Government Vessel** | A vessel owned or in service of Her Majesty in Right of Canada or a foreign government. |
+| **IMDG Code** | The *International Maritime Dangerous Goods Code*, as amended. |
+| **Interface** | All interactions between a vessel and a marine facility or another vessel—includes movement of people, cargo, or services. |
+| **International Voyage** | A voyage between Canada and outside Canada, or between foreign locations, by a Canadian-flagged vessel; or a foreign-flagged vessel operating in Canadian waters. The start/end is defined by the vessel’s last/first interface with a Canadian marine facility. |
+| **ISPS Code** | The international standard for maritime security, incorporated into SOLAS. |
+| **Key** | A device (e.g., card) issued to allow access to restricted areas. |
+| **Large Means of Containment** | As defined in the TDGR (e.g., tanks, containers). |
+| **Marine Security Document** | Any certificate, document, or letter issued by the Minister under these regulations. |
+| **MARSEC Level** | A tiered system of security requirements based on threat levels. |
+| **MARSEC Level 1** | Minimum security measures required under an approved security plan or procedures. |
+| **MARSEC Level 2** | Additional security measures due to heightened risk. |
+| **MARSEC Level 3** | Additional measures due to a probable or imminent threat (even if target not identified). |
+| **Non-SOLAS Ship** | A vessel not a SOLAS ship engaged on an international voyage and meeting one of the following: >100 GT, >12 passengers, or a towing vessel pushing/towing a barge carrying CDCs. |
+| **Occasional-Use Marine Facility** | A facility with 10 or fewer interfaces with vessels under Part 2 in a calendar year. |
+| **Operator** | For a vessel: actual or registered owner, beneficial interest holder, lessee, charterer, or master (for towing barges). |
+| **Passenger** | As defined in the *Canada Shipping Act, 2001*. |
+| **Passenger Facility** | A marine facility that interfaces with passenger vessels under Part 2. |
+| **Pleasure Craft** | As defined in the *Canada Shipping Act, 2001*. |
+| **Port** | (a) A port as defined in section 5 of the *Canada Marine Act*; (b) a public port designated under section 65; or (c) a group of marine facilities in close proximity agreeing to be subject to sections 362–375. |
+| **Port Administration** | (a) Port authority under section 8 of the Canada Marine Act; (b) a Department of Transport employee designated as security officer; or (c) an operator designated in a mutual agreement to act as port administration. |
+| **Recognized Institution** | A training institution designated by the Minister to deliver approved training courses for obtaining a *certificate of proficiency* under Part 8. |
+| **Restricted Area Pass** | A document allowing access to specific restricted areas in vessels, facilities, or ports during a specified period. |
+| **Security Breach** | A violation of these regulations, a security measure, rule, or approved security plan/procedure that does *not* result in a security incident. |
+| **Security Incident** | An event that compromises the security of a vessel, facility, or port. |
+| **Security Threat** | Any suspicious act or circumstance that could compromise security. |
+| **SOLAS** | The *International Convention for the Safety of Life at Sea*, as amended. |
+| **SOLAS Ship** | A vessel of 500 GT or more, or carrying more than 12 passengers, engaged on an international voyage (excluding certain Great Lakes/St. Lawrence routes). |
+| **STCW Code / Convention** | The *Seafarers’ Training, Certification and Watchkeeping Code* and its underlying convention, as amended. |
+| **Towing Vessel** | A vessel that tows or pushes another vessel. |
+| **Transportation Security Clearance** | A clearance granted by the Minister under section 509 of the MTSA. |
+| **Vessel Personnel Without Security Responsibilities** | Crew members (excluding vessel/company security officers) without security duties under the vessel’s security plan. |
+| **Vessel Personnel With Security Responsibilities** | Crew members with assigned security duties under the vessel’s security plan. |
+
+> **Important Interpretive Notes:**
+> - For ISPS Code purposes, "**company**" is interpreted as "**operator**".
+> - The definition of *international voyage* is defined by the vessel's interface with Canadian marine facilities: it begins at the last interface before departure and ends at the first interface upon return.
+> - A reference to a UN number in Schedule 4 refers to goods listed in TDGR Schedule 1 or IMDG Part 3.
+> - **No derogation** from seafarers’ welfare and labor rights exists unless there is an **immediate threat** to safety or security.
+
+---
+
+## **II. Security Levels (MARSEC)**
+
+The regulations establish a tiered system of security levels based on threat assessment:
+
+| Level | Description |
+|------|-------------|
+| **MARSEC Level 1** | Minimum baseline security requirements. Must be maintained **at all times** unless a higher level is mandated by the Minister. Applies to all vessels and marine facilities under Part 2. |
+| **MARSEC Level 2** | Enhanced security measures due to **heightened risk**. Implemented in accordance with approved security plans or procedures. |
+| **MARSEC Level 3** | Immediate, heightened response to a **probable or imminent threat**, even if the target is not yet identified. Requires full implementation of approved security plans. |
+
+> **Note**: Operators must maintain **MARSEC Level 1 at all times** unless a higher level is required by the Minister due to an assessed threat.
+
+---
+
+## **III. Access and Communication Requirements for the Public**
+
+To ensure public access and service delivery, especially for travelers:
+
+> The operator of a vessel or marine facility (other than a port administration under paragraph (a) or (b) of the port administration definition) must:
+> - Provide **authorized screening** using methods that enable effective communication in **either official language** (English or French) when at least **5% of the traveling public** demands services in one of the official languages.
+> - Provide **printed or pre-recorded materials in both official languages** if used during screening.
+
+This provision ensures

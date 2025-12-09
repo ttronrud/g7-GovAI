@@ -1,0 +1,163 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the *Aviation Occupational Health and Safety Regulations* as set out in your provided text. This summary is organized by key sections, definitions, obligations, and regulatory intent, making it accessible for compliance, legal, or safety professionals.
+
+---
+
+# **Detailed Summary of the Aviation Occupational Health and Safety Regulations**  
+*(Under the Canada Labour Code – Part II, S.C. 2000, c. 20, s. 5–8, 20)*
+
+---
+
+## **1. Regulatory Background and Authority**
+
+- **Issuance**: These regulations were made by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Labour** and the **Minister of Transport**.
+- **Legal Basis**: Enacted under specific sections of the *Canada Labour Code*:
+  - Sections **125a, 125.1b, 125.2c, 126d, and 157e**.
+- **Purpose**: To establish health and safety standards for employees working on **aircraft in operation**, and for individuals granted access to aircraft, ensuring their protection from occupational hazards including noise, electrical risks, contamination, and exposure to hazardous substances like asbestos.
+
+---
+
+## **2. Scope of Application**
+
+The regulations apply to:
+
+- **Non-employee individuals** who perform work on an aircraft to gain knowledge or experience (e.g., trainees, apprentices), **as if they were employees**.
+- **All employees employed on board aircraft during operation**.
+- **Persons granted access** to aircraft by the employer (e.g., maintenance staff, support personnel).
+
+> ⚠️ **Key Principle**: All provisions of these regulations must be interpreted and applied as if the non-employee were an actual employee.
+
+---
+
+## **3. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Part II of the Canada Labour Code (Labour Code). |
+| **Approved Organization** | An organization approved by a province to teach first aid. |
+| **CSA** | Canadian Standards Association. |
+| **Oxygen-deficient atmosphere** | Atmosphere with <18% oxygen by volume or partial pressure <135 mmHg. |
+| **Protection Equipment** | Safety materials, devices, clothing, or gear (e.g., PPE). |
+| **Qualified Person** | Someone with knowledge, training, and experience to perform a duty safely. |
+| **Readily Available** | Present and easily accessible at the workplace at all times. |
+| **Safety Restraint Device** | Includes harnesses, belts, ropes, lifelines, and attached fittings to prevent falls. |
+| **A-weighted Sound Pressure Level (dBA)** | Sound measured with A-weighting filter (IEC 61672-1:2002 standard). |
+| **Noise Exposure Level (Lex,8)** | Calculated as 10 × log₁₀(∫(A²)/8 dt), with reference pressure 20 μPa. |
+| **Sound Level Meter (SLM)** | Instrument certified to meet IEC 61672-1:2002 Type 2 performance standards. |
+| **Electrical Equipment** | Equipment used for generation, distribution, or use of electricity. |
+| **Galley Area** | Area used for food storage or preparation. |
+| **Washroom** | Room with toilet or washbasin. |
+
+> ✅ **Incorporation by Reference**: Any standard referenced (e.g., CSA Z107.56, Z94.2) is incorporated as **amended from time to time**.  
+> ⚖️ **Conflict Resolution**: If a standard contradicts a regulation, the **regulation prevails**.
+
+---
+
+## **4. Noise Exposure and Hearing Protection (Part on Acoustics)**
+
+### **4.1 Measurement Requirements**
+- Sound exposure must be measured using:
+  - A sound level meter **recommended in CSA CAN/CSA-Z107.56-13** (Clause 4.3).
+  - The instrument must be **certified** by a Standards Council of Canada-accredited body to meet **Clause 4 requirements**.
+- Measurement must be conducted:
+  - **Instantaneously** during normal working conditions.
+  - Using the **slow response setting** of the SLM.
+
+### **4.2 Exposure Limits**
+- **No employee may be exposed to**:
+  - An A-weighted sound pressure level **exceeding the limits in Schedule** (column 1) for durations over those specified (column 2).
+  - A **noise exposure level (Lex,8) exceeding 87 dBA** in any 24-hour period.
+
+### **4.3 High-Risk Exposure (≥84 dBA)**
+If an employee may be exposed to **≥84 dBA for a period likely to endanger hearing**, the employer must:
+1. **Immediately appoint a qualified person** to conduct an investigation.
+2. **Notify** the workplace committee or health and safety representative (HSR) of:
+   - The investigation.
+   - The name of the appointed person.
+
+### **4.4 Investigation Requirements**
+The investigation must assess:
+- Sources of sound on board.
+- Likely A-weighted sound pressure levels and exposure durations.
+- Existing noise-reduction methods.
+- Whether exposure exceeds the **87 dBA limit**.
+- Whether exposure may reach **≥84 dBA**.
+
+### **4.5 Report Requirements**
+After consultation with the HSR or committee, the investigator must:
+- Document observations and findings.
+- Provide **recommendations** for:
+  - Engineering controls to reduce exposure (e.g., sound barriers, quieter equipment).
+  - Use of hearing protectors for exposure between **84–87 dBA**.
+- The report must be:
+  - **Kept by the employer** for **10 years**.
+  - **Accessible to affected employees**.
+
+### **4.6 Employee Notification & Hearing Protection**
+If the report indicates exposure ≥84 dBA:
+- The employer must:
+  - Provide **written information** on the hearing risks.
+  - Make the report **readily available** to the employee.
+  - **Post a notice** in a conspicuous, accessible location indicating where the report can be reviewed.
+
+### **4.7 Hearing Protection Requirements**
+If engineering controls are **not feasible** to reduce exposure below the limit:
+- The employer must:
+  - Provide **hearing protectors** that:
+    - Are certified by an accredited body to meet **CSA Z94.2-02 (R2007)** standards.
+    - Prevent exposure to the hazardous sound level.
+  - **Train employees** in fitting, care, and use of protectors (in consultation with HSR or committee).
+
+> 🔍 **Note**: Hearing protection is not a substitute for engineering controls — it is only used when those are not feasible.
+
+---
+
+## **5. Electrical Safety (Section 3.3)**
+
+### **5.1 Work on Live Electrical Equipment**
+- **Only a qualified person** may perform testing or work on electrical equipment on board aircraft.
+- If there is a risk of **hazardous electrical shock**, employees must use:
+  - **Insulated tools and protection equipment**.
+
+### **5.2 Conditions for Working on Live Equipment**
+An employee may work on live or potentially live equipment **only if**:
+- The employer has **instructed** the employee in safe procedures for working on live conductors.
+- A **safety ground** is connected to the equipment.
+- The equipment is **disconnected** from all sources of electrical, hydraulic, pneumatic, or other energy that could make it dangerous.
+
+### **5.3 Guarding and Coordination**
+- **Guarding** of live electrical equipment is required.
+- If **two or more employees** are working on or near electrical equipment, the employer must ensure **safe coordination** and full communication.
+
+### **5.4 Reporting Defects**
+- Any employee identifying a defect in electrical equipment must:
+  - **Mark or tag** the equipment as unsafe.
+  - **Immediately report** the defect to the **person in charge of the aircraft**.
+
+---
+
+## **6. Hygiene and Sanitation (Washrooms and Galley Areas)**
+
+### **6.1 Washroom Requirements**
+- **Ideal**: A washroom with **toilet and washbasin** for employee use.
+- **Fallbacks** (in order of feasibility):
+  1. Toilet-only room.
+  2. Washbasin-only room.
+- **Washrooms must be**:
+  - **Enclosed** to provide reasonable privacy.
+  - **Cleaned at least once every 24 hours** when used.
+  - **Maintained in a clean and sanitary condition**.
+
+### **6.2 Equipment and Supplies**
+- **Toilet paper** must be provided.
+- **Menstrual products** (tampons, pads) must be available in washrooms with toilets.
+- If not feasible in washrooms, they must be provided in **another accessible, private location** under employer control.
+- **Soap or cleaning agent** must be provided in dispensers at each washbasin.
+- **Single-use hand towels** must be available in sufficient quantity.
+- **Non-combustible container** for used towels.
+- **Hot water** (if provided) must be ≤ **43°C**.
+- If hot water is not feasible, **antiseptic agent** must be provided.
+
+### **6.3 Water Supply and Potable Water**
+- Employees must have **sufficient potable water** for:
+  - Drinking.
+  - Personal washing.

@@ -1,0 +1,224 @@
+**Detailed Summary of Canadian Payments Association By-law No. 6 — Compliance**
+
+---
+
+### **Overview**
+
+Canadian Payments Association By-law No. 6 — *Compliance* is a regulatory instrument established under the **Canadian Payments Act** (S.C. 2001, c. 9) and approved by the members of the Canadian Payments Association (CPA) at a members’ meeting. It was formally adopted on **June 25, 2003**, and came into force upon registration. This by-law governs the **processes for investigating and addressing contraventions** (non-compliance) by members and non-members of the CPA, particularly in relation to payment item handling, clearing, and settlement activities.
+
+It establishes a structured, transparent, and fair framework for handling complaints, conducting investigations, imposing sanctions, and ensuring accountability within the payment systems operated by the CPA — especially the Automated Clearing Settlement System (ACSS).
+
+---
+
+## **Key Components and Detailed Summary**
+
+---
+
+### **1. Definitions**
+
+The by-law begins with clear definitions of key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **By-law No. 3** | Refers to the CPA By-law on *Payment Items and Automated Clearing Settlement System*. This provides the foundational rules for payment processing and settlement. |
+| **Clearing member** | A member that, on behalf of a non-member, exchanges payment items or makes entries into the ACSS. Acts as an intermediary for non-members. |
+| **Committee** | A committee established by the Board or a subcommittee thereof. May be specialized to handle specific types of investigations. |
+| **Document** | Includes all data stored electronically (e.g., digital records, transaction logs). |
+| **Item in dispute** | As defined in CPA Rule A6 — a payment item that has been challenged due to errors, discrepancies, or disputes. |
+| **Non-member** | A local financial institution (e.g., bank or credit union) that is not a full member of the CPA but participates in the system through a clearing member. |
+| **Party** | A party to an investigation under section 10 of the Canadian Payments Act. |
+| **Secretary** | The official appointed by the Board to manage administrative functions, including record-keeping and notice distribution. |
+
+---
+
+### **2. What Constitutes a Contravention?**
+
+- A **contravention** occurs when:
+  - A **member** fails to comply with any provision of the by-laws or rules that impose a duty on them.
+  - A **non-member** fails to comply with a provision where a **clearing member is responsible for ensuring compliance** under By-law No. 3.
+
+> This establishes accountability not only for members but also for non-members through their clearing members.
+
+---
+
+### **3. Initiation of Investigation: Role of the President**
+
+The **President** has the authority to initiate an investigation at any time if they reasonably believe a contravention has occurred.
+
+#### Requirements for Referral:
+When referring a matter to a committee, the President must provide:
+- Name of the involved member or non-member
+- Description of the alleged contravention and relevant facts
+- Documentary evidence supporting the allegation
+- Any other relevant information or arguments
+
+#### Notice to Parties:
+Immediately after referral, the President must give **written notice** to the parties:
+- Describing the alleged contravention
+
+---
+
+### **4. Filing a Complaint**
+
+Any member may file a **written, signed complaint** alleging contravention by another member or non-member.
+
+#### Required Elements of a Complaint:
+- Name of the involved party
+- Description of the alleged contravention and facts
+- Documentary evidence
+- Relief sought (if applicable)
+- Other relevant arguments
+
+#### Special Rules for Complaints Involving an *Item in Dispute*:
+- Must be filed **within 180 days** after the notice of dispute is given.
+- **Notice of dispute** must be sent:
+  - Within **60 days** after receiving a returned item (on negotiation or deposit)
+  - At least **30 days before filing** the complaint
+
+> This ensures timely resolution and prevents prolonged disputes.
+
+---
+
+### **5. President’s Decision on Complaints**
+
+The President must decide within **30 days** of receiving a complaint whether to:
+- **Investigate personally**, or
+- **Refer to a committee** with relevant expertise
+
+#### Timeframes:
+- **Investigation or referral must occur within 30 days** of complaint filing
+- **Referral to a committee must happen within 40 days**
+
+#### If Complaint is Found to Be Frivolous, Vexatious, or Made in Bad Faith:
+- The President must issue a written notice with **reasons** within 30 days
+- The complainant may appeal this decision
+
+---
+
+### **6. Appeal to the Board**
+
+- A complainant may appeal the President’s decision to the **Board of Directors** within **30 days** of receiving the notice.
+- Appeal must be:
+  - In writing
+  - Signed by an authorized representative
+  - Sent to the Secretary
+
+#### Process:
+- Secretary acknowledges receipt within **10 days**
+- Distributes appeal to all Board members
+- Hearing is scheduled for the **next regular Board meeting**
+- Notice of hearing is sent to complainant and President at least **14 days in advance**
+
+#### Conflict of Interest:
+- Any Board director with a conflict of interest must **withdraw** from the appeal
+
+#### Rights of Parties:
+- Complainant and President have the right to make **oral and written submissions** without introducing new evidence
+
+---
+
+### **7. Board’s Decision**
+
+The Board may:
+- **Confirm** the President’s decision (if frivolous, vexatious, or in bad faith)
+- **Order an investigation** to be conducted
+
+> The Board’s decision must be:
+- In writing
+- With clear reasons
+- Sent to both complainant and President within **30 days** of the hearing
+
+---
+
+### **8. Investigation by Compliance Panel**
+
+If the Board orders an investigation, the President must:
+- Refer it to a **committee with relevant expertise**
+- Give written notice to parties about the complaint and referral
+
+#### Composition of Compliance Panel:
+- At least **three members** (representatives of other members)
+- Excludes the complainant and the member alleged to be in contravention
+- In cases involving non-members, the non-member and its clearing member are excluded
+
+#### Decision-Making:
+- Decisions are made by **majority vote**
+
+#### Fair and Impartial Process:
+- Investigation must be conducted fairly and impartially
+- Any person with a **conflict of interest** (President or panel member) must **withdraw** and be replaced by a Board-designated individual
+
+---
+
+### **9. Parties to the Investigation**
+
+- The **member alleged to be in contravention** and, in the case of a non-member, the **non-member and its clearing member** are parties.
+- The **Association is a party** to every investigation **unless**:
+  - The investigation involves an item in dispute and the complainant is a member involved in the dispute → in that case, the **complainant** is the party, not the Association.
+
+> This exception ensures that disputes between members are managed directly between the parties, reducing unnecessary involvement of the Association.
+
+---
+
+### **10. Rights of Parties During Investigation**
+
+- Parties have the right to:
+  - Be represented by a lawyer
+  - Examine the record of the investigation
+  - Make copies of the record
+  - Produce and cross-examine witnesses
+  - Submit oral and written evidence
+
+---
+
+### **11. Information Gathering and Record-Keeping**
+
+- The President or compliance panel must:
+  - Assemble relevant information and documents
+  - Prepare a **written summary** of all collected information
+  - Ensure all summaries and documents become part of the **official record**
+
+#### Requesting Information:
+- Can request any member to provide documents or information
+- Member must provide unless they can show a **good reason** not to
+
+#### Use of Information:
+- Information is used **only for the investigation and decision-making** on the contravention
+
+#### Expert Engagement:
+- May hire legal and other experts
+- Reasonable fees and disbursements are **included in the investigation expenses**
+
+> Documents provided by experts (except legal ones) are part of the record.
+
+---
+
+### **12. Hearing Process**
+
+- A hearing is **convened unless parties agree otherwise**
+- Date is selected in consultation with the parties
+- Parties receive **written notice at least 20 days before** the hearing
+
+#### Rights at Hearing:
+- Right to be heard
+- Right to produce and cross-examine witnesses
+- Right to receive copies of opposing evidence
+- Right to make oral and written submissions
+
+---
+
+### **13. Sanctions for Contravention**
+
+If the President or compliance panel determines a contravention has occurred, they may impose one or more of the following sanctions:
+
+| Sanction | Description |
+|--------|-------------|
+| **Reprimand** | Formal warning of non-compliance |
+| **Order to perform or stop an action** | E.g., to comply with by-law requirements or cease unauthorized behavior |
+| **Restitution** | Member must compensate any member who suffered a loss due to the contravention |
+| **Suspension of rights** | One or more rights (e.g., to participate in settlement) may be suspended. Rights are automatically reinstated on a specified date or upon meeting conditions under section 25 |
+| **Conditions on rights** | Member must meet certain conditions before exercising rights |
+| **Penalty** | Maximum penalty of **$250,000 per contravention** |
+
+> Penalties are intended to deter non-compliance and ensure accountability.
+

@@ -1,0 +1,162 @@
+Certainly. Below is a **detailed, structured summary** of the regulation titled **"Volatile Organic Compound (VOC) Concentration Limits for Certain Products Regulations"**, as published under the *Canadian Environmental Protection Act, 1999 (CEPA 1999)*.
+
+---
+
+## 🔍 **Comprehensive Summary of the Volatile Organic Compound (VOC) Concentration Limits for Certain Products Regulations**
+
+### 📌 **Legal Basis and Context**
+
+This regulation was made under **section 93(1)** of the *Canadian Environmental Protection Act, 1999 (CEPA 1999)*, and specifically pursuant to **sections 286.1d and 326** of the Act. It was issued by the **Governor in Council**, on the recommendation of the **Minister of the Environment** and the **Minister of Health**, following a formal consultation process.
+
+#### Key Procedural Steps:
+- On **July 6, 2019**, the Minister of the Environment published a **proposed regulation** in *Canada Gazette, Part I*, inviting public comment.
+- A period was provided for stakeholders to:
+  - File **comments** on the proposed rules, or
+  - File a **notice of objection** requesting a **board of review** and providing reasons.
+- The **National Advisory Committee** was given an opportunity to provide expert advice under **section 6c** of CEPA 1999.
+- The Governor in Council concluded that the proposed regulation:
+  - Does **not overlap** with existing environmental or health regulations under other Acts;
+  - Provides **sufficient protection** to human health and the environment;
+  - Is consistent with the legislative intent of CEPA 1999.
+
+➡️ Therefore, the regulation was formally **adopted and enacted**.
+
+---
+
+## 📚 **Core Definitions**
+
+The regulation defines key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **VOC (Volatile Organic Compound)** | A compound that participates in atmospheric photochemical reactions and is **not excluded** under item 65 of Schedule 1 to CEPA 1999. |
+| **Fragrance** | A substance or mixture with a combined vapour pressure ≤ 0.267 kPa at 20°C, intended solely to impart scent or mask odour. |
+| **Adhesive** | Excludes products used on humans/animals or those with adhesive on an inert substrate. |
+| **High Vapour Pressure VOC** (in antiperspirants/deodorants) | VOC with vapour pressure >10.67 kPa at 20°C. |
+| **Low Vapour Pressure VOC** | VOC with vapour pressure <0.013 kPa at 20°C, boiling point >216°C, or containing >12 carbon atoms per molecule. |
+| **Medium Vapour Pressure VOC** (in antiperspirants/deodorants) | VOC with vapour pressure >0.267 kPa but ≤10.67 kPa at 20°C. |
+| **Reformulated Product** | A product in a category listed in Schedule 1 or 2 that has been reformulated to reduce VOC concentration below the maximum allowed level. |
+
+> All VOC concentrations are expressed as a **percentage by weight (% w/w)** of the product’s **net weight**.
+
+---
+
+## 🎯 **Scope of Application**
+
+### ✅ Applies To:
+- Any product containing VOCs that falls into a product category listed in:
+  - **Column 1 of Schedule 1** (e.g., personal care, cleaning products)
+  - **Column 1 of Schedule 2** (e.g., aerosols, charcoal lighters)
+
+### ❌ Does NOT Apply To:
+- Products designed solely for **manufacturing or processing** activities.
+- Products used **exclusively in laboratories** (analysis, research, standards).
+- Products regulated under the **Pest Control Products Act**.
+- Products **manufactured or imported only for export**.
+- **Adhesives** with container size ≤30 mL.
+- Products already regulated under:
+  - *VOC Concentration Limits for Architectural Coatings Regulations*
+  - *VOC Concentration Limits for Automotive Refinishing Products Regulations*
+- Products used **in or on a new car at the time of manufacture**.
+- Products **in transit** through Canada (from outside to outside Canada).
+
+---
+
+## ⚠️ Prohibitions on Manufacturing and Importing
+
+### General Prohibition (Section 1):
+> A person **must not manufacture or import** a product belonging to a category in Schedule 1 or 2 if:
+> - Its VOC concentration exceeds the **maximum allowed level** in column 3 of the relevant table, **unless**:
+>   1. The product is **to be diluted before use** (as per instructions on container or documentation), resulting in a VOC concentration ≤ the maximum limit; **OR**
+>   2. A **permit** has been issued under **section 9, 16, or 19** of CEPA 1999.
+
+### Emission-Based Prohibition (Section 2):
+> A person must not manufacture or import a product in Schedule 2 (e.g., aerosols, lighters) with **VOC emission potential** exceeding the maximum allowed level **unless**:
+> - A **permit** under **section 19** has been issued.
+
+> ⚠️ **Exception**: The dilution exemption **does not apply** to **multi-purpose solvents or paint thinners** (items 48 and 52 in Schedule 1).
+
+---
+
+## 📅 Effective Date of Prohibitions
+
+- For **disinfectants** (item 31 in Schedule 1):  
+  → Effective on **January 1 of the year after the 3rd anniversary** of the regulation’s registration.
+- For **all other products**:  
+  → Effective on **January 1 of the year after the 2nd anniversary** of registration.
+
+> This phased implementation allows industry time to adjust.
+
+---
+
+## 📏 Determining VOC Concentration
+
+The VOC concentration is calculated using a formula:
+
+$$
+\text{VOC Concentration (\% w/w)} = \frac{W_S}{W_{EX}} \times 100
+$$
+
+Where:
+- **W_S** = Total weight (in grams) of substances that **volatize** during testing.
+- **W_EX** = Weight of substances **excluded** from the calculation (based on type and category).
+
+### Exclusions by Product Type:
+| Product Type | Excluded Components |
+|------------|------------------------|
+| **Antiperspirant/Deodorant** | VOCs ≤0.267 kPa (or >10C atoms), colourants/fragrances ≤2% of net weight, ethanol |
+| **Personal Fragrance (item 11)** | Low-vapour pressure VOCs, fragrances |
+| **Pressurized Gas Duster (item 53)** | Low-vapour pressure VOCs |
+| **Other products** | Low-vapour pressure VOCs, fragrances ≤2% of net weight |
+
+> For **aerosol products**, propellant and non-propellant fractions are calculated **separately** and then summed.
+
+> For **antiperspirants/deodorants**, VOCs are split into **medium** and **high vapour pressure** categories for separate calculation.
+
+---
+
+## 🚀 VOC Emission Potential (Schedule 2 Products)
+
+When determining **emission potential** (e.g., for aerosols or lighters), the following are **excluded**:
+- Low-vapour pressure VOCs
+- In **charcoal lighter products (item 1 of Schedule 2)**: fragrances ≤2% of net weight
+
+---
+
+## 🔄 Compliance Unit Trading System (CUTS)
+
+To support compliance, a **compliance unit trading system** is introduced, allowing companies to:
+1. **Generate compliance units** (1 unit per kg of reformulated product).
+2. **Transfer unused units** to other companies.
+3. **Use units** to offset excess VOCs in products that exceed the maximum allowed concentration.
+
+### How Units Are Generated:
+- A company must submit a **notice by October 1** of the first year of participation.
+- The notice includes:
+  - Company and representative details
+  - Product name, category, and subcategory
+  - Pre-reformulation VOC concentration, reformulation date, post-reformulation concentration
+  - Expected annual production (excluding exports)
+
+> **Formula for Units Generated**:
+$$
+\text{Compliance Units} = \sum \left( \frac{(C_{\text{max}} - C_{\text{actual}})}{C_{\text{max}}} \times Q \right)
+$$
+Where:
+- $C_{\text{max}}$ = Maximum allowed VOC concentration (from Schedule 1)
+- $C_{\text{actual}}$ = Actual VOC concentration after reformulation
+- $Q$ = Quantity of product (kg) manufactured/imported in a year (excluding exports)
+
+> For the **first year**, the base period starts from **the date of notice submission or reformulation**, whichever is later.
+
+### Validity of Compliance Units:
+- Valid for **2 years**, starting on **January 1 of the year after generation**.
+
+> The Minister must issue **written confirmation** of unit availability within **60 days** of receiving a report under section 14.
+
+---
+
+## 📝 Permitting System for Exceeding Limits
+
+### Who Can Apply?
+Any person who wishes to manufacture or import a

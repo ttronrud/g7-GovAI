@@ -1,0 +1,179 @@
+**Detailed Summary of the *Accessible Transportation Planning and Reporting Regulations* (S.C. 2019, c. 10)**  
+*Approved by Her Excellency the Governor General in Council, on the recommendation of the Minister of Transport, November 3, 2021*  
+*Pursuant to Section 63 of the Accessible Canada Act*
+
+---
+
+### **Overview**
+
+The *Accessible Transportation Planning and Reporting Regulations* are a set of detailed rules established by the **Canadian Transportation Agency (Agency)** under **Section 63 of the Accessible Canada Act (Act)**. These regulations implement the federal government’s commitment to ensuring that transportation services in Canada are accessible to all persons, including those with disabilities.
+
+The primary goal of these regulations is to **require regulated transport entities to develop, publish, and maintain accessibility plans and progress reports**, establish clear feedback mechanisms, and ensure that all materials are accessible in multiple formats—especially for people with disabilities.
+
+These regulations apply specifically to **transport entities** that are required to comply with accessibility provisions under the *Canada Transportation Act*, particularly those under **subsection 170(1)**.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Accessible Canada Act* |
+| **Agency** | The *Canadian Transportation Agency* |
+| **Average number of employees** | Calculated as the sum of the highest number of employees in each month of a calendar year, divided by 12, rounded to the nearest whole number (rounded up if equidistant). |
+| **Employee** | A person employed by a regulated entity, including dependent contractors under the *Canada Labour Code*, **excluding**: (a) students in employment programs; (b) students employed only during vacations. |
+| **Regulated transport entity** | A transport entity for which a "day fixed" has been established under Section 3 of the Act. |
+| **Transport entity** | Any entity or individual belonging to one of the classes defined under subsection 2(1) of the Act. |
+| **WCAG** | The *Web Content Accessibility Guidelines*, published by the World Wide Web Consortium (W3C), as amended over time. Compliance is required at **Level AA**. |
+
+> **Important Note**: If a document is available in both official languages (English and French), any amendment is only incorporated when it is available in **both languages**.
+
+---
+
+## **Classification of Transport Entities**
+
+Entities are categorized into **four classes (Class 1 to Class 4)** based on their **average number of employees** in a given calendar year and their obligations under the Act.
+
+| Class | Criteria | Key Obligations |
+|------|--------|----------------|
+| **Class 1** | Entities in paragraphs 7(1)(a)–(c) of the Act, required to comply with regulations under subsection 170(1) of the Canada Transportation Act. | Most comprehensive obligations. Required to publish accessibility plans and progress reports annually. |
+| **Class 2** | Entities in 7(1)(e) or (f) with **100 or more employees**. | Same as Class 1, but with a later publication date for certain documents. |
+| **Class 3** | Entities in 7(1)(e) or (f) with **10 to 99 employees**. | Less frequent reporting; progress reports due by June 1. |
+| **Class 4** | Entities in 7(1)(e) or (f) with **fewer than 10 employees**. | Minimal obligations; subject to transition rules. |
+
+### **Key Transition Rule (Class Movement)**
+
+- If a transport entity’s average number of employees **decreases** such that it moves from a higher class to a lower one (e.g., from Class 2 to Class 3), it is **deemed to have always belonged** to the lower class.
+- This means it **retains the obligations** of the lower class going forward — even if it was previously in a higher class.
+
+> **Exception**: Despite this rule, if a transport entity **published an accessibility plan as a member of a particular class**, it **must fulfill its feedback and progress reporting obligations as if it had remained in that class**.
+
+---
+
+## **"Day Fixed" – Key Dates for Compliance**
+
+The "day fixed" is a reference point used to determine when accessibility plans and progress reports must be published. It varies by class:
+
+| Class | Day Fixed |
+|------|----------|
+| **Class 1** | December 31, 2021 |
+| **Class 2** | June 1, 2022 |
+| **Class 3** | June 1, 2023 |
+
+> **For entities qualifying on or after January 1, 2022**:
+>
+> - If an entity **qualified as Class 4** in the prior year:  
+>   → The "day fixed" is **June 1 of the year after the year it became Class 4**.
+> - If an entity **did not qualify as Class 4** in the prior year:  
+>   → The "day fixed" is **June 1 of the year after the year it became Class 1, 2, or 3**.
+
+> Example:  
+> An entity that was Class 4 in 2021 would have its day fixed on **June 1, 2023** (i.e., one year after 2022).  
+> An entity that became Class 3 in 2022 would have its day fixed on **June 1, 2023**.
+
+---
+
+## **Accessibility Plan Requirements**
+
+### **Mandatory Headings**
+Every accessibility plan must include the following headings:
+1. **General**
+2. **Each element** required under subsection 60(1) of the Act (e.g., physical access, digital access, communication, etc.)
+3. **Consultations**
+
+### **Content Under "General"**
+- Name of the **designated person** responsible for receiving public feedback.
+- **Means for public feedback**, including:
+  - Mailing address
+  - Telephone number
+  - Email address
+
+### **Content Under "Consultations"**
+- Must be drafted in accordance with **subsection 60(5)** of the Act, which requires meaningful engagement with the public.
+
+---
+
+## **Publication of the Accessibility Plan**
+
+### **Digital Publication (Preferred)**
+- Must be published **electronically** on the entity’s **main digital platform** (owned, operated, or controlled).
+- Must be:
+  - Available **directly on the homepage or home screen**, or via a hyperlink from there.
+  - In a format that meets **WCAG Level AA conformance** (i.e., accessible to people with disabilities).
+
+### **Print Publication (if no digital platform)**
+- If the entity does **not** use a digital platform:
+  - Must publish a **print copy** in clear, simple, and concise language.
+  - Must display it in a **conspicuous location** in the main reception area of **each publicly accessible business location**.
+
+### **Notification to the Agency**
+- Must notify the Agency **within 48 hours** of publishing any version of the plan.
+- Notification must include a **hyperlink to the URL** or the **physical address** of print copies.
+
+---
+
+## **Public Requests for Accessible Formats**
+
+- The public may request the plan in:
+  - Print, large print, braille, audio, or electronic format compatible with adaptive technology.
+
+### **Response Timelines**
+| Format | Response Deadline |
+|-------|-------------------|
+| Braille or audio | **45 days** after request |
+| Other formats (e.g., print, large print) |  
+- **Class 1 & Class 2**: 15 days  
+- **Class 3**: 20 days |
+
+> The entity must respond **as soon as feasible**, but no later than the deadline.
+
+---
+
+## **Feedback Process Requirements**
+
+### **How Feedback Can Be Provided**
+- Feedback must be accepted via **any public communication channel**, including:
+  - Mail
+  - Telephone
+  - Electronic means (email, website, etc.)
+
+### **Anonymity**
+- The feedback process must allow **anonymous submissions**.
+
+### **Acknowledgment of Feedback**
+- The entity must **acknowledge receipt** of non-anonymous feedback **in the same manner** it was submitted.
+
+### **Designation of Feedback Officer**
+- Must **designate and publicly identify** a person (or position) responsible for receiving feedback.
+
+---
+
+## **Description of the Feedback Process**
+
+### **Publication Requirements**
+- Must be published **on the same day** as the accessibility plan.
+- Must be:
+  - Published electronically on the main digital platform (homepage or via hyperlink)
+  - Or, if no digital platform, printed and displayed in the main reception area alongside the accessibility plan or progress report.
+- Must meet **WCAG Level AA** accessibility standards.
+
+### **Updates**
+- If the feedback process changes, the entity must **publish an updated description** as soon as feasible.
+
+### **Public Requests & Response Timelines**
+- Same as for the accessibility plan:
+  - Braille/audio: 45 days
+  - Other formats:  
+    - Class 1 & 2: 15 days  
+    - Class 3: 20 days
+
+### **Notification to the Agency**
+- Must notify the Agency **within 48 hours** of publishing or updating the feedback process description.
+
+---
+
+## **Progress Report Requirements**
+
+### **Mandatory Headings**
+- **General**
+- A heading for each element in subsections 60(1) and 62(5) of the Act

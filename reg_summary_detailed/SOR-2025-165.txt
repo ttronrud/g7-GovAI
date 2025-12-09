@@ -1,0 +1,181 @@
+**Detailed Summary of the Canada Deposit Insurance Corporation (CDIC) Differential Premiums By-law**
+
+---
+
+### **Overview**
+
+This regulation, formally titled the *Canada Deposit Insurance Corporation Differential Premiums By-law*, establishes the methodology and framework for calculating **annual insurance premiums** for federally regulated deposit-taking institutions (member institutions) under the *Canada Deposit Insurance Corporation Act (CDICA)*. The by-law was approved by the **Minister of Finance** on **August 25, 2025**, based on a decision made by the **Board of Directors of CDIC** under subsection 21(2)a of the Act.
+
+The purpose of this by-law is to ensure that insurance premiums are **proportionally reflective** of the risk profile of each member institution, with higher premiums assigned to institutions deemed more risky. This system is designed to promote financial stability, encourage prudent risk management, and align insurance costs with actual risk exposure.
+
+---
+
+## **Key Components of the By-law**
+
+---
+
+### **1. Definitions**
+
+The by-law begins with key definitions used throughout:
+
+- **Act**: Refers to the *Canada Deposit Insurance Corporation Act*.
+- **Fall Return**: A financial return filed by a member institution by **October 31** of the prior year (for the upcoming premium year), containing data as of the end of the second quarter of the current financial year.
+- **Spring Return**: A return filed by **April 30** of the calendar year, containing data as of the end of the most recent financial year prior to that date.
+- **New Member Institution**: An institution that has been operating as a member institution for **less than two full premium years**, or was formed through amalgamation where **none of its predecessor institutions were member institutions** immediately before the amalgamation.
+- **Stage of Intervention**: A risk-based classification assigned under the *Guide to Intervention for Federally Regulated Deposit-Taking Institutions*, published by the Office of the Superintendent of Financial Institutions (OSFI).
+- **Subsidiary**: Defined under Section 2 of the *Bank Act* — refers to a company controlled by another institution.
+
+---
+
+### **2. Premium Calculation Formula**
+
+For the purposes of **paragraphs 21(1)(a)** and **23(1)(a)** of the Act, the **annual premium** is the **greater of**:
+
+- **$5,000**, or  
+- A calculated amount based on a formula involving three components:
+
+#### **Formula Breakdown**
+
+> **Annual Premium = A × B × C**
+
+Where:
+- **A** = Percentage corresponding to the **premium category** (from Schedule 1, Column 3), which depends on the institution’s classification (premium category 1–5).
+- **B** = Total deposits (as defined in paragraph 21(4)(b) of the Act), i.e., the sum of deposits held by the institution.
+- **C** = A multiplier that adjusts the premium based on **timing of return submission** and **risk factors**.
+
+---
+
+#### **Classification of Premium Category (Column 1 of Schedule 1)**
+
+The institution is classified into one of five premium categories (1–5), based on its **total score** (quantitative + qualitative), which determines the risk level and thus the premium rate.
+
+| Category | Risk Level |
+|--------|------------|
+| 1 | Lowest risk |
+| 2 | Moderate risk |
+| 3 | Higher risk |
+| 4 | Significant risk |
+| 5 | Highest risk |
+
+> The classification occurs **twice per year**:
+> - **January 15** (based on fall return)
+> - **July 15** (based on spring return)
+
+---
+
+### **3. Special Rules for New Institutions**
+
+A **new member institution** (operating less than two full premium years) is initially classified in **premium category 2**, **unless**:
+
+- It has been assigned a **stage of intervention** → then classified in **premium category 3**  
+- It is a **bridge institution** → classified in **premium category 1**  
+- It is a **subsidiary** of another member institution → classified in the **same category** as its parent  
+- It has a subsidiary that is also a member institution and not new → classified in the same category as that subsidiary  
+
+> **Amalgamated institutions**:
+> - If all amalgamating institutions were new, the resulting institution is classified in **premium category 2**.
+> - If the amalgamated institution has a stage of intervention → classified in **premium category 3**.
+
+---
+
+### **4. Classification Based on Return Submission Timing**
+
+#### **Late Fall Return (submitted after October 31 but before July 3 of the premium year)**
+
+If the fall return is submitted **after October 31**, but **before July 3**, then **C** in the formula is replaced by a **time-weighted adjustment**:
+
+> C = [ (D₁ × D₂) / D₃ ]  
+> Where:
+> - D₁ = percentage for premium category 5  
+> - D₂ = number of days from **day after submission** to **October 31**  
+> - D₃ = number of days from **November 1** to **submission date**  
+> - D₄ = number of days from **November 1** to **October 31**
+
+This adjustment penalizes late submissions by increasing the risk weight (i.e., moving the institution to a higher premium category).
+
+#### **Late Spring Return (submitted after April 30 but before July 3)**
+
+If the spring return is submitted **after April 30**, but **before July 3**, then **D** in the formula is replaced by a similar time-weighted formula:
+
+> D = [ (E₁ × E₂) / E₃ ]  
+> Where:
+> - E₁ = percentage for premium category 5  
+> - E₂ = number of days from **day after submission** to **April 30**  
+> - E₃ = number of days from **May 1** to **submission date**  
+> - E₄ = number of days in the premium year
+
+This also increases the risk weight due to late submission.
+
+---
+
+### **5. Special Case: Premium Year Beginning May 1, 2026**
+
+For the **premium year beginning May 1, 2026**, the annual premium is the **greater of**:
+
+- $5,000  
+- The result of the formula with **A**, **B**, and **D** (with D adjusted if spring return is late)
+
+This ensures a transitional and consistent premium calculation for the first year of a new regulatory cycle.
+
+---
+
+### **6. Classification Process and Total Score**
+
+The **total score** determines the premium category and is the sum of:
+
+#### **For January 15 Classification**:
+- **Fall quantitative score** (from subsection 7(1), (2), or (3))  
+- **Fall qualitative score** (from section 10)
+
+#### **For July 15 Classification**:
+- **Spring quantitative score** (from subsection 7(1), (2), or (4))  
+- **Spring qualitative score** (from section 10)
+
+> The **qualitative score** reflects non-financial risk factors such as governance, cybersecurity, compliance, and stress testing outcomes.
+
+---
+
+### **7. Adjustments to Total Score for Parent-Subsidiary Relationships**
+
+If a member institution **started operating during the premium year** and:
+- Is **not formed by amalgamation**, and
+- Has **at least one subsidiary** that is a member institution,
+
+Then the **total score is set equal to the highest total score among those subsidiaries**, **provided**:
+- The subsidiary is **not new**
+- Was **not a subsidiary** of another member institution on the day the parent began operating
+- Is **not a subsidiary** on the classification date
+
+This ensures that risk is properly attributed to the most risky part of the group.
+
+---
+
+### **8. Return Submission Requirements**
+
+Member institutions must submit the following documents **by specific deadlines**:
+
+| Document | Deadline |
+|--------|---------|
+| **Fall Return** (Q2 data) | **October 31** |
+| **Spring Return** (Q4 data) | **April 30** |
+| **Basel III CAR Return** | **April 30** |
+| **Other OSFI-Required Reports** (e.g., Income, Balance Sheet, Credit Losses, LCR, NCCF, etc.) | **April 30** |
+| **Revised Return or Error Declaration** | **July 2** (if error or omission is discovered) |
+
+> All returns must:
+> - Be completed using **consolidated financial data**
+> - Be **consistent with audited financial statements**
+> - Be submitted in accordance with the **Differential Premiums Manual**, available on the CDIC website
+
+---
+
+### **9. Scoring Mechanism for Quantitative Risk Factors**
+
+The **quantitative score** is derived from scoring rules in **Schedule 2**, which assign points based on specific financial and operational metrics (e.g., capital ratios, asset quality, liquidity, loan growth, etc.).
+
+#### **Scoring Adjustments Based on Operational Age**
+
+- If the institution has operated for **less than 5 years** → multiplier = **1.2 (1 + 1/5)**  
+- If formed by amalgamation and operated for **less than 3 years** → multiplier = **1.2**  
+- If operated for **5–6 years** → multiplier = **1.09 (1 + 1/11)**  
+- If amalgamated and operated for **3–4 years** → multiplier = **1.0

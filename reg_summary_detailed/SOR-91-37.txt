@@ -1,0 +1,187 @@
+Certainly. Below is a **detailed, clear, and comprehensive summary** of the regulation you provided — which is a set of **provincial and federal rebates under section 259 of the Excise Tax Act**, specifically governing **eligibility and calculation of rebates for public service bodies**.
+
+---
+
+## 📝 **Detailed Summary of the Regulation: Rebates for Public Service Bodies under Section 259 of the Excise Tax Act**
+
+### 🔹 **Regulatory Background and Purpose**
+
+This regulation was issued by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, under **subsection 277(1)** of the *Excise Tax Act*. It establishes the rules for determining **rebates payable to public service bodies** — such as non-profit organizations, government agencies, and charitable institutions — under **section 259** of the Act.
+
+> **Purpose**: To ensure that public service organizations that provide essential services (e.g., housing, healthcare, community programs) receive a tax rebate on excise taxes paid on certain supplies, where those supplies are not commercially driven but serve public or social purposes.
+
+> **Note**: This regulation was originally enacted in **1990 (S.C. 1990, c. 45, s. 12)** and was **repealed in 2010 (SOR/2010-152, s. 4)**. However, the content appears to be a *draft or historical version* that may have been referenced or partially retained in policy frameworks. If it is still in effect, it likely operates under a revised or reissued form. For current compliance, this summary reflects the **legal structure and intent** of the regulation as presented.
+
+---
+
+## 🔍 Key Definitions and Concepts
+
+### 1. **"Charity"**
+- Defined under subsection 259(1) of the *Excise Tax Act*.
+- Refers to organizations that operate for charitable, non-profit, or public benefit purposes.
+
+> This is central to eligibility — only certain non-profit or public service bodies qualify.
+
+---
+
+### 2. **"Consideration" (in respect of a supply)**
+- Includes all amounts credited to a recipient for a **trade-in** (as defined in subsection 153(4) of the Act).
+- If the supplier and recipient are **not dealing at arm’s length**, and the trade-in value exceeds the **fair market value** at the time of transfer, then the **fair market value** is used instead.
+
+> This prevents abuse of trade-in arrangements to inflate consideration and avoid tax.
+
+---
+
+### 3. **Federal Qualifying Amount**
+Refers to excise tax paid or deemed paid on **non-creditable taxes** under:
+- Subsection 165(1), or
+- Sections 212 or 218 of the Act
+
+**Eligibility criteria**:
+- Must **not** be included in input tax credit calculations.
+- Must **not** be eligible for rebate, refund, or remission under any other provision of the Act (except section 259).
+- Must **not** be adjusted, refunded, or credited via a **credit note** (subsection 232(3)) or **debit note**.
+
+> This defines the portion of tax that qualifies for the rebate under section 259.
+
+---
+
+### 4. **Government Funding**
+An amount paid to a person (organization) by a **grantor** for the purpose of:
+- Financially assisting the organization in carrying out its mission (not as payment for goods/services), or
+- As consideration for providing property/services that are **exempt supplies** (i.e., not taxable).
+
+**Key elements**:
+- Must be **readily ascertainable**.
+- Must be **paid or payable** by a **grantor** (defined below).
+- The grantor must be a government, municipality, or trust established for charitable purposes.
+- A **certificate** from an intermediary (e.g., a grant agency) must be issued **at the time of payment**, certifying it is government funding.
+- The amount would qualify as government funding **if paid directly** by the grantor to the recipient.
+
+> This is critical for determining whether a body is a "public service body" and thus eligible for rebate.
+
+---
+
+### 5. **Grantor**
+Includes:
+- Governments or municipalities (excluding commercial corporations).
+- Corporations controlled by government, primarily established to fund charitable or non-profit activities.
+- Trusts, boards, commissions, or bodies established by governments or such corporations, with charitable purposes.
+- Bands of Indians (under federal law).
+
+> These are the entities that can provide government funding.
+
+---
+
+### 6. **Municipality**
+Defined under subsection 259(1) of the Act — typically refers to local government entities (e.g., city councils, towns).
+
+---
+
+### 7. **Provincial Qualifying Amount**
+Similar to federal qualifying amount but applies to **provincial taxes**:
+- Tax under subsection 165(2), sections 212.1 or 218.1, or Division IV.1 of Part IX of the Act.
+- Must meet the same conditions as federal qualifying amount:
+  - Not included in input tax credit.
+  - Not eligible for other rebates.
+  - Not covered by credit/debit notes.
+
+> This allows provinces to apply similar rebate rules for their own excise tax regimes.
+
+---
+
+## 🔢 Determining the "Percentage of Government Funding"
+
+This is a **key formula** used to determine whether a public service body qualifies for a rebate under section 259.
+
+> The percentage is the **greater of two values**:
+
+---
+
+### **Formula A:**
+> **(A) = (Total government funding received in the year – Total government funding repaid in the year)**  
+> ÷  
+> **(Total non-government funding received in the year)**
+
+Where:
+- **Government funding received** = total amounts received from grants, loans, etc., identified in annual financial statements.
+- **Government funding repaid** = amounts repaid or not received before the year began.
+- **Non-government funding** = includes:
+  - Monetary gifts (excluding government funding)
+  - Gain from financial instruments (fair market value > consideration paid)
+  - Consideration received for supplies (excluding games of chance, real property sales, financial instruments, or exempt supplies)
+  - Reductions in consideration paid to recipients (rebates, refunds)
+  - Prizes or winnings from games of chance
+  - Interest/dividends
+  - Trust distributions (not capital)
+  - Debt securities issued to related parties (non-arm’s length)
+  - Equity securities issued
+  - Capital contributions (excluding government funding)
+
+> This formula adjusts for the proportion of funding that comes from public sources.
+
+---
+
+### **Formula B:**
+> **(B) = 25% of total non-government funding (from Formula A)**  
+> +  
+> **All repayments made during the year** (on amounts previously received)
+
+> This is a **safety net** to account for repayments.
+
+---
+
+### **Formula C:**
+> **(C) = Percentage determined as follows**:
+- **First fiscal year**: 0%
+- **Second fiscal year**: Percentage calculated as if it were the **first year**
+- **All other years**: Percentage calculated as if it were the **two immediately preceding years**
+
+> This ensures stability and avoids sudden changes in rebate eligibility in early years.
+
+---
+
+### **Handling Zero or Negative Denominators**
+- If denominator is zero or negative:
+  - If numerator is zero → **percentage = 1**
+  - Otherwise → **percentage = numerator**
+
+> Prevents division by zero and ensures a minimum baseline.
+
+---
+
+## ✅ What Qualifies as a "Prescribed Property or Service"?
+
+These are supplies that qualify for a rebate under section 259 because they serve **public or non-commercial purposes**.
+
+### 1. **Residential Accommodation (Lease, Licence, etc.)**
+- Applies to **multiple-unit residential complexes** (more than 2 units).
+- **Exclusions**:
+  - Supplies restricted to seniors, youth, students, disabled persons, or those on income tests.
+  - Supplies where occupancy is restricted to individuals who pay **significantly less** than market rate (i.e., not profit-driven).
+- **Primary purpose** must **not** be to provide accommodation to such individuals.
+
+> If the primary purpose is to provide affordable housing to vulnerable groups, it qualifies.
+
+### 2. **Parking Spaces (Incidental to Use of Land/Units)**
+- If parking is incidental to the use of land, buildings, or residential units.
+- Only qualifies if the **land, building, or unit** has prescribed property/services.
+
+### 3. **Supplies of Land, Buildings, or Parts of Buildings**
+- To **non-public sector bodies** → qualifies if exempt under section 6.1 of Schedule V.
+- To **public sector bodies** → qualifies if the supply would have been prescribed if made by the body itself.
+
+### 4. **Excisable Goods**
+- Acquired for resale **without** being part of a meal supply.
+- **Exception**: Where tax is payable on the supply of the goods.
+
+### 5. **Club Memberships**
+- For clubs that primarily provide **dining, recreation, or sporting facilities**.
+
+### 6. **Personal Use (by Officers, Employees, or Related Individuals)**
+- Property or services acquired **exclusively** for personal consumption by:
+  - Officers, employees, or members of the organization.
+  - Related individuals.
+- **Exclusions**:
+  - If the individual pays fair market value and tax is due.
+  - If no payment is made and it would

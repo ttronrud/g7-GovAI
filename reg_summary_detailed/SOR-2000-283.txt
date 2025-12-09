@@ -1,0 +1,165 @@
+### **Detailed Summary of the Canadian Broiler Hatching Egg and Chick Orderly Marketing Regulations**
+
+---
+
+#### **Background and Legal Basis**
+
+These regulations were established under the **Farm Products Agencies Act** (now repealed) and implemented by the **Canadian Broiler Hatching Egg Marketing Agency (CBHEMA)**, which was created by the *Canadian Broiler Hatching Egg Marketing Agency Proclamation* (SOR/87-40). The agency was authorized to implement a marketing plan to ensure orderly and stable interprovincial trade in broiler hatching eggs and chicks.
+
+Key legislative provisions include:
+- **Section 16(1)(b)** of the Farm Products Agencies Act: Empowers the Governor in Council to establish a marketing agency.
+- **Section 7(1)(d)**: Allows regulations of a class to be made if approved by the National Farm Products Council (NFPC).
+- **Section 2 of the Agencies’ Orders and Regulations Approval Order**: Confirms that these regulations fall within a class subject to NFPC approval.
+- **Paragraph 22(1)(f)**: Grants the agency authority to make such regulations upon approval by the NFPC.
+
+The proposed regulations were submitted to the NFPC, which approved them due to their necessity in implementing the agency’s marketing plan. As a result, the agency officially enacted these regulations on **June 30, 2000**.
+
+> **Note**: These regulations were **repealed in 2013** (SOR/2013-255, s. 1) and further updated in 2016 (SOR/2016-292, s. 1), meaning they are **no longer in force** as of the date of repeal. This summary reflects their historical content and structure as they existed at the time of enactment.
+
+---
+
+## **Core Objectives of the Regulations**
+
+The primary purpose of these regulations was to:
+- Regulate the **interprovincial marketing** of broiler hatching eggs and chicks from **non-signatory provinces** into **signatory provinces**.
+- Prevent market oversaturation and price volatility.
+- Ensure fair access to markets through a **quota system** based on historical market data and production efficiency.
+- Promote **orderly marketing** by limiting the volume of eggs and chicks that can be traded between provinces.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Producer** | A person engaged in producing broiler hatching eggs in a non-signatory province. |
+| **Hatchery Operator** | A person who incubates broiler hatching eggs into chicks. |
+| **Dealer** | A person (not a producer or hatchery operator) involved in interprovincial marketing of broiler hatching eggs or chicks from non-signatory provinces into signatory provinces. |
+| **Signatory Province** | A province that has agreed to participate in the orderly marketing system. |
+| **Non-Signatory Province** | A province not participating in the system; producers in these provinces may export to signatory provinces under regulated conditions. |
+| **Qualifying Period** | Timeframes used to assess historical marketing activity:<br>• Broiler hatching eggs: November 27, 1985 – November 26, 1986<br>• Chicks: August 1, 1988 – July 31, 1989 |
+| **Hatchability** | The percentage of saleable chicks obtained from incubating eggs, as published annually by the Department of Agriculture and Agri-Food in the *Hatchery Review*. |
+| **Orderly Marketing Quota** | The maximum number of broiler hatching eggs or chicks a producer, dealer, or hatchery operator is allowed to market into a signatory province during a calendar year. |
+
+> ⚠️ All definitions were **repealed in 2013**, so these terms no longer apply under current law.
+
+---
+
+## **Main Provisions and Requirements**
+
+---
+
+### **Section 1: Mandatory Quota Requirement**
+
+**No person may engage in interprovincial marketing** of broiler hatching eggs or chicks from a non-signatory province into a signatory province **unless**:
+1. They hold an **orderly marketing quota** for that signatory province; and  
+2. They market **no more than the amount** of eggs or chicks specified in their quota.
+
+> This ensures that trade is limited and predictable, preventing market flooding.
+
+---
+
+### **Section 2: Exceptions to Quota Rule**
+
+Certain situations are exempt from the quota requirement:
+
+1. **Marketing within a non-signatory province** (i.e., trade between non-signatory provinces).
+2. **Chick return mechanism**: If a hatchery operator in the signatory province returns **96% of the chicks** (equivalent to 96% of the number of eggs marketed) to the producer in the province of origin or to the original dealer/hatchery operator.
+3. **Authorization by the Agency**: A producer, dealer, or hatchery operator may apply and receive **specific authorization** to market a designated quantity of eggs.
+4. **Marketing under a prescribed contract**: The trade must occur under a contract that:
+   - Specifies the number of eggs to be marketed;
+   - Specifies the number of chicks to be returned to the province of origin;
+   - Includes compliance with all applicable Agency rules and regulations.
+
+> These exceptions allow flexibility in certain supply chains while maintaining overall market stability.
+
+---
+
+### **Section 3: Application Process for Authorization**
+
+To apply for an authorization to market eggs:
+- The application must be in a **form provided by the Agency**.
+- Must be **completed and signed** by the applicant.
+- Must include:
+  - Number of eggs to be marketed;
+  - Number of chicks to be returned;
+  - Pricing details;
+- Must be accompanied by **invoices, sales receipts, or other documentation** showing the applicant’s egg marketing activity in the **prior year**.
+- Must be filed with the Agency:
+  - For the year 2000: **by September 1, 2000**;
+  - For subsequent years: **by October 1 of the year before the year sought**.
+
+> The Agency may grant authorization **if the applicant meets all requirements**.
+
+> **Authorization expires on December 31** of the year it is issued.
+
+---
+
+### **Section 4: Application for Orderly Marketing Quota**
+
+To obtain an **orderly marketing quota** (a formal annual allocation):
+- Applicants must:
+  - Apply for a **license** under the *Canadian Broiler Hatching Egg and Chick Licensing Regulations*;
+  - Apply for the quota **no later than September 30** of the year preceding the year in which the quota applies.
+
+> For applicants **without prior quotas**, the application must include:
+- Evidence (invoices, receipts) of egg or chick production and interprovincial marketing during the **qualifying period**.
+
+> The applicant must make their **books and records available** for inspection to verify accuracy.
+
+---
+
+### **Section 5: Quota Allocation Formula**
+
+The orderly marketing quota is calculated using the following formula:
+
+\[
+\text{Quota} = \left( \frac{P}{Q} \right) \times R
+\]
+
+Where:
+- \( P \) = Percentage change in the total number of broiler hatching eggs and chicks subject to limits in the signatory province, from the year the province first became a signatory to the year the quota applies.
+- \( Q \) = Number of broiler hatching eggs and chicks marketed by the applicant during the qualifying period into that signatory province.
+- \( R \) = The total number of eggs and chicks subject to limits in the signatory province at the time of the quota calculation.
+
+> The quota is expressed in **number of broiler hatching eggs**.
+
+> For **chicks**, the number of eggs in the quota is converted to chicks using the **hatchability rate** of the province of origin in the **prior year**:
+\[
+\text{Number of chicks} = (\text{Number of eggs}) \times (\text{Hatchability rate})
+\]
+
+> Example: If the quota is 10,000 eggs and hatchability is 92%, then 9,200 chicks are equivalent.
+
+---
+
+### **Section 6: Quota Expiry and Restrictions**
+
+- An orderly marketing quota **expires on December 31** of the year it is allotted.
+- **No person may sell, give as security, lease, or assign** an orderly marketing quota.
+- If a producer, dealer, or hatchery operator **ceases business**, the Agency may **re-allot** the quota to another party under appropriate terms and conditions to maintain market stability.
+
+---
+
+### **Section 7: Penalties for Exceeding Quota**
+
+If a person markets **more than their allocated quota** in a year:
+- The Agency will **reduce** their quota for the **following year**.
+- The reduction is applied in a manner and to an extent necessary to maintain orderly marketing.
+
+> This serves as a deterrent against over-trading and ensures long-term market balance.
+
+---
+
+### **Section 8: Suspension or Cancellation of Licenses**
+
+If a license issued under the *Licensing Regulations* is **suspended or cancelled**, the associated orderly marketing quota is **automatically suspended or cancelled**.
+
+---
+
+### **Section 9: Allotment to New Entrants**
+
+The Agency may allocate orderly marketing quotas to individuals or entities in non-signatory provinces who:
+1. Did **not market** eggs or chicks during the qualifying period; and  
+2. Have a **market increase** in the signatory province; and  
+3. The Agency has assigned a specific number of eggs or chicks

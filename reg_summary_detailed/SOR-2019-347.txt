@@ -1,0 +1,179 @@
+**Detailed Summary of the *International and Interprovincial Power Line Damage Prevention Regulations — Authorizations***  
+*Issued by the Canadian Energy Regulator (CER), pursuant to subsections 272(4) and 275(2) of the Canadian Energy Regulator Act (S.C. 2019, c. 28, s. 10)*  
+*Effective Date: November 25, 2019 (with full implementation on the coming-into-force day of the related Obligations of Holders Regulations; see note at end)*
+
+---
+
+### **1. Purpose of the Regulations**
+These regulations establish a comprehensive framework to **prevent damage to international and interprovincial power lines** (such as high-voltage transmission lines) due to ground disturbances or construction activities. They define the **authorization process**, **obligations of persons undertaking construction or activities**, and **procedures for locating power lines** before any work begins. The primary goal is to **protect critical energy infrastructure**, ensure **public safety**, and **minimize environmental and property damage**.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canadian Energy Regulator Act* (CERA). |
+| **Authorization** | A formal written approval granted under paragraph 275(3)(b) of the Act for specific activities involving international or interprovincial power lines. |
+| **Holder** | The entity (e.g., utility company) that holds a permit or certificate under Part 4 of the Act for operating an international or interprovincial power line. |
+| **International or Interprovincial Power Line** | A facility defined in subsection 271(1) of the Act — includes transmission lines crossing between provinces or internationally. |
+| **Working Day** | Any day that is not a Saturday or a statutory holiday. |
+
+> **Note on Language**: If a document is available in both official languages (English and French), any amendment applies only when it is available in both languages.
+
+---
+
+### **3. Prescribed Area and Right of Way**
+
+- The **prescribed area** is the strip of land directly associated with the power line where damage prevention is required.
+- **Right of Way (ROW)**:
+  - The official land registered or recorded as the right of way in the local land registry.
+  - If no formal ROW exists, the prescribed area is **30 meters on each side of the centerline** of the power line.
+
+> This ensures that activities near the line are properly identified and protected.
+
+---
+
+### **4. Ground Disturbance Activities and Prohibitions**
+
+Ground disturbance is defined as activities that affect the soil or underground components of the power line.
+
+#### **Permitted Ground Disturbances (with conditions)**:
+- **Cultivation** to a depth of **less than 45 cm** below ground surface.
+- **Other activities** to a depth of **less than 30 cm** that do **not reduce earth cover** over underground portions of the line.
+
+> These exceptions allow limited agricultural or minor land use while protecting underground infrastructure.
+
+#### **Prohibition When a Locate Request is Made**:
+- If a holder receives a locate request from a person planning ground disturbance, and the holder identifies an area **near the power line** (which may extend beyond the prescribed area), then:
+  - **Ground disturbance is prohibited in that identified area** during the period specified in subsection 276(1) of the Act.
+
+> This creates a buffer zone around the line based on risk assessment and notification.
+
+---
+
+### **5. Locate Request Requirements**
+
+Any person intending to:
+- Construct a facility **across, on, along, or under** a power line, or
+- Engage in an activity causing ground disturbance within the prescribed area,
+
+**must submit a locate request at least three working days before the start of the activity.**
+
+#### **Where to Submit**:
+- **If a one-call centre exists** in the area: Submit to the one-call centre.
+- **If no one-call centre exists**: Submit directly to the **holder** of the power line.
+
+> **Exception – Emergency Situations**:
+- In cases of **unexpected dangers** (e.g., natural disasters, fire, imminent structural failure) that threaten life, property, or the environment:
+  - The three-day rule does **not apply**.
+  - A locate request must be made **as soon as possible** before work begins.
+
+---
+
+### **6. One-Call Centre Role**
+
+A one-call centre:
+- Receives locate requests from individuals or companies.
+- Notifies all affected utility members (including power line holders) of proposed construction or activities that may impact underground infrastructure.
+
+> This promotes **coordinated planning**, **shared responsibility**, and **public safety**.
+
+---
+
+### **7. Obligations of Contractors and Subcontractors**
+
+Any person planning construction or activity must:
+- **Inform all persons working on their behalf**, including **contractors and subcontractors**, of their obligations under these regulations.
+
+> Ensures that **all parties involved** are aware of the risks and required procedures.
+
+---
+
+### **8. Authorization Requirements for Construction**
+
+Construction across, on, along, or under an international or interprovincial power line is authorized **only if** the following conditions are met:
+
+1. **Written authorization** is obtained from the holder.
+2. **Written agreement** with the holder on:
+   - A detailed **work procedure**.
+   - A **construction schedule**.
+3. A **locate request** is submitted in accordance with Section 5.
+4. The construction **complies with the conditions** set in the authorization.
+5. For **overhead crossings**:
+   - Must follow **CSA Group Standard C22.3 No. 1 – Overhead Systems**, as amended.
+6. For **underground crossings**:
+   - Must follow **CSA Group Standard C22.3 No. 7 – Underground Systems**, as amended.
+
+> These standards ensure **safety, durability, and compatibility** with existing infrastructure.
+
+#### **Suspension of Authorization**:
+- If the authorization is **suspended**, construction must **cease immediately** until the suspension is lifted.
+
+---
+
+### **9. Authorization for Ground Disturbance Activities**
+
+Any activity causing ground disturbance within the prescribed area is authorized if:
+- Written authorization is obtained from the holder.
+- A written agreement on **procedure and schedule** is reached.
+- A locate request is submitted per Section 5.
+- The activity **complies with the conditions** in the authorization.
+
+> **Suspension Rule**: If the authorization is suspended, the activity must **cease immediately**.
+
+---
+
+### **10. Ongoing Obligations During Activities**
+
+Persons engaging in ground disturbance must:
+1. Carry out the activity **in full compliance** with the holder’s authorization conditions.
+2. Ensure **no additional earth or material** is placed in the prescribed area that could **reduce the ground-to-conductor clearance** of overhead lines.
+3. **Immediately notify the holder** of any contact with an underground portion of the power line.
+4. **Notify the holder at least 24 hours before backfilling** any exposed underground portion of the line, **unless otherwise agreed** with the holder.
+
+> These steps help **prevent accidental damage** and ensure **prompt response** to incidents.
+
+---
+
+### **11. Operation of Vehicles or Mobile Equipment**
+
+Operating a vehicle or mobile equipment across an international or interprovincial power line is authorized **only if**:
+- The person obtains **written authorization from the holder**.
+
+> This applies to excavation equipment, construction vehicles, or other machinery.
+
+---
+
+### **12. Construction of Power Lines Across or Under Existing Facilities**
+
+A person may construct a new international or interprovincial power line that crosses or passes over/under another facility (e.g., roads, pipelines, buildings) **only if**:
+
+1. The line is designed and constructed in accordance with:
+   - **CSA C22.3 No. 1** (overhead) or
+   - **CSA C22.3 No. 7** (underground).
+2. The line **does not extend beyond any terminal** of the line.
+3. The line complies with **all applicable provincial and federal legislation**.
+4. The person obtains **written permission** from the owner of the facility.
+5. A **written agreement** on construction procedure and schedule is reached with the facility owner.
+
+> This ensures **interoperability**, **legal compliance**, and **mutual agreement** between stakeholders.
+
+---
+
+### **13. Transitional Provisions (Pre-Effective Period)**
+
+These provisions apply to activities or authorizations that began **before the coming-into-force day** of the new regulations:
+
+- **Leaves granted before the coming-into-force day** under the old *National Energy Board Act* (subsections 58.31(2) and 58.28(1)/(4)) remain valid until their **expiry date**.
+- **Excavations or construction started before the coming-into-force day** that did **not require National Energy Board leave** under paragraph 58.33(c) may continue **after the effective date**, provided they comply with the **conditions in the old Power Line Crossing Regulations (SOR/95-500)**.
+- **Construction projects** that had prior leave under the old regulations continue to be authorized **if carried out in accordance with the applicable conditions** in the old regulations.
+
+> These provisions provide **legal continuity** and avoid disruption to ongoing projects.
+
+---
+
+### **14. Repeal of Previous Regulations**
+
+- The **Power Line Crossing Regulations (SOR/95-500)** are **fully repealed** by these new regulations.
+- This marks a **modernization and consolidation

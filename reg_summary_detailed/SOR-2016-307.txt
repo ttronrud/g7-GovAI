@@ -1,0 +1,158 @@
+Certainly. Below is a **detailed, structured summary** of the *Marine Liability and Information Return Regulations*, enacted under the *Marine Liability Act* (S.C. 2014, c. 29, s. 36 and s. 50(3); S.C. 2001, c. 6). These regulations establish reporting obligations for persons involved in the receipt, handling, or export of certain types of oil and hazardous substances through marine transport in Canada.
+
+---
+
+## 📚 **Overview of the Regulation**
+
+The *Marine Liability and Information Return Regulations* (MLIRR) are designed to ensure transparency and accountability in the movement of oil and hazardous substances by sea. They require specific reporting by entities that receive or export certain types of marine cargo—particularly oil and hazardous materials—into or out of Canada. The primary goal is to support environmental protection, facilitate risk assessment, and enable the Ship-source Oil Pollution Fund (SSOPF) to manage potential liabilities arising from oil pollution incidents.
+
+These regulations were made under **subsection 74.4(3)a** and **117(1.5)b** of the *Marine Liability Act*, and are enforced by the **Minister of Transport**, with final authority exercised by the **Governor in Council**.
+
+---
+
+## 🔍 Key Definitions and Jurisdictional Boundaries
+
+### 1. **Definitions**
+- **Act**: Refers to the *Marine Liability Act*.
+- **Administrator**: The Administrator of the **Ship-source Oil Pollution Fund** (SSOPF), responsible for receiving and managing reports and funds related to oil pollution.
+- **Receive (in respect of contributing oil)**: Means receiving oil into tankage or storage **immediately after carriage by a ship**.
+
+### 2. **Geographic Boundary: St. Lawrence River vs. Sea**
+- The St. Lawrence River ends and the sea begins at a **straight line** drawn:
+  - From **Cap-des-Rosiers** to **West Point, Anticosti Island**;
+  - Then from **Anticosti Island** to the **north shore of the St. Lawrence River** along the **63°W meridian**.
+- This boundary defines where marine transport transitions into coastal or offshore operations.
+
+> *Purpose*: To determine whether a shipment is considered "marine" and subject to reporting under these regulations.
+
+---
+
+## 📊 Calculation of Consumer Price Index (CPI) for Adjustments
+
+For purposes of **paragraph 113(3)(b)** of the *Marine Liability Act*, the average CPI (excluding food and energy) is calculated as follows:
+
+- Divide the **sum of 12 monthly CPI values** (excluding food and energy) by 12.
+- If the result has a fraction:
+  - **Round to one decimal place**:
+    - If the **second digit after the decimal is < 5**, drop it.
+    - If the **second digit ≥ 5**, **increase the first digit by 1** and drop the second digit.
+
+> *Example*:  
+> 12.34 → 12.3 (since 4 < 5)  
+> 12.35 → 12.4 (since 5 ≥ 5)
+
+> *Purpose*: To adjust compensation or liability calculations in the event of inflation, ensuring fair cost recovery for pollution response.
+
+---
+
+## 📌 Reporting Obligations: Who Must File?
+
+### ✅ **1. Receiving Contributing Oil (Import or Transfer)**
+
+**Applies to**:
+- Oil imported by sea into Canada (in bulk) and destined for unloading at a terminal or port in Canada;
+- Oil shipped to the U.S. by sea, then imported into Canada via non-maritime transport (e.g., rail, truck), and destined for unloading in Canada;
+- Oil shipped from Canada or offshore installations (within Canada’s exclusive economic zone) and destined for unloading in Canada.
+
+**Reporting Threshold**:
+- A person must file an **information return** if they receive **more than 150,000 metric tons** of contributing oil in a calendar year.
+
+**Deadline**:
+- No later than **February 28 of the following calendar year**.
+
+**What Must Be Included**:
+- Name, mailing address, email, phone, and fax (if applicable) of the person.
+- Type of contributing oil and **total quantity** of each type received.
+- Name and address of **associated persons** who also received contributing oil.
+
+> *Note*: "Associated persons" include entities with shared control, ownership, or operational ties.
+
+---
+
+### ✅ **2. Receiving Contributing Cargo (Hazardous Substances)**
+
+**Applies to**:
+- Any cargo imported into Canada by sea or shipped from Canada/offshore installations to be unloaded in Canada.
+
+**Reporting Thresholds**:
+A receiver must file a return if they receive:
+- **Liquefied Natural Gases (LNG)** (as defined in paragraph 2(b) of Article 16 of the *Hazardous and Noxious Substances Convention*) — **any quantity**;
+- **Liquefied Petroleum Gases (LPG)** (as defined in paragraph 2(c) of Article 16) — **over 17,000 metric tons**;
+- **Any hazardous and noxious substances** listed in paragraphs 5(a)(ii), (iii), (v), (vi), and (vii) of Article 1 of the *Hazardous and Noxious Substances Convention* — **over 17,000 metric tons**.
+
+**Deadline**:
+- No later than **February 28 of the following calendar year**.
+
+**What Must Be Included**:
+- Name, address, email, phone, and fax of the receiver.
+- Type and total quantity of each type of contributing cargo received.
+- If acting as an **agent or mandatary** for a principal or mandator:
+  - Name of the principal/mandator and type/quantity of cargo received.
+- If receiving cargo from an **agent or mandatary**:
+  - Name of agent/mandatary and type/quantity of cargo received.
+- Name and address of **associated persons** involved.
+
+> *Note*: This provision ensures traceability of hazardous materials, especially for high-risk substances.
+
+---
+
+### ✅ **3. Exporting Contributing Oil or Non-Persistent Oil**
+
+**Applies to**:
+- Oil or non-persistent oil exported by sea from Canada or offshore installations, destined for a location **outside Canada**.
+
+**Reporting Thresholds**:
+- Must file a return if:
+  - **Contributing oil** exceeds **150,000 metric tons** in a calendar year; or
+  - **Non-persistent oil** exceeds **17,000 metric tons**.
+
+**Deadline**:
+- No later than **February 28 of the following calendar year**.
+
+**What Must Be Included**:
+- Name, address, email, phone, and fax of the exporter.
+- Types and total quantities of contributing oil and non-persistent oil exported.
+- Name and address of **associated persons** involved in export.
+- If exporting **non-persistent oil as an agent or mandatary** for a Canadian principal:
+  - Name of principal/mandator and type/quantity exported.
+- If the person is a **principal or mandator** in Canada and exported via an agent:
+  - Name of agent/mandatary and type/quantity exported.
+
+> *Note*: Non-persistent oil refers to oil that does not remain in the environment for long periods (e.g., low-sulfur or refined products), and its reporting is critical due to environmental risks.
+
+---
+
+## 💰 Fees for Certificates
+
+Two fees are established under this regulation for issuing certificates under specific sections of the *Marine Liability Act*:
+
+| Certificate Type | Fee | Purpose |
+|------------------|-----|--------|
+| Under **subsection 56(1)** of the Act | **$98** | Issuance of a certificate related to oil pollution liability or fund participation |
+| Under **subsection 74(1)** of the Act | **$98** | Issuance of a certificate related to marine liability or risk management |
+
+> **Note**: These fees are payable **on application** for the certificate and are not tied to reporting returns.
+
+> *Purpose*: To generate revenue for administrative and operational costs associated with the Ship-source Oil Pollution Fund and certificate issuance.
+
+---
+
+## 📎 Key Features and Implications
+
+| Feature | Significance |
+|--------|--------------|
+| **Thresholds** | Clear thresholds (150,000 mt for oil, 17,000 mt for hazardous cargo/non-persistent oil) help distinguish between routine and high-risk operations. |
+| **Reporting Timelines** | All returns due by **February 28** of the following year — allows time for data collection and analysis. |
+| **Transparency Requirements** | Mandatory disclosure of names, addresses, and quantities ensures traceability and accountability. |
+| **Associated Persons** | Broadens reporting scope to include related parties, enhancing risk visibility. |
+| **Geographic Scope** | Defines sea vs. river boundary to ensure consistent application of marine liability rules. |
+| **Environmental Protection** | Supports pollution prevention, incident response planning, and fund recovery. |
+| **International Compliance** | Aligns with the *Hazardous and Noxious Substances Convention (HNS Convention)*, ensuring global consistency in hazardous material handling. |
+
+---
+
+## 🚨 Enforcement and Compliance
+
+- The **Minister of Transport** establishes the **form** of the information return.
+- The **Administrator** (SSOPF) receives and processes the returns.
+-

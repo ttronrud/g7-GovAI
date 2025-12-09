@@ -1,0 +1,157 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the provided regulation — a **Double Taxation Convention between Canada and New Zealand**, formally proclaimed and implemented on **June 26, 2015**, under the authority of the Governor in Council and issued by the Government of Canada.
+
+---
+
+## 🔍 **Comprehensive Summary of the Canada–New Zealand Convention on the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Income Tax**
+
+### 📌 **1. Legal Basis and Proclamation Context**
+- This regulation is a **formal proclamation** issued by the **Governor General of Canada**, David Johnston, on **June 24, 2016**, pursuant to:
+  - **Order in Council P.C. 2016-375 (May 20, 2016)**, which authorized the issuance of a proclamation.
+  - The **An Act to implement conventions between Canada and New Zealand and Canada and Australia for the avoidance of double taxation with respect to income tax**.
+- The proclamation officially **notifies the public** that:
+  - The **Supplementary Convention** (entered into on **May 3, 2012**) — including its **protocols signed on May 3, 2012, and September 12, 2014** — **comes into force on June 26, 2015**.
+  - The **original Convention** (as defined in section 2 of the implementing Act) **ceases to have effect** on the date it terminates under **paragraph 3 of Article 28** of the Supplementary Convention.
+
+> ✅ **Key Takeaway**: This document replaces the previous Canada–New Zealand double taxation convention with a modernized, updated agreement that includes updated tax provisions and clearer definitions, particularly regarding permanent establishments, residency, and tax attribution.
+
+---
+
+### 🌍 **2. Scope and Applicability**
+- **Applies to residents of either or both countries**.
+- The Convention applies to:
+  - **Canadian income tax** (under the *Income Tax Act* of Canada).
+  - **New Zealand income tax** (the "income tax" as defined by NZ law).
+- It also extends to **any future identical or substantially similar taxes** introduced after the date of signature.
+- **Notification Requirement**: Competent authorities in both countries must **notify each other of significant changes** in tax laws.
+
+---
+
+### 📚 **3. Definitions and Interpretation**
+Key definitions clarify how the Convention operates:
+
+| Term | Definition |
+|------|-----------|
+| **New Zealand** | Refers to the territory of New Zealand, **excluding Tokelau**. Includes areas beyond the territorial sea where NZ exercises sovereign rights over natural resources under international law. |
+| **Canada (geographical sense)** | Includes land territory, internal waters, territorial sea, airspace, exclusive economic zone (EEZ), and continental shelf — consistent with UNCLOS. |
+| **Person** | Includes individuals, trusts, companies, partnerships, and any other body of persons. |
+| **Company** | Any body corporate or entity treated as such for tax purposes. |
+| **Enterprise** | The carrying on of any business. |
+| **International Traffic** | Transport by ship or aircraft operated by an enterprise of a Contracting State, **except when principally between places in the other country**. |
+| **Competent Authority** | In Canada: Minister of National Revenue or authorized representative; in NZ: Commissioner of Inland Revenue or authorized representative. |
+| **National** | Any individual or legal entity deriving status from the laws of that country. |
+| **Business** | Includes performance of professional services and other independent activities. |
+| **Resident** | A person who is resident in Canada or New Zealand for tax purposes. |
+
+> ⚖️ **General Principle**: Where a term is not defined, it has the meaning under the **applicable tax law** of the relevant country. **Tax law prevails over other laws** in determining residency or tax status.
+
+---
+
+### 🏠 **4. Residency Rules**
+Determining whether a person is a resident is critical for tax jurisdiction.
+
+#### For **Individuals**:
+An individual is **not a resident** of a country if they are taxed **only on income from sources within that country**.
+
+If an individual is a **resident of both countries**, their status is determined in this order:
+
+1. **Permanent Home**  
+   → Resident only in the country where a **permanent home** is available.  
+   → If available in both, resident in the country with **closer personal and economic ties** (i.e., **centre of vital interests**).
+
+2. **Centre of Vital Interests**  
+   → If undetermined, resident in the country where the individual has an **habitual abode**.
+
+3. **Habitual Abode**  
+   → If in both or neither, resident in the country of **nationality**.
+
+4. **Nationality Tie**  
+   → If national of both or neither, the **competent authorities** must resolve the issue by **mutual agreement**.
+
+#### For **Non-Individuals (e.g., companies, trusts)**:
+- If a person (non-individual) is a resident of both countries, the **competent authorities** must resolve the issue by **mutual agreement**.
+- Factors considered: place of **effective management**, **incorporation**, and other relevant circumstances.
+- **No tax relief** can be claimed if no agreement is reached.
+
+> ✅ **Purpose**: Prevents double taxation by clearly defining where a taxpayer is "at home" for tax purposes.
+
+---
+
+### 🏭 **5. Permanent Establishment (PE) – Key Concept**
+A **permanent establishment** is a **fixed place of business** through which an enterprise conducts business.
+
+#### Included Examples:
+- Place of management  
+- Branch  
+- Office  
+- Factory  
+- Workshop  
+- Mine, oil/gas well, quarry  
+- Any place related to exploration or exploitation of natural resources  
+
+#### Special Rule – Building/Construction Projects:
+- A **building site, construction, installation, or assembly project** constitutes a PE **if it lasts more than 12 months**.
+
+#### Criteria for a PE:
+An enterprise is deemed to have a PE in a Contracting State if, **in any 12-month period**, it:
+1. Carries out activities related to the **exploration or exploitation of natural resources** (including standing timber) in that country; **or**
+2. Operates **substantial equipment** in that country.
+
+> 🔍 Example: A Canadian mining company operating a drilling site in New Zealand for over 183 days would have a PE in NZ.
+
+---
+
+### 🚨 **6. Exception: Services Performed by Individuals**
+Even without a physical presence, certain **services performed by individuals** may constitute a PE:
+
+- If an individual is present in the other country for **more than 183 days in any 12-month period**, and:
+  - More than **50% of gross revenues** from active business activities are derived from services performed there, **through that individual**; **or**
+  - Services are performed for the **same or connected projects** by one or more individuals present in the country.
+
+> ⚠️ Exception: This rule **does not apply** to services limited to:
+> - Storage, display, or delivery of goods  
+> - Purchasing goods or collecting information  
+> - Preparatory or auxiliary activities  
+> - Activities that are only of a preparatory or auxiliary character
+
+> 🔍 **Key Principle**: Services performed by an individual **do not count** as a PE unless the **enterprise supervises, directs, or controls** the work.
+
+---
+
+### 📏 **7. Aggregation of Activities (Associated Enterprises)**
+When two enterprises are **associated** (one controls or is controlled by the other, or both are controlled by a third party), the **duration of activities** in a country is **aggregated**:
+- Activities of associated enterprises are combined when connected.
+- However, **any concurrent period** is counted only **once**.
+
+> ✅ Example: A Canadian company and its subsidiary jointly operate a project in NZ — the total time in NZ is aggregated for PE determination.
+
+---
+
+### ❌ **8. Exclusions from Permanent Establishment**
+The following **do not constitute** a PE:
+- Use of facilities for **storage, display, or delivery** of goods.
+- Maintenance of stock **solely for storage, display, or delivery**.
+- Maintenance of stock **for processing by another enterprise**.
+- Maintenance of a fixed place **only for purchasing or collecting information**.
+- Maintenance of a place **only for preparatory or auxiliary activities**.
+
+> ✅ Purpose: Prevents taxation on routine or non-operational activities.
+
+---
+
+### 🏢 **9. Agent Status Exception**
+An enterprise **does not have a PE** simply because it uses:
+- A **broker**, **general commission agent**, or **independent agent**.
+
+> ✅ Exception: Only if the agent has **authority to conclude contracts** on behalf of the enterprise, or:
+> - Manufactures or processes goods **in the other country** for the enterprise → then a PE is created.
+
+> 🔍 Important: This rule protects legitimate business intermediaries from being taxed as if they were permanent offices.
+
+---
+
+### 🏡 **10. Taxation of Income from Immovable Property**
+- **Income from immovable property** (e.g., land, agriculture, forestry, fishing) located in the **other country** may be taxed in that country.
+- **Immovable property** includes:
+  - Natural resources
+  - Property accessory to immovable property
+  - Livestock and equipment used in agriculture/forestry

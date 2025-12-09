@@ -1,0 +1,127 @@
+The regulation you provided is a **provincial tax prescription regulation** under the **Excise Tax Act** of Ontario, issued by His Excellency the Governor General in Council on the recommendation of the Minister of Finance. It was enacted in **1990** (S.C. 1990, c. 45, s. 12) and originally aimed to **prescribe certain taxes, duties, and fees** that are imposed by provincial legislatures or under specific provincial statutes, particularly those related to **real property transfers and certain percentage-based taxes on goods and services**.
+
+However, it is **important to note** that this regulation has been **partially repealed** over time. Specifically:
+
+> **[Repealed, SOR/2006-280, s. 2]**  
+> and  
+> **[Repealed, SOR/2013-44, s. 2]**  
+> and  
+> **[Repealed, SOR/2002-273, s. 3]**  
+> and  
+> **[Repealed, SOR/2010-152, s. 2]**  
+> and  
+> **[Repealed, SOR/2006-280, s. 4]**  
+> and  
+> **[Repealed, SOR/2014-248, s. 8]**
+
+This means that **many of the provisions in the regulation have been formally removed or superseded** by later amendments or new legislation. Therefore, while the regulation is historically significant, **it is no longer fully in force** as of today.
+
+---
+
+## 🔍 Detailed Summary of the Remaining (Historically Active) Provisions
+
+Despite the repeals, we can still provide a **detailed summary of the content and intent** of the regulation as it existed at the time of enactment (1990), particularly focusing on the **taxes, duties, and fees prescribed** under section 154 of the Excise Tax Act.
+
+---
+
+### 1. **Definitions in the Regulation**
+
+#### a) *General Sales Tax Rate of a Province*
+This defines the baseline provincial sales tax rate applicable in each province, with specific references to provincial legislation:
+
+| Province | Relevant Law |
+|--------|-------------|
+| **Quebec** | Section 16 of *An Act respecting the Québec sales tax*, R.S.Q., c. T-0.1 |
+| **Manitoba** | Subsection 2(1) of *The Retail Sales Tax Act*, C.C.S.M., c. R130 |
+| **British Columbia** | Subsection 34(1) of *Provincial Sales Tax Act*, S.B.C. 2012, c. 35 |
+| **Saskatchewan** | Subsection 5(1) of *Provincial Sales Tax Act*, R.S.S. 1978, c. P-34.1 |
+
+> Note: The BC reference is from a later law (2012), suggesting the regulation was updated to reflect changes in provincial tax structures.
+
+#### b) *Specified Tax Rate of a Province*
+This is the **maximum tax rate** that may be imposed on certain goods or services, calculated as:
+
+> **Specified Tax Rate = Max(12%, General Sales Tax Rate + 4%)**
+
+This ensures that **no single provincial tax (on goods/services) exceeds 12% above the base rate**, and that **the total of all such percentage-based taxes does not exceed this cap**.
+
+> Example:  
+> If Manitoba’s general sales tax is 8%, then the specified tax rate is 12% (since 8% + 4% = 12%).  
+> If the general rate is 10%, the specified rate is still 14% → capped at 12% → so the specified tax rate is **12%**.
+
+Thus, **the specified tax rate acts as a ceiling** to prevent excessive taxation on goods and services.
+
+---
+
+### 2. **Types of Taxes, Duties, and Fees Prescribed**
+
+The regulation prescribes three categories of taxes, duties, or fees under section 154 of the Excise Tax Act:
+
+---
+
+#### ✅ Category 1: Taxes on Transfers of Real Property
+
+These are taxes imposed by provincial legislation on the transfer of real property (land, buildings, etc.). The list includes:
+
+- *Land Transfer Tax Act*, R.S.O. 1990, c. L.6  
+- *Chapter 760 of the City of Toronto Municipal Code* (as it existed on **February 1, 2008**)  
+- *Land Transfer Duties Act*, R.S.Q., c. D-17  
+- *Part III.7 of the Taxation Act*, R.S.Q., c. I-3  
+- *An Act respecting duties on transfers of immovables*, R.S.Q., c. D-15.1 *(repealed in 2002)*  
+- *Part V of the Municipal Government Act*, S.N.S. 1998, c. 18 *(repealed in 2002)*  
+- *Real Property Transfer Tax Act*, S.N.B. 1983, c. R-2.1  
+- *Part III of The Tax Administration and Miscellaneous Taxes Act*, C.C.S.M., c. T2  
+- *Property Transfer Tax Act*, R.S.B.C. 1996, c. 378  
+- *Land Titles Act, 2000*, S.S. 2000, c. L-5.1  
+- *Land Titles Act*, R.S.A. 2000, c. L-4  
+- *Real Property Transfer Tax Act*, S.P.E.I. 2005, c. 49  
+- *Registration of Deeds Act*, R.S.N.L. 1990, c. R-10  
+- *City of St. John’s Municipal Taxation Act*, S.N.L. 2006, c. C-17.1  
+
+> 🔍 **Purpose**: To ensure that all provincial real property transfer taxes are recognized and accounted for under a unified framework under the Excise Tax Act.
+
+> ⚠️ Note: Several of these (e.g., D-15.1, Part V of Municipal Government Act) were **repealed in 2002**, indicating that the regulation was updated to reflect modern provincial tax laws.
+
+---
+
+#### ✅ Category 2: Percentage-Based Taxes on Goods or Services (imposed by provincial Acts)
+
+A tax is included if it meets **all of the following conditions**:
+
+1. The tax is calculated as a **percentage of the value or price** of the property or service.  
+2. The tax is **payable by the recipient** of the supply (not the seller).  
+3. The tax is **not included** in the value or price used to calculate any other tax.  
+4. The **sum of all such percentage-based taxes** under the provincial Act **does not exceed the specified tax rate of the province**.
+
+> 🔍 This provision ensures **tax compatibility** — no province can impose multiple percentage-based taxes that collectively exceed the specified tax rate (e.g., 12% or general rate + 4%).
+
+> Example:  
+> If a province has a general sales tax of 8%, the specified tax rate is 12%.  
+> If a service is taxed at 5% under one law and 6% under another, total = 11% → allowed.  
+> If total = 13% → **not allowed**.
+
+> This prevents **tax cascading** and ensures **provincial tax systems remain within a defined limit**.
+
+---
+
+#### ✅ Category 3: Specific Taxes on Services or Property (imposed under certain Acts)
+
+These are taxes imposed under specific provincial laws, with the same conditions as above (percentage-based, paid by recipient, not included in value, total ≤ specified tax rate):
+
+- *Section 330 of The Municipal Act*, C.C.S.M., c. M225 *(repealed in 2010)*  
+- *Subsection 442(1) of The City of Winnipeg Charter*, S.M. 2002, c. 39 *(repealed in 2010)*  
+- *Section 316 of The Municipalities Act*, S.S. 2005, c. M.36.1 *(repealed)*  
+- *Subsection 2(1) of the Tourism Levy Act*, R.S.A. 2000, c. T-5.5 *(repealed)*  
+- *Section 2 of the Liquor Tax Act*, R.S.Y. 2002, c. 141 *(repealed in 2014)*  
+
+> 🔍 These were **specific municipal or service-based levies** (e.g., tourism, liquor, local services) that were previously subject to the cap under the specified tax rate.
+
+> ⚠️ All of these have been **repealed**, meaning they are **no longer in force**.
+
+---
+
+### 3. **Effective Dates and Deemed Come Into Force**
+
+The regulation includes **a series of deemed effective dates** for various subsections and paragraphs, indicating when certain provisions came into effect. These dates are critical for **jurisdictional clarity and legal continuity**:
+
+| Provision | Deemed Effective

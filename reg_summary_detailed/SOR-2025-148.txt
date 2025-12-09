@@ -1,0 +1,149 @@
+**Detailed Summary of the Regulation:  
+Order Imposing a Surtax on the Importation of Certain Steel Goods**  
+*(S.C. 2012, c. 26, s. 63(4); S.C. 1997, c. 36; SOR/2018-206; Repealed SOR/2025-155, s. 1)*
+
+---
+
+### **Overview**
+This regulation, made under the authority of the *Customs Tariff* and approved by the Governor General in Council on the recommendation of the Minister of Finance and the Minister of Foreign Affairs, imposes a **50% surtax** on specific steel goods imported into Canada under certain conditions. The surtax applies only when import volumes exceed predefined thresholds, and it is designed to manage supply and prevent over-importation of certain steel products—particularly during a targeted period beginning **August 1, 2025**, and ending **September 25, 2025**.
+
+The regulation is **temporary**, coming into force on **June 27, 2025**, and will be **repealed one year after its effective date** (i.e., June 27, 2026). It is also **repealed by SOR/2025-155, s. 1**, which indicates that it may be replaced or withdrawn due to policy changes or fulfillment of its intended purpose.
+
+---
+
+## **Key Provisions and Structure**
+
+### **1. Applicable Goods**
+The surtax applies to steel goods classified under specific tariff headings listed in **Schedules 1 and 2** of the Order. These include a wide range of steel products such as:
+
+- Hot-rolled and cold-rolled steel sheets
+- Steel coils and plates
+- Structural steel products
+- Steel beams, angles, and channels
+- Steel pipes and fittings
+- Steel used in construction, automotive, and industrial applications
+
+**Full list of tariff items (HS codes)** is provided in the appendix. These are primarily found in Chapters 7208, 7210, 7211, 7212, 7225, and 7226 of the Harmonized System.
+
+> *Note:* Goods classified under Chapter 98 (e.g., "goods in transit") or Chapter 99 (e.g., "miscellaneous") are **exempt**, even if otherwise classifiable under the schedules.
+
+---
+
+### **2. Determination of Origin**
+The origin of goods is determined according to the rules of origin under:
+- *Determination of Country of Origin for the Purpose of Marking Goods (CUSMA Countries) Regulations* — for goods from CUSMA (Canada, U.S., Mexico) countries  
+- *Determination of Country of Origin for the Purpose of Marking Goods (Non-CUSMA Countries) Regulations* — for all other countries
+
+This ensures compliance with trade agreements and origin-based tariff treatment.
+
+---
+
+### **3. Conditions for Applying the Surtax (50%)**
+
+#### **General Conditions (Applicable to Both Schedules 1 and 2)**
+
+For goods classified under a tariff item in **column 4** of Schedule 1 or Schedule 2:
+
+> A surtax of **50% of the value of duty** (as determined under sections 47–55 of the *Customs Act*) applies **if either** of the following conditions is met:
+
+##### **Condition A: Quantity Exceeds Quarterly Total**
+- The **quantity** of goods of the same class imported during a **quarterly period** exceeds the **total quantity** set out in **column 2** of the relevant schedule for that class.
+
+##### **Condition B: Origin-Based Quantity Exceeds Threshold**
+- The **quantity of goods from the same country** imported during the same quarterly period exceeds the quantity calculated by multiplying:
+  - The **percentage** in **column 3** of the schedule
+  - By the **total quantity** in **column 2** of that schedule.
+
+> *Example:* If column 2 = 100,000 tonnes, and column 3 = 20%, then the threshold is 20,000 tonnes. If more than 20,000 tonnes of goods from a single country are imported, the surtax applies.
+
+---
+
+### **4. Special Application Period: August 1, 2025 – September 25, 2025**
+
+For this **specific 65-day window**, the surtax applies under **different thresholds**, based on **permits issued under the Export and Import Permits Act (EIPA)**.
+
+#### **For Schedule 1 Goods (Non-Country-Specific Thresholds)**
+
+The surtax applies if:
+
+> **(A)** The quantity of goods imported during the period exceeds the **quarterly total** (column 2) **adjusted** by the following formula:
+
+> **Quantity threshold = Column 2 × (1 − [percentage in column 3])**  
+> *(Actually, the regulation states: exceeds the quantity determined by the formula involving the permit data — see below)*
+
+> **More precisely:**
+> - The quantity imported during **August 1–September 25, 2025** exceeds:
+>   - The **quarterly total** in column 2 of Schedule 1 (for that class), **OR**
+>   - The quantity of goods **originating in the same country** imported during **June 27–July 31, 2025**, under a **valid EIPA permit** issued for steel goods listed in **item 82 of the Import Control List**.
+
+> **OR**
+> - The quantity of goods from the same country imported during **June 27–September 25, 2025** exceeds:
+>   - The quantity determined by multiplying the **percentage in column 3** by the **quarterly total in column 2**.
+
+#### **For Schedule 2 Goods (Country-Specific Thresholds)**
+
+The surtax applies if:
+
+> **(A)** Quantity imported during August 1–September 25, 2025 exceeds the **total in column 2.1** of Schedule 2 for that class  
+> **(B)** Quantity of goods from the same country imported during that period exceeds the quantity calculated by:
+> - Multiplying the **percentage in column 3** by the **total in column 2.1**
+
+> **Note:** The **first quarterly period** for Schedule 2 begins on **September 26, 2025**, meaning the threshold applies only to imports after that date.
+
+---
+
+### **5. Exclusions from the Surtax**
+
+The following goods are **exempt** and **not subject** to the surtax:
+
+1. **Goods in transit to Canada**:
+   - Goods referred to in subsections 2(1) and (1.1) that arrive **on or before June 27, 2025**
+   - Goods referred to in subsections 2.1(1) and (2) that arrive **on or before August 1, 2025**
+
+2. **Goods originating in Canada, the U.S., or Mexico** — these are exempt regardless of volume.
+
+3. **Casual goods** — as defined in the *Persons Authorized to Account for Casual Goods Regulations*.
+
+4. **Goods classified under Chapter 98 or Chapter 99** — even if otherwise classifiable under the schedules.
+
+> *Note:* This exclusion helps protect legitimate trade flows and temporary shipments.
+
+---
+
+### **6. Priority of Surtax Application**
+
+> Despite any other surtax under the *Customs Tariff*, **only the surtax under this Order applies** to goods that are subject to both this Order and another surtax.
+
+This ensures **no double surtax** is imposed on the same goods.
+
+---
+
+### **7. Enforcement and Compliance**
+
+- Goods are considered to be **imported in excess** of the thresholds **if they are not imported under a valid EIPA permit** issued for steel goods under **item 82 of the Import Control List** and that permit is **valid at the time of accounting** (under sections 32(1), (3), or (5) of the *Customs Act*).
+
+- This means **only permitted imports** are allowed to bypass the surtax threshold. Unauthorized or unpermitted imports trigger the surtax.
+
+---
+
+### **8. Repeal and Duration**
+
+- The Order **comes into force on June 27, 2025**.
+- If registered later, it takes effect on the **date of registration**.
+- It is **repealed one year after coming into force** (i.e., June 27, 2026).
+- It is **also formally repealed by SOR/2025-155, section 1**, which may reflect a policy shift or the end of the targeted intervention.
+
+> *Note:* The repeal of SOR/2018-206 (the original Order) indicates that this current Order is a **renewal or replacement** of an earlier measure.
+
+---
+
+## **Purpose and Policy Rationale**
+
+This regulation appears to be part of a **targeted trade policy intervention** aimed at:
+
+1. **Managing steel import volumes** during a sensitive period (2025), possibly to:
+   - Prevent market distortion
+   - Support domestic steel producers
+   - Protect national security or economic stability in the steel sector
+
+2. **Encouraging compliance with import permits** under the EIPA

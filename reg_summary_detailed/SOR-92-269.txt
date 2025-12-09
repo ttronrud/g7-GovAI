@@ -1,0 +1,150 @@
+**Detailed Summary of the Pulp and Paper Effluent Regulations, 1991 (as amended and substituted)**
+
+---
+
+### **Overview**
+
+The *Pulp and Paper Effluent Regulations*, 1991 (S.C. 1991, c. 1, s. 12(2)), were issued by His Excellency the Governor General in Council, on the recommendation of the Minister of Fisheries and Oceans, under specific provisions of the *Fisheries Act* (specifically subsections 34(2), 36(5), 37(3), and 38(9), and paragraphs 43(g.1) and (g.2)). These regulations **repeal the previous Pulp and Paper Effluent Regulations (C.R.C., c. 830)** and **introduce a new set of rules** governing the discharge of deleterious substances from pulp and paper mills and off-site treatment facilities.
+
+The primary objective of these regulations is to **protect aquatic ecosystems—particularly fish populations—by regulating the discharge of harmful effluents** from pulp and paper manufacturing operations. The regulations establish clear standards for monitoring, reporting, and permitting the disposal of specific pollutants.
+
+---
+
+## **Key Provisions and Structure**
+
+### **1. Regulatory Scope and Applicability**
+
+- **Applies to all pulp and paper mills** except the **Port Alberni Mill** (owned by Norske Skog Canada Limited).
+- **Excludes off-site treatment facilities** from the scope (as of SOR/2012-140, s. 2 — these were repealed).
+- The regulations apply to:
+  - Effluent from mills (defined broadly as wastewater from production processes, excluding intake water treatment).
+  - Any facility that treats effluent, including those owned or operated by mill owners.
+
+---
+
+### **2. Definitions of Key Terms**
+
+| Term | Definition |
+|------|-----------|
+| **Effluent** | Wastewater from mills (excluding intake water treatment), including process water, boiler blow-down, wash-down, cooling water, leachate from storage sites, etc. |
+| **Pulp** | Processed cellulose fibers derived from wood, plant material, or recycled paper. |
+| **Paper Product** | Includes paper, paperboard, boxboard, tissue, coated paper, etc., but excludes viscose, rayon, cellophane, and medium density fiberboard (MDF). |
+| **Mill** | A factory producing pulp or paper, or a group of factories sharing a common treatment facility. Includes associated treatment facilities. |
+| **Operator** | The person in charge of operating, controlling, or managing the mill. |
+| **Owner** | The legal entity owning the mill or its facilities. |
+| **Outfall Structure** | A conduit or structure through which effluent is discharged into water bodies or wastewater systems. |
+| **Daily Period** | Either a 24-hour period chosen by the operator (with notification), or a calendar day if no notification is given. |
+| **BOD Matter** | Any substance in effluent that consumes dissolved oxygen during a biochemical oxygen demand (BOD) test. |
+| **Suspended Solids** | Solid matter present in effluent. |
+| **Acutely Lethal Effluent** | Effluent that kills more than 50% of rainbow trout within 96 hours under standardized testing conditions. |
+| **Reference Methods** | EPS 1/RM/13 (Rainbow Trout Acute Lethality) and EPS 1/RM/14 (Daphnia magna Acute Lethality), both published by the federal Department of the Environment. |
+
+---
+
+### **3. Deleterious Substances (Prohibited or Regulated Discharges)**
+
+Under subsection 34(1) of the *Fisheries Act*, the following are designated as **deleterious substances**:
+
+1. **Acutely lethal effluent**  
+   - Effluent that kills >50% of rainbow trout in a 96-hour acute lethality test.
+   - Determined using the **Reference Method EPS 1/RM/13 (Second Edition)**.
+
+2. **BOD matter**  
+   - Substances that consume dissolved oxygen in water, measured via the **BOD test** (Reference Method EPS 1/RM/13).
+
+3. **Suspended solids**  
+   - Solid particles in effluent, measured via the **suspended solids test** (Reference Method EPS 1/RM/14).
+
+> ⚠️ **Important Note**: While BOD matter and suspended solids may be deposited under certain conditions, **acutely lethal effluent cannot be deposited** under any circumstances permitted by these regulations.
+
+---
+
+### **4. Authorization for Discharge**
+
+#### **(a) General Authorization (Section 6)**
+The owner or operator of a mill may deposit BOD matter and suspended solids **only if**:
+- The BOD or suspended solids concentration **does not exceed the maximum allowed limits** under section 14; **or**
+- The deposit is authorized under a formal **authorization** issued under section 16 or 17.
+
+> This authorization allows for **limited, controlled discharges** above the standard thresholds.
+
+#### **(b) Discharge into Wastewater Systems**
+Mills may deposit **any concentration of acutely lethal effluent, BOD matter, or suspended solids** into:
+- A **wastewater system regulated under the Wastewater Systems Effluent Regulations**, or
+- A **treatment facility owned or operated by the mill owner**, or
+- A **common treatment facility** serving a group of factories in a complex (if part of a larger operation).
+
+> This provision ensures that effluent is not discharged directly into natural waters unless under strict control.
+
+#### **(c) Conditional Authority**
+The authority to discharge under section 6 is **conditional** on the operator meeting a comprehensive set of requirements, including:
+
+---
+
+### **5. Mandatory Requirements for Operators**
+
+#### **(a) Monitoring Equipment and Records**
+- Must install, maintain, and calibrate monitoring equipment capable of:
+  - Taking **duplicate or split samples** from each outfall structure for BOD and suspended solids testing.
+  - Measuring **effluent volume** using methods aligned with ISO standards (e.g., ISO 17120.10 and 17120.20).
+- Flow meters must be **accurate to within ±10%**.
+- Records must include:
+  - Equipment specifications (manufacturer, model, year).
+  - Calibration test results.
+- Records must be **available for inspection for at least 3 years**.
+
+#### **(b) Monthly Reporting (Section 9)**
+Reports must be submitted **within 30 days after the end of each month** and include:
+
+| Information Required |
+|----------------------|
+| Data from Reference Method EPS 1/RM/13 and EPS 1/RM/14 (for all tests conducted) |
+| Results of BOD and suspended solids tests |
+| Average daily BOD and suspended solids levels |
+| Total monthly BOD and suspended solids volumes |
+| Volume of effluent discharged per daily period |
+| If effluent is combined before discharge: volume of each effluent stream and treated effluent |
+| Daily production of finished paper products (measured per daily period) |
+
+> Reports must be submitted **electronically** in the format provided by the Department of the Environment.  
+> **Exception**: If electronic submission is impractical due to unforeseen circumstances, a **written report** may be submitted.
+
+#### **(c) Notification of Non-Compliance**
+- Must **notify an inspector immediately** if any test result indicates a failure or non-compliance with the regulations.
+- Must **report the test results in writing within 10 days** of notification.
+
+#### **(d) Identifying Information**
+- Must provide identifying information to the **authorization officer** (as specified in subsections 10(1), (2), (3), and (1.1)–(3)).
+
+#### **(e) Remedial and Emergency Plans**
+- **Remedial Plan**:
+  - Must be prepared annually if effluent fails an acute lethality test.
+  - Describes measures to eliminate unauthorized deposits of deleterious substances.
+  - Must be updated and kept available for inspection for **at least 5 years**.
+
+- **Emergency Response Plan**:
+  - Must be developed and made **readily available on-site**.
+  - Must be kept available for inspection for **at least 5 years**.
+
+#### **(f) Environmental Effects Monitoring**
+- Must comply with requirements in **sections 28–31**, including:
+  - Conducting studies on environmental effects of effluent.
+  - Submitting data and reports on fish, invertebrates, and water quality.
+
+#### **(g) Record Retention Periods**
+- Records and data must be retained for **minimum durations**:
+  - **5 years**: Remedial plans, emergency response plans, data from Reference Methods (EPS 1/RM/13/14, Section 8.2)
+  - **3 years**: pH and electrical conductivity test results
+  - **6 years**: All data and reports from environmental monitoring studies
+
+---
+
+### **6. Prohibitions and Restrictions**
+
+- **No combining of treated effluents** with other effluents **before deposition**, unless:
+  - Neither effluent is acutely lethal, **or**
+  - The combination is **authorized under an official authorization** (section 17).
+
+- **No discharge of acutely lethal effluent** into natural waters (except under specific authorized conditions, which do not exist under this regulation).
+
+- **No discharge into unregulated waterways**

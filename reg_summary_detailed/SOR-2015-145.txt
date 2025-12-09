@@ -1,0 +1,143 @@
+### **Detailed Summary of the Packaging and Transport of Nuclear Substances Regulations, 2015**
+
+Issued by the **Canadian Nuclear Safety Commission (CNSC)** on **April 10, 2015**, under **subsection 44(1)a of the Nuclear Safety and Control Act (NSCA)**, the *Packaging and Transport of Nuclear Substances Regulations, 2015* (the "Regulations") establish comprehensive rules governing the **design, production, use, inspection, maintenance, and transport of nuclear substances** in Canada. These regulations are aligned with international standards, primarily those of the **International Atomic Energy Agency (IAEA)**, and provide a safety-based framework to protect people, the environment, and property during the movement of radioactive materials.
+
+---
+
+## **I. Legal Authority and Purpose**
+
+- The Regulations are made pursuant to **subsection 44(1)a of the Nuclear Safety and Control Act**, which empowers the CNSC to regulate the packaging and transport of nuclear substances.
+- The primary objective is to ensure **safe packaging and transport** of radioactive materials while balancing safety with practicality, especially for exempt or low-risk quantities.
+- The Regulations apply to all aspects of handling nuclear substances during transport, including **design, manufacturing, inspection, maintenance, loading, carriage, storage, and unloading**.
+
+---
+
+## **II. Key Definitions**
+
+The Regulations define critical terms used throughout, with many derived directly from the **IAEA Regulations for the Safe Transport of Radioactive Material**, ensuring consistency with global best practices.
+
+| Term | Meaning |
+|------|--------|
+| **A1, A2** | Threshold values (in TBq) used to determine exemption status; based on IAEA standards. |
+| **Activity** | Number of nuclear transformations per unit time (measured in becquerels). |
+| **Alternative Activity Limit** | A higher exemption threshold approved for specific instruments or articles (e.g., medical devices) that meet IAEA exemption criteria. |
+| **Basic Radionuclide Value (BRV)** | A reference value (in TBq, Bq/g, or Bq) from IAEA regulations used to assess risk. |
+| **Carrier, Consignor, Consignee** | Defined under Transportation of Dangerous Goods Regulations. |
+| **Fissile-Excepted Radioactive Material** | Fissile material that is exempted due to packaging or low quantity. |
+| **Criticality Safety Index** | Indicator of the risk of uncontrolled nuclear chain reactions. |
+| **Effective Dose** | Radiation dose to humans, as defined in Radiation Protection Regulations. |
+| **Excepted Package** | A package designed in accordance with IAEA requirements, often exempt from strict transport rules. |
+| **Low Dispersible Radioactive Material** | Material that does not easily spread in air or water. |
+| **LSA Material** | Low Specific Activity material (defined in IAEA). |
+| **Large Object (SCO)** | Decommissioned object internally contaminated with nuclear substances, too large to fit in standard packages. |
+| **Special Form Radioactive Material** | Material in a form that poses special hazards (e.g., liquids, gases). |
+| **Package Types (A, B, C, H, IP)** | Categorized by design, hazard level, and containment capability. |
+
+> **Note on Language Interpretation**:  
+> In French, “approbation” includes “certificat d’agrément” and “certificat d’approbation” (approval and certification). In English, “approval” includes “certificate of approval.” This ensures alignment with IAEA terminology.
+
+---
+
+## **III. Incorporation of IAEA Amendments**
+
+- Any amendment to the **IAEA Regulations** is incorporated into these Canadian Regulations **two years after its initial publication by the IAEA**, or **six months after it becomes available in both official languages (English and French)**—whichever is later.
+- The CNSC must **publish the effective date of incorporation on its official website** to ensure transparency and public access.
+
+---
+
+## **IV. Scope of Application**
+
+### ✅ **Applies To:**
+The Regulations apply to the **packaging and transport** of:
+- **Prescribed equipment** (as defined in the General Nuclear Safety and Control Regulations).
+- **Nuclear substances**, including:
+  - Design, production, use, inspection, maintenance, and repair of packaging.
+  - Preparation, consignment, handling, loading, carriage, storage, receipt, and unloading of packages.
+
+> This includes all stages of transport, from initial packaging to final unloading.
+
+---
+
+### ❌ **Exemptions (Do Not Apply To):**
+
+The Regulations **do not apply** to nuclear substances that fall into specific exemption categories, including:
+
+| Exemption Category | Description |
+|-------------------|-----------|
+| **Naturally Occurring Nuclear Substances** | If specific activity ≤ 70 kBq/kg OR activity concentration ≤ 10× IAEA exempt limit. |
+| **Medical Use (Diagnosis/Treatment)** | Substances implanted or administered to humans/animals; remains in body or tissue. |
+| **Bioassay Samples** | Samples taken for diagnostic testing. |
+| **Private Property Use** | Used by licensed holders on private property with controlled access. |
+| **Low Specific Activity (LSA) Materials** | Specific activity ≤ 10⁻⁶ A₂/kg in tissue or samples. |
+| **Products Sold Without Licence** | After sale to end users, if no licence required under NSRD Regulations. |
+| **Integral Components of Conveyances** | Radioactive material required for transport function (e.g., in aircraft). |
+| **Exempt Material Levels** | Activity concentration ≤ IAEA exempt values or BRV certificate values. |
+| **Exempt Consignment Levels** | Total activity ≤ IAEA exempt consignment limit or certificate values. |
+| **Check Sources** | Sold to end users without requiring a licence under section 8.1. |
+| **Radiation Devices** | Sold to end users without requiring a licence under paragraph 5(1)(c). |
+| **Surface Contamination** | On non-radioactive solid objects ≤ 0.4 Bq/cm² (beta/gamma/low-toxicity alpha); ≤ 0.04 Bq/cm² (other alpha). |
+| **Accidental/Intentional Contamination** | In persons transported for medical treatment. |
+| **Waste Loads with Alarms** | Only if medical isotopes (e.g., Cr-51, In-111, I-123, Tc-99m) are present, and no loss/dispersal occurs. |
+| **Forensic Samples Transported by Peace Officers** | With dose rate ≤ 2 mSv/h, no dispersal, and immediate reporting to CNSC. |
+
+> These exemptions reflect the principle of **risk-based regulation**, where only materials posing a significant hazard require strict controls.
+
+---
+
+## **V. Requirements for Radiation Alarm Incidents**
+
+When a **radiation monitor alarm** is triggered during transport, the consignor, carrier, and consignee must follow specific procedures depending on the **dose rate**:
+
+---
+
+### **Case 1: Dose Rate 5 µSv/h to 25 µSv/h**
+- **Immediate preliminary report** to CNSC within 24 hours (must include alarm level, transport details, location, and actions taken).
+- **Characterization of source** required within **10 days**:
+  - **Immediately** if source is determined to be a **licensable quantity**.
+  - **Within 21 days** if not licensable (with summary and confirmation of non-licensable status).
+
+> A "licensable quantity" means:
+> - Activity exceeds the exemption threshold (as defined in NSRD Regulations), or
+> - No exemption from licensing under sections 5–8.1 of NSRD.
+
+---
+
+### **Case 2: Dose Rate >25 µSv/h to ≤500 µSv/h**
+- **Immediate preliminary report** to CNSC.
+- **Isolate the load** to prevent dispersal and **control access** to ensure effective doses do not exceed those in **section 13 of the Radiation Protection Regulations**.
+- **Hire an expert in radiation protection** to assess the situation.
+- **Report findings within 10 days**:
+  - **Immediately** if source is licensable.
+  - **Within 21 days** if not licensable (with disposal details and confirmation).
+
+> This level triggers **enhanced safety measures** to protect public health and environment.
+
+---
+
+## **VI. Reporting and Recordkeeping Obligations**
+
+- **Person performing characterization** must:
+  - Keep records of radiation detection and disposal for **two years**.
+  - Submit an **annual report to CNSC by April 30**, summarizing radiation detections.
+  - **Immediately notify CNSC** if the source is determined to be a licensable quantity.
+
+> These requirements ensure accountability and enable the CNSC to monitor potential risks and respond proactively.
+
+---
+
+## **VII. Special Cases and Exceptions**
+
+### **Large Objects (Decommissioned Nuclear Equipment)**
+- Objects decommissioned from nuclear facilities that are:
+  - Internally contaminated with nuclear substances (meeting SCO-I or SCO-II criteria).
+  - Too large to be transported in standard packages.
+- May be transported under special provisions, though not covered by standard packaging rules.
+
+### **Instrument or Article Exemptions**
+- Certain tools or devices (e.g., medical instruments) may have **alternative activity limits** approved by the CNSC, allowing higher activity than standard exempt levels—provided they meet IAEA exemption criteria.
+
+---
+
+## **VIII. Enforcement and Compliance**
+
+- The CNSC has authority to

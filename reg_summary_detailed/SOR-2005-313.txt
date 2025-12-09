@@ -1,0 +1,136 @@
+Certainly. Below is a **detailed, comprehensive summary** of the **Commercial Vehicle Drivers Hours of Service Regulations**, as published under the *Motor Vehicle Transport Act, 1987a*, and effective as of the date of publication in the *Canada Gazette, Part I*, February 15, 2003 (with subsequent amendments and repeals noted).
+
+---
+
+## 🔍 **Comprehensive Summary of the Commercial Vehicle Drivers Hours of Service Regulations**
+
+### 📌 **Background and Legal Authority**
+These regulations were made under **section 16.1 of the Motor Vehicle Transport Act, 1987a**, following:
+- Consultation with provincial governments (pursuant to subsection 3(1) of the Act),
+- Public consultation and opportunity for stakeholder input (via publication in the *Canada Gazette, Part I*),
+- Amendments to the Act (e.g., S.C. 2001, c. 13).
+
+The regulations establish **mandatory limits on driving and on-duty time** for commercial vehicle drivers to enhance **road safety**, prevent driver fatigue, and ensure compliance with federal and provincial transportation standards.
+
+---
+
+## 📘 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Motor Vehicle Transport Act, 1987a* |
+| **Commercial Vehicle** | Any vehicle operated by a motor carrier that: <br> • Has a registered gross vehicle weight > 4,500 kg, or <br> • Is a bus with seating capacity > 10 persons (including driver) |
+| **Driver** | A person who operates a commercial vehicle, including self-employed drivers; also includes a **co-driver** (a person present in the vehicle due to being the driver or about to be). |
+| **On-duty time** | Time when a driver is required to be available or actively working. Includes: <br> • Driving time <br> • Inspecting, servicing, loading/unloading, waiting at service points, inspections, or en-route delays <br> • **Excludes** personal driving (under specific conditions) and time in sleeper berths |
+| **Off-duty time** | All time not spent on-duty. Includes: <br> • Resting outside the vehicle <br> • Time in sleeper berths (which counts as off-duty) <br> • Time spent in a stationary vehicle (e.g., at a terminal) |
+| **Sleeper Berth** | A designated sleeping area in a commercial vehicle. *Note: Repealed in SOR/2019-165, s. 1 — replaced by new provisions on rest periods.* |
+| **Electronic Logging Device (ELD)** | A certified device that automatically records driving time and duty status. Must comply with the **Technical Standard for ELDs (April 11, 2019)**, except provision 4.5.1.11(b)(9). |
+| **Record of Duty Status** | A daily log (repealed in SOR/2019-165, s. 1) that documents the driver’s duty status, including driving, off-duty, and rest periods. Must be supported by **supporting documents** (e.g., dispatch records, bills of lading, fueling records). |
+| **Cycle** | Two types of duty cycles: <br> • **Cycle 1**: 7-day cycle (70 hours on-duty limit) <br> • **Cycle 2**: 14-day cycle (140 hours on-duty limit) |
+| **Home Terminal** | The primary workplace of a motor carrier where drivers report for work. May include temporary work sites. |
+| **Supporting Documents** | Evidence of trips, loads, services, or communications (e.g., dispatch sheets, receipts, GPS data, call-in logs). |
+| **Emergency Vehicle** | Fire, ambulance, police, or other emergency vehicles. Exempt from HOS rules. |
+| **Oil Well Service Vehicle** | Specialized vehicles used exclusively in oil/gas industry for servicing wells. Exempt under certain conditions. |
+| **Out-of-Service Declaration** | A formal declaration issued by a director or inspector that prohibits a driver from operating a vehicle. |
+
+---
+
+## 🚫 **Exemptions (When Regulations Do Not Apply)**
+
+The following commercial vehicles are **exempt** from these HOS rules:
+1. **Farm, forest, sea, or lake transport vehicles**:
+   - Used to transport primary products (e.g., crops, timber, fish) **if the driver or carrier is the producer**.
+   - Return trips after transporting such products (if empty or carrying only operational supplies).
+2. **Emergency vehicles** (e.g., ambulances, fire trucks).
+3. **Vehicles providing relief during public welfare emergencies** (as defined in the *Emergencies Act*).
+
+> ⚠️ *Note: These exemptions are limited and apply only when the vehicle is used in direct connection with the producer’s operations.*
+
+---
+
+## 🚨 **Prohibited Driving Conditions**
+
+No motor carrier may request or allow a driver to drive, and no driver may drive if:
+- Driving would **jeopardize public safety, health, or employee safety**;
+- The driver is subject to an **out-of-service declaration**;
+- The driver would **violate any HOS regulation**.
+
+---
+
+## 🚗 **Daily Driving and On-Duty Time Limits**
+
+### 1. **Daily Driving Time Limit**
+- A driver may not drive more than **13 hours in a single day**.
+
+> ⚠️ *Exception: If the driver takes at least 8 consecutive hours of off-duty time before driving again.*
+
+### 2. **Daily On-Duty Time Limit**
+- A driver may not be on-duty for more than **14 hours in a day**.
+
+> ⚠️ *Exception: If the driver takes at least 8 consecutive hours of off-duty time before driving again.*
+
+### 3. **Minimum Off-Duty Time Requirement**
+- A driver must take **at least 10 hours of off-duty time per day**.
+- This includes:
+  - **8 consecutive hours** of off-duty time (mandatory),
+  - **At least 2 additional hours** of off-duty time that are **not part of the 8-hour block**.
+
+### 4. **Distribution of Off-Duty Time**
+- Off-duty time (excluding the mandatory 8-hour block) may be distributed in **blocks of at least 30 minutes**.
+- The total off-duty time must be **at least 10 hours** per day.
+
+---
+
+## 🔄 **Deferral of Off-Duty Time (Limited Exception)**
+
+A driver may **defer up to 2 hours of off-duty time** to the next day **only if**:
+- The deferred time is **not part of the mandatory 8-hour block**;
+- Total off-duty time over two days is **at least 20 hours**;
+- The deferred time is **added to the 8-hour block on the second day**;
+- Total driving time over two days does **not exceed 26 hours**;
+- A clear **declaration in the record of duty status** confirms the deferral and specifies whether the driver is operating under Day 1 or Day 2.
+
+> ❗ This deferral is **not allowed** for the mandatory 8-hour block.
+
+---
+
+## 🚢 **Ferry Crossings (Over 5 Hours)**
+
+For drivers crossing a ferry that takes **more than 5 hours**, the **mandatory 8-hour off-duty block** is **waived** if:
+- The time spent resting in the sleeper berth (at terminal, on ferry, or at a rest stop within 25 km of disembarkation) **totals at least 8 hours**;
+- The rest time is recorded as **off-duty time in the sleeper berth**;
+- The driver retains a **receipt** for ferry and rest accommodation fees;
+- The receipt **matches** the entry in the record of duty status.
+
+> ✅ This applies only to rest in sleeper berths — not general off-duty time.
+
+---
+
+## 🛌 **Rest in Sleeper Berth (Team or Single Driver)**
+
+Drivers may meet both the **mandatory 8-hour off-duty** and **10-hour daily off-duty** requirements by accumulating off-duty time in **no more than two periods**, provided:
+
+### For a **Single Driver**:
+- Neither off-duty period is shorter than **2 hours**;
+- Total off-duty time ≥ **10 hours**;
+- All off-duty time is spent in the **sleeper berth**;
+- Sleeper berth meets requirements in **Schedule 1**;
+- Driving time immediately before and after each off-duty period ≤ **13 hours**;
+- Time between on-duty start and the off-duty period does **not include driving after the 16th hour**;
+- No deferral of off-duty time to the next day;
+- On-duty time before and after each off-duty period does **not include driving after the 14th hour**.
+
+> 🔍 **16th Hour Calculation**:
+> - Excludes any sleeper berth period of **2 hours or more** that, when combined with a subsequent period, totals **at least 10 hours**.
+> - Includes:
+>   - All on-duty time,
+>   - All off-duty time not in the sleeper berth,
+>   - All periods <2 hours in sleeper berth,
+>   - Any other sleeper berth time not qualifying.
+
+---
+
+### For a **Team of Drivers** (shared sleeper berth):
+- Each off-duty period must be **at least 4 hours**;
+- All rest must be in the sleeper berth;
+- Sleeper berth

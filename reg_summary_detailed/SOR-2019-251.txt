@@ -1,0 +1,153 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the provided regulation — the **Patent Rules** under the *Patent Act* of Canada (as amended and in effect as of 2018, with key provisions updated through 2022 and 2021).
+
+---
+
+## 📚 **Detailed Summary of the Patent Rules (S.C. 2018, c. 27, s. 259(3); R.S. c. P-4; R.S. c. 33 (3rd Supp.), s. 3)**
+
+These rules are issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Industry**, under specific sections of the *Patent Act*:
+
+- **Section 12a and subsection 20(18)** of the *Patent Act*
+- **Section 12c** of the *Patent Act*, as it read **immediately before October 1, 1989**
+
+They form the **operational framework** governing procedures related to the filing, examination, maintenance, and administration of patents in Canada, particularly in relation to international systems such as the **Patent Cooperation Treaty (PCT)** and the **Budapest Treaty**.
+
+---
+
+## 🔍 1. **Key Definitions**
+
+The rules establish precise definitions for key terms used throughout the regulation:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Patent Act* |
+| **Administrative Instructions under the PCT** | The official guidance issued by WIPO under the PCT, including any updates |
+| **Associate Patent Agent** | A patent agent appointed by another patent agent under section 28 of the *Patent Act* |
+| **Budapest Treaty** | The treaty on international recognition of microorganism deposits for patent purposes; includes amendments |
+| **Common Representative** | An applicant or patentee appointed under sections 26, 218, 219, or 220 to represent multiple parties |
+| **Description** | The part of a specification excluding claims (except in Form 1 of Schedule 1) |
+| **Foreign Practitioner** | An individual listed in the *Register of Patent Agents* under section 19 of the *College of Patent Agents and Trademark Agents Regulations* |
+| **International Application** | A patent application filed under the PCT |
+| **International Depository Authority (IDA)** | As defined in Article 2(viii) of the Budapest Treaty |
+| **National Phase Entry Date** | The date set under subsection 155(2) or section 210 of the *Patent Act* when a PCT application enters national phase |
+| **PCT National Phase Application** | A PCT application that has met the requirements of subsection 154(1) and/or 154(2); or, prior to October 30, 2019, those of subsection 58(1) and (2) |
+| **PCT Sequence Listing Standard** | Standard ST.26 from WIPO for presenting nucleotide/amino acid sequences in XML format |
+| **Presentation Date** | The date determined under subsection 103(2) or 202(2) |
+| **Regulations under the Budapest Treaty / PCT** | The implementing regulations under those treaties, including amendments |
+| **Sequence Listing** | Same as in PCT sequence listing standard |
+
+> ✅ **Note**: The term *“patent agent”* has been **repealed** (SOR/2021-131, s. 2); it is now replaced by “associate patent agent” and other roles.
+
+> ✅ **Drawing** includes **photographs**.
+
+> ✅ All time periods referenced in the rules are **automatically extended** if extended under **section 3** or **subsection 160(2)** of the *Patent Act* or **subsection 78(1)**.
+
+---
+
+## ⚖️ 2. **Clarifications and Exceptions**
+
+To avoid ambiguity:
+
+- An **application for reissue of a patent** is **not** considered an application for a patent.
+- A **patent granted based on a divisional application** (resulting from a split of an original application) is **not** considered a patent granted on the basis of the original application.
+
+> This clarifies the distinction between original and derivative patents.
+
+---
+
+## 🕒 3. **Extension of Time Periods for Fees and Actions**
+
+The **Commissioner of Patents** has broad authority to **extend time periods** for various actions — including fee payments — under specific conditions.
+
+### A. General Extension Authority (Section 3)
+
+The Commissioner may extend any time period for doing something (e.g., paying fees, responding to requests) **if**:
+- The circumstances justify the extension
+- The extension is **applied for before the period expires**
+- The **fee in item 1 of Schedule 2** is paid (unless otherwise specified)
+
+> This applies to most procedural deadlines.
+
+### B. Extension for Fee Payments – Specific Cases
+
+#### (1) When Small Entity Fee Was Paid
+Applies to fees under:
+- Subsections 44(1), 68(1)/(2), 80(1), 85.1(5), 86(1)/(1.1)/(6)/(10)/(12), 112(1), 112(5)(a)/(c), 154(1)(c), 154(2), or 154(3)(a)(iii)/(b)(i)/(ii)
+
+**Conditions for extension:**
+- Small entity fee was paid **before the deadline**
+- It is later determined that **standard fee should have been paid**
+- Applicant/patentee files a **statement** declaring:
+  - The small entity fee was paid in **good faith**
+  - The extension is filed **without undue delay** after becoming aware of the error
+- The applicant pays the **difference** between:
+  - Small entity fee paid
+  - Standard fee applicable on the day of payment
+- Pays the **fee in item 1 of Schedule 2**
+
+> ⚠️ If the Commissioner waives the difference payment under **section 139.1**, the requirement is waived.
+
+#### (2) When Payment Was Insufficient (e.g., under subsection 80(1))
+Applies when:
+- Applicant paid **insufficient amount** (not due to error)
+- Commissioner sent a notice acknowledging request for examination under **subsection 35(2)**
+- It was later determined that the payment was insufficient
+- Applicant files a **statement** declaring:
+  - Payment was **unintentional**
+  - Extension is filed **without undue delay**
+- Pays the **difference** between:
+  - Amount paid
+  - Amount due on the day of insufficient payment
+
+#### (3) When Commissioner Provided Erroneous Fee Information
+Applies when:
+- Commissioner gave **erroneous written information** about fee amount
+- Applicant paid **insufficient amount** due to error
+- Applicant identifies **source of error** and files a statement
+- Extension is filed **without undue delay**
+- Pays the **difference** between paid and correct amount
+- Commissioner may **waive** the difference under section 139.1
+
+> If extended, the fee is **deemed paid** on the day the **small entity fee** or **insufficient payment** was made.
+
+> ❌ **Exception**: Subsection (5) does **not apply** to determining the **date of payment** for subsection 128(1)
+
+#### (4) Extension of Period under Subsection 18(2) of the Act
+The Commissioner may extend the period for compliance with subsection 18(2) (e.g., for filing or responding) if:
+- Circumstances justify it
+- Extension is applied for **before expiry**
+- Fee in **item 1 of Schedule 2** is paid
+
+---
+
+## 📅 4. **Prescribed Days for Procedural Deadlines**
+
+Certain days are **excluded** from counting in time periods under subsection 78(1) of the *Patent Act* (e.g., weekends, holidays). These include:
+
+| Day | Description |
+|-----|-------------|
+| Saturday | Excluded |
+| Sunday | Excluded |
+| January 1 | Or next Monday if Jan 1 falls on Sat/Sun |
+| Good Friday | Excluded |
+| Easter Monday | Excluded |
+| Monday before May 25 | Excluded |
+| June 24 | Or next Monday if falls on Sat/Sun |
+| July 1 | Or next Monday if falls on Sat/Sun |
+| First Monday in August | Excluded |
+| First Monday in September | Excluded |
+| September 30 | Or next Monday if falls on Sat/Sun |
+| Second Monday in October | Excluded |
+| November 11 | Or next Monday if falls on Sat/Sun |
+| December 25 & 26 | If Dec 25 is Friday → Friday + next Monday; if Sat/Sun → next Monday & Tuesday |
+| Any day when Patent Office is closed | Excluded |
+
+> These are **non-working days** in procedural timelines.
+
+---
+
+## 💰 5. **Small Entity Fee vs. Standard Fee**
+
+### Key Rules:
+
+- If a **small entity fee** is paid **before** a standard fee is due:
+  - The **standard fee is deemed paid** on the day the small entity fee is paid — **provided

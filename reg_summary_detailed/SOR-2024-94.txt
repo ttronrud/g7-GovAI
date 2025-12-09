@@ -1,0 +1,217 @@
+**Detailed Summary of the Radiocommunication Act Exemption Order (Jammers — Royal Canadian Mounted Police)**  
+*Issued by the Minister of Industry under subsection 14(1)a of the Radiocommunication Act*  
+*Ottawa, May 17, 2024*  
+*Replaces SOR/2019-269; Comes into force upon registration*
+
+---
+
+### **Overview**
+
+This regulation, known as the **Radiocommunication Act Exemption Order (Jammers — Royal Canadian Mounted Police)**, grants specific exemptions from key provisions of the *Radiocommunication Act* (RCA) to enable the **Royal Canadian Mounted Police (RCMP)** and certain associated government entities to legally install, use, possess, manufacture, import, distribute, or sell **radio frequency jammers** — devices that intentionally interfere with or block radio communications — for authorized and critical purposes.
+
+The exemption is narrowly tailored to ensure national security, public safety, and law enforcement operations, while still respecting the regulatory framework designed to prevent unauthorized interference with radiocommunication services.
+
+---
+
+## **Key Provisions and Exemptions**
+
+### **1. Who Is Exempt?**
+
+The following individuals and entities are exempt from the application of **subsection 4(4)** and **paragraph 9(1)(b)** of the Radiocommunication Act:
+
+#### **(1) RCMP Employees (Technical Investigation Services & Other Units)**
+- Employees of the **RCMP Technical Investigation Services (TIS)** and other RCMP employees who are required to:
+  - Install, use, possess, manufacture, import, distribute, or sell jammers
+  - In the course of their **duties or training**
+- Are exempt from the restrictions in subsection 4(4) and paragraph 9(1)(b) of the Act.
+
+> *Note:* This exemption applies only when the activity is directly related to official duties or training.
+
+#### **(2) The Crown (via the Minister of Public Works and Government Services)**
+- The **Minister of Public Works and Government Services (MPWGS)** and employees of the Department of Public Works and Government Services (DPWGS) who are required to:
+  - Import jammers **on behalf of the RCMP**
+- Are exempt from subsection 4(4) of the Act in respect of that importation.
+
+> *Purpose:* Enables procurement and logistics support for RCMP jammer operations without violating radiocommunication regulations.
+
+#### **(3) Contractors and Vendors in Government Contracts**
+- Any **person or entity** that:
+  - Has entered into a contract with the Government of Canada to provide jammers or related services to the RCMP
+  - Performs work under that contract or a related subcontract
+- Is exempt from subsection 4(4) and paragraph 9(1)(b) of the Act **if** they are required to:
+  - Install, use, possess, manufacture, import, distribute, offer for sale, or sell a jammer
+  - In accordance with the terms of the contract
+
+> *This includes subcontractors and suppliers involved in the supply chain.*
+
+#### **(4) Bidding Process for Jammers**
+- A person or entity may offer a jammer for sale **without violating subsection 4(4)** if:
+  - The offer is made in response to a **formal solicitation of bids** (e.g., a government procurement process)
+  - The bid is submitted to the Government of Canada for provision to the RCMP
+
+> *Purpose:* Allows competitive bidding for jammer procurement without triggering regulatory barriers.
+
+---
+
+## **Purpose of the Exemption**
+
+The exemptions are granted solely for the following **authorized purposes**:
+
+1. **National Security**  
+2. **Public Safety**  
+   - Including operations at **penitentiaries and prisons**  
+3. **International Relations**  
+4. **Investigation or Prosecution of Offences**  
+   - Including the **preservation of evidence**  
+5. **Protection of Property or Prevention of Serious Harm to Persons**
+
+> These purposes are strictly defined and serve as the legal justification for the use of jammers — ensuring that such tools are not used for unauthorized or general interference.
+
+---
+
+## **Conditions and Requirements for Compliance**
+
+To ensure responsible and lawful use, several **mandatory conditions** apply:
+
+### **A. Notification and Reporting Requirements (RCMP Obligations)**
+
+Before any exemption under subsection (1) is activated, the **RCMP must provide written notice to the Minister** containing:
+
+- Postal and email addresses, and telephone numbers of:
+  - The **headquarters or centre of operations** where jammer responsibilities are primarily exercised
+  - The **contact persons** at that location
+  - The **resource persons** responsible for jammers
+
+> *This ensures transparency and accountability.*
+
+Additionally, the RCMP must:
+
+- Provide **updated information** as soon as feasible when any of the above details change
+- **Confirm the accuracy** of the information annually, by the anniversary of the Order’s coming into force
+
+---
+
+### **B. Training Requirement**
+
+- Every employee carrying out an activity under the exemption in subsection (1) must:
+  - Have received or be receiving **specialized training** in relation to the use of jammers
+
+> *Ensures that only qualified personnel operate such high-risk equipment.*
+
+---
+
+### **C. Access to Directives and Procedures**
+
+- The RCMP must ensure that:
+  - TIS employees have access to **TIS-specific directives** on jammers
+  - Other employees have access to the **directives of their respective operational units** regarding jammer use
+
+> *Promotes consistency and adherence to internal operational standards.*
+
+---
+
+### **D. Minimization of Interference and Exposure**
+
+All users must:
+
+- **Minimize** the jammer’s interference to:
+  - The **smallest physical area**
+  - The **fewest radio frequencies**
+  - The **appropriate power level**
+  - The **minimum duration** required to achieve the intended purpose
+
+- **Minimize unwanted emissions** and **exposure of persons to radiofrequency (RF) fields**
+
+> *Protects civilian and public communications and health.*
+
+---
+
+### **E. Flexibility and Control of Jammers**
+
+- Any jammer used under the exemption must:
+  - Allow for **adjustable power levels**
+  - Allow for **adjustable radio frequencies** that can be interfered with
+
+> *Enables precise, targeted use and prevents overreach or broad-spectrum disruption.*
+
+---
+
+### **F. Security and Access Controls**
+
+- Jammers must be:
+  - **Accessible only** to employees or entities **exempt under the Act**
+  - **Turned off and stored securely** when not in use
+  - Stored in a **secure location or manner**, including during transportation
+
+> *Prevents unauthorized access or misuse.*
+
+---
+
+### **G. Recordkeeping Requirements**
+
+The RCMP must maintain detailed records for **each use of a jammer**, including:
+
+- Name of the employee or entity using the jammer  
+- Location, date, and (if possible) time of use  
+- Radio frequencies interfered with or obstructed  
+- Purpose of use (from the list in subsection 2(7))
+
+> *Ensures accountability, auditability, and compliance with oversight.*
+
+---
+
+### **H. Restrictions on Use by Contractors and Vendors**
+
+A person or entity referred to in subsection (6) (contractors) may **only use a jammer** under the following conditions:
+
+1. The use must occur **under the direct supervision of an RCMP employee** referred to in subsection (1)  
+2. The purpose must be one of:
+   - Testing the jammer’s functionality  
+   - Performing maintenance  
+   - Providing training on jammers  
+
+> *Prevents independent or unregulated use of jammers by third parties.*
+
+---
+
+## **Repeal of Previous Order**
+
+- This Order **repeals the previous exemption order** (SOR/2019-269)  
+- Ensures that the current, updated, and more detailed framework governs all future jammer-related activities involving the RCMP.
+
+---
+
+## **Effective Date**
+
+- The Order comes into force on the **day it is registered** (i.e., upon official publication in the *Canada Gazette*).
+
+---
+
+## **Key Takeaways and Implications**
+
+| Aspect | Summary |
+|-------|--------|
+| **Legal Basis** | Section 14(1)a of the Radiocommunication Act |
+| **Scope** | Limited to RCMP, its contractors, and authorized government departments |
+| **Purpose** | National security, public safety, law enforcement, evidence preservation |
+| **Compliance** | Requires training, reporting, recordkeeping, and strict operational controls |
+| **Safety & Accountability** | Emphasis on minimizing interference, protecting public health, and ensuring transparency |
+| **No General Authorization** | Jammers are not available for public or commercial use — only for authorized, purpose-driven operations |
+
+---
+
+## **Conclusion**
+
+This exemption order represents a **carefully balanced regulatory exception** to the otherwise strict rules governing radio frequency interference in Canada. It allows the RCMP to use jammers in critical investigative and operational contexts — such as preventing terrorist communications, securing prison environments, or preserving evidence — while maintaining strong safeguards to:
+
+- Prevent misuse  
+- Protect public communications  
+- Ensure accountability  
+- Limit exposure to harmful RF fields  
+
+By requiring detailed reporting, training, supervision, and technical controls, the Order ensures that the use of jammers remains both **legally defensible** and **operationally responsible**.
+
+This is a significant example of how regulatory frameworks can adapt to meet the needs of national security and law enforcement, while still upholding public interest and technical standards.
+
+---  
+*End of Summary*

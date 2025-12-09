@@ -1,0 +1,159 @@
+**Detailed Summary of the *Canadian Telecommunications Common Carrier Ownership and Control Regulations* (S.C. 1993, c. 38)**
+
+---
+
+### **Overview**
+
+The *Canadian Telecommunications Common Carrier Ownership and Control Regulations* were enacted under the authority of **Section 22 of the Telecommunications Act** by His Excellency the Governor General in Council, on the recommendation of the Minister of Industry, Science and Technology. These regulations establish a comprehensive framework governing **ownership and control of Canadian telecommunications common carriers**, with a primary focus on **ensuring Canadian national interest and control** over critical telecommunications infrastructure.
+
+The regulations define key terms, establish thresholds for non-Canadian ownership, outline procedures for determining beneficial ownership, and provide mechanisms for compliance and reporting. Their overarching goal is to **prevent foreign control** of Canadian telecommunications companies while allowing for legitimate investment and operational flexibility.
+
+---
+
+## **Key Definitions and Concepts**
+
+### 1. **Core Definitions**
+- **Act**: Refers to the *Telecommunications Act*.
+- **Board**: The board of directors of a corporation.
+- **Carrier Holding Corporation (Holdco)**:
+  - A corporation that beneficially owns and controls **at least 66⅔%** of the voting shares of a Canadian carrier (excluding ownership via securities only).
+  - Must not be otherwise controlled by non-Canadians.
+  - Includes "acquiring corporations" as defined in Section 18 of the Act.
+- **Depository**:
+  - A person providing centralized facilities for clearing trades in securities.
+  - Acts only in relation to payments or delivery of securities (not for ownership determination).
+- **Excess Voting Shares**:
+  - Shares beneficially owned or controlled by non-Canadians in excess of:
+    - **20%** for corporations under subsection 16(1) of the Act.
+    - The percentage held by non-Canadians as of **July 22, 1987**, for corporations under subsection 16(2).
+- **Holdco Excess Voting Shares**:
+  - For a holdco:
+    - If it claims to be a *qualified corporation*: >33⅓% non-Canadian ownership.
+    - If it is an *acquiring corporation*: >threshold from July 22, 1987.
+- **Holdco Principal Stock Exchange**:
+  - The Canadian stock exchange where the holdco's voting shares are traded in the highest volume.
+- **Intermediary**:
+  - A person/entity (excluding depositories and trustees) holding securities on behalf of another.
+- **Non-Canadian**:
+  - Any individual or entity not resident in Canada.
+- **Principal Stock Exchange**:
+  - The Canadian exchange with the highest trading volume for a Canadian carrier’s shares.
+- **Qualified Corporation**:
+  - A corporation where **Canadian shareholders** beneficially own and control **at least 66⅔%** of voting shares, and are not otherwise controlled by non-Canadians.
+- **Qualified Mutual Insurance Company**:
+  - Head office in Canada; **at least 80% of board and committees** composed of individual Canadians.
+- **Qualified Partnership**:
+  - Canadian partners own and control **at least 66⅔%** of the beneficial interest, and are not otherwise controlled by non-Canadians.
+- **Qualified Pension Fund Society**:
+  - Majority of board members are individual Canadians; established under specific federal or provincial pension fund legislation.
+- **Qualified Trust**:
+  - At least **66⅔% of beneficial interest** held by Canadians; majority of trustees are Canadians.
+- **Voting Share**:
+  - Includes shares with voting rights, convertible shares, or options/rights to acquire shares that are exercisable at the time of calculation.
+
+---
+
+## **Definition of "Canadian" (for Regulatory Purposes)**
+
+A "Canadian" is defined broadly to include:
+- Citizens of Canada who are **ordinarily resident** in Canada.
+- Permanent residents who have been **ordinarily resident in Canada for ≤1 year** after becoming eligible for citizenship.
+- Canadian government entities (federal, provincial, local) and their agencies.
+- Corporations without share capital where majority of directors/officers are appointed by:
+  - Federal/provincial statutes or regulations.
+  - Governor in Council, Lieutenant Governor in Council, or a Crown minister.
+- Entities that qualify under the following categories:
+  - Qualified Corporation
+  - Qualified Trust
+  - Qualified Mutual Insurance Company
+  - Qualified Partnership
+  - Qualified Pension Fund Society
+
+> This definition ensures that **Canadian ownership** is not limited strictly to individual citizens but extends to entities with Canadian roots and governance.
+
+---
+
+## **Beneficial Ownership Determination Rules**
+
+To determine whether voting shares are beneficially owned or controlled by a Canadian, the following **rules apply**:
+
+### 1. **Inclusion of Voting Shares in Determination**
+Shares may be included in the calculation of Canadian ownership **without further proof** if:
+- **(a)** Registered in the name of a shareholder (not a depository), whose latest address is in Canada.
+- **(b)** Held by a **depository** with head office in Canada, who has filed an affidavit within the **12 months prior** to the determination stating:
+  - The number of shares held on behalf of the person/entity.
+  - That the person/entity’s latest address is in Canada.
+- **(c)** A shareholder has filed an affidavit within the 12 months stating they are a Canadian.
+
+> These provisions allow for **practical, administratively feasible** determination of ownership while reducing the burden on corporations.
+
+---
+
+### 2. **Exclusion of Shares When Doubt Exists**
+If directors have **information indicating** that a shareholder (registered or through a depository) is **not a Canadian**, they **must not include** those shares in the determination **until**:
+- They receive a valid **affidavit or declaration** confirming the beneficial owner is a Canadian and remains so under the regulations.
+
+> This creates a **due diligence requirement** and prevents overstatement of Canadian ownership.
+
+---
+
+## **Temporary Qualification Periods (Post-Implementation)**
+
+During the **first six months** after the regulations come into force:
+
+- Any corporation that **does not have actual knowledge** that non-Canadians beneficially own or control **more than 33⅓%** of its voting shares is **automatically considered a "qualified corporation"** for that period.
+- Similarly, any corporation under subsection 17(4) that does **not have knowledge** of non-Canadian ownership exceeding the authorized threshold is deemed to **satisfy ownership criteria** for that period.
+
+> This transitional rule provides **stability and flexibility** during implementation.
+
+---
+
+## **Loss of Qualified Corporation Status**
+
+If a corporation that previously filed an affidavit declaring itself a qualified corporation:
+- Acquires knowledge that **Canadian shareholders own less than 66⅔%** of voting shares,
+- And **no more than 5%** of the ownership drops below 66⅔% during the next 12 months,
+- Then it remains a **qualified corporation for 12 months** from the date of knowledge.
+
+> This **12-month grace period** allows time for corrective action without immediate penalties.
+
+**Conditions for continuation**:
+- The drop in Canadian ownership must not exceed 5% at any time.
+- The corporation must **notify the Canadian carrier in writing** upon becoming aware of the change.
+
+> If the corporation **loses qualification**, it must also **notify the carrier in writing** immediately.
+
+---
+
+## **Director’s Authority to Request Information**
+
+Directors of a Canadian carrier may, with **board authorization**, make a written request to various parties for affidavits or declarations to assess eligibility under **Section 16 of the Act** (which governs ownership eligibility).
+
+### Parties to whom a request may be made:
+
+| Party | Required Information |
+|------|------------------------|
+| **Shareholder** (direct holder) | Identity of beneficial owner, whether Canadian, date of registration/acquisition, other relevant info; if confidentiality prevents disclosure, state whether owner is or is not Canadian. |
+| **Shareholder of a parent company** | Same as above, but for shares in a parent entity. |
+| **Trustee** (of a trust that holds shares) | Identity of each trustee, beneficial interest of each beneficiary, whether each is Canadian, date of acquisition, confidentiality statement. |
+| **Mutual Insurance Company** | Head office location, board members, which are Canadians, date of acquisition. |
+| **Partnership** | Identity of each partner, which are Canadians, beneficial interest, date of acquisition, confidentiality statement. |
+| **Pension Fund Society** | Head office, board members, which are Canadians, date of acquisition. |
+| **Depository** | Identity and address of each person/entity on whose behalf it holds shares, number of shares, whether each is Canadian, date of transfer, confidentiality statement. |
+| **Intermediary** | Identity and address of each person/entity on whose behalf it holds shares, number of shares, whether Canadian, date of transfer, confidentiality statement. |
+
+> Directors may request **any or all** of the above information, and may rely on **affidavits or declarations** even if confidentiality prevents full disclosure.
+
+> The **purpose** is to determine whether the carrier meets the ownership criteria under Section 16 of the Act.
+
+---
+
+## **Key Objectives and Policy Implications**
+
+### 1. **National Security and Sovereignty**
+- Prevents foreign entities from gaining **controlling influence** over essential telecommunications infrastructure.
+- Ensures **Canadian control** over services that affect national communication, public safety, and economic stability.
+
+### 2. **Transparency and Accountability**
+- Requires **detailed disclosure** of beneficial ownership through affidavits.
+- Establishes **clear

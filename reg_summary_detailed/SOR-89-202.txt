@@ -1,0 +1,153 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the provided regulation, which revokes an old Export Control List and establishes a new one under Canada’s *Export and Import Permits Act*.
+
+---
+
+## 📜 **Regulatory Summary: Revocation and Establishment of the Export Control List (S.C. 1987, c. 15, s. 26)**
+
+### 🔍 **Overview**
+On **July 14, 1987**, Her Excellency the Governor General in Council, acting on the recommendation of the Secretary of State for External Affairs, **revoked the previous Export Control List** (C.R.C., c. 601) and **established a new, updated Export Control List** under **Section 3 and Section 6 of the Export and Import Permits Act**.
+
+This regulation defines the scope, applicability, and exceptions for **goods and technologies subject to export controls** in Canada. It reflects international agreements and national security interests, particularly in the areas of **dual-use items, nuclear materials, firearms, and agricultural products**.
+
+---
+
+## 📚 Key Provisions and Structure
+
+### 1. **Definitions**
+The regulation introduces two foundational definitions used throughout the list:
+
+| Term | Definition |
+|------|-----------|
+| **Guide** | A *Guide to Canada’s Export Control List*, published by the Department of Foreign Affairs, Trade and Development (DFATD), as amended from time to time. This serves as the interpretive framework for the control list. |
+| **Wassenaar Arrangement** | The international list of *dual-use goods and technologies* and *munitions* adopted in 1996 by the Wassenaar Arrangement (a multilateral export control regime). It includes items with both civilian and military applications. Amendments are applied as they occur. |
+
+> ⚠️ Note: The Guide and Wassenaar Arrangement are critical for interpreting which goods fall under export control.
+
+---
+
+## 🚨 **Export Control Scope (Subject to Control)**
+
+The following goods and technologies are subject to export control **based on their intended destination and classification**:
+
+---
+
+### ✅ **Group 1: Goods under Wassenaar Arrangement**
+- All goods and technologies described in **Group 1 of the Guide**.
+- Canada has agreed to control these items **in accordance with the Wassenaar Arrangement**.
+- Applies to **all destinations** unless otherwise specified.
+
+> 📌 This group includes dual-use technologies (e.g., advanced electronics, chemicals, software) that could be used for both civilian and military purposes.
+
+---
+
+### ✅ **Group 2: Firearms and Related Items**
+Applies to **firearms and related technologies**, with specific exceptions and conditions:
+
+#### a) **General Controls**
+- All firearms (as defined in the *Criminal Code*, Section 2) **except antique firearms** (as defined in subsection 84(1) of the *Criminal Code*).
+- Excludes **antique firearms** (i.e., those manufactured before 1938, unless otherwise defined).
+
+#### b) **Prohibited or Restricted Firearms**
+- Includes firearms:
+  - Listed in **Part 1 of the Firearms Regulations** (prohibited or restricted);
+  - Designed to discharge a projectile at:
+    - Muzzle velocity **> 152.4 m/s**, or
+    - Muzzle energy **> 5.7 joules**.
+- Also includes **smooth-bore weapons**, **automatic weapons**, and **projectors** described in **items 2-1 and 2-2.a of the Guide**.
+
+#### c) **Exemptions for Pre-1938 Weapons**
+- **Smooth-bore weapons, automatic weapons, or projectors**:
+  - Used for **hunting or sporting purposes**;
+  - Manufactured **before 1938**;
+  - Are **not antique firearms**; or
+  - Use **non-centre fire cased ammunition**.
+
+> 🔍 *Note: These exceptions are limited and require verification of origin, use, and compliance with the Inter-American Convention on Firearms.*
+
+---
+
+### ✅ **Group 3: Nuclear Materials and Technologies**
+Applies to **nuclear-related goods and technologies** under two international frameworks:
+
+#### a) **Treaty on the Non-Proliferation of Nuclear Weapons (NPT)**
+- Canada is a signatory to the NPT (entered into force March 5, 1970).
+- Controls all nuclear-related items in accordance with the treaty.
+
+#### b) **Nuclear Suppliers Group (NSG) Guidelines**
+- Applies to transfers governed by:
+  - **INFCIRC/254/Rev.14/Part 1** (for nuclear materials and equipment);
+  - **INFCIRC/254/Rev.11/Part 2** (for nuclear-related dual-use equipment, materials, software, and technology).
+
+#### ❌ **Exclusions (Non-Controlled Items)**
+Certain items containing small amounts of nuclear materials are **exempt** from control, including:
+
+| Exempt Item | Conditions |
+|-----------|------------|
+| Natural or depleted uranium ≤ 4 grams | In a sensing component (e.g., detectors) |
+| Alloys < 5% thorium | For non-nuclear use |
+| Thorium-containing ceramics | Manufactured for non-nuclear use |
+| Medicinal substances | Containing source material |
+| Trace amounts | Found on contaminated items (clothing, shielding, packaging) |
+| Source material used only in civil non-nuclear applications | E.g., shielding, packaging, ballasts, counterweights, alloy/ceramic production |
+| Special fissionable material ≤ 4 effective grams | In sensing components |
+| Plutonium-238 | In heart pacemakers only |
+
+> 📌 **Effective Grams Formula** (for calculating weight of enriched uranium or plutonium):
+> - **Plutonium isotopes or U-233**: Isotope weight in grams.
+> - **Uranium enriched ≥1% U-235**: Element weight × (enrichment)^2.
+> - **Uranium enriched <1% U-235**: Element weight × 0.0001.
+
+> ⚠️ *Source material and special fissionable material are defined per NSG Guidelines.*
+
+#### ✅ **Deuterium and Heavy Water**
+- **Deuterium**, **heavy water (D₂O)**, or any compound where **deuterium-to-hydrogen ratio > 1:5,000**.
+- Only if the Minister determines it is destined for use in a **nuclear reactor capable of maintaining a controlled self-sustaining fission chain reaction**.
+
+> 🚫 This means deuterium is controlled only when used in nuclear reactors — not for general industrial or scientific purposes.
+
+---
+
+### ✅ **Group 4: Nuclear-Related Dual-Use Equipment and Technology**
+- Applies to goods and technologies under the **NPT** and **NSG Guidelines (INFCIRC/254/Rev.11/Part 2)**.
+- Covers dual-use equipment (e.g., centrifuges, reactors, software) that can be used in nuclear programs.
+
+> 📌 This group overlaps with Group 3 but focuses more on **equipment and technology** rather than raw materials.
+
+---
+
+### ✅ **Agricultural and Food Products (Specific Exports)**
+
+#### 1. **Wood Products**
+- **All logs of all species of wood** → Export to **all destinations**.
+- **Pulpwood of all species** → Export to **all destinations**.
+- **Red cedar blocks, bolts, blanks, boards** → Suitable for manufacturing shakes or shingles → Export to **all destinations**.
+
+> 🔍 These are controlled due to potential use in military or construction applications.
+
+#### 2. **Softwood Lumber Products**
+- Exports to the **United States** only.
+- Based on **Annex 1A to the Softwood Lumber Agreement (2006)**, as amended to October 12, 2015.
+- **Excludes** items listed in **paragraphs 3 to 5** of Annex 1A.
+- **Paragraph 5 is read without reference to item (e)** (i.e., specific conditions are waived).
+- **Tariff references**: HTSUS classifications are interpreted as **Canadian tariff classifications** (Annex 1B).
+- All references to "imported" are replaced with "exported" in both English and French versions.
+
+> ⚠️ This reflects a trade agreement with the U.S. and includes export quotas and conditions.
+
+#### 3. **Skim Milk Powders, Milk Protein Concentrates, and Infant Formulas**
+- **Skim milk powders** (subheading 0402.10)
+- **Milk protein concentrates** (subheading 0404.90)
+- **Infant formulas** with >10% cow’s milk solids (subheading 1901.10)
+- → Export to **all destinations**
+
+> ⚠️ *Note: This provision was repealed in SOR/2013-12, s. 2 — so it is likely outdated or superseded.*
+
+#### 4. **Peanut Butter**
+- Classified under **tariff item 2008.11.10** in the Customs Tariff.
+- Export to **United States only**.
+
+> ⚠️ *Repealed in SOR/2013-12, s. 2 — likely no longer in force.*
+
+---
+
+### ✅ **Sugar-

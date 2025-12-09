@@ -1,0 +1,112 @@
+Certainly. Below is a **detailed, clear, and comprehensive summary** of the provided regulation — the *Telesat Canada Remission Order* under the *Income Tax Act* (Canada), issued in 1991.
+
+---
+
+### **Detailed Summary of the Telesat Canada Remission Order**
+
+#### **1. Legal Basis and Authority**
+- The Order is made by **His Excellency the Governor General in Council**, acting on the **recommendation of the Minister of Finance**.
+- It is issued under **subsection 23(2)a of the Financial Administration Act**, which empowers the Governor General to make remission orders when it is in the public interest.
+- The Order specifically applies to **Telesat Canada**, a Canadian satellite company, and relates to tax treatment of the disposition (sale or disposal) of an old satellite and the acquisition of a replacement satellite.
+
+---
+
+#### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Income Tax Act* (the primary tax legislation governing income taxation in Canada). |
+| **Former Property** | The **Anik E1 satellite**, which Telesat Canada disposed of and received proceeds from, as specified in paragraph 13(4)(a) of the *Income Tax Act*. This is the original asset being replaced. |
+| **Replacement Property** | The satellite acquired by Telesat Canada to replace the Anik E1. This new asset is treated as a "replacement" under the tax rules. |
+
+> These definitions are critical because they establish the scope of the remission — it applies only to the specific satellite (Anik E1) and its replacement.
+
+---
+
+#### **3. Purpose of the Remission**
+
+The Order grants a **tax remission** (i.e., a reduction or forgiveness of tax liability) to Telesat Canada for the **taxation years 1996 and all subsequent years**.
+
+##### **What is being remitted?**
+The remission is equal to the **excess** of:
+- The **actual tax payable** under **Part I and Part I.3** of the *Income Tax Act* (which cover income tax and interest/penalties), **plus interest and penalties**,  
+over  
+- The **hypothetical tax payable** if the tax rules had been interpreted differently — specifically, if:
+
+> - The expression **“the second taxation year following the initial year”** in **clause 13(4)(c)(ii)(A)** and **paragraph 44(1)(c)** of the *Income Tax Act* were read as **“the taxation year that includes December 31, 1999”**, and  
+> - Telesat Canada had made a **valid election** under **subsection 13(4)** of the Act regarding both the disposal of the former property (Anik E1) and the acquisition of the replacement property.
+
+This means:
+- The remission is not a blanket refund but a **specific adjustment** to tax liability based on a change in interpretation of the law.
+- The tax would have been lower had the rules been interpreted more favourably — specifically, by treating the replacement property as qualifying for a different timing rule (instead of the "second year after initial year", it would be treated as being in the year ending December 31, 1999).
+
+> This change effectively **shifts the tax consequences of the replacement** from a later year (e.g., 2000) to an earlier year (1999), reducing the tax burden on Telesat Canada in later years.
+
+---
+
+#### **4. Conditions for the Remission**
+
+The remission is **not automatic** — it comes with **strict conditions** that must be met for Telesat Canada to benefit from it.
+
+##### **Condition 1: No Deduction for Replacement Property Cost (Unless Permitted)**
+- In calculating income or loss for the years 1996 and beyond, **Telesat Canada may not claim a deduction for the cost of the replacement property**.
+- The only exception is if the **tax rules (subsection 13(4) and section 44)** had been interpreted in accordance with **paragraph 2(b) of this Order**, and if Telesat Canada had made a **valid election** under subsection 13(4).
+- This means: Telesat must **not** deduct the cost of the new satellite as a business expense unless the rules are read in a way that allows such a deduction — which is only permitted under the specific interpretation in this Order.
+
+> This condition ensures that the remission does not allow Telesat to gain a tax advantage through cost deductions that would otherwise be available — it keeps the tax treatment aligned with the intended interpretation.
+
+##### **Condition 2: Treatment of Disposition of Replacement Property**
+- If Telesat Canada later **sells or disposes of the replacement property**, the tax treatment must be applied as if:
+  - Subsection 13(4) and section 44 of the *Income Tax Act* had been **interpreted in accordance with paragraph 2(b) of this Order**, and
+  - Telesat Canada had made a **valid election** under subsection 13(4) regarding both the original disposal and the acquisition of the replacement.
+
+> This ensures consistency: the tax treatment of the sale of the replacement satellite is tied to the same favorable interpretation that underpins the remission.
+
+---
+
+#### **5. Key Implications and Rationale**
+
+- **Public Interest Justification**: The Governor General acted on the recommendation of the Minister of Finance, indicating that the remission serves a broader public interest — possibly related to encouraging investment in critical infrastructure (like satellite communications) or ensuring fair treatment of companies in complex capital restructuring.
+  
+- **Tax Policy Interpretation**: The Order effectively **reinterprets a technical provision** in the *Income Tax Act* — specifically, the timing of when a replacement asset is considered for tax purposes. By changing “the second year after the initial year” to “the year including December 31, 1999,” the tax liability is reduced, and the burden is shifted earlier.
+
+- **Election Requirement**: Telesat Canada must have made an election under subsection 13(4) — a procedural requirement that ensures the benefit is not taken for granted. This election must be made **as and when required**, indicating it is not a one-time action but an ongoing obligation.
+
+- **Fiscal Neutrality**: The remission is **not a general tax break**. It is a targeted correction to a specific rule misapplication, ensuring that Telesat Canada is not unfairly taxed due to a technical ambiguity in the law.
+
+- **Forward-Looking Treatment**: The Order ensures that **future dispositions** of the replacement property are treated consistently with the original interpretation — preventing tax complications in future years.
+
+---
+
+#### **6. Scope and Limitations**
+
+- **Applies only to:**
+  - The **1996 taxation year and all subsequent years**.
+  - The **Anik E1 satellite** and its **replacement**.
+- **Does not apply to other assets or companies**.
+- **Does not reduce other tax liabilities** outside of the specified Part I and Part I.3 provisions.
+- **Does not extend to other types of property** or transactions.
+
+---
+
+### **Conclusion**
+
+The *Telesat Canada Remission Order* is a **targeted, legally grounded adjustment** to the taxation of a specific capital transaction involving the replacement of a satellite (Anik E1) with a new one. It:
+
+- Grants a **tax remission** in years 1996 and beyond, equal to the difference between actual tax liability and a hypothetical lower tax liability under a revised interpretation of the law.
+- Requires Telesat Canada to **forfeit certain deductions** for the cost of the replacement satellite unless the rules are interpreted as specified.
+- Mandates that **future dispositions** of the replacement satellite are treated under the same favorable interpretation.
+
+This Order reflects a careful balance between **tax fairness**, **legal interpretation**, and **public interest**, ensuring that a company engaged in a major technological transition is not unfairly penalized by a technical misapplication of tax rules.
+
+---
+
+### **In Plain Language:**
+
+> Telesat Canada sold its old satellite (Anik E1) and bought a new one. Under normal tax rules, they would have had to pay tax on the gain in a later year. But this Order says: *"If the rules had been read differently — specifically, if the tax year for the replacement was changed to 1999 — Telesat would have paid less tax."*  
+> So, the government is **remitting (forgiving)** the difference between what Telesat actually paid and what they would have paid under that different rule.  
+> However, Telesat **cannot claim a deduction** for the cost of the new satellite unless the rules are interpreted this way. And if they ever sell the new satellite, the tax rules must be applied as if they made the required election under the law.
+
+---
+
+This Order remains a significant example of how Canadian tax policy can be used to **correct technical inconsistencies** in legislation and support **strategic investments** in key industries like telecommunications.

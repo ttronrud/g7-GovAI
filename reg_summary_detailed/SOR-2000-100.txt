@@ -1,0 +1,153 @@
+**Detailed Summary of the Federal-Provincial Fiscal Arrangements Regulations, 1999 (as amended and in force)**
+
+---
+
+### **Overview**
+
+The *Federal-Provincial Fiscal Arrangements Regulations, 1999* (S.C. 1999, c. 31, s. 93) are a set of rules established under **section 40a of the Federal-Provincial Fiscal Arrangements Act**. These regulations govern the **fiscal equalization payments** made by the federal government to provinces and the **recovery of overpayments** that arise due to methodological revisions in key data used to calculate those payments.
+
+Importantly, **these regulations were repealed in 2007** (SOR/2007-303, s. 43), indicating they are no longer in force. However, the content provided appears to be a **draft or historical version** of the regulations, possibly from a transitional or interim phase, and may reflect provisions that were temporarily enacted before full replacement or repeal.
+
+Despite the repeal, this summary provides a comprehensive analysis of the **provisions, structure, purpose, and key financial mechanisms** contained in the original text.
+
+---
+
+## **Key Provisions and Structure**
+
+The regulations are organized around several core themes:
+
+1. **Recovery of Overpayments from Provinces**
+2. **Methodological Revisions of Data and Their Impact**
+3. **Adjustments to Equalization and Transfer Payments**
+4. **Recovery Timelines and Caps**
+5. **Definitions and Data Sources**
+6. **Specific Financial Amounts for Provinces**
+7. **Effective Dates and Exceptions**
+
+---
+
+## **1. Recovery of Overpayments Due to Methodological Revisions**
+
+### **Purpose**
+To ensure that provinces do not receive **unjustified overpayments** in fiscal equalization or Canada Health and Social Transfer (CHST) due to **improvements in statistical methodologies** used to calculate population or capital stock data.
+
+### **Key Provisions:**
+
+- **Section 1 (General Recovery Rule)**  
+  If a methodological revision (e.g., improved statistical methodology for residential net capital stock) occurs **before April 1, 2003**, and results in a **higher equalization payment**, the **overpayment must be recovered** from the province.
+
+- **Definition of "Methodological Revision"**  
+  A revision resulting from **planned research or development** to improve statistical methodology — *not* from data updates or benchmarking without changing the methodology.
+
+- **Residential Net Capital Stock Data**  
+  This is the key metric used in equalization calculations. It reflects the value of housing stock owned by residents.
+
+- **Calculation of Overpayment**  
+  The overpayment is the difference between:
+  - The equalization estimate based on **pre-revision** residential net capital stock data  
+  - The estimate based on **post-revision** residential net capital stock data  
+  → This is calculated under **paragraph 8(1)(a)** of the main regulations.
+
+- **Recovery Period**  
+  Overpayments are recovered in **equal monthly installments** from **April 1, 2003 to March 31, 2008**.
+
+- **Cap on Recovery**  
+  If the total overpayment (including other recoveries under section 24) exceeds the **limit set in subsection 24(2)**, the recovery under this part is **reduced by the excess**.
+
+- **Deferral of Outstanding Balances**  
+  Any balance remaining after adjustments is **deferred to the next fiscal year**.
+
+- **Exception for April 1, 2007 Balance**  
+  Any balance outstanding on **April 1, 2007** (after adjustments) must still be recovered in equal monthly installments until **March 31, 2008**.
+
+---
+
+## **2. Adjustments for Post-Coming-Into-Force Revisions (Before March 1, 2003)**
+
+### **If revisions occur after the regulations came into force (March 15, 2000) and before March 1, 2003**:
+
+- **For provinces that previously received overpayments**:  
+  The overpayment amount is **increased** by the value of any additional overpayment due to the new revision.
+
+- **For provinces that did not previously receive overpayments**:  
+  The new overpayment is **recovered under this regulation** (i.e., not waived).
+
+- **If a revision reduces an overpayment**:  
+  The recovery amount is **adjusted downward** accordingly.
+
+> ⚠️ **Note**: Subsections (4) to (7) remain in force even after these adjustments — meaning the recovery schedule and caps still apply.
+
+---
+
+## **3. Further Estimate of Equalization and CHST (March 15, 2004)**
+
+### **Purpose**
+To correct overpayments or underpayments caused by **population data revisions**.
+
+### **Key Provisions:**
+
+- The Minister must issue a **further estimate** of equalization and CHST payments by **March 15, 2004**.
+- This estimate uses the **June 1, 2000 population** from the **1996 Census** (not the 2001 census).
+- Any overpayment or underpayment resulting from this estimate is **settled on the first and third working days after March 15, 2004**.
+
+### **Subsequent Estimates Use 2001 Census Data**
+- From fiscal years beginning **April 1, 2001 onward**, all interim and final calculations use the **June 1, 2001 census population**:
+  - For **fiscal equalization**: paragraph 8(3)(c) and subsection 9(2)
+  - For **Canada Health and Social Transfer**: subsection 5(7)
+
+---
+
+## **4. Recovery of Overpayments from Population and Tax Revisions**
+
+### **Trigger Events**:
+The Minister must recover overpayments due to:
+
+1. **Revision of provincial population** (June 1, 2001 census)
+2. **2002 federal individual income tax and corporate taxable income** (assessed as of December 31, 2003)
+
+### **Applicable Fiscal Years**:
+- April 1, 2000 to April 1, 2003
+
+### **Recovery Schedule**:
+- Overpayments are recovered in **equal monthly installments** from **April 1, 2006 to March 31, 2016**
+
+### **Per Capita Cap**:
+- If the total recovery exceeds **$120 per capita** of the province’s population, the recovery is **reduced by the excess**.
+
+> This cap prevents excessive recovery, especially in large provinces with high populations.
+
+---
+
+## **5. Specific Overpayment Amounts by Province**
+
+The regulations specify **exact overpayment amounts** for each province in two categories:
+
+### **A. Fiscal Equalization Overpayments (by paragraph 1(a) and 1(b))**
+
+| Province | 1(a) | 1(b) |
+|--------|------|------|
+| Newfoundland & Labrador | $139,110,000 | $11,902,000 |
+| Prince Edward Island | $35,708,000 | $-14,257,000 |
+| Nova Scotia | $109,298,000 | $62,709,000 |
+| New Brunswick | $59,393,000 | $98,681,000 |
+| Quebec | $-69,207,000 | $1,143,311,000 |
+| Manitoba | $-123,609,000 | $161,734,000 |
+| Saskatchewan | $188,112,000 | $-13,685,000 |
+| British Columbia | $343,478,000 | $389,289,000 |
+
+> Negative values indicate **underpayments** (the province received less than it should have).
+
+---
+
+### **B. Canada Health and Social Transfer (CHST) Overpayments (by paragraph 1(a) and 1(b))**
+
+| Province | 1(a) | 1(b) |
+|--------|------|------|
+| Newfoundland & Labrador | $29,585,000 | $8,767,000 |
+| Prince Edward Island | $5,915,000 | $2,162,000 |
+| Nova Scotia | $26,149,000 | $14,720,000 |
+| New Brunswick | $15,465,000 | $11,816,000 |
+| Quebec | $27,874,000 | $117,415,000 |
+| Ontario | $-85,025,000 | $-140,299,000 |
+| Manitoba | $-9,381,000 | $18,231,000 |
+| Saskatchewan | $30,668,000 | $31,

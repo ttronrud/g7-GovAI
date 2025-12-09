@@ -1,0 +1,168 @@
+**Detailed Summary of the Food Research and Development Centre Fees Order (SI/92-147, 1992)**
+
+---
+
+### **Overview**
+This regulation, officially titled the *Food Research and Development Centre Fees Order*, was issued on **July 30, 1992**, by **Bill McKnight, Minister of Agriculture**, under two legal authorities:
+
+1. **Order in Council P.C. 1992-1740** – authorizing the establishment of fees for services provided by the Centre.
+2. **Paragraph 19(1)(b) of the Financial Administration Act** – enabling the Minister to prescribe fees for services rendered by a federal department.
+
+The Order sets out the **fees payable by users** (external entities or individuals) who receive technical assistance or access to research and development (R&D) facilities at the **Food Research and Development Centre (FRDC)** located in **Saint-Hyacinthe, Québec**.
+
+The Order comes into effect on **September 1, 1992**, and establishes a tiered fee structure based on time, service type, and the nature of the materials being tested.
+
+---
+
+### **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Centre** | The Food Research and Development Centre of the Department of Agriculture at Saint-Hyacinthe, Québec. |
+| **Centre personnel** | Includes development assistants, research assistants, scientific professionals, and scientific researchers. |
+| **Cycle (in permeability test)** | The maximum number of samples that can be tested simultaneously on a given instrument. |
+| **First day of rest** | The day beginning immediately after midnight of the day following a member’s last normal workday. |
+| **Normal work day** | A 7.5-hour workday, excluding Saturdays and public holidays. |
+| **Overtime work** | Work performed by Centre personnel (excluding scientific researchers) outside a normal workday. |
+| **Permeability test** | A test used to evaluate how easily substances (e.g., gases, moisture) pass through food packaging materials. |
+| **Second day of rest** | The day beginning immediately after the first day of rest or after a paid holiday that follows the first day of rest. |
+| **User** | Any individual or organization that receives technical assistance or uses R&D facilities from the Centre. |
+
+---
+
+### **1. Base Facility Usage Fees (Per Hour or Part Thereof)**
+
+Users are charged a **per-hour fee** for access to the Centre’s R&D facilities. The rate increases annually:
+
+| Period | Fee per Hour |
+|--------|--------------|
+| Sept 1, 1992 – Aug 31, 1993 | $10.50 |
+| Sept 1, 1993 – Aug 31, 1994 | $21.00 |
+| Sept 1, 1994 – Aug 31, 1995 | $31.50 |
+| After Aug 31, 1995 | $42.00 |
+
+> **Note:** This rate applies to general use of facilities and is calculated on a **per hour or part thereof** basis (i.e., partial hours are charged at full hourly rate).
+
+**Minimum Fee Requirement**  
+There is a **minimum fee of $40** for any use of the Centre’s facilities, based on a **4-hour period**.  
+This ensures that even short visits are financially viable for the Centre.
+
+---
+
+### **2. Personnel Service Fees (by Role and Duration)**
+
+Users must pay for the time of Centre personnel based on their **job classification** and **duration of service**. These fees are detailed in **Schedule I**, which lists:
+
+| Role | Time Period | Rate (per hour or part thereof) |
+|------|-------------|-------------------------------|
+| Scientific researcher | (specific time period) | [Rate] |
+| Scientific professional | (specific time period) | [Rate] |
+| Research assistant | (specific time period) | [Rate] |
+| Development assistant | (specific time period) | [Rate] |
+
+> The rates are **tiered** and **time-bound**, meaning the fee depends on:
+> - The specific role of the personnel,
+> - The length of time the user requires their services,
+> - The applicable rate listed in Schedule I.
+
+> **Note:** The schedule is not fully reproduced here, but it is implied that different roles have different hourly rates, with scientific researchers likely being the most expensive due to their expertise.
+
+---
+
+### **3. Overtime Work Fees**
+
+Overtime is defined as work performed beyond a normal 7.5-hour workday. Fees are **tiered** depending on the day and type of work:
+
+#### **On a Normal Workday:**
+- **First 7.5 hours of overtime**: 1.5 × applicable rate (from Schedule I)
+- **Next 9 hours of overtime**: 2 × applicable rate
+
+#### **On a First Day of Rest:**
+- **First 7.5 hours of overtime**: 1.5 × applicable rate
+- **Next 16.5 hours of overtime**: 2 × applicable rate
+
+> *Note:* A "first day of rest" is the day after a normal workday ends, not a holiday. The increased overtime rate reflects the disruption to personnel schedules.
+
+#### **On a Second Day of Rest or Any Subsequent Day of Rest:**
+- **All overtime work**: 2 × applicable rate
+
+> This reflects higher compensation for work during rest days, which are considered non-standard working hours.
+
+---
+
+### **4. Permeability Test Fees**
+
+Permeability testing is a specialized service to assess how food packaging materials allow substances (like oxygen or moisture) to pass through. The fee is calculated using a **formula**:
+
+$$
+\text{Total Fee} = (\text{Number of Cycles} \times \text{Basic Cycle Rate}) + (\text{Number of Samples} \times \text{Basic Sample Rate}) + \$60 \text{ (data analysis/report)}
+$$
+
+#### **Breakdown of Components:**
+
+| Component | Description |
+|---------|-------------|
+| **Number of cycles** | The number of samples tested simultaneously (i.e., how many samples can be processed at once on the instrument). |
+| **Basic cycle rate** | - $398 per cycle if testing a **film** (e.g., plastic wrap) <br> - $1,013 per cycle if testing a **rigid container** (e.g., plastic bottles, cans) |
+| **Number of samples** | Total number of samples being tested. |
+| **Basic sample rate** | - $43 per sample for **film** <br> - $103 per sample for **rigid container** |
+| **Base amount** | A fixed fee of **$60** for data analysis and preparation of a formal report. |
+
+> **Example Calculation (Film):**
+> - 2 cycles, 5 samples
+> - Cycle cost: 2 × $398 = $796
+> - Sample cost: 5 × $43 = $215
+> - Report cost: $60
+> - **Total = $1,071**
+
+> **Example Calculation (Rigid Container):**
+> - 3 cycles, 4 samples
+> - Cycle cost: 3 × $1,013 = $3,039
+> - Sample cost: 4 × $103 = $412
+> - Report cost: $60
+> - **Total = $3,511**
+
+> This structure ensures that users pay fairly based on both the complexity of testing (number of cycles) and the volume of samples.
+
+---
+
+### **Key Provisions and Implications**
+
+1. **Progressive Pricing Model**  
+   The base facility fee increases over time, reflecting inflation or rising operational costs. This is a common approach in public sector R&D fee structures.
+
+2. **Minimum Fee Protection**  
+   The $40 minimum ensures that the Centre does not lose revenue from very short visits, protecting its operational viability.
+
+3. **Differentiated Service Pricing**  
+   The fee structure recognizes the **value of different personnel roles** and **types of services**. Scientific researchers are likely charged more due to their expertise.
+
+4. **Overtime Compensation**  
+   The tiered overtime rates acknowledge that working during rest days is more disruptive and costly to personnel, thus justifying higher compensation.
+
+5. **Specialized Testing Pricing**  
+   The permeability test formula is detailed and transparent, allowing users to estimate costs accurately before engaging in testing.
+
+6. **Transparency and Accountability**  
+   The regulation clearly defines all fees, rates, and conditions, promoting fairness and transparency in the Centre’s service pricing.
+
+---
+
+### **Legal and Administrative Context**
+
+- The Order is **self-executing** and binds all users of the Centre.
+- It is **subject to section 5**, which likely outlines conditions for review, appeal, or modification (e.g., changes due to inflation, policy shifts, or administrative review).
+- It is published in the *Canada Gazette, Part II*, on July 30, 1992, making it officially enforceable.
+
+---
+
+### **Conclusion**
+
+The *Food Research and Development Centre Fees Order* establishes a **comprehensive, fair, and transparent fee system** for users of the Centre’s technical services and R&D facilities. It balances the need for:
+
+- **Sustainable funding** for the Centre,
+- **Fair compensation** for personnel,
+- **Clear cost predictability** for users,
+- **Recognition of service complexity** (especially in permeability testing).
+
+The structure reflects both **oper

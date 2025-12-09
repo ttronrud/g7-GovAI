@@ -1,0 +1,140 @@
+**Detailed Summary of the *Liquefied Petroleum Gases Bulk Storage Regulations***
+
+---
+
+### **1. Regulation Title and Scope**
+The *Liquefied Petroleum Gases Bulk Storage Regulations* (hereinafter referred to as the "Regulations") establish comprehensive safety, design, construction, and operational standards for **stationary bulk storage facilities** of liquefied petroleum gases (LPGs) located on railway right-of-way or leased land under the jurisdiction of a regulatory commission.
+
+These regulations apply to:
+- **New installations** and **additions or modifications** to existing ones.
+- Installations on **railway-owned or leased property**.
+- Facilities that store LPG in bulk (i.e., large-volume tanks), **excluding small cylinders**.
+
+> ⚠️ **Exemption**: Installations with a total water capacity of **2,000 Imperial gallons or less** (measured at 60°F) are exempt from certain provisions—provided they otherwise comply with all other applicable requirements.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Design Pressure** | Synonymous with *Maximum Allowable Working Pressure (MAWP)* as defined in the **ASME Boiler and Pressure Vessel Code (Unfired Pressure Vessels)**. |
+| **Filling Density** | Percentage of the maximum allowable liquid weight divided by the water capacity of the tank (at 60°F), multiplied by 100. Limits are based on fire safety standards (e.g., NFPA 58). |
+| **Liquefied Petroleum Gases (LPGs)** | Gases derived from petroleum or natural gas that are liquid under pressure. Common types: propane, butane, propylene, isobutane, butylenes. |
+| **Main Track** | A track operated by timetable, train order, or block signaling; used for regular train operations. |
+| **Owning/Operating Company** | The entity owning or operating the facility, which applies for Commission approval on behalf of itself. |
+| **Private Track** | Tracks not owned by the carrier, either through lease or written agreement; treated as equivalent to ownership. |
+| **Team Track** | A track used by multiple companies or entities for loading/unloading purposes. |
+| **Shall** | Mandatory requirement (must be followed). |
+| **Should** | Recommended guidance (not legally binding). |
+
+---
+
+### **3. Regulatory Requirements for Construction and Approval**
+
+#### **3.1. Pre-Construction Approval Required**
+- No construction of LPG storage facilities may begin without **prior written approval from the Commission**.
+- Approval is obtained via an application submitted to the **Secretary of the Commission**.
+
+#### **3.2. Required Documentation**
+Applications must include **four copies of detailed plans and profiles**, complying with sections 8–13. Key requirements:
+
+##### **Plan Requirements:**
+- Scale:  
+  - Plan: **Not less than 50 feet to 1 inch**  
+  - Profile: **Not less than 20 feet to 1 inch**
+- Must be dated, bear an identification number, and include the applicant’s name.
+- Must show distances from:
+  - Loading/unloading rack or point to:
+    - Nearest rail (gauge side) of loading/unloading track
+    - Schools, hospitals, residential areas, public assembly places within **250 ft**
+    - Engine houses, railway shops, grain elevators, etc., within **150 ft**
+  - Centre line of loading/unloading track to:
+    - Nearest rail of main track
+    - Nearest rail of adjacent non-serving track
+  - Location of:
+    - All tanks, pumphouses, warehouses, structures
+    - Property boundaries
+    - Adjacent tracks, roads, pipelines, sewers, ditches, watercourses
+    - Right-of-way and fences
+
+##### **Profile Requirements:**
+- Shows elevation of installation relative to loading/unloading track and main track within **200 ft** of nearest tank.
+- A **second profile** is required if:
+  - Drainage direction needs to be shown
+  - Major site features require clarity
+
+##### **Notes/Legend Must Include:**
+1. **Written confirmation** from the **Provincial Fire Marshal or local authority** that they have no objection to the installation.
+2. **Statement** that tank design has been approved by the **Pressure Vessel Inspection Branch (PVIB)** of the provincial government before fabrication.
+3. Size, contents, and water capacity (in Imperial gallons) of all tanks.
+4. Type and construction of buildings (pumphouse, warehouse, vapourizer house, etc.).
+5. Type of motive power (e.g., diesel engine) for pumps/compressors.
+6. Type of heating used for vapourizers.
+7. Whether the serving tracks are **team tracks** or **private tracks**.
+
+#### **Recordkeeping**
+- After Commission approval, the railway company must **retain copies of all drawings**:
+  - For the **entire life** of the facility
+  - For **at least two years after decommissioning**
+
+---
+
+### **4. Minimum Distances and Spatial Requirements**
+
+All distances are measured from the **gauge side of the nearest rail** (main track or adjacent track), unless otherwise specified.
+
+| Feature | Minimum Distance |
+|--------|------------------|
+| **Loading/Unloading Track to Main Track** | **50 feet** |
+| **Loading/Unloading Track to Adjacent Non-Serving Track** | **20 feet** (50 feet if adjacent track is a main track) |
+| **Overhead Structures >4 ft above rail** | **6 feet** from gauge side |
+| **Overhead Structures ≤4 ft above rail** | **3 feet 7¼ inches** (3 feet 10 inches in Newfoundland) |
+| **Curved tracks** | Add **1 inch per degree of curvature** to clearance |
+| **Loading/Unloading Terminal (height <4 ft)** | **6 feet** from gauge side |
+| **Loading/Unloading Rack to Public Assembly (station, office, etc.)** | **200 feet** |
+| **Rack to Schools, Hospitals, Residential Areas** | **Recommended: 200 feet** |
+| **Rack to Engine Houses, Railway Shops, Grain Elevators** | **100 feet** (unless exempt) |
+| **Rack to Company-Exclusive Buildings** | **10 feet** |
+| **Storage Tank to Nearest Rail (any track)** | **20 feet** (from nearest point on tank shell) |
+| **Tank to Main Track (gauge side)** | As per specific subsections below |
+
+#### **Distances from Tanks to Other Structures**
+
+| Scenario | Minimum Distance |
+|--------|------------------|
+| **Tank to Highway Right-of-Way** | **Half the distance** prescribed in subsection (2) (i.e., half of 50 ft = 25 ft) |
+| **Tank >2,000 gal capacity to other property (buildable)** | **50 feet** |
+| **Tank ≤2,000 gal capacity to other property** | As per **NFPA 58** (current edition) |
+| **Tank >2,000 gal to public assembly (station, office)** | **400 feet** |
+| **Tank >2,000 gal to schools, hospitals, theatres, residential areas** | **Recommended: 400 feet** |
+| **Tank ≤2,000 gal to public assembly** | As per **NFPA 58** |
+| **Tank >2,000 gal to engine houses, shops, grain elevators** | **200 feet** |
+| **Tank ≤2,000 gal to such buildings** | As per **NFPA 58** |
+| **Tank >100 gal to company-exclusive buildings** | **10 feet** |
+| **Tank ≤100 gal to building opening at same level or below** | **5 feet** |
+| **Building posing a hazard to storage area** | **50 feet** from closest tank >100 gal |
+| **Tank to installation fence** | **5 feet** |
+| **Clear distance between two tanks >2,000 gal** | **5 feet** |
+| **LPG tank to flammable liquid tank** | **20 feet** |
+| **LPG installation >150,000 gal capacity to above-ground flammable liquid storage** | **100 feet** |
+| **LPG tank in diked area with flammable liquid** | **10 feet** from dike centerline |
+| **Tanks of different groups (per Section 22)** | **25 feet** apart |
+
+> ✅ **Exception**: Where physical distances cannot be achieved due to terrain or site constraints, the Commission may approve **lesser distances** if:
+> - Suitable **fire barrier walls** are installed
+> - Effective **fire control systems** (e.g., sprinklers, detection) are in place
+
+---
+
+### **5. Tank Design, Construction, and Safety Standards**
+
+#### **5.1. Foundation Requirements**
+- Tanks must be securely installed on **solid foundations**:
+  - Steel or concrete
+  - Reinforced concrete footings extending **below frost line**, or on **bedrock**
+- Foundations must be **wide and thick enough** to support the tank and its contents
+- **Provision for thermal expansion/contraction** required
+- **Only two saddles** allowed on horizontal tanks
+- **Steel saddles** need not be fireproofed if:
+  - Tank capacity ≤500 Imperial gallons **or**

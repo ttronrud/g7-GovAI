@@ -1,0 +1,122 @@
+**Detailed Summary of the Form of Proxy (Banks and Bank Holding Companies) Regulations, 2023**
+
+---
+
+### **Overview**
+
+The *Form of Proxy (Banks and Bank Holding Companies) Regulations, 2023* are a set of regulatory rules made under **Section 156.071a of the Bank Act** (S.C. 2019, c. 29, s. 90; S.C. 1991, c. 46), by Her Excellency the Governor General in Council, on the recommendation of the Minister of Finance. These regulations establish the **required format and content** for **management proxy circulars** and **dissident’s proxy circulars** issued by banks and bank holding companies in Canada.
+
+The primary objective of these regulations is to **ensure transparency, consistency, and fairness** in shareholder communications during proxy solicitations—particularly in matters involving governance, director elections, and shareholder proposals—while also providing **flexibility for certain exempted or non-distributing institutions**.
+
+---
+
+## **Key Definitions and Interpretations**
+
+### 1. **Definitions in the Regulations**
+- **Act**: Refers to the *Bank Act*.
+- **Management Proxy Circular**: A formal communication sent by the bank’s management (e.g., board or officers) to shareholders to propose certain matters for vote at a shareholders’ meeting (e.g., director elections, mergers).
+- **Dissident’s Proxy Circular**: A communication sent by a shareholder (or group) opposing management’s proposals, seeking to solicit proxies to vote against or in favor of specific actions (e.g., alternative transactions, dissenting views).
+- **NI 51-102**: Refers to *National Instrument 51-102 – Takeover Bids and Proxy Solicitations*, which governs proxy solicitation practices. The applicable version is determined based on provincial jurisdiction as outlined in a table referenced in the regulation.
+
+> **Note**: All references to "form of proxy" in NI 51-102 are interpreted under the *Bank Act* definition of "form of proxy" (Section 2), and "securityholder" is interpreted as "shareholder" (Section 7).
+
+---
+
+## **Core Provisions**
+
+### **1. Form and Compliance Requirements**
+
+> **Section 1**: A management or dissident proxy circular must comply with the **form and content requirements** set out in **Form NI 51-102F5 – Information Circular**, as prescribed under the *National Instrument 51-102*.
+
+#### Exceptions to Full Compliance:
+- **Exemption from Items 8–10 and Item 16** of Form NI 51-102F5 applies if:
+  - The bank or bank holding company is **not a "distributing bank" or "distributing bank holding company"** as defined in the *Distributing Bank and Distributing Bank Holding Company Regulations*; or
+  - The institution is **exempted** under **subsection 2.4(2) or (3)** of the *Bank Act*.
+
+> This provides **practical flexibility** for smaller or non-distributing institutions that do not have the same level of public disclosure obligations.
+
+---
+
+### **2. Interpretation of Key Terms in Form NI 51-102F5**
+
+All references in the form are interpreted through the lens of the *Bank Act*, including:
+- **Affiliate**: As defined in Section 2 of the Act.
+- **Subsidiary**: As defined in Section 2 of the Act.
+- **Beneficial Ownership**: As defined in Section 2 of the Act.
+- **Company**: Refers to either a bank or a bank holding company (as defined in Section 2).
+- **Security**: As defined in Section 2 of the Act.
+- **Control**: As defined in Section 3 of the Act.
+- **Securityholder**: Interpreted as "shareholder" under Section 7 of the Act.
+
+> This ensures **consistency with the Bank Act’s definitions** and avoids ambiguity in shareholder communications.
+
+---
+
+### **3. Mandatory Content in Management Proxy Circulars**
+
+A management proxy circular must include the following **specific information and documents**:
+
+| Requirement | Description |
+|-----------|-------------|
+| **Vote Thresholds** | The percentage of votes required to approve any proposed matter (e.g., director elections, mergers). |
+| **Board Approval Statement** | A signed statement by a director or officer confirming that the board has approved the content and sending of the circular. |
+| **Deadline for Proposals** | For proposals under **Section 143 or 732 of the Bank Act**, the deadline by which such proposals must be received by the bank or holding company. |
+| **Insurance Information** | For every purchase of insurance under **Section 213** (directors and officers insurance):<br>• Total amount purchased (for directors/officers)<br>• Premium paid (total or per category)<br>• Premium paid by directors/officers<br>• Summary of clauses (e.g., co-insurance, deductibles) that expose the bank to liability beyond premiums. |
+| **Indemnification Details** | For every indemnification paid or payable under **Section 212(1)** during the year:<br>• Name and job title of the person indemnified<br>• Amount paid or payable<br>• Circumstances leading to indemnification. |
+| **Right to Dissent** | An explanation of the shareholder’s right to dissent under **Section 277 of the Bank Act**. |
+| **Audited Financial Statements** | If a comparative annual financial statement is included and audited:<br>• Statement confirming audit and compliance with accounting principles (Section 308(4) or 840(4)).<br>• If not audited, a signed report by the CFO or directors stating that statements were prepared in accordance with applicable accounting principles. |
+
+> These provisions enhance **transparency and accountability**, especially regarding risk exposure and governance practices.
+
+---
+
+### **4. Mandatory Content in Dissident’s Proxy Circulars**
+
+A dissident’s proxy circular must include:
+- A **signed statement** by the dissident (or an authorized representative) confirming that they have approved the content and sending of the circular.
+
+> **Exception**: If the dissident lacks access to required information and cannot reasonably obtain it, the circular must include a **clear explanation** of why the information is unavailable.
+
+> This protects dissident shareholders from being misled or unfairly disadvantaged due to information gaps.
+
+---
+
+### **5. Exclusions from “Prescribed Circumstances” (Solicitation Exemption)**
+
+Under **paragraph (1)(a)**, certain communications **do not count as "solicitations"** under the *Bank Act*, and therefore **do not require a formal proxy circular**—provided they meet specific criteria.
+
+These include:
+
+| Type of Communication | Conditions |
+|------------------------|----------|
+| **Public Forum Speeches** | A speech in a public forum (e.g., conference, lecture) does not constitute solicitation. |
+| **Press Releases / Broadcasts** | Opinions, statements, or ads published via broadcast, phone, electronic media, or general publications (e.g., newspapers) are not solicitation if made to the public. |
+| **Advisory Communications** | Communications from a person giving **proxy voting advice** in the ordinary course of business are exempt if:<br>• The advisor discloses significant relationships with the bank, its affiliates, or shareholders with proposals under Section 143(1);<br>• The advisor receives **special commission/remuneration only from the shareholder** receiving advice;<br>• The advice is **not given on behalf of a solicitor or nominee** for director election. |
+| **Non-Seeking Entities** | Communications from a person who does **not seek to act as proxy** for any shareholder are exempt. |
+
+> **Important Exception**: These exemptions **do not apply** if:
+- The shareholder is an **officer or director** of the bank and the communication is **financed by the bank**;
+- The shareholder is a **nominee** or proposes a nominee for director election;
+- The communication is in **opposition to a board-approved transaction** and proposes an alternative involving the shareholder or their affiliate;
+- The shareholder has a **material interest** in the vote outcome that would not be shared pro rata with other shareholders (except for employment-related benefits).
+
+> This ensures **protection against self-dealing or conflicts of interest** in proxy solicitations.
+
+---
+
+## **Repeal of Previous Regulations**
+
+> The **Form of Proxy (Banks and Bank Holding Companies) Regulations, 2001 (SOR/2001-390)** are **repealed** by this 2023 regulation.
+
+This marks a **modernization and consolidation** of proxy rules, aligning them with updated governance standards and the current version of NI 51-102.
+
+---
+
+## **Effective Dates**
+
+- **All sections except Sections 4 and 5** come into force on the day of **registration** of the 2023 regulations.
+- **Sections 4 and 5** come into force on:
+  - The day that **subsection 27(2) of the *Act to amend certain Acts in relation to financial institutions* (Chapter 54 of the Statutes of Canada, 2005)** comes into force; **or**
+  - If the regulations are registered after that date, then on the **day of registration**.
+
+> **Note**: Sections 4 and 5 came into force on **July 11, 20

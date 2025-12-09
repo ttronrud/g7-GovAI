@@ -1,0 +1,168 @@
+**Detailed Summary of the *Shipbuilding Temporary Assistance Program Regulations***
+
+---
+
+### **1. Title and Citation**
+The regulation is officially titled the **Shipbuilding Temporary Assistance Program Regulations** and may be cited as such. It serves as a framework for providing financial assistance (shipbuilding grants) to Canadian shipbuilders for the construction of eligible vessels.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Approved Cost of an Eligible Ship** | The cost of a vessel determined by the Minister under subsection 6(3). This is the basis for calculating the shipbuilding grant. |
+| **Completed** | A vessel is considered completed when a certificate of registry has been issued for it. |
+| **Contract** | A written agreement between a shipbuilder and a shipowner for the construction of one or more vessels, requiring a deposit of at least 5% of the contract price (or 5% of the first vessel's price if multiple vessels are involved). |
+| **Contract Date** | The later of: (a) the date the contract is signed, or (b) the date the deposit is paid by the shipowner. |
+| **Contract Price** | The total amount payable by the shipowner to the shipbuilder under the contract. |
+| **Eligible Ship** | A vessel declared by the Minister under subsection 4(3) as eligible for funding under these regulations. |
+| **Gross Tonnage** | Defined as per the *Canada Shipping Act*. |
+| **Maximum Approved Cost** | The maximum cost assigned by the Minister under subsection 6(5), which caps the approved cost of a vessel. |
+| **Minister** | The Minister of Industry, Trade and Commerce. |
+| **Proceeds of Disposition** | As defined in paragraph 13(21)(d) of the *Income Tax Act* — the amount received from the sale or disposal of an asset. |
+| **Shipbuilder** | A Canadian citizen or a Canadian-incorporated company engaged in building ships in Canada. |
+| **Shipbuilding Grant** | The financial assistance paid to a shipbuilder for an eligible ship, as per these regulations. |
+| **Vessel** | Any commercial or scientific vessel meeting specific tonnage or size thresholds: |
+| &nbsp;&nbsp;– ≥100 GT for self-propelled vessels |  
+| &nbsp;&nbsp;– ≥200 GT for non-self-propelled vessels |  
+| &nbsp;&nbsp;– ≥50 GT for tugs |  
+| &nbsp;&nbsp;– ≥2 GT for submersibles operating at ≥1,000 feet depth |  
+| &nbsp;&nbsp;– >75 feet in length for fishing vessels |
+
+> *Note: These definitions establish the eligibility criteria for vessels to qualify for funding.*
+
+---
+
+### **3. Scope and Historical Context**
+- These regulations apply **only to vessels whose construction began before November 27, 1970**, and whose **contract date is on or before March 31, 1975**.
+- The regulation has been **revoked** (SOR/78-842, s.1), indicating it is no longer in force — likely superseded by newer legislation or programs.
+
+> ⚠️ **Important Note**: Despite the detailed content, the regulation is **no longer active**. The revocation in 1978 means that these rules do not currently govern shipbuilding grants in Canada.
+
+---
+
+### **4. Grant Eligibility and Application Process**
+
+#### **Eligibility Conditions**
+- A vessel must:
+  - Be constructed in Canada by a Canadian shipbuilder.
+  - Be registered in a country **other than Canada** (exceptionally allowed).
+- The Minister may declare a vessel eligible even if it will be registered abroad, provided certain conditions are met.
+
+#### **Ministerial Considerations Before Declaration**
+Before declaring a vessel eligible, the Minister must assess:
+1. Benefits to Canada from using Canadian materials and components.
+2. Whether the shipbuilder can fulfill the contract without over-expanding facilities.
+3. Availability of shipbuilding capacity for domestic needs.
+4. Long-term competitive strength of the shipbuilder and Canadian shipbuilding industry.
+5. Market development implications of the contract.
+
+#### **Application Requirements**
+- Applications must follow the form prescribed by the Minister.
+- Must be submitted **within 60 days of the contract date**, or a longer period allowed by the Minister.
+
+---
+
+### **5. Grant Amounts (by Vessel Size and Contract Date)**
+
+The grant is a percentage of the **approved cost** of the vessel, with tiered rates based on:
+- Size of vessel (≤25,000 GT or >25,000 GT)
+- Contract date (phased over time)
+
+#### **For vessels ≤25,000 GT:**
+| Contract Date Period | Grant Rate |
+|----------------------|-----------|
+| ≤ September 30, 1971 | 17% |
+| October 1, 1971 – December 31, 1971 | 16½% |
+| January 1, 1972 – March 31, 1972 | 16% |
+| April 1, 1972 – March 31, 1973 | 15½% |
+| April 1, 1973 – March 31, 1975 | 17% |
+
+#### **For vessels >25,000 GT:**
+| Contract Date Period | Grant Rate |
+|----------------------|-----------|
+| ≤ September 30, 1971 | 14% |
+| October 1, 1971 – December 31, 1971 | 13½% |
+| January 1, 1972 – March 31, 1972 | 13% |
+| April 1, 1972 – March 31, 1973 | 12½% |
+| April 1, 1973 – March 31, 1975 | 17% |
+
+> 🔍 **Note**: The rate increases significantly after April 1973 for all vessels, especially larger ones — suggesting a policy shift to encourage continued investment.
+
+---
+
+### **6. Determination of Approved Cost**
+
+The approved cost is determined as the **lower of two values**:
+1. The **maximum approved cost** (set by the Minister).
+2. The **cost verified by audit** under paragraph 7(b).
+
+#### **Maximum Approved Cost Formula**
+The Minister calculates the maximum approved cost by dividing the **contract price** by a multiplier, depending on the grant category:
+
+| Grant Type | Multiplier |
+|----------|------------|
+| (1a, e) or (2e) | 0.830 |
+| (1b) | 0.835 |
+| (1c) | 0.840 |
+| (1d) | 0.845 |
+| (2a) | 0.860 |
+| (2b) | 0.865 |
+| (2c) | 0.870 |
+| (2d) | 0.875 |
+
+> 💡 This means the approved cost is **reduced** (typically by 15–20%) from the contract price to reflect a cap on funding — protecting public funds.
+
+---
+
+### **7. Grant Payment Structure**
+
+All agreements must include the following provisions:
+
+#### **Progress Payments**
+- Up to **80% of the total grant** may be paid **before completion** of the vessel, based on the **maximum approved cost**.
+- For **multi-vessel contracts**, an additional progress payment is made **after each vessel is completed**, subject to interim audit by the **Audit Services Bureau (Department of Supply and Services)**.
+- The amount of such payments must be reasonable and provide adequate protection to Her Majesty’s interests.
+
+#### **Final Payment**
+- The **remaining balance** of the grant is paid **after all vessels are completed** and a full audit has been conducted.
+
+#### **Audit Requirements**
+- A full audit must be performed post-completion.
+- For multi-vessel projects, **interim audits** are required during construction.
+- Audits **exclude profit** when determining approved cost — ensuring only actual construction costs are considered.
+
+#### **Mandatory Undertakings**
+- Shipbuilders must commit to using **Canadian materials, components, and equipment** whenever they are available and internationally competitive.
+
+#### **Other Provisions**
+- The Minister may include additional terms deemed necessary to protect public interests or achieve the program's objectives.
+
+---
+
+### **8. Minister’s Discretionary Powers**
+
+The Minister has broad authority to:
+- **Authorize others** to sign agreements on behalf of the government.
+- **Investigate** the financial responsibility of shipowners or shipbuilders to assess eligibility or approved cost.
+- **Prescribe application forms** and **make rules** governing grant applications.
+
+---
+
+### **9. Adjustment for Replacement Vessels**
+
+In cases where:
+- A vessel is replaced using **proceeds of disposition** (e.g., proceeds from sale), or
+- A deposit is paid out under Income Tax Act provisions (subsections 13(19)),
+
+The **approved cost of the replacement vessel** is reduced by the amount used or paid out — **proportional to the original proceeds or deposit**.
+
+> This prevents double-counting of funds and ensures that the grant is not inflated by asset replacements.
+
+---
+
+### **10. Key Policy Objectives**
+
+The regulations were designed to:
+- Support Canadian shipbuilding

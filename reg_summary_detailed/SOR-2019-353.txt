@@ -1,0 +1,172 @@
+### **Detailed Summary of the Vaping Products Labelling and Packaging Regulations**
+
+The **Vaping Products Labelling and Packaging Regulations** were enacted by Her Excellency the Governor General in Council, on the recommendation of the Minister of Health, under several key provisions of federal legislation:
+
+- **Sections 17a and 33b of the Tobacco and Vaping Products Act (TVPA)**  
+- **Section 37d of the Canada Consumer Product Safety Act (CCPSA)**
+
+These regulations establish **mandatory labelling and packaging requirements** for all vaping products intended for retail sale or distribution in Canada. The rules apply to both **vaping devices** and **vaping substances**, with specific focus on **nicotine concentration**, **health warnings**, and **language accessibility**, while also setting strict standards for **display format, visibility, and permanence**.
+
+---
+
+## **I. Scope and Applicability**
+
+### 1. **Applicable Products**
+- Applies to **every vaping product intended for retail sale in Canada**, including its packaging.
+- Applies to **vaping products offered at retail points of sale** (e.g., stores, vending machines), even if not sold directly through a traditional store.
+- **Exclusions**:
+  - Does **not apply** to vaping products subject to the **Food and Drugs Act** (e.g., certain medical or pharmaceutical products).
+
+### 2. **Types of Vaping Products Covered**
+- Vaping devices (e.g., e-cigarettes)
+- Vaping parts (e.g., coils, tanks)
+- Vaping substances (e.g., e-liquids)
+- Refillable products (used to refill other vaping devices)
+- Products packaged in kits (collections of two or more vaping products)
+
+> **Note**: The regulations distinguish between **exterior packaging** (visible to consumers) and **interior packaging** (e.g., blister packs), and exclude shipping containers, liners, or outer boxes not visible during normal sale/use.
+
+---
+
+## **II. Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Display Surface** | The visible surface area of a vaping product or package where labelling can appear. Excludes bottom, seams, or convex/concave edges. |
+| **Exterior Package** | The outermost visible package that contains the vaping product and is displayed to consumers. |
+| **Interior Package** | The innermost package (e.g., blister pack) directly containing the vaping product. |
+| **Main Display Panel** | The largest visible surface area under normal sale conditions. Defined differently based on shape: <br> - Rectangular: largest side <br> - Cylindrical: larger of top area or 40% of circumference × height <br> - Bag: largest side <br> - Other: largest surface ≥40% of total display surface |
+| **Manufacturer** | Excludes entities that only package or label products on behalf of a manufacturer. |
+| **Vaping Device / Part / Substance** | As defined in the TVPA. |
+
+> All required information must be in **both official languages (English and French)** and displayed in the same manner.
+
+---
+
+## **III. Mandatory Labelling Requirements**
+
+### 1. **Nicotine Concentration Statement**
+
+#### **Requirement:**
+Every vaping product containing nicotine **must display** a nicotine concentration statement.
+
+#### **Format:**
+- Must read: **"Nicotine — X mg/mL"**  
+  (e.g., "Nicotine — 18 mg/mL")
+
+#### **Display Location:**
+| Product Type | Display Location |
+|------------|------------------|
+| **Unpackaged** (e.g., standalone device) | Main display panel OR on a tag |
+| **Packaged** (single unit) | Main display panel of **exterior package** |
+| **Packaged in multiple layers** | On main display panel of **vaping device/part** OR **interior package** |
+| **Refill product** | On main display panel of refill product |
+| **Refill product in kit** | On main display panel of **refill product**; if packaged, also on exterior package |
+| **Product in a kit** | On main display panel of the **kit** |
+| **Multiple products with same nicotine level** | Displayed **only once** on the kit’s main display panel |
+
+#### **Positioning Rules:**
+- If the product’s identity (common name or function) is shown under the **Consumer Packaging and Labelling Act**, the nicotine statement must appear **immediately below** that name or function.
+
+#### **Font Requirements:**
+- **Standard sans-serif type** (not compressed, expanded, or decorative)
+- **Black on white background**
+- **Large x-height** (relative to ascenders/descenders)
+- **Uniform font and size** across all characters
+- **Minimum font size** based on main display panel area:
+  - ≥45 cm² → **3 mm height, 8 pt body**
+  - 10–45 cm² → **2 mm height, 6 pt body**
+  - <10 cm² → **1.5 mm height, 4.5 pt body**
+
+> Font height is measured from the top of an uppercase letter (e.g., "B") or lowercase letter with ascender/descender (e.g., "p").
+
+---
+
+### 2. **Health Warning**
+
+#### **Requirement:**
+Every vaping product containing nicotine **must display a mandatory health warning**.
+
+#### **Source of Warning:**
+- The **List of Health Warnings for Vaping Products**, published and updated by **Health Canada** on its official website.
+
+> Example warnings include statements such as:
+> - “Vaping is not a safe alternative to smoking.”
+> - “Vaping may still cause harm, including to your lungs and heart.”
+
+#### **Display Rules:**
+
+| Product Type | Display Location |
+|------------|------------------|
+| **Unpackaged** | Main display panel OR on a tag |
+| **Packaged** | Main display panel of **exterior package** |
+| **Exterior package <15 cm²** | Can be displayed elsewhere on display surface OR in a leaflet |
+| **Multiple packaging layers** | - If interior package has ≥15 cm² → on interior package or device <br> - If <15 cm² → elsewhere on interior package OR in leaflet |
+| **Refill product** | On main display panel of refill product <br> - If <15 cm² → on tag |
+| **Refill product in kit** | On refill product or interior package (if <15 cm²) OR on tag |
+| **Kit containing nicotine products** | On main display panel of kit <br> - Only **once** if multiple products have same warning |
+
+#### **Font and Style Requirements:**
+- **First word in uppercase and bold**
+- Remaining text in **sentence case**, not bold
+- Both official languages must be displayed **side-by-side** (immediately beside or below each other)
+- Must appear on the **same main display panel** (for products with one main panel)
+- **Must not exceed** the boundaries of the main display panel (for cylindrical products)
+- For cylindrical or rectangular shapes: must be fully visible without manipulation
+- For products with ≥45 cm² main display:
+  - Health warning must occupy **at least 35%** of the panel
+- For products with <45 cm²:
+  - Minimum font size: **2 mm height, 6 pt body**
+
+> Font height measured using standard rules (e.g., from top of "b" or "p").
+
+#### **Attribution of Health Warning**
+- Must include:
+  - **"Health Canada"** beside or below English version
+  - **"Santé Canada"** beside or below French version
+- Attribution must:
+  - Be in the **same font and size** as the health warning
+  - Not be bold
+  - Not be larger than the health warning
+  - Have **no intervening image or text**
+  - Be clearly visible and directly adjacent
+
+---
+
+### 3. **Permitted Expressions (Non-Mandatory)**
+
+Only **one** of the following expressions may appear on a vaping product — **but only if the product contains no nicotine**:
+
+| Expression | English | French |
+|---------|--------|--------|
+| "Nicotine-free" | Nicotine-free | Sans nicotine |
+| "No nicotine" | No nicotine | Aucune nicotine |
+| "Does not contain nicotine" | Does not contain nicotine | Ne contient pas de nicotine |
+
+#### **Conditions for Use:**
+- Applies **only to vaping substances** (e.g., e-liquids) that **do not contain nicotine**
+- Does **not apply** to vaping devices or parts that contain nicotine
+
+#### **Display Rules:**
+- Must appear **only on the display surface** of the product or its package
+- Must be in **both official languages**
+- Must be displayed in the **same manner** as required health warnings
+- Must not be concealed or obscured by other required information
+
+> These expressions are **not mandatory** and are intended to provide consumer clarity about the absence of nicotine.
+
+---
+
+## **IV. Display and Visibility Standards**
+
+### 1. **Prohibition of Damage or Concealment**
+- The **customary method of opening** a vaping product or package **must not**:
+  - Sever, damage, or render illegible any required information or permitted expression
+- Applies to **interior packages** (e.g., blister packs) — **exemption applies** under subsection (1)
+
+### 2. **Irremovability**
+- All required information and permitted expressions must be **irremovable** (cannot be scratched, peeled, or altered)
+
+### 3. **Leaflets and Tags**
+- **Leaflets**:
+  -

@@ -1,0 +1,109 @@
+Certainly. Below is a **detailed and structured summary** of the regulation titled:
+
+---
+
+## **Subsidiaries That Hold Insurance Holding Company Shares Regulations**  
+**Statutory Authority:**  
+His Excellency the Governor General in Council, on the recommendation of the Minister of Finance, pursuant to **section 1021a of the Insurance Companies Act**  
+**Citation:** S.C. 2001, c. 9, s. 465; S.C. 1991, c. 47  
+**Effective Date:** October 24, 2001 (as noted in SI/2001-102)  
+**Coming into Force:** On the day section 753 of the Insurance Companies Act comes into force, as enacted by section 465 of the *Financial Consumer Agency of Canada Act*, Chapter 9 of the Statutes of Canada, 2001.
+
+---
+
+### **Purpose of the Regulation**
+This regulation establishes specific conditions under which **subsidiaries of an insurance holding company** may hold shares in the parent insurance holding company. It aims to:
+- Ensure appropriate oversight of shareholding structures within insurance holding companies;
+- Prevent excessive concentration of ownership that could compromise financial stability or governance;
+- Allow for flexibility in certain circumstances—such as underwriting activities—where subsidiaries are involved in share distributions.
+
+---
+
+### **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Insurance Companies Act* (ICA), the primary legislation governing insurance companies in Canada. |
+| **Distribution** | Defined in two parts: <br>1. A trade (buying or selling) by or on behalf of an insurance holding company in **newly issued securities** (shares); <br>2. A trade in **previously issued securities** by any person or group acting in concert who holds **more than 10% of any class of voting shares** of the insurance holding company. |
+| **Regulated Securities Entity** | A financial institution whose primary business is dealing in securities and is regulated in its securities activities under: <br>– An Act of Parliament or a provincial legislature; <br>– Or the laws of a foreign country. |
+
+> *Note:* This definition is crucial because it identifies which subsidiaries are eligible to hold shares under the regulation.
+
+---
+
+### **Core Provisions**
+
+#### **1. General Limit on Shareholding by Regulated Subsidiaries**
+Under **section 753(c)** of the *Insurance Companies Act*, an insurance holding company may permit a subsidiary that is a **regulated securities entity** to hold shares of the holding company — **provided** that:
+
+- The **aggregate value** of shares held by **all such subsidiaries** (that are regulated securities entities)  
+  → **does not exceed 1% of the regulatory capital** of the insurance holding company.
+
+> **Exclusion:** Shares referred to in **section 755 of the Act** are excluded from this 1% cap.
+
+> *Regulatory Capital* = The capital amount set by regulators to ensure financial stability and solvency of the insurance holding company.
+
+#### **2. Exception During Share Distribution (Underwriting Activity)**
+If a subsidiary of the insurance holding company:
+- Is a **regulated securities entity**, and  
+- Is acting as a **securities underwriter** in connection with a **distribution** (i.e., issuance or sale of new shares) of the insurance holding company,
+
+Then the insurance holding company may **permit the subsidiary to hold shares in excess of the 1% limit** — **until the distribution is completed**.
+
+> This exception is designed to support legitimate underwriting activities and avoid disrupting the process of raising capital through share issuance.
+
+> The excess holding is **temporary** and only applies during the period of the distribution.
+
+---
+
+### **Governance and Compliance Implications**
+
+- The regulation applies to **all insurance holding companies** and their **subsidiaries**.
+- The **parent insurance holding company** retains responsibility for ensuring compliance with the shareholding limits.
+- The **regulatory capital** is a key benchmark — it ensures that even if subsidiaries hold shares, the overall financial health of the holding company is not compromised.
+- The rule is designed to **prevent conflicts of interest**, **avoid excessive control**, and **maintain transparency** in ownership structures.
+
+---
+
+### **Regulatory Context and Background**
+
+- These regulations were introduced in response to concerns about **ownership concentration** and **potential conflicts of interest** in insurance holding company structures.
+- The 1% cap aligns with broader regulatory objectives to ensure **financial stability**, **separation of business functions**, and **protection of policyholders**.
+- The temporary exception for underwriting activities recognizes the practical realities of capital-raising operations.
+
+---
+
+### **Effective Date and Implementation**
+
+- The regulation **comes into force** on the day that **section 753 of the Insurance Companies Act** is activated, as amended by **section 465 of the Financial Consumer Agency of Canada Act (S.C. 2001, c. 9)**.
+- This means it became effective on **October 24, 2001**, as per the statutory instrument SI/2001-102.
+
+---
+
+### **Summary in Plain Language**
+
+This regulation sets clear rules for how subsidiaries of insurance holding companies can own shares in the parent company:
+
+- **Normally**, subsidiaries that are regulated securities firms (like broker-dealers) can only hold shares worth **up to 1% of the parent’s regulatory capital**.
+- **Exception**: If a regulated subsidiary is underwriting a share issuance (selling new shares), it can temporarily hold **more than 1%** of shares until the distribution ends.
+- The rules are designed to **protect the financial integrity** of the insurance holding company while allowing **flexibility in business operations** like capital raising.
+
+---
+
+### **Key Takeaways**
+
+| Feature | Detail |
+|--------|--------|
+| **Applicable Entities** | Insurance holding companies and their regulated securities subsidiaries |
+| **Shareholding Limit** | 1% of regulatory capital (excluding shares under section 755) |
+| **Exception** | Temporary lifting of limit during share distribution (underwriting) |
+| **Purpose** | Prevent ownership concentration, ensure financial stability, promote transparency |
+| **Enforcement** | Governed by the Insurance Companies Act and overseen by regulators (e.g., the Office of the Superintendent of Financial Institutions) |
+
+---
+
+This regulation is a critical component of Canada’s regulatory framework for insurance holding companies, balancing **prudential oversight** with **operational flexibility** in capital markets activities.
+
+--- 
+
+Let me know if you'd like a version tailored for internal compliance teams, regulators, or investors.

@@ -1,0 +1,232 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the provided regulation, which is part of the *Greenhouse Gas Pollution Pricing Act* (GGPRA), specifically focusing on definitions and key provisions related to the **fuel charge system**, **exemptions**, **rebates**, and **specific fuel classifications**.
+
+---
+
+## 🔍 **Comprehensive Summary of the Greenhouse Gas Pollution Pricing Act (GGPRA) – Definitions and Fuel Charge System Provisions**
+
+This regulation establishes key definitions and operational rules for the **fuel charge system** under the *Greenhouse Gas Pollution Pricing Act* (GGPRA), particularly concerning the pricing of fossil fuels, the use of renewable alternatives, exemptions for certain activities, and rebate mechanisms for exports or inter-provincial movements.
+
+---
+
+### 📌 1. **Core Definitions**
+
+#### ✅ **Act**
+- Refers to the *Greenhouse Gas Pollution Pricing Act* (GGPRA), which sets the framework for carbon pricing in Canada.
+
+---
+
+#### ✅ **Bio-Aviation Fuel**
+A renewable fuel used in aviation that must meet the following criteria:
+- Derived **entirely from biological matter** (e.g., plants, algae) available on a renewable or recurring basis.
+- May contain **up to 1% water** by volume.
+- May contain **up to 6% other non-biological substances** (e.g., additives, solvents), provided they are not otherwise specified.
+- Must be **suitable for use in aircraft engines** when:
+  - Used alone,
+  - Blended with aviation gasoline or aviation turbo fuel,
+  - Blended with aviation gasoline-like or turbo fuel-like blendstocks to produce those fuels.
+
+> ⚠️ Purpose: Encourages the use of low-carbon aviation fuels to reduce emissions from air travel.
+
+---
+
+#### ✅ **Eligible Greenhouse**
+A greenhouse (or structure) used primarily for growing:
+- Vegetables, fruits, bedding plants, flowers, ornamental plants,
+- Tree seedlings, medicinal plants, or other plants.
+
+> ✅ Must be used for **plant cultivation** and not for industrial or non-agricultural purposes.
+
+---
+
+#### ✅ **Eligible Greenhouse Activity**
+The use of **qualifying greenhouse fuel** (natural gas or propane) to:
+- Heat an eligible greenhouse, or
+- Supplement carbon dioxide levels to enhance plant growth.
+
+> ✅ This activity qualifies for **exemptions or reduced charges** under the fuel charge system.
+
+---
+
+#### ✅ **Eligible Heating Activity**
+Use of **light fuel oil exclusively** for:
+- Providing heat to homes, buildings, or similar structures.
+- **Excludes** use in industrial processes (e.g., drying goods, manufacturing).
+
+> ⚠️ This is a **distinct exemption** from broader fuel charges, protecting residential heating.
+
+---
+
+#### ✅ **Export**
+Means **export from Canada** to another country.
+
+> Used in rebate provisions to prevent double-charging for fuels exported outside Canada.
+
+---
+
+#### ✅ **Fuel Charge System**
+As defined in subsection 168(1) of the Act — a system that applies a **carbon-based charge** on certain fossil fuels based on their greenhouse gas emissions. The charge varies by fuel type, province, and time.
+
+> Applies to fuels such as gasoline, diesel, kerosene, light fuel oil, and natural gas.
+
+---
+
+#### ✅ **Greenhouse Operator**
+A person who:
+- Operates a business growing plants in eligible greenhouses,
+- Has a **reasonable expectation of profit**.
+
+> This is a key eligibility criterion for **exemptions** from fuel charges.
+
+---
+
+#### ✅ **Main Electrical Network**
+The national electricity grid governed by the **North American Electric Reliability Corporation (NERC)** standards.
+
+> Used to define **remote communities** — areas not connected to this network.
+
+---
+
+#### ✅ **Qualifying Greenhouse Fuel**
+- Marketable natural gas or propane.
+> Used exclusively to heat greenhouses or supplement CO₂ for plant growth.
+
+---
+
+#### ✅ **Qualifying Power Plant Fuel**
+- Light fuel oil or marketable natural gas.
+> Used in **remote power plants** to generate electricity.
+
+---
+
+#### ✅ **Remote Community**
+A geographic area that:
+- Is **not connected** to the main electrical network,
+- Is **not served** by a distribution system.
+
+> These communities are eligible for special fuel pricing or exemptions due to limited infrastructure.
+
+---
+
+#### ✅ **Remote Power Plant**
+A power plant that:
+- Generates electricity for public distribution,
+- Is **not connected** to the main electrical network or distribution system,
+- Operates in a **remote community**.
+
+> Subject to specific fuel charge rules and may qualify for lower or exempted rates.
+
+---
+
+#### ✅ **Remote Power Plant Operator**
+A person who operates a remote power plant.
+
+---
+
+#### ✅ **Marketable Natural Gas (Modified Definition)**
+- Natural gas that meets **pipeline transport and sale standards** for general public distribution.
+> Excludes non-marketable gas (e.g., gas not suitable for pipeline transport).
+
+> This definition ensures only commercially viable gas is subject to the charge system.
+
+---
+
+### 📌 2. **Fuel Volume Adjustments (for Reporting Purposes)**
+
+These formulas adjust the **volume of fuel** when it contains renewable or low-carbon components.
+
+---
+
+#### 🔹 **Bio-Aviation Fuel Adjustment**
+If a fuel (aviation gasoline or aviation turbo fuel) contains **X% bio-aviation fuel**, the **volume is adjusted** using:
+
+> **Adjusted Volume (litres)** = (Volume at 15°C) × (1 + X%)  
+> (Note: The formula implies volume is increased proportionally to the bio-fuel content.)
+
+> Purpose: To reflect the **lower carbon intensity** of bio-fuels and ensure accurate emissions accounting.
+
+---
+
+#### 🔹 **Hydrogen in Natural Gas (Marketable or Non-Marketable)**
+If natural gas contains **X% hydrogen**, the **volume is adjusted** to:
+
+> **Adjusted Volume (cubic metres)** = (Volume at 15°C and 101.325 kPa) × (1 + X%)
+
+> Purpose: Hydrogen has a lower carbon footprint; this adjusts volume to reflect reduced emissions.
+
+---
+
+#### 🔹 **Hydrogen + Biomethane Combined (in Natural Gas)**
+If natural gas contains a **combined proportion of hydrogen and biomethane (X%)**, the volume is adjusted using the same formula:
+
+> **Adjusted Volume (cubic metres)** = (Volume at 15°C and 101.325 kPa) × (1 + X%)
+
+> Purpose: To account for **combined low-carbon components** in natural gas.
+
+> ✅ This allows for more flexible inclusion of renewable gases in emissions calculations.
+
+---
+
+### 📌 3. **Basic Rate and Interest Calculation**
+
+#### ✅ **Basic Rate (per quarter)**
+- Calculated as the **arithmetic mean** of the average equivalent yield (as a percentage per year) of **Government of Canada Treasury Bills** that:
+  - Mature approximately 3 months after issuance,
+  - Are sold at auction during the **first month of the quarter**.
+
+> Rounded **up to the next whole percentage** if not a whole number.
+
+> Example: If the mean is 2.3%, the basic rate becomes 3%.
+
+---
+
+#### ✅ **Prescribed Interest Rates (for fuel charges)**
+
+| Case | Interest Rate |
+|------|----------------|
+| Interest paid to Receiver General | Basic rate + 4% |
+| Interest paid to individuals (non-corporate) | Basic rate + 2% |
+| Interest paid to corporations | Basic rate only |
+| All other cases | Basic rate + 4% |
+
+> This structure ensures **fairness and administrative cost recovery** while differentiating treatment between individuals, corporations, and government.
+
+---
+
+### 📌 4. **Adjustment Days (for Rate Changes)**
+
+The following dates are designated as **adjustment days** (when the basic rate is recalculated):
+
+- July 1, 2019  
+- January 1, 2020  
+- April 1, 2020  
+- April 1, 2021  
+- April 1, 2022  
+- April 1, 2023  
+- July 1, 2023  
+- April 1, 2024  
+
+> These trigger updates to the **basic rate**, which affects the **fuel charge rate**.
+
+> ⚠️ Note: Some of these dates have been **repealed** (SOR/2025-107, s. 2), suggesting future updates may alter the schedule.
+
+---
+
+### 📌 5. **Exemption Adjustments (by Province and Fuel Type)**
+
+#### 🔹 **Adjustment for July 1, 2019**
+- For **Yukon or Nunavut**, the rate for certain fuels is **zero** (exemption).
+
+#### 🔹 **Adjustment for January 1, 2020**
+- For **Alberta**, the rate is **zero**.
+
+#### 🔹 **Adjustment for July 1, 2023**
+- For **Nova Scotia, New Brunswick, Prince Edward Island, or Newfoundland and Labrador**, the rate is **zero**.
+
+> These exemptions reflect **regional economic or environmental considerations** and are temporary or transitional.
+
+---
+
+### 📌 6. **Fuel Charge Rates (Post-March 31, 2023)**
+
+- The **rate for a fuel type in a listed province** is determined by **Table 5 in Schedule 2** of the Act.
+- The applicable rate is found in the column matching the **fuel type** and the

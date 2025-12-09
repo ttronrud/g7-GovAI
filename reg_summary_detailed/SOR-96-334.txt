@@ -1,0 +1,184 @@
+### **Detailed Summary of the Carriers Information Regulations (S.C., 1996, c. 10)**
+
+The **Carriers Information Regulations**, made under **Section 50 of the Canada Transportation Act**, are a set of administrative rules that establish the requirements for **air carriers, general aviation operators, and other transportation entities** to report detailed operational, financial, and safety-related data to **Transport Canada**. These regulations are designed to enhance transparency, support policy development, monitor market activity, and ensure compliance with national and international transportation standards.
+
+---
+
+## **I. Regulatory Authority and Legal Basis**
+
+- The regulations were **made by the Minister of Transport** and **approved by His Excellency the Governor in Council**.
+- Authority stems from **Section 50 of the Canada Transportation Act**, which empowers the Minister to issue regulations to collect information from carriers.
+- The regulations were originally enacted on **July 1, 1996**, and remain in force as amended (with some provisions repealed or updated over time).
+
+---
+
+## **II. Key Definitions**
+
+The regulations define critical terms used throughout the document:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Transportation Act*. |
+| **Aerodrome** | As defined in subsection 3(1) of the *Aeronautics Act*. |
+| **Crop Year** | As defined in *Section 2 of the Canada Grain Act*. |
+| **Grain** | As defined in *Section 147 of the Canada Transportation Act*. |
+| **Reporting Period** | The timeframe for which information must be submitted (e.g., annual, quarterly). |
+| **Vessel** | As defined in *Section 2 of the Canada Shipping Act, 2001*. |
+
+> **Note**: Unless otherwise specified, all references to forms or publications are to the **current version**, as amended over time.
+
+---
+
+## **III. Classification of Air Carriers**
+
+Carriers are categorized into five levels based on volume of operations or revenue, which determines the scope and frequency of reporting obligations.
+
+### **1. Large Air Carrier**
+- Operates **charter or scheduled services** that have transported **2 million or more passengers worldwide** in each of the two prior calendar years.
+- **Reporting obligations** include:
+  - Detailed **operational data** on every scheduled flight (take-off/landing) in Canada or abroad.
+  - **Financial information** (annual summary of assets and financial position).
+  - **Monthly reporting** of flight details (including delays, cancellations, diversions, and denied boarding).
+
+> *Note*: Includes flights operated by regional operators on behalf of the large carrier.
+
+### **2. Level I Air Carrier**
+- Canadian carrier that transported **≥2,000,000 revenue passengers or ≥400,000 tonnes of cargo** in the prior calendar year.
+- Must provide:
+  - Full **financial statements** (assets, depreciation, cash flows).
+  - **Operational data** on all scheduled flights (origin, destination, passenger/cargo counts, aircraft details).
+  - **Fuel consumption** data (domestic and international).
+  - **Itinerary details** for passengers (if over 600,000 revenue passengers transported in two years).
+
+### **3. Level II Air Carrier**
+- Transported **100,000–1,999,999 revenue passengers** or **50,000–399,999 tonnes of cargo**.
+- Must provide:
+  - Aggregated **quarterly passenger and freight data** by city-pair.
+  - **Flight destination data** (non-stop flights from each aerodrome).
+  - **Operational details** for scheduled flights (if operating aircraft >25,000 kg).
+
+### **4. Level III Air Carrier**
+- Not a Level I or II carrier; but generated **≥$2 million in gross revenue** from air services.
+- Reporting obligations:
+  - Financial statements (annual).
+  - Operational data if operating aircraft >25,000 kg or providing scheduled services.
+
+### **5. Level IV Air Carrier**
+- Not a Level I–III carrier; gross revenue < $2 million.
+- Reporting obligations:
+  - Financial statements (annual).
+  - Operational data only if operating aircraft >25,000 kg or providing scheduled services.
+
+> **Note**: Levels V–VI, *local*, and *regional* carriers have been **repealed** (SOR/2013-196, s.5).
+
+### **6. Small Air Carrier**
+- Any carrier (not large) operating a charter or scheduled service with **at least one aircraft carrying ≥70 passengers**.
+- Excludes aircraft used solely for charter services where seats are not resold to the public.
+
+### **7. Revenue Passenger**
+- A passenger for whom the carrier receives payment.
+- Includes:
+  - Passengers on promotional offers.
+  - Loyalty program redemptions.
+  - Corporate discounts.
+  - Compensation for denied boarding.
+
+### **8. Non-Revenue Passenger**
+- Passengers traveling for free (e.g., employees, agents) or without a seat (e.g., infants).
+
+### **9. Scheduled Service**
+- Service where seats or cargo space are sold to the public on a per-seat or per-unit basis.
+
+### **10. Charter Service**
+- Transportation under a contract where a third party reserves seats or cargo space for use or resale.
+
+---
+
+## **IV. Reporting Requirements by Carrier Type**
+
+### **A. Large Air Carriers (Level I)**
+Must provide:
+- **Monthly flight-level data** (for all passenger flights operating in or to Canada):
+  - Aircraft registration.
+  - Flight number, origin, destination.
+  - Scheduled and actual departure/arrival times.
+  - Take-off/landing times.
+  - Delay reasons (in minutes).
+  - Whether passengers were given the chance to disembark during a tarmac delay (>3 hours).
+  - Whether flight was cancelled or diverted.
+- **Aggregated flight segment data** (by route segment):
+  - Number of passengers denied boarding.
+  - Number who gave up seats voluntarily or involuntarily.
+  - Number who boarded.
+- **Operational data** per flight:
+  - Passenger and cargo capacity.
+  - Number of revenue/non-revenue passengers.
+  - Mass of freight and mail.
+  - Checked luggage (pieces and mass).
+  - Aircraft type (passenger/freighter).
+
+### **B. Level II, III, IV Carriers & Foreign Air Carriers**
+- **Scheduled Service (aircraft ≤25,000 kg)**:
+  - Quarterly aggregated data:
+    - Revenue passengers by city-pair (origin–destination).
+    - Freight and mail by route.
+    - Non-stop destinations from each aerodrome.
+- **Charter Service (aircraft ≥5,670 kg)**:
+  - Per-flight operational data:
+    - Date/time, origin/destination, passenger/cargo capacity.
+    - Number of revenue/non-revenue passengers (on-board or enplaned/deplaned).
+    - Mass of freight/mail.
+    - Checked luggage.
+    - Whether flight terminates at origin.
+    - Charter permit code (issued by Canadian Transportation Agency).
+
+### **C. Level I, II, III, IV Carriers (Cargo)**
+- If transported **>10,000 tonnes of cargo** in prior year:
+  - Must report **supply chain details**:
+    - If part of **Cargo 2000 program** (IATA): date/time/location of each shipment step.
+    - Otherwise: delivery and pickup dates/locations.
+
+### **D. General Aviation Operators**
+- Must report on aircraft used for non-recreational general aviation:
+  - **If any aircraft ≥5,670 kg**:
+    - Per-flight data:
+      - Departure/arrival aerodromes.
+      - Aircraft model and registration.
+      - Operator certificate type.
+      - Number of passengers and cargo on board.
+  - **If all aircraft <5,670 kg**:
+    - Aggregated quarterly data per aircraft:
+      - Model, registration.
+      - Number of passengers.
+      - Types of operator certificates.
+      - Top 10 aerodromes.
+      - Take-offs/landings (by route).
+      - Average distance flown.
+      - Expenses (maintenance, fuel, fees, etc.).
+      - Number of aircraft and fuel consumption.
+
+---
+
+## **V. Data Submission Requirements**
+
+### **1. Method of Submission**
+- All required information must be submitted **electronically**.
+- Use of **Transport Canada’s Electronic Collection of Air Transportation Statistics (ECATS)** program is mandatory.
+- **Exception**: If information is collected directly by **Statistics Canada** under the *Statistics Act*, it may be submitted via the means used by Statistics Canada.
+
+> This ensures data integrity, reduces administrative burden, and enables real-time monitoring.
+
+### **2. Timeliness and Forms**
+- Reporting is structured in **Schedule I**, which specifies:
+  - **Column I**: Type of carrier (e.g., Level I, general aviation).
+  - **Column II**: Form(s) required (e.g., Form A, Form B).
+  - **Column III**: Reporting period (e.g., annual, quarterly).
+  - **Column IV**: Deadline (e.g., by end of day on May 31).
+  - **Column V**: Specific form and method (if required).
+
+> **Note**: If two forms are listed, either may be submitted.
+
+### **3. Transfer of Capacity**
+- If an air carrier **sells the entire capacity** of a flight to another carrier:
+  - The **receiving carrier** would normally report.
+  - The **original

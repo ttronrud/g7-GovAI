@@ -1,0 +1,187 @@
+**Detailed Summary of the Products Containing Mercury Regulations (Canada)**
+
+---
+
+### **Overview**
+
+The *Products Containing Mercury Regulations* are a set of federal regulations under the **Canadian Environmental Protection Act, 1999 (CEPA 1999)**, enacted on **February 26, 2011**, and officially published in *Canada Gazette, Part I*. These regulations aim to **reduce the environmental and human health risks associated with mercury-containing products** by setting strict limits on mercury content, restricting certain uses, requiring labeling, and mandating reporting and disposal practices.
+
+The regulations were developed following a public consultation process, including opportunities for stakeholders to submit comments or file objections, and were approved by the Governor in Council after review by the Minister of the Environment, the Minister of Health, and the National Advisory Committee. The regulations do not conflict with other existing environmental or health legislation and are designed to ensure adequate protection of the environment and human health.
+
+---
+
+## **Key Provisions and Structure**
+
+---
+
+### **1. Scope of Application**
+
+The regulations apply to **any product that contains mercury**, including its compounds.
+
+#### **Exemptions (Products Not Covered):**
+- **Waste** (including end-of-life products)
+- **Products at the end of their useful life intended for recycling**
+- **Food, drugs, or cosmetics** (as defined in the *Food and Drugs Act*)
+- **Veterinary biologics** (as defined in the *Health of Animals Act*)
+- **Surface coating materials** (including those on toys, regulated under *Surface Coating Materials Regulations* or *Toys Regulations*)
+- **Pest control products** (except devices or treated articles under specific regulations)
+- **Feeds** (under the *Feeds Act*)
+- **Fertilizers** (under the *Fertilizers Act*)
+- **Explosives** (under the *Explosives Act*)
+- **Ammunition and explosives under the control of the Minister of National Defence**
+- **Non-battery products** with mercury concentration ≤ 0.1% by weight in homogeneous materials
+- **Batteries** with mercury concentration ≤ 0.0005% by weight
+- **Measuring devices imported solely for public exhibitions** (cultural or historical purposes)
+- **Cold cathode tubing or electrodes**:
+  - Manufactured or imported **after December 31, 2025**
+  - Needed to repair signage or cove lighting installed **before December 31, 2025**
+  - With mercury content ≤:
+    - **100 mg per 2.44 m (8 feet)** for cold cathode tubing
+    - **100 mg** for electrodes
+- **Ores, concentrates, and metallurgical by-products**
+- **On-road vehicles** of 2016 model year or earlier (as defined in *On-Road Vehicle and Engine Emission Regulations*)
+
+> *Note: Exemptions are carefully tailored to balance environmental protection with practical needs in specific industries.*
+
+---
+
+### **2. Prohibitions on Manufacturing and Importing Mercury-Containing Products**
+
+A person **must not manufacture or import** a mercury-containing product unless:
+
+1. The product belongs to a specific category in **Schedule 1** (e.g., certain lamps, switches, meters), contains **no more than the maximum allowed mercury quantity**, and is manufactured or imported **on or before the specified end date**;
+2. The product is a **replacement part**;
+3. The product is a **replacement lamp**;
+4. The person holds a **permit issued under subsection 5(1)**.
+
+> *This creates a phased reduction in mercury use, with strict timelines and product categories.*
+
+---
+
+### **3. Restrictions on Selling Replacement Lamps**
+
+- A **replacement lamp** (as defined in Schedule 2) must **not be sold or offered for sale** after the **second anniversary** of the end date set in Schedule 2 (column 4).
+- This ensures a transition to mercury-free alternatives over time.
+
+---
+
+### **4. Definition of Replacement Parts and Lamps**
+
+#### **Replacement Part:**
+- Replaces a component present in a product **before November 8, 2015**
+- Required for the product to function
+- Cannot be replaced by a mercury-free alternative
+- Does not fall under a restricted category in Schedules 1 or 2
+- For **cold cathode fluorescent lamps or external electrode fluorescent lamps**, only used in **electronic display panels**
+
+#### **Replacement Lamp:**
+- Belongs to a category in Schedule 2
+- Mercury content ≤ maximum allowed
+- Manufactured or imported **on or after the start date** and **no later than the end date** in Schedule 2
+- Will be used in a lighting fixture **installed before the start date**, or in an **automobile headlamp** in a vehicle manufactured **before that date**
+
+---
+
+### **5. Disposal and Recycling Requirements**
+
+Any product containing mercury manufactured in violation of section 3 must be:
+- Sent for **final disposal or recycling** at a facility **authorized** to handle hazardous materials in the jurisdiction where it is located.
+- Alternatively, the product may be **returned to the original manufacturer or importer**.
+
+> *This ensures responsible end-of-life management and prevents environmental contamination.*
+
+---
+
+### **6. Permit System for Mercury-Containing Products**
+
+#### **Application Requirements (Section 4):**
+An applicant must submit:
+- Name, address, contact details, and representative details
+- Product name (common/generic and trade name)
+- Total mercury content (in milligrams)
+- Estimated annual volume of production/import
+- Known uses of the product
+- Evidence that **no technically or economically feasible mercury-free alternative** exists that:
+  - Achieves a similar result
+  - Has a less harmful effect on environment or human health
+- A **comprehensive environmental and health protection plan** including:
+  - Safe handling procedures
+  - Measures to prevent mercury release during use or disposal
+  - Specific protocols for accidental breakage
+- A statement that the plan will be implemented within **30 days** of permit issuance
+- Location where supporting documents are kept
+
+#### **Conditions for Permit Issuance (Section 5):**
+The Minister must issue a permit **only if**:
+- There is **no technically or economically feasible alternative** to the product (in terms of performance and safety)
+- The applicant has submitted a **realistic, actionable plan** to minimize or eliminate mercury-related harm
+
+#### **Refusal of Permit:**
+Permit will be refused if:
+- The applicant provided **false or misleading information**
+- Required documents are **missing or insufficient**
+
+#### **Permit Duration and Renewal:**
+- **Initial permit expires after 3 years**
+- Renewal must be applied for **at least 90 days before expiry**
+- Renewal is granted if:
+  - The application meets the same conditions as initial approval
+  - The applicant continues to meet environmental and safety standards
+
+#### **Revocation of Permit:**
+- Permitted if the Minister has **reasonable grounds to believe** false or misleading information was provided
+- Before revocation, the permit holder must be:
+  - Given **written reasons**
+  - Given an **opportunity to make written representations**
+
+---
+
+### **7. Labeling Requirements (Mandatory Information)**
+
+Manufacturers and importers must clearly indicate the following on the product or packaging:
+
+#### **Mandatory Elements:**
+1. **Statement that the product contains mercury**
+2. **If mercury is in a component**, specify which component
+3. **Safe handling procedures** and **measures in case of breakage**, including:
+   - Website address or contact person
+4. **Disposal and recycling options** in accordance with local laws, including:
+   - Website address or contact person
+5. **Statement that the product must be disposed of or recycled according to applicable laws**
+
+#### **Alternative Display (if product too small):**
+- On the **package**; or
+- In a **notice attached to the product** or **user manual**
+
+#### **Labeling Standards:**
+- Must be **in both official languages (English and French)**
+- Font size ≥ **10 points**, characters ≥ **3 mm in height**, legible, indelible, and contrasted with background
+- Must be **enclosed by a border** and **easily distinguishable**
+- If in a website or manual:
+  - Must be in both official languages (website)
+  - In English, French, or both, as requested by the first retail purchaser (manual)
+
+#### **Exemptions from Labeling:**
+- **Replacement parts** (as defined in section 3(3))
+- **Products manufactured for export only**
+
+---
+
+### **8. Mercury Symbol (Hg) Requirement**
+
+Any product in a restricted category (Schedules 1 or 2) must display the **symbol Hg**:
+- In a font size of **at least 10 points**, characters ≥ **3 mm**
+- Or within a **pictogram of at least 7 mm height**
+- Must be **legible, indelible**, and contrasted with background
+
+> **Exception**: If product is too small, Hg must still be displayed in the **closest possible size** (minimum: **7 points, 2 mm characters**)
+
+---
+
+### **9. Laboratory Accreditation for Mercury Testing**
+
+Any analysis of mercury content must be conducted by a laboratory that:
+- Is **accredited under ISO/IEC 17025** by a body signatory to the **ILAC MRA** (International Laboratory Accreditation Cooperation Mutual Recognition Arrangement), **or**
+- Is accredited under the **Quebec Environment Quality Act (CQLR, c. Q-2)**
+
+> **Scope requirement**: The laboratory’s accreditation must

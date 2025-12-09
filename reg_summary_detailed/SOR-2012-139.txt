@@ -1,0 +1,144 @@
+### **Detailed Summary of the Wastewater Systems Effluent Regulations (S.C. 1991, c. 1, s. 12(2); R.S., c. F-14)**
+
+These regulations, made under the authority of the *Fisheries Act* (specifically subsection 36(5) and paragraphs 43(g.1)a, (g.2)a, and (h)), establish strict environmental standards for the discharge of wastewater into waters frequented by fish. The primary objective is to **prevent harm to aquatic ecosystems**, particularly fish populations, by regulating the **quality and quantity of effluent** discharged from wastewater systems.
+
+---
+
+## **I. Purpose and Scope**
+
+The regulations apply to **wastewater systems** that:
+- Deposit effluent into waters frequented by fish (as defined in subsection 36(3) of the *Fisheries Act*), and
+- Are designed to collect an **average daily volume of influent of 100 m³ or more**, or
+- During any calendar year, collect an average daily volume of **100 m³ or more** of influent.
+
+> **Note**: The regulations do **not apply** to:
+> - Wastewater systems located in the **Northwest Territories**, **Nunavut**, or **north of the 54th parallel in Quebec or Newfoundland and Labrador**.
+> - Systems located on industrial, commercial, or institutional sites where **less than 50% of influent is blackwater or greywater**.
+> - Mills as defined in the *Pulp and Paper Effluent Regulations*.
+
+Additionally, the regulations **do not apply to the subsequent calendar year** if a system collected less than 100 m³ of influent during the prior year.
+
+---
+
+## **II. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Effluent** | Wastewater deposited from a wastewater system. |
+| **Influent** | Wastewater entering the system. |
+| **Blackwater** | Used water containing human feces or urine. |
+| **Greywater** | Used water from sinks, showers, kitchens, or laundry (excluding blackwater). |
+| **Wastewater** | Blackwater; greywater mixed with blackwater; industrial/commercial used water mixed with blackwater; or stormwater/surface runoff mixed with blackwater. |
+| **Wastewater System** | Any structure or undertaking used to collect and deposit wastewater, including lagoons. |
+| **Final Discharge Point** | The point beyond which the owner/operator no longer controls effluent quality before discharge. |
+| **Overflow Point** | A point where excess wastewater is diverted, beyond which control is lost. |
+| **Point of Entry** | Where effluent enters water from the discharge point. |
+| **Hydraulic Retention Time (HRT)** | Average time wastewater is retained in the system for treatment. |
+| **Deleterious Substances** | Prescribed substances that can harm aquatic life: <br> • Carbonaceous Biochemical Oxygen Demand (CBOD) <br> • Suspended Solids (SS) <br> • Total Residual Chlorine <br> • Un-ionized Ammonia |
+| **Acutely Lethal** | Effluent that kills >50% of rainbow trout within 96 hours at 100% concentration. |
+
+> **Note**: The definitions of "protected aquatic species" and "protected species" have been **repealed** (SOR/2024-97, s. 1), and "aquatic species" is no longer used.
+
+---
+
+## **III. Two Types of Wastewater Systems**
+
+1. **Intermittent Wastewater System**  
+   - HRT ≥ 90 days  
+   - Deposits effluent during **at most four periods per year**, each separated by **at least seven clear days** with no discharge.
+
+2. **Continuous Wastewater System**  
+   - Any system that is **not intermittent** (i.e., discharges regularly, often daily or continuously).
+
+---
+
+## **IV. Consolidation of Wastewater Systems**
+
+If an owner plans to consolidate **two or more original wastewater systems** (none of which currently meet discharge conditions) into a single future system:
+- A **"fictional consolidated wastewater system"** is created **from the date the consolidation plan is submitted** to the authorization officer **until the new system is operational**.
+- The final discharge point of this fictional system is assigned to the original system with the **greatest number of discharge points** (as per Schedule 2).
+- The plan must:
+  - Describe modifications to each original system (processes, treatment methods).
+  - Ensure effluent will **not be acutely lethal** and will meet authorization conditions.
+  - Include a **schedule for implementation**.
+
+---
+
+## **V. Conditions for Permitted Discharge**
+
+An owner/operator may discharge effluent **if**:
+- The effluent is **not acutely lethal** (determined per section 15),
+- The **maximum concentration of un-ionized ammonia** is **less than 1.25 mg/L (as nitrogen)** at **15°C ± 1°C**, and
+- In the **previous calendar year, quarter, or month** (depending on volume), the effluent met the following average limits:
+  - **CBOD ≤ 25 mg/L**
+  - **Suspended Solids (SS) ≤ 25 mg/L**
+  - **Total Residual Chlorine ≤ 0.02 mg/L** (only if chlorine or chloramines are used)
+
+> These limits are **volume-dependent** and adjusted based on the **average daily effluent volume** from the previous year.
+
+---
+
+## **VI. Determination of Averages (by Volume Thresholds)**
+
+The average limits are calculated differently depending on the **volume of effluent** discharged:
+
+| Volume Threshold | Time Period for Averages |
+|------------------|---------------------------|
+| ≤ 17,500 m³/year | **Annual average** (for intermittent systems) <br> ≤ 2,500 m³/year (for continuous systems with HRT ≥ 5 days or transitional authorizations) |
+| > 2,500 m³ to ≤ 17,500 m³/year | **Quarterly average** (only for continuous systems with HRT ≥ 5 days) <br> ≤ 17,500 m³/year (for all other continuous systems) |
+| > 17,500 m³/year | **Monthly average** |
+
+> **Note**: For intermittent systems or continuous systems with HRT ≥ 5 days, if suspended solids exceed 25 mg/L **due to algal blooms or aquatic invertebrate proliferation** during **May 1 – November 30**, that result is **excluded** from the average.
+
+> If **all samples** used to calculate the average exceed the limit (due to such events), the average is **deemed 0 mg/L**.
+
+---
+
+## **VII. Monitoring and Recordkeeping Requirements**
+
+Authorization is **conditional** on the owner/operator fulfilling the following:
+
+1. **Determine Annual Average Daily Volume**  
+   - Sum the daily volumes of effluent discharged via all final discharge points during the year.  
+   - Divide by the number of days in the year.
+
+2. **Install or Estimate Volume Monitoring**  
+   - **Intermittent systems**: Must install or establish a method to **monitor and estimate** daily volumes (e.g., flow meters or estimation models), updated annually.
+
+3. **Comply with Monitoring Standards**  
+   - Conduct regular sampling and testing in accordance with **sections 10 and 11** (sampling procedures).
+   - Submit a **monitoring report** under section 19.
+
+4. **Maintain Records**  
+   - Keep records as required under section 17 (e.g., logs of discharges, test results).
+
+5. **Submit Identification and Overflow Reports**  
+   - Submit an **identification report** (section 18) and **overflow report** (section 20) if applicable.
+
+6. **Install Dechlorination System (if chlorine is used)**  
+   - Must install, operate, and maintain a dechlorination system so that **total residual chlorine in effluent does not exceed 0.10 mg/L** when measured using accepted scientific standards.
+
+---
+
+## **VIII. Testing for Acute Lethality**
+
+To determine if effluent is **acutely lethal**, the following method is used:
+
+- **Reference Method EPS 1/RM/13** (Biological Test Method for Rainbow Trout)  
+  - Standardized protocol to assess toxicity to rainbow trout over 96 hours.
+- **pH Stabilization Procedure EPS 1/RM/50**  
+  - Ensures stable pH conditions during testing to prevent confounding effects.
+
+> These methods are **as amended from time to time** and are administered by a **licensed professional** (engineer or scientist) in a certified laboratory.
+
+---
+
+## **IX. Regulatory Exclusions and Repeals**
+
+- **Repealed Definitions**:
+  - "Protected species" and "aquatic species" have been **removed** (SOR/2024-97, s. 1).
+  - Section 4 (related to chlorine limits) has been **repealed** (SOR/2024-97, s. 4).
+
+- **Exclusions**:
+  - Systems in **Nunavut, Northwest Territories**, or **north of 54th parallel** in Quebec or NL.
+  - Systems with **less than 50% blackwater/greywater**

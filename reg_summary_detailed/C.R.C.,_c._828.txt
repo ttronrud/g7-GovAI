@@ -1,0 +1,185 @@
+**Detailed Summary of the *Petroleum Refinery Liquid Effluent Regulations***
+
+---
+
+### **1. Regulation Title and Citation**
+These Regulations are officially known as the **Petroleum Refinery Liquid Effluent Regulations** and are designed to regulate the discharge of certain deleterious substances from petroleum refineries into aquatic environments to protect fish and water quality.
+
+---
+
+### **2. Key Definitions and Terms**
+
+The Regulations define several critical terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Fisheries Act*, which provides the legal basis for environmental protection of fish habitats. |
+| **Day** | A period of 24 consecutive hours. |
+| **Deposit** | To release or permit the release of liquid effluent or cooling water into water frequented by fish. |
+| **Liquid Effluent** | Includes process water, cooling tower blow-down, tank draining, ballast water, storm water, and runoff from land used for waste disposal. *Excludes* water treated outside the refinery or protected from contamination. |
+| **Once-Through Cooling Water** | Water that circulates once through heat exchangers and does not come into contact with process streams. |
+| **Crude Oil** | Virgin or unrefined petroleum or hydrocarbons similar to petroleum brought into a refinery for processing. *Excludes* residual fuels or blending fuels used primarily for internal refinery needs. |
+| **Refinery** | Facilities primarily involved in separating and converting crude oil into products such as gasoline, diesel, lubricants, and petrochemicals. Excludes natural gas processing or synthetic oil production from coal or bitumen. |
+| **Storm Water** | Runoff from precipitation on or passing through the refinery. If protected from contamination, it is *deemed not storm water* under the Regulations. |
+| **Owner** | The owner or operator of the refinery, or their authorized representative. |
+| **Deleterious Substances** | Substances harmful to fish and aquatic ecosystems. Specifically prescribed as: |
+| | - Oil and grease |  
+| | - Phenols |  
+| | - Sulfide |  
+| | - Ammonia nitrogen |  
+| | - Total suspended matter |  
+| | - Any substance that alters the pH of effluent (paragraph 4(f)) |
+
+---
+
+### **3. Scope of Application**
+
+- Applies to **all refineries** that:
+  - Did **not begin processing crude oil before November 1, 1973**, and
+  - **Began processing on or after that date**.
+
+> This means the Regulations do not apply retroactively to refineries that started operations before 1973.
+
+---
+
+### **4. Permitted Discharges: Conditions and Limits**
+
+An owner may discharge a deleterious substance **only if** the following conditions are met:
+
+#### **A. Monthly Average Deposit Limit (Section 5(1)(a))**
+- The **arithmetic mean** of actual daily deposits of each deleterious substance during the month must **not exceed** the arithmetic mean of the authorized deposits for that substance in the same month.
+- Authorized deposits are calculated based on the **reference crude rate** (see below).
+
+#### **B. Daily Deposit Limits (Section 5(1)(b) & (c))**
+- No single day’s actual deposit of any deleterious substance (a, b, c, d, or e) may exceed the authorized deposit for more than **one day in a month**.
+- Additionally, daily actual deposits must not exceed the authorized deposit **on any given day**.
+
+> This prevents spikes in pollution even if average monthly levels are acceptable.
+
+#### **C. pH Limit for Phenols (Paragraph 4(f))**
+- For substances that alter pH (specifically phenols), discharge is permitted **only if** the pH of the effluent or cooling water remains between **6.0 and 9.5**.
+
+#### **D. Storm Water Discharge Limit (Section 9)**
+- For oil and grease, phenols, and total suspended matter, the **aggregate monthly amount** of these substances in storm water must not exceed the monthly authorized limit.
+- The authorized limit for storm water is calculated based on the **reference crude rate** and a multiplier per 10,000 Canadian gallons of storm water discharged.
+
+> Storm water is considered a special category due to its potential for sudden, uncontrolled pollution.
+
+---
+
+### **5. Reference Crude Rate**
+
+This is a key metric used to determine authorized and actual pollutant limits.
+
+- **Definition**:  
+  The **reference crude rate** is the **maximum design stream day crude rate** of the refinery, divided by 1,000 (i.e., expressed in *thousand barrels per day*).
+
+- **Purpose**:  
+  Serves as a baseline to scale pollutant limits according to the size and capacity of the refinery.
+
+- **Revisions**:
+  - Owners may revise the reference crude rate at any time by submitting a declaration to the Minister.
+  - If the **arithmetic mean of stream day crude rates** over **two consecutive months** (excluding maintenance days) falls below **85%** of the last declared rate, the owner must revise the rate.
+  - The revised rate is calculated as:
+    - For **7+ consecutive days**: arithmetic mean of stream day crude rates / 1,000
+    - For **14+ consecutive days**: arithmetic mean of stream day crude rates / 1,000
+  - The revised rate **takes effect on the first day of the month** in which it is declared.
+
+> This ensures that pollutant limits scale appropriately with actual refinery operation levels.
+
+---
+
+### **6. Authorized Deposit Calculation (Section 5(1))**
+
+Authorized deposits are calculated daily using **Schedule I**, which provides base values per thousand barrels per day, multiplied by the refinery’s reference crude rate.
+
+| Calculation Method | Applies to |
+|-------------------|----------|
+| Column II of Schedule I | Daily authorized deposit (for substances a–e) |
+| Column III of Schedule I | Monthly authorized deposit (for substances a–e) |
+| Column IV of Schedule I | Daily authorized deposit (for substances a–e) — likely for specific thresholds |
+
+> These values are scaled by the **reference crude rate** of the refinery.
+
+#### **Storm Water Adjustment (Section 9)**
+- For each **10,000 Canadian gallons** of storm water discharged on a given day, the authorized deposit of a deleterious substance (a, b, or e) is **increased** by the amount in Column II of Schedule II.
+- Monthly storm water limit is calculated using Column III of Schedule II × reference crude rate.
+
+> This reflects the higher environmental risk associated with storm water discharges.
+
+---
+
+### **7. Actual Deposit Determination (Section 5(2))**
+
+Owners must calculate actual deposits within **30 days after the end of each month** by:
+
+- Measuring and calculating the **concentration** of each deleterious substance in composite samples.
+- Using the **flow rate** (in Canadian gallons per minute) and concentration (in mg/L) to determine the total daily pollutant load.
+
+> The actual deposit is calculated daily using data from the concentration and flow measurements.
+
+---
+
+### **8. Monitoring and Reporting Requirements**
+
+#### **A. Daily Monitoring (for pH and pollutants)**
+- For **phenols**, the owner must:
+  - Monitor the pH of effluents and cooling water **every day** during the month of discharge (or when requested by the Minister).
+  - Use the test method in **Schedule III** (based on Standard Methods, 13th ed., 1971).
+
+#### **B. Weekly Testing (for pollutant concentrations)**
+- Concentrations of deleterious substances (a–e) must be tested **every Monday, Wednesday, and Friday**, or upon request.
+- Testing uses:
+  - The **test method specified in Column II of Schedule IV** (modified as per Column III).
+  - Or an **equivalent method approved by the Minister**.
+
+#### **C. Composite Sample Definition (Schedule IV)**
+A composite sample is defined as:
+1. A 24-hour sample collected continuously at a rate proportional to flow.
+2. A sample that delivers **at least 96 equal volumes** over 24 hours.
+3. In cases where **continuous stream analyzers** are approved by the Minister, the effluent itself may be considered a composite sample.
+
+> Ensures representative sampling that reflects average conditions.
+
+#### **D. Sample Handling Requirements**
+- Must follow procedures for:
+  - Sampling
+  - Preservation
+  - Storage
+  - Prevention of interference
+
+> Ensures data integrity and reliability.
+
+---
+
+### **9. Reporting Obligations**
+
+Within **30 days after the end of each month** (or when requested by the Minister), the owner must submit a report containing:
+
+1. Arithmetic mean of authorized deposits for the month (based on Schedule I and reference crude rate).
+2. Authorized deposits for each day of the month (from Schedule I and Schedule II).
+3. Actual daily deposits of substances (a–e) (from Schedule IV).
+4. Arithmetic mean of actual deposits for the month.
+5. pH of composite samples.
+6. Reference crude rate for the month.
+7. Any additional information requested by the Minister.
+
+> This provides transparency and enables the Minister to verify compliance.
+
+---
+
+### **10. Compliance Infrastructure**
+
+Refineries must:
+- Install and maintain **sampling connections** and **flow-measuring devices** that are acceptable to the Minister.
+- Ensure these systems allow the Minister to verify compliance with all requirements.
+
+> Ensures that monitoring is both accurate and verifiable.
+
+---
+
+### **11. Test Methods and Standards**
+
+All testing must follow standardized procedures:
+
+- **pH Testing**:

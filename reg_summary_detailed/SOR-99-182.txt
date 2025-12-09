@@ -1,0 +1,114 @@
+**Detailed Summary of the Insurance Companies Assessed Expenses Recovery Regulations**
+
+---
+
+### **1. Legal Authority and Origin**
+These regulations were issued by **His Excellency the Governor General in Council**, acting on the recommendation of the **Minister of Finance**, under two specific provisions of the *Insurance Companies Act*:
+
+- **Section 692a** – Grants the authority to make regulations related to the recovery of assessed expenses.
+- **Paragraph 703(a)** – Provides further enabling power to establish rules for the recovery and distribution of certain financial amounts.
+
+The regulations are formally published under:
+- **S.C. 1997, c. 15, s. 328** (Statutory Citation)
+- **S.C. 1991, c. 47** (Reference to prior legislation)
+
+This means the regulations are binding and enforceable under Canadian federal law, specifically within the framework of insurance regulation and financial oversight.
+
+---
+
+### **2. Key Definitions**
+- In the **French version** of the regulations, the term **"société"** is defined in accordance with **Section 663 of the Insurance Companies Act**.  
+  This ensures consistency between English and French versions of the regulations and clarifies that "société" refers to a company or entity operating under the definition provided in the Act (e.g., a corporation, mutual society, or similar structure).
+
+---
+
+### **3. Purpose of the Regulations**
+The primary objective of these regulations is to establish a **clear, fair, and structured mechanism** for:
+- Recovering and distributing **monetary amounts** (such as recoveries or payments) made by Her Majesty (the Crown) in relation to insurance companies, societies, foreign companies, or provincial companies.
+- Applying those recoveries **pro rata** (in proportion) to reduce or offset **assessments** imposed under the *Office of the Superintendent of Financial Institutions Act (OSFI Act)*.
+
+This ensures that when the government recovers funds from a financially distressed or insolvent entity, those funds are not lost but are instead used to **offset future regulatory assessments** against other regulated entities.
+
+---
+
+### **4. Application of Recovered Funds – Two-Tier System**
+
+#### **Tier 1: Recoveries of $1,000,000 or Less**
+- Any amount **equal to or less than $1,000,000** that is:
+  - Paid to or recovered by Her Majesty during a fiscal year (from **April 1 to March 31**),
+  - Under **Section 691 of the Insurance Companies Act**, or
+  - Under **paragraph 161(1)(d)**, **(6)(c)**, or **subparagraph 161(8)(b)(iv)** of the *Winding-up and Restructuring Act*,
+- Is **applied on a pro rata basis** to reduce the assessments under **Section 23 of the OSFI Act**.
+
+> **Pro rata basis**: The recovered amount is distributed among the companies, societies, foreign companies, and provincial companies that were assessed under **subsection 687(1)** of the Insurance Companies Act in respect of that entity.
+
+> **Example**: If a company is found to have caused a $500,000 loss and the total recoverable amount is $800,000, then the $800,000 is split among all assessed entities based on their relative share of the assessment.
+
+#### **Tier 2: Recoveries Greater than $1,000,000**
+- For recoveries **exceeding $1,000,000**, the amount is **paid directly** (not applied to assessments) to the companies, societies, foreign companies, or provincial companies that were assessed under subsection 687(1) of the Insurance Companies Act.
+
+> This distinction ensures that **larger recoveries are distributed directly to the assessed entities**, while smaller recoveries are used to reduce future regulatory fees.
+
+> The distribution is again **pro rata**, meaning each entity receives a share proportional to its assessed liability.
+
+---
+
+### **5. Deduction of Expenses for Recovery Efforts**
+- Any **expenses incurred** in the process of:
+  - Locating a company, society, foreign company, or provincial company,
+  - Or locating its **successors or beneficiaries**,
+- Are **deducted from the amount payable** to that entity.
+
+> This protects the government from bearing unnecessary costs associated with recovery efforts. For example, if investigators spend $20,000 to locate a defunct insurer, that $20,000 is subtracted from the final amount payable to the entity.
+
+---
+
+### **6. Minimum Payment Threshold**
+- **No payment shall be made** if the final amount after deductions would be **less than $10**.
+
+> This ensures that the recovery process does not result in negligible or zero payments, which could be administratively inefficient or legally unjustified.
+
+---
+
+### **7. What Happens If the Entity Cannot Be Found?**
+- If, after **reasonable attempts**, the company, society, foreign company, or provincial company (or its successors/beneficiaries) **cannot be located**, then:
+  - The amount determined under **Section 3** (the recovery amount) is **not paid** to the entity.
+  - Instead, it is **applied on a pro rata basis** to reduce the assessments under **Section 23 of the OSFI Act** against other assessed companies, societies, foreign companies, or provincial companies.
+
+> This ensures that even if a specific entity cannot be found, the recovered funds still contribute to reducing the financial burden on the broader insurance sector through regulatory assessments.
+
+---
+
+### **8. Effective Date**
+- These regulations **come into force on the day they are registered** in the *Canada Gazette*.
+
+> This means they are immediately effective upon official publication and can be enforced without delay.
+
+---
+
+### **Summary Table**
+
+| Feature | Description |
+|--------|-------------|
+| **Governing Law** | Insurance Companies Act, OSFI Act |
+| **Authority** | Governor General in Council, on recommendation of Minister of Finance |
+| **Key Amount Threshold** | $1,000,000 |
+| **Amount ≤ $1M** | Applied pro rata to reduce OSFI assessments |
+| **Amount > $1M** | Paid directly to assessed entities (pro rata) |
+| **Expenses** | Deducted from payment to locate entity or beneficiaries |
+| **Minimum Payment** | $10 (no payment below this) |
+| **Unfindable Entity** | Recovery amount applied to reduce OSFI assessments |
+| **Effective Date** | Day of registration in the Canada Gazette |
+
+---
+
+### **Policy Implications and Objectives**
+- **Fairness**: Ensures that recovery proceeds are distributed equitably among assessed entities.
+- **Efficiency**: Prevents unnecessary administrative costs by allowing deductions for recovery efforts.
+- **Accountability**: Provides a clear legal pathway for how recovered funds are used, ensuring transparency.
+- **Stability**: Helps maintain financial stability in the insurance sector by reducing the burden of assessments on solvent insurers through the recovery of losses from insolvent ones.
+
+---
+
+### **Conclusion**
+These regulations provide a **comprehensive, structured, and equitable framework** for the recovery and redistribution of financial amounts from insolvent or problematic insurance entities. They balance the need to recover losses with the need to fairly distribute those recoveries among regulated entities, while protecting against administrative inefficiencies and ensuring that no entity receives a negligible or zero payment. The rules are designed to support the financial integrity of the insurance industry and the broader regulatory system under the Office of the Superintendent of Financial Institutions.

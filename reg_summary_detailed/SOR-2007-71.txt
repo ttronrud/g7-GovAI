@@ -1,0 +1,155 @@
+### **Detailed Summary of the Regulation: Order Varying Telecom Decision CRTC 2006-15**
+
+This regulation, formally known as **the Order Varying Telecom Decision CRTC 2006-15**, was issued by the **Governor in Council** on **December 14, 2006**, based on a recommendation from the **Minister of Industry**, pursuant to **subsection 12(1) of the Telecommunications Act (the Act)**. It modifies and significantly restructures the original **Telecom Decision CRTC 2006-15**, which had initially established a framework for *forbearance* (i.e., regulatory relaxation) in the provision of **retail local exchange services** by **Incumbent Local Exchange Carriers (ILECs)**.
+
+The primary objective of this variation is to **promote greater market competition**, **reduce regulatory burdens**, and **align the regulatory framework with evolving market dynamics**, particularly the rise of mobile wireless services and the increasing competitiveness of the telecommunications sector in Canada.
+
+---
+
+## **I. Background and Context**
+
+### 1. **Original Decision (CRTC 2006-15)**
+- The original decision allowed ILECs (such as Bell, Telus, and others) to seek **forbearance** from certain regulatory requirements for retail local exchange services under specific conditions.
+- Key conditions included:
+  - Evidence of **rivalrous behaviour** (i.e., real competition).
+  - A **25% market share loss**.
+  - Compliance with **quality of service standards** over a six-month period.
+  - Implementation of **approved Competitor Services tariffs**.
+  - Access to **Operational Support Systems (OSS)** for competitors.
+
+### 2. **Key Geographic Component: Local Forbearance Regions (LFRs)**
+- Initially, the Commission considered **LFRs** (large geographic areas) as the relevant market unit.
+- However, this was challenged on practical and economic grounds.
+
+---
+
+## **II. Key Changes and Revisions in the Varying Order**
+
+### ✅ **1. Change in Geographic Component: From LFRs to "Local Exchanges"**
+
+> **Original**: Local Forbearance Regions (LFRs) were the appropriate geographic unit.  
+> **New**: **Local exchanges** are now the appropriate geographic component of a relevant market.
+
+#### **Rationale**:
+- LFRs are **too large** and **lack administrative practicality**.
+- They do not reflect **distinct social or economic communities**.
+- Local exchanges (e.g., a specific city district or neighborhood) better represent **market boundaries** where competition is most relevant.
+- Local exchanges are **more likely to contain pockets of contested customers**, which supports the presence of real competition.
+
+> **Impact**: This change allows for **more precise, localized competition assessments** and enables regulators to evaluate whether competition is sufficient in a given area.
+
+---
+
+### ✅ **2. Revised Criteria for Granting Forbearance (Under Section 34 of the Act)**
+
+The Commission may now grant forbearance **if an ILEC satisfies one of the following conditions**:
+
+#### **Condition 1: No Market Power**
+- The ILEC **does not have market power**, as determined using the criteria in **paragraph 213** of the original decision (which typically assesses market share, barriers to entry, and pricing power).
+
+#### **Condition 2: Sufficient Independent Facilities-Based Competition (Residential Market)**
+- If the ILEC offers **residential local exchange services**, there must be:
+  - **At least two independent facilities-based providers** (including mobile wireless providers) offering local exchange services.
+  - Each provider must be capable of serving **at least 75% of the residential lines** the ILEC can serve.
+  - At least **one** of these providers must be a **fixed-line, facilities-based** provider (not just a mobile-only service).
+
+#### **Condition 3: Sufficient Independent Facilities-Based Competition (Business Market)**
+- If the ILEC offers **business local exchange services**, there must be:
+  - At least **one independent facilities-based fixed-line provider**.
+  - That provider must be capable of serving **at least 75% of the business lines** the ILEC can serve.
+
+> **Definition of "Independent"**:
+- A provider is **independent** if it does **not share ownership or affiliation** with any other provider mentioned in the application.
+- A **facilities-based provider** uses its own infrastructure or leases from others.
+
+> **Rationale**:
+- These thresholds ensure that **real, viable competition** exists—especially in the form of **fixed-line providers**—to prevent monopolistic behavior.
+- The 75% threshold ensures that **a significant portion of the market is served by competitors**, reducing the risk of ILEC dominance.
+
+---
+
+### ✅ **3. Quality of Service (QoS) Standards**
+
+An ILEC must demonstrate that it:
+- Met, on average, **all quality of service standards** outlined in **Appendix B** (from Telecom Decision CRTC 2005-20) during a **six-month period**.
+- The period begins **no earlier than eight months before** the application and ends **before the Commission’s decision**.
+- It **did not consistently provide services below** those standards to competitors.
+
+> **Purpose**:
+- Ensures that even in the absence of full regulation, **competitors receive fair and reliable service**.
+- Builds **consumer trust** and supports **sustainable competition**.
+
+---
+
+### ✅ **4. Removal of Competitive Safeguards for Promotions**
+
+The Order **removes several regulatory restrictions** on ILECs' promotional activities:
+
+| Removed Safeguard | Description |
+|------------------|-------------|
+| **Promotion Restrictions** | ILECs are no longer subject to restrictions on promotions (as defined in CRTC 2005-25). |
+| **Local Winback Rule** | The rule requiring ILECs to offer competitive rates to win back customers is **removed**. |
+| **Ex parte filing of promotion tariffs** | ILECs may now file **tariff applications for promotions without prior notice** to competitors. |
+| **Waiving service charges for residential winbacks** | ILECs can now **waive service charges** when winning back residential customers. |
+
+> **Rationale**:
+- Encourages **market-driven competition** by allowing ILECs to use **marketing and pricing tools** to attract customers.
+- Increases **consumer choice** and **market dynamism**.
+- Aligns with the policy of **relying on market forces** to achieve competition.
+
+---
+
+### ✅ **5. Application Process for Local Forbearance**
+
+The Commission establishes a **clear, structured process** for handling applications:
+
+#### Required Elements in an Application:
+- Evidence that all **forbearance criteria** are met (or a commitment to provide evidence later).
+- A **draft communications plan** to explain forbearance to customers.
+- Information on the **availability of stand-alone PES (Plain English Services)** in the market.
+- Contact details for customer inquiries.
+
+#### Key Process Rules:
+- Applications are **limited to one relevant market**.
+- If multiple contiguous local exchanges are involved, the ILEC may request a **combined review**.
+- The ILEC must **serve a copy of the application** to all registered Competitive Local Exchange Carriers (CLECs) and other known providers.
+- The Commission **posts applications online** and returns deficient ones.
+- The Commission may request **additional information**.
+
+#### Timeliness:
+- If the application meets all requirements and relies on **Condition 2 or 3 (competition)**, the Commission **must complete its analysis and issue a decision within 120 days** of receiving the application.
+- **Exceptions**:
+  - Applications involving **division of business services** into multiple markets are **not subject to the 120-day timeline**.
+  - Applications where the ILEC **promises to provide evidence later** are **not subject to the timeline**.
+
+#### Priority:
+- Applications involving local exchanges within **major metropolitan areas** (Calgary, Edmonton, Halifax, Hamilton, London, Montreal, Ottawa-Gatineau, Quebec City, Toronto, Vancouver, Winnipeg) are **given priority**.
+
+---
+
+### ✅ **6. Special Circumstances – 18-Month Delay for Small Providers**
+
+> If the Commission learns that the competition comes from an **independent fixed-line provider** with **fewer than 20,000 customers nationwide**, forbearance will **not take effect until at least 18 months** after the provider begins serving in that market.
+
+> **Rationale**:
+- Prevents premature forbearance in markets where **new entrants are still establishing themselves**.
+- Gives new providers time to build infrastructure, customer base, and market presence.
+- Protects **consumer interests** and ensures **sustainable competition**.
+
+---
+
+### ✅ **7. Repeal of Old Appendices**
+
+- **Appendix A** (on LFRs) is **repealed**.
+- **Appendices D and E** (related to quality of service or other technical details) are **repealed**.
+- **Appendix B** is **replaced** with updated quality of service standards (from CRTC 2005-20).
+
+---
+
+## **III. Policy Rationale and Alignment with Canadian Telecommunications Objectives**
+
+The Governor in Council, in the **Order Issuing a Direction to the CRTC on Implementing Canadian Telecommunications Policy Objectives (December 14, 2006)**, emphasized the following key principles:
+
+| Principle | Explanation |
+|--------|-------------|
+| **Reliance on Market Forces**

@@ -1,0 +1,186 @@
+**Detailed Summary of the *Transportation of Dangerous Goods by Rail Security Regulations* (S.C. 2009, c. 9, s. 25–26)**
+
+---
+
+### **Overview**
+
+The *Transportation of Dangerous Goods by Rail Security Regulations*, made under **section 27a and 27.1b of the Transportation of Dangerous Goods Act, 1992 (the "Act")**, establish comprehensive security requirements for the transportation of **dangerous goods by rail in Canada**. These regulations are designed to protect people, property, and critical infrastructure from threats related to the transport of hazardous materials via rail.
+
+The regulations apply specifically to **railway carriers** and **railway loaders** involved in the handling or transport of certain "security-sensitive" dangerous goods listed in **Schedule 1**. They introduce a robust framework of **security planning, personnel accountability, reporting obligations, inspections, training, and incident response**.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Transportation of Dangerous Goods Act, 1992* |
+| **Handling Site** | A facility connected to a railway line where a rail vehicle is placed for loading or unloading of dangerous goods |
+| **Railway Carrier** | A person who has possession of dangerous goods for transport by rail on a main line or for storage during transport |
+| **Railway Loader** | Any person operating a handling site, or a manufacturer/producer who possesses dangerous goods at a handling site for loading or unloading purposes prior to or after rail transport |
+
+> All other terms have the same meaning as defined in **section 1.4 of the Transportation of Dangerous Goods Regulations**.
+
+---
+
+## **Applicability and Scope**
+
+### **Who Is Covered?**
+- Applies only to:
+  - **Railway carriers** transporting security-sensitive dangerous goods (as defined in Schedule 1)
+  - **Railway loaders** offering for transport or handling such goods
+
+> **Important Exclusion**:  
+> Paragraph **10(1)(g)** does **not apply** to railway loaders — meaning they are not required to develop a security plan under section 10 unless they are directly involved in transporting or handling security-sensitive goods.
+
+### **Exemptions (When Regulations Do Not Apply)**
+
+The security requirements (Parts 1–3) **do not apply** to dangerous goods if:
+
+1. **Exempted under specific provisions** in the Transportation of Dangerous Goods Regulations (e.g., special provisions 154, 167, 145, 32, 34, etc.)
+2. **In limited quantities** (per subsection 1.17(1))
+3. **In excepted quantities** (per subsections 1.17.1(1), (2), and (8))
+4. **Medical or clinical waste** (if conditions in 1.42.3(a) and (b) are met)
+5. **Radioactive materials (Class 7)** (if conditions in 1.43(a) and (b) are met)
+6. **Residues in drums** (if conditions in 1.44(a) and (b) are met)
+7. **Marine pollutants** (classified under 2.43(b)(ii))
+8. **Specific UN numbers**:
+   - UN2990, UN3072 (life-saving appliances)
+   - UN2448 (melted sulfur) – only if transported in large containment and conditions met
+   - UN3090, UN3091, UN3480, UN3481 (lithium batteries) – only if conditions in special provision 34 are met
+9. **Neutron radiation detectors** (with ≤1g boron trifluoride gas) – only if packed per special provision 145
+
+> These exemptions ensure that low-risk or non-hazardous materials are not subject to full security burdens.
+
+---
+
+## **Core Security Requirements (Under Section 5 of the Act)**
+
+### **1. Reporting of Security Concerns**
+Railway carriers must **immediately report by telephone** to the **Transport Canada Situation Centre** any of the following:
+
+#### **Covered Threats & Concerns Include**:
+- Interference with train crew
+- Bomb threats (specific or non-specific)
+- Discovery of suspicious items causing operational disruption
+- Suspicious activities observed on or near:
+  - Railway vehicles
+  - Infrastructure (tracks, signals, stations)
+  - Facilities used in rail operations
+- Discovery or seizure of firearms or weapons
+- Signs of tampering with a vehicle (if security is compromised)
+- Possible surveillance of vehicles, infrastructure, or facilities
+
+#### **Required Information in Report**:
+- Name and contact info (phone/email) of the railway carrier
+- Name, title, and contact info of the reporting individual
+- Train details (itinerary, route position)
+- Vehicle, infrastructure, or facility affected
+- Classification and quantity of dangerous goods involved
+- Description of threat, including **date/time of awareness** and **incident date/time**
+
+> Reports must be made **without delay** and must include all known facts.
+
+---
+
+### **2. Designation of a Rail Security Coordinator**
+
+Every railway carrier must:
+- Appoint **one employee** as a **Rail Security Coordinator** (or acting coordinator)
+- Provide the **Minister of Transport** with:
+  - Name and job title of the coordinator
+  - 24-hour contact information
+
+#### Responsibilities of the Coordinator:
+- Coordinate internal security matters within the organization
+- Serve as the **primary point of contact** between:
+  - The carrier
+  - Law enforcement
+  - Emergency response agencies
+  - Transport Canada (Minister)
+
+> Ensures centralized, accountable oversight of security.
+
+---
+
+### **3. Visual Security Inspections**
+
+When a railway carrier:
+- Accepts a railway vehicle containing dangerous goods for transport (with placard required under Part 4 of the Regulations)
+- Places it into a train
+
+→ Must conduct a **visual security inspection** at **two key times**:
+1. When the vehicle is accepted for transport
+2. When it is placed into the train
+
+#### If Tampering or Suspicious Items Are Found:
+- The carrier must **investigate** whether security has been compromised
+- If compromised, **no transport may occur** until the situation is resolved
+
+> This step is critical for detecting unauthorized access, tampering, or concealment.
+
+---
+
+### **4. Security Plan Requirements**
+
+Railway carriers and railway loaders must develop and maintain a **written security plan** that meets strict criteria.
+
+#### Mandatory Components of the Security Plan:
+
+| Component | Description |
+|--------|-------------|
+| **Leadership & Structure** | Identify a senior manager responsible for overall development and implementation. Describe organizational structure, departments, and roles responsible for security duties. |
+| **Security Duties** | Clearly define the security responsibilities of each department and position. |
+| **Notification Process** | Outline how each responsible individual is notified when the plan must be implemented. |
+| **Risk Assessment** | Conduct a formal assessment of security risks associated with handling or transporting the dangerous goods in Schedule 1. |
+| **Security Inspection Process** | Include procedures for: <br> • Conducting inspections <br> • Determining if security has been compromised <br> • Determining when additional inspections are needed <br> • Responding to compromised situations |
+| **Access Control** | Set measures to prevent unauthorized access to dangerous goods and rail vehicles. |
+| **Candidate Screening** | Include procedures to verify information provided by individuals applying for positions involving access to security-sensitive materials. |
+| **Information Management** | Establish a policy on: <br> • Limiting access to sensitive security information <br> • Sharing, storing, and destroying such information |
+| **Other Risk Mitigation** | Address any other identified security risks. |
+| **Training Program** | Describe a program for security awareness and plan-specific training. |
+| **Incident Response** | Include procedures for responding to and reporting security incidents. |
+
+#### Key Requirements:
+- The plan must be **updated at least annually**
+- Must be **revised if circumstances change** that affect security risks
+- Must be **notified promptly** to all responsible parties when significantly revised
+- A **copy must be provided to Transport Canada upon request**
+
+> The measures in the plan must be **proportional** to the level of security risk identified in the assessment.
+
+> **Exception**: If a carrier already has a compliant security plan, no new one is required.
+
+---
+
+### **5. Training Requirements**
+
+#### **Who Must Be Trained?**
+- Anyone who:
+  - Offers for transport, handles, or transports dangerous goods by rail in Canada (Schedule 1)
+  - Is responsible for implementing the security plan (but does not perform duties in (a))
+
+#### **Training Must Be Provided At**:
+1. **Before initial duties begin** (unless prior equivalent training exists)
+2. **Within 6 months** of the later of:
+   - The date this regulation comes into force
+   - The date the person assumes responsibility in (b)
+   (unless prior training exists)
+3. **At least once every 3 years** (recurrent training)
+
+> Training must occur **under supervision** until the person completes training.
+
+#### **Training Topics (Security Plan Training)**:
+- Security objectives of the carrier/loader
+- Organizational security structure
+- Security procedures
+- Specific duties of the trainee
+- Security measures relevant to incident response
+
+#### **Security Awareness Training Topics**:
+- Security risks posed by the dangerous goods
+- Measures to enhance rail security
+- Recognition and response to potential threats and security concerns
+
+#### **Training Delivery**:
+- Must be documented and

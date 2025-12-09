@@ -1,0 +1,180 @@
+**Detailed Summary of the Marine Safety Management System Regulations (S.C. 2023, c. 26, s. 360)**
+
+---
+
+### **Overview**
+
+The *Marine Safety Management System Regulations* are a comprehensive regulatory framework established under the **Canada Shipping Act, 2001**, to ensure the safe and environmentally responsible operation of Canadian and foreign vessels operating in Canadian waters. These regulations implement the **International Management Code for the Safe Operation of Ships and for Pollution Prevention (ISM Code)**, adopted by the International Maritime Organization (IMO), and adapt its requirements to the Canadian context.
+
+The regulations apply to a tiered classification system of vessels—**Class 1 through Class 5**—based on size, function, and operational risk. Each class has specific requirements for the development, implementation, and maintenance of a **documented Safety Management System (SMS)**, which governs both shore-based and on-board operations.
+
+---
+
+## **1. Legislative Basis**
+
+These regulations are made under several provisions of the *Canada Shipping Act, 2001*, including:
+- Paragraphs 35(1)(b), (d)a, (e)b
+- 35.1(1)(d) to (i)c and (k)c
+- 120(1)(d) to (g)d, (i), (k), and (m)
+- 150(1)(a)
+- 190(1)(b)
+- 244(f)e to (h)f
+
+These provisions authorize the Minister of Transport to establish safety management requirements for vessels, particularly those subject to international safety standards like the ISM Code and SOLAS (International Convention for the Safety of Life at Sea).
+
+---
+
+## **2. Definitions and Key Terms**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Canada Shipping Act, 2001* |
+| **Class 1 Vessel** | A Canadian vessel subject to Chapter IX of SOLAS (e.g., large passenger ships, tankers) |
+| **Class 2 Vessel** | A Canadian vessel that is: <br> - 500 gross tons or more; OR <br> - Certified to carry 50+ passengers and is 24 meters or longer |
+| **Class 3 Vessel** | A Canadian vessel not in Class 1 or 2, but 24 meters or longer |
+| **Class 4 Vessel** | A vessel not in Classes 1–3 that is: <br> - Over 15 gross tons; OR <br> - 15 gross tons or less and is a passenger-carrying vessel or towboat |
+| **Class 5 Vessel** | A vessel not in Classes 1–4, of 15 gross tons or less |
+| **ISM Code** | The international standard for safe ship operations and pollution prevention |
+| **Minister** | The Minister of Transport |
+| **Passenger-carrying vessel** | Any vessel carrying one or more passengers |
+| **Ship Manager** | A qualified individual responsible for managing both shore-based and on-board operations of a vessel |
+| **SOLAS** | International Convention for the Safety of Life at Sea, 1974, and its 1988 Protocol |
+| **Towboat** | As defined in the *Navigation Safety Regulations, 2020* |
+
+---
+
+## **3. Core Requirement: Safety Management System (SMS)**
+
+A **Safety Management System (SMS)** is defined as a structured set of policies and procedures designed to ensure the effective implementation of safety and environmental protection measures across all aspects of a vessel’s operations.
+
+### **Applicability of the Regulations**
+- Applies to **Class 1, 2, 3, 4, and 5 vessels** and their shore-based and on-board operations.
+- Applies to **foreign vessels** that:
+  - Are subject to Chapter IX of SOLAS
+  - Are operating in Canadian waters
+  - Have an authorized representative operating the vessel
+
+### **Exclusions**
+The regulations **do not apply** to:
+- Vessels under the *Fishing Vessel Safety Regulations*
+- Vessels without mechanical propulsion and not carrying persons, dangerous chemicals, or oil in bulk
+- Human-powered vessels
+- Vessels under the *Special-purpose Vessels Regulations*
+- Pleasure crafts
+
+---
+
+## **4. Key Provisions by Vessel Class**
+
+---
+
+### **Class 1 Vessels (High-Risk, SOLAS-Compliant)**
+
+These are large, high-risk vessels (e.g., tankers, passenger ships) subject to full SOLAS requirements.
+
+#### **Requirements:**
+- A **documented SMS** must be developed, implemented, and maintained by the **ship manager**.
+- The SMS must cover **shore-based and on-board operations**.
+
+#### **Documents Issued by the Minister:**
+- **Interim Document of Compliance (DOC)**: Issued if the ship manager meets the requirements of **Part B, Section 14.1 of the ISM Code**.
+- **Document of Compliance (DOC)**: Issued if the SMS meets **Part A of the ISM Code** (full compliance).
+
+- **Safety Management Certificate (SMC)**:
+  - **Interim SMC**: Issued if the SMS meets **Part B, Sections 14.2 and 14.4**.
+  - **SMC**: Issued if the vessel operates in accordance with the SMS and the DOC requirements are met.
+
+#### **Mandatory Requirements for Operation:**
+- The **master** must ensure that:
+  - The DOC or Interim DOC is kept on board
+  - The SMC or Interim SMC is kept on board
+  - The SMS document (describing procedures) is kept on board
+
+- The **ship manager** must ensure that:
+  - The DOC, SMC, and SMS document are produced upon request by the Minister
+
+#### **Internal Audits and Management Reviews**
+- Must be conducted **in accordance with Section 12 of Part A of the ISM Code**
+- Frequency: As per **paragraph 12.1** (typically every 12 months or as determined)
+- Results must:
+  - Be shared with all personnel responsible in the relevant area
+  - Be documented and kept for **at least 5 years**
+  - Be produced upon request by the Minister
+
+#### **Corrective Action**
+- A **corrective action plan** must be developed and implemented promptly after any deficiency is identified.
+- The plan must:
+  - Identify the root cause
+  - Specify how to rectify the issue
+  - Include steps to prevent recurrence
+
+#### **Prohibitions**
+- **Operating the vessel is prohibited** unless:
+  1. The ship manager holds a valid DOC or Interim DOC
+  2. Holds a valid SMC or Interim SMC
+  3. Maintains the SMS
+- **Operation is also prohibited** unless the vessel operates in accordance with the SMS procedures.
+
+---
+
+### **Class 2 Vessels (Medium-Risk, Larger or Passenger-Carrying)**
+
+These include vessels of 500 gross tons or more, or passenger-carrying vessels of 24 meters or more.
+
+#### **Requirements:**
+- A documented SMS must be developed and implemented.
+
+#### **Documents Issued:**
+- **Class 2 Canadian Document of Compliance (DOC)**: Issued if the SMS meets **Part A of the ISM Code**.
+- **Canadian Safety Management Certificate (SMC)**: Issued if the SMS meets Part A requirements.
+
+#### **Implementation Timeline:**
+- The ship manager must implement the SMS within **six months** of receiving:
+  - The DOC
+  - The SMC
+
+#### **Operational Requirements:**
+- **Master must ensure** that:
+  - DOC is kept on board
+  - SMC is kept on board
+  - SMS document is kept on board
+
+- **Ship manager must ensure** that:
+  - DOC and SMC are produced upon request
+
+#### **Audits and Reviews:**
+- Conducted in accordance with **Section 12 and paragraph 12.1 of Part A of the ISM Code**
+- Results must be shared with relevant personnel and kept for **at least 5 years**
+- Corrective action plans must be developed and implemented promptly with root cause analysis and recurrence prevention
+
+#### **Prohibitions:**
+- Operating the vessel is prohibited unless:
+  1. The ship manager holds a valid Class 2 DOC
+  2. Holds a valid Canadian SMC
+  3. Maintains the SMS
+- **After the six-month implementation deadline**, operation is prohibited unless the vessel operates in accordance with the SMS.
+
+---
+
+### **Class 3 Vessels (Medium-Sized, Non-Passenger, ≥24m)**
+
+These are vessels not in Class 1 or 2, 24 meters or longer.
+
+#### **Requirements:**
+- A documented SMS must be developed and implemented.
+
+#### **Documents Issued:**
+- **Class 3 Canadian DOC**: Issued if the SMS meets **Part A of the ISM Code**, **excluding Sections 4 and 12** (which relate to training and internal audits).
+- **Canadian SMC**: Issued if the SMS meets Part A requirements (excluding Sections 4 and 12).
+
+#### **Implementation Timeline:**
+- SMS must be implemented within **six months** of receiving the DOC or SMC.
+
+#### **Operational Requirements:**
+- **Master must ensure** that:
+  - DOC and SMC are kept on board
+  - SMS document is kept on board
+
+- **Ship manager must ensure** that:
+  - DOC and SMC are produced upon request
+

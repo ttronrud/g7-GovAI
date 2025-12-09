@@ -1,0 +1,179 @@
+### **Detailed Summary of the Canadian Chicken Marketing Levies Order**
+
+---
+
+#### **1. Background and Legal Authority**
+
+This regulation, known as the **Canadian Chicken Marketing Levies Order**, is a formal instrument issued by **Chicken Farmers of Canada (CFC)** under the authority of the **Farm Products Agencies Act (FPA Act)**.
+
+- The **Governor in Council** established CFC in 1993 via the *Chicken Farmers of Canada Proclamation*, empowering it to develop and implement a **marketing plan** for the Canadian chicken industry.
+- This Order is a **class of order** under **paragraph 7(1)(d)** of the FPA Act, which allows for the creation of marketing levies to support the implementation of such a plan.
+- It was submitted to the **National Farm Products Council (NFPC)** for review and approval, which granted its approval based on the necessity of the levy for effective marketing plan implementation.
+- The Order is therefore legally valid and enforceable under **paragraph 22(1)(f)** of the FPA Act and **section 12f of the Chicken Farmers of Canada Proclamation**.
+
+> **Key Legal Basis**:  
+> - *Farm Products Agencies Act* (FPA Act)  
+> - *Agencies’ Orders and Regulations Approval Order* (s. 2)  
+> - *Canadian Chicken Marketing Quota Regulations*  
+> - *Canadian Chicken Licensing Regulations*
+
+---
+
+#### **2. Purpose of the Order**
+
+The primary purpose of this Order is to:
+
+- **Generate revenue** to support the marketing, pricing, and development of the Canadian chicken industry.
+- **Ensure compliance** with national marketing quotas (federal quotas and market development quotas).
+- **Encourage efficient use** of chicken production and processing by regulating how and when chicken is marketed in interprovincial or export trade.
+- **Support market stability** and fair competition through a structured levy system.
+
+---
+
+#### **3. Scope of Application**
+
+The Order applies to the following entities and activities:
+
+| Entity / Activity | Conditions |
+|------------------|-----------|
+| **Producers** | Who sell live chicken in interprovincial or export trade **in excess of their federal quota** or **federal specialty chicken quota** |
+| **Dealers** | Who purchase live chicken from producers for interprovincial or export trade |
+| **Processors** | Who purchase live chicken for interprovincial or export trade or market chicken produced under federal market development or specialty quotas |
+| **Primary Processors** | Who market chicken under federal market development quota outside the designated market development commitment period or to non-approved end-uses |
+
+> **Exclusions (Non-Applicable Producers)**  
+> The Order **does not apply** to small-scale producers in certain provinces who meet specific annual production thresholds and are exempt under provincial regulations:
+> - **Ontario**: ≤300 chickens/year (no quota required)
+> - **Quebec**: ≤100 chickens/year (unless authorized by Les Éleveurs de volailles du Québec)
+> - **Nova Scotia**: ≤200 chickens/year (for personal consumption only)
+> - **New Brunswick**: ≤200 chickens/year
+> - **Manitoba**: ≤999 chickens/year
+> - **British Columbia**: ≤200 chickens/year
+> - **Prince Edward Island**: ≤500 chickens/year
+> - **Saskatchewan**: ≤999 chickens/year or under communal group production quota
+> - **Alberta**: ≤2,000 chickens/year or under communal group production quota
+> - **Newfoundland and Labrador**: ≤100 chickens/year
+
+> These exemptions recognize that small-scale producers have limited market impact and are not subject to the same marketing pressures.
+
+---
+
+#### **4. Levies and Payment Structure**
+
+##### **A. Base Marketing Levy (Per Kilogram of Live Weight)**
+
+A **per-kilogram levy** is imposed on all live chicken marketed in interprovincial or export trade, based on the **province of production**:
+
+| Province | Levy (cents per kg) |
+|---------|---------------------|
+| Ontario | 2.71 |
+| Quebec | 2.27 |
+| Nova Scotia | 1.67 |
+| New Brunswick | 1.20 |
+| Manitoba | 2.46 |
+| British Columbia | 2.06 |
+| Prince Edward Island | 2.11 |
+| Saskatchewan | 1.87 |
+| Alberta | 1.95 |
+| Newfoundland and Labrador | 1.67 |
+
+> This levy is **collectively shared** across producers and collected by dealers or processors.
+
+##### **B. Excess Quota Levy (Per Kilogram)**
+
+In addition to the base levy, every producer must pay a **separate levy of 44.0 cents per kilogram** for any chicken marketed **in excess of their federal quota or federal specialty chicken quota** during an **audit period**.
+
+> **Audit Period Definition**:  
+> Two consecutive periods during which chicken is authorized to be marketed under the *Canadian Chicken Marketing Quota Regulations*.
+
+> **Important Note**:  
+> Marketings **below** the federal market development quota **do not reduce** the excess quota levy calculation — the excess is calculated based on total marketings **above** the quota.
+
+##### **C. Primary Processor Levies**
+
+Primary processors (those who slaughter chicken under federal market development or specialty quotas) face additional levies depending on how and when the chicken is marketed:
+
+| Scenario | Levy (per kg live weight) |
+|--------|----------------------------|
+| Chicken not marketed during the **market development commitment period** | $1.00 |
+| Chicken not marketed before the end of the **post-commitment period** | Additional $0.60 |
+| Chicken marketed to a **non-approved buyer or end-use** (outside Schedule 2) | $1.60 |
+| Chicken not marketed as one of the approved product categories (in Schedule 2) | $1.60 |
+| Chicken marketed to approved end-use but **not reported within 21 days** of the reporting period | $1.60 |
+
+> The **market development commitment period** spans three periods:
+> 1. The period in the market development commitment form (Schedule 1 to Licensing Regulations)
+> 2. The period immediately before the commitment period
+> 3. The period immediately after the commitment period
+
+> **Live Weight Equivalent**:  
+> Calculated using **coefficients** in the schedule (see below).  
+> If further processed products (e.g., ground meat, nuggets) are derived from chicken, the **chicken meat component** is included in the live weight equivalent.
+
+##### **D. Specialty Chicken Quota Levy**
+
+For producers or processors holding a **specialty chicken licence** who market chicken under a federal specialty chicken quota:
+
+- A levy of **$1.60 per kilogram** applies to any chicken marketed **outside the specific product class** for which the quota was issued.
+
+> Example: If a quota was issued for "frozen whole chicken," but the chicken is sold as "chicken nuggets," the $1.60 levy applies.
+
+---
+
+#### **5. Collection and Remittance Requirements**
+
+- **Collection by Processor or Dealer**:
+  - If a processor or dealer purchases live chicken from a producer, they must **deduct the applicable levy** from the payment to the producer.
+  - The processor or dealer must then **remit the full levy** to CFC or the provincial Commodity Board **no later than the Monday following the week** of collection.
+
+- **Collection by Producer**:
+  - If the producer markets chicken directly, they must remit the levy **within two weeks** after the sale.
+
+> **Remittance Requirements**:
+> All levies must be accompanied by a **formal statement** on a form approved by CFC that includes:
+> - For processors/dealers:
+>   - Name and address of each producer
+>   - Number of heads and kilograms of chicken purchased
+>   - Amount of levy collected
+> - For producers:
+>   - Name and address
+>   - Number of heads and kilograms marketed
+>   - Amount of levy remitted
+
+---
+
+#### **6. Assessment and Dispute Process**
+
+##### **A. Notice of Assessment**
+- CFC issues a **notice of assessment** to primary processors or producers who are liable for levies under:
+  - Section 5 (market development quota)
+  - Section 5.1 (specialty chicken quota)
+
+##### **B. Response Timeline**
+- **Within 20 days**: Pay the levy or **write to CFC** indicating intent to dispute.
+- **Within 30 days**: Submit **written evidence** to dispute the assessment if:
+  - The failure to market chicken as required was due to an **unforeseeable, uncontrollable event** (not due to fault of the processor/producer)
+  - The event rendered it **impossible to market** to approved end-uses
+  - The event was **beyond the processor’s control**
+
+> **Examples of qualifying events**:
+> - Natural disasters (e.g., floods, fires)
+> - Pandemics or disease outbreaks
+> - Government-imposed trade restrictions
+> - Force majeure events
+
+##### **C. Outcome of Dispute**
+- If CFC finds the event qualifies, it may:
+  - **Cancel** the notice of assessment
+  - **Revise** the assessment if only a portion of the marketings were affected
+- If no cancellation is issued, CFC issues a **final assessment determination**.
+
+##### **D. Final Payment Deadline**
+- The levy must be **remitted within 35 days** of receiving the final assessment.
+
+---
+
+#### **7. Definitions (Key Terms)**
+
+| Term | Definition |
+|------|-----------

@@ -1,0 +1,156 @@
+Certainly. Below is a **detailed, structured summary** of the *Storage Tank Systems for Petroleum Products and Allied Petroleum Products Regulations*, as published under the *Canadian Environmental Protection Act, 1999* (CEPA 1999), effective June 12, 2008.
+
+---
+
+## 🔍 **Comprehensive Summary of the Storage Tank Systems for Petroleum Products and Allied Petroleum Products Regulations**
+
+### 📌 **Regulatory Background**
+- **Legal Authority**: These regulations were made under **section 209 of CEPA 1999**, based on a proposed regulation published in the *Canada Gazette, Part I*, on **April 7, 2007**.
+- The proposal was subject to public consultation, during which stakeholders were invited to file comments or objections, with the option to request a board of review.
+- After review and public input, the Governor in Council adopted the regulations on **June 12, 2008**.
+
+---
+
+## 🏷️ Key Definitions (Core Terminology)
+
+| Term | Definition |
+|------|-----------|
+| **Aboveground tank** | A tank operating at atmospheric pressure, with all volume above ground or encased in an unfilled secondary containment. |
+| **Allied petroleum product** | Includes products listed in **Schedule 1** (e.g., certain solvents, lubricants, industrial chemicals). |
+| **CCME Code of Practice** | Environmental guidelines (2003) for aboveground and underground storage tank systems. Incorporated as a reference. |
+| **Certification mark** | Label/embossing indicating compliance with standards from accredited bodies (e.g., Standards Council of Canada, API, ASTM). |
+| **Corrosion expert** | Professional engineer or NACE International-recognized corrosion specialist. |
+| **Free oil** | Non-soluble, non-emulsified petroleum layer that accumulates in oil-water separators. |
+| **Partially buried tank** | Tank with part of its volume above ground and part below ground — *unless* fully enclosed in unfilled secondary containment. |
+| **Petroleum product** | Hydrocarbons (≥70% by volume) refined from crude oil, used as fuel/lubricant/power transmitter; excludes propane, paint, solvents. Includes used oil. |
+| **Piping** | Pipes, tubing, fittings, and valves used for handling/storing petroleum products. |
+| **Secondary containment** | Prevents leaks from reaching the environment; includes double-walled tanks, liners, impermeable barriers. |
+| **Separated solids** | Particulate matter that settles at the bottom of an oil-water separator. |
+| **Storage tank system** | Includes tanks, piping, vents, pumps, sumps, diking, overfill protection, spill containment, and oil-water separators. Ends at pump discharge at airports. |
+| **Tank** | Closed container >230 L, designed for fixed installation. |
+| **Transfer area** | Area around connection point (truck, rail, aircraft, vessel) where aggregate tank capacity exceeds 2,500 L. |
+| **Underground tank** | Operates at atmospheric pressure, fully below ground, completely surrounded by fill. |
+| **Used oil** | Lubricating oil, hydraulic fluid, insulating oil that has lost original properties due to contamination or degradation. |
+
+> ⚠️ *Note: "Spill" was repealed by SOR/2017-110, s. 20.*
+
+---
+
+## 📍 **Scope of Application**
+
+The regulations apply to **any storage tank system in Canada** that:
+
+✅ Stores **petroleum products or allied petroleum products** and meets **one or more of the following criteria**:
+
+1. Operated by a **federal department, board, or agency**, or belongs to **Her Majesty in right of Canada**;
+2. Operates to provide a service to or belongs to a **federal work or undertaking** such as:
+   - A port authority (as per Canada Marine Act schedule);
+   - An airport (under Aeronautics Act);
+   - A railway;
+3. Located on **federal land or aboriginal land**;
+4. Operated by a **Crown corporation** (as defined in *Financial Administration Act*, s. 83(1)).
+
+---
+
+## ❌ **Exclusions (Where Regulations Do Not Apply)**
+
+The regulations **do not apply** to:
+
+1. Storage tank systems in buildings with secondary containment equivalent to a **maximum hydraulic conductivity of 1 × 10⁻⁶ cm/s** (continuous basis);
+2. Systems containing **unprocessed petroleum products** from oil/gas exploration;
+3. Aboveground systems with **aggregate capacity ≤ 2,500 L** connected to a **heating appliance or emergency generator**;
+4. Systems regulated under:
+   - *National Energy Board Act*;
+   - *Canada Oil and Gas Operations Act*.
+
+---
+
+## 🚫 **Prohibited Releases of Petroleum Products**
+
+### **General Prohibition (s. 1)**
+- A person **must not release** (or permit/cause) any **petroleum product or allied petroleum product in liquid form** into the environment from a storage tank system.
+
+#### Exceptions:
+- If the release **does not reach outside the secondary containment** of the system.
+
+### **Transfer Prohibitions (s. 3)**
+- A person **must not release** liquid during transfer **to or from** the tank system.
+
+#### Exceptions:
+- If the release **does not reach outside the transfer area**, and:
+  - The transfer area is designed in accordance with **section 15(1)**.
+
+---
+
+## 🛑 **Leak Response and Withdrawal Requirements**
+
+### **General Leak Response (s. 1, 2, 3)**
+- Upon detecting a leak:
+  - The owner/operator must **temporarily withdraw** the leaking component (if isolatable), or the **entire system**.
+  - The system/component may **only return to service** after **necessary repairs** ensure no further leakage.
+
+### **Special Requirements for Tanks Installed Before June 12, 2008**
+
+#### **Single-Walled Underground Tanks (s. 3(2))**
+- Must be **permanently withdrawn from service** and **removed** within **two years** after:
+  - June 12, 2008; or
+  - The date of leak discovery (whichever is later).
+
+- **Removal requirements**:
+  - For **vertically-oriented underground tanks**: Remove **piping and other external components** (s. 45).
+  - For **all other systems**: Remove the **entire single-walled underground tanks and components**.
+
+#### **Single-Walled Underground Piping (s. 3(3))**
+- Must be:
+  - **Temporarily withdrawn** (s. 43);
+  - **Permanently withdrawn** (s. 44);
+  - **Removed** (s. 45);
+  - **Replaced** (s. 14);
+  - OR
+  - **Permanently withdrawn** and system removed (within 2 years of leak discovery or June 12, 2008, whichever is later), depending on tank type.
+
+- **Exemptions**:
+  - If, as of June 12, 2008, the piping had:
+    - **Steel piping**: cathodic protection, leak detection, groundwater/vapour monitoring wells, single vertical check valves, or mechanical leak detection devices;
+    - **Non-metallic/copper piping**: leak detection, groundwater/vapour monitoring, check valves, or mechanical leak detection.
+
+---
+
+## 🚧 **Special Withdrawal Deadlines (Pre-2008 Systems)**
+
+| System Type | Deadline | Action Required |
+|-----------|---------|----------------|
+| Tanks designed for **above-ground** but installed **below ground** or in **filled secondary containment** (pre-2008) | **June 12, 2012** | Permanently withdraw and remove system |
+| Tanks designed for **underground** but installed **above ground** or in **unfilled secondary containment** (pre-2008) | **June 12, 2012** | Permanently withdraw and remove system |
+| **Partially buried tanks** | Within **4 years after June 12, 2008** | Permanently withdraw and remove system |
+
+> ⚠️ These systems must be removed regardless of whether they are leaking — a key step in phasing out outdated, high-risk designs.
+
+---
+
+## 🚫 **Prohibited Installations**
+
+- **No new installations** of storage systems containing:
+  - **Partially buried tanks**
+  - **Single-walled underground tanks**
+
+> This bans the construction of new systems using outdated, leak-prone technologies.
+
+---
+
+## ⏳ **Mandatory Compliance Deadlines for Pre-2008 Systems**
+
+### **Single-Walled Underground Tanks (non-steel, non-reinforced plastic)**
+- Must provide a **written declaration** (signed by a professional engineer) within **1 year of June 12, 2008**, stating that:
+  - The tank has **normal and emergency venting**;
+  - Tank walls and floor are **impervious** to product;
+  - Structural integrity is maintained;
+  - The tank is **suitable for storing petroleum products**.
+
+> This declaration is required only for tanks not covered by earlier exemptions (e.g., steel or reinforced plastic tanks).
+
+---
+
+## 🛠️ **Compliance with CCME Code of Practice**
+
+All new or installed systems (on or after June 12

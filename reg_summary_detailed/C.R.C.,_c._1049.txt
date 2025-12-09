@@ -1,0 +1,155 @@
+**Detailed Summary of the Military Rules of Evidence**
+
+The *Military Rules of Evidence* are a comprehensive set of procedural rules governing the admissibility, presentation, and evaluation of evidence in **court martial proceedings** within the Canadian Armed Forces. These rules are designed to ensure fair, consistent, and just trials while aligning with both military discipline and fundamental principles of criminal justice. Below is a detailed, structured summary of the key provisions and their implications.
+
+---
+
+### **1. Scope and Applicability**
+- **Title**: These Rules may be cited as the *Military Rules of Evidence*.
+- **Applicability**: They apply to **all court martial proceedings**, regardless of geographical location.
+- **Reference to Other Laws**: Words and phrases used in these Rules have the same meaning as in the *National Defence Act (NDA)* and the *Queen’s Regulations and Orders (QR&O)*, unless otherwise specified.
+- **Governing Law for Unaddressed Questions**: Where a question of evidence is not covered by these Rules, it shall be determined by the **law of evidence applicable in civil courts in Ottawa**, provided it is not inconsistent with these Rules.
+
+> ✅ *Purpose*: Ensures uniformity in evidence handling across military courts and aligns with broader Canadian legal standards.
+
+---
+
+### **2. Key Definitions**
+The Rules define critical legal terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Accused** | The accused personally, or their counsel or defending officer. Does **not** include an adviser. |
+| **Admissible** | Evidence that has a rational tendency to prove or disprove a fact. |
+| **Burden of Persuasion** | The obligation to convince the court of the existence or non-existence of a fact. |
+| **Business** | Any occupation, profession, or institutional activity—profit or not. |
+| **Circumstantial Evidence** | Evidence that leads to an inference about a fact relevant to the charge (not an element of the offence). |
+| **Confession** | A statement by the accused that is self-incriminating with respect to the charge. |
+| **Credibility** | The degree of trustworthiness assigned to a witness’s testimony. |
+| **Declarant** | The person who made the original hearsay statement. |
+| **Direct Evidence** | Evidence directly proving an element of the offence. |
+| **Evidence** | Anything that tends to make something manifest (i.e., has probative value). |
+| **Examined Copy** | A copy proven to match the original. |
+| **Expert Witness** | A witness qualified under section 81 of the NDA. |
+| **Extra-Judicial Statement (EJS)** | A statement made outside of court proceedings, not during evidence-taking under commission. Includes verbal or written statements, adoption of another’s words as one’s own, or expression of personal observation. |
+| **Judicial Notice** | Acceptance of a fact as true without proof. |
+| **Opinion** | An interpretation or inference about the significance of a fact. |
+| **Ordinary Witness** | A witness testifying about personal observations, not as an expert. |
+| **Public Document** | A statement made by a public officer under official duty. |
+| **Public Officer** | Anyone with legal duty or authority to make official statements (e.g., government officials, military personnel). |
+| **QR&O** | The Queen’s Regulations and Orders for the Canadian Forces. |
+| **Real Evidence** | Physical objects offered for direct perception by the court. |
+| **Rebuttable Presumption of Law** | A legal presumption that a fact exists if another fact is proven, unless disproven by evidence. |
+| **Relevant Evidence** | Evidence that relates to a fact in issue or strengthens direct/circumstantial evidence. |
+| **Reporting Witness** | A witness permitted to quote an extra-judicial statement. |
+| **Self-Incriminating Statement** | A statement that, if believed, would prove guilt. |
+| **Trial** | Refers specifically to a trial by court martial. |
+
+> 🔍 *Note*: These definitions form the foundation for interpreting admissibility and procedural requirements.
+
+---
+
+### **3. General Principles of Evidence**
+
+#### **A. Admissibility of Evidence**
+- **General Rule**: The court **shall not admit irrelevant evidence**.
+- **Relevant Evidence**: All **relevant evidence must be admitted and considered**.
+- **Exceptions**: Evidence may be excluded only if it is irrelevant or prejudicial.
+
+> ⚖️ *Principle*: Evidence must be directly connected to the facts at issue.
+
+---
+
+#### **B. Requirements for Consideration of a Fact**
+A fact may only be considered by the court **if evidence has been adduced through one of the following methods**:
+1. Oral testimony of a witness in court (Parts III–IV).
+2. Production and inspection of documents in court (Parts III–IV).
+3. Inspection or viewing of real evidence (Part IV).
+4. Admission by the prosecutor of a fact to narrow the issue (for procedural convenience).
+5. Judicial confession (under section 37).
+
+> ❌ *Exception*: The court **shall not consider a fact unless evidence has been presented**—no presumptions or assumptions.
+
+---
+
+#### **C. Burden of Persuasion**
+- **Default Burden**: The **prosecutor bears the burden** of persuading the court **beyond reasonable doubt** of every essential element of the charge.
+- **Exceptions**:
+  - If the accused seeks **acquittal on grounds of insanity**, the **accused bears the burden** of proving the required type and degree of insanity.
+  - If a material fact (other than insanity) requires the accused to bear the burden under the *Criminal Code* or NDA, that burden applies in court martial proceedings.
+  - Where the NDA specifically assigns a burden, it applies.
+
+> ✅ *Burden of Persuasion*:
+> - The accused satisfies the burden if they establish the **probable truth or existence** of the fact.
+> - The **burden of producing evidence** initially lies with the party having the burden of persuasion.
+> - This burden **shifts to the opposing party** when:
+>   - The first party presents evidence that reasonable men would consider sufficient to prove the fact; or
+>   - The fact is established by a **rebuttable presumption of law** (under section 13).
+
+> 🔁 *Shifting Burden*: Encourages active evidence production and promotes fairness.
+
+---
+
+#### **D. Rebuttable Presumptions of Law (Section 13)**
+- Applies when the offence is in issue.
+- A presumption arises when a certain fact is proven (e.g., a person was in a place at a time), and another fact is presumed to follow (e.g., they committed an act).
+- The presumption **can be rebutted** by evidence showing the fact is unlikely.
+
+> 📌 Example: If a soldier is found at a location during a crime, a rebuttable presumption may arise that he was involved—unless proven otherwise.
+
+---
+
+### **4. Judicial Notice (Section 15–18)**
+
+Judicial notice allows courts to accept facts as true without proof.
+
+#### **Mandatory Judicial Notice (Section 15)**  
+The court **must** take judicial notice of:
+- Accession and death of the Sovereign
+- Title and sign manual of the Sovereign
+- Constitution of Canada
+- Great Seal of Canada
+- Acts and resolutions of Parliament and provincial legislatures
+- Territorial limits of Canada and provinces
+- Existence of a declared emergency
+- Status of active service units
+- Status of foreign governments
+
+#### **Permissible Judicial Notice (Section 16)**  
+The court **may** take judicial notice of:
+- Contents of **proclamations, orders in council, ministerial orders, warrants, letters patent, rules, regulations, or by-laws** issued under authority of a public Act (including QR&O and orders from the Chief of the Defence Staff).
+- Law reports of the **Court Martial Appeal Board** and appeal courts.
+- Canada Gazette and provincial official gazettes.
+- Records of findings/sentences at courts martial (but **not evidence adduced**).
+- Dispositions on appeals, reviews, or petitions for new trial.
+- Official departmental reports, forms, documents, and publications (printed by Queen’s Printer).
+- Books and publications authorized for military use.
+- Matters of **general service knowledge**.
+- Facts or propositions of **general knowledge** that are:
+  - Well known in the community where the offence occurred
+  - Not subject to reasonable dispute
+  - Capable of immediate, accurate verification
+
+> ✅ *Purpose*: Saves time and ensures accurate factual background in military trials.
+
+#### **Process for Judicial Notice**
+- Parties may **request** judicial notice.
+- The **judge advocate** decides whether a fact is within section 15 or 16.
+- If in doubt, the judge advocate **rules against** taking judicial notice.
+- Once taken, the fact is **conclusively true**—no contradictory evidence is admissible.
+- Parties have the **right to submit informal evidence or arguments** regarding competence or propriety of taking judicial notice.
+
+> ⚠️ *Limitation*: Judicial notice **does not apply to publication or sufficiency of notification** (only content).
+
+---
+
+### **5. Character Evidence (Divisions V–VIII)**
+
+#### **General Rule**
+- **No evidence of general bad character or reputation** of the accused may be introduced by the prosecutor.
+- The accused may introduce evidence of **good character or reputation** through cross-examination or witnesses.
+- The prosecutor may **rebut** such evidence.
+
+#### **Character Testimony by Witnesses**
+- A witness may:
+ 

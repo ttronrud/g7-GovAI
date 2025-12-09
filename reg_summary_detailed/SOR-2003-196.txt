@@ -1,0 +1,135 @@
+**Detailed Summary of the Natural Health Products Regulations (S.C. 1999, c. 33, s. 347)**
+
+---
+
+### **Overview**
+
+The *Natural Health Products Regulations* (NHPR) were enacted by Her Excellency the Governor General in Council, on the recommendation of the Minister of Health, under **subsection 30(1)a of the Food and Drugs Act (FDA)**. These regulations establish a comprehensive regulatory framework governing the **manufacture, sale, importation, distribution, labelling, and safety** of natural health products (NHPs) in Canada.
+
+The regulations define what constitutes a natural health product, set out requirements for product licensing, and establish standards for safety, efficacy, labelling, and consumer protection—while explicitly **excluding** certain substances (such as those in Schedule 2) from this regime.
+
+---
+
+## **Key Definitions**
+
+The following terms are defined and used throughout the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Food and Drugs Act*, the primary legislation under which these regulations operate. |
+| **Natural Health Product (NHP)** | A substance or combination of substances listed in **Schedule 1** (e.g., vitamins, herbs, botanicals), or a homeopathic or traditional medicine, used for diagnosing, treating, preventing diseases, restoring organic functions, or modifying bodily functions in humans. **Excludes** substances in Schedule 2 (e.g., prescription drugs) or any combination containing such substances. |
+| **Manufacturer** | A person who fabricates or processes an NHP for sale. Excludes pharmacists who compound products for individual patients. |
+| **Distributor** | A person who sells an NHP to another party for resale. |
+| **Importer** | A person who brings an NHP into Canada for sale. |
+| **Expiry Date** | The earlier of: (1) the end of the stability period as determined under section 52; or (2) the date after which the manufacturer recommends the product should not be used. |
+| **Food Allergen** | Includes proteins from: almonds, Brazil nuts, cashews, hazelnuts, macadamia nuts, pecans, pine nuts, pistachios, walnuts; peanuts; sesame seeds; wheat/triticale; eggs; milk; soybeans; crustaceans; molluscs; fish; mustard seeds. |
+| **Gluten** | Any gluten protein derived from barley, oats, rye, triticale, or wheat, or from hybridized strains of these. Includes modified forms or fractions. |
+| **Added Sulphites** | Food additives listed in Table 2, column 1 of the *Common Names for Ingredients and Components Document*, present in NHPs due to addition during manufacturing. |
+| **Food Allergen Source, Gluten Source, and Added Sulphites Statement** | A mandatory label statement indicating presence of allergens, gluten, or added sulphites at ≥10 ppm. |
+| **Immediate Container** | The container directly in contact with the NHP (e.g., bottle, capsule). |
+| **Inner Label** | Label affixed to the immediate container. |
+| **Outer Label** | Label on the outer packaging (not on the immediate container). |
+| **Principal Display Panel (PDP)** | As defined in the *Consumer Packaging and Labelling Regulations*—the area on the label where the product name and key information are prominently displayed. |
+| **Probiotic** | A live microorganism (monoculture or mixed-culture) that benefits the human microbiota. |
+| **Proper Name** | - For vitamins: name in Schedule 1 item 3.<br>- For plants/algae/bacteria/fungi/non-human animal materials/probiotics: Latin nomenclature (genus and species).<br>- For others: chemical name. |
+| **Recommended Conditions of Use** | Includes: use/purpose, dosage form, route of administration, dose, duration, and risk information (cautions, warnings, contra-indications, adverse reactions). |
+| **Security Package** | Packaging with a feature (e.g., tamper-evident seal) that reasonably assures the product has not been opened prior to purchase. |
+| **Adverse Reaction** | Any noxious and unintended response to an NHP, occurring at any dose, during diagnosis, treatment, prevention, or modification of function. |
+| **Serious Adverse Reaction** | An adverse reaction that requires hospitalization, causes congenital malformation, results in persistent disability, is life-threatening, or leads to death. |
+| **Serious Unexpected Adverse Reaction** | A serious adverse reaction not previously identified in the product’s risk information. |
+| **Specifications** | A detailed description of the NHP that includes analytical, physical, and identity tests required for quality control. |
+
+> *Note:* Words and expressions incorporated by reference from the *Food and Drug Regulations* (FDR) take on the meanings assigned here unless otherwise defined.
+
+---
+
+## **Scope of Application**
+
+The regulations apply to:
+- The **sale** of NHPs
+- The **manufacture, packaging, labelling, and importation** of NHPs for sale
+- The **distribution** of NHPs
+- The **storage** of NHPs for any of the above purposes
+
+> **Important Exclusion**: A substance or combination is *not* considered a natural health product if its sale requires a prescription under the FDR (e.g., prescription drugs), unless it falls under section C.01.043 of the FDR—which allows for certain non-prescription sales.
+
+> **Key Principle**: Except where otherwise indicated, **the Food and Drug Regulations do not apply** to natural health products. This means NHPs are regulated under a distinct, less stringent framework than prescription drugs.
+
+---
+
+## **Product Licensing Requirement**
+
+**No person may sell a natural health product without a valid product licence issued by the Minister of Health.**
+
+### **Licensing Process**
+
+1. **Application Submission**
+   - Must be submitted to the Minister and include:
+     - Applicant’s name, address, phone, fax, and email
+     - Canadian representative details (if applicable)
+     - For each medicinal ingredient:
+       - Proper and common name
+       - Quantity per dosage unit
+       - Potency (if claimed on label)
+       - Source material
+       - Whether synthetically manufactured
+     - List of non-medicinal ingredients with purpose
+     - Brand names under which the product will be sold
+     - Recommended conditions of use (dose, route, duration, risks)
+     - Evidence of safety and efficacy (based on scientific data)
+     - Text of proposed labels (inner and outer)
+     - Copy of specifications
+     - Attestation:
+       - If imported: confirms compliance with Part 3 requirements or equivalent
+       - If not imported: confirms compliance with Part 3 requirements
+
+2. **Timeframe for Review**
+   - If the application contains only information from the **Compendium of Monographs** (e.g., monograph for a single ingredient or combination), the Minister must dispose of the application within **60 days**.
+   - If additional information or samples are requested (e.g., under section 15), the 60-day period is extended to include the time taken to receive such submissions.
+
+3. **Disposal of Application**
+   - The Minister disposes of the application on the **earlier of**:
+     - The day the licence is issued
+     - The day the applicant receives a notice under subsection 9(1)
+
+4. **Issuance of Licence**
+   The Minister may issue or amend a product licence if:
+   - The application is complete and compliant
+   - All requested additional information has been submitted
+   - No false or misleading statements are present
+   - Issuance would not result in harm to consumers' health
+
+5. **Refusal and Reconsideration**
+   - If the Minister refuses the application, a **notice of refusal** is sent.
+   - The applicant has **30 days** to request reconsideration.
+   - Upon request, the Minister must:
+     - Provide the applicant with an opportunity to be heard
+     - Reconsider the application
+   - If the reconsideration results in approval, the licence is issued or amended.
+   - If the Minister again refuses, a **final notice** is issued explaining the refusal.
+
+6. **Product Number**
+   - Each licensed NHP is assigned a unique **product number**.
+   - If the NHP is a drug with a Drug Identification Number (DIN), that DIN becomes the product number.
+
+---
+
+## **Changes to a Licensed Product**
+
+Any change to the product that affects its safety, efficacy, or labelling **requires amendment of the product licence** before the product can be sold.
+
+### **Changes That Require Licence Amendment**
+
+The licensee must not sell any lot or batch affected by the following changes **unless** the licence is amended:
+
+| Change Type | Description |
+|-----------|-------------|
+| **Dosage** | Change to recommended dose |
+| **Duration** | Change to recommended duration of use |
+| **Risk Information** | Deletion or modification of cautions, warnings, contra-indications, or known adverse reactions |
+| **Use/Purpose** | Change in recommended use or purpose |
+| **Source Material** | Change in source of any medicinal ingredient |
+| **Synthetic Status** | Change from synthetic to natural or vice versa |
+| **Potency** | Change in potency of any ingredient |
+| **Safety/Efficacy** | Any change affecting safety or efficacy not resulting from: quantity per dose, addition/substitution of ingredient, change in dosage form, or route of administration |
+| **Specifications** | Removal of a test method; modification that widens

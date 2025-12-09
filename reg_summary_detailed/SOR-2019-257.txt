@@ -1,0 +1,194 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the provided regulation — the **Payment Clearing and Settlement Regulations**, made under the *Payment Clearing and Settlement Act* (PCSA), as amended by S.C. 2018, c. 12, s. 243 and S.C. 1996, c. 6, Sch.
+
+---
+
+## 🔍 **Detailed Summary of the Payment Clearing and Settlement Regulations**
+
+### 📌 **Overview**
+These regulations establish detailed rules governing the **affiliation structure**, **resolution planning**, **compensation mechanisms**, and **oversight responsibilities** of clearing and settlement systems in Canada. They are designed to ensure **financial stability**, **systemic risk mitigation**, and **fair treatment of participants** in the payment and settlement system, particularly in the event of a system-wide failure (non-viability).
+
+The regulations are issued under **section 24a of the Payment Clearing and Settlement Act (PCSA)**, on the recommendation of the Minister of Finance, and come into force when both sections 237 and 242 of the *Budget Implementation Act, 2018, No. 1* come into effect.
+
+---
+
+## 1. 🔗 **Key Definitions and Affiliation Rules**
+
+### ✅ Definition of "Affiliate"
+A person or entity is considered an **affiliate** if:
+- One is a **subsidiary** of the other;
+- Both are subsidiaries of the **same parent entity**; or
+- Both are **controlled by the same person or entity**.
+
+> ⚖️ **Key Principle**: If two entities are affiliated with the same third party, they are **deemed affiliated with each other**, even if not directly linked.
+
+---
+
+### ✅ Definition of "Control"
+A person or entity **controls** another if:
+- For a **corporation**: it holds **more than 50% of voting shares** (directly or indirectly), and those votes are sufficient to elect a majority of directors.
+- For a **trust, fund, partnership (excluding limited partnerships), or unincorporated association**: it holds **more than 50% of ownership interests** and can **direct the business and affairs**.
+- For a **limited partnership**: the **general partner controls** the limited partnership.
+
+> 📌 *Control is not based on percentage of equity alone — it requires the ability to influence governance and operations.*
+
+---
+
+### ✅ Definition of "Subsidiary"
+An entity is a **subsidiary** if:
+- It is **controlled by** another entity, or
+- It is **controlled by that entity together with one or more of its subsidiaries**, or
+- It is a **subsidiary of a subsidiary** of that entity.
+
+> This creates a **nested chain of control**, which expands the scope of affiliation beyond direct ownership.
+
+---
+
+## 2. 🏦 **Limited Clearing Members (Subsection 11.11(4))**
+
+A **limited clearing member** is a participant in a clearing and settlement system who:
+- Is **not required to contribute to a default fund**;
+- Is **not required to absorb losses** from another participant’s default (except for **variation margin gains** from transactions entered into jointly with the defaulting participant);
+- Is **subject to additional initial margin requirements**.
+
+> 🔍 This classification aims to **differentiate between high-risk and low-risk participants**, offering some protection while maintaining financial discipline.
+
+> ⚠️ *Note: This definition excludes shares of the clearing house itself — ownership in the clearing house is not considered under this rule.*
+
+---
+
+## 3. 🚫 **Prohibition on Beneficial Ownership by Committee Members**
+
+Under **subsection 11.04(6)** of the Act:
+> **No member of the committee** (of the clearing house or system) may **beneficially own shares** in:
+- A clearing house of a designated clearing and settlement system, or
+- An entity that controls such a clearing house.
+
+> 🔐 This prevents conflicts of interest and ensures **independence and impartiality** in governance decisions.
+
+---
+
+## 4. 📋 **Mandatory Resolution Plan Requirements (Section 11.05)**
+
+Every clearing and settlement system must submit a **resolution plan** that includes:
+
+### A. Risk Profile
+- System design and operational structure;
+- Corporate governance and organizational chart of the clearing house;
+- Diagram or description of **intercorporate relationships** between the clearing house and its affiliates, including:
+  - Name and jurisdiction of each affiliate;
+  - Percentage of voting shares held by other affiliates;
+- Critical clearing and settlement functions;
+- Critical services provided to the clearing house (e.g., IT, operations);
+- Critical operational resources (staff, IT infrastructure);
+- Contracts or arrangements with other clearing houses or systems.
+
+### B. Resolution Strategy
+- Clear, actionable steps to be taken if the system is declared **non-viable** (e.g., restructuring, asset transfer, liquidation).
+
+### C. Resource Assessment
+- Evaluation of **financial resources** and **loss allocation tools** (e.g., default funds, margin requirements) needed to implement the resolution strategy.
+
+### D. Operational Plan
+- How the resolution strategy will be executed;
+- Identification of **potential barriers** (e.g., legal, technical, regulatory).
+
+### E. Approval Requirement
+- The plan must be **approved by the Governor of the Bank of Canada**.
+
+> ✅ This ensures that resolution plans are **practical, transparent, and bank-approved**, reducing systemic risk.
+
+---
+
+## 5. 🔄 **Review and Updates to Resolution Plans**
+
+The **Governor of the Bank** must:
+- Review and **modify** the resolution plan **at least once every 12 months**; and
+- Review and modify it **without delay** after any of the following changes:
+  - Changes in ownership structure;
+  - Changes in key personnel;
+  - Changes in risk profile or operational capacity;
+  - Changes in regulatory or legal framework (as per paragraphs 9(2)(a)–(c) of the Act).
+
+> 🔁 Ensures the plan remains **current and responsive** to evolving risks.
+
+---
+
+## 6. 💰 **Cost Recovery in Resolution (Section 11.18)**
+
+The Bank may recover **resolution costs** from:
+1. A clearing house declared non-viable;
+2. The clearing house of a non-viable system;
+3. Any participant in the system **on the day of declaration or thereafter**.
+
+### 📚 What Are "Resolution Costs"?
+Costs incurred to:
+- Address financial losses or capital shortfalls;
+- Maintain pre-funded financial resources;
+- Operate the system or clearing house;
+- Meet participant obligations;
+- Administer compensation (sections 6–18);
+- Execute the overall resolution process.
+
+### 🔒 Limitations on Limited Clearing Members
+- Recovery from **limited clearing members** is **limited** to:
+  - Operating costs;
+  - Compensation administration;
+  - Meeting the member’s financial obligations to the clearing house.
+
+> ❌ **Excluded**: Costs related to meeting participant obligations (e.g., losses from default) are not recoverable from limited members.
+
+> 📝 *Note: Amounts paid under sections 13 and 18 (compensation) are not included in recovery.*
+
+---
+
+## 7. 📉 **Recovery Order Priority**
+
+The Bank must follow a **priority order** when recovering costs:
+1. **First**, attempt to recover from the **participant** (if the cost is to meet their obligations);
+2. **Second**, attempt to recover from the **clearing house** (if the cost is to meet its own obligations).
+
+> This ensures **fairness and accountability** — participants are not made to bear losses first if the clearing house is at fault.
+
+---
+
+## 8. 📜 **Prescribed Persons for Compensation (Section 6)**
+
+Certain persons or entities are **"prescribed"** for compensation purposes in the event of a declaration of non-viability:
+
+### ✅ Included:
+- **Creditors** of the clearing house immediately before non-viability;
+- **Participants** subject to an order under subsection 11.11(1) (e.g., forced exit);
+- **Shareholders** of a clearing house subject to an order under 11.09(1)(b);
+- **Holders of ownership interests** in such a clearing house.
+
+> 📌 These are the parties most directly affected by the failure.
+
+---
+
+## 9. ❌ **Exclusions from Prescription**
+
+Certain entities are **not prescribed**, even if they meet the criteria:
+- Entities that **continue to receive payments** under the terms of a debt during the non-viability period;
+- Entities to which the clearing house is **indebted** because:
+  - It acted as a central counterparty; or
+  - It provided clearing/settlement services.
+
+> 🚫 This protects legitimate ongoing obligations and service relationships.
+
+---
+
+## 10. 💵 **Compensation Calculations**
+
+### A. Compensation for Creditor (Paragraph 6(1)(a))
+- Total of **unpaid amounts** under contracts during the period from **declaration of non-viability to the day specified in the Canada Gazette notice**.
+
+### B. Compensation for Participant (Paragraph 6(1)(b))
+- Estimated **net losses** from the order under 11.11(1), calculated as:
+  - **As if all loss-mitigation measures** (e.g., capital buffers, liquidity plans) were exhausted;
+  - **Excluding any future assistance** from the Bank or government.
+
+> ⚖️ Ensures losses are based on **realized financial impact**, not future support.
+
+---
+
+### C. Resolution Value (

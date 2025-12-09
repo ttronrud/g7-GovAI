@@ -1,0 +1,177 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the provided **Industrial Design Regulations (S.C. 2015, c. 36, s. 47; R.S., c. I-9)**, which implement provisions of the *Industrial Design Act* in relation to the registration, examination, and management of industrial designs in Canada — particularly with respect to international applications under the **Hague Agreement**.
+
+---
+
+## 🔍 **Comprehensive Summary of the Industrial Design Regulations (2015)**
+
+### **1. Purpose and Authority**
+- These regulations were issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Industry**, under **Section 25a of the Industrial Design Act**.
+- They establish detailed procedural and substantive rules governing:
+  - The filing, examination, and registration of industrial designs.
+  - The handling of **Hague Agreement** international applications.
+  - The rules for **divisional applications**.
+  - The requirements for **representations**, **applications**, and **communications**.
+- The regulations apply to all applications and registrations of industrial designs in Canada, including those filed under international frameworks.
+
+---
+
+### **2. Key Definitions (Applicable Throughout the Regulations)**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Industrial Design Act* (R.S., c. I-9) |
+| **Application** | A formal request for registration of a design |
+| **Commissioner** | The Commissioner of Patents (i.e., the head of the Canadian Intellectual Property Office – CIPO) |
+| **Common Regulations** | Rules derived from the 1999 and 1960 Hague Agreements (including amendments) |
+| **Date of Registration** | For Hague registrations, defined under subsection 44(4) of the Act |
+| **Divisional Application** | A new application filed from a prior application (original or divisional), covering a subset of features of a design |
+| **Hague Agreement** | The Geneva (1999) Agreement on International Registration of Industrial Designs, including all amendments to which Canada is a party |
+| **Hague Application** | An application filed under the Hague Agreement |
+| **Hague Registration** | A registration granted under the Hague Agreement |
+| **Holder** | The person whose name appears in the International Register |
+| **International Bureau** | The World Intellectual Property Organization (WIPO)’s central body for managing international design registrations |
+| **International Designs Bulletin** | Official publication by WIPO of design filings, oppositions, and other notices |
+| **International Register** | WIPO’s official database of international design registrations |
+| **International Registration** | A design registration granted under the Hague Agreement |
+| **International Registration Designating Canada** | A Hague registration that includes Canada as a designated contracting party |
+| **Office** | The Canadian Intellectual Property Office (CIPO) |
+| **Written Communications** | Must be addressed to the “Industrial Design Office” and submitted in writing |
+
+> ⚠️ **Note**: Only written or electronic submissions are valid. Oral or informal communications are not binding.
+
+---
+
+### **3. Submission and Receipt of Documents**
+
+#### **Submission Methods**
+- **Physical Delivery**:
+  - Must be delivered to the CIPO or a designated establishment.
+  - **Received on**:
+    - The day of delivery if the Office is open; otherwise, the **next day the Office is open**.
+    - For designated establishments: if open on delivery → on that day; if closed → on the **next day the Office is open**.
+- **Electronic Submission**:
+  - Allowed under **subsection 24.1(1)** of the Act.
+  - Deemed received on the **day of receipt**, based on local time at the CIPO location.
+
+#### **Electronic Communications**
+- If a person consents to receive communications via a specific electronic method, the communication is deemed sent upon delivery.
+
+#### **Mandatory Information in Communications**
+- **Applications**: Must include:
+  - Applicant’s **name** and **postal address**.
+- **Registered Designs**: Must include:
+  - Name and address of the **registered proprietor** and **registration number**.
+
+#### **Document Requirements**
+- Must be:
+  - **Clear, legible**, and allow **direct reproduction**.
+  - In a form **specified by the Minister or Commissioner**.
+
+#### **Language Restrictions**
+- The Minister and Commissioner **must not consider** any part of a document in a language other than **English or French**, **except**:
+  - A representation of a design filed under **paragraph 4(1)(b)** of the Act.
+  - Documents referred to in **paragraph 27(1)(a)**.
+
+> ✅ This ensures consistency and enforceability in legal and administrative processes.
+
+---
+
+### **4. Representations of the Design**
+
+#### **Mandatory Requirements**
+- A design representation must:
+  1. **Fully disclose** the design, considering the name of the finished article and any statement under sections 17 or 18.
+  2. Be in one of the following forms:
+     - Photographs
+     - Graphic reproductions
+     - Any other form **approved by the Minister or Commissioner**
+  3. Be of **sufficient quality** to allow clear and accurate identification of design features.
+  4. Include **at least one image showing the design or finished article in isolation**.
+
+#### **Acceptable Formats**
+- Must be presented in the **form specified** by CIPO (e.g., high-resolution, properly scaled, unaltered).
+
+#### **Exclusions and Limitations**
+- **Dotted/broken lines**: Features shown in dotted or broken lines are **not considered part of the design**, unless a statement explicitly includes them.
+- **Blurring or colouring**: If used to indicate the feature is **not part of the design**, it is not considered part of the design.
+- **No utilitarian descriptions**: Any statement must **not describe**:
+  - Utilitarian function
+  - Manufacturing method or construction principle
+
+> 📝 Example: A photo showing a chair with a unique armrest shape is acceptable. A description saying "the armrest improves ergonomics" is **not allowed**.
+
+---
+
+### **5. Scope of the Application**
+
+#### **General Rule**
+- An application must relate to **only one design** applied to:
+  - A **single finished article**, or
+  - A **set of variants** applied to a **single finished article or set**.
+
+#### **Limitations on Scope**
+- The application **relates only to features** that:
+  - Appeal to and are judged **solely by the eye** (i.e., aesthetic features).
+- If the applicant **clearly states** the application relates only to **some features** (e.g., only the handle), then it only covers those.
+- Features shown in **dotted lines or blurred areas** are **not included**, unless otherwise stated.
+
+> 🚫 A design application cannot claim protection for functional elements (e.g., how a product works).
+
+---
+
+### **6. Divisional Applications**
+
+#### **When Can a Divisional Application Be Filed?**
+A divisional application may be filed **only if**:
+- The design in question was **disclosed in the original application** on:
+  - The **filing date** (for non-divisional original applications), or
+  - The **date the original application was received** (for divisional original applications), and
+  - In the **earliest original application in the series**, on its **filing date**.
+
+> ✅ This ensures that no new design is introduced after the original filing.
+
+#### **Mandatory Statement**
+- The application **must contain a statement** identifying the corresponding original application.
+- This statement must be submitted **within three months** of the date the Minister receives the divisional application.
+
+#### **Separate Application Status**
+- A divisional application is a **separate application**:
+  - With its own **filing date**
+  - With its own **fee structure**
+  - With its own **examination and registration process**
+
+#### **Filing Deadline**
+- Must be filed **within two years** of:
+  - The filing date of the original application (if not a divisional application), or
+  - The filing date of the **earliest original application** in the series (if the original was a divisional application)
+
+#### **Exception: Re-filing After Objection**
+- If:
+  1. The Minister sends a **refusal report** under subsection 22(2) stating the original application fails to meet the requirements;
+  2. The applicant **amends the original application** to remove the design in question;
+  3. The divisional application is filed **within six months of the amendment**,
+- Then the divisional application is **not subject to the two-year rule**.
+
+> ⚠️ This exception applies **only to non-Hague applications** and **does not apply to Hague applications or divisionals from them**.
+
+---
+
+### **7. Requirements for Filing an Application**
+
+#### **Documents, Information, and Statements Required**
+For **non-divisional applications**:
+- Explicit or implicit indication that registration is sought.
+- Information to establish the applicant’s identity.
+- Contact details (postal address).
+- A representation of the design.
+
+For **divisional applications**:
+- The same documents as the **earliest original application** in the series.
+
+> 📌 The Minister must issue a **notice** to applicants who are missing required documents, requiring submission within **two months**.
+
+> ❌ If documents are not submitted within this period, the application is **deemed never filed** — **no refund of fees** is allowed.
+
+---
+
+### **8. Examination and

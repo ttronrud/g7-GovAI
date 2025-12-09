@@ -1,0 +1,196 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the *Northern Canada Vessel Traffic Services Zone Regulations*, as issued under the *Canada Shipping Act, 2001*.
+
+---
+
+## 🔍 **Detailed Summary of the Northern Canada Vessel Traffic Services Zone Regulations**
+
+### 📌 **Legal Basis and Authority**
+- The regulations are made by **Her Excellency the Governor General in Council**, on the **recommendation of the Minister of Transport**.
+- They are enacted under **paragraphs 136(1)(a)a, (b)a, and (i)a** of the *Canada Shipping Act, 2001*.
+- **Statutory Citation**: S.C. 2005, c. 29, s. 18; S.C. 2001, c. 26.
+
+---
+
+### 📚 **Key Definitions (Applicable in These Regulations)**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Shipping Act, 2001* |
+| **Berth** | Includes a wharf, pier, anchorage, or mooring buoy |
+| **Dangerous Goods** | Substances, materials, or articles covered by the *International Maritime Dangerous Goods Code (IMDG)* |
+| **NORDREG Zone** | The Northern Canada Vessel Traffic Services Zone established under section 2 of the Act |
+| **Oil** | As defined in section 165 of the Act (hydrocarbons) |
+| **Pollutant** | As defined in section 185 of the Act (substances that cause environmental harm) |
+| **SOLAS** | The *International Convention for the Safety of Life at Sea, 1974*, including the 1988 Protocol, as amended |
+
+---
+
+## 🌍 **Establishment of the NORDREG Zone**
+
+The **Northern Canada Vessel Traffic Services Zone (NORDREG Zone)** is established to enhance maritime safety, environmental protection, and traffic management in remote and challenging northern waters.
+
+It includes the following areas:
+
+1. **Shipping Safety Control Zones**  
+   – As prescribed in the *Shipping Safety Control Zones Order* (existing zones with defined traffic control).
+
+2. **Waters outside shipping safety control zones** in:
+   - **Ungava Bay**
+   - **Hudson Bay**
+   - **Kugmallit Bay**
+
+3. **James Bay**
+
+4. **Koksoak River**, from Ungava Bay to Kuujjuaq
+
+5. **Feuilles Bay**, from Ungava Bay to Tasiujaq
+
+6. **Chesterfield Inlet** (excluding areas within shipping safety control zones), and **Baker Lake**
+
+7. **Moose River**, from James Bay to Moosonee
+
+> ✅ This zone covers a vast, sparsely populated, and environmentally sensitive region of northern Canada, where navigation presents unique challenges due to ice, weather, and remote infrastructure.
+
+---
+
+## 🚢 **Classes of Vessels Subject to Reporting Requirements**
+
+Vessels that fall into **any of the following categories** are required to comply with reporting obligations under **sections 126(1) and (126(3))** of the *Canada Shipping Act*:
+
+1. **Vessels of 300 gross tonnage (GT) or more**  
+2. **Towing or pushing vessels** where the **combined gross tonnage** (vessel + towed vessel) is **500 GT or more**  
+3. **Vessels carrying:**
+   - A **pollutant** or **dangerous goods** as cargo, or
+   - A vessel being towed/pushed that carries such cargo
+
+> ⚠️ These vessels are considered high-risk due to environmental, safety, or operational concerns.
+
+---
+
+## 📝 **Reporting Obligations for Vessels in the NORDREG Zone**
+
+All vessels of the prescribed classes must comply with specific reporting requirements. Each report must:
+
+- Begin with the prefix **"NORDREG"**
+- Be followed by one of the following **report type indicators**:
+  - **SP** = Sailing Plan Report  
+  - **PR** = Position Report  
+  - **FR** = Final Report  
+  - **DR** = Deviation Report  
+
+---
+
+### 📄 1. **Sailing Plan Report (SP)**
+
+**When Required:**
+- When a vessel is **about to enter** the NORDREG Zone  
+- **More than one hour but not more than two hours before departure** from a berth within the zone (unless moving to another berth in the same port)  
+- **Immediately before getting underway** if:
+  - The vessel has been **stranded**
+  - Has **stopped due to a breakdown** in main propulsion or steering system
+  - Has been **involved in a collision**
+
+**Required Designators (by scenario):**
+| Scenario | Required Designators |
+|--------|------------------------|
+| Entry into zone (1a) | A, B, C or D, E, F, G, H, I, L, O, P, Q, S, T, W, X |
+| Departure from berth (1b) | A, B, C or D, H, I, L, O, P, Q, S, T, W, X |
+| After breakdown/stranding/collision (1c) | A, B, C or D, I, L, O, P, Q, S, T, W, X |
+
+**Exemptions:**
+- If entering directly from the **Eastern Canada Vessel Traffic Services Zone** and has a **clearance under paragraph 126(3)(a)** of the Act → **O, Q, T** are not required  
+- If no change from the previous SP report → **O, P, Q, S, T, W, X** are not required (only if information has not changed)
+
+**Additional Information Required in SP Report:**
+- **Amount of oil** on board (for fuel or cargo)
+- **Arctic Pollution Prevention Certificate** (if held by owner or master)
+- **Vessel’s ice class** (if applicable)
+- **Applicable incident** (if report is under paragraph 6(1)(c))
+
+---
+
+### 📍 2. **Position Report (PR)**
+
+**When Required:**
+- **Immediately after entry** into the NORDREG Zone  
+- **Daily at 1600 UTC** (if underway), **unless** the vessel is transmitting its position via **Long-Range Identification and Tracking (LRIT)** under SOLAS Chapter V
+
+**Additional Reports (as soon as feasible):**
+If the vessel becomes aware of any of the following **within or approaching** the NORDREG Zone:
+- Another vessel in **apparent difficulty**
+- An **obstruction to navigation**
+- An **aid to navigation** that is:
+  - Not functioning
+  - Damaged
+  - Out of position
+  - Missing
+- **Hazardous ice or weather conditions**
+- A **pollutant in the water**
+
+**Required Designators:**
+- A, B, C or D, E, F, S  
+- **X** (only if required under subsection 7(2))
+
+**Additional Information Required (in PR):**
+- Brief description of the applicable matter (e.g., obstruction, pollution, etc.)
+
+---
+
+### 🚪 3. **Final Report (FR)**
+
+**When Required:**
+- Upon **arrival at a berth** within the NORDREG Zone  
+- **Immediately before exiting** the NORDREG Zone
+
+**Required Designators:**
+- A and K
+
+> This report confirms vessel status at the end of a journey or at the end of a stay.
+
+---
+
+### ⚠️ 4. **Deviation Report (DR)**
+
+**When Required:**
+- When a vessel’s **actual position** significantly deviates from the **expected position** in the sailing plan  
+- When the **intended voyage** changes from the original sailing plan
+
+**Required Designators:**
+- A, B, and either C or D  
+- All other designators from the sailing plan **that have changed** since the last report
+
+> This ensures accountability and allows for real-time monitoring of vessel movements.
+
+---
+
+## 📬 **Reporting Procedure and Addressing**
+
+- Every report must be:
+  - **Addressed to**: **NORDREG CANADA**
+  - **Sent to**: One of the **Marine Communications and Traffic Services (MCTS) Centres** designated by the **Canadian Coast Guard**
+
+> These centres serve as the central points for receiving, processing, and monitoring vessel traffic in the NORDREG Zone.
+
+---
+
+## 📂 **Required Information by Report Type**
+
+| Report Type | Required Information |
+|-----------|------------------------|
+| **Sailing Plan (SP)** | - Oil quantity (fuel or cargo)<br>- Arctic Pollution Prevention Certificate (name, expiry, issuing authority)<br>- Ice class (name of classification society)<br>- Incident details (if applicable) |
+| **Position Report (PR)** | - Brief description of incident (e.g., obstruction, pollution, ice hazard) |
+| **Final Report (FR)** | - A, K designators only |
+| **Deviation Report (DR)** | - A, B, C/D<br>- Changed designators from SP report |
+
+---
+
+## 📅 **Effective Date**
+
+- These regulations **come into force on July 1, 2010**
+
+---
+
+## 🔍 **Key Objectives and Rationale**
+
+1. **Enhanced Safety**  
+   - Real-time tracking and communication in a high-risk, remote region

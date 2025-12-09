@@ -1,0 +1,157 @@
+**Detailed Summary of the Allocation Method Order (2014) – Softwood Lumber Products**
+
+---
+
+### **Overview**
+
+The *Allocation Method Order (2014) – Softwood Lumber Products*, issued by the Minister of Foreign Affairs on **December 9, 2013**, establishes the method for allocating monthly export quotas of **softwood lumber products** from **Ontario, Quebec, Manitoba, and Saskatchewan** to the United States under **paragraph 6.3(3)(a)** of the *Export and Import Permits Act* (EIPA). This Order applies specifically to the year **2014** and is based on historical export and production data from a reference period (November 1, 2010 – October 31, 2013).
+
+The primary objective is to ensure **fair, transparent, and equitable distribution** of export quotas among primary producers and remanufacturers, while also maintaining **environmental and economic balance** in the Canadian softwood lumber sector.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Export and Import Permits Act* (EIPA), which governs export controls. |
+| **Exported** | As defined in section 6.4 of the EIPA — refers to the movement of softwood lumber products from Canada to the United States. |
+| **Manitoba quantity** | Monthly export limit from Manitoba to the U.S. under subsection 6.3(2) of the EIPA. |
+| **Ontario quantity** | Monthly export limit from Ontario to the U.S. |
+| **Ontario quantity** | Monthly export limit from Ontario to the U.S. |
+| **Primary producer** | A person who produces softwood lumber products directly from softwood sawlogs. In Quebec, includes those producing Quebec softwood lumber products. |
+| **Primary producer’s products** | Products produced by a primary producer that are not remanufactured in Canada. |
+| **Quebec quantity** | Monthly export limit from Quebec to the U.S. |
+| **Quebec softwood lumber products** | Products produced in Quebec and reported to the Minister of Natural Resources and Wildlife under the *Forest Act*, R.S.Q., c. F-4.1. |
+| **Reference period** | November 1, 2010 – October 31, 2013. Used to calculate historical export and production volumes. |
+| **Remanufacturer** | A person who remanufactures softwood lumber products within the meaning of subsection 13(1) of the *Softwood Lumber Products Export Charge Act, 2006*. |
+| **Remanufacturer’s products** | Products remanufactured in Canada and not further remanufactured. |
+| **Softwood lumber products** | Products listed in item 5104 of Group 5 of the *Export Control List*. |
+
+---
+
+## **Core Principles of the Allocation Method**
+
+1. **Allocation Based on Historical Performance**
+   - Export allocations are primarily determined by **historical export volumes** (for exporters) or **historical production volumes** (for producers with no export history).
+   - This ensures that entities with a track record of exporting receive a fair share based on past behavior.
+
+2. **Quota Distribution by Province**
+   - Separate allocations are established for each province:
+     - Ontario
+     - Quebec
+     - Manitoba
+     - Saskatchewan
+   - Each province has a fixed monthly export quota (the "quantity") that is distributed among eligible applicants.
+
+3. **Eligibility and Relinquishment**
+   - Any primary producer or remanufacturer may **relinquish** their export allocation for 2014 by notifying the Minister in writing by **December 9, 2013**.
+   - Relinquished allocations are excluded from the total pool used in calculations.
+
+4. **Transfers of Allocations**
+   - A primary producer or remanufacturer may **transfer** a portion of their export allocation to another entity, **with Minister’s consent** under subsection 6.3(4) of the EIPA.
+   - Such transfers are **only valid** if:
+     - The transferred volume corresponds to a real product volume; or
+     - The total volume transferred (including non-product volumes) does **not exceed 15%** of the original allocation.
+
+> ⚠️ Note: Transfers are not automatically counted toward the transferee’s allocation — they are **deemed to belong to the original producer** in terms of export volume reporting.
+
+---
+
+## **Allocation Formulas by Province**
+
+### **1. Ontario Quantity Allocation**
+
+- **Base Allocation Formula**:
+  $$
+  \text{Allocation} = \left( \frac{\text{Ontario quantity}}{\text{Total historical export volume (Ontario)}} \right) \times \text{Producer's historical export volume}
+  $$
+  - Denominator excludes producers who relinquished their allocations.
+  - Numerator is the producer’s historical export volume from Ontario to the U.S.
+
+- **Remainder Allocation**:
+  - After the base allocation is assigned, the **remaining Ontario quantity** is distributed **in order of receipt** of export permit applications.
+  - Each applicant receives the amount they request until the remainder is fully allocated.
+  - Applicants must **exhaust their initial allocation** before applying for the remainder.
+
+> 📌 *Rule*: The base allocation is based on **historical export performance**; the remainder is distributed **on a first-come, first-served basis**.
+
+---
+
+### **2. Quebec Quantity Allocation**
+
+Quebec allocation is more complex due to **dual criteria** (export volume vs. production volume) and a **reserve pool** mechanism to ensure minimum coverage.
+
+#### A. **Remanufacturer Allocation (Based on Historical Export Volume)**
+
+- Formula:
+  $$
+  \text{Allocation} = \left( \frac{\text{Quebec quantity}}{\text{Total historical export volume (Quebec)}} \right) \times \text{Remanufacturer’s historical export volume}
+  $$
+  - Excludes producers who relinquished allocations.
+
+- **Minimum Threshold Requirement**:
+  - The **sum of all remanufacturers’ allocations** must be **at least 7.5% of the Quebec quantity**.
+  - If not met, a **reserve pool** is created to cover the shortfall.
+
+#### B. **Reserve Pool (Section 9)**
+
+- Formula:
+  $$
+  \text{Reserve Pool} = \left( \text{Quebec quantity} - \text{Sum of remanufacturer allocations} \right) + \text{Shortfall to meet 7.5\% threshold}
+  $$
+  - The reserve pool is used to allocate additional volumes to **primary producers**.
+
+#### C. **Primary Producer Allocation (Based on Historic Production Volume)**
+
+- Formula:
+  $$
+  \text{Allocation} = \left( \frac{\text{Reserve Pool}}{\text{Total production volume (by primary producers)}} \right) \times \text{Producer’s production volume (2010–2012)}
+  $$
+  - Only applies to primary producers who:
+    - Did **not** export any products to the U.S. during the reference period, **OR**
+    - Produced Quebec softwood lumber between **January 1, 2010 – December 31, 2012**.
+
+- **Cap on Allocation**:
+  - No primary producer can receive more than **40% of their average monthly production volume** (2010–2012) as an allocation.
+
+> 🔍 *Key Rule*: Primary producers must choose between:
+> - Receiving allocation based on **historic export volume** (if they exported in the past), or
+> - Receiving allocation based on **historic production volume** (if they never exported).
+
+> 📝 *Data Source*: Production volumes are based on records provided by the **Government of Quebec**, with the consent of the producer.
+
+#### D. **Residual Non-Allocated Quantity (Section 11)**
+
+- Formula:
+  $$
+  \text{Residual} = \text{Reserve Pool} - \text{Total allocated to primary producers}
+  $$
+  - This residual amount is **not distributed** and remains unallocated.
+
+#### E. **Primary Producer Allocation (Based on Historic Export Volume)**
+
+- Formula:
+  $$
+  \text{Allocation} = \left( \frac{\text{Producer’s historical export volume}}{\text{Total historical export volume (by primary producers)}} \right) \times \text{Quebec quantity}
+  $$
+  - Excludes relinquished allocations.
+  - Used only for producers who exported in the reference period.
+
+> ⚖️ *Balance*: This allocation ensures that producers with export history are fairly rewarded, while the reserve pool ensures that even non-exporting producers get a fair share based on production.
+
+---
+
+### **3. Manitoba and Saskatchewan Quantity Allocations**
+
+- **Formula** (identical in structure to Ontario):
+  $$
+  \text{Allocation} = \left( \frac{\text{Province quantity}}{\text{Total historical export volume (province)}} \right) \times \text{Producer’s historical export volume}
+  $$
+  - Excludes producers who relinquished allocations.
+
+- **Remainder Allocation**:
+  - After the base allocation is assigned, the **remainder** is distributed **in order of application receipt**.
+  - Applicants must **exhaust their base allocation** before applying for the remainder.
+
+> ✅ *Simplified Process*: Manitoba and Saskatchewan follow the same rules as Ontario — **historical export volume

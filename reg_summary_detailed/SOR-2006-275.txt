@@ -1,0 +1,144 @@
+### **Detailed Summary of the Solvency Funding Relief Regulations (S.C. 1998, c. 12, s. 1(4), s. 10, s. 263(d), s. 76, R.S., c. 32 (2nd Supp.))**
+
+These regulations, made under the **Pension Benefits Standards Act, 1985 (PBSA)**, provide a **special funding mechanism** for defined benefit pension plans that have an *initial solvency deficiency*—a shortfall between the plan’s assets and liabilities as of a specific valuation date—emerging between **December 30, 2005, and January 1, 2008**. The purpose is to offer **flexibility and relief** to plan administrators and employers facing financial challenges, while ensuring that pension benefits remain protected and that the plan remains viable.
+
+---
+
+## **I. Purpose and Scope**
+
+- **Objective**: To allow plans with an *initial solvency deficiency* to be funded through **special payments** over a **longer period** (up to 10 years) than required under standard solvency rules, without triggering immediate or full termination of the plan.
+- **Applicability**:
+  - Applies only to **defined benefit plans** established **on or before December 31, 2005**.
+  - Excludes plans established **after December 31, 2005**, unless:
+    - Formed by **merger** of one or more pre-2005 plans, or
+    - Result of **splitting** a pre-2005 plan.
+  - Does **not apply** to plans governed by the **Air Canada Pension Plan Solvency Deficiency Funding Regulations**.
+
+> ⚠️ *Key Limitation*: The plan must have **fully paid all prior obligations** to the pension fund before the emergence of the initial solvency deficiency, as required by subsection 9(14) of the Pension Benefits Standards Regulations, 1985.
+
+---
+
+## **II. Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Acceptable Rating** | A credit rating of A or equivalent from one of the following agencies: Dominion Bond Rating Service (A), Fitch (A), Moody’s (A2), or S&P (A). |
+| **Issuer** | A bank or cooperative credit society with an acceptable rating, **not affiliated** with the employer (as defined in the Canada Business Corporations Act). |
+| **Beneficiary** | A member or former member entitled to pension benefits, **excluding** those who transferred benefits under section 26 or were purchased life annuities. |
+| **Beneficiary Representative** | Union or court-appointed representative acting on behalf of beneficiaries. |
+| **Default** | Includes plan termination, non-renewal of letters of credit, bankruptcy filings, or failure to meet credit requirements. |
+| **Initial Solvency Deficiency** | The solvency shortfall identified in the **first actuarial report filed after the coming into force of these Regulations**, valuing the plan **after December 30, 2005**, and **before January 2, 2008**. |
+| **Special Payment** | A payment determined under section 9 or other sections of the regulations to fund solvency deficiencies. |
+| **Going Concern Deficit** | The difference between plan liabilities and assets at the time of plan establishment or after amendments. |
+
+---
+
+## **III. Funding Mechanism for Initial Solvency Deficiency**
+
+### **1. Funding via Equal Annual Special Payments**
+- The initial solvency deficiency may be funded through **equal annual special payments** over a period of **no more than five years** (or **up to ten years** for multi-employer plans).
+- Payments are calculated as:
+  > **(Solvency Deficiency ÷ 5)**  
+  minus  
+  **Going Concern Special Payments** (excluding certain types) payable during the plan year.
+
+> 🔍 *This ensures that the plan is funded in a manageable, predictable way, avoiding large lump-sum demands.*
+
+---
+
+### **2. Deferral of Remittances (for Multi-Employer Plans)**
+- For **multi-employer plans**, the administrator may **defer** remittances of special payments, treating the deficiency as being funded over **up to 10 years**.
+- This allows greater financial flexibility for employers with multiple participants.
+
+> ✅ *Exception*: If the required annual payments under this Part are **less than** those required under applicable collective agreements, the plan must make **the higher amount** (from collective agreements) to ensure compliance with labor agreements.
+
+---
+
+## **IV. Beneficiary Notification and Objecting Rights**
+
+### **Mandatory Information to Be Provided to Beneficiaries**
+The administrator must provide beneficiaries (or their representatives) with the following information:
+
+1. **Solvency ratio** of the plan as of the day the deficiency emerged.
+2. **Amount of the initial solvency deficiency**.
+3. **Description of how benefits would be reduced** if the plan were fully terminated and wound up.
+4. **Warning** that extending the funding period may:
+   - Reduce plan asset value during the funding period.
+   - Extend the time during which assets are less than liabilities.
+5. **Comparison of special payments**:
+   - What would be paid under **Part 1** (standard funding).
+   - What **will be paid** under this Part (longer-term funding).
+6. **Notice that funding may proceed only if less than one-third of members and less than one-third of beneficiaries (excluding members) object**.
+7. **No need for Superintendent approval** to fund under this Part.
+8. **Right to object** by sending a written objection to the administrator within **30 days** of receiving the information.
+9. **Restriction on plan amendments**: During the **first five years** of funding under this Part, **any amendment increasing pension benefits is restricted**.
+10. **Right of access** to documents under paragraph 28(1)(c) of the PBSA.
+
+> 📌 *Note*: Each objection by a beneficiary representative counts **separately** for each person they represent.
+
+---
+
+## **V. Filing Requirements with the Superintendent**
+
+The administrator must file with the Superintendent:
+
+1. **Written notification** of intent to fund under this Part.
+2. **Actuarial report** valuing the plan as of the day the initial solvency deficiency emerged.
+3. **Board resolution or approval**:
+   - For corporate employers: Board resolution authorizing the special payment schedule.
+   - For non-corporate employers: Approval from persons with authority to direct actions.
+4. **Confirmation** that:
+   - All required information was provided to beneficiaries.
+   - **Less than one-third of members and beneficiaries** objected.
+
+> ⚖️ *Inconsistency Rule*: If there is a conflict between these regulations and the Pension Benefits Standards Regulations, **these regulations prevail**.
+
+---
+
+## **VI. Interest and Accruals**
+
+- Interest on unpaid special payments is calculated using the **interest rate assumed in the valuation** used to determine the initial solvency deficiency.
+- The **aggregate amount** of special payments that would have been made under Part 1 (adjusted for reductions due to PBSR rules) **plus interest** is treated as **accrued to the pension fund** if the plan is funded under this Part.
+
+---
+
+## **VII. Post-Deficiency Solvency Deficiencies**
+
+- If a **new solvency deficiency** emerges **after** the initial deficiency:
+  - It is calculated using the standard definition in subsection 9(1) of the PBSR.
+  - Includes the **present value of special payments** made under this Part (especially those due beyond 5 years).
+- The interest rate used for present value calculations is the **same** as the rate used in the solvency liability calculation.
+
+---
+
+## **VIII. Termination and Cessation of Funding**
+
+- A plan may **cease to be funded** under this Part at the start of a plan year by giving **written notice to the Superintendent** not later than **six months after the beginning of that year**.
+- The notice must state whether the plan has a **surplus** as of the first day of the year.
+
+### **Consequences of Cessation**:
+- If the plan **has a surplus**:
+  - This Part **ceases to apply** on the first day of the plan year.
+- If the plan **does not have a surplus**:
+  - The standard rules under **section 9 of the PBSR** apply (with exceptions outlined in the regulations).
+
+> 💡 *Surplus Calculation*: A surplus is determined as if the plan had been **fully terminated**, per subsection 16(1) of the PBSR.
+
+---
+
+## **IX. Special Provisions for Multi-Employer Plans**
+
+- Funding may extend up to **10 years** (vs. 5 years for single-employer plans).
+- If required payments under this Part are **less than** those under collective agreements, the plan must make **the higher amount**.
+- Same objection thresholds apply: **less than one-third of members and beneficiaries** can object.
+
+---
+
+## **X. Key Benefits and Outcomes**
+
+| Benefit | Explanation |
+|--------|-------------|
+| **Flexibility** | Allows longer funding periods (up to 10 years), easing financial pressure on employers. |
+| **Reduced Benefit Reductions** | Prevents full termination, preserving pension benefits. |
+| **No Superintendent Approval Required** | Simplifies administrative process. |
+| **Beneficiary Protection** | Transparent communication and objection rights ensure fairness

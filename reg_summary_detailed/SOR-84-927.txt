@@ -1,0 +1,144 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the provided regulation, which is part of the *Special Import Measures Act* (S.C. 1983-84, c. 25), as amended and now **repealed by SOR/2019-314, s. 2**.
+
+---
+
+## 🔍 **Regulation Summary: Special Import Measures (Repealed – SOR/2019-314, s. 2)**
+
+### 📌 **Overview**
+This regulation, issued by Her Excellency the Governor General in Council on the recommendation of the Minister of Finance under **Section 97 of the Special Import Measures Act**, establishes detailed rules for determining **normal value** and **cost of production** of imported goods. These rules are used in assessing whether certain imports are being sold below fair value (i.e., dumping), which could harm domestic industries.
+
+> ⚠️ **Important Note**: This regulation has been **repealed** by **SOR/2019-314, section 2**, and is no longer in force. It was replaced by updated provisions in modern trade regulations, particularly under the *Canada–United States Free Trade Agreement* and subsequent tariff and anti-dumping frameworks.
+
+---
+
+## 🔧 Key Definitions and Interpretations
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Special Import Measures Act* |
+| **American Secretariat** | Refers to the U.S. section of the Secretariat under the Free Trade Agreement. The operation of this body is **suspended** during specific periods (subsections 56(1.02), 58(1.2), 59(3.3), and section 77.038) unless a definitive decision was made before those provisions came into effect. |
+| **Officer** | As defined in subsection 2(1) of the *Customs Act* (e.g., customs officers, border officials). |
+| **Pre-competitive development activity** | Repealed – no longer applies. |
+| **Production** | Includes **manufacturing, growing, and processing**. |
+| **Start-up period of production** | A defined time frame that begins when new production facilities are first used for **commercial production**, or when a new or substantially different product begins commercial production requiring **new or substantially different equipment/technology**. It ends when production levels are no longer limited by technical difficulties related to those new systems or products. |
+
+---
+
+## 📊 Purpose and Scope
+
+The regulation provides detailed rules to ensure **fair and accurate comparisons** between the **price of imported goods** and the **normal value** of like goods in the country of export. This is essential for determining whether goods are being dumped (sold below fair value), which may lead to anti-dumping or countervailing duties.
+
+It applies specifically to:
+- Determining **normal value** under Sections 15, 19, and 20 of the Act.
+- Calculating **cost of production**, **profit**, and **administrative/selling costs**.
+- Adjusting prices to reflect differences in **quantity, quality, delivery, discounts, taxes, and sales conditions**.
+
+---
+
+## 🔄 Price Adjustment Rules (for Determining Normal Value)
+
+These rules ensure that the price of "like goods" in the country of export reflects the **true market value** of goods sold to the Canadian importer — accounting for commercial differences.
+
+### 1. **Quantity Discounts**
+- If the importer bought in **larger quantities**, the price of like goods must be adjusted to reflect the **discount** normally granted in such bulk sales.
+- If the discount cannot be determined:
+  - **Add** the estimated cost that the exporter would incur to sell in those quantities.
+  - **Subtract** the estimated savings the exporter would gain from such a sale.
+
+### 2. **Differences in Quality, Design, Warranty, Delivery, or Conditions of Sale**
+If the goods sold to Canada differ from like goods in the country of export in any of the following ways:
+- Quality, structure, design, or material
+- Warranty or performance guarantee
+- Time between order and shipment
+- Other sales conditions (excluding standard ones)
+
+👉 Then the price of like goods must be adjusted:
+- **If the price is higher**: Deduct the estimated difference.
+- **If the price is lower**: Add the estimated difference.
+
+> *This ensures that differences in product features don’t distort the comparison.*
+
+### 3. **Rebates, Deferred Discounts, or Cash Discounts**
+- If such discounts are **commonly granted** in the country of export, they must be **deducted** from the price of like goods **if the sale to Canada would qualify** for them.
+
+### 4. **Delivered Price Adjustments**
+- If like goods are sold at a **delivered price**, deduct the **cost of delivery** to the buyer.
+- If like goods are generally sold at a **common delivered price** within a **transportation zone** (e.g., a region where shipping costs are standardized), deduct the **average delivery cost** to destinations within that zone.
+
+### 5. **Substitution of Purchasers**
+- If buyers **one level below** the importer (e.g., wholesalers instead of retailers) have been substituted:
+  - Deduct costs incurred due to **additional activities** required to serve those lower-tier buyers.
+  - If no data exists, deduct **no more than the typical discount** offered to similar-tier buyers in the country of export.
+
+### 6. **Taxes and Duties**
+- If the **importer bears no taxes/duties** on the goods (but the like goods in the country of export do), deduct those **taxes/duties** from the price of like goods.
+
+---
+
+## 💰 Determining "Reasonable Amount for Profits" and "Administrative/Selling Costs"
+
+These are key components in calculating normal value.
+
+### ✅ **Reasonable Amount for Profits**
+The profit margin is derived from **sales data** in the country of export, with a hierarchy of fallbacks:
+
+| Case | Description |
+|------|-------------|
+| (i) | If the **exporter** has made multiple sales of like goods in the country of export → use **weighted average profit** from those sales. |
+| (ii) | If (i) doesn’t apply, but the exporter has sold goods of the **same general category** → use weighted average profit. |
+| (iii) | If (i) and (ii) don’t apply, but **other producers** have sold like goods → use weighted average profit. |
+| (iv) | If (i)–(iii) don’t apply, but other producers sold goods of the **next largest category** → use weighted average profit. |
+| (v) | If (i)–(iv) don’t apply, but producers sold goods of the **next largest group/range** → use weighted average profit. |
+
+> ✅ **Key Principle**: The most relevant sales data is used to ensure a **proper comparison**.
+
+### ✅ **Reasonable Amount for Administrative, Selling, and All Other Costs**
+Includes costs not part of production, such as:
+- Marketing
+- Distribution
+- Warranty
+- Design/engineering (if not included in production cost)
+
+These are determined by:
+- Aggregating costs that are **reasonably attributable** to production and domestic sales.
+- Must satisfy the **greatest number of conditions** in paragraphs 15(a) to (e) of the Act.
+- If no amount can be determined, use **all such costs reasonably attributable** to production and sale.
+
+> ⚠️ **Note**: If the **exporter is not the producer**, profits and costs must include:
+- Profits earned by the **producer** and any **subsequent vendors** in the supply chain.
+- Costs incurred by the **producer** and vendors in selling to the exporter.
+
+---
+
+## 🏭 Cost of Production (Section 11 & 11.1)
+
+### General Rule:
+Cost of production = All costs:
+- Attributable to or related to the **production** of the goods, or
+- Directly attributable to the **design or engineering** of the goods.
+
+### Special Case: Input Costs from Associated Persons
+If an input is purchased from an **associated person** (e.g., a related company), and is a **significant factor** in production:
+
+> The cost is taken as the **greater of**:
+1. The price paid by the exporter or producer to the associated person,
+2. The cost incurred by the associated person in producing the input (including administrative, selling, and other costs),
+3. The **market price** of the same or similar input in the country of export — if sufficient data exists from:
+   - Non-associated sales in the same or similar quantities, or
+   - Published market prices.
+
+### Exception: Market Conditions Preventing Proper Comparison
+If the President determines that a **market situation** prevents a fair comparison (e.g., lack of transparency, monopoly), then the input cost is adjusted to reflect **actual cost** using one of these options:
+1. Price of inputs sold to exporters or producers in the country of export.
+2. Price of inputs sold from the country of export to a third country.
+3. Published prices in the country of export.
+4. Price of inputs produced in a third country, **adjusted** for price differences between countries.
+5. Published prices outside the country of export, **adjusted** for comparability.
+
+---
+
+## 🔧 Design/Engineering Costs (Section 11.1)
+
+If direct design/engineering costs cannot be determined for a specific product, but **can be determined** for similar goods in the same category:
+
+> Use

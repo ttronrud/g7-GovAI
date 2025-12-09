@@ -1,0 +1,182 @@
+Certainly. Below is a **detailed, comprehensive summary** of the regulation titled:
+
+---
+
+## **Metering Assemblies Incorporating Electronic Automatic Temperature Compensators (ATCs) – Specifications**
+
+### **Regulatory Background and Legal Basis**
+
+This regulation establishes formal technical specifications for **electronic automatic temperature compensators (ATCs)** used in **metering assemblies** for measuring liquids in trade. It is issued under the authority of the **Weights and Measures Act** and the **Weights and Measures Regulations (C.R.C., c. 1605)**.
+
+- **Legal Authority**:
+  - Paragraph 13(2)(a) of the Weights and Measures Regulations authorized the publication of proposed specifications in the *Canada Gazette Part I* on **February 24, 1990**.
+  - The Minister of Consumer and Corporate Affairs, under **paragraph 10(l)(i)** of the Weights and Measures Act and **sections 13* and 27*** of the Regulations, officially adopted and implemented these specifications on **October 5, 1990**.
+  - The regulation is published as **SOR/78-792** in *Canada Gazette Part II*, page 3894.
+
+### **Official Title**
+These specifications are officially known as:  
+**"The Metering Assemblies Incorporating Electronic ATCs Specifications"**
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **ATC** | Automatic Temperature Compensator – an electronic device that adjusts volume measurements to correct for temperature variations. |
+| **Metering Assembly** | A device used in trade to measure the volume of liquids (e.g., fuel dispensers, bulk storage systems). |
+| **Reference Pressure** | The standard pressure used to correct volume readings: <br> - For liquids with vapor pressure < 101.325 kPa (14.73 psi): 101.325 kPa or 14.73 psi (absolute). <br> - For liquids with vapor pressure ≥ 101.325 kPa: the actual equilibrium vapor pressure at the measured temperature. |
+| **VCF** | Volume Correction Factor – a value derived from temperature and density to correct measured volume to a standard reference condition (as defined in section 270 of the Regulations). |
+| **Regulations** | Refers to the Weights and Measures Regulations (C.R.C., c. 1605). |
+
+> All other terms are interpreted consistently with the Regulations.
+
+---
+
+## **Scope of Application**
+
+These specifications apply to:
+- All **metering assemblies** incorporating **electronic automatic temperature compensators (ATCs)**.
+- Devices that **register volumes corrected to a reference temperature** (i.e., temperature-compensated volume readings).
+
+> **Exception**: For **liquid petroleum products, liquefied petroleum gases, butane, and natural gas liquids**, the ATC may register volumes corrected to **15°C** and the reference pressure — a specific exception to standard temperature correction practices.
+
+---
+
+## **Design and Functional Requirements**
+
+### 1. **Volume Registration**
+- The register must register **net volume** (volume after accounting for temperature and density corrections).
+- On **demand during inspection**, it must also register **gross volume** (total volume including container or pipeline volume).
+- **Gross volume must be calculated directly from the measuring element’s signal**, not derived mathematically from net volume.
+
+### 2. **Total Price Calculation**
+- If the register includes **unit price and total price displays** and continuously records both net and gross volumes:
+  - The **total price** must be calculated as:  
+    **Total Price = Unit Price × Net Volume Delivered**
+
+### 3. **Adjustment of ATC**
+- Any adjustment mechanism for the ATC must be:
+  - **Sealable** (to prevent unauthorized changes).
+  - Located so that access requires **removal of part of the exterior housing** containing the ATC.
+
+### 4. **Temperature Registration**
+- The register must allow **on-demand inspection** of the **temperature of the liquid** being measured.
+- The **minimum increment of temperature registration** must not exceed **0.1°C**.
+
+### 5. **Temperature Sensor Requirements**
+- Must be of the **interchangeable type**:
+  - Replacing one sensor with another should not alter temperature readings by more than **0.3°C** across the ATC’s operating range.
+- The sensor (or sensor + thermal well) must be **sealable**:
+  - To prevent unauthorized exposure to the liquid.
+  - To ensure integrity of the temperature measurement.
+
+### 6. **Safety and Inoperability**
+- The register must be **inoperable** if:
+  - The electrical circuit for the temperature sensor is **shorted or incomplete**.
+  - This prevents erroneous readings due to sensor failure.
+
+### 7. **Multi-Liquid Operation**
+- If an ATC is designed to operate with **multiple liquids**, it must have an **interlocking mechanism**:
+  - Automatically selects the correct temperature correction factor based on the selected liquid.
+
+### 8. **Density or Thermal Expansion Display**
+- The register must clearly indicate, in a **legible and accessible manner**, one or more of the following:
+  - The **density or cubical coefficient of thermal expansion per degree Celsius** of the liquid for which it is designed.
+  - If multi-liquid use: the **range** of densities or expansion coefficients it supports.
+  - The **density or expansion coefficient to which it is calibrated**.
+  
+  **Acceptable methods** include:
+  - Permanent marking on the nameplate or metal tag.
+  - Legible display or printing on demand.
+  - Codes or legends linked to switch settings or jumper locations.
+  - Any other method that ensures clear, immediate access.
+
+> This requirement ensures transparency and traceability for inspectors and users.
+
+---
+
+## **Additional Requirements for Electronic Printers**
+
+- Any **electronic printer** in a metering assembly (e.g., fuel dispensers, aircraft refuellers, bulk meters) equipped with an ATC must:
+  - Print a **ticket** showing:
+    - Net volume
+    - Gross volume
+    - The **density used to calculate the VCF**
+
+> This enhances accountability and auditability of transactions.
+
+---
+
+## **Test Thermal Well Requirements**
+
+- The **test thermal well** (used for calibration and testing) must:
+  - Have an **inside diameter between 3.3 mm and 4.5 mm**.
+  - Be installed **adjacent to the temperature sensor**.
+  - Retain **thermal conducting fluid** during testing.
+  - Have the **manufacturer’s name/trademark and model number** clearly marked on the end fitting.
+  - If the end fitting is too small, the information may be affixed to a **metal tag**.
+
+> Purpose: Ensures accurate and repeatable temperature testing under controlled conditions.
+
+---
+
+## **Performance and Accuracy Requirements**
+
+### 1. **Temperature Range and Correction Accuracy**
+- For meters measuring liquids at **ambient temperature**:
+  - The ATC must correct measurements within the **applicable error limits** (as per section 270 of the Regulations) over a temperature range of **–30°C to +40°C**.
+  - If the ATC’s nameplate indicates a wider range, it must perform within limits over that **wider range**.
+
+- For meters measuring liquids at **non-ambient temperatures**:
+  - The ATC must operate within error limits over the **temperature range marked on the nameplate**, which must cover **at least 50°C**.
+
+### 2. **Behavior Outside Operating Range**
+- If the liquid temperature is **outside the ATC’s operating range**, the device must:
+  - **Automatically stop further deliveries**, or
+  - **Continue operating** only if the VCF (volume correction factor) does not exceed the value corresponding to the actual liquid temperature.
+
+> This prevents inaccurate or unsafe volume readings in extreme conditions.
+
+---
+
+## **Dynamic Response Time (Temperature Sensor Response)**
+
+When a liquid at a temperature **±20°C from ambient** is suddenly introduced into the meter at a **mean velocity of ~3 m/s**, the temperature sensor must respond to **at least 90% of the temperature variation** within:
+- **15 seconds** for **motor fuel dispensers**.
+- **20 seconds** for **all other types of meters**.
+
+> Test liquid: Mineral spirits or a liquid with similar physical properties.
+
+> Purpose: Ensures the sensor can respond quickly to real-world temperature fluctuations in fluid flow.
+
+---
+
+## **Performance During Inspection**
+
+- When inspected in **gross mode**, the meter equipped with an ATC must meet the **performance specifications** applicable to standard **volumetric liquid meters**.
+
+> Ensures that even when not in correction mode, the device performs accurately under inspection conditions.
+
+---
+
+## **ATC Accuracy Under Test Conditions**
+
+- The ATC and its temperature sensor must remain within the **applicable error limits** (as per section 270) when tested under the conditions specified in **sections 29 to 31** of the *Electronic Registers and Ancillary Equipment Incorporated in Metering Assemblies Specifications*.
+
+---
+
+## **Test Volume Requirements**
+
+- The test volume for an ATC must be:
+  - Equivalent to a **normal delivery** through the meter.
+  - **At no time less than 2,000 times** the **minimum increment of registration** of the meter register (as defined in section 20 of the Electronic Registers Regulations).
+
+> Ensures that performance is verified under realistic, meaningful conditions.
+
+---
+
+## **Sensor Installation Requirements**
+
+- The temperature sensor must be:
+  - Located **within 1 meter**

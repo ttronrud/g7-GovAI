@@ -1,0 +1,185 @@
+### **Detailed Summary of the Front End Wheel Loader Remission Order**
+
+This regulation, officially titled the **Front End Wheel Loader Remission Order**, was issued by His Excellency the Governor General in Council on the recommendation of the Minister of Finance, the Minister of Industry, Trade and Commerce, and the Treasury Board, pursuant to **Section 17 of the Financial Administration Act**. The Order provides for the **remission (exemption)** of **customs duties and sales taxes** on certain **front-end wheel loaders and their parts** produced or imported into Canada, with specific conditions and criteria designed to promote domestic manufacturing and support Canadian value-added production.
+
+---
+
+## **1. Purpose of the Order**
+The primary objective of this Order is to:
+- Encourage the **production of front-end wheel loaders in Canada**.
+- Support **Canadian value-added manufacturing** by reducing the tax burden on goods that meet defined criteria of Canadian content.
+- Promote **domestic employment and industrial development** in the heavy equipment sector.
+- Ensure that only manufacturers who meet stringent **Canadian content and value-added thresholds** receive tax remission.
+
+The Order may be cited as the **Front End Wheel Loader Remission Order**.
+
+---
+
+## **2. Definitions Key to the Regulation**
+
+### **Front End Wheel Loader (FEWL)**
+- A **self-propelled vehicle** with a **front-mounted bucket or shovel**.
+- Designed for **general-purpose use** with a cubic capacity of **up to and including 14 cu. yd. (10.70 m³)**.
+- Mounted on **wheels**, all of which are driven.
+- Steering is achieved via **articulation** (articulated loader) or **steered wheels** (rigid frame loader).
+- **Excludes**:
+  - Skid steer loaders
+  - Crawler-mounted loaders
+  - Loaders mounted on agricultural or industrial tractors
+  - Combination loader-backhoes
+
+### **Manufacturer**
+- A company engaged in the **production of front-end wheel loaders**.
+
+### **Parts**
+- Includes **accessories and components** used as **original equipment** in FEWLs.
+- **Excludes** pneumatic tires, tubes, buckets, digging teeth, cutting edges, cabs, and roll-over protection structures.
+
+### **Canadian Value Added (CVA)**
+A key metric determining eligibility for remission. It includes:
+- **Cost of parts and materials** produced or sourced in Canada (with specific rules for origin).
+- **Transportation costs** (to Canada) not already included in part costs.
+- **Direct and indirect labor costs** (wages, benefits, insurance).
+- **Materials not incorporated** into the final product.
+- **Utilities** (light, heat, power, water).
+- **Insurance** (property, production).
+- **Rent** for factory premises.
+- **Maintenance and repairs** of production equipment.
+- **Tools, dies, jigs, fixtures** (non-permanent, made in Canada).
+- **Engineering services, R&D, and product development** conducted in Canada.
+- **Administrative and general expenses** directly attributable to production.
+- **Depreciation** of machinery and plant equipment (to the extent attributable to FEWL production).
+- **Capital Cost Allowance (CCA)**: 5% of capital outlay for land and buildings used in FEWL production.
+
+> *For parts produced in Canada, CVA is calculated as if those parts were FEWLs.*
+
+---
+
+### **Cost of Materials**
+- If acquired from a **related person** (defined under Income Tax Act): cost to that person, if materials are of Canadian origin.
+- If acquired from **any other supplier**: price paid minus:
+  - Duty-paid value of imported materials
+  - Foreign charges (e.g., freight, insurance)
+
+### **Cost of Parts Produced in Canada**
+- From a **related person**: Canadian value added of the parts.
+- From any other supplier: price paid minus:
+  - Duty-paid value of imported parts
+  - Foreign charges
+
+### **Net Sales Value (NSV) of a FEWL**
+- Total revenue from sale of the FEWL.
+- **Minus**:
+  - Federal and provincial sales and excise taxes.
+  - Rebates, commissions, discounts, and other post-sale allowances.
+
+> *NSV is used to compute the ratio of Canadian content in sales.*
+
+### **Depreciation**
+- 10% of the capital cost of machinery and permanent plant equipment acquired within the **last 120 months** (i.e., 10 years), less the cost of equipment disposed of before the period.
+
+> *Depreciation is only included if reasonably attributable to FEWL production.*
+
+### **Related Person**
+- Defined under **Section 251 of the Income Tax Act** (e.g., parent, subsidiary, affiliate, or company under common control).
+
+---
+
+## **3. Key Conditions for Remission Eligibility**
+
+### **Condition 1: Minimum Domestic Sales Ratio**
+A manufacturer must meet the following threshold in any 12-month period ending on **July 31 after 1981**:
+> **Ratio of net sales value of FEWLs produced in Canada (sold anywhere) to net sales value of all FEWLs sold in Canada** must be **at least 75:100** (i.e., **75%**).
+
+This ensures that a significant portion of sales is derived from **domestically produced** equipment.
+
+---
+
+### **Condition 2: Minimum Canadian Value Added (CVA) Threshold**
+The **sum of**:
+- Canadian value added of FEWLs produced in Canada,
+- Canadian value added of parts produced in Canada (sold by the manufacturer),
+- Canadian value added of parts produced in Canada and acquired by or on behalf of the manufacturer,
+
+must be **at least 40%** of the **total cost of sales** of all FEWLs sold for consumption in Canada during the period.
+
+> This ensures that a substantial portion of the production value is derived from Canadian inputs and labor.
+
+---
+
+### **Adjustment for Over-Performance (Post-1987)**
+If a manufacturer's **Canadian value added exceeds the 1983 baseline**, the required 40% threshold is **reduced by 2 percentage points for each 100% increase** in Canadian value added above the 1983 level.
+
+> *Example*: If Canadian value added is 100% above the 1983 level, the required threshold drops to 38%.  
+> This incentivizes manufacturers to grow domestic content, but with a cap on the required minimum.
+
+---
+
+## **4. Adjustment for Non-Compliance (Reduction in Remission)**
+
+If a manufacturer fails to meet the 40% CVA requirement in a period ending on **July 31 after 1987**, the **remission amount is reduced by 2% for each percentage point** the actual CVA falls short of the required amount.
+
+> *Example*: If CVA is 35% of required, remission is reduced by 5% (2% × 5 points).
+
+This creates a **penalty mechanism** to ensure compliance with Canadian content standards.
+
+---
+
+## **5. Exclusions and Special Rules**
+
+### **Excluded Goods**
+- **Pneumatic tires, tubes, buckets, digging teeth, cutting edges, cabs, and roll-over protection structures** are **not eligible** for remission.
+
+> These are considered **non-core components** and are excluded to prevent abuse of the program.
+
+### **Deemed Origin Rules**
+- **Parts and materials** acquired from Canadian suppliers are **deemed to be produced outside Canada or of non-Canadian origin** unless:
+  - The manufacturer receives a **certificate from the Minister of National Revenue** stating:
+    - The **cost of parts** (as per CVA definition), or
+    - The **cost of materials** (as per cost definition).
+- **Exception**: Iron, steel, or aluminum **poured in Canada** is **deemed of Canadian origin**.
+
+> This ensures that only **verified Canadian content** qualifies for remission.
+
+---
+
+## **6. Application Timeline**
+
+- Applies to manufacturers who:
+  - Imported FEWLs or parts **or**
+  - Produced FEWLs in Canada
+  - During **any 12-month period ending on July 31 after 1981**.
+
+> The Order applies retroactively to periods beginning **after July 31, 1981**.
+
+---
+
+## **7. Remission of Taxes**
+
+### **Customs Duty Remission**
+- Applies to:
+  - FEWLs and parts (excluding listed exclusions)
+  - Imported or taken out of warehouse **before January 1, 1998**
+  - For consumption or released **after July 31, 1981**
+
+> Remission is granted **only if** the manufacturer meets the eligibility criteria.
+
+### **Sales Tax Remission**
+- Remission of **sales tax** (under the Excise Tax Act) on each FEWL where customs duty is remitted.
+- Amount of remission = **Difference between**:
+  - Sales tax calculated on **duty-paid value** of the FEWL
+  - Sales tax calculated on **value for duty** (i.e., the value used to assess duty)
+
+> This ensures that the tax burden is reduced proportionally to the duty relief.
+
+---
+
+## **8. Claim and Reporting Requirements**
+
+### **Claim Deadline**
+- A manufacturer must **submit a claim to the Minister of National Revenue within three years** of the date of importation.
+
+> Failure to file within this window results in **no remission**.
+
+### **Designation of Related Persons**
+- A manufacturer may designate a **related person** (e.g., a subsidiary or partner) as **

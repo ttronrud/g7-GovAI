@@ -1,0 +1,163 @@
+Certainly. Below is a **detailed, clear, and structured summary** of the *Calculation of Contribution Rates Regulations, 2021*, as provided in your text. This summary explains the legal basis, key definitions, core formulas, purpose, and practical implications of the regulation within the context of the **Canada Pension Plan (CPP)**.
+
+---
+
+## 📚 **Detailed Summary of the *Calculation of Contribution Rates Regulations, 2021***
+
+### 🔹 **1. Legal Basis and Adoption**
+The regulations are enacted under the authority of the **Canada Pension Plan (CPP)** and specifically:
+- **Subsection 115(1.3)a** of the CPP Act: Requires that at least **two-thirds of the included provinces** (by population) must provide **consent** to adopt the regulations.
+- The consent was provided by **at least two-thirds of the provinces**, collectively representing **at least two-thirds of the total population** of the provinces included in the CPP.
+- The regulations are then made by **His Excellency the Administrator of the Government of Canada in Council**, on the **recommendation of the Minister of Finance**, under **paragraph 101(1)(d.1)c** of the CPP Act.
+
+> ✅ **Key Point**: This is a **consensus-based, population-weighted process** to ensure broad provincial agreement before setting contribution rates.
+
+---
+
+### 🔹 **2. Purpose of the Regulations**
+The primary purpose is to **determine the contribution rates** for the Canada Pension Plan, including:
+- The **base contribution rate**
+- **Additional contribution rates** (for new or increased benefits)
+- Adjustments based on **actuarial projections** over time
+
+These rates are set to ensure **long-term financial sustainability** of the CPP by maintaining a **stable ratio of assets to expenditures**, especially over a long-term horizon (up to 2098).
+
+---
+
+### 🔹 **3. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Pension Plan* (R.S.C., c. C-8) |
+| **Additional Contribution Rate Ratio** | A ratio (rounded to the nearest whole number, or higher if equidistant) of the percentage in **paragraph 46(1)(c)** of the Act (e.g., a temporary increase) to the percentage in **paragraph 46(1)(b)** (e.g., a base rate). Used to scale temporary increases. |
+| **Contributory Earnings** | Includes: <br> - Salary and wages (Section 12) <br> - Self-employed earnings (Section 13) |
+| **Increased or New Benefits** | Benefits introduced or expanded under the CPP, such as higher pensions or new eligibility rules, which may increase future costs. |
+| **Review Period** | A 3-year period during which the Chief Actuary prepares a report under **subsection 115(1)** of the Act. The contribution rate is recalculated based on projections after this period. |
+
+---
+
+### 🔹 **4. Core Contribution Rate Formulae**
+
+#### ✅ **(A) Base Contribution Rate (Subparagraph 115(1.1)(c)(i))**
+The base contribution rate is the **smallest multiple of 0.0001 percentage points** that ensures the **projected ratio of assets to expenditures** at **Year 60** after the review period is **not lower** than the ratio at **Year 10** after the review period.
+
+> This ensures long-term solvency — the plan won’t run out of money in the future.
+
+**Formula:**
+\[
+\frac{A_{60}}{E_{60}} \geq \frac{A_{10}}{E_{10}}
+\]
+Where:
+- \( A_{60} \): Projected value of **base CPP assets** on Dec 31 of Year 60
+- \( A_{10} \): Projected value of **base CPP assets** on Dec 31 of Year 10
+- \( E_{60} \): Projected expenditures (contributions) in Year 61
+- \( E_{10} \): Projected expenditures in Year 11
+
+> 📌 The formula is applied to **all contributions**, including those related to increased or new benefits (if they exceed zero).
+
+---
+
+#### ✅ **(B) Contribution Rate for Increased or New Benefits (Subparagraph 115(1.1)(c)(ii))**
+This rate includes:
+- A **permanent increase** (long-term adjustment)
+- A **temporary increase** (short-term, phased-in adjustment)
+
+**Permanent Increase**:
+- Smallest multiple of 0.0001 pp that satisfies:
+\[
+\text{PV of Assets (for new benefits)} \leq \text{PV of Contributions} + \text{PV of Extra Costs}
+\]
+Where:
+- PV of assets = present value of assets related to new benefits
+- PV of contributions = present value of contributions due to the permanent increase
+- PV of extra costs = present value of additional costs from the new benefits
+
+> This ensures that the **long-term financial burden** of new benefits is sustainable.
+
+**Temporary Increase**:
+- Applies for a period consistent with **common actuarial practice**
+- Smallest multiple of 0.0001 pp that satisfies:
+\[
+\text{PV of Assets (before benefit start)} \leq \text{PV of Contributions (temporary)} + \text{PV of Extra Costs (before benefit start)}
+\]
+> This ensures that the **short-term impact** of new benefits does not exceed the funding capacity.
+
+> ⚠️ **If the contribution rate is less than 0.02 percentage points**, it is **deemed zero** for that year and all future years (to prevent negligible or negative contributions).
+
+---
+
+### 🔹 **5. Additional Contribution Rates (for the "Additional CPP")**
+
+These apply to **new or expanded benefits** under the **Additional Canada Pension Plan (ACPP)**, which is a separate component of the CPP.
+
+#### (a) First and Second Additional Contribution Rates
+- These are the **smallest multiples of 0.0001 percentage points** that satisfy two conditions:
+
+1. **Present Value Condition**:
+   - The present value of **projected expenditures** (for the ACPP) must be **less than or equal to**:
+     - Present value of projected contributions (without new benefits)
+     - Plus projected value of assets (without new benefits)
+
+2. **Asset-to-Expenditure Ratio Condition**:
+   - The **ratio of assets to expenditures at Year 60** must be **no lower** than the ratio at **Year 50** after the review period.
+
+> ⚠️ **If the 60th year after the review period is earlier than 2098**, it is **deemed 2098**, and the 50th year is **deemed 2088**.
+
+---
+
+#### (b) Permanent and Temporary Increases for Additional Rates
+- **Permanent Increase**:
+  - Calculated as the difference between:
+    - The actual first/second additional rate (under section 4)
+    - The rate that would result **if new benefits were excluded** from asset and cost projections
+  - Applies only when the new benefits are financially significant.
+
+- **Temporary Increase**:
+  - Applies for a period consistent with actuarial standards
+  - Must satisfy a similar formula to the permanent increase, but **before** the benefits start
+  - The second additional rate is **scaled by the additional contribution rate ratio** (i.e., multiplied by the ratio from paragraph 46(1)(c)/(b))
+
+> ❌ **No temporary increase** if the permanent increase is less than **0.02 percentage points**
+
+---
+
+### 🔹 **6. Special Provisions for 2022 and 2023**
+
+Despite the general rules, **special adjustments** are made for **2022 and 2023**:
+
+- **First additional contribution rate**:
+  - For **2022**: = (First additional rate for 2024) × 0.75
+  - For **2023**: = (First additional rate for 2024)
+- **Second additional contribution rate**:
+  - For **2022 and 2023**: = **Zero**
+
+> 📌 This is a **phased-in adjustment** to allow for a gradual increase in contributions without immediate financial strain.
+
+---
+
+### 🔹 **7. Timing and Valuation of Projections**
+
+- All **projected and present values** are determined as of:
+  - **January 1 of the year after the review period**, **or**
+  - **The day the increased or new benefits come into effect** — whichever is **later**
+
+> This ensures consistency in financial modeling.
+
+---
+
+### 🔹 **8. Rounding Rules**
+
+- All calculated contribution rates must be **rounded to the nearest multiple of 0.01 percentage points**
+- If equidistant between two values, **round up** to the higher value
+
+> Example: 0.015% → 0.02%; 0.014% → 0.01%
+
+---
+
+### 🔹 **9. Repeal and Effective Date**
+
+- The **2007 Calculation of Contribution Rates Regulations (SOR/2008-50)** are **repealed**.
+- These 2021 regulations **come into force on the day they are registered** in the Canada Gazette.
+
+---
+

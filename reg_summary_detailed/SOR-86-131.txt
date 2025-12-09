@@ -1,0 +1,208 @@
+**Detailed Summary of the Electricity and Gas Inspection Regulations (1986)**
+
+---
+
+### **Overview**
+
+The *Electricity and Gas Inspection Regulations*, effective **January 25, 1986**, were promulgated under **section 28 of the Electricity and Gas Inspection Act (Act)**. These regulations provide a comprehensive framework for the **inspection, verification, calibration, and recordkeeping** of electricity and gas meters and metering installations in Canada. They were developed following a public consultation period during which interested parties were invited to submit representations to the Minister of Consumer and Corporate Affairs.
+
+These regulations ensure that meters used in the supply of electricity and gas are accurate, reliable, and meet established technical standards, thereby protecting consumers and maintaining fair billing practices.
+
+---
+
+## **Key Provisions and Structural Elements**
+
+---
+
+### **1. Definitions and Terminology**
+
+The regulations establish precise definitions for key technical and procedural terms:
+
+| Term | Definition |
+|------|-----------|
+| **Absolute Pressure Scale** | Pressure scale where zero represents a perfect vacuum. |
+| **Gauge Pressure Scale** | Pressure scale where zero represents atmospheric pressure. |
+| **Average Flowing Gas Temperature** | Time- or volume-weighted average temperature of gas flowing through a meter. |
+| **Average Meter Pressure** | Time- or volume-weighted average pressure within the meter. |
+| **Measured Atmospheric Pressure** | Time- or volume-weighted average atmospheric pressure at the meter location. |
+| **Standard Conditions** | Defined as 15°C (60°F) temperature and 101.325 kPa (14.73 psia / 30 in. Hg) pressure. |
+| **Standard Volume** | Volume of gas measured at standard temperature and pressure. |
+| **Measurement Canada Office** | Department of Industry offices responsible for administering the Act. |
+
+> All meter-related terms (e.g., types, functions, components) are interpreted according to **applicable specifications** made available under sections 12, 18, 19, 44, and 45.
+
+---
+
+### **2. Exemptions from Reverification Requirements**
+
+#### **A. Broken Seals – Exemption for Inspectors or Verifiers**
+A gas meter with a broken seal may continue in service **without reverification** if:
+- The seal was deliberately broken by an inspector or accredited verifier for **remote reading installation/removal**;
+- No meter components (except register cover and register) were removed;
+- Any removed parts were **promptly replaced**, with no change in register reading except for **volume increases** due to gas flow;
+- The meter is **promptly resealed and re-marked** (restamped, relabeled, retagged) by an inspector or verifier per director’s specifications.
+
+#### **B. Plastic or Small Metallic Filament Seals**
+A meter originally sealed with:
+- A **plastic filament** of any diameter, or
+- A **metallic filament <0.644 mm** in diameter,
+
+may remain in service with a broken seal **if**:
+- There is **no visible sign** of tampering or alteration to working parts;
+- The seal is **resealed by an inspector** in accordance with the Act and these regulations.
+
+> These exemptions recognize that some seals are fragile or prone to breakage during routine maintenance and that tampering is not evident in such cases.
+
+---
+
+### **3. Calibration of Measuring Apparatus**
+
+All measuring devices used for electricity or gas measurement or meter examination must be calibrated in two ways:
+
+1. **Accuracy Testing**: Tested at multiple points across the full measuring range.
+2. **Traceability to National Standard**: Accuracy at one or more test points must be **traced to reference standards maintained by the National Research Council of Canada (NRC)**.
+
+> **Certification Requirement (Section 5):**
+> - The director certifies calibration only if:
+>   - The apparatus is calibrated per the prescribed method;
+>   - The proposed installation and use are appropriate;
+>   - No error exceeds **2%** of the reference standard value at any test point.
+>
+> A certificate is valid only for:
+> - The specified measuring range;
+> - The intended installation and use;
+> - For certain instruments listed in a table, for a **specific period** (as defined in column II).
+
+---
+
+### **4. Contractor Registration and Requirements**
+
+#### **Eligibility to Register**
+To register under **section 6 of the Act**, a contractor must:
+- Submit a **written application** indicating whether they offer electricity or gas services;
+- Include:
+  - Name of contractor;
+  - Principal place of business;
+  - Geographical area of operation.
+
+#### **Register Maintenance**
+- The **official register** contains all registered contractors and includes:
+  - Name, address, and business area;
+  - Details of registration and any changes.
+
+#### **Change Notification**
+- Contractors must **notify the director in writing** of any change in information (e.g., address, scope of operations).
+- Must **return the updated certificate** to the director.
+
+#### **Notice of Ceasing Operations**
+- Upon ceasing to sell electricity or gas by metering:
+  - A **notice must be sent by registered mail**;
+  - Must state the **date of cessation**;
+  - Must include details on the **disposition** (sale, scrapping, leasing, loss) of all meters owned, used, or possessed.
+
+---
+
+### **5. Owner’s Records – Mandatory Documentation**
+
+Owners of verified or reverified meters must maintain detailed records for **each meter**, including:
+
+#### **Core Information per Meter**
+- Type designation, serial number, rating, multiplier (from manufacturer);
+- Purchaser’s account number, name, address;
+- Inspection number assigned by contractor;
+- Date of latest re-verification and initial verification/purchase;
+- Applicable reverification period (as per section 12);
+- Most recent certificate from inspector or verifier;
+- Parent group identification (for group metering);
+- Current installation address;
+- Date of installation at present location;
+- For unsealed meters:
+  - Dates and nature of maintenance;
+  - Dates and results of calibration;
+- Dates of sale, scrapping, leasing, or loss;
+- For each billing period:
+  - Metering information used to establish charges.
+
+#### **Additional Gas Meter-Specific Information**
+- Whether the meter corrects for temperature, pressure, or both;
+- Metric conversion factor used for billing;
+- Mean atmospheric pressure or calculated/measured atmospheric pressure;
+- Pressure multiplier (if regulated pressure is maintained);
+- If average meter pressure exceeds mean atmospheric pressure by more than:
+  - **3.5 kPa (0.5 psi)** → must record:
+    - Average meter pressure on **gauge pressure scale** (for non-pressure-converting meters);
+    - Average flowing gas temperature (for non-temperature-converting meters);
+    - Average relative density, CO₂ content, N₂ content;
+    - Supercompressibility factor and method of determination;
+    - For orifice meters: orifice plate size and primary element dimensions.
+
+#### **Annual Reporting Requirements**
+On a **calendar-year basis**, owners must report:
+- Total number of verified/reverified meters:
+  - Used for **residential** locations;
+  - Used for **industrial/commercial** locations;
+- A **listing of meters due or overdue** for re-verification.
+
+#### **Installation-Specific Records (for metering installations)**
+When installing a **gas or electricity metering installation** (multiple meters at one location), records must include:
+- Details of apparatus, wiring, or piping that may affect meter accuracy;
+- Annual consumption of electricity or gas at the location;
+- For electricity installations: the **overall multiplier**.
+
+#### **Reporting to the Director**
+Upon installation, the owner must **immediately provide** to the director:
+- Records for each meter (as per paragraphs 2(a)–(d), (p), (q), and (r)(v));
+- Records on installation (paragraphs 4(a) and (c)).
+
+---
+
+### **6. Gas Energy-Based Billing Requirements**
+
+If gas is sold on an **energy basis** (not volume), owners must maintain records on:
+- System layout (locations of supply points);
+- Method of determining calorific power;
+- Actual calorific power and its variations.
+
+Also required:
+- Details of the system and method used to determine the **supercompressibility factor** (a correction factor for gas density under varying pressure and temperature conditions).
+
+---
+
+### **7. Record Retention Periods**
+
+Owners must retain records for **at least 12 months** after:
+- The meter is no longer in use (subsection 2);
+- The end of the calendar year to which the records apply (subsection 3);
+- The end of use of a metering installation (subsection 4);
+- The end of use of a gas distribution system (subsection 6).
+
+> This ensures accountability and enables audits or investigations.
+
+---
+
+### **8. Specifications and Approval Process**
+
+#### **Director’s Authority**
+The director must:
+- Establish and make available **technical specifications** for:
+  - Design, composition, construction, and performance of meters;
+  - Installation and use of meters.
+
+> These specifications are mandatory for any meter seeking **permission or approval** under section 9 of the Act.
+
+#### **Application for Approval**
+An application to the director must include:
+- Name and principal place of business;
+- Clear description of design, construction, and performance;
+- Evidence that the meter meets all requirements of the Act, these Regulations, and the specifications;
+- Installation and use procedures (if performance is affected);
+- Copies of promotional materials, instructions, and user information;
+- Any additional information necessary.
+
+#### **Meter and Equipment Availability**
+Applicants must provide:
+- The actual meter or representative meters;
+- Required equipment, materials, and services for inspection and testing.
+
+#### **Conditions of Approval**
+If

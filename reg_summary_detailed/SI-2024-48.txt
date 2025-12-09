@@ -1,0 +1,201 @@
+**Detailed Summary of the Regulations on Timber Dimension Measuring Devices**  
+*Based on SOR/2005-297, s. 3; SOR/93-234; C.R.C., c. 1605; SOR/2017-198, s. 1 – Ottawa, March 19, 2024*
+
+---
+
+### **Overview**
+
+These **Specifications Relating to Timber Dimension Measuring Devices** were established by the **Minister of Industry** under **sections 13a and 27b of the Weights and Measures Regulations**. The regulations define the technical, operational, and safety standards that timber dimension measuring devices (TDMs) must meet to ensure accuracy, reliability, transparency, and integrity in the measurement of logs—particularly in forestry, logging, and timber trading industries.
+
+The specifications are designed to:
+
+- Ensure **accurate and consistent measurements** of log length and diameter.
+- Prevent **fraud or manipulation** of measurement data.
+- Enable **transparent, verifiable, and auditable** measurement records.
+- Protect the **integrity of metrological functions** under various environmental and operational conditions.
+- Allow for **inspections, examinations, and verification** by regulatory authorities.
+
+These specifications **take precedence over manufacturer or importer instructions** in the event of conflict.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Timber Dimension Measuring Device (TDM)** | A machine that measures the **length and diameter** of logs. |
+| **Measuring Element** | The physical components (e.g., sensors, probes) that detect and sense the log; excludes the indicator. |
+| **Indicator** | A digital display (or connected device) that shows measurement results. |
+| **Metrological Function** | Any function essential to measurement—sensing, processing, storing, displaying, or adjusting values. |
+| **Interval (d)** | The difference between two consecutive measurement values on any axis; expressed as 1×10ⁿ, 2×10ⁿ, or 5×10ⁿ units. |
+| **Default Temperature Range** | -10°C to +40°C. Devices may operate outside this range only if explicitly approved and within a broader range of at least 30°C. |
+| **Disturbance** | Events like power fluctuations, electrostatic discharge, or electromagnetic interference that could affect performance. |
+| **Measurement Registration** | The displayed, printed, or recorded value of a log’s length or diameter, including unit and value. |
+| **Ready Condition** | The state in which the device is prepared to take a measurement (i.e., no log is in the measuring path). |
+| **Influence Factor** | Any environmental or operational condition (e.g., voltage, humidity, light) that may affect device performance. |
+
+---
+
+## **Core Performance Requirements**
+
+### **1. Accuracy and Error Limits**
+- The device must perform within **±1d error** for both **length and diameter** across its measuring range.
+- This applies under **controlled conditions** when exposed to influence factors such as:
+  - **Voltage variations**:
+    - AC: ±15% below, +10% above nominal voltage.
+    - DC: Below nominal (if device operates), up to 10% above nominal.
+  - **Temperature**:
+    - If manufacturer-specified range spans ≥30°C and lies within default (-10°C to +40°C): use that range.
+    - Otherwise: default range (-10°C to +40°C).
+  - **Humidity**: Up to 85% RH.
+  - **Ambient Light** (optical devices): 100 lx to 100,000 lx.
+  - **Acoustic Interference** (acoustic devices): Up to 100 dB at nominal transducer frequency.
+
+> These conditions simulate real-world usage and ensure performance consistency.
+
+---
+
+### **2. Off-Center Measurement Accuracy**
+- The device must maintain **±1d accuracy** when measuring a log in an **off-center position** (i.e., not centered in the sensor field).
+
+---
+
+### **3. Disturbance Response**
+When exposed to a disturbance (e.g., power surge, EMI), the device must:
+- Provide a measurement **±1d from the expected value**, OR
+- Display a **blank registration** and **prevent display/transmission/storage**, OR
+- Show an **error message** and **prevent data use**, OR
+- Provide **unstable readings** that cannot be interpreted as valid.
+
+> Purpose: Prevent fraudulent or erroneous data entry during electrical or environmental disruptions.
+
+---
+
+### **4. Design and Construction Requirements**
+- Must be designed to:
+  - Measure **accurately** under normal conditions.
+  - **Prevent fraud** (e.g., no built-in tare or bark subtraction).
+- Must allow **examination and testing** with physical standards or test objects, which must be **recoverable** before processing.
+
+---
+
+## **Measurement Registration Requirements**
+
+### **Format and Presentation**
+- All measurement values must be:
+  - Displayed or printed in **decimal form**.
+  - Use **decimal point or comma** to separate submultiples (e.g., 2.50 m).
+  - Intervals must be **1×10ⁿ, 2×10ⁿ, or 5×10ⁿ** (e.g., 0.1 m, 0.2 m, 1 m).
+- If a value falls between intervals:
+  - Round to the **nearest interval**.
+  - If equidistant, **round up**.
+
+> Ensures consistency and avoids ambiguity in readings.
+
+---
+
+### **Software and Display Features**
+- Must **identify software name and version**.
+- Indicator must have:
+  - Consistent **size, shape, and design** of digits/letters.
+  - **Separate display** for device-generated data from external inputs (e.g., customer input).
+- **Portable second indicator** required if:
+  - The primary indicator cannot be observed during inspection.
+  - Must be **readily connectable**, show **identical information**, and display **exactly the same data** as the primary indicator.
+
+---
+
+### **Prevention of Fraud**
+- **No tare function** (e.g., no subtraction of bark or non-wood material).
+- **No calculation** of area, volume, or derived values from length/diameter.
+- **No negative values** in measurement registration.
+- **No measurement** of logs with length or diameter **less than 10d** in the measuring range.
+- Minimum measurable value for each range must be **≥10d**.
+
+> Prevents manipulation of data to inflate or deflate log values.
+
+---
+
+## **Multiple Measuring Ranges**
+
+- Ranges must be **consecutive** (e.g., 1–5 m, 5–10 m).
+- Each **lower range** must have a **smaller interval** than the next higher range (e.g., 0.1 m → 0.2 m → 0.5 m).
+
+> Ensures precision at smaller scales and prevents misreading.
+
+---
+
+## **Error Handling and Safety Features**
+
+The device must:
+- Provide an **error message or blank registration** if:
+  1. The log is **outside the marked dimensions** on the device or plate.
+  2. The log is **outside detection limits** and measurement is not within ±1d error.
+  3. The **sensing component is obstructed** and measurement is not within error limits.
+
+> Ensures only valid, detectable logs are measured.
+
+---
+
+## **Data Recording and Storage**
+
+When a customer is **not present** during measurement:
+- Must record and store:
+  - **Length and diameter** of each log.
+  - **Lot identifier** and **number of logs per lot** (if logs are grouped).
+- Data must be:
+  - **Storable for 90 days**.
+  - **Accessible to the customer** upon request.
+
+> Ensures traceability and accountability.
+
+---
+
+## **Interface and Auxiliary Equipment**
+
+- If connected to auxiliary equipment:
+  - Must **not degrade metrological performance**.
+  - Must remain functional even if auxiliary equipment is exposed to disturbances or influence factors.
+
+> Protects the core measurement integrity.
+
+---
+
+## **Adjustability and Calibration Protection**
+
+- Any physical or electronic adjustment must **remain fixed** until a new adjustment is made.
+- Metrological functions and adjustable components must be protected by:
+  - **Physical seals** (easily observable) or
+  - **Electronic seals** (e.g., audit trails tracking calibration or configuration changes).
+
+> Prevents unauthorized or unrecorded modifications.
+
+---
+
+## **Permanent Marking Requirements**
+
+The device or its attached plate must permanently display:
+
+1. **Approval Number** (from paragraph 17(c) of the Weights and Measures Regulations).
+2. **Manufacturer name**.
+3. **Model designation**.
+4. **Serial number**.
+5. For each measurement axis:
+   - Minimum and maximum dimensions per measuring range.
+   - Interval for each range.
+6. Number of **scan heads**.
+7. **Minimum and maximum operating speeds** (as installed).
+8. **Minimum distance between logs** (in cm/m).
+9. **Manufacturer-specified temperature range** — **only if**:
+   - It spans **at least 30°C** and
+   - Is **entirely within default range (-10°C to +40°C)**.
+
+> Ensures transparency and traceability.
+
+---
+
+## **Use and Installation Requirements**
+
+- Must be installed and used in a way that:
+  - Ensures **accurate measurement**.
+  - Respects the **notice of approval**

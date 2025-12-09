@@ -1,0 +1,136 @@
+**Detailed Summary of the *Currency Exchange for Customs Valuation Regulations***  
+*(S.C. 1984, c. 25, s. 100; S.C. 1984, c. 9, s. 2; SOR/78-86, 1978 Canada Gazette Part II, p. 498)*
+
+---
+
+### **Overview of the Regulation**
+
+This regulation, known as the **Currency Exchange for Customs Valuation Regulations**, was introduced by Her Excellency the Governor General in Council, on the recommendation of the Minister of Finance, under **section 13.2 of the Currency Act**. It formally **revokes** the outdated *Currency Exchange for Customs Valuation Regulations* made by Order in Council P.C. 1978-181 (January 26, 1978), and replaces it with updated, more transparent, and data-driven rules for determining the **equivalent Canadian dollar value of foreign currencies** used in customs valuation.
+
+The primary purpose of these regulations is to establish a **consistent, fair, and objective method** for determining the value of imported goods in Canadian dollars, particularly when the goods are priced in foreign currencies. This is essential for accurate **duty calculations** under the *Customs Act* and related legislation such as the *Special Import Measures Act*.
+
+---
+
+### **Key Definitions and Key Provisions**
+
+#### 1. **Regulation Citation**
+- These regulations are officially cited as:  
+  **Currency Exchange for Customs Valuation Regulations**
+
+#### 2. **Definition of "Minister"**
+- "Minister" refers to the **Minister of National Revenue**, who is responsible for administering and enforcing the rules regarding currency exchange rates for customs purposes.
+
+---
+
+### **Application of Exchange Rates in Different Legal Contexts**
+
+The regulation specifies **different exchange rate application rules** depending on the applicable statute:
+
+#### **A. Under the *Customs Act***
+- The **rate of exchange** used to determine the value of imported goods in Canadian dollars is the rate **prevailing on the date of direct shipment** to Canada.
+- This means that if goods are shipped directly into Canada (e.g., from a foreign country), the exchange rate on that **specific shipment date** is used for duty valuation.
+
+#### **B. Under the *Special Import Measures Act***
+- The applicable exchange rate is the rate prevailing on either:
+  - The **date of sale to a Canadian importer**, or  
+  - The **date of direct shipment to Canada**,  
+  - Whichever date is **governed by the Special Import Measures Regulations**.
+- This provision allows flexibility in cases involving anti-dumping, countervailing duty, or other special import measures, where the timing of the transaction (sale or shipment) may be more relevant than the shipment date alone.
+
+> *Note:* The selection between sale and shipment dates is determined by the **Special Import Measures Regulations**, which provide specific guidance on which date applies in various scenarios.
+
+---
+
+### **Definition of "Rate Prevailing on a Date"**
+
+- For any foreign currency (other than Canadian dollars), the "rate prevailing on a date" is defined as:
+  - The exchange rate **communicated to the ports of entry** by the Minister for that specific date.
+
+> This ensures that customs officials at border facilities receive up-to-date, officially recognized rates to apply in valuation.
+
+---
+
+### **Method for Establishing the Official Exchange Rate**
+
+The Minister is required to establish the official exchange rate for a foreign currency using a **tiered, prioritized process**, based on reliable and transparent sources. The hierarchy is as follows:
+
+#### **Step 1: Bank of Canada Rate**
+- The **preferred source** is the **latest exchange rate** for the currency quoted to the Minister by the **Bank of Canada**.
+- This is the most authoritative and official rate in Canada and is considered the benchmark.
+
+#### **Step 2: Canadian Chartered Bank Rate**
+- If the Bank of Canada does **not provide** a rate, the Minister may use the **latest rate** quoted by **any Canadian chartered bank** selected by the Minister.
+- The selection of banks is at the Minister’s discretion, but they must be reputable and widely recognized financial institutions.
+
+#### **Step 3: Financial Times (London) Rate**
+- If neither the Bank of Canada nor any Canadian chartered bank provides a rate, the Minister may use the **latest rate** quoted by the **Financial Times of London, Great Britain**.
+- This serves as a fallback source, especially for currencies with limited availability in Canadian financial markets.
+
+> **Important Note**: The Financial Times rate is used only when no domestic rate is available and is considered a secondary, international reference.
+
+---
+
+### **Handling Multiple Exchange Rates (Weighted Average)**
+
+If **more than one exchange rate** is quoted under any of the above three sources (excluding "tourist rates"), the Minister must:
+1. **Exclude any tourist rate** (e.g., rates offered to tourists, which are typically higher and not representative of commercial market value).
+2. Calculate the **weighted average** of the remaining exchange rates.
+3. The weighting is based on the **percentage value in Canadian dollars** of all goods imported from the **same country** during the **latest six-month period** prior to the rate’s establishment.
+
+> This ensures that the exchange rate reflects actual import volumes and commercial activity, not just general market fluctuations or tourist pricing.
+
+---
+
+### **Fallback Provision (No Quoted Rate Available)**
+
+If **no exchange rate** is available from any of the three sources (Bank of Canada, Canadian chartered bank, or Financial Times), the Minister may establish a rate **based on the best available information** regarding the value of that currency in Canadian dollars.
+
+- This is a **last-resort provision** and requires judgment.
+- The Minister must document the reasoning and data used to justify the rate.
+- It ensures that no import valuation is left without a basis, even in rare or exceptional circumstances.
+
+---
+
+### **Key Principles and Objectives**
+
+| Principle | Explanation |
+|--------|-------------|
+| **Transparency** | The process is structured to use publicly available and verifiable sources (Bank of Canada, Canadian banks, Financial Times). |
+| **Accuracy** | The weighted average method ensures the rate reflects real import patterns and trade volumes. |
+| **Consistency** | A clear hierarchy of sources ensures uniformity across all customs operations. |
+| **Fairness** | Exclusion of tourist rates prevents manipulation of rates for non-commercial transactions. |
+| **Practicality** | The rule is designed to be applied at ports of entry using rates communicated in advance, ensuring timely duty assessments. |
+
+---
+
+### **Legal and Administrative Impact**
+
+- These regulations provide a **clear, legally binding framework** for customs officials to determine foreign currency values.
+- They replace a 1978 rule that was considered outdated and less responsive to current market dynamics.
+- The new rules enhance **predictability and fairness** in customs valuation, reducing disputes between importers and the government.
+- The rules are aligned with international trade practices and reflect Canada’s integration into global financial systems.
+
+---
+
+### **Conclusion**
+
+The *Currency Exchange for Customs Valuation Regulations* represent a significant improvement over the previous 1978 regulations. By introducing a **tiered, data-driven, and volume-weighted approach** to determining foreign exchange rates, the rules ensure that customs duties are calculated based on **real-world commercial conditions**, not arbitrary or outdated benchmarks.
+
+This regulatory framework supports:
+- Accurate duty assessment,
+- Fair treatment of importers,
+- Compliance with both general customs and special import measures,
+- Transparency and accountability in government valuation practices.
+
+It remains a key component of Canada’s customs administration and is regularly reviewed to reflect changes in global financial markets and trade practices.
+
+--- 
+
+**Citation**:  
+S.C. 1984, c. 25, s. 100; S.C. 1984, c. 9, s. 2; SOR/78-86, 1978 Canada Gazette Part II, p. 498  
+**Replaced**: Order in Council P.C. 1978-181 (January 26, 1978)  
+**Effective Date**: As published in the Canada Gazette (1984)  
+
+--- 
+
+*Note: This summary is based solely on the provided text and does not include external commentary or policy analysis.*

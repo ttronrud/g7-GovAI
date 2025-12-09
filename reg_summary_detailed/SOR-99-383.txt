@@ -1,0 +1,63 @@
+**Detailed Summary of the Exemption from Deposit Insurance By-law (Interest on Deposits)**
+
+**Regulatory Authority and Legal Basis:**
+
+The Canada Deposit Insurance Corporation (CDIC) Board of Directors has issued this by-law pursuant to two specific provisions of the *Canada Deposit Insurance Corporation Act*:
+
+- **Paragraph 11(2)(g)a**: Grants the Board the authority to make by-laws that regulate the operation of the CDIC, including matters related to deposit insurance.
+- **Subparagraph 26.03(1)(d)(ii)**: Specifies conditions under which deposits may be exempt from deposit insurance coverage. This by-law provides the regulatory mechanism for determining when interest on deposits is considered in the context of insurance exemption.
+
+This by-law specifically addresses how interest payable on deposits is determined when assessing whether a deposit is exempt from CDIC insurance coverage under subparagraph 26.03(1)(d)(ii).
+
+---
+
+**Purpose of the By-law:**
+
+The primary purpose of this by-law is to clarify the method by which interest on a deposit is calculated or determined when evaluating whether the deposit qualifies for exemption from CDIC insurance. It establishes two distinct scenarios based on whether the deposit contract references an index or reference point under the Act.
+
+---
+
+**Key Provisions and Interpretation:**
+
+1. **When Interest is Based on an Index or Reference Point (e.g., under subsection 14(2.51)):**
+
+   - If the deposit contract explicitly states that interest will be determined using an index or reference point listed in **subsection 14(2.51)** of the *Canada Deposit Insurance Corporation Act*, then the interest payable shall be calculated according to the **Interest Payable on Certain Deposits By-law**.
+   - **Exception**: The "interest termination date" defined in that Interest Payable By-law is **deemed to be the date on which payment is actually made** under subparagraph 26.03(1)(d)(ii) of the Act.
+
+     *Explanation*: This adjustment ensures that the interest calculation is aligned with the actual payment date, not the original termination date specified in the interest by-law. This prevents discrepancies in timing that could affect insurance coverage determinations.
+
+2. **In All Other Cases (No Index or Reference Point):**
+
+   - If the deposit contract does not reference any index or reference point under subsection 14(2.51), then the interest payable shall be determined **in accordance with the terms of the deposit contract itself**.
+   - **Exception**: The "maturity date" of the deposit (the date on which the deposit is due to mature) is **deemed to be the date on which payment is made** under subparagraph 26.03(1)(d)(ii).
+
+     *Explanation*: This provision ensures consistency in determining the timing of payment for insurance exemption purposes. Even if the deposit matures earlier or later than the stated maturity date, the payment date under the exemption rule takes precedence for regulatory purposes.
+
+---
+
+**Effective Date:**
+
+The by-law comes into force on **October 15, 1999**. This means that all deposits and interest calculations governed by this rule will be applied from that date onward.
+
+---
+
+**Regulatory Context and Significance:**
+
+- This by-law provides **clarity and consistency** in applying the exemption rules for deposits that are not covered by CDIC insurance.
+- It ensures that the **timing of interest payments and maturity dates** is properly aligned with the legal framework for determining exemption under subsection 26.03(1)(d)(ii), which typically applies to certain types of deposits such as those with variable interest rates tied to market indices or those that are non-registered or non-eligible.
+- By defining how interest and maturity dates are interpreted in exemption cases, the by-law helps prevent ambiguity in the application of insurance coverage rules, particularly in complex or variable-rate deposit products.
+
+---
+
+**Relevant Legal References:**
+
+- **R.S., c. 18 (3rd Supp.), s. 51** – General provisions of the CDIC Act.
+- **S.C. 1999, c. 28, s. 102** – Statutory basis for the by-law’s enactment.
+- **Subsection 14(2.51)** – Defines indices and reference points used to determine interest on certain deposits.
+- **Subparagraph 26.03(1)(d)(ii)** – Governs the exemption of deposits from insurance based on specific conditions, including interest calculation.
+
+---
+
+**Conclusion:**
+
+This by-law serves as a critical interpretive rule that ensures consistency and legal certainty in determining when interest on a deposit is considered in the context of CDIC insurance exemption. It adjusts key dates — such as interest termination and maturity dates — to reflect the actual date of payment, thereby aligning the regulatory framework with real-world financial practices. By doing so, it supports fair and transparent treatment of deposits under the CDIC Act while maintaining the integrity of insurance coverage rules.

@@ -1,0 +1,192 @@
+**Detailed Summary of the Locomotive Voice and Video Recorder (LVVR) Regulations**
+
+---
+
+### **1. Regulatory Authority and Legal Basis**
+
+The *Locomotive Voice and Video Recorder Regulations* were issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Transport**, under specific provisions of the **Railway Safety Act (RSA)**:
+
+- **Section 17.95a** – Establishes the need for recording systems to support safety investigations.
+- **Subsection 37(1)b** – Authorizes the regulation of safety equipment and operational procedures.
+- **Section 40.1c** – Provides authority to regulate the installation and operation of safety recording systems.
+
+These regulations were first introduced in:
+- **S.C. 2018, c. 10, s. 62**
+- **S.C. 2015, c. 31, s. 31**
+- **S.C. 2012, c. 7, s. 31**
+- And are part of **R.S., c. 32 (4th Supp.)**, the current version of the Railway Safety Act.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Railway Safety Act* |
+| **Conductor** | An employee responsible for operating a train movement |
+| **Controlling Locomotive** | The locomotive from which an operating employee controls the movement, including any connected rail equipment |
+| **Locomotive Engineer** | An employee in direct control of the locomotive |
+| **LVVR System** | A Locomotive Voice and Video Recorder system that records audio and video data |
+| **Operating Employee** | Any employee performing duties of a conductor or locomotive engineer |
+| **TSB** | The Canadian Transportation Accident Investigation and Safety Board (BST) |
+
+---
+
+### **3. Scope of Application**
+
+The regulations apply to a railway company that meets **at least one** of the following criteria:
+
+#### **Criterion 1: Revenue and Track Operations**
+- Gross revenues of **$250 million or more** in each of the two preceding calendar years for rail services in Canada.
+- Operates **controlling locomotives on 5 miles or more** of track in Canada.
+
+#### **Criterion 2: Passenger Service**
+- Operates a **passenger train service** within a municipality or between adjacent municipalities.
+
+#### **Criterion 3: Size and Operations**
+- Has **15 or more operating employees**
+- Operates controlling locomotives on **20 miles or more** of track in Canada
+- Operates at least one controlling locomotive at **speeds over 25 mph**
+- If transporting freight, generates **more than 10% of its gross ton-miles** on Canadian track
+
+> *Note: This ensures that only companies with significant operations and potential safety risks are required to implement LVVR systems.*
+
+---
+
+### **4. Mandatory LVVR System Requirements**
+
+A company must ensure that **every controlling locomotive** it operates is equipped with an LVVR system — **except** in the following cases:
+
+#### **Exemptions (No LVVR Required)**
+- **Steam locomotives**
+- **Heritage locomotives** used **exclusively for tourist services**:
+  - Traveling no more than a **150-mile round trip**
+  - At speeds of **no more than 25 mph**
+- **Yard service locomotives** used exclusively in:
+  - Switching, marshalling, humping, trimming, or industrial switching
+- **Locomotives used for testing or evaluation**
+- **Locomotives intended for decommissioning within 18 months** of the regulations coming into force
+
+---
+
+### **5. Interior Signage Requirements**
+
+Each controlling locomotive with an LVVR system must have **clear, bilingual (English and French) signage** visible from the farthest point in the vehicle. The signage must:
+
+- Notify personnel that they are subject to **audio and video recording**
+- Include the following statements:
+  - **English**: *"It is prohibited by law for any person to do anything, including altering the locomotive voice and video recorder system, with the intent to prevent information from being recorded, collected or preserved."*
+  - **French**: *"Il est interdit par la loi à quiconque de prendre une quelconque mesure, notamment d’altérer le système d’enregistrement audio et vidéo de locomotive, dans l’intention d’empêcher l’enregistrement, la collecte ou la conservation de renseignements."*
+
+> This ensures transparency and awareness of recording obligations.
+
+---
+
+### **6. Technical Specifications for LVVR Systems**
+
+#### **Core Functional Requirements**
+- **Crash-Protected Memory Module (CPMM)**:
+  - Must be installed in the **most protected location** in the locomotive
+  - Must meet **IEEE 1482.1-2013** crashworthiness standards (as amended)
+- **Continuous Recording**:
+  - Records from **engine startup to shutdown**
+  - **Does not record when engine is off**
+- **Data Storage**:
+  - Must store **at least 48 hours of data** on a crash-protected module
+  - Automatically and permanently **erases all data older than 48 hours**
+- **Power Failover**:
+  - Must have an **alternate power supply** or **controlled shutdown feature**
+  - Must **automatically restart** when power is restored
+- **Environmental Compliance**:
+  - Must meet **EN 50155:2017** standards for vibration, shock, bump, and temperature (as amended)
+
+---
+
+### **7. Audio Recording Requirements**
+
+#### **Microphones**
+- Must have **separate recording channels**
+- Must record:
+  - **Operating employee voices** (150 Hz to 3.5 kHz)
+  - **Aural warnings/alarms** (150 Hz to 6 kHz)
+- Must be positioned to clearly record:
+  - Voice of **locomotive engineer**, clearly distinguishable from conductor
+  - Voice of **conductor**, clearly distinguishable from engineer
+  - **Safety-related sounds and alarms**
+
+---
+
+### **8. Video Recording Requirements**
+
+#### **Cameras**
+- Must record at **minimum 15 frames per second**
+- Must provide:
+  - Clear video in **all lighting conditions**
+  - Resolution sufficient to:
+    - Identify **instrument displays**
+    - Identify **facial features and expressions** of operating employees
+- Must be positioned to capture:
+  - Work areas of operating employees
+  - **Unobstructed view of instruments and controls**
+  - **Unobstructed view of faces and upper bodies** (close enough to see facial expressions)
+
+> *Note: Additional cameras beyond these requirements are permitted for greater detail or operational needs.*
+
+---
+
+### **9. Synchronization of Data**
+
+- All voice and video data must have **accurate UTC (Coordinated Universal Time) timestamps**
+- **Voice and video data must be synchronized to the second** with:
+  - Locomotive event recorder data
+  - GPS data (if applicable)
+  - Video from outward-facing cameras
+- The data must be **automatically synchronized** on playback systems
+- A **test of synchronization** must be conducted **at least once every 12 months**
+- Test records must be kept for **six years** and provided to the Minister upon request
+
+---
+
+### **10. System Testing and Validation**
+
+- **Test recordings** must be conducted for each LVVR system under the following conditions:
+  - On **installation** (if company installs system)
+  - **Before initial operation** (if not installed by company)
+  - **After any repair, replacement, or software update**
+- These recordings must verify compliance with:
+  - Section 8, paragraphs 9(1)(b) and (c)
+  - Subsections 9(2), 10(3), and 23(1)
+- Test recordings must be kept for **six years** and provided to the Minister upon request
+
+---
+
+### **11. Company Policy and Employee Training**
+
+- Must develop, implement, and make publicly available a **written policy** that includes:
+  - Purposes for recording (as defined under **section 17.91** of the Act)
+  - Procedures for collecting, communicating, accessing, and using data
+  - Record-keeping procedures
+- The policy must be kept **in effect and for six years after replacement**, and must be shared with the Minister upon request
+
+---
+
+### **12. Accountability and Authorization**
+
+- Must designate a **senior management officer** as the **Accountable Executive** responsible for:
+  - Ensuring compliance with these regulations
+  - Implementing the policy
+- Must submit the **name and title** of the accountable executive to the Minister within **30 days** of designation
+- Must designate **authorized personnel** to perform the following actions:
+  - Collect voice/video data
+  - Communicate data
+  - Access and use data for safety investigations
+- **Prohibition**: No operating employee manager may be authorized to access or use data under **section 17.91(1)(a)** (for safety investigations)
+- Records of authorized personnel must be maintained **while current and for six years**, and provided to the Minister upon request
+- **Training** must be provided to all designated personnel **before** they perform any action, and updated whenever the policy changes
+
+---
+
+### **13. Physical and Technological Safeguards**
+
+- Must implement **physical safeguards** to prevent tampering (e.g., camera field of view restrictions)
+- Must

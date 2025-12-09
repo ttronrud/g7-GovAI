@@ -1,0 +1,183 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the **Compensation Regulations** under the *Canada Deposit Insurance Corporation Act*, as enacted by Her Excellency the Governor General in Council on the recommendation of the Minister of Finance (S.C. 2016, c. 7, s. 142; R.S., c. C-3).
+
+---
+
+## 📚 **Detailed Summary of the Compensation Regulations (S.C. 2016, c. 7, s. 142)**
+
+### 🔹 **Purpose and Legal Basis**
+These regulations establish a **clear, fair, and transparent framework** for determining and paying **compensation to holders of shares or liabilities** of a **federal member institution** (e.g., a federally regulated bank or credit union) in the event of its **winding up or restructuring**.
+
+The regulations are made under **subsection 39.28(1)a** of the *Canada Deposit Insurance Corporation Act (CDICA)*, which empowers the Government to set compensation rules when a federal member institution faces financial distress.
+
+> **Key Objective**: To ensure that individuals and entities with legitimate interests in a failing financial institution are fairly compensated, while protecting the integrity of the deposit insurance system and maintaining public confidence.
+
+---
+
+## 🔍 Key Definitions and Concepts
+
+### 1. **Act**
+- Refers to the *Canada Deposit Insurance Corporation Act (CDICA)*.
+- The entire regulatory framework operates within the legal authority of this Act.
+
+---
+
+### 2. **Liquidation Entitlement**
+- The amount a shareholder is entitled to receive **in a winding-up** of the institution, **prior to** any payments owed to shareholders with subordinate claims.
+- It represents the **priority of payment** in the event of insolvency.
+
+> Example: If a bank fails and is wound up, common shareholders receive their liquidation entitlement before subordinated debt holders.
+
+---
+
+### 3. **Share**
+- Defined narrowly to **exclude**:
+  - Conversion or exchange privileges that can be converted **at any time** into shares.
+  - Options or rights to acquire shares.
+- This ensures that only **direct ownership** of shares is considered for compensation.
+
+> Rationale: These instruments are not considered "actual ownership" and may be exercised later, so they are excluded from the compensation pool.
+
+---
+
+### 4. **Subordinated Debt**
+- Excludes:
+  - Conversion privileges convertible into subordinated debt.
+  - Options to acquire subordinated debt.
+- Again, to avoid treating contingent or future claims as equivalent to actual debt.
+
+> Purpose: To prevent overcompensation or misclassification of instruments that may not be settled immediately.
+
+---
+
+### 5. **Same Class of Shares or Liabilities**
+Two types of financial instruments are of the **same class** if:
+- They rank **equally in right of payment** during a winding-up; **and**
+- After an order under subsection 39.13(1) of the Act is made, they receive **substantially equivalent treatment** (including in terms of resolution value estimation).
+
+> This ensures consistency in compensation across similar instruments.
+
+---
+
+## 📌 Who Is a "Prescribed Person"?
+
+A prescribed person is someone who **owns or holds** certain shares or liabilities **immediately before** an order under subsection 39.13(1) of the CDICA is made.
+
+### Eligible Entities:
+- **Shares** of the federal member institution.
+- **Liabilities** that:
+  - Are converted into common shares under **subsection 39.2(2.3)** of the Act.
+  - Are vested in the **Canada Deposit Insurance Corporation (CDIC)** under the order.
+  - Are not assigned to or assumed by a **bridge institution** or third party (in a winding-up scenario).
+  - Are assigned to or assumed by a **corporation described in subsection 10(2)** of the Act (e.g., a new entity created to absorb the institution), **and then liquidated** during a period when **a majority of its shares are held by CDIC**.
+  - Are assigned to or assumed by a **bridge institution**, **unless** subsequently assigned to a third party.
+
+> Note: This definition is designed to protect **real, direct stakeholders** who suffer losses due to the failure of the institution.
+
+---
+
+### Exclusions from Being a Prescribed Person
+
+- **No compensation** if:
+  - The amounts owed under the liability are **paid in full** after the order is made.
+  - The person owns shares or liabilities **solely as an intermediary** (i.e., not as a direct owner).
+
+> Important: Intermediaries (e.g., pension funds, mutual funds) are **excluded** unless acting in a non-fund capacity.
+
+---
+
+### What Is an "Intermediary"?
+
+- A natural person, corporation, trust, partnership, or entity that:
+  - Owns or holds shares/liabilities **on behalf of another person** in the ordinary course of business.
+  - **Excludes** entities that manage or administer **pension, mutual, investment, or similar funds**.
+
+> Rationale: Funds manage large portfolios and are not individual stakeholders. They are treated differently to avoid systemic distortion.
+
+---
+
+### What Is a "Liability"?
+
+- A **debt of at least $100** owed immediately before the order is made.
+- **Excludes**:
+  - Debts whose value is **too uncertain** to be proven in a winding-up proceeding.
+  - Claims for **monetary loss** arising from:
+    - Ownership, purchase, or sale of equity.
+    - Rescission or annulment (in Quebec) of equity transactions.
+    - Contribution or indemnity claims.
+
+> This ensures only **clear, quantifiable debts** are eligible for compensation.
+
+---
+
+## 💰 Compensation Formula
+
+The amount of compensation is determined using a **formula based on liquidation and resolution values**:
+
+> **Compensation = (Liquidation Value – Resolution Value)**  
+> **If the share/liability is converted**, compensation = **estimated losses from conversion**  
+> **Otherwise**, compensation = **zero**
+
+### Definitions:
+
+| Term | Meaning |
+|------|--------|
+| **Liquidation Value** | The estimated amount a prescribed person would receive **if** a winding-up order had been made immediately before the actual order. <br> - Estimated **without** any financial assistance from CDIC, the Bank of Canada, or the Government. |
+| **Resolution Value** | The total value of: <br> - The original share/liability (if not converted); <br> - Common shares resulting from conversion under 39.2(2.3); <br> - Dividends/interest paid after the order; <br> - Any other cash, securities, or rights received directly or indirectly due to the order or actions taken under it. <br> Includes payments from: CDIC, the institution, liquidator (of the original or new entity), or bridge institution. |
+
+> **Key Principle**: Compensation is **only payable if the resolution value is less than the liquidation value** — otherwise, the holder benefits from the restructuring.
+
+> ⚠️ **No compensation if the result is zero or negative** — meaning no loss occurred.
+
+---
+
+## ⏱️ Timing and Notice Requirements
+
+### When Does the "Day" Start?
+The day for compensation purposes is defined differently depending on the type of instrument:
+
+| Type | Day |
+|------|-----|
+| Shares or liabilities (a–c) | Earlier of: <br> - Date when notice under 39.2(3) takes effect <br> - Date of winding-up order |
+| Liabilities (d) | Date of winding-up order |
+| Liabilities (e) | Date of liquidation order for the corporation under 10(2) |
+| Liabilities (f) | Date of winding-up order for the bridge institution |
+
+> This ensures consistency in calculating the **timing of loss**.
+
+---
+
+### Notice to Prescribed Persons
+
+Within a **reasonable period** after the above day, the **Corporation must provide**:
+
+- A **notice offering compensation** equal to or estimated as equal to the entitlement.
+- OR a notice stating **no offer is being made** (because the person is not entitled).
+
+> The notice must:
+- State that an order under 39.13(1) has been made.
+- Describe the effects of the order.
+- Give the prescribed person **45 days** from the **publication of a summary** in the *Canada Gazette* and on the institution’s website to:
+  - Accept or object to the offer.
+  - Object to the absence of an offer.
+
+> If **at least 10%** of the same class of shares/liabilities (by ownership or value) objects:
+  - An **assessor** must be appointed under section 39.26 of the Act to determine compensation.
+
+> If no objection is made within 45 days:
+  - The person **automatically receives** the offered compensation or **no compensation**, and **cannot later challenge** the amount or decision.
+
+---
+
+## 📝 Role of the Assessor
+
+### When is an Assessor Appointed?
+- When **10% or more** of the relevant class of shares/liabilities (by ownership or value) **object** to the offer or absence of an offer.
+
+### What Does the Assessor Do?
+- Reviews the Corporation’s **reasoning and estimates**.
+- Must consider:
+  - Whether the Corporation used an **unreasonable estimate** or made a **pervasive, capricious, or erroneous factual finding**.
+  - Whether the compensation calculation followed the **correct methodology** (as per section 3).
+
+### Outcome of Assessment
+- The assessor issues a **notice

@@ -1,0 +1,159 @@
+The regulation you provided is a **set of rules governing water and sewer services in national parks in Canada**, primarily administered by **Parks Canada** in cooperation with local authorities. However, it is **partially repealed or superseded** by later amendments, and several sections are explicitly marked as **repealed** (e.g., SOR/2001-320, SOR/2010-140, SOR/2004-44). Below is a **detailed, comprehensive summary** of the **remaining applicable provisions**, organized by theme and structure, with context on what has been repealed and what remains in force.
+
+---
+
+## 🔍 OVERVIEW
+
+This regulation establishes **rules for the connection, use, and cost of water and sewer services** in national parks. It defines key terms, sets out conditions for connections, regulates access to infrastructure, and establishes **financial charges** for water and sewer usage. It applies to **all national parks except Banff and Jasper**, which are excluded due to their unique governance and existing regulations.
+
+> ⚠️ **Important Note on Repeals**:
+> - Sections 3 to 5 and 7 to 24 are **not applicable to Banff**.
+> - The regulation **does not apply in the Town of Jasper**.
+> - Several sections have been **repealed** (e.g., SOR/2001-320, SOR/2010-140, SOR/2004-44), meaning the content they contain is no longer valid.
+> - The **final formula for sewer charges** is **incomplete** in the provided text — it cuts off mid-sentence.
+
+---
+
+## 📚 KEY DEFINITIONS (Still in Force)
+
+| Term | Definition |
+|------|-----------|
+| **Assessed Value** | The value of a lot (including improvements), determined either by a provincial assessment or by expert appraisal of the lot or an equivalent one. |
+| **Base Factor** | A numerical value assigned annually to a unit (e.g., dwelling or business) to determine the owner’s share of capital costs for water/sewer systems. Assigned by park council, residents, and Parks Canada. |
+| **Business** | Any trade, occupation, or industry carried on for profit within a park. |
+| **Dwelling Unit** | Two or more rooms used as a single domestic household unit with cooking, living, sleeping, and sanitary facilities. |
+| **Lot Volume Value** | Calculated by multiplying the sum of volume values of units on a lot by the number of months of occupancy (per lease/permit) divided by 12. |
+| **Owner** | Any individual, corporation, association, or organization responsible for a residence, business, school, hospital, or other facility in the park. Includes employees, managers, lessees, or partners. |
+| **Park** | A national park under Parks Canada jurisdiction. |
+| **Street** | Includes lanes. |
+| **Total Capital Costs** | Annual capital costs for delivering water or sewer services (e.g., pipe installation, infrastructure). |
+| **Total Operating & Maintenance Costs** | Annual operating and maintenance costs (e.g., pumping, cleaning, repairs). |
+| **Unit** | A designated building or portion of a building in the park (as approved by residents and Parks Canada). |
+| **Volume Value** | A numerical value assigned to a unit based on its annual water use or sewage generation, compared to a benchmark unit in the park. |
+
+> ✅ These definitions remain **in force** and are foundational to all subsequent rules.
+
+---
+
+## 🔌 CONNECTION RULES (Applicable in Parks)
+
+### 1. **Mandatory Connection to Water/Sewer Mains**
+> *Subsection 3(1):*  
+> Every owner of a building on a lot that fronts or abuts a street with a water or sewer main **must connect directly** to that main.
+
+#### Exceptions:
+- Garages
+- Detached structures designed to provide tourist accommodation
+- Any building appurtenant to and improving the usefulness of a building already connected to a water/sewer main
+
+> 🚫 No unauthorized connections are permitted without **written permission from the Superintendent**.
+
+---
+
+### 2. **Permitted Activities Requiring Superintendent Approval**
+No person may:
+- Make any connection to a water or sewer main
+- Connect to a water pipe connected to a main
+- Connect to a sewer pipe connected to a main  
+**Without written permission from the Superintendent.**
+
+#### Criteria for Approval:
+The Superintendent may grant permission only after considering:
+- Capacity of the park’s water/sewer systems
+- Technical and material constraints
+- Protection of natural, cultural, historical, and archaeological resources
+- Safety, health, and enjoyment of park visitors and residents
+- Overall preservation and management of the park
+
+---
+
+### 3. **Prohibited Actions**
+- **Tampering with or damaging** any part of the sewer system
+- **Dumping refuse or matter** into sewer pipes, manholes, or fixtures (which could cause blockages or failures)
+- **Trespassing**, **depositing refuse**, **fishing**, **bathing**, or **washing** in designated water supply areas (marked with signs)
+
+> These rules protect both the environment and public health.
+
+---
+
+### 4. **Well Construction**
+- No person may construct or maintain a well for personal or others’ use **without written permission** from the Superintendent.
+- **Exception**: Permission may be granted if:
+  - The well is for **geothermal purposes**
+  - The park has **no existing water system** to which a connection can be made
+
+---
+
+### 5. **Septic Tanks & Dry Privies**
+- No installation of a septic tank or dry privy **without written permission**.
+- **Exception**: Permission may be granted if:
+  - The park has **no sewer system** to which a connection can be made
+- **Application Requirements**:
+  - Submit **plans and specifications**, including cost estimate
+  - Pay a **fee of $1 for every $1,000 or fraction thereof** of the estimated cost
+
+---
+
+### 6. **Sewer Installation Not Connected to Main**
+- No one may install a sewer not connected to the park’s sewer system without written permission.
+- Same application requirements as for septic tanks.
+
+---
+
+## 💳 FEE STRUCTURE & CHARGES (By Park)
+
+### A. **Kootenay National Park & Fundy National Park**
+> Applies to all lots in these parks.
+
+#### Obligations:
+1. **Owners must inform the Superintendent** of:
+   - Number of rooms (excluding halls, bathrooms, pantries, closets)
+   - Floor area of those rooms
+   - Use of buildings (to determine annual water/sewer charge)
+
+2. **If connected to water system**, pay an **annual quantity charge** at the rate set in **Schedule IV**.
+
+> ⚠️ *Note: The original text says "Schedule IV or VIII" — this may be a typo or inconsistency; likely meant to be Schedule IV.*
+
+---
+
+### B. **Prince Albert, Riding Mountain, and Waterton Lakes National Parks**
+> Applies to lots in these parks.
+
+#### Charges are calculated using **formulas** based on volume values, occupancy, and system costs.
+
+#### Water Service Charge Formula:
+$$
+\text{Annual Water Charge} = \frac{(\text{Volume Value of Units}) \times (\text{Months Occupied})}{12} \times \frac{\text{Total Operating & Maintenance Costs}}{\text{Aggregate Volume Values of All Connected Lots}} \times \frac{\text{Aggregate Base Factors of Units on Lot}}{\text{Aggregate Base Factors of All Units Connected to Water System}} \times \frac{\text{Total Capital Costs}}{\text{Aggregate Base Factors of All Units Connected to Water System}}
+$$
+
+> This formula allocates operating and capital costs **proportionally** based on usage and system-wide factors.
+
+#### Sewer Service Charge Formula:
+$$
+\text{Annual Sewer Charge} = \frac{(\text{Volume Value of Units}) \times (\text{Months Occupied})}{12} \times \frac{\text{Total Operating & Maintenance Costs}}{\text{Aggregate Volume Values of All Connected Lots}} \times \frac{\text{Aggregate Base Factors of Units on Lot}}{\text{Aggregate Base Factors of All Units Connected to Sewer System}} \times \frac{\text{Total Capital Costs}}{\text{Aggregate Base Factors of All Units Connected to Sewer System}}
+$$
+
+> These formulas ensure **fair cost allocation** based on actual usage and system burden.
+
+> 🔍 **Note**: The original text cuts off mid-sentence after "is" — the full formula is **incomplete** and cannot be fully interpreted without the full version.
+
+---
+
+## 💰 COSTS FOR CONNECTIONS
+
+### 1. **Owner Responsibilities**
+- Pays **all costs** for the part of the connection **within their lot line**.
+- Pays **extra costs** for parts **outside the lot line** due to:
+  - Rock, frost, or other obstacles
+  - Removal and replacement of streets, sidewalks, or boulevards
+
+> These costs are **not shared** with the park.
+
+---
+
+### 2. **Security Deposit**
+- When applying for a connection, the owner must provide a **security deposit** equal to the estimated cost of construction for which they are responsible.
+- Upon completion:
+  - If deposit **exceeds actual costs**, the surplus is **deposited to the Receiver General** and the balance is **refunded**.
+  - If deposit is **equal to or less than actual costs**, the amount is deposited to the Receiver General, and the owner is **notified of any balance

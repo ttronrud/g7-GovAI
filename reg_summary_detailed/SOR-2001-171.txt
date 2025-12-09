@@ -1,0 +1,126 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the **Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations**, as referenced in your query. This summary is based on the statutory language provided, including the relevant provisions of the *Excise Tax Act* and the specific definitions and rules set out in the Regulations.
+
+---
+
+## 🔍 **Comprehensive Summary of the Selected Listed Financial Institutions Attribution Method (GST/HST) Regulations**
+
+### 📌 **Regulatory Background and Legal Authority**
+
+These regulations were made under the authority of the *Excise Tax Act* (ETA), specifically through a combination of provisions in Sections 225.2(1)(d)a, 225.2(2) (descriptions of A, Ca, F, Ga), 228(2.2)b, 237(5)(b)(ii), 277d, 363(2)(a)(ii), (b), (c)(ii), and (d). The Governor General in Council, on the recommendation of the Minister of Finance, enacted these rules to establish an **attribution method for determining the GST/HST liability of selected listed financial institutions**.
+
+The primary objective is to **ensure that the appropriate provincial and federal tax is applied to transactions involving financial institutions** that are publicly traded or listed on stock exchanges — particularly those that are subject to the GST/HST regime.
+
+These regulations are part of the broader framework governing **tax attribution in the financial services sector**, ensuring that where a financial institution has a "permanent establishment" or engages in activities in a province, the GST/HST liability is appropriately attributed to that jurisdiction.
+
+---
+
+## 🔍 Key Components of the Regulations
+
+---
+
+### 1. **Definitions and Interpretations**
+
+The regulations define key terms used throughout, providing clarity and consistency in application.
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Excise Tax Act* (ETA). |
+| **Defined Benefits Pension Plan** | A pension plan where benefits are determined by a formula, and employer contributions are not based on a formula. |
+| **Defined Contribution Pension Plan** | Any pension plan that is not a defined benefits plan. |
+| **Distributed Investment Plan** | Includes a wide range of investment vehicles such as mutual funds, mortgage investment corporations, unit trusts, segregated funds, non-resident-owned investment corporations, and investment limited partnerships — all exempt from income tax under the Income Tax Act (ITA). |
+| **Exchange-Traded Fund (ETF)** | A distributed investment plan whose units are listed or traded on a stock exchange or public market. |
+| **Exchange-Traded Series** | A series of a stratified investment plan whose units are listed or traded on a public market. |
+| **Individual** | Includes the estate or succession of a deceased individual. |
+| **Investment Plan** | A person (corporation, trust, etc.) covered under ITA subsection 149(1)(a)(vi) or (ix), excluding certain types of trusts (e.g., RRSPs, TFSAs, RIFs, RSDPs) and those with limited beneficiaries. |
+| **Manager** | The person with ultimate responsibility for managing and administering the assets and liabilities of an investment plan. For pension entities, this is the administrator or PRPP administrator. |
+| **Non-Stratified Investment Plan** | A distributed investment plan that is not stratified. |
+| **Permanent Establishment (PE)** | A physical or legal presence of a person in a province that allows it to carry on business. Defined differently based on entity type: <br> - Corporations: under ITA s. 400(2) <br> - Individuals/Trusts: under s. 2600(2) <br> - Partnerships: treated as if they were individuals or corporations depending on membership. |
+| **Plan Member** | An individual with a right (present or future) to receive benefits under a private investment plan or pension entity. |
+| **Private Investment Plan** | An investment plan that is not a distributed investment plan or a pension entity. |
+| **Provincial Series** | A series of a stratified investment plan that meets specific conditions: <br> - Units are only sold/distributed in one province <br> - Acquirers must be residents of that province <br> - Units must be sold/redirected within a reasonable time after residency ends <br> - The plan’s allocation to the province is at least 90% of the total for the fiscal year. |
+| **Series** | A class of units in a trust, class of capital stock in a corporation, or class of units in a partnership. |
+| **Specified Resource** | Same as in subsection 172.1(1) of the Act — refers to resources attributable to a taxpayer. |
+| **Stratified Investment Plan** | A distributed investment plan with units issued in two or more series. |
+| **Subscriber** | Under a registered education savings plan, same as in ITA s. 146.1(1). |
+| **Unit** | A share, interest, or unit of ownership in a trust, corporation, partnership, or segregated fund. |
+
+> **Note**: For greater certainty, these definitions apply to subsection 225.2(2) of the Excise Tax Act as adapted by these regulations.
+
+---
+
+### 2. **Permanent Establishment Rules (Key to GST/HST Attribution)**
+
+These rules determine **where a financial institution has a permanent establishment (PE)**, which determines **where GST/HST is attributable**.
+
+#### A. **Banks & Credit Unions**
+If, during a taxation year:
+- The institution maintains a **deposit or similar account** in the name of a person resident in a province, **OR**
+- It has an **outstanding loan** secured by land in a province, **OR**
+- It has an **outstanding loan** not secured by land but owed by a resident of a province,
+
+➡️ The institution is **deemed to have a PE in that province** throughout the year.
+
+✅ The loans and deposits are **attributed to that PE**, not to any other PE.
+
+#### B. **Insurers**
+If the insurer is insuring a risk:
+- In property situated in a province, **OR**
+- In a person resident in a province,
+
+➡️ The insurer is **deemed to have a PE in that province** throughout the year.
+
+#### C. **Trust & Loan Corporations**
+If:
+- Conducting business (other than loan business) in a province, **OR**
+- Has an outstanding loan secured by land in a province, **OR**
+- Has an outstanding unsecured loan owed by a resident of a province,
+
+➡️ The entity is **deemed to have a PE** in that province.
+
+#### D. **Segregated Funds of Insurers**
+The fund is deemed to have a PE in a province if:
+- The insurer is **qualified** to sell units of the fund in that province, **OR**
+- A person resident in the province **holds one or more units**.
+
+#### E. **Distributed Investment Plans (excluding segregated funds)**
+The plan is deemed to have a PE in a province if:
+- It is **qualified** to sell or distribute units in that province, **OR**
+- A person resident in the province **holds one or more units**.
+
+#### F. **Private Investment Plans or Pension Entity Plans**
+If at any time during the year:
+- A **plan member** (individual with rights to benefits) is **resident in a province**,
+
+➡️ The financial institution is **deemed to have a PE in that province** throughout the year.
+
+---
+
+### 3. **Residency of a Person in Canada (for GST/HST Determination)**
+
+A person resident in Canada is deemed to be **resident in a province** under the following rules:
+
+| Person Type | Residency Rule |
+|-----------|----------------|
+| Individual | Where the person’s **principal mailing address** in Canada is located. |
+| Corporation or Partnership | Where the person’s **principal business** in Canada is located. |
+| Trust (RRSP, RIF, RSDP, TFSA, etc.) | Where the **principal mailing address** of the annuitant (RRSP/RIF), subscriber (RSP), or holder (RSDP/TFSA) is located. |
+| General Trust (non-exempt) | Where the **trustee’s principal business** is located; if no business, then principal mailing address. |
+| Any other person | Where the **principal business** is located; if no business, then principal mailing address. |
+
+> This rule ensures that **GST/HST is attributed to the province where the person resides**, even if the financial institution is headquartered elsewhere.
+
+---
+
+### 4. **Application to Section 225.3 and 225.4 of the Excise Tax Act**
+
+#### For **Section 225.3 (GST/HST Attribution Method)**:
+- **Exchange-traded fund (ETF)**, **exchange-traded series**, **non-stratified investment plan**, and **stratified investment plan** have the same meanings as defined in subsection 1(1) of the Act.
+
+#### For **Section 225.4 (Reporting and Calculation of Tax)**:
+- The following terms have the same meaning as in subsection 1(1):
+  - Exchange-traded fund, series, individual, investment plan, non-stratified investment plan, plan member, private investment plan, series, stratified investment plan, unit.
+- **Specified investor** has the same meaning as in section 16 of the Act.
+
+---
+
+### 5. **Unrecoverable Tax Amount (Key to Tax

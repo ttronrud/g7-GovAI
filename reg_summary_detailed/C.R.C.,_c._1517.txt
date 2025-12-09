@@ -1,0 +1,173 @@
+**Detailed Summary of the *Canada Oil and Gas Drilling and Production Regulations***
+
+---
+
+### **Overview**
+
+The *Canada Oil and Gas Drilling and Production Regulations* (the "Regulations") establish comprehensive rules governing the exploration, drilling, production, and abandonment of oil and gas wells on Canada lands under the control of the Minister of Natural Resources (or relevant federal authority). These regulations are designed to ensure **safety, environmental protection, conservation of hydrocarbon resources, and operational accountability**.
+
+They apply to all activities related to searching for, producing, or transporting oil and gas on federal lands, including operations conducted under licenses, permits, or leases issued under the *Territorial Oil and Gas Regulations* (now revoked by SOR/60-182).
+
+---
+
+## **Key Definitions**
+
+The Regulations define critical terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Barrel** | 35 gallons |
+| **Blowout** | Unintentional and uncontrolled escape of oil or gas from a well due to high formation pressure |
+| **Blowout Preventer (BOP)** | A casing-head control with gates or rams that can close around drill pipe or fully seal the top of the casing |
+| **Field** | The surface area or subsurface region beneath one or more pools of oil or gas |
+| **Gas-Oil Ratio (GOR)** | Cubic feet of gas produced per barrel of oil |
+| **Gas Well** | A well producing natural gas not mixed with oil; producing more than 30,000 ft³ of gas per barrel of oil; or classified as a gas well by the Minister |
+| **Oil Well** | Any well capable of producing oil that is not a gas well |
+| **Pipeline** | Any pipe or system of pipes used to convey oil or gas within Canada lands, including associated infrastructure (tanks, compressors, meters, etc.), but **excluding distribution systems** to end consumers |
+| **Pool** | A natural underground reservoir containing oil, gas, or both, separated from other accumulations |
+| **Waste** | Includes inefficient use of reservoir energy, improper well placement, excessive production beyond demand, or surface loss/damage due to drilling operations |
+| **Zone** | A stratum or set of strata designated by the Minister as a zone, either generally or for a specific area or well |
+
+> All other terms retain their meaning as defined in the *Canada Oil and Gas Land Regulations*.
+
+---
+
+## **Scope and Applicability**
+
+- Applies to:
+  - All drilling and production activities on Canada lands.
+  - All operations conducted under a license, permit, or lease granted under the *Territorial Oil and Gas Regulations*.
+- Covers the full lifecycle: **planning, drilling, testing, production, abandonment**, and **environmental management**.
+
+---
+
+## **Drilling and Operational Requirements**
+
+### **1. Notice and Approval of Drilling Programs**
+- **Mandatory Notice**: Any person planning to drill a well or conduct structure test hole drilling must:
+  - Provide written notice of intent to the **Oil Conservation Engineer (OCE)**.
+  - Submit the notice in **triplicate** on a form approved by the Department.
+- **Approved Program**: Once approved, operations must follow the approved plan.
+- **Emergency Changes**: Immediate changes may be made without prior approval, but **written notice must be sent promptly** to the OCE.
+
+---
+
+### **2. Casing Requirements**
+- **Surface Casing**:
+  - Must be satisfactory to the OCE.
+  - Placed to the depth required by the OCE.
+  - Cemented using the **pump-and-plug method** from bottom to top.
+  - Cement must **set under pressure for at least 12 hours** before proceeding with drilling the plug.
+
+- **Production or Intermediate Casing**:
+  - Must meet **safety factors**:
+    - **1.60 in tension**
+    - **1.125 in collapse**
+    - **1.0 in burst**
+  - Design must be submitted in triplicate to the OCE on an approved form.
+  - Must be cemented to a sufficient height to **isolate productive zones**.
+  - Cementing must use the **pump-and-plug method** with **24-hour setting time** and **pressure testing** per good oil field practice before drilling the plug.
+
+---
+
+### **3. Blowout Prevention Equipment**
+- **In Proven Areas**:
+  - **Blowout preventers (BOPs) are mandatory** and must be used in accordance with established best practices.
+- **In Unproven Areas**:
+  - Wells must have **minimum BOP equipment**, including:
+    - Equipment to close off the open hole.
+    - Equipment to close around drill pipe, casing, and tubing.
+    - A **bleed-off line and valve** of appropriate size and working pressure.
+  - Controls for BOPs must be located **at least 2 feet outside the substructure**.
+
+---
+
+### **4. Slush Pits and Gas Management**
+- **Slush Pits**:
+  - Must be constructed **before drilling begins** to receive drilling mud.
+  - Must be of sufficient quality and quantity to handle mud if the hole needs to be plugged.
+- **Cable Tool Drilling**:
+  - Natural gas encountered **above the ultimate objective** must be **shut off** by:
+    - Mudding (injecting mud), or
+    - Running a casing string.
+  - If casing is used, it must be **tested by bailing** to confirm shut-off before drilling continues.
+- **Casing Program**:
+  - Must protect potential oil/gas horizons from:
+    - Infiltration of injurious waters from other horizons.
+    - Migration of oil/gas between horizons.
+
+---
+
+### **5. Core Sampling and Testing**
+- **Core Sampling**:
+  - When drilling approaches a formation with potential production, the licensee must:
+    - Core and test the formation **if required by the OCE**.
+    - Core and testing must be **reasonable, proper, and not detrimental** to ongoing operations.
+  - **Cores must be stored in book fashion** in core boxes:
+    - Labelled on the **body**, not the lid.
+    - Include: well name, interval, depth, top/bottom, footage recovery.
+    - Boxes must be **stout wooden or metal**, with sides projecting above core level and lids securely fixed.
+    - Maximum length: **3 feet**.
+  - Protection from theft, weather, or loss is required.
+  - After reasonable time for analysis, cores must be **forwarded prepaid** to the OCE when directed.
+
+- **Core Destruction**:
+  - **No cores may be destroyed or removed from Canada** without OCE consent, except for **reasonable analytical purposes**.
+
+- **Log Testing**:
+  - Must take:
+    - One **electric log** (e.g., resistivity, porosity).
+    - One **other type of log** (e.g., radioactivity, sonic, or other approved log).
+  - Logs must provide data on:
+    - Horizon contacts.
+    - Porosity and fluid saturation.
+  - **Three copies** of each log must be sent to the OCE within **30 days** of logging.
+
+---
+
+### **6. Daily Drilling Reports**
+- Must be maintained and submitted in **duplicate** on a form approved by the Chief.
+- One copy must be kept at the well site and **available for inspection** by the OCE.
+- A copy must be sent to the OCE **at the end of each week**.
+- Reports must include:
+  - Depth at start and end of day.
+  - Formation penetrated.
+  - Any casing changes (size, type, grade, weight, depth).
+  - Cementing details.
+  - Any water, oil, or gas encountered (even small showings).
+  - Deviation surveys, formation tests, or other tests.
+  - Other operations (fishing, perforating, acidizing, surveying, abandonment).
+
+---
+
+### **7. Notification of Significant Discoveries**
+- If significant quantities of oil or gas are encountered **outside a designated pool or field**, the licensee must:
+  - Notify the OCE **by the most expeditious method**.
+  - Provide samples:
+    - **At least one quart** of oil or water.
+    - **Sufficient gas** to fill a container approved by the OCE.
+  - Forward samples to the OCE upon request.
+
+---
+
+### **8. Well Abandonment Procedures**
+- **Prior Approval Required**:
+  - Before abandoning a well or removing casing, the licensee must:
+    - Submit a written notice (in triplicate) on an approved form.
+    - Obtain **written approval** from the OCE (may be given orally initially).
+- **Cement Plugs**:
+  - Must be used to protect porous formations.
+  - Plugs must be **felt for** (checked) per good field practice.
+  - New plugs must be placed if needed.
+  - Intervals between plugs must be filled with **approved mud-laden fluid** of proper density (unless otherwise directed).
+- **Abandonment of Seismic/Structure Test Holes**:
+  - Must follow a method approved by the OCE and good field practice.
+- **Site Restoration**:
+  - After abandonment:
+    - Excavations must be filled.
+    - A **marker pipe** (≥2 inches in diameter) must be set:
+      - Solidly into a concrete block or approved material.
+      - Projecting **at least 4 feet above ground**.
+    - The **well name** must be clearly and permanently marked.
+- **Post-Abandonment Site Clearance**:
+  - As soon as weather/ground conditions permit

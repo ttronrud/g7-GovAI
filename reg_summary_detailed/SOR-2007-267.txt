@@ -1,0 +1,119 @@
+Certainly. Below is a **detailed, clear, and structured summary** of the regulation titled *Interest Rates (Air Travellers Security Charge Act) Regulations*, as provided:
+
+---
+
+### **Detailed Summary of the Interest Rates (Air Travellers Security Charge Act) Regulations**
+
+#### **1. Regulatory Authority and Legal Basis**
+- The regulations are made by **Her Excellency the Governor General in Council**, acting on the **recommendation of the Minister of Finance**.
+- They are issued under **subsection 84(1)** and **paragraph 84(2)(d)** of the *Air Travellers Security Charge Act* (ATSCA).
+- This means the government has formally established the interest rate structure for the Air Travellers Security Charge (ATSC), which is a fee paid by air travellers to fund aviation security.
+
+---
+
+#### **2. Purpose of the Regulations**
+To determine the **prescribed rate of interest** applicable to the Air Travellers Security Charge (ATSC) during specific quarters, depending on when the quarter begins (after March 2002 and after March 2007), and to define key terms used in calculating that rate.
+
+---
+
+#### **3. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Quarter** | A period of three consecutive months beginning on January 1, April 1, July 1, or October 1. For example: Jan–Mar, Apr–Jun, etc. |
+| **Basic Rate (in respect of a particular quarter)** | The simple arithmetic mean (average), expressed as a **percentage per year**, of all the **average equivalent yields** of Government of Canada Treasury bills that: <br> - Mature approximately **three months after issuance**, <br> - Were sold at auction during the **first month of the immediately preceding quarter**, <br> - Are rounded **up to the next higher whole percentage** if the mean is not a whole number. |
+
+> Example: If the average yields of Treasury bills from the first month of the previous quarter are 2.1%, 2.3%, and 2.2%, the mean is 2.2%, which would be rounded up to **2.3% per year**.
+
+---
+
+#### **4. Interest Rate Calculation by Period**
+
+##### **A. Quarters Beginning After March 2002 and Before April 2007**
+
+- The prescribed rate of interest during such a quarter is calculated using the following formula:
+  
+  > **Rate (as a percentage per month)** =  
+  > The **simple arithmetic mean** of all the **average equivalent yields** (expressed as a percentage per year) of Government of Canada Treasury bills that mature in ~3 months and were sold at auction during the **first month of the immediately preceding quarter**.
+
+- This rate is then:
+  - **Expressed as a percentage per month**,
+  - **Rounded to the nearest one-tenth of a percentage point** (e.g., 0.1%),
+  - If the result is **exactly halfway** between two values (e.g., 0.05%), it is **rounded up** to the higher value.
+
+> Example:  
+> Suppose the average yield of Treasury bills in the first month of the prior quarter is 3.45%, 3.50%, and 3.48%.  
+> Mean = 3.477% → rounded to **3.5% per year**.  
+> Convert to monthly rate: 3.5% ÷ 12 = 0.2917% → rounded to **0.3% per month**.
+
+> This monthly rate applies to interest charged on the ATSC.
+
+---
+
+##### **B. Quarters Beginning After March 2007**
+
+The interest rate structure changed to differentiate between **who receives or pays the interest**:
+
+| Recipient/Type of Payment | Interest Rate |
+|--------------------------|---------------|
+| **Interest paid to the Receiver General of Canada** (e.g., government revenue) | **Basic rate + 4%** (per year, converted to monthly) |
+| **Interest paid or applied to a person who is not a corporation** (e.g., individual travellers, non-business entities) | **Basic rate + 2%** (per year, converted to monthly) |
+| **Interest paid or applied to a corporation** (e.g., business entities) | **Only the basic rate** (per year, converted to monthly) |
+
+> Note: All rates are expressed as **annual yields**, converted to **monthly rates** for application, and then rounded as per the rules above.
+
+> Example:  
+> If the basic rate is 3.0% per year →  
+> - To Receiver General: 3.0% + 4.0% = 7.0% per year → 0.583% per month → rounded to **0.6% per month**  
+> - To individual (non-corporation): 3.0% + 2.0% = 5.0% per year → 0.417% per month → rounded to **0.4% per month**  
+> - To corporation: 3.0% per year → 0.25% per month → rounded to **0.3% per month**
+
+> The **basic rate** is still derived from the same Treasury bill yield calculation as before.
+
+---
+
+#### **5. Effective Date**
+- These regulations **came into force on April 1, 2002**.
+- This means the interest rate structure applies to all quarters starting on or after that date, with the transition point at **March 2007**.
+
+---
+
+#### **6. Key Implications and Objectives**
+
+- **Transparency and Market Linkage**: The interest rate is directly tied to the performance of **Government of Canada Treasury bills**, which are considered low-risk, stable instruments. This ensures that the ATSC interest rate reflects current market conditions and inflation trends.
+  
+- **Differential Treatment by Recipient**: The rules allow for **different interest rates** based on the recipient:
+  - Higher interest (4%) for government revenue (Receiver General) to ensure adequate funding.
+  - Moderate interest (2%) for individuals to balance fairness and cost.
+  - Lower interest (only basic rate) for corporations, possibly to reduce the financial burden on businesses.
+
+- **Stability and Predictability**: By using a formula based on Treasury bill yields, the rate is predictable and consistent, reducing arbitrage and ensuring fair treatment of all parties.
+
+- **Periodic Adjustment**: Since the rate is based on Treasury bill auctions in the **first month of the preceding quarter**, the rate is updated **every three months**, ensuring timely responsiveness to market changes.
+
+---
+
+#### **7. Summary Table: Interest Rate Structure Over Time**
+
+| Time Period | Interest Rate (Monthly) | Recipient |
+|-----------|------------------------|----------|
+| **March 2002 – March 2007** | Mean of Treasury bill yields (annual) → converted to monthly, rounded to nearest 0.1% | All payers |
+| **After March 2007** | <ul><li>Receiver General: Basic rate + 4%</li><li>Individuals: Basic rate + 2%</li><li>Corporations: Basic rate only</li></ul> | Based on recipient type |
+
+---
+
+#### **8. Important Notes**
+- The **basic rate** is always derived from **Treasury bills maturing in ~3 months** (i.e., 90-day bills).
+- The **"average equivalent yield"** adjusts for differences in maturity and pricing, ensuring comparability.
+- The **rounding rules** ensure consistency and prevent ambiguity in financial calculations.
+- The regulations are **binding** and form part of the *Air Travellers Security Charge Act*.
+
+---
+
+### ✅ Conclusion
+
+These regulations establish a **transparent, market-linked, and tiered interest rate system** for the Air Travellers Security Charge. By anchoring the rate to Treasury bill yields and introducing different treatment based on the recipient (individual vs. corporation), the government ensures both **financial prudence** and **fairness** in how the security charge interest is calculated and distributed. The structure also reflects evolving fiscal and economic conditions, with a clear transition point in 2007 that allows for more targeted financial outcomes.
+
+---
+
+This summary is suitable for use by policymakers, financial analysts, legal professionals, or the public seeking to understand how interest is calculated on the Air Travellers Security Charge under Canadian law.

@@ -1,0 +1,135 @@
+**Detailed Summary of the Low-value Amounts Regulations (S.C. 2014, c. 39, s. 304; R.S., c. F-11)**
+
+---
+
+### **Overview**
+
+The *Low-value Amounts Regulations* are a set of administrative rules made by the **Treasury Board of Canada** under **subsection 155.2(2)(a)** of the *Financial Administration Act (FAA)*. These regulations establish specific thresholds and rules for when small amounts payable by Her Majesty in right of Canada are considered "low-value" and whether they are subject to accumulation under the provisions of subsection 155.2(1) of the FAA.
+
+The primary purpose of these regulations is to **provide clarity and consistency** in how low-value payments are treated in financial administration, particularly in relation to the **accumulation of payments** that might otherwise trigger reporting or accounting obligations under the FAA.
+
+---
+
+### **Key Provisions and Explanations**
+
+#### **1. Definition of "Amount" Under Subsection 155.2(1)**
+
+The regulations define two distinct thresholds for what constitutes a "low-value amount":
+
+- **For payments under the Canada Pension Plan (CPP), Employment Insurance (EI), and Old Age Security (OAS)** — the threshold is **99 cents**.
+- **For all other payments** — the threshold is **$2.00**.
+
+> This means that any payment below these amounts is treated as a "low-value" payment and is subject to specific rules regarding accumulation and treatment under the FAA.
+
+> *Note:* These thresholds apply only to amounts payable by Her Majesty in right of Canada under the relevant Acts or regulations.
+
+---
+
+#### **2. Accumulation of Low-value Payments**
+
+Despite the general rule in section 2 of the FAA (which typically prevents the accumulation of small payments), the regulations **allow for the accumulation** of certain low-value amounts during specific time periods — **only if** they are of the same type, program, or legislation.
+
+##### **Types of Payments That Accumulate:**
+
+| Payment Type | Description |
+|------------|-------------|
+| **CPP, OAS, EI, Veterans Well-being Act, Department of Veterans Affairs Act, Pension Act, War Veterans Allowance Act** | Payments under these programs (including any regulations made under them) may accumulate. |
+| **Payments under the Department of Public Works and Government Services Act (DPWGS)** | Payments authorized under sections 12 and 13 of the DPWGS Act. |
+| **Salary, wages, pay, and allowances** | For officers and non-commissioned members under the *National Defence Act*, and members under the *Royal Canadian Mounted Police Act*. |
+| **Canadian Forces Superannuation Act (CFSA)** | Payments under the CFSA and any related regulations. |
+
+> These amounts may accumulate **only if they are of the same type, program, legislation, or regulation** and are payable to the same recipient.
+
+##### **Accumulation Periods:**
+
+- **For CPP, OAS, EI, Veterans Well-being Act, etc. (paragraph 1(a))**:  
+  Accumulation is allowed for **up to 12 months after the date the payment becomes payable**.
+
+- **For all other types (paragraphs 1(b) to (d))**:  
+  Accumulation is allowed for **up to 12 months after the date of payment**, **or until the end of the calendar year in which the payment became payable**, whichever comes **first**.
+
+> This ensures that accumulation does not extend beyond a reasonable timeframe and prevents indefinite stacking of small payments.
+
+---
+
+#### **3. Trigger for Payment Upon Exceeding Threshold**
+
+- If, **at any time during the accumulation period**, the **total accumulated amount exceeds the applicable threshold** (99 cents or $2.00), the government must make **payment within 30 days** of that time.
+
+> This ensures that when the total of small, recurring payments reaches a defined level, it is promptly paid to the recipient — preventing delays and ensuring compliance with financial accountability standards.
+
+---
+
+#### **4. Deemed Nil at End of Period**
+
+- If the **accumulated amount does not exceed the threshold** at the end of the applicable accumulation period, the amount is **deemed to be nil** under subsection 155.2(1) of the FAA.
+
+> This effectively resets the accumulation for future payments, avoiding ongoing liability or reporting requirements.
+
+---
+
+#### **5. Limitations on Accumulation (Exclusions)**
+
+Subsection 155.2(1) of the FAA **does not apply** to the following types of amounts:
+
+- **Payments in currencies other than Canadian dollars**  
+  → Excludes foreign currency payments from the accumulation rules.
+
+- **User fees** as defined in the *User Fees Act*  
+  → These are explicitly excluded from the low-value accumulation provisions.
+
+- **Immediate payments in exchange for goods or services**  
+  → Transactions involving direct exchange (e.g., a service fee paid at the time of delivery) are not subject to accumulation.
+
+- **Payments requested in writing by the recipient**  
+  → If a recipient formally requests a payment **within 12 months** of when the amount became payable and sends the request to the appropriate Minister, the amount is **exempt from accumulation**.
+
+> This provision respects the recipient’s right to request payment directly and ensures that such requests are not treated as "accumulated" under the rules.
+
+---
+
+#### **6. Scope and Application**
+
+- The term **"Act"** in these regulations refers to the *Financial Administration Act*.
+- The regulations apply to **all payments made by Her Majesty in right of Canada** (i.e., government payments to individuals or entities).
+- The rules apply **only to low-value amounts** as defined above and are **not intended to replace or override** broader financial management or accountability frameworks.
+
+---
+
+### **Effective Date**
+
+- These regulations **come into force on April 1, 2015**.
+
+---
+
+### **Purpose and Rationale**
+
+The Low-value Amounts Regulations were introduced to:
+
+1. **Simplify financial administration** by providing clear thresholds for small payments.
+2. **Avoid unnecessary reporting or compliance burdens** on government departments for routine, minor payments.
+3. **Ensure timely payment** when a cumulative amount reaches a defined threshold.
+4. **Provide flexibility** for payments that are requested directly or involve services or fees.
+5. **Maintain accountability** by ensuring that accumulated amounts are reviewed and paid within a defined timeframe.
+
+---
+
+### **Key Takeaways**
+
+| Feature | Detail |
+|--------|--------|
+| **Thresholds** | 99 cents (for CPP, EI, OAS); $2.00 (all others) |
+| **Accumulation Allowed?** | Yes — for specified types of payments |
+| **Accumulation Period** | Up to 12 months (or until end of calendar year, whichever comes first) |
+| **Payment Trigger** | When accumulated amount exceeds threshold → must be paid within 30 days |
+| **End of Period** | If below threshold → amount is deemed nil |
+| **Exclusions** | Foreign currency, user fees, immediate service payments, recipient-requested payments (within 12 months) |
+| **Effective Date** | April 1, 2015 |
+
+---
+
+### **Conclusion**
+
+The *Low-value Amounts Regulations* provide a **practical, transparent, and accountable framework** for managing small, recurring government payments. By setting clear thresholds and accumulation rules, the Treasury Board ensures that minor payments are handled efficiently without creating unnecessary administrative or financial complexity. At the same time, the rules protect recipients' rights and ensure that legitimate, timely requests are honored.
+
+These regulations reflect a balance between **financial prudence**, **operational efficiency**, and **public accountability** in the delivery of government services.

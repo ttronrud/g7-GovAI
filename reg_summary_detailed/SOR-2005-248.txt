@@ -1,0 +1,136 @@
+### **Detailed Summary of the New Substances Notification Regulations (Organisms)**  
+*Pursuant to the Canadian Environmental Protection Act, 1999 (CEPA 1999)*
+
+---
+
+## **1. Background and Legal Basis**
+
+The **New Substances Notification Regulations (Organisms)** were issued by Her Excellency the Governor General in Council, on the recommendation of the **Minister of the Environment** and the **Minister of Health**, under **subsection 114(1)** of the *Canadian Environmental Protection Act, 1999* (CEPA 1999). This action followed a **public consultation process** initiated on **October 30, 2004**, when the Minister published a **proposed version** of the regulations in *Canada Gazette, Part I*, allowing stakeholders to submit comments or file **notices of objection** requesting a board of review.
+
+This final regulation establishes a comprehensive framework for the **notification and assessment of micro-organisms and other organisms** that are introduced into Canada, particularly those used in research and development (R&D), to ensure environmental and human health protection.
+
+---
+
+## **2. Key Definitions**
+
+The regulations define critical terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canadian Environmental Protection Act, 1999*. |
+| **Micro-organism** | Includes: bacteria, archaea, protists (e.g., protozoa, algae), fungi (e.g., yeasts), viruses, virus-like particles, sub-viral particles, cultured cells (excluding those used to propagate the organism), or any culture (non-pure). |
+| **Organism** | A living organism as defined in section 104 of CEPA 1999, **excluding** specific cases related to micro-organisms or certain regulated substances (e.g., pathogens, genetically modified organisms in Schedule 5). |
+| **Research and Development (R&D) Organism** | An organism undergoing systematic investigation with primary objectives such as: <br> - Creating or improving a product/process <br> - Determining technical viability/performance <br> - Evaluating the organism before commercialization (e.g., pilot trials, scale-up). |
+| **Experimental Field Study** | A field-based R&D study using the **minimum area** (≤100 hectares) and **minimum quantity** of micro-organism necessary to meet study objectives. |
+| **Indigenous** | A micro-organism that occurs naturally in the **ecozone** where it is intended to be introduced. |
+| **Ecozone** | One of the 10 terrestrial ecozones defined in the *Terrestrial Ecozones and Ecoregions of Canada 1995* map (Catalogue No. cas016e), as updated by the Canada Soil Information System (CanSIS). |
+| **Containment Procedures** | Physical, chemical, biological, or operational controls designed to restrict the exit or dispersal of a micro-organism. |
+| **Contained Facility** | An enclosed building or area meeting physical and operational requirements for a specific **containment level** as per either: <br> - *Canadian Biosafety Standards and Guidelines* (2015 & 2017) <br> - *NIH Guidelines* (Appendix K). |
+| **NIH Guidelines** | U.S. Department of Health and Human Services’ *Guidelines for Research Involving Recombinant DNA Molecules* (1994, amended), which set standards for safe handling of genetically modified organisms. |
+| **Canadian Biosafety Standards and Guidelines** | Developed jointly by the Public Health Agency of Canada (PHAC) and Canadian Food Inspection Agency (CFIA), including:<br> - *Canadian Biosafety Standard, 2nd Edition (2015)*<br> - *Canadian Biosafety Guideline: Containment Level 1 (2017)* |
+
+> ⚠️ **Note**: The *Laboratory Biosafety Guidelines* were **repealed** in 2018 (SOR/2018-11, s.33).
+
+---
+
+## **3. Scope and Exclusions**
+
+The regulations **do not apply** in the following situations:
+
+### **Exclusions from Application**
+1. **Organisms regulated under other Acts or regulations** listed in **Schedule 4** of CEPA 1999 (e.g., human pathogens, pesticides, food safety).
+2. **Micro-organisms loaded on a carrier outside Canada** and moved through Canada to a location outside Canada — regardless of carrier changes.
+3. **R&D micro-organisms not intended for introduction outside a contained facility**, if:
+   - Containment complies with Canadian Biosafety Standards or NIH Appendix K; **and**
+   - Quantity is below thresholds:
+     - Less than **50 mL or 50 g** upon import; or
+     - Manufactured in a contained facility with:
+       - Less than **1,000 L** present at any time (if requiring containment level 2, 3, or 4); or
+       - Less than **250 L** present at any time (if under a licensed controlled activity under the *Human Pathogens and Toxins Act*).
+4. **Non-micro-organisms** that are R&D organisms with **no environmental release** of:
+   - The organism itself
+   - Its genetic material
+   - Material involved in toxicity testing
+5. **Agricultural research studies** involving **indigenous micro-organisms** (see detailed exception below).
+
+---
+
+## **4. Special Exemption: Agricultural Research Studies**
+
+Despite general notification requirements, **a micro-organism used in an agricultural research study** may be exempt from full Schedule 1 reporting **if** the following conditions are met:
+
+### **Conditions for Exemption**
+- The study is conducted and supervised by:
+  - An **agronomist**, **plant pathologist**, or **trained researcher**.
+- The micro-organism:
+  - Is **not modified** from its natural form.
+  - Occurs **naturally** in the same ecozone as the study site.
+  - Is identifiable at a **taxonomic level** that allows assessment of:
+    - Environmental and health risks
+    - Study design and safety measures
+- Manufacturing practices:
+  - Minimize contamination and **unintentional release**.
+- Field practices:
+  - Follow sanitation and field controls to **minimize dispersal** beyond the study area.
+- Operational procedures:
+  - Ensure only **qualified individuals** receive physical possession of the micro-organism, who are aware of and capable of meeting safety conditions.
+
+> ✅ **Agricultural research study** is defined as:
+> - On land cultivated with annual crops (e.g., corn, soybeans)
+> - On perennial/woody plants (e.g., grapevines, fruit trees, Christmas trees, ornamental shrubs) not requiring replanting
+> - On land used for ≥5 consecutive years growing herbaceous forage crops
+> - In a greenhouse **not considered a contained facility**
+
+> ❌ Excludes forestry lands.
+
+---
+
+## **5. Notification Requirements**
+
+### **Who Must Notify?**
+Any person who **manufactures or imports** a micro-organism or organism (excluding the specified exclusions) must provide required information.
+
+### **Types of Notifications and Required Information**
+
+| Scenario | Notification Required | Schedule | Key Exemptions |
+|--------|------------------------|--------|----------------|
+| **General manufacture/import of micro-organism** | Schedule 1 | Full Schedule 1 | None (unless exempted) |
+| **Introduction into non-indigenous ecozone** | Schedule 1 (except 5(a)) + ecozone identification + data on effects on plants/invertebrates/vertebrates | Schedule 1 | Exempt from 5(a); must provide other info and ecozone details |
+| **Contained facility use (no environmental release)** | Schedule 2 | Schedule 2 | Exempt from Schedule 1 |
+| **Experimental field study** | Schedule 3 | Schedule 3 | Exempt from Schedule 1 |
+| **Manufactured at site of isolation (same location)** | Schedule 4 | Schedule 4 | Exempt from Schedule 1 |
+| **Organism (non-micro-organism)** | Schedule 5 | Schedule 5 | Applies to non-micro-organisms |
+
+---
+
+## **6. Information Required in Notifications**
+
+### **For Micro-organisms (Schedule 1 & related schedules)**
+
+#### **A. Identification and Characterization**
+- Scientific name, common names, synonyms
+- Strain history
+- Modifications (purpose, methods, phenotypic/genotypic changes, stability, inserted genetic material)
+- Detection and identification methods
+- Biological and ecological characteristics:
+  - Life cycle
+  - Infectivity, pathogenicity, toxicity, toxigenicity
+  - Antibiotic resistance, metal/pesticide tolerance
+  - Role in biogeochemical cycling
+  - Survival, growth, replication conditions
+  - Dispersal mechanisms and interaction with dispersal agents
+- Mode of action in relation to intended use
+- Patent status (existing or pending)
+
+#### **B. Gene Transfer Risks (Critical Section)**
+- Description of gene transfer potential for:
+  - Pathogenicity to non-human species
+  - Toxigenicity
+  - Antibiotic resistance
+- Genetic basis for these traits
+- Capability to transfer genes
+- Conditions under which such traits might be selected (e.g., in environment or during dispersal)
+- Assessment of whether such conditions are **likely to exist** at or within the range of introduction
+
+#### **C. Geographic Distribution**
+- Known range of the micro-organism

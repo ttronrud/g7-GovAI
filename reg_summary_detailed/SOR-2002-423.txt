@@ -1,0 +1,172 @@
+**Detailed Summary of the Regulation: "Regulations Adapting the Employment Equity Act in Respect of the Canadian Security Intelligence Service"**  
+*(S.C. 1995, c. 44)*
+
+---
+
+### **Background and Purpose**
+
+The regulation was enacted to **adapt the *Employment Equity Act* (EEA)** to better accommodate the **Canadian Security Intelligence Service (CSIS)**, taking into account the **unique operational requirements and sensitivity of national security information** associated with CSIS’s functions.
+
+The Governor in Council, acting on the recommendation of the Treasury Board and the Minister of Labour, and in consultation with the Solicitor General of Canada (as required under subsection 41(6) of the EEA), issued these regulations under subsection 41(5) of the EEA. The primary objective is to ensure that the enforcement mechanisms of the Employment Equity Act — particularly those involving compliance audits and tribunal proceedings — do not compromise the **integrity, confidentiality, or operational effectiveness** of CSIS.
+
+This adaptation balances the need for **equal opportunity and employment equity enforcement** with the **strict need for protecting national security information**.
+
+---
+
+## **Key Provisions and Structural Changes**
+
+### **1. New Definitions (Added after the Title of Part II)**
+
+To clarify the scope and application of the regulations in relation to CSIS, the following definitions are introduced:
+
+| Term | Meaning |
+|------|--------|
+| **Commission staff** | Refers to compliance officers or other individuals acting on behalf of or under the direction of the Employment Equity Commission. Includes members of the Commission. |
+| **Director** | Refers to the Director of the Canadian Security Intelligence Service (CSIS). |
+| **National security information** | Information whose disclosure would be injurious to CSIS’s ability to perform its duties under the *Canadian Security Intelligence Service Act*. |
+| **Secure room** | Defined as the space designated by section 7.6.7 of the *Operational Security Standard on Physical Security*, as amended. |
+| **Security container** | As defined in Appendix A of the same Operational Security Standard. |
+| **Service** | Refers to the Canadian Security Intelligence Service. |
+| **Special proceedings** | Tribunal proceedings involving CSIS and likely to involve national security information, under subsections 27(1) or 27(2) of the EEA. |
+
+> These definitions ensure consistency with existing security standards and provide clear boundaries for handling sensitive information.
+
+---
+
+### **2. Adaptation of Section 23: Compliance Audits of the CSIS**
+
+This section modifies the powers of compliance officers when conducting audits of employers, especially when those audits involve CSIS.
+
+#### **General Powers (Unchanged)**
+- Compliance officers may:
+  - Enter any place where they reasonably believe relevant information exists.
+  - Require persons to produce records or documents relevant to enforcement.
+
+#### **Special Provisions for Audits Involving National Security Information**
+When a compliance audit involves **national security information**, the following restrictions apply:
+
+- **Access to Documents**:  
+  - Documents containing national security information **must be reviewed only in a secure room provided by CSIS**.
+
+- **Reproduction and Copying**:  
+  - Officers **may not reproduce** the full or partial content of such documents.  
+  - They **may prepare written summaries** (in any form) of the documents.
+
+- **Removal of Documents**:  
+  - **No document** containing national security information may be removed from the secure room.  
+  - Officers **may remove summaries, personal notes, draft reports, or other non-sensitive materials** prepared during the audit.
+
+- **Storage of Summaries**:  
+  - All summaries and other documents containing national security information must be **stored in a security container** at the officer’s workplace.
+
+- **Reporting to the Director**:  
+  - Any report, direction, request, or undertaking prepared by the compliance officer **must be provided to the Director** before being shared with anyone outside Commission staff or a Tribunal.  
+  - The Director will **review the document solely to determine whether it contains national security information**.
+
+- **Director’s Declaration as Evidence**:  
+  - A declaration by the Director that information is national security information is **treated as conclusive evidence** of that fact.
+
+- **Removal of National Security Information**:  
+  - If the Director determines that information is national security information, the compliance officer must **remove it from the document** before disclosure.
+
+- **Certification Requirement**:  
+  - Compliance officers must carry and present a **certificate issued by the Commission** proving their designation.
+
+- **Duty of Assistance**:  
+  - The person in charge of the premises and all individuals present must **provide reasonable assistance** and **share relevant information** to the compliance officer.
+
+- **Pre-Audit Review by CSIS (for public sector)**:  
+  - If a portion of the public service or public sector receives information from CSIS and is informed that a compliance audit may lead to disclosure of national security information, **CSIS must examine the documents** to determine whether they contain such information.  
+  - If national security information is found, the public sector must **remove it from the document**.  
+  - Director’s declaration of national security status is **evidence of such status**.
+
+---
+
+### **3. Adaptation of Section 23 (New Section 23.1): Disclosure of National Security Information**
+
+This new provision governs **who may access or disclose national security information** obtained during compliance audits of CSIS.
+
+#### **Restrictions on Disclosure**
+- A compliance officer may **only disclose national security information** to:
+  - **Commission staff** involved in the audit, or
+  - A **member of a Tribunal** involved in the matter.
+
+#### **Restrictions on Audit Documents**
+- Commission staff may **not disclose an audit document** (a document prepared as a result of the audit) to anyone outside the Commission or Tribunal unless:
+  1. The document is submitted to the Director to determine if it contains national security information; and  
+  2. Any national security information identified is **removed from the document**.
+
+- A Director’s declaration that information is national security information is **treated as conclusive evidence**.
+
+> This ensures that sensitive information is not disseminated beyond those with a legitimate, authorized need to know.
+
+---
+
+### **4. Adaptation of Section 28 (New Section 28.1): Special Proceedings Involving CSIS**
+
+This section governs **tribunal proceedings** involving CSIS and national security concerns.
+
+#### **Pre-Hearing Notification**
+- When a Tribunal is formed to hear a matter involving CSIS, it must **notify the Director before hearing**.
+
+#### **Director’s Assessment**
+- Upon receiving notice, the Director must **immediately determine** whether the proceedings are likely to involve national security information.
+
+#### **If National Security Information is Likely:**
+- The Director must notify the Tribunal and the Commission of:
+  - The **classification level** of the national security information (as per the Treasury Board’s Security Policy);
+  - The **portions of the proceedings** that must be conducted **in camera (privately)**;
+  - The **security requirements** applicable to persons present during in-camera sessions.
+
+- The **Service, Commission, and Tribunal** jointly decide the **sequence** of in-camera and public portions.
+
+#### **Director’s Declaration as Evidence**
+- A Director’s declaration that proceedings involve national security information is **treated as conclusive evidence**.
+
+#### **Summary of In-Camera Proceedings**
+- At the Tribunal’s request, CSIS shall prepare a **summary of information disclosed in-camera** — a version that **excludes national security information**.
+- This summary becomes part of the **public record**.
+
+#### **Security Obligations of Parties**
+- All parties appearing in in-camera sessions must:
+  - **Satisfy any security requirements** applicable to those with access to national security information.
+  - **Take an oath of secrecy** if required.
+  - **Not disclose or permit disclosure** of any national security information revealed during in-camera sessions.
+
+#### **Location of Proceedings**
+- In-camera portions must be held in a **secure room in Ottawa provided by CSIS**, or in another secure room designated by the Director.
+
+#### **Storage of Exhibits**
+- All exhibits and documents related to special proceedings must be stored in a **security container** and **not disclosed** except as permitted under the Act.
+
+#### **Examination of Documents by Non-Commission Staff**
+- A non-Commission staff member may examine a document containing national security information **only if**:
+  1. The Tribunal approves;
+  2. The person has the **required security clearance**; and  
+  3. The examination occurs **in the presence of a Tribunal officer or a CSIS employee with appropriate clearance**.
+
+> This ensures that access to sensitive material is tightly controlled and monitored.
+
+---
+
+### **5. Adaptation of Section 29 (New Section 29.1): Post-Decision Review and Release of Tribunal Decisions**
+
+After a Tribunal makes a decision in a special proceeding:
+
+- The Tribunal must provide the **Director with a copy of the decision 30 days before release** to the public.
+
+- The Director will **immediately review** the decision to determine whether it contains national security information.
+
+- The Director will **notify the Tribunal** of any such determination within a reasonable time.
+
+- A Director’s declaration that a decision contains national security information is **treated as conclusive**.
+
+- Upon receiving such a declaration, the Tribunal **must revise the decision** to remove any national security information before releasing it publicly.
+
+> This ensures that final decisions are not released with sensitive content, protecting national security while maintaining transparency where appropriate.
+
+---
+
+### **6. Adaptation of Section 34 (New Section 34.1): Surrender of Documents to CSIS**
+
+This section governs the **return of

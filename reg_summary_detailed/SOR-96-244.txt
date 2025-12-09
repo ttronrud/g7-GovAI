@@ -1,0 +1,213 @@
+### **Detailed Summary of the National Energy Board Act Part VI (Oil and Gas) Regulations**
+
+---
+
+#### **1. Purpose and Legal Authority**
+These regulations are made under the **National Energy Board Act (Act)**, specifically pursuant to **subsections 119.01(1)** and **130(2)**. They implement the provisions of **Division I of Part VI** of the Act, which governs the **exportation and importation of oil and gas** in Canada.
+
+- The regulations are officially titled:  
+  **National Energy Board Act Part VI (Oil and Gas) Regulations**  
+  (Cited as S.C. 1990, c. 7, s. 34)
+
+- The **Governor in Council**, on the recommendation of the **Minister of Natural Resources**, has issued these regulations to ensure that Canada’s energy exports and imports are conducted in a manner that protects national energy security, environmental integrity, and market stability.
+
+---
+
+#### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the National Energy Board Act. |
+| **Heavy Crude Oil** | A substance with a density **greater than 875.7 kg/m³**, including: <br> - Oil (not refined), <br> - Blends of oils (not refined), or <br> - Blends of oils with refined petroleum products. |
+| **Light Crude Oil** | A substance with a density **equal to or less than 875.7 kg/m³**, under the same categories as above. |
+| **Licence** | A formal authorization issued under Part VI of the Act for the **exportation or importation of oil or gas**. |
+| **Order** | A temporary authorization issued by the Board for: <br> - Exportation, importation, exportation for subsequent importation, or importation for subsequent exportation of gas, or <br> - Exportation of oil. |
+| **Refined Petroleum Products** | Includes: <br> - Oil from oil sands processing, <br> - Gasoline-type fuels, <br> - Middle distillates (e.g., kerosene, diesel, fuel oils), <br> - Heavy fuel oils (e.g., No. 4–6 fuel oils), <br> - Partially processed oil (whether commingled or not). |
+
+> ⚠️ **Note**: Ethylene and propylene are **exempt** from Part VI of the Act.
+
+---
+
+#### **3. Applicability of Procedures**
+- **Part I of the National Energy Board Rules of Practice and Procedure (1995)** applies to all applications and procedures related to:
+  - Applying for a licence or order
+  - Issuing a licence or order
+
+This ensures procedural fairness, transparency, and consistency in decision-making.
+
+---
+
+#### **4. Approval Requirements for Licences**
+The **Governor in Council must approve** any licence for the following activities:
+- Exportation of **gas**
+- Importation of **gas**
+- Exportation of **heavy crude oil**
+- Exportation of **oil other than heavy crude oil**
+
+> ❌ *Note*: This requirement underscores the high level of governmental oversight for major energy trade flows.
+
+---
+
+#### **5. Suspension and Revocation of Orders**
+The Board may:
+- **Suspend** an order if a term or condition has been **violated** or **not complied with**.
+- **Revoke** an order if the holder **refuses to comply** with conditions or fails to comply when lifting a suspension.
+
+**Procedure**:
+- Before suspending or revoking, the Board must:
+  - Send a **written notice** to the holder specifying the violation.
+  - Provide the holder with an **opportunity to be heard**.
+
+> ✅ Exception: The Board may suspend or revoke an order **on the application or with the consent of the holder**, allowing flexibility in urgent cases.
+
+---
+
+#### **6. Inspection Powers**
+The Board or authorized personnel may:
+- Enter any premises where oil or gas is produced, recovered, exported, or imported.
+- Inspect instruments, equipment, records, books, and accounts related to export/import operations.
+- Conduct tests necessary for inspection.
+
+**Requirements**:
+- Authorized individuals must **produce written authorization** when requested.
+- Operators or persons in charge of premises must **permit and assist** inspections.
+
+> This ensures compliance with regulatory standards and accountability in energy trade operations.
+
+---
+
+#### **7. Measurement Standards for Gas**
+
+All gas must be measured according to the **Electricity and Gas Inspection Act**:
+
+- **Volume Measurement**:
+  - Measured at **standard conditions**:  
+    - Temperature: **15°C**  
+    - Pressure: **101.325 kPa (absolute)**  
+  - Volume expressed in **cubic metres** (m³) of gas at these conditions.
+
+- **Thermal Measurement**:
+  - Computed in **joules (dry basis)**  
+  - Dry gas must have moisture content **less than 110 mg/m³**
+
+> 🔍 **Conversion Rule**:  
+> If gas is measured under non-standard conditions, it must be **converted to standard conditions** using the **Ideal Gas Law**.  
+> If deviations exceed **1%**, corrections must be applied using **AGA Report No. 3** (Orifice Metering of Natural Gas), as amended.
+
+> ✅ **Exception**:  
+> **Propane, butanes, and ethane** may be measured in **liquid form** (in cubic metres), not gas volume.
+
+> ⚠️ For **all liquids** (except cryogenic liquids), measurements are based on a temperature of **15°C**.
+
+> 📌 This Division applies **only to gas other than propane, butanes, and ethane**.
+
+---
+
+#### **8. Definition of Natural Gas**
+For the purposes of **subsection 119.01(1.1)** of the Act:
+- **Natural gas** is a mixture containing **at least 85% methane**.
+- May contain other hydrocarbons that are **gaseous at 15°C and 101.325 kPa**.
+- May contain minor non-hydrocarbon gases and impurities.
+
+---
+
+#### **9. Application Requirements for Licences**
+
+##### **For Exportation of Gas**
+Applicants must provide comprehensive information to the Board, including:
+
+1. **Terms of the Licence Request**:
+   - Duration of the licence
+   - Maximum daily, annual, and term quantities
+   - Tolerance levels for temporary operations
+   - Points of exportation
+
+2. **Gas Supply Information**:
+   - Summary of contracted or owned gas volumes (daily/annual), reserves, and termination dates
+   - Copies of **pro forma contracts** for each type of purchase
+
+3. **Market Information**:
+   - Copy of every **gas export sales contract**
+   - Detailed summary of terms and conditions (including Schedule I format)
+   - Name of person to whom questions about contracts may be directed
+   - Description of the export market to be served
+
+4. **Supply and Demand Balance**:
+   - If the gas comes from a **non-dedicated pool**, a balance must be shown on both aggregate and annual bases for the duration of exportation, identifying all firm commitments.
+
+5. **Transportation Arrangements**:
+   - Details of contracts for movement of gas in/out of Canada
+   - Copies of all transportation contracts
+   - Description of existing or proposed gathering, storage, or transmission facilities (or new facilities)
+
+6. **Environmental and Social Effects**:
+   - Assessment of environmental and social impacts directly related to the export
+
+7. **Market Impact Assessment**:
+   - Evaluation of whether Canadians would face difficulty in meeting energy needs at **fair market prices**
+
+8. **Regulatory Approvals**:
+   - Status of federal, provincial, or state approvals for:
+     - Removal of gas from a province
+     - Importation into destination country
+     - Transportation services
+     - Tariffs/tolls
+     - Facilities
+     - Environmental reviews
+     - Contractual arrangements
+
+9. **Status Sheet**:
+   - A summary of all contractual arrangements and regulatory approvals, in the form specified in **Schedule II**
+
+---
+
+##### **For Importation of Gas**
+Requirements are **similar**, with adjustments:
+
+1. **Terms of Licence Request**:
+   - Duration
+   - Maximum daily, annual, term quantities
+   - Tolerance levels
+   - Points of importation
+
+2. **Gas Supply Information**:
+   - Summary of purchase contracts (daily/annual volumes, reserves, termination dates)
+   - Copies of pro forma contracts
+
+3. **Market Information**:
+   - Copy of every **gas import purchase contract**
+   - Detailed summary of terms and conditions
+   - Description of market to be served
+
+4. **Transportation Arrangements**:
+   - Same as above
+
+5. **Environmental and Social Effects**:
+   - Assessment of impacts
+
+6. **Regulatory Approvals**:
+   - For:
+     - Removal of gas from country of origin
+     - Import into a province
+     - Transportation
+     - Tariffs/tolls
+     - Facilities
+     - Environmental reviews
+     - Contractual arrangements
+
+> All applications must demonstrate **feasibility, market viability, and minimal negative impact on domestic energy markets**.
+
+---
+
+#### **10. Terms and Conditions in Licences and Orders**
+
+##### **Licences (for export/import of gas)** may include:
+- Duration of licence
+- Period within which export/import must commence
+- Term quantities
+- Maximum daily/monthly/annual quantities
+- Tolerance levels
+- Points of exportation/importation
+- Environmental requirements
+
+##### **Orders (temporary authorizations

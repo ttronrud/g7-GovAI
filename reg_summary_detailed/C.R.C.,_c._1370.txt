@@ -1,0 +1,143 @@
+The regulation you provided is a **detailed set of rules under the *Radiation Emitting Devices Act* (Act)**, specifically outlining the **classification, standards, labeling, and enforcement provisions** for various types of radiation-emitting devices in Canada. However, it is important to note that **this regulation has been significantly revised or repealed in parts**, and **certain sections are now obsolete** due to amendments or revocations.
+
+Below is a **comprehensive, detailed, and accurate summary** of the regulation as it currently stands — with clear identification of **what remains valid**, **what has been repealed or revoked**, and **what key obligations and definitions are still in force**.
+
+---
+
+## 🔍 **Overall Context and Status**
+
+- **Regulation Title**: *Radiation Emitting Devices Regulations* (SOR/2022-197, s. 24; later amended)
+- **Repealed/Revoked Sections**:
+  - The **Minister** designation was **repealed** by **SOR/2024-196, s. 1**.
+  - The **"maximum test voltage" and "service control/user control" definitions** were **revoked** by **SOR/88-471, s. 1** and **SOR/94-40, s. 1**, respectively.
+  - The **entire television receiver standards section** (including emission limits and labeling) was **revoked** under **SOR/94-40, s. 1**, indicating that **older standards for TVs are no longer applicable**.
+- **Current Status**:  
+  The regulation **retains the classification of radiation-emitting devices** and **prescribes standards for key medical and industrial devices**, but **many technical requirements (especially for TVs) are no longer in effect** due to repeal.
+
+> ✅ **Conclusion**: This regulation is **partially active** — it **defines classes of radiation-emitting devices** and **prescribes standards** for certain medical and industrial equipment, but **many specific technical and performance requirements (especially for TVs)** have been **repealed or revoked** and are **no longer enforceable**.
+
+---
+
+## 📚 I. Key Definitions and Prescribed Classes of Devices
+
+### 1. **"Act"**
+- Refers to the *Radiation Emitting Devices Act* (REDA), which establishes the legal framework for regulating radiation-emitting devices.
+
+### 2. **"Device"**
+- A radiation-emitting device that falls within a class prescribed in **Schedule I** of the regulations.
+
+### 3. **Prescribed Classes (Schedule I)**
+These are the types of radiation-emitting devices subject to regulation under the Act:
+
+| Device Class | Description |
+|------------|-------------|
+| **Television receivers** | Includes video monitors and displays that receive signals via electromagnetic waves, cable, or other means. Excludes devices not designed to display images. |
+| **Dental X-ray equipment** | Devices designed primarily to examine dental and maxillofacial structures in living humans. Includes X-ray tubes used outside the mouth. |
+| **Microwave ovens** | Appliances or sets designed to supply microwave energy to material inside a cavity. |
+| **Baggage inspection X-ray devices** | Used to examine carry-on baggage, parcels, mail, etc. Includes generator, detector, and control/display systems. |
+| **Demonstration-type gas discharge devices** | Devices that produce glow discharges or X-rays to demonstrate physical phenomena (e.g., electron flow). |
+| **Photofluorographic X-ray equipment** | Used to examine the human chest and record reduced-size images on fluorescent screens. |
+| **Laser products** | Devices that produce or amplify electromagnetic radiation from **180 nm to 1 mm** (UV to far-infrared), primarily via stimulated emission. |
+| **Low Energy Electron Microscopes** *(Repealed)* | Devices with ≤500 keV electron beam used to image minute objects. **Revoked by SOR/88-471** → **No longer in force**. |
+| **High-intensity mercury vapour discharge lamps** | Lamps with high-pressure arc tubes filled primarily with mercury (e.g., metal halide, self-ballasted). **Excludes tungsten filament lamps**. |
+| **Tanning equipment** | As defined in **Section 1 of Part XI of Schedule II** (not fully detailed here). |
+| **Diagnostic X-ray equipment** | Devices using X-rays for body examination. **Excludes**: dental, photofluorographic, radiation therapy simulators, CT scanners. |
+| **Ultrasound therapy devices** | Devices generating ultrasonic power (>20 kHz) for physical therapy. |
+| **Analytical X-ray equipment** | X-ray tubes used to determine elemental composition or microstructure of materials. |
+| **Cabinet X-ray equipment** | X-ray devices with tubes permanently installed in a cabinet, designed to examine material placed inside. Excludes analytical and baggage inspection types. |
+
+> ⚠️ **Note**: The **low-energy electron microscope** and **some television standards** have been **officially revoked**, so these are **no longer enforceable**.
+
+---
+
+## 📝 II. Key Regulatory Requirements (Still in Force)
+
+### 1. **Labeling Requirements for Medical Devices (Imported)**
+> *Repealed in part by SOR/2024-196, s. 1 — but the core principle remains relevant.*
+
+- **Any person importing a medical device** (as defined in *Medical Devices Regulations*) that is **not labeled in accordance with these regulations** must:
+  - Ensure the **manufacturer relabels** the device **within 3 months** of importation before selling or leasing it.
+
+> ✅ This requirement ensures **consumer safety and regulatory compliance** for medical devices entering the market.
+
+---
+
+### 2. **Seizure and Detention of Devices by Inspectors**
+
+An inspector may seize a device or component under **subsection 10(1) of the Act** and:
+
+#### (a) Detain the device for:
+- Determining compliance with these regulations.
+
+#### (b) Store or remove it for:
+- Testing whether it complies with prescribed standards.
+
+#### (c) Release it **conditionally**, such as:
+- **Destroy it immediately** or retain it until destroyed;
+- Return it to the **country of origin**;
+- Return it to the **manufacturer, distributor, or importer** and require compliance with standards.
+
+> ✅ This provides **enforcement power** to ensure devices meet safety and performance standards.
+
+---
+
+### 3. **Record of Seizure (Mandatory)**
+The inspector must keep a **written record** that includes:
+- Place, date, and hour of seizure;
+- Name of owner or person on whose premises it was seized;
+- Manufacturer, model number, date and place of manufacture;
+- Location to which it was removed (if any);
+- How it was dealt with after seizure.
+
+> ✅ The **owner or employee** must **sign and receive a copy** of the record.
+
+> ⚠️ If a device is released **on condition** and that condition is **not met**, the inspector may **re-seize** it.
+
+---
+
+### 4. **Disposal of Forfeited Devices**
+If a **court orders forfeiture** to Her Majesty (under subsection 16(1) of the Act), and:
+- No application is made under **section 75 of the Fisheries Act**, **or**
+- A declaration under subsection 75(4) is not included in the final order,
+
+Then the **Minister may direct the disposal** of the device.
+
+> ✅ This ensures **proper handling of illegal or non-compliant devices** after judicial determination.
+
+---
+
+## 📐 III. Technical Standards (Where Still Applicable)
+
+Although many standards were revoked, **some remain in force**, especially for **dental X-ray equipment**.
+
+### A. **Dental X-Ray Equipment – Mandatory Information to Be Provided**
+
+The manufacturer, distributor, and importer must ensure that **each piece of dental X-ray equipment** includes the following information:
+
+| Requirement | Description |
+|-----------|-------------|
+| **Manufacturer details** | Name and civic/postal address |
+| **Model designation** | Unique identifier for the device |
+| **Installation instructions** | How to install safely |
+| **Radiological safety procedures** | Precautions due to unique features |
+| **Instructions for use** | - Influence of settings on patient radiation dose<br>- Impact of distance on operator exposure<br>- How to minimize operator exposure |
+| **Maintenance instructions** | Routine care and servicing |
+| **Quality control testing** | Frequency and acceptance criteria |
+| **X-ray tube details** | - Nominal focal spot sizes<br>- Cooling curves (anode and housing)<br>- Tube rating charts<br>- Focal spot position |
+| **Duty cycles, rectification type, generator rating** | Technical performance specs |
+| **Nominal line voltage, max current, voltage regulation** | Required for full operation |
+| **Loading factors** | For maximum line current and recommended patient sizes |
+| **Automatic exposure control (AEC)** | Accuracy limits, shortest irradiation time, reproducibility of air kerma |
+| **Manual mode settings** | Operating range and maximum deviation per setting |
+| **Battery-powered devices** | Minimum state of charge required |
+| **Protective devices** | Effectiveness, use, and application |
+| **Dosimetric indications** | How to check and maintain accuracy |
+| **Secure storage (for transportable devices)** | Recommendations to prevent theft or misuse |
+
+> ✅ These are **critical for safety and regulatory compliance**, especially in clinical settings.
+
+---
+
+### B. **Intra-oral Dental X-Ray Equipment – Additional Requirements**
+
+Specific to

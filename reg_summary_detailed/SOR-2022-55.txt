@@ -1,0 +1,149 @@
+**Detailed Summary of the Canada Deposit Insurance Corporation (CDIC) Eligible Financial Contracts By-law**
+
+---
+
+### **1. Regulatory Authority and Legal Basis**
+
+The **Canada Deposit Insurance Corporation (CDIC)**, through its **Board of Directors**, has issued this **Eligible Financial Contracts By-law** under specific provisions of the *Canada Deposit Insurance Corporation Act* (the "Act"). 
+
+- **Legal Authority**:
+  - Paragraph **11(2)(g)a** of the Act empowers the Board to make by-laws.
+  - Subsections **39.15(7.4)b** and **(7.5)b** of the Act provide the specific regulatory basis for defining and prescribing classes of eligible financial contracts that are subject to CDIC’s deposit insurance coverage and related obligations.
+
+This by-law is formally registered under:
+- **R.S., c. 18 (3rd Supp.), s. 51** (General provisions of the Act)
+- **S.C. 2021, c. 23, s. 126(4)** (Statutory amendment related to CDIC)
+- **R.S., c. C-3** (Bank Act – relevant definitions and structure)
+
+The by-law was issued on **March 2, 2022**, and comes into force upon **registration** with the federal government.
+
+---
+
+### **2. Purpose of the By-law**
+
+The primary purpose of this by-law is to **define and prescribe a class of eligible financial contracts** (referred to as "eligible financial contracts") that are **subject to the application of specific provisions of the Act**, particularly those governing **actions by parties to a contract** that could affect the financial stability or solvency of a federal member institution.
+
+These provisions include **subsections 39.15(7.1) to (7.104) and (7.11)** of the Act — which outline the **rights and obligations of parties** in financial contracts, including the **conditions under which CDIC may intervene or provide insurance** in the event of a financial distress or default.
+
+---
+
+### **3. Key Definitions and Classes**
+
+#### **A. Class of Federal Member Institutions**
+
+- The by-law **prescribes the class of all federal member institutions** (as defined in the Bank Act) for the purpose of subsection **39.15(7.4)** of the Act.
+- This means that **all institutions** that are members of the federal banking system (e.g., chartered banks, credit unions, trust and savings banks) are included in this scope.
+
+#### **B. Class of Eligible Financial Contracts**
+
+For each federal member institution, the by-law defines a **specific class of eligible financial contracts** that fall within the scope of subsection 39.15(7.4) of the Act — that is, contracts to which the institution is a party and which may trigger CDIC’s insurance or intervention mechanisms.
+
+A contract qualifies for this class **only if it meets all of the following conditions**:
+
+---
+
+##### **Condition 1: Provisions Permitting Action Under Paragraphs 39.15(7)(a), (b), or (f)**
+
+The contract must contain **provisions that allow a party to take certain actions** — specifically, those listed in paragraphs **39.15(7)(a), (b), or (f)** of the Act — **by a party other than**:
+
+- Her Majesty in right of Canada  
+- The government of a foreign country  
+- A central bank  
+- A clearing house (as defined in subsection 39.15(9) of the Act)  
+- A central counter-party (as defined in section 2 of the *Payment Clearing and Settlement Act*)
+
+👉 **Interpretation**: This means that **only parties other than these high-level or systemic entities** can take actions (such as initiating a claim, triggering a default, or exercising a right to terminate) that would be subject to CDIC’s regulatory oversight or insurance provisions.
+
+---
+
+##### **Condition 2: Contract Not Governed by Canadian Law or Key Party Status**
+
+The contract must **not be governed by Canadian law**, or **at least one of the other parties to the contract** must **not be**:
+- An individual who is **resident in Canada**, or  
+- A **Canadian entity** (as defined in section 2 of the *Bank Act*)
+
+👉 **Interpretation**: This excludes contracts involving purely domestic parties or those governed by Canadian law. It is designed to **exclude domestic, low-risk contracts** and focus on **cross-border or international financial instruments** where the risk profile is more complex or systemic.
+
+---
+
+##### **Condition 3: Contract Meets One of the Following Criteria**
+
+The contract must meet **at least one** of the following:
+
+1. **Entered into, amended, or renewed on or after October 1, 2023**, and at least one of the other parties is:
+   - A **federal member institution** or an **affiliate of a federal member institution**, **OR**
+   - An institution identified by the **Financial Stability Board (FSB)** as a **global systemically important bank (G-SIB)** or an affiliate of such an institution.
+
+2. **Entered into, amended, or renewed on or after October 1, 2024** (a future date).
+
+3. **Part of a broader contract structure** where:
+   - At least one other party and the federal member institution are **together parties to another contract** that is **also part of a class prescribed by this section**.
+
+👉 **Interpretation**:
+- This creates a **tiered approach** to risk classification:
+  - Contracts from **2023 onwards** involving G-SIBs or affiliated institutions are automatically included.
+  - Contracts from **2024 onwards** are included regardless of the counterparty, signaling a **phased-in expansion** of coverage.
+  - Contracts that are **linked to other qualifying contracts** (e.g., through a master agreement or linked derivatives) are also included, ensuring **systemic risk exposure is captured even in indirect forms**.
+
+---
+
+### **4. Obligations of Federal Member Institutions**
+
+Every federal member institution must:
+
+- Ensure that **all eligible financial contracts** that fall within the class prescribed for it under this by-law:
+  - Contain **clear provisions** stating that the parties **agree to the application of subsections 39.15(7.1) to (7.104) and (7.11)** of the Act.
+  - These provisions must specifically apply to **actions taken by parties other than** those listed in paragraphs 39.15(7)(a) to (f) (i.e., excluding the listed entities such as central banks or foreign governments).
+
+👉 **Key Requirement**: The inclusion of such **agreement clauses** ensures **transparency, legal clarity, and enforceability** of CDIC’s insurance and intervention rights in the event of a financial crisis.
+
+---
+
+### **5. Effective Date**
+
+- The by-law **comes into force on the day it is registered** with the federal government.
+- Registration is expected to occur shortly after the date of issuance (March 2, 2022), though the exact date will be published in the *Canada Gazette*.
+
+---
+
+### **6. Significance and Implications**
+
+#### **Why This By-law Matters**:
+
+1. **Expands CDIC’s Regulatory Reach**:
+   - Moves beyond traditional deposit insurance to cover **financial contracts** that may pose systemic risk, especially those involving **international or high-risk counterparties**.
+
+2. **Addresses Systemic Risk**:
+   - By including contracts with G-SIBs and those entered into after 2023/2024, the by-law helps CDIC **monitor and manage exposure to global financial instability**.
+
+3. **Improves Risk Disclosure and Governance**:
+   - Requires institutions to **explicitly agree** to CDIC’s provisions, promoting **accountability and transparency** in financial arrangements.
+
+4. **Aligns with Global Financial Standards**:
+   - The inclusion of FSB-designated G-SIBs reflects alignment with international frameworks (e.g., Basel III, FSB guidelines) on financial stability and cross-border risk management.
+
+5. **Phased Implementation**:
+   - The staggered timeline (October 1, 2023 and 2024) allows institutions time to **update their contracts** and comply with new obligations without sudden disruption.
+
+---
+
+### **7. Limitations and Exclusions**
+
+- Contracts governed by **Canadian law** involving **domestic residents or Canadian entities** are **excluded** from this class.
+- Contracts involving **central banks, clearing houses, or central counterparties** are excluded from triggering CDIC’s provisions.
+- The by-law **does not apply to deposits or traditional banking services** — only to **financial contracts** with specific structural or risk characteristics.
+
+---
+
+### **Conclusion**
+
+This by-law represents a **significant step in modernizing CDIC’s regulatory framework** to address the evolving nature of financial risk in a globalized economy. By clearly defining which financial contracts are subject to CDIC’s insurance and intervention mechanisms — especially those involving international or systemically important institutions — it enhances **financial stability, transparency, and accountability**.
+
+It ensures that federal member institutions are **proactively managing their exposure** to systemic risks through contractual agreements, and that CDIC can respond effectively to financial distress in a timely and legally sound manner.
+
+---
+
+**Key Takeaways**:
+- Applies to **federal member institutions**.
+- Covers **eligible financial contracts** with international or high-risk counterparties.
+- Requires **explicit agreement** to CDIC’s provisions (39.15(7.1) to

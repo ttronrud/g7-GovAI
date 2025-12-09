@@ -1,0 +1,178 @@
+**Detailed Summary of the Regulation: *Electronic Registers and Ancillary Equipment Incorporated in Metering Assemblies Specifications* (SOR/78-792, 1978, as amended and published in the Canada Gazette Part II, October 5, 1990)**
+
+---
+
+### **Overview**
+
+This regulation establishes detailed technical specifications for **electronic registers and ancillary equipment** used in **metering assemblies for liquids**—specifically, devices designed for trade measurement in applications such as fuel dispensing, water distribution, and other liquid flow measurement systems.
+
+It was enacted under the authority of the **Weights and Measures Act** and the **Weights and Measures Regulations (C.R.C., c. 1605)**, specifically pursuant to:
+- Paragraph 10(l)(i) of the Weights and Measures Act,
+- Paragraph 13(2)(a) of the Regulations (which required publication of proposed specifications),
+- Sections 13* and 27* of the Regulations.
+
+The regulation was **published in the Canada Gazette Part I on February 24, 1990**, and **formally adopted on October 5, 1990**, becoming legally binding.
+
+These specifications are known as the **"Electronic Registers and Ancillary Equipment Incorporated in Metering Assemblies Specifications"** and apply to all electronic registers and associated equipment used with **positive displacement meters** for measuring liquids in commercial trade settings.
+
+---
+
+### **Key Definitions**
+
+To ensure clarity and consistency, the regulation defines several key terms:
+
+| Term | Definition |
+|------|-----------|
+| **Metering Assembly** | A device used in trade to measure liquids; includes the meter and all components necessary for its operation (e.g., piping, pumps, valves, reservoirs). |
+| **Metering Installation** | The full system including the metering assembly and all supporting equipment. |
+| **Non-Resettable Register** | A primary register intended for long-term, continuous use without being reset to zero (e.g., pipeline meters). |
+| **Register** | Any device incorporating electronic components to process signals corresponding to measured liquid quantities. |
+| **Registration** | A displayed or printed value representing the volume or price of liquid delivered. |
+| **Regulations** | Refers to the Weights and Measures Regulations. |
+
+All other terms are interpreted according to the Regulations.
+
+---
+
+### **Scope of Application**
+
+- Applies **only to electronic registers and ancillary equipment** used with **positive displacement meters** for liquids.
+- Covers design, composition, construction, performance, installation, and operational behavior.
+- Does **not apply** to secondary registers that display the same information as the primary register (e.g., duplicate displays).
+
+---
+
+## **Core Performance and Design Requirements**
+
+### **1. Pulse Generation and Detection**
+- **Dual-Channel Pulser Requirement**:  
+  Every register must have a **dual-channel pulser** or two separate pulsers that generate **dual pulses per liquid flow unit** to ensure redundancy and accuracy.
+
+- **Reverse Flow Detection (in installations without check valves)**:  
+  If the metering installation lacks a non-return check-valve, the pulser must detect **reverse flow** and generate distinct pulses. The pulse processing system must **distinguish between forward and reverse flow pulses**.
+
+- **False/Missing Pulse Detection**:  
+  The system must detect **false or missing pulses** across the entire range of input frequencies the register is designed to handle.
+
+---
+
+### **2. Adjustment Mechanisms (Safety and Integrity)**
+- **Adjustment Accessibility**:  
+  Any adjustment mechanism used to modify measurement results must be:
+  - **Sealable**, and
+  - Located so that it **cannot be accessed without removing part of the register's exterior housing**.
+
+- **If accessible without disassembly**:  
+  - Adjustment range must be **≤ ±2% of the total liquid volume** delivered.  
+  - Must still be **sealable**.  
+  - Must **not be adjustable while the register is operating**.
+
+- **Automatic Correction Factors (for flow rate linearization)**:  
+  Registers may include an automatic correction factor based on flow rate to improve accuracy across different flow speeds, **provided**:
+  - No adjustment can deviate from adjacent factors by more than **0.25%**.
+  - The programmed correction factors must be **readily verifiable** (via display, switch settings, jumper locations, or codes/legends).
+
+---
+
+### **3. Handling Reverse Flow**
+- In installations where **reverse flow is possible**, the pulse processing system must:
+  - **Subtract the volume of reverse flow** from all registrations.
+- If the system does **not** meet this requirement, it may **only be approved** for use in installations where **reverse flow cannot occur**.
+
+---
+
+### **4. Display and Power Management**
+- **Electronic Displays** (for non-resettable registers):
+  - Must **automatically power all display segments** for **at least 0.5 seconds** after reset to zero and before the next delivery starts. This allows operators to detect segment or circuit faults.
+  - **Alternative**: An **automatic self-test system** must check all display segments before delivery; if a fault is detected, the delivery must be **prevented**.
+
+> *Exception*: Secondary registers showing the same data as the primary register are exempt.
+
+- **Unit Price Protection**:  
+  The **unit price cannot be changed** while the register is computing the total price for a delivery.
+
+- **Flow Fault Lockout**:  
+  If false or missing pulses indicate a volume **exceeding** the threshold of:
+  - **5 times the minimum increment of registration**, or  
+  - **1 increment per 1,000 increments registered**,  
+  then:
+  - The register must **lock the display** and **stop liquid flow**.
+  - The **quantity, unit price, and total price** remain displayed for **at least 5 minutes** after delivery.
+  - Display remains active unless:
+    - A new transaction begins, or  
+    - The current transaction is finalized.
+
+---
+
+### **5. Liquid Selection and Meter Interlock (Multi-Liquid/Multi-Meter Systems)**
+- If a metering assembly can measure **different liquids or work with different meters**, the selection mechanism must be **interlocked** so that:
+  - The selected liquid or meter **matches the adjustment setting**.
+  - The **unit price** corresponds to the selected liquid.
+
+- **Prevention of Over-Selection**:
+  - The selection mechanism **cannot operate** once a value reaches **10 times the minimum increment of registration**, unless the register is automatically reset to zero after selection.
+
+- **Prevention of Multiple Liquids**:  
+  Registers used with multiple meters or liquids must **prevent delivery of more than one liquid at a time**.
+
+---
+
+### **6. Hose Expansion Compensation**
+- To account for **hose expansion**, displayed values may be **suppressed (masked)** up to a value equal to **3 times the minimum increment of registration**.
+
+---
+
+### **7. Registration Precision (Minimum Increment of Registration)**
+
+The number of digits and the **minimum increment of registration** depend on the **maximum flow rate** of the meter:
+
+| Maximum Flow Rate | Minimum Increment | Number of Digits |
+|------------------|-------------------|------------------|
+| ≤ 5 L/min        | 0.001 L (0.0001 gal) | 4 digits |
+| >5 to ≤20 L/min  | 0.001 L (0.0001 gal) | 5 digits |
+| >20 to ≤115 L/min| 0.01 L (0.001 gal)   | 5 digits |
+| >115 to ≤500 L/min| 0.1 L (0.01 gal)     | 5 digits |
+| >500 L/min       | 1.0 L (0.1 gal)      | 5 digits |
+
+> *Note*: The minimum increment ensures that small measurement errors are detectable and prevent fraud.
+
+---
+
+### **8. Total Price Accuracy**
+- The total price computed must **agree to the nearest cent** with the product of:
+  - The **unit price displayed**, and  
+  - The **quantity delivered**.
+
+---
+
+### **9. Error Tolerance and Environmental Conditions**
+
+- Registers and ancillary equipment must remain within **applicable error limits** under:
+  - **Ambient temperature**: –30°C to +40°C  
+    *(Exception: Temperature-controlled equipment tested over manufacturer-specified range)*
+  - **Relative humidity**: 10% to 95%
+
+- **Voltage tolerance** (for mains-powered equipment):
+  - Must operate within **90% to 110% of nominal voltage**.
+  - Nominal voltage = midpoint of the manufacturer-specified range (if provided).
+
+---
+
+### **10. Interference Resistance**
+- Must withstand:
+  - **Conducted interference**: 10 spikes per second (10 minutes) with a specified waveform (from schedule).
+  - **Radiated interference**: Scanned at 2 meters using hand-held 4W transceivers at **27 MHz and 460 MHz**.
+- Performance must not be affected by these tests.
+
+---
+
+### **11. Control Console and Pre-Set Delivery Features**
+
+- **Quantity Pre-Set (for motor fuel dispensers)**:
+  - Must deliver **at least the preset quantity**.
+  - Cannot exceed the preset quantity by more than **5 times the minimum increment of registration**.
+
+- **Money Value Pre-Set**:
+  - Must stop flow so that the **registered money value** is:
+    - Not less than the preset value, and  
+    - Does not exceed it by more than **

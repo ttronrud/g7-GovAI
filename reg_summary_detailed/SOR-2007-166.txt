@@ -1,0 +1,153 @@
+**Detailed Summary of the Allocation Method Order – Softwood Lumber Products (S.C. 2006, c. 13, s. 111; Ottawa, July 12, 2007)**
+
+---
+
+### **Overview**
+
+This regulation, issued by the **Minister of Foreign Affairs** under two key statutes — the *Export and Import Permits Act* (EIPA) and the *Softwood Lumber Products Export Charge Act, 2006* — establishes a **method for allocating monthly export quotas** for **current softwood lumber products** from four Canadian provinces — **Ontario, Quebec, Manitoba, and Saskatchewan** — to the **United States** in **2007**.
+
+The primary purpose of this Order is to ensure **fair and transparent allocation** of export quantities based on historical production and export data, while also providing flexibility for producers and remanufacturers to apply for allocations based on either their **export performance** or **production volume**.
+
+The Order is effective as of **October 12, 2006**, and applies specifically to the **2007 export year**.
+
+---
+
+## **Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Act** | Refers to the *Export and Import Permits Act* (EIPA). |
+| **Current softwood lumber products** | Defined as products listed in **item 5104, Group 5** of the Export Control List. These are modern softwood lumber products (e.g., dimensional lumber, plywood, etc.). |
+| **Former softwood lumber products** | Products listed in **item 5105, Group 5** of the Export Control List *as it existed during the reference period* (April 1, 2001 – December 31, 2005). These are older, legacy products subject to export controls. |
+| **Exported** | As defined in section 6.4 of the EIPA — refers to shipments of goods under export permits. |
+| **Manitoba quantity** | The monthly export limit for current softwood lumber products from Manitoba to the U.S. |
+| **Ontario quantity** | The monthly export limit from Ontario to the U.S. |
+| **Quebec quantity** | The monthly export limit from Quebec to the U.S. |
+| **Saskatchewan quantity** | The monthly export limit from Saskatchewan to the U.S. |
+| **Primary producer** | A company that produced **former or current softwood lumber products** directly from softwood sawlogs. |
+| **Primary producer’s products** | Former softwood lumber products produced by a primary producer and **not remanufactured** in Canada. |
+| **Remanufacturer** | A company that **remanufactures** former or current softwood lumber products (as defined under subsection 13(1) of the Softwood Lumber Products Export Charge Act). |
+| **Remanufacturer’s products** | Former softwood lumber products remanufactured by a remanufacturer and **not further remanufactured** in Canada. |
+| **Reference period** | April 1, 2001 – December 31, 2005. Used to assess historical performance. |
+
+---
+
+## **Core Allocation Principles**
+
+### **1. Allocation Method by Province**
+
+The Order establishes **distinct allocation methods** for each province, with different formulas and criteria depending on the type of applicant (primary producer or remanufacturer) and the province.
+
+---
+
+### **A. Ontario Quantity Allocation**
+
+- **Applies to**: Primary producers and remanufacturers applying for an export allocation from Ontario to the U.S.
+- **Calculation formula**:
+  $$
+  \text{Allocation} = \left( \frac{\text{Percentage share}}{100} \right) \times \text{Ontario quantity}
+  $$
+  - **Percentage share** = the **higher** of two values:
+    1. **Best 12-month performance** (based on highest 12-month export volume during the reference period)
+    2. **Reference period average** (based on total exports during the reference period)
+
+> **Best 12-month period**:
+> - For primary producers: The 12-month period with the highest export volume (as defined in PPBEV).
+> - For remanufacturers: The 12-month period with the highest export volume (as defined in RBEV).
+
+> **Exclusions**:
+> - Any primary producer or remanufacturer that **writes to the Minister before December 14, 2006**, indicating they **relinquish** their allocation for 2007 is excluded from the total volume calculation.
+
+> **Choice for Quebec exports**:
+> - If a primary producer exported products from **Quebec** during the reference period, they **must choose** between:
+>   - **Method 6**: Based on **historic export volume** (from Quebec).
+>   - **Method 7(1)**: Based on **historic production volume** (from Quebec).
+> - If **no Quebec exports**, but the producer **produced Quebec softwood lumber products** between Jan 1, 2003 – Dec 31, 2005, they **may only** apply under **Method 7(1)**.
+
+> **Remanufacturers**:
+> - If they exported from Quebec during the reference period, they **may only** receive allocation under **Method 9** (based on historic export volume).
+
+---
+
+### **B. Quebec Quantity Allocation**
+
+Two distinct methods apply depending on whether the applicant is a primary producer or remanufacturer, and whether they are based on **export volume** or **production volume**.
+
+#### **1. Primary Producers**
+
+##### **Option A: Based on Historic Export Volume (Method 6)**
+$$
+\text{Allocation} = \left( \frac{\text{Volume exported from Quebec (reference period)}}{\text{Total former softwood exports from Quebec (reference period)}} \right) \times \text{Quebec quantity}
+$$
+
+##### **Option B: Based on Historic Production Volume (Method 7(1))**
+$$
+\text{Allocation} = \left( \frac{\text{Volume of Quebec softwood products produced (2003–2005)}}{\text{Total volume of Quebec softwood products produced (2003–2005) by all qualifying producers}} \right) \times \text{Reserve pool}
+$$
+
+> **Reserve Pool** is calculated as:
+> $$
+> \text{Reserve Pool} = A + B + C
+> $$
+> Where:
+> - **A**: Volume of former softwood products exported from Quebec under **Method 6** (export-based allocations).
+> - **B**: Volume of former softwood products exported from Quebec under **Method 7(1)** (production-based allocations).
+> - **C**: Volume of former softwood products exported from Quebec by applicants who **did not apply before December 14, 2006**.
+
+> **Production data**:
+> - Volume of Quebec softwood products produced by a primary producer is based on **official records provided by the Government of Quebec** with the **consent of the producer**.
+
+---
+
+#### **2. Remanufacturers**
+
+##### **Based on Historic Export Volume (Method 9)**
+$$
+\text{Allocation} = \left( \frac{\text{Volume of remanufacturer’s products exported from Quebec (reference period)}}{\text{Total former softwood exports from Quebec (reference period)}} \right) \times \text{Quebec quantity}
+$$
+
+> Remanufacturers who exported from Quebec **must** apply under this method.
+
+---
+
+### **C. Manitoba Quantity Allocation**
+
+- **Applies to**: Primary producers and remanufacturers applying for export from Manitoba.
+- **Formula**:
+  $$
+  \text{Allocation} = \left( \frac{\text{Volume of applicant’s products exported from Manitoba (reference period)}}{\text{Total volume of all primary producers and remanufacturers’ products exported from Manitoba (reference period)}} \right) \times \text{Manitoba quantity}
+  $$
+
+> **Exclusion**: Any applicant who **relinquishes** their allocation in writing before **December 14, 2006** is excluded from the denominator.
+
+---
+
+### **D. Saskatchewan Quantity Allocation**
+
+- **Applies to**: Primary producers and remanufacturers.
+- **Method**: **First-come, first-served**.
+- **Allocation rule**:
+  - Applicants are allocated in **order of submission**.
+  - Each applicant receives the amount **they requested**.
+  - Allocation continues until the **Saskatchewan quantity** is fully distributed.
+
+> This method is **simpler and less performance-based**, relying on administrative priority rather than historical data.
+
+---
+
+## **Key Dates and Deadlines**
+
+- **Deadline to relinquish allocation**: **December 14, 2006**.
+  - Any primary producer or remanufacturer who wishes to **give up** their export allocation must submit a **written notice** to the Minister by this date.
+  - Excluded from calculations in both numerator and denominator.
+
+---
+
+## **Legal Basis**
+
+- **Section 6.3(3)(a)(a)** of the *Export and Import Permits Act* — authorizes the Minister to establish allocation methods for softwood lumber exports.
+- **Section 108** of the *Softwood Lumber Products Export Charge Act, 2006* — provides authority for setting export quotas and allocation rules.
+
+---
+
+## **

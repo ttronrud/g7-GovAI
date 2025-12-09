@@ -1,0 +1,177 @@
+**Detailed Summary of the Commercial Loan (Insurance Companies, Societies and Insurance Holding Companies) Regulations**
+
+---
+
+### **1. Regulatory Authority and Legal Basis**
+
+These regulations were issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, under **section 1021a of the Insurance Companies Act (Act)**.  
+- **Statutory Reference**: S.C. 2001, c.9, s.465; S.C. 1991, c.47  
+- The regulations are designed to define and clarify key terms and thresholds related to **commercial loans** and the **regulatory treatment of subsidiaries** for insurance companies, insurance societies, and insurance holding companies.
+
+---
+
+### **2. Definition of "Commercial Loan" – Prescribed International Agencies**
+
+For the purpose of **subsection 490(1)** of the Insurance Companies Act, a **commercial loan** is defined to include debt obligations issued by or to certain international financial institutions. The prescribed international agencies are:
+
+| Agency |
+|--------|
+| International Bank for Reconstruction and Development (IBRD) |
+| International Finance Corporation (IFC) |
+| Inter-American Development Bank (IDB) |
+| Asian Development Bank (ADB) |
+| African Development Bank (AfDB) |
+| European Investment Bank (EIB) |
+| Caribbean Development Bank (CDB) |
+| Nordic Investment Bank (NIB) |
+| European Bank for Reconstruction and Development (EBRD) |
+| Council of Europe Development Bank (CEDB) |
+
+👉 **Purpose**: To ensure that loans or debt instruments issued to or by these multilateral development banks are recognized as "commercial loans" under the Act, thereby triggering specific regulatory requirements or exemptions.
+
+---
+
+### **3. Definition of "Widely Distributed" Debt Obligations**
+
+This section defines when a debt obligation qualifies as "widely distributed," which is a key factor in determining whether a loan is considered a commercial loan and thus subject to certain regulatory treatment.
+
+#### **Applicable Criteria (for debt obligations):**
+
+The debt obligations must meet **at least one** of the following conditions:
+
+1. **Distribution Threshold (90% Rule)**  
+   - At least **90% of the maximum authorized principal** of the debt obligations is held by **persons other than the company and its subsidiaries**.  
+   - **AND**  
+   - The debt was issued to **at least 25 persons other than the company and its subsidiaries** within **six months** of the first issuance.  
+   *(Note: Applies only if issued in a single issuance)*
+
+2. **Continuous Issuance (Average Holder Threshold)**  
+   - If issued continuously, there must be, **on average**, **at least 25 holders** (excluding the company and its subsidiaries).
+
+3. **Initial Distribution Criteria (Three of Four)**  
+   At the time of initial distribution, the debt obligations must meet **at least three** of the following:
+   - Initial term **less than one year**  
+   - Rated by a **rating agency**  
+   - Distributed through a person **authorized to trade in securities**  
+   - Distributed in accordance with an **offering circular, memorandum, or similar document**
+
+#### **Applicable Criteria (for other securities)**
+
+For non-debt securities (e.g., equity or other instruments), the following applies:
+
+- The securities must be **listed and posted for trading** on a **recognized stock exchange**, **OR**  
+- A **prospectus** relating to the issuance of the securities was filed under the laws of **Canada, a province, or a jurisdiction outside Canada**.
+
+👉 **Purpose**: To distinguish between loans that are broadly distributed (and thus more likely to be commercial in nature) and those that are concentrated or issued to a small group of investors, which may fall outside the scope of commercial loan rules.
+
+---
+
+### **4. Definition of "Maximum Authorized Principal"**
+
+- In relation to any debt obligation, **maximum authorized principal** means the **maximum amount of debt** that may be issued under the terms of the debt obligation or any related agreement.
+
+👉 **Purpose**: Provides a clear benchmark for determining the size and scope of debt instruments when assessing whether they qualify as widely distributed or commercial loans.
+
+---
+
+### **5. Prescribed Subsidiaries – Section 503 & 504 (Life Companies)**
+
+- **All subsidiaries of a life insurance company** are considered **prescribed subsidiaries** of the company under **sections 503 and 504** of the Act.
+
+👉 **Purpose**: Ensures that all related entities under a life company are included in regulatory reporting and capital adequacy assessments.
+
+---
+
+### **6. Prescribed Subsidiaries – Section 505 (Property and Casualty & Marine Companies)**
+
+A **prescribed subsidiary** of a property and casualty (P&C) or marine company is a subsidiary that is **not**:
+
+- A **financial institution**  
+- A **bank holding company** or an **insurance holding company**  
+- A subsidiary of a financial institution (unless the subsidiary is only a financial institution due to its parentage)  
+- A subsidiary of a bank holding company or insurance holding company
+
+👉 **Purpose**: Excludes certain types of financial subsidiaries from being counted in regulatory thresholds (e.g., for asset concentration or capital requirements), unless they are directly tied to financial operations.
+
+#### **Prescribed Percentage (Section 505)**  
+- The **prescribed percentage** is **5%** — meaning that only subsidiaries holding **5% or more** of a company’s total assets are considered for regulatory scrutiny.
+
+👉 **Note**: This threshold applies to both P&C and marine companies.
+
+---
+
+### **7. Total Assets – Definition (Life Companies, P&C, Marine)**
+
+#### **For Life Companies (Section 503)**  
+- **Total assets** = sum of assets that would appear on the company’s balance sheet at a given time, prepared **in accordance with the accounting principles and specifications** set by the **Superintendent of Insurance** under subsection 331(4) of the Act.
+
+#### **For P&C and Marine Companies (Section 505)**  
+- **Total assets** =  
+  - **A**: Total assets reported on the balance sheet (as per accounting standards)  
+  - **Plus**: Total assets included in A that belong to subsidiaries that are:  
+    - Financial institutions  
+    - Bank holding companies or insurance holding companies  
+    - Subsidiaries of financial institutions (excluding those only because of parentage)  
+    - Subsidiaries of bank or insurance holding companies  
+
+👉 **Purpose**: Expands the definition of "total assets" to include certain subsidiaries, especially those with financial operations, to ensure comprehensive capital and risk assessment.
+
+---
+
+### **8. Prescribed Subsidiaries – Section 562 (Insurance Societies)**
+
+A **prescribed subsidiary** of an insurance society is one that is **not**:
+
+- A financial institution  
+- A subsidiary of a financial institution (unless the subsidiary is only a financial institution because of its relationship to the society)
+
+👉 **Purpose**: Limits regulatory exposure to only those subsidiaries that are not directly financial in nature.
+
+#### **Prescribed Percentage (Section 562)**  
+- **If society has ≤ $25 million capital**: 5%  
+- **If society has > $25 million capital**: 100%  
+
+👉 **Purpose**: As capital increases, the threshold for triggering regulatory scrutiny increases — from 5% to full ownership (100%) for larger societies.
+
+---
+
+### **9. Total Assets – Insurance Societies (Section 562)**
+
+- **Total assets** =  
+  - **A**: Total assets on the society’s balance sheet (per accounting standards)  
+  - **Plus**: Total assets of subsidiaries that are:  
+    - Financial institutions  
+    - Subsidiaries of financial institutions (excluding those only due to parentage)
+
+👉 **Purpose**: Ensures that financial subsidiaries of societies are included in asset calculations for regulatory purposes, especially as capital size increases.
+
+---
+
+### **10. Prescribed Subsidiaries – Insurance Holding Companies (Section 979)**
+
+- **All subsidiaries of an insurance holding company** are considered **prescribed subsidiaries** under **section 979** of the Act.
+
+👉 **Purpose**: Ensures full regulatory oversight of the entire group structure of insurance holding companies.
+
+---
+
+### **11. Total Assets – Insurance Holding Companies (Section 979)**
+
+- **Total assets** = sum of assets on the insurance holding company’s balance sheet at a given time, prepared in accordance with the **accounting principles and specifications** of the Superintendent under subsection **887(4)** of the Act.
+
+👉 **Purpose**: Provides a consistent and standardized method for measuring total assets in holding company structures.
+
+---
+
+### **12. Foreign Life Companies – Asset Thresholds (Sections 616 and 617)**
+
+#### **Section 616(1) & (2)**  
+For a **foreign life company**:
+
+- If the **value of its assets in Canada** (for specified classes of insurance) exceeds the sum of its **liabilities in Canada** plus the **margin of assets over liabilities** (as per subsection 608(1)) by **25 million dollars or less**, the **prescribed percentage** of asset value is **5%**.  
+- If the excess exceeds **25 million dollars**, the prescribed percentage is **100%**.
+
+👉 **Purpose**: Adjusts regulatory thresholds based on the scale of foreign life companies’ exposure in Canada. Larger exposures trigger stricter ownership and reporting requirements.
+
+#### **Section 617**  
+For **foreign property and casualty or marine companies**, the prescribed percentage of asset value in Canada

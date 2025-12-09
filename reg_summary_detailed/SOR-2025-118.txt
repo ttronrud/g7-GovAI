@@ -1,0 +1,152 @@
+### **Detailed Summary of the United States Surtax Order (Motor Vehicles 2025)**
+
+---
+
+#### **1. Legal Authority and Basis**
+The **United States Surtax Order (Motor Vehicles 2025)** is made under:
+- **Subsection 53(2)a** of the *Customs Tariff*,
+- **Paragraph 79(a)b** of the *Customs Tariff*.
+
+This authority enables the Canadian government to impose additional duties (surtaxes) on certain motor vehicles imported from the United States, specifically those that do not qualify for preferential tariff treatment under the **United States-Mexico-Canada Agreement (CUSMA)**.
+
+The Order is supported by statutory provisions:
+- **S.C. 2020, c. 1, s. 191(1)** – Provides the general power to make surtax orders.
+- **S.C. 2012, c. 26, s. 63(4)** – Authorizes surtaxes on goods originating in specific countries.
+- **S.C. 1997, c. 36** – Establishes foundational rules for tariff classification and origin determination.
+
+---
+
+#### **2. Definition of "Motor Vehicle"**
+A "motor vehicle" is defined broadly as:
+- Any good classified under any tariff item listed in **Schedule 1**, **or**
+- Any good classified under a tariff item in **Schedule 2** that is also classifiable under a tariff item in **Schedule 1**.
+
+> This ensures that vehicles that may fall under multiple tariff classifications are still covered under the surtax rules.
+
+---
+
+#### **3. Surtax Application: Key Provisions**
+
+##### **A. General Rule: Surtax on U.S.-Origin Motor Vehicles**
+All motor vehicles **originating in the United States** that are **not entitled to the United States Tariff** (i.e., do not qualify for preferential treatment under CUSMA) are subject to a **25% surtax** on the **value for duty**.
+
+- The "value for duty" is determined according to **Sections 47 to 55 of the Customs Act**, which involve valuation methods such as the transaction value, identical goods, or deductibles.
+
+> **Example**: If the duty value of a vehicle is CAD $50,000, the surtax would be 25% of $50,000 = CAD $12,500.
+
+---
+
+##### **B. Exceptional Case: Vehicles Entitled to the United States Tariff**
+If a motor vehicle originates in the U.S. and **is entitled to the United States Tariff** (i.e., qualifies for preferential treatment under CUSMA), the surtax is applied **only if** the value of Canadian or Mexican-origin components used in its production exceeds 15% of the total duty value.
+
+- The surtax is calculated as **25% of the value of the motor vehicle**, but **only if**:
+  - The value of goods originating in **Canada or Mexico** used in production is **greater than 15%** of the duty value (A), **or**
+  - The value is **15% or less** of the duty value (A), in which case the surtax is applied based on **15% of A**.
+
+> **Formula**:
+>  
+> Surtax = 25% × (A × B)  
+> Where:  
+> - A = Value for duty of the motor vehicle (as per Sections 47–55 of the Customs Act)  
+> - B =  
+>   - Value of Canadian/Mexican-origin goods used in production, **if >15% of A**  
+>   - Otherwise, **15% of A**
+
+> This mechanism allows for a **more nuanced application** of the surtax, recognizing that vehicles with significant Canadian or Mexican content may be considered more "originally" from those countries and thus eligible for reduced or no surtax.
+
+---
+
+##### **C. Documentation Requirement**
+If the surtax is calculated based on **B being greater than 15% of A**, the importer **must provide documentary evidence** to the customs officer upon request to prove the value of Canadian or Mexican-origin components used in production.
+
+> This ensures transparency and prevents fraud or misrepresentation in claiming eligibility for reduced surtax.
+
+---
+
+##### **D. Determination of Country of Origin**
+The determination of whether goods originate in Canada, the United States, or Mexico must follow the rules in:
+- **Sections 2, 4 to 8, and 10 to 13** of the *Determination of Country of Origin for the Purpose of Marking Goods (CUSMA Countries) Regulations*.
+
+> These rules establish criteria such as:
+> - The location of manufacturing,
+> - The percentage of value derived from inputs,
+> - The degree of processing,
+> - The use of materials from a specific country.
+
+This ensures compliance with CUSMA’s origin rules and prevents misuse of origin claims.
+
+---
+
+#### **4. Exemptions from the Surtax**
+
+Despite the general rule, the following motor vehicles are **exempt** from the surtax:
+
+| Exemption | Description |
+|--------|-------------|
+| **1. Vehicles classified under Chapter 98 or 99** | If the tariff item is **not listed in Schedule 2**. <br> *Note: Schedule 2 contains tariff items specifically subject to the surtax rules.* |
+| **2. Vehicles classified under 8704.60.00 with gross vehicle weight >5 tonnes** | These are heavy-duty vehicles (e.g., trucks, commercial vehicles). <br> The surtax does **not apply** if the gross vehicle weight exceeds five tonnes. |
+| **3. Vehicles in transit to Canada on the day the Order comes into force** | Any motor vehicle that is **in transit** (not yet entered into Canada) on **April 9, 2025**, is exempt. |
+
+> This exemption protects vehicles in movement and avoids retroactive application to those already in transit.
+
+---
+
+#### **5. Schedule of Tariff Items (Relevant to the Order)**
+
+The following tariff items are **included in Schedule 2** and are subject to the surtax rules:
+
+| Tariff Item | Description |
+|-----------|-------------|
+| 8703.22.00 | Light trucks (e.g., pickup trucks) |
+| 8703.23.00 | Light trucks |
+| 8703.24.00 | Light trucks |
+| 8703.31.00 | Light trucks |
+| 8703.32.00 | Light trucks |
+| 8703.33.00 | Light trucks |
+| 8703.40.10 | Light trucks |
+| 8703.40.90 | Light trucks |
+| 8703.50.00 | Light trucks |
+| 8703.60.10 | Light trucks |
+| 8703.60.90 | Light trucks |
+| 8703.70.00 | Light trucks |
+| 8703.80.00 | Light trucks |
+| 8703.90.00 | Light trucks |
+| 8704.21.90 | Light trucks |
+| 8704.31.00 | Light trucks |
+| 8704.41.90 | Light trucks |
+| 8704.51.00 | Light trucks |
+| 8704.60.00 | Light trucks (exempt if >5 tonnes) |
+| 9804.30.00 | Motor vehicles (non-road) |
+| 9825.10.00 | Motor vehicles |
+| 9825.20.00 | Motor vehicles |
+| 9825.30.00 | Motor vehicles |
+| 9826.10.00 | Motor vehicles |
+| 9826.20.00 | Motor vehicles |
+| 9826.30.00 | Motor vehicles |
+| 9826.40.00 | Motor vehicles |
+| 9897.00.00 | Motor vehicles |
+| 9898.00.00 | Motor vehicles |
+| 9899.00.00 | Motor vehicles |
+| 9971.00.00 | Motor vehicles |
+| 9989.00.00 | Motor vehicles |
+
+> These items represent a broad range of light and medium-duty motor vehicles, including passenger cars, light trucks, and commercial vehicles.
+
+> **Note**: While 8704.60.00 is listed, **vehicles with gross vehicle weight exceeding five tonnes are exempt**, so only those under 5 tonnes are subject to the surtax.
+
+---
+
+#### **6. Effective Date and Registration Clause**
+
+- The Order **comes into force on April 9, 2025**.
+- However, **if the Order is registered (i.e., officially published) after April 9, 2025**, it will take effect on the **date of registration**.
+
+> This provides flexibility in case of delays in publication or administrative processing.
+
+---
+
+### **Key Objectives and Implications**
+
+| Objective | Explanation |
+|--------|-------------|
+| **Support

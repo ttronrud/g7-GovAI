@@ -1,0 +1,193 @@
+Certainly. Below is a **detailed, structured summary** of the *Cost of Borrowing (Trust and Loan Companies) Regulations*, as amended and referenced in the provided text. This summary is organized by key themes and provisions to ensure clarity, completeness, and regulatory relevance.
+
+---
+
+## 🔍 **Detailed Summary of the Cost of Borrowing (Trust and Loan Companies) Regulations**
+
+### **1. Regulatory Background and Authority**
+- **Enacted by**: Her Excellency the Governor General in Council, on the recommendation of the Minister of Finance.
+- **Legal Basis**: Sections 435 to 443a and 531b of the *Trust and Loan Companies Act (TCLA)*.
+- **Purpose**: To establish standardized rules for calculating and disclosing the **true cost of borrowing** to consumers, ensuring transparency and fairness in credit agreements.
+- **Regulatory Reference**:  
+  - S.C. 1997, c. 15, ss. 379–384  
+  - S.C. 1997, c. 15, s. 408  
+  - S.C. 1991, c. 45  
+
+---
+
+### **2. Key Definitions**
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Trust and Loan Companies Act* |
+| **APR** | Annual Percentage Rate — the cost of borrowing expressed as an annual rate on the principal |
+| **Borrower** | Includes individuals to whom a loan is offered, and holders or applicants for a credit card |
+| **Credit Agreement** | Any agreement involving a loan, line of credit, or credit card |
+| **Disbursement Charge** | Fees for arranging, documenting, insuring, or securing a loan (excluding certain types) |
+| **Hypothec** | A mortgage or lien on immovable property |
+| **Principal** | The original amount borrowed, excluding interest or other costs |
+| **Public Index** | A variable interest rate or base rate published weekly in a general-interest publication in areas where borrowers reside |
+
+> *Note: These definitions apply throughout the Regulations.*
+
+---
+
+### **3. Scope of Application**
+These Regulations **do not apply** to:
+- Credit agreements for **business purposes** of a borrower;
+- Credit agreements with **non-natural persons** (e.g., corporations, trusts);
+- Loans governed by the *Canada Student Loans Act*;
+- Student loans governed by any federal or provincial Act that requires interest or discount disclosure.
+
+> ✅ Applies to consumer loans, credit cards, and lines of credit.
+
+---
+
+### **4. Calculation of Annual Percentage Rate (APR)**
+
+#### **General Formula (for loans not via credit card/line of credit):**
+> **APR = (Total Cost of Borrowing / Average Outstanding Principal) × (100 / Term in Years)**  
+Where:
+- Total cost of borrowing = sum of all interest and fees over the loan term
+- Average outstanding principal = average of the principal balance at the end of each payment period (before any payment is deducted)
+- Term = loan duration in years (to at least two decimal places)
+
+#### **Key Rules for APR Calculation:**
+| Rule | Explanation |
+|------|-------------|
+| **Rounding** | APR may be rounded to the **nearest eighth of a percent** (e.g., 5.125%) |
+| **Payment Application Order** | Each payment must first cover **accumulated cost of borrowing**, then reduce the **outstanding principal** |
+| **Time Periods** | - 1 month = 1/12 year<br>- 1 week = 1/52 year<br>- 1 day = 1/365 year |
+| **Variable Interest Rates** | Must use the **rate in effect on the day of calculation** |
+| **No Installments** | If no payments exist, APR is calculated assuming repayment in **one lump sum at maturity** |
+| **New Credit Agreements** | A loan with a balance from a prior agreement is treated as a **new credit agreement** for APR purposes |
+
+#### **APR for Credit Cards & Lines of Credit**
+- **Fixed interest rate** → APR = that fixed rate  
+- **Variable interest rate** → APR = rate **in effect on the disclosure date**
+
+> ⚠️ If there is **no cost of borrowing beyond interest**, the APR equals the interest rate.
+
+---
+
+### **5. What Is Included in the Cost of Borrowing (APR)?**
+
+The total cost includes:
+- Interest or discount under section 435(a) of the Act
+- **Administrative charges** (e.g., application, account management)
+- **Lawyer/notary fees** required by the company (not optional)
+- **Insurance charges** (excluding those for optional coverage or asset value)
+- **Broker fees** if included in the loan amount and paid directly by the lender
+- **Appraisal, inspection, or surveying fees** related to property used as security (excluding those for borrower benefit)
+
+> ✅ These are **included** in the APR calculation.
+
+---
+
+### **6. What Is EXCLUDED from the Cost of Borrowing?**
+
+The following are **not included** in the APR:
+- **Optional insurance** (e.g., not required by the borrower)
+- **Overdraft fees**
+- **Registry fees** (to register security interests or obtain registry info)
+- **Penalty charges** for early repayment
+- **Lawyer/notary fees** not required by the company
+- **Title defect insurance** (if paid by borrower)
+- **Appraisal/inspection services provided directly to borrower**
+- **High-ratio mortgage insurance**
+- **Tax account maintenance fees** (required or optional)
+- **Fees to discharge a security interest**
+- **Default charges**
+
+> ❌ These are **excluded** from the APR.
+
+---
+
+### **7. Disclosure Requirements**
+
+#### **Mandatory Disclosure Statement**
+- Must be provided **in writing** to the borrower.
+- Must include **all required information** in a clear, simple, and non-misleading manner.
+- Must be in **language the borrower can understand**.
+
+#### **Form of Disclosure Statement**
+- Can be:
+  - A **separate document**
+  - A **part of the credit agreement or application**
+
+#### **Presentation Requirements (Consolidated Format)**
+- If part of an agreement or application:
+  - Must be presented in a **single, consolidated location**
+  - The **applicable information box** (from Schedules 1–5) must appear at the **beginning** of the document
+
+- If separate:
+  - Must be provided **before** the agreement is signed or **with** the application
+  - The **information box** must be at the **beginning** of the separate statement
+
+#### **Information Box Formatting Standards**
+To ensure **legibility and accessibility**:
+- Font size: **Minimum 12 points** (bold for titles, rates, dates, amounts)
+- Other text: **Minimum 10 points**
+- Bold formatting for key numbers (interest rates, dates, dollar amounts)
+- Standard spacing between words and characters
+- Margins (top, bottom, left, right) to provide white space
+- **Dark text on light background** for optimal contrast
+
+> ✅ Designed for **maximum readability** by all consumers.
+
+---
+
+### **8. Assumptions and Estimates**
+- Information based on **assumptions or estimates** is acceptable **only if**:
+  1. The assumption is **reasonable**
+  2. It **cannot be known at the time** of disclosure
+  3. The borrower is **explicitly informed** that it is an assumption or estimate
+
+> ⚠️ Must not mislead or create false impressions.
+
+---
+
+### **9. Timing of Disclosure (Initial Statement)**
+
+A company must provide the **initial disclosure statement**:
+- **On or before the earlier of**:
+  - The first payment (other than a disbursement charge) by the borrower
+  - **Two clear business days before** entering into the agreement **if it is a mortgage or hypothec**
+  - **On the day of entering into** the agreement in all other cases
+
+> ⚠️ Exceptions:
+- If the borrower **consents** to receiving the statement via another borrower (e.g., group loan)
+- If the borrower obtains **independent legal advice**
+- If a **rescission period of at least two business days** is included
+- If the agreement includes **favourable terms** that reduce the cost of borrowing
+
+---
+
+### **10. Required Information in Initial Disclosure Statement**
+
+#### **For Fixed Interest Rate, Fixed Amount Loans (e.g., mortgage, personal loan)**
+Must include:
+- Principal amount
+- Advance schedule (when advances are made)
+- Total amount of all payments
+- Total cost of borrowing (expressed as an amount)
+- Loan term and amortization period (if different)
+- Annual interest rate and compounding method
+- APR (if different from interest rate)
+- Date interest begins and any grace periods
+- Amount and due date of each payment
+- Payment order: **first to cost of borrowing, then to principal**
+- Optional services (charges, cancellation conditions)
+- Rebate/penalty formula for early repayment (if applicable)
+- Default charges (as per section 18)
+- Security interest (property pledged)
+- Broker fees (if any)
+- Fee to discharge security interest (amount on disclosure date)
+- All other charges (excluding interest)
+
+#### **For Variable Interest Rate Loans**
+In addition to above:
+- Annual interest rate **on the date of disclosure**
+- Method for determining the rate and when it changes
+- Payment amounts based on the disclosed rate
+- Total cost of borrowing based on that rate
+- **Trigger rate**: if

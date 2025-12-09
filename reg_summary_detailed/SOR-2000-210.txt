@@ -1,0 +1,159 @@
+Certainly. Below is a **detailed, comprehensive summary** of the **Nuclear Non-proliferation Import and Export Control Regulations**, as approved by Her Excellency the Governor General in Council on the recommendation of the Minister of Natural Resources under **section 44 of the Nuclear Safety and Control Act (S.C. 1997, c. 9)**.
+
+---
+
+## 🔍 **Comprehensive Summary of the Nuclear Non-Proliferation Import and Export Control Regulations**
+
+### 📌 **1. Regulatory Background and Authority**
+- These regulations were established under **section 44 of the Nuclear Safety and Control Act (NSCA)**.
+- They were **approved by the Governor in Council** on the recommendation of the **Minister of Natural Resources**.
+- The regulations were issued by the **Canadian Nuclear Safety Commission (CNSC)** on **May 31, 2000**, and came into force on the day of approval.
+- The primary objective is to **prevent the proliferation of nuclear weapons** by controlling the import, export, and transit of sensitive nuclear materials, equipment, and information.
+
+---
+
+### 📌 **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Nuclear Safety and Control Act* (NSCA). |
+| **Controlled Nuclear Substance** | Includes specific nuclear materials listed in the schedule (e.g., fissionable materials, source materials, deuterium, tritium, etc.). |
+| **Controlled Nuclear Equipment** | Equipment specifically designed or prepared for use in nuclear reactors, reprocessing, fuel fabrication, or isotope separation (e.g., centrifuges, reactor vessels, pumps). |
+| **Controlled Nuclear Information** | Technical data, designs, or documentation related to controlled substances or equipment, unless publicly disclosed. |
+| **Transit** | Movement of a substance, equipment, or information through Canada from a foreign point of origin to a foreign destination, with no final destination in Canada. |
+
+> ⚠️ **Important Note**:  
+> All controlled nuclear substances are considered **"nuclear substances"** under section 2(d) of the NSCA for import/export purposes.  
+> All controlled nuclear equipment is considered **"prescribed equipment"** under the Act.  
+> All controlled nuclear information is **"prescribed information"** unless it has been made public under the Act or a licence.
+
+---
+
+### 📌 **3. Scope of Application**
+These regulations govern:
+- The **import and export** of:
+  - Controlled nuclear substances
+  - Controlled nuclear equipment
+  - Controlled nuclear information
+- Applies to all transactions involving these items, whether for commercial, research, or industrial use.
+
+---
+
+### 📌 **4. Licence Requirements for Import/Export**
+
+#### ✅ **Mandatory Licence Application Requirements**
+Every application for a licence to import or export a controlled item must include:
+1. Applicant’s name, address, and telephone number.
+2. Detailed description of the substance/equipment/information (including quantity and schedule paragraph reference).
+3. Name and address of supplier.
+4. Country of origin.
+5. Name, address, and (if importing) telephone number of each consignee.
+6. Intended **end-use** and **end-use location** by the final consignee.
+7. Number of any existing licence to possess the item (if applicable).
+8. For **Category I, II, or III nuclear material** (as defined in the *Nuclear Security Regulations*), **measures to comply with INFCIRC/274/Rev.1** (Convention on the Physical Protection of Nuclear Material).
+
+> 🔍 **Additional Information Requested**:  
+> The CNSC or a designated officer may request **any further information** necessary to assess compliance with subsection 24(4) of the NSCA (i.e., to determine whether the activity poses a proliferation risk).
+
+---
+
+### 📌 **5. Exemptions from Licence Requirements**
+
+Certain activities are **exempt** from requiring a licence under specific conditions. These exemptions apply **only to the specified activities** and do **not** relieve individuals or organizations from other licence obligations under section 26 of the NSCA.
+
+| Exempt Activity | Conditions |
+|----------------|-----------|
+| **Import** of controlled nuclear substances listed in **Part B of the schedule** | No licence required. |
+| **Import** of controlled nuclear equipment listed in **paragraph A.3 or Part B of the schedule** | No licence required. |
+| **Import** of controlled nuclear information related to equipment/substances in A.3 or Part B | No licence required. |
+| **Import** for **transit** purposes (through Canada) | No licence required. |
+| **Export** after transit | No licence required. |
+| **Import** of up to **200 kg per shipment** of a controlled substance in **paragraph A.1.3** (non-reactor use) | No licence required. |
+| **Export** of a controlled substance in **paragraph A.1.4** (non-reactor use) to any **Nuclear Suppliers Group (NSG) Participating Government** | No licence required. |
+| **Import** of a controlled substance in **paragraph A.1.4** (non-reactor use) | No licence required. |
+| **Import** of a controlled substance in **paragraph A.1.5** (contained in self-luminous sources/devices) | No licence required. |
+| **Export** of a self-luminous source/device containing **less than 1,480 GBq of tritium** to any NSG Participating Government | No licence required. |
+
+> ⚠️ **Important Clarification**:  
+> These exemptions **do not override** the requirement under **section 26** of the NSCA for other activities involving nuclear materials or equipment.
+
+---
+
+### 📌 **6. Reporting Obligations (for Exempt Exports)**
+
+Every person who exports a controlled nuclear substance under **exempted activities (1)(f) or (i)** must submit a **written report by January 31** of each calendar year, including:
+
+- Exporter’s name, address, and telephone number.
+- Description of the substance (quantity, country of origin).
+- Date of export.
+- Name and address of each consignee.
+- Intended **end-use** and **end-use location** as stated by the final consignee.
+
+> 🔍 **Geographic Limitation for (1)(i)**:  
+> This reporting requirement applies **only** to exports destined for **States that are signatories to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT)**, specifically:
+> - Signed at London/Washington (July 23, 1968) and Moscow (July 29, 1968)
+> - Came into force for Canada on **March 5, 1970**
+
+---
+
+### 📌 **7. Schedule of Controlled Items (Key Categories)**
+
+The regulations define specific categories of nuclear materials, equipment, and information that are considered "controlled" under Canadian law. These are derived from **IAEA Information Circulars (INFCIRC/254/Rev.9, INFCIRC/254/Rev.7, INFCIRC/209/Rev.2)**.
+
+---
+
+#### 🔹 **1. Special Fissionable Material**
+- Includes:
+  - **Plutonium** (all isotopes, alloys, compounds, or materials containing plutonium)
+  - **Uranium-233**, **enriched uranium (U-235 or U-233)**, and all alloys, compounds, or materials containing them
+- **Exclusions**:
+  - Contaminants in laundry, packaging, shielding, or equipment
+  - Sensing components in instruments ≤4 effective grams
+  - **Plutonium-238** in pacemakers
+
+---
+
+#### 🔹 **2. Source Material**
+- Includes:
+  - Natural uranium (mixed isotopes)
+  - Depleted uranium (depleted in U-235)
+  - Thorium
+- **Concentration threshold**: >0.05 weight %
+- **Exclusions**:
+  - Contaminants in equipment or packaging
+  - Depleted uranium used as shielding for Class II Prescribed Equipment (for radiation devices or transport packaging)
+
+---
+
+#### 🔹 **3. Deuterium and Heavy Water**
+- Deuterium, heavy water (D₂O), or any compound where **deuterium/hydrogen ratio > 1:5,000**
+- **Exclusions**:
+  - Deuterium in deuterium lamps
+  - Contaminants in equipment or laundry
+  - Labelling compounds
+
+---
+
+#### 🔹 **4. Nuclear Grade Graphite**
+- Graphite with:
+  - Purity > **5 ppm boron equivalent**
+  - Density > **1.50 g/cm³**
+- Used in nuclear reactors due to its neutron moderation properties
+
+---
+
+#### 🔹 **5. Tritium**
+- Tritium, tritium compounds, or mixtures where **tritium/hydrogen ratio > 1 in 1,000**
+- Includes products containing tritium
+
+---
+
+#### 🔹 **6. Nuclear Reactor Equipment & Components**
+Includes:
+- Complete nuclear reactors (capable of sustaining a controlled fission chain reaction)
+- Nuclear reactor vessels (major parts designed to contain core and internals)
+- Fuel charging/discharging machines
+- Control rods and rod drive mechanisms
+- Pressure tubes (operating at >50 atmospheres)
+- Zirconium tubes (with Hf:Zr < 1:500 by weight)
+- Primary

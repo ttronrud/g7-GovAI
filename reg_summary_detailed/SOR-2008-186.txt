@@ -1,0 +1,149 @@
+### **Detailed Summary of the Canada Disability Savings Regulations (S.C. 2007, c. 35, s. 136)**
+
+The **Canada Disability Savings Regulations** are a set of administrative rules established under the **Canada Disability Savings Act (CDSA)** to govern the operation, eligibility, and financial accountability of **Registered Disability Savings Plans (RDSPs)**. These regulations provide detailed procedural and financial frameworks for how the Government of Canada supports individuals with disabilities through RDSPs, including the conditions under which grants and bonds can be paid into the plan, the obligations of issuers, and the rules governing repayment in various circumstances.
+
+---
+
+## **1. Purpose and Authority**
+
+- The regulations were issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Human Resources and Skills Development**, pursuant to **Section 17 of the Canada Disability Savings Act**.
+- Their primary purpose is to ensure **transparency, accountability, and compliance** in the administration of RDSPs, while promoting long-term savings for individuals with disabilities.
+
+---
+
+## **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Disability Savings Act* (CDSA). |
+| **RDSP** | A registered disability savings plan under **Section 146.4 of the Income Tax Act**. |
+| **Bond** | A Canada Disability Savings Bond — a contribution made by the government into an RDSP. |
+| **Grant** | A Canada Disability Savings Grant — a contribution made by the government into an RDSP. |
+| **Assistance Holdback Amount** | The amount that must be held back from RDSP funds for repayment purposes. It is: <br> - **Nil** if the RDSP is a *specified disability savings plan*; <br> - Otherwise, the total of bonds and grants paid into the RDSP over the **10 years before the relevant date**, minus any amounts repaid to the Minister. |
+| **Issuer Agreement** | A contract between the Minister and the RDSP issuer that outlines terms and conditions for grant/bond payments, reporting obligations, and repayment responsibilities. |
+
+---
+
+## **3. Eligibility for Government Contributions (Grants and Bonds)**
+
+### **A. Grant Eligibility (for contributions made to the RDSP)**
+
+The Minister may pay a **grant** into an RDSP **only if** all of the following conditions are met:
+
+1. The **issuer** has entered into an **issuer agreement** with the Minister that includes the terms and conditions in **Section 4**.
+2. The **holder of the RDSP** submits an application for the grant to the Minister.
+3. The **beneficiary is under 49 years of age** at the end of the year before the contribution is made.
+4. The **total contributions** (including the proposed grant) to the RDSP do **not exceed $200,000**.
+5. The beneficiary is a **DTC-eligible individual** (eligible for Disability Tax Credit) for the year of contribution and for the years to which the contribution applies.
+6. The issuer complies with all requirements of these regulations and the issuer agreement.
+
+> Note: Grants are only available when the contribution is made to and not withdrawn from the RDSP.
+
+---
+
+### **B. Bond Eligibility (for contributions made at age 49 or later)**
+
+The Minister may pay a **bond** into an RDSP **only if**:
+
+1. The issuer has an **issuer agreement** with the Minister containing the required terms (Section 4).
+2. The **holder requests** the issuer to submit a bond application **no later than December 31 of the year** the beneficiary turns 49.
+3. The issuer submits the application to the Minister.
+4. The beneficiary is under 49 years of age at the end of the year before the bond is payable.
+5. The beneficiary is a **DTC-eligible individual** for the year the bond is payable.
+6. The issuer complies with the regulations and the issuer agreement.
+
+> Bonds are typically available once the beneficiary reaches age 49, and are designed to provide a long-term financial benefit.
+
+---
+
+## **4. Required Terms in Issuer Agreements**
+
+Every issuer agreement must include the following mandatory terms and conditions:
+
+| Requirement | Description |
+|-----------|-------------|
+| **Information Sharing** | The issuer must provide the Minister with any information required for compliance with the Act and these regulations. |
+| **Recordkeeping** | The issuer must maintain accurate records and books of account that reflect all RDSP transactions and meet the Minister’s requirements. |
+| **Auditing Access** | The Minister may access all documents and information needed for audits of payments or repayments. |
+| **Annual Reporting** | The issuer must report annually (or at other intervals specified in the agreement) on: <br> - All contributions, payments, and transfers to/from the RDSP <br> - The assistance holdback amount <br> - Any other information specified in the agreement |
+| **Reporting Format** | Reports must be submitted in a format acceptable to the Minister. |
+| **No Fees from Holdback** | The issuer **cannot charge fees** related to the RDSP against the assistance holdback amount. |
+| **Transfer Information** | When transferring RDSP property to a new plan, the issuer must provide the new plan’s issuer with the information required under **paragraph 146.4(8)(c)** of the Income Tax Act. |
+| **Repayment Obligation** | The issuer must repay any amount required under these regulations **within the time period specified in the agreement**. |
+
+---
+
+## **5. Repayment Obligations (When Certain Events Occur)**
+
+The issuer must repay amounts to the Minister under specific circumstances. The repayment amount is the **lesser of**:
+
+- The **fair market value** of the RDSP’s property immediately before the event, or  
+- The **assistance holdback amount** of the RDSP immediately before the event.
+
+### **Events Triggering Repayment**
+
+1. **Termination of the RDSP**
+2. **Plan ceases to be an RDSP** due to application of **paragraph 146.4(10)(a)** of the Income Tax Act (e.g., plan is closed or dissolved)
+3. **Death of the beneficiary**  
+   *(Note: This section was repealed in 2021, c. 23, s. 95 — see below)*
+
+> **Important Note**: This section **does not apply** if the event occurs **after the beneficiary reaches 59 years of age**.
+
+---
+
+### **Special Rule for Death of a Beneficiary (Specified Disability Savings Plan)**
+
+If the RDSP is a **specified disability savings plan** and the beneficiary dies:
+
+- The issuer must repay **any portion of grants or bonds** paid into the RDSP within the **10-year period before death** that **remains in the plan** at the time of death.
+
+> This ensures that funds not used are returned to the government.
+
+> **Exception**: This rule does **not apply** if the event (e.g., death) occurs **after the beneficiary reaches 59 years of age**.
+
+---
+
+### **Repayment if Beneficiary Ceases to Be DTC-Eligible**
+
+If a beneficiary **ceases to be DTC-eligible** and one of the following events occurs:
+
+- Termination of RDSP  
+- Plan ceases to be an RDSP  
+- Disability assistance payment is made  
+
+Then the issuer must repay the lesser of:
+
+- Fair market value of the RDSP at the time of the event  
+- A **formula-based amount**, which varies based on the beneficiary’s age and timing of DTC-eligibility loss.
+
+#### Formula Breakdown:
+
+| Scenario | Repayment Amount |
+|--------|------------------|
+| **Before age 51** | Total grants and bonds paid within 10 years before DTC loss, minus repayments during that period |
+| **Between age 50–59**, and DTC loss occurred **before age 50** | Grants and bonds paid during a period ending before DTC loss, minus repayments during that period |
+| **Between age 50–59**, and DTC loss occurred **after age 49** | Grants and bonds paid from 10 years before event to day before DTC loss, minus repayments |
+| **After age 59** | Nil |
+
+> The repayment is made from the grants and bonds paid **within the applicable period**, in the **order they were paid**.
+
+> **Exception**: This rule does **not apply** if the disability assistance payment is made **after age 59** or in the year the beneficiary turns 60, **provided** the total disability assistance payments in that year are ≤ the amount prescribed under **paragraph 146.4(4)(l)** of the Income Tax Act.
+
+---
+
+## **6. Repayment for Disability Assistance Payments**
+
+When a **disability assistance payment** is made to a beneficiary:
+
+- The issuer must repay the **least of**:
+  1. **$3 for every $1** of disability assistance payment made  
+  2. Fair market value of the RDSP immediately before the payment  
+  3. Assistance holdback amount immediately before the payment  
+
+> Repayment is made **from grants and bonds** paid into the RDSP within the **10 years before** the payment, in the **order of payment**.
+
+> **Exception**: This rule **does not apply** if the disability assistance payment is made **after age 59**.
+
+#### Special Case: Beneficiary is No Longer DTC-Eligible
+
+If the beneficiary is

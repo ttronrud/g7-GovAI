@@ -1,0 +1,151 @@
+**Detailed Summary of the Affiliated Persons (Banks) Regulations**  
+*Effective June 1, 1992*  
+*Under Section 162 of the Bank Act (S.C. 1991, c. 46)*
+
+---
+
+### **Overview**
+
+The *Affiliated Persons (Banks) Regulations* establish a comprehensive framework to define **when a natural person is considered affiliated with a bank** under the *Bank Act*. This regulatory definition is critical for ensuring transparency, preventing conflicts of interest, and maintaining financial integrity in banking operations. The regulations came into force on **June 1, 1992**, and are administered by the Governor General in Council on the recommendation of the Minister of Finance.
+
+These regulations are essential for enforcing the principles of **separation of duties**, **disclosure**, and **risk management** in the banking sector by identifying individuals who may have a close financial or operational relationship with a bank.
+
+---
+
+### **Regulatory Citation**
+
+- **Title**: *Affiliated Persons (Banks) Regulations*  
+- **Reference**: S.C. 1991, c. 46 (Bank Act)
+
+---
+
+### **Key Definitions**
+
+#### 1. **"Act"**
+- Refers to the *Bank Act*, which provides the legal foundation for banking regulation in Canada. Section 162 of this Act authorizes the creation of these specific regulations.
+
+#### 2. **"Indebtedness"**
+- Broadly defined to include:
+  - Commercial paper
+  - Acceptances (e.g., bills of exchange)
+  - Lines of credit that have been drawn upon
+  - Margin loans made to a director or officer of the bank  
+- This definition ensures that not only formal loans but also short-term, credit-based instruments are included in the assessment of financial exposure.
+
+#### 3. **"Not in Good Standing" (in respect of a loan)**
+A loan is deemed "not in good standing" if **any of the following conditions apply**:
+- Any payment of **principal or interest is 90 days or more overdue**
+- Interest is **not being accrued** on the lender’s books due to doubt about recovery (i.e., the loan is considered doubtful)
+- The **interest rate has been reduced** by the lender because the borrower is deemed financially weak  
+- This criterion is designed to flag loans at risk of default and to trigger enhanced scrutiny.
+
+#### 4. **"Significant Borrower"**
+A natural person or entity is considered a *significant borrower* if their total indebtedness (excluding loans secured by a mortgage on their principal residence) exceeds the **greater of**:
+- **$200,000**, or  
+- **One fiftieth of one per cent (0.2%) of the bank’s regulatory capital**
+
+For **entities**, a significant borrower is one where the total indebtedness exceeds the **greatest of**:
+- **$500,000**,  
+- **One twentieth of one per cent (0.5%) of the bank’s regulatory capital**, and  
+- **25% of the entity’s total asset value**
+
+> ⚠️ **Key Purpose**: This threshold ensures that only borrowers with substantial financial exposure to the bank are classified as "significant," thereby limiting the scope of affiliation to those with material financial ties.
+
+---
+
+### **Conditions Under Which a Natural Person is Affiliated with a Bank**
+
+Under **Section 162 of the Bank Act**, a natural person is considered affiliated with a bank if **any of the following apply**:
+
+---
+
+#### **(a) Officer or Employee of the Bank or an Affiliate**
+- A person is affiliated if they hold an **officer or employee position** at the bank itself or at any **affiliate** of the bank.  
+- *Affiliates* are entities that are controlled or closely related to the bank (e.g., subsidiaries, holding companies).
+
+#### **(b) Significant Interest in Shares or Membership Shares**
+- A person is affiliated if they:
+  - Hold a **significant interest** (i.e., a substantial ownership stake) in:
+    - A class of shares of the bank, or  
+    - Membership shares (e.g., in a cooperative bank)  
+- The term "significant interest" is not explicitly defined in these regulations but implies a material ownership interest (e.g., 5% or more, or a threshold that would give influence over governance or decision-making).
+
+#### **(c) Substantial Investment in an Affiliate of the Bank**
+- A person is affiliated if they have a **substantial investment** in an affiliate of the bank.  
+- "Substantial" is not precisely defined here but generally implies a level of financial commitment that gives the investor influence or control over the affiliate.
+
+#### **(d) Significant Borrower in Respect of the Bank**
+- A person is affiliated if they are a **significant borrower** of the bank or its affiliates (as defined above).  
+- This includes individuals with high levels of debt (exceeding the thresholds set in the "significant borrower" definition).
+
+#### **(e) Officer or Employee of an Entity That Is a Significant Borrower**
+- A person is affiliated if they are an **officer or employee** of a company or entity that is itself a significant borrower of the bank.  
+- This expands the scope to include indirect affiliations through corporate structures.
+
+#### **(f) Controls Entities with Total Debt Exceeding Significant Borrower Threshold**
+- A person is affiliated if they **control one or more entities** such that, if those entities were combined, their **total indebtedness to the bank or its affiliates** would exceed the threshold for a significant borrower.  
+- This rule addresses **group or consolidated financial exposure** and prevents a person from being insulated from affiliation simply because they own multiple smaller entities.
+
+#### **(g) Provides Goods or Services to the Bank**
+- A person is affiliated if:
+  - They provide **goods or services** to the bank, or
+  - They are a **partner or employee in a partnership** that provides goods or services to the bank, or
+  - They are a partner or employee of a **body corporate** (corporation) that provides goods or services to the bank  
+- **Affiliation triggers** when the **total annual billings** to the bank exceed **10% of the person’s, partnership’s, or body corporate’s total annual billings**.  
+- This prevents banks from engaging in transactions with suppliers or service providers who have undue influence or potential conflicts of interest.
+
+#### **(h) Has a Loan Not in Good Standing or is Related to Such a Loan**
+- A person is affiliated if:
+  - They have a **loan that is not in good standing** (as defined above), or  
+  - They are a **director, officer, or employee** of, or **control** an entity that has a loan not in good standing from the bank or its affiliate.  
+- This ensures that individuals with financially distressed borrowers are flagged for monitoring and disclosure.
+
+#### **(i) Spouse or Common-Law Partner of an Affiliated Person**
+- A person is affiliated if they are the **spouse or common-law partner** of someone who meets any of the conditions listed in (a) through (h).  
+- This provision recognizes that **family relationships** can create indirect financial or operational ties and may pose risks of conflict of interest.
+
+---
+
+### **Purpose and Regulatory Objectives**
+
+The primary goals of these regulations are:
+
+1. **Conflict of Interest Prevention**  
+   - To ensure that individuals with close financial or operational ties to banks do not make decisions that could benefit themselves or their associates at the expense of the bank or its customers.
+
+2. **Transparency and Disclosure Requirements**  
+   - To require banks to disclose affiliations to regulators and stakeholders, enabling better oversight and public accountability.
+
+3. **Risk Management**  
+   - To identify individuals and entities with significant exposure (e.g., large loans, ownership stakes) that could pose systemic or reputational risks.
+
+4. **Prevention of Abuse of Position**  
+   - To prevent situations where a bank might extend credit or offer services to affiliated persons in a way that undermines fair competition or regulatory compliance.
+
+5. **Broad but Prudent Scope**  
+   - The rules are designed to capture **both direct and indirect relationships**, including through shared ownership, employment, debt, and service provision.
+
+---
+
+### **Key Features and Implications**
+
+| Feature | Significance |
+|--------|-------------|
+| **Thresholds based on capital** | Links personal debt to the bank’s size, ensuring that large banks have higher thresholds for significant borrowers. |
+| **Exclusion of primary residence mortgages** | Prevents overreach in personal lending scenarios (e.g., home loans), which are typically not considered high-risk or conflict-prone. |
+| **10% billing threshold** | Ensures that only those with substantial business relationships are considered affiliated, avoiding trivial or minor service ties. |
+| **Spousal inclusion** | Expands the definition to cover family members, which is critical in modern financial systems where personal and professional lives intersect. |
+| **Focus on "not in good standing" loans** | Highlights financial distress and potential risk, requiring banks to monitor and report such exposures. |
+
+---
+
+### **Application and Enforcement**
+
+- Banks are required to **identify and document** all individuals who meet any of the criteria for affiliation.
+- These affiliations must be **reported to the Canadian Bankers Association or the Financial Services Regulatory Authority** (as applicable).
+- Affiliated persons are subject to **additional disclosure obligations**, including:
+  - Disclosure of transactions involving the bank
+  - Prohibition on certain types of transactions (e.g., insider lending)
+  - Mandatory approval processes for transactions involving affiliated parties
+
+- Regulatory bodies (e.g., the Office of the Superintendent of Financial Institutions) may impose penalties or sanctions if banks

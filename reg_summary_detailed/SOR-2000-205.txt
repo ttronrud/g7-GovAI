@@ -1,0 +1,187 @@
+### **Detailed Summary of the *Class II Nuclear Facilities and Prescribed Equipment Regulations* (S.C. 1997, c. 9)**
+
+These regulations, approved by Her Excellency the Governor General in Council on the recommendation of the Minister of Natural Resources under **section 44 of the *Nuclear Safety and Control Act***, establish the regulatory framework governing **Class II nuclear facilities** and **Class II prescribed equipment** in Canada. They are administered by the **Canadian Nuclear Safety Commission (CNSC)** and provide detailed requirements for licensing, safety, operation, certification, and decommissioning of specific types of nuclear devices and installations.
+
+---
+
+## **I. Purpose and Scope**
+
+The regulations apply to:
+- **Class II nuclear facilities**, which are defined as facilities that include **Class II prescribed equipment**.
+- **Class II prescribed equipment**, which includes specific types of devices that pose a moderate level of radiological risk and require strict controls due to their use in medical, industrial, or research applications.
+
+These regulations aim to ensure the **safety of workers, the public, and the environment** by setting comprehensive standards for design, construction, operation, maintenance, and decommissioning of such facilities and equipment.
+
+> **Note**: The regulations were originally issued in 2000 and have been amended over time. Some provisions have been repealed (e.g., brachytherapy machine and certain certification clauses), but the core framework remains in effect.
+
+---
+
+## **II. Key Definitions**
+
+The following definitions clarify key terms used throughout the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Nuclear Safety and Control Act* (NSCA), the primary legislation governing nuclear safety in Canada. |
+| **Class II nuclear facility** | A facility containing Class II prescribed equipment. |
+| **Class II prescribed equipment** | Includes: <br> - Irradiators using >10¹⁵ Bq of nuclear substance or delivering >1 cGy/min at 1 meter; <br> - Radioactive source teletherapy machines; <br> - Particle accelerators with beam energy <50 MeV (for particles ≤4 atomic mass units) or ≤15 MeV per atomic mass unit (for heavier particles); <br> - Brachytherapy remote afterloaders. |
+| **Hazardous substance** | Non-nuclear substances used or produced in licensed activities that may pose environmental or health risks. |
+| **Irradiator** | A device that delivers controlled radiation to targets (excluding people). |
+| **Licensed activity** | Activities authorized under the NSCA (e.g., construction, operation, servicing) related to Class II facilities or equipment. |
+| **Licensee** | A person authorized to carry out a licensed activity. |
+| **Radiation survey meter** | Instrument for measuring radiation dose rates. |
+| **Radioactive source teletherapy machine** | A machine delivering radiation via a sealed radioactive source for therapeutic purposes. |
+| **Sealed source** | Radioactive material enclosed in a capsule or cover that prevents dispersion under normal conditions. |
+| **Servicing** | Maintenance activities (installation, repair, dismantling) not part of routine operations or authorized under license. |
+| **Teletherapy machine** | Device delivering a collimated beam of radiation for therapeutic use. |
+| **Worker** | A person performing work referenced in a license. |
+
+---
+
+## **III. Licensing Requirements**
+
+Different types of licenses require distinct application submissions, each including specific safety and operational details.
+
+---
+
+### **1. Licence to Construct a Class II Nuclear Facility**
+
+Applications must include:
+
+- Proposed **name and location** of the facility.
+- Evidence of **ownership or authority** to construct the facility.
+- Description of **Class II prescribed equipment**, including design and operating conditions.
+- Plans for **access control**, safety features, and schematics of safety systems.
+- **Layout plans, elevations, and drawings** showing:
+  - Facility layout, component locations.
+  - Adjacent areas and their uses and estimated occupancy.
+- Details on **shielding**:
+  - Type, composition, thickness, density.
+  - Verification methods and calculations for adequacy.
+- Location and dimensions of **voids** (e.g., access ways, service ducts).
+- Description of **ventilation system** (flow rate, intake/discharge points).
+- **Quality assurance (QA) program** for design and construction.
+- Type and energy of radiation from particle accelerators.
+- **Maximum anticipated radiation dose** to any person during commissioning and operation.
+- Beam direction for teletherapy machines and physical limits to restrict beam.
+- **Radiological workloads** (in grays at 1 meter per week) for teletherapy equipment.
+- **Hours of operation per week** for treatment, dosimetry, servicing, or research.
+- Environmental and health/safety impacts.
+- Responsibilities, qualifications, and **training program** for workers.
+- **Public notification plan** explaining the facility’s effects on nearby communities.
+- **Decommissioning plan**.
+
+---
+
+### **2. Licence to Operate a Class II Nuclear Facility**
+
+Applications must include:
+
+- Name and location of the facility.
+- Commissioning plan and results.
+- Evidence of ownership or authority to operate.
+- Description of components, systems, and equipment with operating conditions.
+- Operating and maintenance **policies, methods, and procedures**.
+- Procedures for **handling, storing, loading, and transporting** nuclear and hazardous substances.
+- QA program.
+- Measures to **prevent unauthorized changes** to beam type, energy, orientation, or dose rate.
+- Method for **measuring and verifying shielding effectiveness**.
+- Description of **portable radiation detection equipment** (type, sensitivity, accuracy, calibration procedures).
+- **Leak test procedures and equipment**.
+- Description of any **area radiation monitoring system**.
+- Maximum anticipated radiation dose to any person.
+- Expected and maximum **radiological workloads** (per week at 1 meter).
+- **Radiation survey procedures** (frequency, locations).
+- Worker responsibilities, qualifications, and training.
+- **Decommissioning plan**.
+
+---
+
+### **3. Licence to Decommission a Class II Nuclear Facility**
+
+Applications must include:
+
+- Name and location.
+- Nature and **schedule of decommissioning**.
+- List of affected components (buildings, structures, equipment, substances).
+- Nature, quantity, and activity of **radioactive substances**.
+- Level and extent of **radioactive contamination** (dose rates).
+- Measures to **control releases** of radioactive or hazardous substances.
+- Maximum anticipated radiation dose to the public.
+- Maximum quantities and concentrations of substances that may be released.
+- Environmental and health impacts, and mitigation measures.
+- Worker qualifications and responsibilities.
+- **Final state of the site** after decommissioning.
+
+---
+
+### **4. Licence for Class II Prescribed Equipment (Non-Servicing)**
+
+Applications must include:
+- A copy of or certificate number for the equipment.
+- Additional information required under sections 3 and 4 of the *General Nuclear Safety and Control Regulations*.
+
+> **Note**: This applies to equipment not involving servicing.
+
+---
+
+### **5. Licence to Service Class II Prescribed Equipment**
+
+Applications must include:
+- Name, model, and characteristics of the equipment or certificate number.
+- Nature of the servicing proposed.
+- Methods, procedures, and equipment for servicing.
+- Worker **qualification requirements and training program**.
+- Procedures to **verify safety after servicing** (e.g., functional checks, inspections).
+
+---
+
+## **IV. Exceptions to Licensing Requirements**
+
+Certain activities do **not require a licence**:
+
+1. **Preparing a site** for a Class II nuclear facility.
+2. **Constructing, operating, modifying, decommissioning, or abandoning** a Class II nuclear facility that includes a **geophysical logging particle accelerator**.
+3. **Decommissioning** a Class II nuclear facility that includes a **brachytherapy remote afterloader**.
+4. **Possessing, transferring, or producing** Class II prescribed equipment **without a nuclear substance** — no licence required.
+
+> These exceptions reflect lower risk or specific uses where the potential for radiation exposure is minimal or well-controlled.
+
+---
+
+## **V. Equipment Certification Requirements**
+
+The CNSC or a designated officer may **certify a model** of Class II prescribed equipment after receiving an application that includes:
+
+- Applicant’s name and address.
+- Manufacturer’s name and address.
+- Brand, model, and equipment details.
+- Design and component specifications, including design standards.
+- Intended use.
+- Nuclear substance details: name, quantity (in becquerels), form.
+- Method of incorporating the substance.
+- Expected radiation dose rates in all modes of operation (with calculations and measurements).
+- Maximum radiation dose rate the equipment can deliver.
+- Instructions for use, transportation, and storage.
+- Instructions for conducting **leak tests**.
+- Emergency procedures in case of accident.
+- Equipment **labelling**.
+- Quality assurance program (during design and production).
+- Packaging and transportation procedures (including emergency response plan).
+- Beam type, energy, orientation limits for accelerators or teletherapy machines.
+- Estimated **photon and neutron leakage** from teletherapy machines.
+- Half-lives and radiation dose rates at 30 cm from activated components of accelerators.
+
+> The CNSC may request **additional information** if needed to assess whether certification poses an unreasonable risk to health, safety, or national security or violates international obligations.
+
+---
+
+## **VI. Certification Decision Process and Public Participation**
+
+To ensure transparency and fairness:
+
+- A **notice of proposed decision not to certify** must be issued at least **30 days** before refusal.
+- A notice of proposed **decertification** must also be issued at least 30 days before action.
+- The notice must:
+  - Explain the basis for the decision.
+  - State the right to **request a hearing** under section 

@@ -1,0 +1,145 @@
+### **Detailed Summary of the John C. Munro Hamilton International Airport Zoning Regulations**
+
+---
+
+#### **1. Introduction and Regulatory Background**
+
+These regulations are formally adopted under the authority of the **Aeronautics Act (R.S., c. A-2)**, specifically **paragraphs 5.4(2)(b)a and (c)a**, which empower the Minister of Transport to establish zoning rules to ensure the safe operation of airports and related aeronautical facilities.
+
+The proposed regulations were **publicly advertised** in multiple local newspapers (Hamilton Spectator, Brantford Expositor, Brant News, Régional) on **March 16 and 23, 2016**, and published in **two successive issues of the Canada Gazette, Part I** on **March 5 and 12, 2016**. This ensured a **reasonable opportunity for public comment and stakeholder input** before final adoption.
+
+---
+
+#### **2. Purpose of the Regulations**
+
+The primary objectives of these zoning regulations are:
+
+- To **prevent development or use** of land adjacent to or near the John C. Munro Hamilton International Airport that could interfere with the **safe operation of aircraft**.
+- To **prevent interference with critical aeronautical signals and communications** (e.g., radar, radio, navigation systems) by prohibiting developments or natural growths that could block or disrupt signals between aircraft and airport facilities.
+
+These measures are designed to protect aviation safety, especially during takeoff, landing, and approach phases.
+
+---
+
+#### **3. Key Definitions**
+
+The following terms are defined within the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | Refers specifically to the John C. Munro Hamilton International Airport in Hamilton, Ontario, as described in Part 8 of the schedule. |
+| **Airport Reference Point (ARP)** | A fixed reference point used to calculate elevations and surface boundaries. Located at coordinates **587,398.59 E, 4,780,360.83 N**, with an assigned elevation of **230.00 m** (CGVD28). |
+| **Approach Surface** | An imaginary inclined surface extending from each end of a runway strip. Designed to ensure aircraft have a clear path during approach. |
+| **Outer Surface** | An imaginary surface at a constant elevation of **45 m above the ARP**, but **no lower than 9 m above ground level**. Acts as a boundary for development. |
+| **Strip Surface** | An imaginary surface associated with each runway, extending along the runway’s centerline. |
+| **Transitional Surface** | An inclined surface extending from the lateral edges of the strip and approach surfaces. Helps prevent obstructions in the area between the runway and the outer surface. |
+| **Wildlife Hazard Zone** | A designated area near the airport where activities attracting birds or other wildlife are restricted to prevent bird strikes. |
+| **Zoning Plan** | Plan File No. 25-009:10-005 (Sheets 1–40), prepared by the Department of Public Works and Government Services in March 2012, which serves as the spatial framework for these regulations. |
+
+---
+
+#### **4. Scope of Application**
+
+These regulations apply to **all lands adjacent to or in the vicinity of the airport** within the boundary defined in **Part 6 of the schedule**. This includes:
+
+- Land **under water**
+- Public road allowances (e.g., road rights-of-way)
+
+The boundaries are strictly defined using **grid coordinates** based on the **NAD83 (1989 adjustment)** UTM projection (Zone 17), with all measurements in **metres**.
+
+---
+
+#### **5. Prohibited Activities and Developments**
+
+##### **(a) Construction or Development Restrictions**
+No person may:
+- Place, erect, construct, or permit the placement or construction of:
+  - Any **building, structure, or object**
+  - Any **addition to an existing structure**
+- That would **penetrate** any of the following surfaces:
+  - Approach surface
+  - Outer surface
+  - Transitional surface
+  - Strip surface
+
+> *This means that even small structures (e.g., sheds, fences, antennas) or parts of existing structures that extend above these surfaces are strictly prohibited.*
+
+##### **(b) Use or Development Near the Outer Surface**
+No person may:
+- Use or develop any land **under the outer surface** in a way that causes **interference with signals or communications** to or from:
+  - Aircraft
+  - Aeronautical service facilities (e.g., radar, control towers)
+
+> *This includes radio towers, wireless transmitters, or any electronic equipment that could disrupt flight operations.*
+
+##### **(c) Uncontrolled Natural Growth**
+No person may:
+- Permit **natural vegetation** (e.g., trees, bushes, tall grass) to grow in a way that **penetrates** any of the following:
+  - Approach surface
+  - Outer surface
+  - Transitional surface
+  - Strip surface
+
+> *This ensures that vegetation does not create hazards during approach or takeoff, especially in critical zones.*
+
+##### **(d) Wildlife Attraction Restrictions**
+No person may:
+- Use or permit use of the **wildlife hazard zone** (Part 7 of the schedule) for activities that **attract birds or other wildlife** (e.g., open fields, feeding, hunting, or waste disposal), as such activities pose a **direct hazard to aviation safety**.
+
+> *Bird strikes are a major aviation risk, so this restriction aims to reduce the likelihood of such incidents.*
+
+##### **(e) Exception for Open Water Reservoirs**
+Despite the above restrictions, a person **may**:
+- Use or permit use of land in the wildlife hazard zone as a **site for an open water storage reservoir** for a **maximum of 48 hours**.
+
+> *This exception is limited in duration and scope, ensuring that short-term water storage does not compromise safety.*
+
+---
+
+#### **6. Surface Descriptions and Technical Details**
+
+##### **(a) Airport Reference Point (ARP)**
+- Coordinates: **587,398.59 E, 4,780,360.83 N**
+- Elevation: **230.00 m (CGVD28)**
+- Located at the intersection of the centerline of Strip Surface 06-24 and a 180 m southeasterly offset from its eastern end.
+
+##### **(b) Approach Surfaces**
+Each approach surface is an inclined plane extending from the ends of runways 06-24 and 12-30. Key details:
+
+| Approach Surface | Start Elevation | Gradient (First 3,000 m) | Gradient (Beyond 3,000 m) | Outer Edge Distance | Outer Edge Elevation |
+|------------------|------------------|----------------------------|----------------------------|----------------------|------------------------|
+| **06** | 228.30 m | 1:60 (1 m up per 60 m horizontal) | 1:50 | 3,000 m → 9,000 m | 170 m above start |
+| **24** | 230.30 m | 1:60 | 1:50 | 3,000 m → 15,000 m | 290 m above start |
+| **12** | 235.50 m | 1:60 | 1:50 | 3,000 m → 15,000 m | 290 m above start |
+| **30** | 233.30 m | 1:60 | 1:50 | 3,000 m → 15,000 m | 290 m above start |
+
+> *These surfaces ensure that aircraft approaching the runway have a clear visual and physical path, free from obstructions.*
+
+##### **(c) Outer Surface**
+- Maintains a **constant elevation of 45 m above the ARP** (i.e., 275.00 m at ARP)
+- However, **cannot fall below 9 m above ground level**
+- Covers a large area across Hamilton, bounded by major roads and property lines
+
+> *This creates a "no-development" zone around the airport, protecting against interference with radar and communications.*
+
+##### **(d) Transitional Surface**
+- Extends from the lateral edges of the strip and approach surfaces
+- Inclined upward from the edges of the strip surfaces
+- Designed to provide a buffer zone between the runway and the outer surface
+
+> *Prevents obstructions from forming in the lateral area near runways.*
+
+##### **(e) Wildlife Hazard Zone**
+- Defined in **Part 7 of the schedule**
+- Includes areas where bird activity is high
+- Activities that attract birds (e.g., open fields, feeding, waste) are prohibited
+
+> *This is a critical safety zone to prevent bird strikes, which can damage aircraft engines and cause crashes.*
+
+---
+
+#### **7. Legal and Operational Provisions**
+
+- **Enforcement Authority**: The regulations are enforceable by the **Minister of Transport**.
+- **Coming Into Force**: The regulations come into effect on the day the **conditions in subsection 5.6(2) of the Aeronautics Act** are met. These conditions typically involve formal approval processes, public consultation, and ministerial certification.
+- **Effective Date**: As noted in the note, these regulations were **in force as of October 12, 20

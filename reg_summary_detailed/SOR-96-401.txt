@@ -1,0 +1,126 @@
+### **Detailed Summary of the Trenton Airport Zoning Regulations**
+
+---
+
+#### **1. Legal Basis and Purpose**
+
+The **Trenton Airport Zoning Regulations** are established under **subsection 5.5(1)** and **paragraph 5.4(2)(b)** of the *Aeronautics Act* (R.S., c. 33 (1st Supp.), s. 1). These provisions authorize the Governor General in Council, on the recommendation of the Minister of National Defence, to adopt zoning regulations that ensure the safe operation of an airport by preventing incompatible land use near or adjacent to the airport.
+
+The primary objective of these regulations is to **protect aviation safety** by restricting land development and natural features in areas that could interfere with aircraft takeoff, landing, or approach — particularly through visual obstructions, bird hazards, or terrain-related risks.
+
+---
+
+#### **2. Regulatory Scope**
+
+- **Applicable Area**:  
+  The regulations apply to all lands **adjacent to or in the vicinity of Trenton Airport**, excluding lands that are part of the airport itself. This includes **public road allowances**.
+
+- **Outer Limits**:  
+  The boundaries of the regulated area are precisely defined in **Part VII of the Schedule**, using a detailed legal description and coordinate system (Universal Transverse Mercator Grid, Zone 18). The area extends from the Trent River to the northern outskirts of Trenton and into adjacent townships such as Sidney, Murray, Thurlow, Brighton, and Ameliasburgh.
+
+- **Geographic Coverage**:  
+  The regulated zone spans across:
+  - **City of Belleville**
+  - **City of Trenton**
+  - **Township of Sidney**
+  - **Township of Thurlow**
+  - **Township of Murray**
+  - **Township of Brighton**
+  - **Township of Ameliasburgh**
+
+---
+
+#### **3. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | Trenton Airport, located near the City of Trenton in the Township of Sidney, Ontario |
+| **Airport Zoning Reference Point (AZRP)** | A fixed point used as a datum for elevation measurements. Located at the southern end of runway 06-24, 1,290 meters along the runway centerline, then 80 meters southeasterly perpendicular to it. Elevation: **84 meters above sea level** |
+| **Strip** | A designated landing area associated with each runway. Includes runways and their side margins: <br> - Runway 06-24: 300 m wide (150 m on each side), 3,063.5 m long <br> - Runway 13-31: 150 m wide (75 m on each side), 1,052.3 m long |
+| **Approach Surfaces** | Imaginary inclined planes extending from each end of the strips to prevent obstructions during aircraft approaches. Defined by specific slopes and horizontal extensions:<br> - Runway 06: 1:60 → 1:50 slope, rises to 291 m above strip end elevation at 15,000 m horizontal distance<br> - Runway 24: Same as 06, rises to 291.4 m<br> - Runway 13: 1:40 slope, rises to 45 m at 1,800 m distance<br> - Runway 31: 1:40 slope, rises to 47 m at 1,880 m distance |
+| **Transitional Surface** | An inclined plane rising at a 1:7 slope (1 meter vertical per 7 meters horizontal) from the lateral edges of the strip and its approach surfaces, extending upward until it meets the outer surface or the transitional surface of an adjacent strip |
+| **Outer Surface** | An imaginary plane at a constant elevation of **45 meters above the AZRP** (i.e., 84 m + 45 m = 129 m above sea level). However, if this elevation is less than 9 meters above ground level, the surface is capped at **9 meters above ground** |
+
+---
+
+#### **4. Prohibited Activities and Restrictions**
+
+##### **(a) Building and Structure Prohibitions**
+- **No construction or addition** to any building, structure, or object is permitted on any land within the regulated zone **where the outer surface, approach surface, or transitional surface extends**.
+- The **highest point** of any structure must **not exceed the elevation** of the relevant surface at that location.
+
+##### **(b) Natural Growth Restrictions**
+- No owner or lessee may allow **natural vegetation** (e.g., trees, shrubs, hills) to grow above the elevation of any of the defined surfaces (outer surface, approach surface, transitional surface).
+
+##### **(c) Bird Hazard Prohibitions**
+To minimize **bird strikes** and other aviation hazards, the following land uses are **prohibited**:
+- Sanitary landfills  
+- Food garbage disposal sites  
+- Sewage lagoons  
+- Open water storage reservoirs  
+
+> **Exception**:  
+> Open water storage reservoirs **may be permitted** under the following conditions:
+> - Total surface area **does not exceed one hectare**  
+> - Water is not stored for **more than 48 hours**  
+
+> *Note*: This exception applies only to lands **not described in Part VIII or IX of the Schedule** (which may contain additional restrictions or exemptions).
+
+---
+
+#### **5. Regulatory Enforcement and Public Process**
+
+- The proposed regulations were **publicly published** in two successive issues of local newspapers:
+  - *Belleville Intelligencer* (Nov 27 & 28, 1995)
+  - *Trentonian* (Nov 27 & 29, 1995)
+  - *Brighton Independent* (Dec 12 & 19, 1995)
+- Also published in **Canada Gazette, Part I**, on July 2 and 9, 1994.
+- This ensured a **reasonable opportunity for public comment** and representation to the Minister of National Defence before final adoption.
+
+---
+
+#### **6. Geospatial Reference and Mapping**
+
+- All descriptions are based on the **Department of Public Works’ Trenton Airport Zoning Plan No. 12-011 84-33**, dated May 5, 1988.
+- The **Airport Zoning Reference Point (AZRP)** is referenced on **Sheet 23** of this plan.
+- All coordinates, distances, and bearings are in the **UTM Zone 18** system.
+- The **outer surface** and **approach surfaces** are illustrated in the plan and defined in precise geometric terms.
+
+---
+
+#### **7. Key Safety and Operational Considerations**
+
+- The **approach surfaces** are designed to ensure that aircraft can safely approach the runway without visual obstructions from terrain or structures.
+- The **transitional surfaces** provide a buffer zone between the strip and surrounding areas, reducing the risk of interference during approach or departure.
+- The **outer surface** acts as a boundary beyond which development is restricted to prevent interference with aircraft operations at any altitude.
+- The **1:60 to 1:50 and 1:40 slopes** reflect engineering standards for safe approach paths, with steeper slopes near the runway ends to reduce risk in critical approach zones.
+
+---
+
+#### **8. Exceptions and Flexibility**
+
+- The rules allow limited flexibility in **open water reservoirs**, recognizing that temporary or small-scale water storage may be necessary for agricultural or municipal purposes — provided it does not create long-term bird habitat or environmental risks.
+- The **exclusion of certain parcels** in Parts VIII and IX of the schedule indicates that some areas may have different zoning or exemptions (e.g., due to existing infrastructure or environmental sensitivity).
+
+---
+
+### **Conclusion**
+
+The **Trenton Airport Zoning Regulations** constitute a comprehensive and technically precise framework designed to **protect aviation safety** by:
+
+- Defining clear spatial boundaries around the airport  
+- Establishing elevation limits for all structures and natural growth  
+- Prohibiting high-risk land uses (especially those attracting birds)  
+- Providing flexibility for limited, short-term water storage  
+- Ensuring public participation through transparent publication and comment periods  
+
+These regulations are grounded in aviation safety principles, align with national aeronautical standards, and reflect a balance between community land use and operational safety at a key regional airport.
+
+---
+
+### **Citation**
+**Trenton Airport Zoning Regulations**  
+R.S., c. 33 (1st Supp.), s. 1  
+May be cited as: *Trenton Airport Zoning Regulations*  
+
+> *Note: This summary is based on the provided text and does not include interpretations beyond the statutory language.*

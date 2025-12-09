@@ -1,0 +1,78 @@
+**Detailed Summary of the Regulation: "Order Respecting the Calculation of the Moisture Shrinkage for Grain" (Canadian Grain Commission, August 16, 2018)**
+
+---
+
+**1. Regulatory Authority and Legal Basis**  
+This regulation is issued by the **Canadian Grain Commission (CGC)** under **paragraph 118(h) of the Canada Grain Act (R.S., c. G-10)**. This provision empowers the CGC to establish rules related to the calculation of moisture shrinkage in grain, particularly when grain is artificially dried at the request of the producer.
+
+---
+
+**2. Purpose of the Regulation**  
+The primary objective of this Order is to establish a **clear, standardized method** for calculating **moisture shrinkage** in grain that is artificially dried at a licensed primary or terminal elevator. Moisture shrinkage refers to the reduction in grain weight that occurs when grain is dried from a higher moisture content to a lower one. This is important for determining accurate weight and pricing, especially when grain is sold after drying, as the weight loss due to moisture removal affects the final delivered quantity.
+
+---
+
+**3. Formula for Calculating Moisture Shrinkage**  
+The percentage of moisture shrinkage is calculated using the following formula:
+
+\[
+\text{Moisture Shrinkage (\%)} = \left( \frac{M_{\text{before}} - M_{\text{after}}}{M_{\text{after}}} \right) \times 100
+\]
+
+Where:  
+- \( M_{\text{before}} \) = the grain’s percentage of moisture content **before** drying  
+- \( M_{\text{after}} \) = the grain’s percentage of moisture content **after** drying  
+
+This formula reflects the relative weight loss due to moisture removal, expressed as a percentage of the final (dried) moisture content.
+
+---
+
+**4. Minimum Moisture Content Requirement (Key Provision)**  
+A critical condition is specified in **element B** of the formula:  
+> The percentage of moisture shrinkage must be **no less than 0.1% below** the minimum moisture content specified for the **tough grade** of that grain in **Schedule I or II of the Off Grades of Grain and Grades of Screenings Order**.
+
+**Interpretation:**  
+- The regulation ensures that dried grain does not fall below the minimum moisture threshold required for the "tough" grade (a grade typically assigned to grain that is damp, moist, or wet and thus more prone to spoilage or damage).  
+- This provision acts as a **floor** to protect producers and grain handlers from being unfairly penalized for moisture loss that results in grain being below acceptable moisture levels.  
+- For example, if the tough grade minimum for a specific grain is 12.0%, the moisture shrinkage calculation must ensure that the post-drying moisture level is **at least 11.9%** (i.e., 0.1% below the minimum).
+
+---
+
+**5. Basis for Weight Calculation**  
+Moisture shrinkage must be calculated based on the **actual weight of the grain** recorded by the **elevator manager** at the time of delivery to the licensed primary or terminal elevator. This ensures:  
+- Transparency and accountability in the measurement process  
+- Use of an objective, verifiable data point (the delivered weight) rather than estimated or assumed values  
+- Compliance with established practices in grain handling and trade
+
+---
+
+**6. Scope of Application**  
+This Order applies specifically to:  
+- Grain that is **artificially dried** at the **request of the producer**  
+- At **licensed primary or terminal elevators**  
+- The grain must be **tough, damp, moist, or wet** in condition prior to drying  
+
+This means the regulation is not applicable to grain that is naturally dried (e.g., via air drying in fields) or to grain dried under non-producer-requested conditions.
+
+---
+
+**7. Effective Date**  
+The Order comes into force on the **day it is registered** with the appropriate regulatory authority. This ensures immediate legal effect upon publication and registration, providing clarity and enforceability for all stakeholders in the grain industry.
+
+---
+
+**8. Key Implications and Industry Impact**  
+- **Fair Pricing and Trade**: By standardizing moisture shrinkage calculation, the regulation ensures fair pricing for producers who request drying, preventing disputes over weight loss due to moisture reduction.  
+- **Quality Assurance**: The 0.1% threshold protects grain quality by ensuring that dried grain remains within acceptable moisture limits for the tough grade, reducing the risk of spoilage or downgrading.  
+- **Transparency and Compliance**: Elevators are required to record delivery weights and apply the formula consistently, promoting accountability and trust in the grain trade.  
+- **Regulatory Clarity**: Provides clear, actionable rules for both producers and elevator operators to follow when handling and pricing dried grain.
+
+---
+
+**Conclusion**  
+This regulation establishes a transparent, scientifically grounded, and protective framework for calculating moisture shrinkage in grain that is artificially dried at licensed elevators. By linking shrinkage to minimum moisture standards for tough grades and mandating accurate weight records, it promotes fairness, consistency, and quality in grain handling and trade across Canada. It is a key component of the Canadian Grain Commission’s efforts to ensure equitable and reliable grain market practices.
+
+---  
+*Regulatory Reference:*  
+Canada Grain Act, R.S., c. G-10, paragraph 118(h)  
+Off Grades of Grain and Grades of Screenings Order (Schedules I and II)

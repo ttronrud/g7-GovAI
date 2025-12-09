@@ -1,0 +1,139 @@
+### **Detailed Summary of the Toronto Island Airport Zoning Regulations (S.C. 1984, c. 40, s. 2)**
+
+---
+
+#### **1. Purpose and Authority**
+These regulations are enacted under **Section 6 of the Aeronautics Act**, by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Transport**.  
+- The regulations are formally titled: **"Toronto Island Airport Zoning Regulations"**.
+- Their primary objective is to **ensure aviation safety** at Toronto Island Airport by establishing strict **height and land-use restrictions** around the airport to prevent obstructions to aircraft during takeoff, landing, and approach phases.
+
+---
+
+#### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | Refers specifically to the Toronto Island Airport located on Toronto Island, within the City of Toronto and the Municipality of Metropolitan Toronto, Province of Ontario. |
+| **Airport Reference Point (ARP)** | A fixed reference point used to establish elevation and spatial coordinates. It is located 35 meters northerly at right angles from a point 610 meters easterly along the centerline of runway 08–26. |
+| **Approach Surface** | An imaginary inclined plane extending from each end of a runway strip (runway 08–26). These surfaces define the maximum allowable height for structures near the runway ends during approach. |
+| **Outer Surface** | An imaginary horizontal plane at **76 meters above sea level** (or 9 meters above ground if lower), forming the upper boundary of the zone. This ensures that no structure exceeds a safe altitude above the airport reference point. |
+| **Strip** | The main landing area of the airport, specifically the **runway 08–26**, measuring **150 meters in width** (75 meters on each side of the centerline) and **1,280 meters in length**. |
+| **Transitional Surface** | An inclined plane rising from the lateral edges of the strip and its approach surfaces, extending upward to meet the outer surface. This ensures a smooth transition from the runway edges to the outer safety zone. |
+
+> **Assigned Elevation of ARP**: 76 meters above sea level.
+
+---
+
+#### **3. Scope of Application**
+The regulations apply to **all lands**, including public road allowances, **adjacent to or in the vicinity of the airport**, as precisely defined in **Part VI of the schedule**.
+
+The boundary of the regulated zone is described in detail using **Universal Transverse Mercator (UTM) coordinates** and directional bearings (azimuths), forming a complex, geometric boundary that encompasses areas surrounding the airport. This boundary includes:
+- The airport reference point,
+- Runway ends,
+- Approach surfaces,
+- Transitional surfaces,
+- And surrounding land parcels.
+
+The zone is designed to protect critical flight paths and ensure visibility and clearance for aircraft.
+
+---
+
+#### **4. Height Restrictions (Prohibited Construction)**
+
+**No person may erect, construct, or add to any building, structure, or object on regulated land if the highest point of that object exceeds any of the following surfaces:**
+
+1. **Approach Surface** – for each end of the runway (08 and 26).
+2. **Outer Surface** – a flat surface at 76 m above sea level (or 9 m above ground if the ground is lower).
+3. **Transitional Surface** – rising from the sides of the strip and approach surfaces to meet the outer surface.
+
+> This means that **all structures (buildings, trees, towers, antennas, etc.) must remain below the specified surfaces** to prevent interference with aircraft operations.
+
+---
+
+#### **5. Management of Natural Growth**
+
+- If **natural growth** (e.g., trees, shrubs, vines) on regulated land **exceeds** any of the above-mentioned surfaces, the **Minister of Transport may issue a direction** requiring the **owner or occupier** to remove the excessive growth.
+- This provision ensures that even vegetation does not pose a hazard to aircraft.
+
+---
+
+#### **6. Prohibition on Bird-Attractive Waste Disposal**
+
+- **No owner or occupier** of regulated land may allow the land to be used for the **disposal of waste that is edible or attractive to birds**.
+- This is a critical measure to **prevent bird strikes**, which are a major aviation safety risk.
+
+---
+
+#### **7. Description of Key Surfaces (Detailed)**
+
+##### **A. Airport Reference Point (ARP)**
+- Located 35 meters north of a point 610 meters east along the centerline of runway 08–26.
+- UTM Coordinates: **N 4,831,752.70; E 629,357.45**
+
+##### **B. Approach Surfaces**
+- **Runway 08 Approach Surface**:
+  - Inclined plane with 1:50 slope (1 meter rise per 50 meters horizontal).
+  - Rises to a horizontal line 7,927 meters from the end of the strip.
+  - Outer ends of this line are 1,264.05 meters from the centerline.
+  - The horizontal line is **158.54 meters above** the elevation at the end of the strip.
+
+- **Runway 26 Approach Surface**:
+  - Inclined plane with 1:20 slope (1 meter rise per 20 meters horizontal).
+  - Same horizontal distance (7,927 meters) from the end of the strip.
+  - Outer ends are also 1,264.05 meters from the centerline.
+  - The horizontal line is **396.35 meters above** the elevation at the end of the strip.
+
+> These surfaces are designed to provide **clearance for aircraft during final approach**, especially in the critical final 10–20 km before landing.
+
+##### **C. Outer Surface**
+- A flat surface at **76 meters above sea level**.
+- **Exception**: Where the ground elevation is less than 9 meters, the outer surface is defined as **9 meters above ground level**.
+- This ensures that even on low-lying terrain, the height restriction is not violated.
+
+##### **D. Transitional Surfaces**
+- Inclined planes rising at a **1:7 slope** (1 meter vertical rise per 7 meters horizontal).
+- Extend from the **lateral edges of the strip and approach surfaces** to meet the outer surface.
+- These surfaces ensure that the height restriction smoothly transitions from the runway edges to the outer safety zone.
+
+---
+
+#### **8. Boundary Description (Key Land Parcel)**
+
+The regulated land boundary is defined by a precise sequence of bearings and distances from the ARP, using UTM coordinates. Key segments include:
+
+1. Start at the ARP.
+2. Move 35 meters on azimuth 160°11′36″ to the centerline of runway 08–26.
+3. Proceed 640 meters west along the centerline to the western edge of the strip.
+4. Move 607 meters on azimuth 340°11′36″ to the northern limit of the northern transitional surface.
+5. Continue east along the northern limit of the northern transitional surface (azimuth 70°11′36″) to 1,280 meters.
+6. Proceed to the intersection with the northern limit of the 26 approach surface.
+7. Continue east along the northern limit of approach surface 26 (azimuth 61°39′45″) to its northeast corner.
+8. Travel south along the eastern limit of approach surface 26 (azimuth 160°11′36″) to its southeast corner.
+9. Move west along the southern limit of approach surface 26 (azimuth 258°43′27″) to an arc of 4,000 meters from ARP.
+10. Follow a circular arc (radius 4,000 meters) to intersect the southern limit of the southern transitional surface.
+11. Proceed west along the southern limit of the southern transitional surface to its intersection with the southern limit of approach surface 08.
+12. Travel west along the southern limit of approach surface 08 to its southwest corner.
+13. Move north along the western limit of approach surface 08 (azimuth 340°11′36″) to its northwest corner.
+14. Proceed east along the northern limit of approach surface 08 (azimuth 78°43′27″) to intersect the northern limit of the northern transitional surface.
+15. Finish by continuing east along the northern limit of the northern transitional surface back to the starting point.
+
+> This creates a **closed, irregular polygon** that defines the full area subject to height and land-use controls.
+
+---
+
+#### **9. Enforcement and Compliance**
+
+- The **Minister of Transport** has the authority to:
+  - Issue **directions** requiring removal of excessive natural growth.
+  - Enforce compliance with height limits and waste disposal rules.
+- Violations could result in **fines, demolition orders, or legal action**.
+
+---
+
+#### **10. Significance and Impact**
+
+- These regulations are a **critical component of aviation safety infrastructure** in Canada.
+- They ensure that:
+  - Aircraft have **clear visual and physical access** to the runway during takeoff and landing.
+  - There are **no obstructions** (natural or man-made) that could interfere with flight paths.
+  - The risk of **bird strikes** is minimized by

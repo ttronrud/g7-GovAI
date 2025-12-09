@@ -1,0 +1,156 @@
+### **Detailed Summary of the Family Support Orders and Agreements Garnishment Regulations**
+
+---
+
+#### **1. Regulatory Background and Purpose**
+
+The *Family Support Orders and Agreements Garnishment Regulations* (commonly referred to as the **Garnishment Regulations**) were made under **section 61 of the Family Orders and Agreements Enforcement Assistance Act (FOAEAA)**, on the recommendation of the Minister of Justice. These regulations came into force on the day that **Part II of the FOAEAA became effective** (originally enacted in 1986, as S.C. 1986, c. 5).
+
+**Purpose**:  
+To establish the rules governing the **garnishment of federal government moneys** to satisfy **family support obligations**, such as child support, spousal support, or other financial provisions ordered by a court or included in a family agreement.
+
+These regulations provide a clear framework for how federal income and benefits can be subject to garnishment when a person is liable for unpaid family support, while also protecting certain types of payments and ensuring procedural fairness.
+
+---
+
+#### **2. Key Definitions and Scope**
+
+- **"Act"** refers to the *Family Orders and Agreements Enforcement Assistance Act*.
+- **"Garnishable moneys"** are defined in **subsection 23(1)** of the Act and are limited to specific federal income and benefit programs, as listed below.
+
+---
+
+#### **3. Designated Garnishable Moneys (Under Section 3)**
+
+The following federal programs and provisions are designated as **garnishable**, **provided they meet specific exclusions**:
+
+| Program / Act | Relevant Provision(s) | Key Exclusions |
+|-------------|------------------------|----------------|
+| **Income Tax Act** | Sections 164 and 216 | Excludes **subsection 164(1.4)** when it applies to amounts excluded by provincial income tax law from garnishment |
+| **Excise Tax Act** | Section 253 | Applies to employee or partner rebates (e.g., tax rebates) |
+| **Department of Employment and Social Development Act** | Section 7 | Grants and contributions under: <br> - Skills Link program <br> - Apprenticeship Incentive Grant <br> - Apprenticeship Completion Grant |
+| **Wage Earner Protection Program Act** | Entire Act | Excludes fees/expenses paid to trustees or receivers under subsection 22(2) |
+| **Employment Insurance Act** | Entire Act | Excludes benefits paid on behalf of a beneficiary to a province or municipality |
+| **Canada Pension Plan (CPP)** | Entire Act | Excludes: <br> - Benefits to children of disabled contributors (para. 44(1)(e)) <br> - Orphan benefits (para. 44(1)(f)) <br> - Amounts deducted and paid to provincial governments under subsection 65(2) |
+| **Old Age Security Act (OAS)** | Sections 3, 11, 19, 21 | Excludes amounts deducted and paid to provinces under subsection 36(2) |
+| **Department of Social Development Act** | Section 7 | Grants under the **Opportunities Fund for Persons with Disabilities** (note: this provision was repealed in 2011, SOR/2011-189, s.1) |
+
+> ⚠️ **Note**: Several of these designations were **repealed or amended** over time:
+> - The reference to the Department of Social Development Act (Opportunities Fund) was **repealed in 2011**.
+> - A provision related to the garnishment period (previously 35 days) was **repealed in 2014** (SOR/2014-101, s.3).
+
+Thus, **only the currently active programs** listed above are subject to garnishment under the current version of the Regulations.
+
+---
+
+#### **4. Priority of Garnishment (When Multiple Payments Are Due)**
+
+- If a judgment debtor becomes due to receive **two or more garnishable moneys** on the **same day**, they shall be garnished **in the order** in which the relevant provisions are listed in **Section 3** of the Regulations.
+- Example: If both CPP and OAS payments are due on the same day, CPP comes first due to its position in the list.
+
+> This ensures a **clear hierarchy** in the enforcement of garnishments, preventing ambiguity in priority.
+
+---
+
+#### **5. Continuity of Garnishment When Additional Payments Become Due**
+
+- If **additional garnishable moneys** become payable to a debtor **after** a garnishment is already in effect, the **existing garnishments continue to have priority**.
+- The new moneys are not garnished until the existing ones are fully satisfied.
+- This prevents a debtor from being "double-garnished" or having their payments disrupted by new obligations.
+
+> This rule protects the **integrity of existing enforcement actions** and ensures consistency in the payment process.
+
+---
+
+#### **6. Form of Application to Garnishee (Schedule 1)**
+
+- For **paragraph 28(c)** of the FOAEAA, the application to garnishee must be submitted in the **form set out in Schedule 1**.
+- This form includes:
+  - Declaration of truthfulness of information
+  - Name and signature of the applicant (declarant)
+  - Department of Justice reference number
+  - Date
+  - Details of the garnishee summons (court or entity that issued it)
+  - Account number
+  - Amounts owed: arrears and periodic payments
+  - Statement that federal moneys under designated programs may be garnished
+  - Contact information for the court or issuing authority
+
+> This standardized form ensures **clarity, transparency, and legal compliance** in initiating garnishment proceedings.
+
+---
+
+#### **7. Service of Documents on the Minister of Justice**
+
+- Service of documents (e.g., garnishee summons) on the **Minister of Justice** must be done in one of the following ways:
+  1. **In accordance with the law of the province** where the court that issued the summons is located.
+  2. **By registered mail** to:
+     > Department of Justice  
+     > Family Orders and Agreements Enforcement Assistance Unit  
+     > Ottawa, Ontario  
+     > K1A 0H8  
+  3. **By electronic communication**, if such a method has been **agreed upon** between the provincial enforcement service and the Department of Justice.
+
+> This ensures **efficient and legally valid service** of documents, even across provincial boundaries.
+
+---
+
+#### **8. Timeframe for Minister’s Response (Section 41)**
+
+- The **Minister of Justice** must respond to a garnishee summons **within 20 days** of receiving the documents (as per section 28 of the Act).
+- This response is required **to confirm or deny** the validity of the garnishment or to initiate further processing.
+
+> This establishes a **clear timeline** for administrative review and ensures timely processing of garnishment applications.
+
+---
+
+#### **9. Notice to the Judgment Debtor (Section 45)**
+
+- Once the Minister has received the summons, they must issue a **notice to the judgment debtor** within **20 days**.
+- The notice must be in the form set out in **Schedule 2**.
+- It must be sent to **all addresses** provided in the original application to garnishee.
+
+> This ensures the debtor is **fully informed** of the garnishment and has an opportunity to respond or challenge it.
+
+---
+
+#### **10. Processing Fee and Recovery Rules**
+
+- A **processing fee of $38 per year** is charged to the judgment debtor for each year during which the garnishee summons is **binding on Her Majesty**.
+- The fee is **only recoverable in the year** it becomes payable.
+- If:
+  - The garnishment ends before the end of the year, or
+  - The debtor is no longer bound by the summons during the year,
+  → The fee (or part thereof) is **remitted** (refunded).
+
+> This protects debtors from being charged for unused or terminated garnishments and ensures **fairness in cost recovery**.
+
+> Example: If a garnishment is issued on January 1, 2024, and ends on June 30, 2024, the $38 fee is only charged for the first 6 months (pro-rated), and the remainder is refunded.
+
+---
+
+#### **11. Protection of Federal Payments**
+
+- The Regulations **do not apply to all federal benefits**. Specific exclusions exist for:
+  - CPP benefits to children of disabled contributors
+  - Orphan benefits
+  - OAS deductions to provinces
+  - Certain tax rebates and grants (with exceptions)
+
+> These exclusions are designed to **protect vulnerable populations** and ensure that essential benefits are not unnecessarily seized.
+
+---
+
+#### **12. Continuity of Older Rules (Section 10–12)**
+
+- Sections 10 to 12 of the FOAEAA, as they existed **immediately before the Regulations came into force**, **continue to apply** to any garnishee summons served **before that date**.
+- These rules remain in effect **until the next anniversary** of the day the summons became binding on Her Majesty.
+
+> This provides **legal continuity** for ongoing cases and avoids disruption in long-standing enforcement actions.
+
+---
+
+#### **13. Garnishment Process Flow (Summary)**
+
+1. A court or provincial entity issues a **garnishee summons** for family support.
+2.

@@ -1,0 +1,154 @@
+### **Detailed Summary of the Onshore Pipeline Regulations, 1999**
+
+The **Onshore Pipeline Regulations, 1999**, made under **subsection 48(2) of the National Energy Board Act**, are a comprehensive regulatory framework established by the **National Energy Board (NEB)** — now succeeded by the **Canadian Energy Regulator (CER)** — to ensure the **safety, security, and environmental protection** of onshore hydrocarbon pipelines in Canada. These regulations came into force on **May 26, 1999**, and apply to all onshore pipelines designed, constructed, operated, or abandoned after that date.
+
+---
+
+## **1. Regulatory Context and Authority**
+
+- The regulations were issued by the **National Energy Board** under its statutory authority under **subsection 48(2)** of the *National Energy Board Act*.
+- The **Governor in Council**, acting on the recommendation of the **Minister of Natural Resources**, formally approved the regulations.
+- The regulations are part of a broader regulatory regime under the **Canadian Energy Regulator Act (Act)**, which governs energy infrastructure, including pipelines.
+
+---
+
+## **2. Scope and Applicability**
+
+### **Applicable Entities and Activities**
+- The regulations apply to:
+  - Onshore pipelines (pipelines not located in offshore areas).
+  - Activities including **design, construction, operation, maintenance, repair, deactivation, and abandonment** of such pipelines.
+- **Exclusions**:
+  - Does **not apply** to hydrocarbon processing plants, which are governed by separate regulations — the *Canadian Energy Regulator Processing Plant Regulations*.
+  - Does **not apply** to pipelines or parts of pipelines that:
+    - Existed prior to the coming into force of these regulations; or
+    - Had an authorization to construct, maintain, or repair issued **on or before** the regulation’s effective date.
+
+> **Effective Date Principle**: Only pipelines designed, constructed, operated, or abandoned *after May 26, 1999* are subject to these rules.
+
+---
+
+## **3. Key Definitions**
+
+The regulations define critical terms used throughout the document:
+
+| Term | Definition |
+|------|-----------|
+| **Abandon** | Permanent cessation of operations leading to discontinuance of service. |
+| **Decommission** | Temporary removal from service (not resulting in service discontinuation). |
+| **Deactivate** | Temporary removal from service. |
+| **Change of Service** | Switching fluid types requiring updates to design per **CSA Z662**. |
+| **Class Location** | As defined in **CSA Z662**, indicating hazard level (e.g., high-traffic areas). |
+| **Component** | Any part of the pipeline system (e.g., valves, fittings). |
+| **CSA Standards** | Key standards referenced: Z662 (pipeline design), Z276 (LNG), Z341 (underground storage), Z246.1 (security). |
+| **Incident** | Includes death, serious injury, environmental harm, uncontrolled releases, or operation beyond design limits. |
+| **Serious Injury** | Includes amputation, third-degree burns, blindness, internal bleeding, unconsciousness, etc. |
+| **Release** | Any discharge, spill, leak, or emission of hydrocarbons. |
+| **Toxic Substance** | Any substance that poses immediate or long-term danger to environment or human health. |
+| **Station** | Facilities such as pumping, compression, storage, metering, or delivery points. |
+| **Storage Facility** | Includes land and associated infrastructure for storing oil. |
+| **Operate** | Encompasses repair, maintenance, deactivation, reactivation, and decommissioning. |
+
+---
+
+## **4. Compliance with Standards**
+
+A company must ensure that its pipeline design, construction, operation, or abandonment complies with:
+
+- **CSA Z662** – For all pipelines transporting **liquid or gaseous hydrocarbons**.
+- **CSA Z276** – If transporting **liquefied natural gas (LNG)**.
+- **CSA Z341** – For **underground hydrocarbon storage**.
+- **CSA Z246.1** – For **security management** of all pipelines.
+
+> **Hierarchy of Standards**: If there is a conflict between these regulations and a referenced CSA standard, **the Regulations prevail**.
+
+> **Design Approval Process**: For any design, specification, program, manual, or procedure not covered by a standard, the company must submit it to the **Regulator for approval**.
+
+> **Approval Criteria**:
+> - Must provide at least the same level of safety as a comparable CSA standard, or
+> - If no comparable standard exists, must provide an **adequate level of safety** in the specific context.
+
+---
+
+## **5. Management System Requirements**
+
+This is the **core of the regulation** — a mandatory **comprehensive safety and environmental management system** that companies must establish and maintain.
+
+### **Key Requirements of the Management System**:
+
+#### a. **Structure and Scope**
+- Must be **explicit, comprehensive, and proactive**.
+- Must integrate operational activities with **human and financial resources**.
+- Must cover all aspects of pipeline lifecycle: **design, construction, operation, maintenance, abandonment**.
+- Must ensure **coordination among programs** (e.g., hazard identification, training, emergency response).
+
+#### b. **Implementation Timeline**
+- Must be established **within 90 days** of receiving a certificate or order to construct or operate a pipeline.
+
+#### c. **Appointing an Accountable Officer**
+- A designated **accountable officer** must be appointed to oversee compliance with the management system and all regulatory obligations.
+- The officer must:
+  - Submit a **signed statement of acceptance** of responsibilities within **30 days** of appointment.
+  - Have **authority over human and financial resources** needed to implement the system.
+  - Ensure activities are conducted safely and in compliance.
+
+#### d. **Policies and Goals**
+- Must establish documented **policies and goals**, including:
+  - A policy for **internal reporting of hazards, incidents, and near-misses** — with **immunity from disciplinary action** under certain circumstances (e.g., reporting unsafe conditions).
+  - Goals for preventing:
+    - Ruptures
+    - Liquid/gas releases
+    - Fatalities and injuries
+    - Incidents and emergencies
+
+#### e. **Organizational Structure**
+- Must have a **clear, documented organizational structure** that:
+  - Defines roles, responsibilities, and authority at all levels.
+  - Demonstrates annually that allocated human resources are sufficient to meet obligations.
+
+---
+
+## **6. Required Processes and Systems**
+
+The company must implement a full suite of internal processes to manage safety, security, and environmental protection. These include:
+
+| Process | Purpose |
+|--------|--------|
+| **Hazard Identification & Risk Assessment** | Identify and analyze all hazards and potential hazards (normal and abnormal conditions). Maintain an inventory. |
+| **Risk Evaluation** | Assess risks associated with identified hazards. |
+| **Control Implementation** | Develop and enforce controls to prevent, manage, and mitigate risks. Communicate controls to affected personnel. |
+| **Legal Compliance Monitoring** | Identify, track, and manage all applicable legal requirements (safety, security, environment). Maintain a list. |
+| **Change Management** | Monitor and manage changes that could affect safety, security, or environment — including design changes, procedures, or organizational shifts. |
+| **Competency & Training** | Develop training programs and verify employee competence. Supervise performance. |
+| **Communication Processes** | Ensure internal and external communication of safety, security, and environmental information. |
+| **Document Management** | Identify, prepare, review, revise, and control all required documents. Obtain approval from the Regulator where necessary. |
+| **Record Keeping** | Generate, retain, and maintain records of system implementation. Provide access to authorized personnel. |
+| **Coordination of Operations** | Ensure employees are aware of others’ activities and have necessary information to perform safely. |
+| **Internal Reporting & Corrective Action** | Encourage reporting of hazards, incidents, near-misses; take corrective and preventive actions, including for **imminent hazards**. |
+| **Data Management System** | Monitor and analyze trends in incidents, hazards, and near-misses. |
+| **Contingency Planning** | Develop plans for abnormal events during construction, operation, maintenance, or emergencies. |
+| **Inspection & Monitoring** | Regularly inspect and monitor activities/facilities; take corrective actions if deficiencies are found. |
+| **Performance Evaluation** | Evaluate the effectiveness of the management system and performance against goals. |
+| **Quality Assurance Program** | Conduct audits (as per section 53) and take corrective actions if deficiencies are identified. |
+| **Annual Management Review** | Conduct an annual review of the management system and programs to ensure **continual improvement**. |
+
+> A "process" includes all necessary procedures to implement it. All processes must be **documented**.
+
+---
+
+## **7. Annual Reporting and Compliance Monitoring**
+
+- A company must prepare and submit an **annual report** signed by the **accountable officer** by **April 30** each year.
+- The report must describe:
+  1. Performance in achieving goals, objectives, and targets (evaluated using performance measures).
+  2. Effectiveness of the management system (evaluated through internal review processes).
+  3. Actions taken to correct deficiencies identified in the **quality assurance program**.
+
+> This ensures **transparency, accountability, and continuous improvement**.
+
+---
+
+## **8. Specific Design and Construction Requirements**
+
+### **Risk Assessment for High-Vapour-Pressure (HVP) Pipelines**
+- For HVP

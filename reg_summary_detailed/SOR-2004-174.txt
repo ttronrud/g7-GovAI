@@ -1,0 +1,149 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the *Air Canada Pension Plan Solvency Deficiency Funding Regulations*, based on the provided text. This summary explains the purpose, key provisions, definitions, timelines, and legal framework of the regulations in clear, accessible language.
+
+---
+
+## 📝 **Detailed Summary of the Air Canada Pension Plan Solvency Deficiency Funding Regulations**
+
+### 🔹 **1. Purpose and Legal Basis**
+These regulations were enacted by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, under specific provisions of the *Pension Benefits Standards Act, 1985* (PBSA):
+
+- **Subsection 2(1)** – Definition of "surplus"
+- **Subsection 9(1)** – Definition of solvency deficiency
+- **Paragraph 10.1(2)(b)(b)** – Solvency ratio requirements
+- **Section 39c** – Funding of solvency deficiencies
+
+The primary objective is to **fund solvency deficiencies** in the **Air Canada Pension Plan (Air Canada Pension Plan or "plan")** — a defined benefit pension plan administered by Air Canada — that emerged as of **January 1, 2004**, and to establish a structured, transparent, and legally compliant method for funding these deficiencies.
+
+---
+
+### 🔹 **2. Scope of Application**
+- Applies **only to Air Canada pension plans** established **before January 1, 2004**.
+- The plan must be administered by Air Canada.
+- These regulations are **not applicable to other pension plans** or to plans established after January 1, 2004, unless a new deficiency arises post-2004.
+
+---
+
+### 🔹 **3. Key Definitions**
+| Term | Meaning |
+|------|--------|
+| **Air Canada Pension Plan (Plan)** | A defined benefit pension plan administered by Air Canada, established before January 1, 2004. |
+| **Beneficiary Representative** | A union representative or court-appointed representative of plan members or beneficiaries. |
+| **Initial Order** | The order issued on **April 1, 2003**, under the *Companies’ Creditors Arrangement Act (CCAA)*, which governed Air Canada’s insolvency proceedings. |
+| **Initial Solvency Deficiency** | The solvency shortfall of the plan as of **January 1, 2004** — the point at which the plan’s liabilities exceeded its assets. |
+| **Protocol** | The *Air Canada / OSFI Pension Funding Relief Protocol* signed on **May 14, 2004**, between Air Canada and the Office of the Superintendent of Financial Institutions (OSFI). This protocol sets out the terms for funding the solvency deficiency. |
+
+> All other terms used in the regulations have the same meaning as in the *Pension Benefits Standards Regulations, 1985*, unless otherwise defined.
+
+---
+
+### 🔹 **4. Conditions for Funding a Solvency Deficiency**
+To fund a solvency deficiency (initial or subsequent), the following documents must be filed with the **Superintendent of Financial Institutions (OSFI)** **not later than the day the initial order expires**:
+
+1. **Actuarial Report**  
+   – Values the plan as of **January 1, 2004**.
+
+2. **Statement by Air Canada**  
+   – Confirming that **beneficiary representatives** have consented to funding the deficiency under these regulations.
+
+3. **Certified Board Resolution**  
+   – From Air Canada’s board of directors, agreeing to fund the deficiency under these regulations.
+
+4. **Copy of Promissory Note**  
+   – Issued under the Protocol (Section 4 of the Protocol).
+
+5. **Copy of Security Agreement**  
+   – Referenced in paragraph 5(b) of the Protocol.
+
+6. **Confirmation of Contributions**  
+   – That **normal cost contributions** and any **special payments** (as per Protocol paragraph 11(c)) have been remitted to the pension fund **on or before the regulations come into force**.
+
+---
+
+### 🔹 **5. Exemptions from Certain PBSA Provisions**
+If the required information is filed, the plan is **exempt from subsections 8(1) and (8)(2)** of the PBSA for the following:
+
+- Any **special payments, employer contributions, or other amounts** accrued or due **before January 1, 2004**.
+- The **principal outstanding amount** of the promissory note (under Section 4 of the Protocol) if it becomes due and payable due to an **event of default**.
+
+> ⚠️ **Important Note**: The plan is **not exempt** from subsections 8(1) and (2) for any special payments, contributions, or amounts that arise **under these regulations**.
+
+---
+
+### 🔹 **6. Application of Section 9 of the PBSA**
+- **Section 9** of the PBSA (which governs solvency standards) applies to the plan **except as otherwise provided in these regulations**.
+- For the purpose of calculating solvency deficiency:
+  - **Paragraph (a)**: The value of assets is based on **market value**.
+  - **Paragraph (d)**: The present value of **special payments made before January 1, 2004**, and of **special payments required to cover an initial unfunded liability as of January 1, 2004**, is **zero**.
+  - **New additions to paragraph (d)**:
+    - The present value of any special payment required under **Sections 9 or 13** of these regulations.
+    - The present value of any special payment required during the period **January 2, 2004 – December 31, 2013** for an initial unfunded liability emerging **after January 1, 2004**.
+
+> This means that **future special payments under these regulations are counted in solvency deficiency calculations**.
+
+---
+
+### 🔹 **7. Exemption from Subsection 9(7.1)**
+- **Subsection 9(7.1)** of the PBSA (which normally applies to special payments) **does not apply** to plans funded under these regulations.
+- This provides **flexibility** in how special payments are treated for solvency compliance.
+
+---
+
+### 🔹 **8. Calculation of Initial Solvency Deficiency**
+- The initial solvency deficiency is calculated **as if** the special payments under **paragraph 11(c) of the Protocol** had been **remitted on December 31, 2003**.
+- This adjustment ensures that the deficiency reflects a more realistic scenario, avoiding a timing mismatch.
+
+> The **solvency ratio** as of January 1, 2004 is then calculated **after** this adjusted deficiency is determined.
+
+---
+
+### 🔹 **9. Funding Schedule and Annual Special Payments**
+- The initial solvency deficiency must be funded over a **10-year period**, from the **2004 plan year to the 2013 plan year**.
+- Each year, a **special payment** is required to be made to the pension fund.
+- The **amount** of each annual special payment is determined as follows:
+
+#### Formula:
+> **Annual Special Payment** =  
+> (Adjusted Aggregate Amount for the Plan Year) ×  
+> (Initial Solvency Deficiency of the Plan / Aggregate Initial Solvency Deficiencies of All Plans)
+
+---
+
+#### What is the "Adjusted Aggregate Amount"?
+- Based on the **unadjusted aggregate amount** (from a schedule) multiplied by:
+  - **One**, or
+  - The **ratio of total initial solvency deficiencies** of all plans to the **sum of the present values** (as of Jan 1, 2004) of each unadjusted aggregate amount.
+
+> This ensures that plans with larger initial deficits are not disproportionately burdened.
+
+---
+
+#### Special Adjustment Rule (2004 Plan Year Only)
+- If the adjusted aggregate amount for **2004** is **less than** the result of:
+  > (Assumed interest rate used in liability valuation) × (Total initial solvency deficiencies),
+  
+  then:
+  - The **2004 adjusted amount** is set to that result.
+  - The **adjusted amounts for 2006, 2007, and 2008** are **reduced by the same amount** to maintain the **same total present value** of payments as if the adjustment had not been made.
+
+> This prevents overfunding in early years and ensures consistency in long-term financial impact.
+
+---
+
+### 🔹 **10. Payment Schedule and Timelines**
+- Air Canada must submit a **payment schedule** to the Superintendent **within 14 days** after the **expiration of the initial order**.
+- The schedule must show the **annual special payment** for each of the 10 years (2004–2013).
+
+---
+
+### 🔹 **11. Payment of 2004 Annual Special Payment (Two Installments)**
+- The 2004 payment is split into two installments:
+  - **First installment (75%)**: Due by the **later of**
+    - October 30, 2004, or
+    - 30 days after the regulations come into force.
+  - **Second installment (25%)**: Due by **January 30, 2005**.
+
+> This phased payment allows for better financial planning and compliance.
+
+---
+
+### 🔹 **

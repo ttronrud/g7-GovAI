@@ -1,0 +1,160 @@
+**Detailed Summary of the *Annuities Agents Pension Regulations***
+
+---
+
+### **1. Title and Citation**
+The regulations are officially titled the **Annuities Agents Pension Regulations** and may be cited as such. These regulations establish a pension scheme for individuals who served as agents of the Minister of Employment and Immigration under the Government Annuities Act, specifically those engaged in selling government annuities on a full-time basis.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **a(f) Ultimate and a(f) and a(m) Ultimate Tables** | Mortality tables from the 1924 publication *Mortality of Annuitants 1900–1920*, published by the Institute of Actuaries and the Faculty of Actuaries in Scotland. Used for actuarial calculations of annuities and life expectancies. |
+| **Agent** | A person employed full-time by the Minister of Employment and Immigration to sell government annuities, who was under 65 years of age at the time of hiring. |
+| **Annuity** | A pension computed under Section 7 of the Government Annuities Act. |
+| **Contributor** | An agent or former agent to whom or in respect of whom an annuity or benefit is payable under these regulations. |
+| **Current Service** | Service performed on or after October 1, 1961 (the effective date), including authorized leaves of absence during which contributions are paid. |
+| **Deferred Annuity** | An annuity payable only when the contributor reaches age 65. |
+| **Disabled** | Incapable of pursuing any substantially gainful occupation. |
+| **Earnings** | Commissions earned by agents, determined according to scales approved by the Minister of Employment and Immigration. |
+| **Effective Date** | October 1, 1961 — the date from which current service begins and past service is separated. |
+| **Immediate Annuity** | An annuity payable immediately upon entitlement. |
+| **Minister** | The President of the Treasury Board (the governing authority overseeing the pension fund). |
+| **Misconduct** | Wilful disobedience of statutory or regulatory duties, malversation, or abandonment of office — grounds for termination and loss of benefits. |
+| **Past Service** | Service performed before October 1, 1961. |
+| **Public Service** | As defined in the Public Service Superannuation Act. |
+| **Recipient** | A person to whom a benefit has become payable. |
+| **Return of Contributions** | Full refund of contributions made to the Annuities Agents Pension Account, without interest. |
+| **Service** | Performance of duties assigned by the Minister, including military service during WWII (which counts as service). |
+
+---
+
+### **3. Establishment of the Pension Account**
+
+- A dedicated account, the **Annuities Agents Pension Account**, is established within the **Consolidated Revenue Fund**.
+- All contributions and benefits are managed through this account.
+
+---
+
+### **4. Contribution Requirements**
+
+- Every agent must contribute **5% of their annual earnings** from **current service** (i.e., service on or after October 1, 1961).
+- Contributions are **automatically deducted from earnings** (reserved from earnings).
+
+---
+
+### **5. Interest and Funding Mechanism**
+
+Each fiscal year, on the last day of each quarter (June, September, December, March), the following amounts are credited to the account:
+
+1. **Interest**:  
+   - 1% annual interest calculated on the balance at the end of the preceding quarter.  
+   - This interest is applied to the **current service balance**.
+
+2. **Cost Coverage**:  
+   - An amount determined by the **Minister of Finance** to cover the cost of benefits due to **current service contributors**.  
+   - An estimated amount to cover the cost of benefits due to **past service contributors**.
+
+> *Note:* The interest and funding are designed to ensure the financial sustainability of the pension system.
+
+---
+
+### **6. Calculation of Annual Earnings (for benefit determination)**
+
+For determining annuity amounts, **average annual earnings** are calculated as follows:
+
+- If the contributor has **at least 6 years of past service** before turning 65:  
+  → Average of earnings over the **six years immediately preceding age 65**.
+
+- If the contributor has **less than 6 years of past service** before age 65:  
+  → Average of earnings during the **entire period of past service**.
+
+- If the contributor had **less than 6 years of past service before age 65** but now has **6+ years total past service**:  
+  → Average of earnings during the **first 6 years of past service**.
+
+---
+
+### **7. Annuity Payment Formula**
+
+The total annuity payable is the sum of two components:
+
+#### **A. Current Service Component**
+- 1.5% of annual earnings **not exceeding $6,000**  
+- 1% of annual earnings **in excess of $6,000**  
+- Multiplied by the number of **years of current service**.
+
+#### **B. Past Service Component**
+- 0.75% of average annual earnings **not exceeding $6,000**  
+- 0.5% of average annual earnings **in excess of $6,000**  
+- Multiplied by the number of **years of past service**.
+
+> *Example*: A contributor with 10 years of current service and 15 years of past service, earning $8,000 annually, would have:
+> - Current: (1.5% × $6,000) + (1% × $2,000) × 10 = $1,050  
+> - Past: (0.75% × $6,000) + (0.5% × $2,000) × 15 = $900  
+> - Total annuity = $1,950 per year
+
+---
+
+### **8. Special Provision for Agents Who Ceased Service Before the Effective Date**
+
+For agents who stopped working before October 1, 1961 and later joined the Government Annuities Branch:
+
+- Entitled to an **immediate annuity** upon:
+  - Leaving the Public Service, or
+  - Reaching age 65 — whichever occurs **later**.
+
+> This ensures continuity of benefits for those who transitioned into the new system.
+
+---
+
+### **9. Entitlements Upon Cessation of Employment**
+
+#### **A. Less Than 5 Years of Service**
+- Entitled to a **return of contributions** (full refund, no interest).
+
+#### **B. Five or More Years of Service**
+
+| Scenario | Entitlement |
+|--------|-------------|
+| Ceases before age 65, not due to misconduct | Option to choose: <br> - Immediate annuity <br> - Deferred annuity (paid at age 65) <br> - Return of contributions |
+| Ceases before age 65, due to **disability** | Option to choose: <br> - Immediate annuity <br> - Return of contributions |
+| Ceases before age 60, not due to disability or misconduct | Option to choose: <br> - Deferred annuity <br> - Return of contributions |
+| Becomes disabled before age 65 and was entitled to a deferred annuity | **Loses deferred annuity**, gains **immediate annuity** |
+| Ceases due to **misconduct** | Option to choose: <br> - Return of contributions <br> - With Treasury Board consent, a portion of the benefit (but not less than return of contributions) |
+
+> *Note:* If a contributor fails to exercise their option within **one year** of becoming entitled, they are **deemed to have chosen a deferred annuity** if available; otherwise, they are deemed to have chosen a benefit other than return of contributions.
+
+---
+
+### **10. Death Benefits**
+
+#### **A. Contributor with Less Than 5 Years of Service at Death**
+- Widow immediately entitled to **return of contributions**.
+
+#### **B. Contributor with 5+ Years of Service at Death**
+
+| Case | Benefit to Widow |
+|------|------------------|
+| Entitled to immediate annuity | Annual allowance = **half** of the annuity amount |
+| Entitled to deferred annuity | Annual allowance = **half** of the deferred annuity amount |
+| Entitled to immediate annuity (actuarial equivalent of deferred) | Annual allowance = **half** of the deferred annuity value |
+
+> *Special Rule*: If the contributor was entitled to an annuity immediately before death, the widow gets half of it regardless of whether it was immediate or deferred.
+
+#### **C. Widow’s Allowance Suspension and Resumption**
+- Payments are **suspended upon remarriage**.
+- Payments **resume upon the death of the remarried spouse**.
+- Upon remarriage, the widow may request a **lump-sum payment** equal to:
+  > (Return of contributions) – (Total amounts already paid to contributor or widow)
+
+> This provides a final settlement if the widow remarries and no longer qualifies for the allowance.
+
+#### **D. Deemed Predecease of Widow**
+- If the Treasury Board determines that the widow lived apart from the contributor for a long period and would not have been entitled to separate maintenance, she is **deemed to have predeceased** the contributor.
+- This affects eligibility for widow’s benefits.
+
+#### **E. Reductions in Widow’s Allowance**
+
+1. **If the contributor died within 5 years

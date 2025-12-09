@@ -1,0 +1,145 @@
+### **Detailed Summary of the Clyde River Airport Zoning Regulations**
+
+---
+
+#### **1. Regulatory Context and Legal Authority**
+
+These regulations are established under the **Aeronautics Act** (R.S., c. A-2, s. 5.4(2)(b)a and (c)a), specifically pursuant to subsection **5.5(1)a**, which mandates that proposed zoning regulations for airports be publicly announced and subject to reasonable public comment before being finalized.
+
+- A **notice of proposed regulations** was published in two successive issues of the *Nunatsiaq News* on **February 10 and 17, 2012**, and a copy of the proposed regulations was published in two successive issues of the *Canada Gazette, Part I* on **March 19 and March 26, 2011**.
+- This provided interested parties (including local communities, developers, and aviation stakeholders) with a **reasonable opportunity to submit representations or objections** to the Minister of Transport.
+- Based on this public consultation, the **Governor in Council**, on the recommendation of the Minister of Transport, formally enacted the **Clyde River Airport Zoning Regulations**.
+
+---
+
+#### **2. Purpose of the Regulations**
+
+The primary objectives of these regulations are:
+
+1. **To ensure aviation safety** by preventing development or use of land adjacent to or near Clyde River Airport that could interfere with:
+   - The safe operation of aircraft during takeoff, landing, and approach.
+   - Aircraft navigation, communication, or radar systems.
+
+2. **To prevent interference with critical aeronautical signals and communications** between aircraft and ground-based facilities (such as air traffic control towers or communication stations).
+
+---
+
+#### **3. Key Definitions**
+
+The following terms are defined and used throughout the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | Refers specifically to **Clyde River Airport**, located near Clyde River, Nunavut. |
+| **Airport Reference Point (ARP)** | The geometric center of the runway thresholds at grid coordinates **7,820,133.667 N, 518,008.083 E** (latitude 70°29′09″ N, longitude 68°31′01″ W). Located 595.48 m from the end of runway 02–20’s strip surface, at an elevation of **27.96 m above sea level**. |
+| **Approach Surface** | An imaginary inclined surface extending from each end of the runway (runway 02 and 20) upward and outward. It rises at a **1:30 vertical-to-horizontal ratio** (1 m up for every 30 m horizontally) from a base elevation to a horizontal line 2,500 m away. Outer ends are 295 m from the runway centerline and 83.33 m above base elevation. |
+| **Outer Surface** | A circular imaginary surface extending **4,000 meters** from the airport reference point. Maintains a constant elevation of **45 meters above the ARP**, but is capped at **9 meters above ground level** where it would otherwise fall below this threshold. |
+| **Strip Surface** | An imaginary rectangular surface associated with the runway. For runway 02–20: <br> - Total width: **90 meters** (45 m on each side of the centerline) <br> - Length: **1,190.96 meters** <br> - Begins 60 m southwest of threshold 02 and ends 60 m northeast of threshold 20 <br> - Elevation varies gradually between the ends: 27.69 m at threshold 02 and 28.70 m at threshold 20 <br> - Azimuth of centerline: **N 17°30′47″ E** |
+| **Transitional Surface** | An imaginary inclined surface rising at a **1:7 ratio** (1 m up per 7 m horizontally) from the lateral edges of the strip surface and approach surfaces until it intersects the outer surface. Ensures a smooth transition from runway/airfield zones to the outer zone. |
+| **Zoning Plan** | **Plan No. E 3264**, prepared by the Department of Public Works and Government Services, dated **December 1, 2008**. Serves as the foundational map for all spatial definitions in the regulations. |
+
+---
+
+#### **4. Scope of Application**
+
+These regulations apply to **all lands adjacent to or in the vicinity of Clyde River Airport** within a defined area:
+
+- A **circle of 4,000 meters in radius**, centered on the **Airport Reference Point (ARP)**.
+- This includes:
+  - Land **under water** (e.g., lakes, rivers, or submerged areas near the airport).
+  - **Public road allowances** (right-of-ways or access roads adjacent to the airport).
+
+> *For greater certainty, the regulations cover not only surface land but also subsurface and water-based areas within this boundary.*
+
+---
+
+#### **5. Prohibited Activities and Developments**
+
+The following activities are **strictly prohibited** on or within the regulated lands:
+
+##### **(a) Construction or Placement of Structures**
+- No person may **place, erect, construct, or permit** the construction of:
+  - Buildings, structures, or objects.
+  - Additions to existing structures or objects.
+- Any part of such structure or object **must not penetrate** any of the following surfaces:
+  - Approach surface
+  - Outer surface
+  - Transitional surface
+
+> This includes any structure that extends vertically above the defined surfaces, such as towers, poles, or even large trees or shrubs.
+
+##### **(b) Use or Development Causing Signal Interference**
+- No person may **use or develop** land **under the outer surface** in a way that:
+  - Causes **interference with signals or communications** between:
+    - Aircraft and ground facilities
+    - Aircraft and air traffic control systems
+
+> This protects critical radio, radar, and communication links essential for safe flight operations.
+
+##### **(c) Growth of Natural Objects**
+- No person may **permit natural growth** (e.g., trees, shrubs, or vegetation) to grow in a way that:
+  - Penetrates any of the following surfaces:
+    - Approach surface
+    - Outer surface
+    - Transitional surface
+
+> This prevents vegetation from growing too tall or close to the runway or approach paths, which could pose a hazard during takeoff or landing.
+
+##### **(d) Wildlife Attraction (Aviation Safety Hazard)**
+- No person may use or permit the use of land for activities that **attract wildlife — especially birds** — which could:
+  - Create a hazard to aircraft (e.g., bird strikes).
+  - Compromise flight safety.
+
+> This includes activities like feeding animals, leaving food waste, or creating habitats that attract birds.
+
+---
+
+#### **6. Exception: Temporary Open Water Reservoirs**
+
+Despite the general prohibitions, a **specific exception** is allowed:
+
+- A person may use land for an **open water storage reservoir** (e.g., for water supply or emergency use) **for a maximum of 48 hours or less**.
+
+> This exception is intended to allow emergency or temporary needs without compromising aviation safety, as long as the reservoir is short-lived and does not create permanent structures or vegetation growth.
+
+---
+
+#### **7. Effective Date**
+
+The regulations **come into force** on the day when the requirements specified in **subsection 5.6(2) of the Aeronautics Act** are met.
+
+> As of the document’s note, these regulations were **in force as of April 2, 2013**.
+
+---
+
+#### **8. Coordinate and Elevation System**
+
+To ensure precision in spatial planning and enforcement:
+
+- **Grid coordinates** are in the **UTM Zone 19 (1983 North American Datum)**, with a combined average scale factor of **0.999600**.
+- **Elevations** are based on the **Canadian Geodetic Vertical Datum (CGVD28)**.
+- All surfaces are defined using precise mathematical models and elevation gradients to ensure consistent and measurable boundaries.
+
+---
+
+#### **9. Summary of Key Spatial Features**
+
+| Feature | Key Parameters |
+|--------|----------------|
+| **Airport Reference Point (ARP)** | Center of runway thresholds; 595.48 m from runway end; 27.96 m elevation |
+| **Approach Surfaces** | 2,500 m horizontal distance; 1:30 slope; 83.33 m elevation at outer ends |
+| **Outer Surface** | Radius of 4,000 m; constant elevation of 45 m above ARP; capped at 9 m above ground |
+| **Strip Surface** | 90 m wide, 1,190.96 m long; 27.69 m at 02 end, 28.70 m at 20 end; 1:30 slope between thresholds |
+| **Transitional Surfaces** | 1:7 slope from lateral edges of strip/approach surfaces to outer surface |
+
+---
+
+#### **10. Enforcement and Compliance**
+
+- The regulations are enforceable by the **Minister of Transport**.
+- Violations may result in penalties or legal action, especially if they compromise aviation safety or cause signal interference.
+- Compliance is critical due to the remote and sensitive nature of the Arctic environment and the importance of safe air travel in Nunavut.
+
+---
+
+### **Conclusion

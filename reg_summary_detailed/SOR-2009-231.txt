@@ -1,0 +1,137 @@
+Certainly. Below is a **detailed, structured summary** of the **Ottawa Macdonald-Cartier International Airport Zoning Regulations**, as published under the *Aeronautics Act* and effective from July 8, 2010 (for land titles) and July 16, 2010 (for registry lands).
+
+---
+
+## 📚 **Detailed Summary of the Ottawa Macdonald-Cartier International Airport Zoning Regulations**
+
+### 🔹 **Legal Basis and Purpose**
+These regulations were established under **subsection 5.5(1)a of the Aeronautics Act** (R.S., c. 33 (1st Supp.), s.1; R.S., c. A-2), following a formal public consultation process. A notice of the proposed regulations was published in:
+- Two successive issues of the *Canada Gazette, Part I* (March 15 and 22, 2008),
+- The *Ottawa Citizen* and *Le Droit* (March 26, 29, May 2, 3, 2008).
+
+This provided **interested parties with a reasonable opportunity to make representations** to the Minister of Transport, Infrastructure and Communities.
+
+#### **Primary Objectives**:
+1. To **prevent land adjacent to or near the airport** from being used or developed in a way that would:
+   - Compromise the **safe operation of aircraft** at the airport.
+2. To **prevent interference with critical aeronautical signals and communications**, including those used by aircraft and airport facilities (e.g., radar, navigation systems).
+
+---
+
+### 🔹 **Scope of Application**
+- Applies to **all land**, including public road allowances, that is:
+  - Adjacent to or in the **vicinity of the Ottawa Macdonald-Cartier International Airport**.
+  - Within the **outer limit** defined in **Part 6 of the Schedule**.
+
+> ⚠️ *Note: The regulations do not apply to lands outside this designated area.*
+
+---
+
+### 🔹 **Key Definitions**
+| Term | Definition |
+|------|-----------|
+| **Airport** | The Ottawa Macdonald-Cartier International Airport, located in the City of Ottawa, Province of Ontario. |
+| **Airport Reference Point (ARP)** | Two specific points (A and B) near the center of the airport, used as reference for measuring elevation and spatial boundaries. |
+| **Bird Hazard Zone** | A designated area around the airport where activities that attract birds (a known aviation hazard) are prohibited. |
+| **Outer Surface** | An imaginary surface above and around the airport, defining the upper limit for development. |
+| **Strip Surface** | An imaginary surface extending above the runways in a specific direction (for take-off/landing), based on runway orientation. |
+| **Take-off/Approach Surface** | An inclined surface rising from each end of a strip surface, designed to ensure aircraft have a clear path during take-off and landing. |
+| **Transitional Surface** | An inclined surface extending from the lateral edges of the strip and take-off/approach surfaces, ensuring a smooth transition between the airport and surrounding land. |
+
+> ✅ All elevations are referenced to the **Canadian Geodetic Vertical Datum — CGVD28**.  
+> ✅ Grid coordinates use the **1927 North American Datum (1974 adjustment), UTM Zone 18**.  
+> ✅ A combined average scale factor of **0.9996160** is applied to ensure accurate positioning.
+
+---
+
+### 🔹 **Regulatory Prohibitions**
+
+#### 1. **Building and Structure Restrictions**
+> No person may:
+- Erect or construct a building, structure, or object (or an addition to an existing one) on land subject to these regulations **if any part of it exceeds**:
+  - The **take-off/approach surface**,
+  - The **outer surface**,
+  - The **transitional surface**, or
+  - The **strip surface**.
+
+> ❗ *This applies to all structures, including towers, antennas, trees, or even small sheds.*
+
+#### 2. **Interference with Aeronautical Signals**
+> No owner or lessee of land **within the outer surface** may:
+- Use or develop land in a way that causes **interference with signals or communications** to or from:
+  - Aircraft,
+  - Airport facilities (e.g., radar, radio navigation systems).
+
+> This ensures reliable communication and navigation safety.
+
+#### 3. **Natural Growth Restrictions**
+> No owner or lessee may allow any **natural growth** (e.g., trees, shrubs, vines) on land to grow **above the elevation** of any of the following surfaces:
+- Take-off/approach surface,
+- Outer surface,
+- Transitional surface,
+- Strip surface.
+
+> ⚠️ Even tall trees or vegetation must not exceed these elevation limits.
+
+#### 4. **Bird Hazard Zone Prohibitions**
+> No owner or lessee within the **bird hazard zone** may:
+- Conduct or permit **activities that attract birds** (e.g., open fields, water features, feeding areas, waste dumping), which could pose a **risk to aviation safety**.
+
+> This is critical for preventing bird strikes — a major cause of aviation accidents.
+
+---
+
+### 🔹 **Airport Reference Points (ARPs) – Coordinates and Description**
+
+Defined precisely in **Part 1 of the Schedule** using UTM coordinates (Zone 18, NAD 1974):
+
+#### **Airport Reference Point A**:
+- Start: Intersection of runways 07L-25R and 14-32  
+  → Grid: **447,841.99 E, 5,018,054.69 N**
+- Thence:
+  - Northwesterly along runway 14-32 for **975.36 m**
+  - Northeasterly perpendicular to runway 14-32 for **304.80 m**
+- Final coordinates: **447,243.76 E, 5,018,882.67 N**
+
+#### **Airport Reference Point B**:
+- Start: Same intersection (447,841.99 E, 5,018,054.69 N)
+- Thence:
+  - Southeasterly along runway 14-32 (projected centreline) for **1,737.36 m**
+  - Northeasterly perpendicular to projected centreline for **304.80 m**
+- Final coordinates: **449,415.16 E, 5,017,258.42 N**
+
+> These points serve as **geographic anchors** for calculating all other surfaces.
+
+---
+
+### 🔹 **Take-off/Approach Surfaces (Detailed Descriptions)**
+
+These surfaces are designed to ensure aircraft have **clear visibility and safe clearance** during take-off and landing.
+
+Each surface has a specific **slope ratio** and **horizontal extent**, rising from the end of the runway.
+
+| Runway | Surface Description |
+|--------|----------------------|
+| **07R–25L** (ends at 07R and 25L) | Ratio: 1:60 (first 3,000 m), then 1:50 (beyond). Height: 290 m above strip end. Outer edge: 2,400 m wide on each side. |
+| **07L–25R** (ends at 07L and 25R) | Same as above: 1:60 → 1:50, height 290 m, width 2,400 m. |
+| **07C–25C** (ends at 07C and 25C) | Same slope, but outer edge is **2,616.390 m** wide due to longer runway alignment. Height: 290 m. |
+| **14–32** (ends at 14 and 32) | Ends at 14: 1:60 → 1:50. Height: 50 m at 3,000 m, then rises to **boundary with Quebec** (outer edge). At 32 end: same as others (290 m, 2,400 m wide). |
+| **04–22** (ends at 04 and 22) | Unique slope: 1:25 (steeper than others). Height: 100 m at 2,500 m. Outer edge: 280 m wide on each side. |
+
+> All surfaces rise **vertically** from the runway end at a defined rate, with **distinct transition points** at 3,000 m and 15,000 m.
+
+---
+
+### 🔹 **Outer Surface**
+- A broad, imaginary surface that defines the **maximum allowable elevation** for all development.
+- Extends beyond the runways and take-off surfaces.
+- Used to set **overall height limits** for all structures and vegetation.
+
+> This surface is critical for **preventing visual obstructions** that could interfere with flight operations.
+
+---
+
+### 🔹 **Transitional Surface**
+- An inclined surface that extends **from the lateral edges** of the strip and take-off/approach surfaces.
+- Ensures a **smooth transition** between the airport and surrounding areas.
+- Prevents sudden changes in terrain or height that could affect aircraft approach or departure

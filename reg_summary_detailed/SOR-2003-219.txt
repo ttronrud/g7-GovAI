@@ -1,0 +1,176 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the **Passenger Information (Customs) Regulations**, as referenced in your query. This summary interprets and organizes the legal text for clarity, context, and practical understanding—ideal for stakeholders such as airlines, travel agencies, customs officers, or legal professionals.
+
+---
+
+## 🔍 **Detailed Summary of the Passenger Information (Customs) Regulations**
+
+### 📌 **Background and Legal Basis**
+These regulations are issued under the authority of the **Customs Act** and are a direct implementation of a public announcement made on **October 4, 2002**. They are promulgated by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of National Revenue**, pursuant to:
+
+- **Section 107.1a** of the Customs Act  
+- **Paragraph 164(1)(i)b** and **Paragraph 167.1(b)c** of the Customs Act  
+
+These provisions empower the Canadian government to establish rules for the **collection and timely transmission of passenger information** to the **Canada Border Services Agency (CBSA)** prior to the arrival of commercial conveyances in Canada.
+
+> **Statutory References**:  
+> - S.C. 2001, c. 25, s. 61  
+> - S.C. 1992, c. 28, s. 30(1)  
+> - S.C. 1992, c. 28, s. 31(1)  
+> - R.S., c. 1 (2nd Supp.)
+
+---
+
+## 📚 **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Customs Act* |
+| **Commercial Carrier** | The owner or operator of a commercial conveyance (e.g., airline, shipping company, rail operator) |
+| **Commercial Conveyance** | Any vehicle used for the commercial transportation of persons or goods by air, water, or land |
+| **Crew Member** | A person assigned to duty on board a commercial conveyance (e.g., pilots, cabin crew) |
+| **Reservation System** | Any system—electronic or manual—that holds data about passengers or those expected to board (e.g., airline booking systems) |
+| **Time of Departure** | The moment a conveyance departs from the last point of embarkation before arriving in Canada: <br> - For air: time of take-off from last embarkation point <br> - For water/land: time of departure from last embarkation point |
+
+---
+
+## 🎯 **Purpose of the Regulations**
+
+The primary purpose of **Sections 3 to 7** is to:
+
+- Define **who must provide information**,  
+- Specify **what information must be shared**,  
+- Establish **when and how** that information must be transmitted,  
+- Ensure **accuracy and timeliness** of data to support customs compliance and security screening.
+
+This is done to fulfill the requirements of **Section 107.1 of the Customs Act**, which mandates that certain parties provide passenger details to the CBSA before a commercial conveyance arrives in Canada.
+
+---
+
+## ✅ **Prescribed Circumstances and Conditions**
+
+For the regulations to apply, the following conditions must be met:
+
+1. The conveyance must be a **commercial conveyance** (air, water, or land).
+2. The conveyance is **expected to arrive in Canada**.
+
+> This ensures that only relevant, incoming commercial traffic is subject to passenger data reporting.
+
+---
+
+## 👥 **Prescribed Classes of Persons Required to Provide Information**
+
+Only two classes of individuals are required to provide passenger data:
+
+1. **Commercial Carriers** (e.g., airlines, shipping lines)  
+2. **Charterers** who have contracted to carry persons or goods to Canada
+
+> This means that **only those directly involved in the transportation of passengers or cargo** are obligated to comply.
+
+---
+
+## 📄 **Required Passenger Information**
+
+The following information must be provided about each person on board or expected to be on board:
+
+| Information Element | Description |
+|--------------------|-------------|
+| **Personal Identity** | Surname, first name, middle names, date of birth, citizenship/nationality, gender |
+| **Travel Documents** | Type and number of passports or other valid travel documents; name of issuing country/entity |
+| **Reservation Record Locator (RRL)** | Unique identifier assigned by the booking system (if applicable) |
+| **Unique Passenger Reference** | A unique ID assigned by the carrier or its representative; **for crew members**, this includes notice of their status as crew |
+| **Reservation System Data** | Any information held in the carrier’s or representative’s reservation system (e.g., booking details, itinerary, status) |
+| **Carriage Details (by mode of transport)** | <br> - **Air**: Date/time of take-off from last embarkation point, last embarkation point, date/time of arrival in Canada, first disembarkation point, flight code (carrier + flight number) <br> - **Water/Land**: Same as above, but without flight code |
+
+> This comprehensive data set enables the CBSA to verify identities, detect potential risks, and facilitate efficient processing at border points.
+
+---
+
+## 📡 **Method of Information Transmission**
+
+- All information must be provided **electronically**.
+- Must follow the **technical standards and procedures** set out in the **CBSA Carrier Messaging Requirements** document, as amended from time to time.
+
+> This ensures interoperability, data integrity, and secure transmission between carriers and the CBSA.
+
+---
+
+## ⏰ **Timeliness of Information Submission**
+
+| Information Type | Deadline |
+|------------------|---------|
+| **Crew Members** | No later than **1 hour before departure** |
+| **All Other Passengers** | No later than **the time of departure** |
+| **Passenger Data in Reservation System (paragraph 5(e))** | <br> - **For each passenger on board at departure**: Not later than **30 minutes after departure** |
+
+> This strict timeline ensures that the CBSA has access to up-to-date passenger details during critical phases of arrival.
+
+---
+
+## 🛠️ **Correcting Incomplete or Inaccurate Information**
+
+- If a party becomes aware **before or at the time of departure** that the information provided under Section 107.1 is **incomplete or inaccurate**, they must:
+  - Provide the **corrected or missing information**  
+  - Do so **without delay**  
+  - In accordance with the **manner described in Section 6** (i.e., via electronic means following the approved messaging protocol)
+
+> This ensures that the CBSA receives accurate, real-time data even if errors are discovered post-booking.
+
+---
+
+## ⚠️ **Exception to Timeliness Rule**
+
+- **Section 107.1(1)** does **not apply** to the information specified in **paragraph 5(e)** (reservation system data).
+- This means that the requirement to provide data about the passenger’s full reservation record is **not subject to the same strict deadlines** as other personal details.
+
+> This exception allows for more flexibility in sharing detailed booking data, which may be updated dynamically.
+
+---
+
+## 🔁 **Amendments to Paragraph 5(e)**
+
+The original paragraph 5(e) has been **replaced** with a more detailed version:
+
+> "Any information about them that is referred to in the **Schedule** and is available in a reservation system of the person who is required to provide information or in a reservation system of the representative of such a person."
+
+This means that **additional data beyond basic personal details** (such as itinerary, loyalty program benefits, contact info, etc.) must be shared when available in the reservation system.
+
+---
+
+## 📅 **Amendment to Section 7(2)**
+
+Section 7(2) has been updated to require that:
+
+> The information in paragraph 5(e) must be provided for **each person expected to board** **not later than 72 hours before departure**.
+
+> This ensures that the CBSA receives **early access** to full passenger profiles, especially for long-haul or international flights.
+
+> This is a significant enhancement over prior rules, allowing for proactive risk assessment and planning.
+
+---
+
+## 🔁 **Amendment to Section 8 – Updates to Reservation Data**
+
+A new subsection is added to Section 8:
+
+> If any information in paragraph 5(e) is **added or changed** in a reservation system **after** it was submitted to the CBSA, the person who provided the information must **immediately update** the CBSA with the revised data at specific times:
+
+| Time of Change | Deadline for Update |
+|---------------|----------------------|
+| More than 24 hours before departure | Not later than **24 hours before departure** |
+| Between 24 hours and 8 hours before departure | Not later than **8 hours before departure** |
+| Less than 8 hours before departure | Not later than **time of departure** |
+
+> This ensures that **dynamic changes** (e.g., last-minute seat changes, name corrections, added passengers) are reflected in the CBSA’s records in real time.
+
+---
+
+## 📂 **Schedule: Additional Information to Be Shared**
+
+The regulations include a **detailed schedule** listing the types of information that must be provided under paragraph 5(e). This includes:
+
+| Item | Description |
+|------|-------------|
+| 1. Personal names | Surname, first name, middle names |
+| 2. Reservation Record Locator (RRL) | Unique booking identifier |
+| 3. Reservation and ticket dates | Date of reservation and date ticket was issued |
+| 4. Itinerary | Full travel plan

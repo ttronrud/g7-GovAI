@@ -1,0 +1,133 @@
+Certainly. Below is a **detailed and structured summary** of the **Vessel Clearance Regulations**, made under the **Canada Shipping Act, 2001**, as set out in the provided text (S.C. 2001, c. 26). This summary explains the purpose, definitions, scope, key provisions, and operational implications of the regulation.
+
+---
+
+## 📚 **Detailed Summary of the Vessel Clearance Regulations**
+
+### **1. Regulatory Authority and Basis**
+- **Enacted by:** Her Excellency the Governor General in Council, on the recommendation of the Minister of Transport, Infrastructure and Communities.
+- **Legal Authority:** Pursuant to **paragraph 244(a) of the Canada Shipping Act, 2001**.
+- **Purpose:** To establish the requirements for vessels to obtain clearance for departure, particularly focusing on safety, pollution prevention, and compliance with international standards.
+
+> These regulations are part of the broader framework governing vessel operations in Canada and ensure that vessels meet mandatory safety, environmental, and operational standards before embarking on voyages.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Shipping Act, 2001*. |
+| **Cargo Vessel** | Any vessel that is *not* a passenger vessel. |
+| **Chemical Tanker** | A vessel constructed or adapted for carrying **bulk liquid chemicals** listed in Chapter 17 of the **IMO’s International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk**. |
+| **Gas Carrier** | A cargo vessel used for carrying **liquefied gases or other products** listed in Chapter 19 of the **IMO’s International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk**. |
+| **IMO** | The **International Maritime Organization** (OMI). |
+| **Inland Voyage** | As defined in the *Vessel Safety Certificates Regulations* — a journey within Canada’s inland waters. |
+| **Inland Waters of Canada** | As defined in the *Vessel Safety Certificates Regulations* — includes rivers, lakes, and other non-coastal waters within Canada. |
+| **INF Cargo** | Packaged goods that include **irradiated nuclear fuel, plutonium, or high-level radioactive waste** carried as cargo. |
+| **International Voyage** | A voyage from a Canadian port to a location **outside Canada**. |
+| **Passenger Vessel** | A vessel carrying **more than 12 passengers**. |
+| **Place** | Includes a port, or any location used for loading/unloading vessels. |
+| **SOLAS** | The *International Convention for the Safety of Life at Sea, 1974*, as amended, including the 1988 Protocol. |
+
+> These definitions are critical for determining which regulations apply to a given vessel type and voyage.
+
+---
+
+### **3. Scope and Application of Key Provisions**
+
+#### 🔹 **Section 213 of the Canada Shipping Act (Repealed)**
+- **Original Application:** Applied to vessels departing on an **international voyage** and either:
+  - Passenger vessels of **15 gross tonnage or less**, or
+  - Vessels of **more than 15 gross tonnage**.
+- **Status:** **Repealed** by **SOR/2021-135, s. 32**.
+> This means the specific requirements previously tied to Section 213 no longer apply.
+
+#### 🔹 **Sections 4 and 5 (Repealed)**
+- Originally applied to similar vessels (passenger vessels ≤15 GT or vessels >15 GT) on international voyages.
+- **Status:** **Repealed** by **SOR/2021-135, s. 33**.
+> These sections are no longer in force, indicating a shift in regulatory focus or consolidation into other provisions.
+
+> ⚠️ **Note:** The repeal suggests that the government has streamlined or replaced these older requirements with more modern, comprehensive safety and certification frameworks.
+
+---
+
+### **4. Required Certificates and Documents for Vessel Clearance (Section 214 of the Act)**
+
+#### ✅ General Requirements (All Vessels Departing on International Voyages)
+
+The following documents are required **for all vessels** departing on an international voyage **unless exempted**:
+
+| Document | Applies To | Notes |
+|--------|-----------|-------|
+| **Load Line Certificate** | Required if load line regulations apply | Acceptable types: <br> - Great Lakes & Inland Waters of Canada Load Line Certificate <br> - U.S. Title 46, Chapter I, Part 45 Load Line Certificate <br> - International Load Line Certificate or Exemption Certificate |
+| **Fitness to Proceed Certificate** | Required under Cargo, Fumigation and Tackle Regulations | Confirms the vessel is safe to proceed on its voyage |
+| **International Oil Pollution Prevention (OILPOL) Certificate** | Applies to all vessels | Required for pollution prevention from oil discharges |
+| **International Pollution Prevention Certificate (NOXIOUS LIQUID SUBSTANCES)** | For vessels carrying noxious liquid substances in bulk | Ensures safe handling of hazardous liquids |
+| **Certificate of Fitness for Carriage of Dangerous Chemicals in Bulk** | For chemical tankers | Either Canadian or International Certificate |
+| **Certificate of Fitness for Offshore Support Vessel** | For vessels handling limited hazardous/noxious liquids | Applies if IMO Resolution A.673(16) guidelines are relevant |
+| **International Sewage Pollution Prevention Certificate** | Required for all vessels | Ensures safe disposal of sewage |
+| **International Air Pollution Prevention Certificate** | Required for all vessels | Controls emissions from ship engines and systems |
+| **International Anti-fouling System Certificate or Declaration** | Required | Prevents marine pollution from hull biofouling |
+| **International Energy Efficiency Certificate** | Required | Measures and certifies energy efficiency of the vessel |
+| **Safe Manning Document or Equivalent** | Required | Confirms the vessel has sufficient qualified crew |
+
+> 🔍 **Exception:**  
+> If the vessel’s master holds a **Certificate of Fitness for Offshore Support Vessels**, then the **Certificate of Fitness for Carriage of Dangerous Chemicals in Bulk** is **not required**.
+
+---
+
+#### ✅ Special Requirements for Passenger Vessels or Large Cargo Vessels (≥500 GT) on International Voyages (Non-Inland)
+
+| Requirement | Applies To | Notes |
+|-----------|-----------|-------|
+| **Safety Management Certificate (SMC)** | Required for all passenger vessels and cargo vessels ≥500 GT | A core requirement under SOLAS for effective safety management systems |
+| **Passenger Ship Safety Certificate** | For passenger vessels | With optional **Exemption Certificate** if applicable |
+| **Cargo Ship Safety Certificate** | For cargo vessels ≥500 GT | With optional **Exemption Certificate**<br> OR, alternatively: <br> - Cargo Ship Safety Construction Certificate<br> - Cargo Ship Safety Equipment Certificate<br> - Cargo Ship Safety Radio Certificate<br> (with optional Exemption Certificate) |
+| **Certificate of Fitness for Carriage of Liquefied Gases in Bulk** | For gas carriers | Either Canadian or International Certificate |
+| **International Certificate of Fitness for INF Cargo** | For vessels carrying INF cargo | Required for nuclear fuel, plutonium, or high-level radioactive waste |
+
+> 🔍 **Exception:**  
+> If the vessel is covered by **Chapter X of SOLAS** (which applies to high-speed craft), then the **Passenger Ship Safety Certificate** or **Cargo Ship Safety Certificate** is **not required** if the master holds a **High-Speed Craft Safety Certificate**.
+
+---
+
+#### ✅ Special Requirements for Canadian Vessels (Less Than 500 GT)
+
+- A **safety certificate issued under Section 13 of the Vessel Safety Certificates Regulations** is required for:
+  - Canadian cargo vessels **under 500 GT** departing on an **international voyage (non-inland)**, or
+  - All Canadian vessels departing on an **inland voyage**.
+
+> This ensures that even smaller Canadian vessels meet baseline safety standards before departure.
+
+---
+
+#### ✅ Requirements for Foreign Vessels
+
+- A **certificate issued by or under the authority of a foreign government** is required if:
+  - The vessel is a **cargo vessel under 500 GT** departing on an international voyage (non-inland), or
+  - The vessel is departing on an **inland voyage**.
+
+> This allows for international compliance while respecting the flag state’s jurisdiction.
+
+> ⚠️ **Exception:**  
+> If the vessel's flag state has **not ratified** a relevant international convention (e.g., SOLAS, MARPOL), then a **Certificate of Compliance** issued by that state must be submitted instead of the full certificate.
+
+> This provision ensures that vessels from non-ratifying states are still held to international safety standards through alternative compliance documentation.
+
+---
+
+### **5. Document Requirements**
+
+- **Original documents and valid certificates** are required.
+- **No copies or expired certificates** are accepted.
+- This ensures authenticity and enforceability of compliance.
+
+---
+
+### **6. Effective Date**
+
+- These regulations come into force on the day that **Section 2 of the Canada Shipping Act, 2001** (Chapter 26 of the Statutes of Canada, 2001) comes into force.
+- **Note:** The regulations were effective as of **July 1, 2007**, as referenced in **SI/2007-65**.
+
+> This means the rules have been in force for over 15 years,

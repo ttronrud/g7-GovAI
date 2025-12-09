@@ -1,0 +1,154 @@
+Certainly. Below is a **detailed and comprehensive summary** of the regulation titled *Marine Spark-Ignition Engine, Vessel and Off-Road Recreational Vehicle Emission Regulations*, as enacted under the *Canadian Environmental Protection Act, 1999* (CEPA 1999), and published in the *Canada Gazette, Part I*, on December 30, 2006.
+
+---
+
+## 🔍 **Detailed Summary of the Marine Spark-Ignition Engine, Vessel and Off-Road Recreational Vehicle Emission Regulations**
+
+### 📌 **Legal Basis and Context**
+- The regulation was **adopted by the Governor in Council** on the recommendation of the **Minister of the Environment**, pursuant to:
+  - **Section 160**: Authority to make regulations under CEPA.
+  - **Section 162**: Power to establish emission standards and credit systems.
+  - **Section 319**: Authority to regulate emissions from engines, vessels, and off-road vehicles.
+- It was issued following a **public consultation process** under **subsection 332(1)a of CEPA 1999**, where the Minister published a **proposed regulation** in *Canada Gazette, Part I*, on December 30, 2006, allowing stakeholders to submit comments or file objections to the proposed rules.
+
+This regulation establishes **national emission standards** for marine spark-ignition engines, vessels, and off-road recreational vehicles, aligning Canada’s standards with those of the **U.S. Environmental Protection Agency (EPA)**.
+
+---
+
+## 📚 **Key Definitions**
+
+The regulation defines critical terms used throughout the rules:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canadian Environmental Protection Act, 1999* (CEPA 1999). |
+| **Engine** | A marine spark-ignition engine of a prescribed class used to propel a vessel. |
+| **Vessel** | A vessel of a class prescribed under section 5(2). |
+| **Vehicle** | An off-road recreational vehicle of a class prescribed under section 5(3). |
+| **All-terrain vehicle (ATV)** | Land-based or amphibious vehicle with 3–4 low-pressure tires, handlebars, seat for one operator, or 3+ wheels, designed for rough terrain, with a max speed of ≥40 km/h. |
+| **Amphibious vehicle** | Designed primarily for land, secondarily for water. |
+| **Personal watercraft (PWC)** | Enclosed hull <4m long, powered by water jet, designed for one or more persons to sit, stand, or kneel. |
+| **Snowmobile** | Vehicle with max width 1.5m, designed primarily for snow travel. |
+| **Off-road motorcycle** | Two-wheeled vehicle with seat. |
+| **Utility vehicle** | 4+ wheels, seating for ≥2, engine ≤1000 cm³, max brake power ≤30 kW, speed ≥40 km/h, rear payload ≥159 kg or seating ≥6 passengers. |
+| **Crankcase emissions** | Pollutants from engine lubrication or ventilation systems. |
+| **Evaporative emissions** | Hydrocarbons released from fuel tanks or lines (not exhaust or crankcase). |
+| **Permeation emissions** | Evaporation through fuel line or tank materials. |
+| **Diurnal emissions** | Evaporation due to daily temperature changes while engine is off. |
+| **Emission control system** | Any device or software (hardware, software, calibration, logic) that reduces emissions. |
+| **Element of design** | Any part of the engine, vessel, or vehicle design that affects emissions (e.g., software, calibration). |
+| **Emission family** | Grouping of engines/vehicles/fuel systems based on EPA certificate or CFR 230 classification. |
+| **Family emission limit** | Maximum emission level set by a company for fleet averaging. |
+| **Fuel line** | Hose/tubing exposed to liquid fuel; excludes primers used only for starting or portable tanks. |
+| **Fuel tank** | Non-portable fuel tank. |
+| **High-performance inboard engine** | Engine rated >373 kW with power-enhancing features and expected operating time <480 hours. |
+| **Conventional inboard engine** | Inboard engine rated at ≤373 kW. |
+| **Model year** | Year used by manufacturers to designate a product; determined based on production period. |
+
+> ⚠️ **Note**: References to the EPA or its discretion are **excluded** from the incorporated standards. The regulation **only recognizes EPA standards**, not alternative standards (e.g., averaging, banking, financial hardship, or foreign conformity).
+
+---
+
+## 🎯 **Purpose of the Regulations**
+
+The primary objectives are:
+
+1. **Reduce air pollution** from:
+   - Hydrocarbons (HC)
+   - Oxides of nitrogen (NOx)
+   - Carbon monoxide (CO)
+
+2. **Limit emissions of toxic substances** including:
+   - Formaldehyde
+   - 1,3-Butadiene
+   - Acetaldehyde
+   - Acrolein
+   - Benzene
+
+3. **Establish emission standards and testing procedures** that are **aligned with U.S. EPA standards** (specifically CFR parts 1045, 1051, and 1060).
+
+---
+
+## 🔧 **Prescribed Classes of Engines and Vehicles**
+
+The regulation defines specific classes of engines and vehicles subject to emission standards under **section 149 of CEPA 1999**.
+
+### ✅ **Classes of Engines**
+- Outboards
+- Inboard engines (including sterndrives and jet boat engines)
+- Personal watercraft (PWC) engines
+- Engines operating under **Otto cycle characteristics** with spark ignition
+
+> ❌ **Excluded**:
+> - Engines designed **exclusively for competition** (e.g., superior performance, no public sale, no warranty)
+> - Engines using **natural gas** rated at 250 kW or more
+> - Engines with **compression ignition** (covered by separate regulations)
+> - Engines or vehicles used **only for military or combat purposes**
+> - Engines or vehicles **being exported** without evidence of non-use in Canada
+> - Vehicles with **dry weight <20 kg**
+
+### ✅ **Classes of Vessels**
+- Vessels (excluding amphibious vehicles) that are:
+  - Designed to be propelled by a prescribed engine
+  - Have a fuel line or fuel tank installed
+
+### ✅ **Classes of Off-Road Recreational Vehicles**
+- Snowmobiles
+- Off-road motorcycles
+- All-terrain vehicles (ATVs)
+- Utility vehicles
+
+> ❌ **Excluded**:
+> - Competition-grade vehicles (e.g., no lights, no spark arrestor, no warranty, etc.)
+> - Vehicles regulated under **On-Road Vehicle and Engine Emission Regulations**
+> - Electrically powered vehicles
+> - Vehicles with only compression-ignition engines (covered by other regulations)
+
+---
+
+## 🏭 **Conformity and Manufacturing Requirements**
+
+### 1. **Model Year Determination**
+- A manufacturer may choose the **calendar year** during which production occurs or the **next calendar year** if production spans across January 1.
+- The period of production **must include only one January 1**.
+
+### 2. **Conformity Requirements (Sections 153 & 154)**
+- All prescribed engines, vessels, and vehicles must meet **emission standards** as defined in the regulations.
+- Compliance must be demonstrated through:
+  - Testing procedures aligned with **EPA CFR standards** (e.g., CFR 1045, 1051, 1060)
+  - Evidence of conformity under **section 35**
+
+### 3. **Exemptions**
+- Vehicles or engines used **solely for exhibition, demonstration, evaluation, or testing** are **not subject** to the prescribed emission standards under section 152.
+
+---
+
+## 🏷️ **National Emissions Mark (NEM) System**
+
+### 📝 **Application Process**
+- Any company wishing to apply the **National Emissions Mark (NEM)** must submit an application to the Minister, signed by an authorized representative, including:
+  - Company head office and mailing address
+  - Class of engine, vessel, or vehicle
+  - Location where the mark will be applied
+  - Evidence of capability to verify compliance with the standards
+
+### ✅ **Authorization**
+- Upon approval, the Minister assigns a **unique authorization number** to the company.
+
+### 📌 **Eligibility for Pre-2012 Models**
+- A company may apply the NEM to:
+  - Engines manufactured **before** the regulation came into force
+  - Vehicles with main assembly completed **before** the regulation came into force
+- **Only if**:
+  - The engine or vehicle complies with standards for the **2012 model year**
+  - The company meets all regulatory requirements
+
+### 🖼️ **Mark Display Requirements**
+- The **NEM** must be:
+  - At least **7 mm in height** and **10 mm in width**
+  - Displayed **immediately below or to the right** of the emission control information label (or in a visible, accessible location if no such label exists)
+- The **authorization number** must be:
+  - Displayed immediately below or to the right of the NEM
+  - In **figures at least 2 mm in height**
+
+### 📄 **Label Requirements**

@@ -1,0 +1,149 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the provided regulation — the *Notifiable Transactions Regulations* under the *Competition Act* of Canada, as published in the *Canada Gazette, Part 1*, on March 14, 1987, and effective July 15, 1987.
+
+---
+
+## 📚 **Detailed Summary of the Notifiable Transactions Regulations (1987)**  
+*Regulations under Part VIII of the Competition Act, S.C. 1986, c. 26, s. 47 and s. 19*
+
+---
+
+### 🔹 **1. Introduction and Legal Basis**
+
+- These regulations were **published in the Canada Gazette, Part 1, on March 14, 1987**, following a public notice period under **sections 81*, 82*, and subsection 96(2)* of the Competition Act**.
+- The Minister of Consumer and Corporate Affairs recommended the regulations to the Governor in Council.
+- The regulations are **adopted pursuant to sections 81*, 82*, and subsection 96(1)*** of the Competition Act.
+- The regulations are officially titled: **"The Notifiable Transactions Regulations"**.
+- They came into force on **July 15, 1987**.
+
+> ⚖️ **Purpose**: To establish detailed procedures for determining when a transaction (such as mergers, acquisitions, or asset sales) must be **notified to the Competition Bureau** under Part VIII of the Competition Act, which governs transactions that may affect competition in Canada.
+
+---
+
+### 🔹 **2. Key Definitions**
+
+The regulations define key terms used throughout to ensure clarity and consistency in assessing notifiable transactions.
+
+| Term | Definition |
+|------|-----------|
+| **Asset Securitization Transaction** | A transaction or series of transactions where a person sells, assigns, transfers, leases, or otherwise disposes of financial assets to a third party (e.g., a trust or special purpose vehicle) who holds an undivided interest in those assets. After disposal, the original party or its affiliate continues to manage, service, or operate the assets. Excludes certain entities (e.g., those owning >10% of assets or voting securities). |
+| **Financial Asset** | Any interest in debt, receivables, claims, contracts, or obligations that generate or secure payment. Includes securities backed by or representing interests in such assets (excluding voting shares). |
+| **Equity Security** | A security that gives the holder a residual claim on earnings and assets upon liquidation (e.g., common shares). |
+| **Audited Financial Statements** | Financial statements reviewed and verified by an external, accredited professional auditor (member of a recognized accounting body). Must follow generally accepted accounting principles (GAAP) and include working papers if necessary. |
+| **Reference Date** | The date on which the Commissioner receives a notification under section 114 of the Act. If no notification is given, it is: <br> - 30 days before filing of amalgamation articles (under s.110(4)), or <br> - 30 days before transfer of beneficial ownership (under s.110(2), (3), (5), or (6)). |
+| **Voting Security** | Any security that carries voting rights under all circumstances or due to a continuing event. |
+| **Senior Officer** | *Repealed* (SOR/2010-22, s.1) — no longer applies. |
+
+---
+
+### 🔹 **3. Determining the "Aggregate Value of Assets" and "Gross Revenues from Sales"**
+
+These are central to assessing whether a transaction is "notifiable" under section 114 of the Act.
+
+#### ✅ **Aggregate Value of Assets (Section 8)**
+
+- **Determined as of**: The last day of the most recent audited financial statements **not more than 15 months before the reference date**.
+- **Exclusions from deductions**:
+  - No deduction for **liabilities or encumbrances**.
+  - Deductions allowed:
+    - Duplication from transactions between **affiliates**.
+    - Duplication from ownership interest in one person by another (even if not affiliated).
+    - Depreciation or diminution of value.
+- **Currency conversion**: Converted to **Canadian dollars** using the **Bank of Canada’s noon exchange rate** on the valuation date.
+- **If value cannot be determined**: 
+  - Use the **books of the person**, with adjustments to align with GAAP.
+  - Valuation date must be **within 3 months of the reference date**.
+
+#### ✅ **Gross Revenues from Sales (Section 9)**
+
+- **Determined for**: The most recent **12-month annual period** ending **not more than 15 months before the reference date**.
+- **Includes**:
+  - Revenue from sale or lease of goods.
+  - Revenue from rendering services.
+- **Excludes**:
+  - Any expenses or costs related to sales.
+- **Deductions**:
+  - Duplication from transactions between **affiliates**.
+- **Currency conversion**: Based on the **Bank of Canada’s noon exchange rate** on the **last day of the annual period**.
+- **If revenue cannot be determined**:
+  - Use revenue from the person’s books, adjusted to reflect GAAP.
+  - Must be from the **most recent period within 3 months before the reference date**.
+
+> 🔍 **Note**: The aggregate value and gross revenues are calculated **for each party and their affiliates**, and then **aggregated** to determine the combined value and revenue of all involved entities.
+
+---
+
+### 🔹 **4. Geographic Scope: Canada-Based Metrics**
+
+- The regulations apply **specifically to assets and revenues in Canada**.
+- For purposes of section 109(1)(a) and 110(4.1):
+  - **Aggregate value of assets in Canada** = sum of assets in Canada of each party and affiliate.
+  - **Gross revenues from sales in, from, or into Canada** = sum of such revenues from each party and affiliate.
+
+> 📍 This ensures that only **Canadian operations** are considered in determining notifiability.
+
+---
+
+### 🔹 **5. Exemptions: Asset Securitization Transactions**
+
+- **Key Exemption**: Transactions that are part of an **asset securitization** are **exempt from Part IX** of the Competition Act (which deals with anti-competitive effects).
+- **Applies to**:
+  - Acquisition of **financial assets** to effect securitization → exempt.
+  - Acquisition of **non-financial assets** to effect securitization → exempt **unless**:
+    - The acquiring party would end up acquiring **all or substantially all** of the non-financial assets of a business or operating segment of the seller.
+
+> 💡 **Rationale**: Securitization is a financial tool designed to free up capital and improve liquidity. The exemption recognizes that such transactions do not typically involve anti-competitive behavior, provided the core business operations remain intact.
+
+---
+
+### 🔹 **6. Required Information to be Submitted to the Commissioner**
+
+When a transaction is proposed, the parties must submit detailed information to the Competition Bureau. This includes:
+
+#### 📄 (a) Description of the Transaction
+- A clear description of the proposed transaction.
+- The business objectives and intended outcomes.
+
+#### 📄 (b) Legal Documents
+- A copy of each legal document to be used (or the latest draft) to implement the transaction.
+
+#### 📄 (c) Notification to Foreign Authorities
+- A list of all **foreign competition or antitrust authorities** notified, and the **date of notification**.
+
+#### 📄 (d) For Each Party and Affiliate:
+- **Full name**
+- **Principal office addresses**
+- **List of affiliates** with:
+  - Significant assets in Canada
+  - Significant gross revenues from sales in, from, or into Canada
+  - A **relationship chart** showing connections between the party and its affiliates
+- **Principal businesses** of the party and its affiliates, including:
+  - Most recent annual report or, if unavailable, **audited financial statements** for the most recent fiscal year and interim periods.
+  - Summary of **product categories** produced, supplied, or distributed.
+  - For each product category:
+    - The **20 most important suppliers and customers**:
+      - Names, contact details (phone, address)
+      - Annual volume or dollar value of purchases/sales
+    - Total annual volume or dollar value of transactions with all suppliers/customers
+    - Geographic regions of sales
+
+#### 📄 (e) Internal Analyses and Reports
+- All studies, surveys, analyses, or reports prepared or received by:
+  - Officers or directors (corporations), or
+  - Individuals in similar roles (unincorporated entities)
+- For evaluating the transaction’s impact on:
+  - Market shares
+  - Competition
+  - Competitors
+  - Markets
+  - Sales growth or expansion into new products or regions
+- Must include:
+  - Names and titles of individuals who prepared the document
+  - Date of preparation
+
+> 🌐 **Alternative Option**: Instead of submitting the full documents, the Commissioner may be provided with the **address of a publicly accessible, operational website** from which the documents can be downloaded **free of charge**. The site must remain active until the expiry of the period under subsection 123(1) of the Act.
+
+---
+
+### 🔹 **7. Adjustments for Subsequent Events**
+
+If, **after** the reference date or after the financial statements are submitted,

@@ -1,0 +1,143 @@
+The regulation you provided — **SOR/2016-163, s. 2** — is a **definition and operational framework** for the **safety and operational requirements of Canadian fishing vessels**, particularly those under **24.4 meters in length and 150 gross tonnage or less**. Although the regulation is marked as *repealed*, it appears to have been part of a broader set of safety regulations governing fishing vessels in Canada prior to its replacement or integration into newer legislation (such as the *Fishing Vessels Safety Regulations* or related amendments under the *Marine Safety and Environmental Protection Act*).
+
+Below is a **detailed, structured summary** of the content, organized by key themes and sections for clarity and regulatory understanding.
+
+---
+
+## 🔍 OVERVIEW OF THE REGULATION
+
+- **Status**: *Repealed* (SOR/2016-163, s. 2) — This means the definitions and provisions are no longer in force as of the date of repeal.
+- **Applicability**: Applies to **Canadian fishing vessels** not exceeding:
+  - **24.4 meters in hull length**
+  - **150 gross tonnage**
+- **Purpose**: To establish **safety standards**, **equipment requirements**, **operational procedures**, and **maintenance obligations** for fishing vessels operating in Canadian waters.
+- **Key Legal Frameworks Referenced**:
+  - *SOLAS* (International Convention for the Safety of Life at Sea)
+  - *IS Code* (International Code on Intact Stability)
+  - *LSA Code* (Life-Saving Appliance Code)
+  - *TP 127*, *TP 1332*, *TP 14475* (Canadian technical standards)
+  - IMO Resolutions (e.g., MSC.81(70), MSC.48(66), MSC.267(85))
+
+---
+
+## 📚 DEFINITIONS (KEY TERMS)
+
+| Term | Definition |
+|------|-----------|
+| **Fishing Vessel** | A vessel used or intended for commercial fishing, harvesting, or transporting fish or other living marine resources. |
+| **Length** | Measured from the forward end of the foremost hull surface to the aft end of the aftermost hull surface. Special rules apply if no rudder stock or permanent structure exists. |
+| **Hull Length** | Distance from the forward end to the aft end of the hull shell (outer surface). |
+| **Amidships** | Midpoint of the vessel’s length — used differently in different parts of the regulation (Part 0.1 vs. Parts I & II). |
+| **Closed Construction** | More than 50% of the vessel’s length is covered full width by decks or permanent enclosures at or above the gunwale. |
+| **Open Construction** | The opposite of closed construction — no such coverage. |
+| **New Vessel** | Construction began on or after January 6, 1965. For foreign vessels entering Canadian registry, “new” status applies regardless of construction date. |
+| **Existing Vessel** | Not new — any vessel built before or after that date, but not classified as new. |
+| **Power-Driven** | Vessel propelled by an engine or has one on board. |
+| **Permanently Installed** | Securely fastened so tools are required to remove. |
+| **Readily Accessible** | Can be reached safely and easily during emergencies without tools. |
+| **Watertight** | Prevents water passage under design head pressure in any direction. |
+| **Weathertight** | No water penetration under normal sea conditions. |
+| **Lifejacket** | Includes SOLAS, Class 1/2, standard, or small vessel lifejackets. |
+| **Lifebuoy** | SOLAS or small vessel type. |
+| **Life Raft** | SOLAS, reduced capacity, or coastal raft. |
+| **EPIRB** | Emergency Position-Indicating Radio Beacon. |
+| **Pyrotechnic Distress Signal** | Rocket flares, hand flares, smoke signals. |
+| **Sound-Signalling Device** | Pealess whistle or electric/compressed-gas horn. |
+| **Reboarding Device** | Ladder, harness, or apparatus to assist people reboarding from water. |
+| **Recovery Boat** | Auxiliary boat used in emergencies. |
+| **Machinery Space** | Any space containing propulsion, steering, generators, boilers, or major electrical systems. |
+| **Engine Space** | Space containing propulsion or auxiliary engines and connected areas. |
+| **Classification Society** | Member of IACS (International Association of Classification Societies). |
+| **Product Certification Body** | Accredited body certifying products meet safety standards. |
+| **Recommended Practices & Standards** | Industry or government-issued standards for marine use. |
+
+> ⚠️ **Note**: References to "near coastal voyage, Class 2" include "inland voyage" **except** in specific provisions (e.g., 3.25(1), 3.27(1) subparas b(ii)).
+
+---
+
+## 🚢 VESSEL OPERATIONAL AND SAFETY REQUIREMENTS
+
+### 1. **Design, Construction, and Equipment**
+- The **authorized representative** must ensure the vessel is:
+  - Designed and constructed to operate safely and be **seaworthy** in its area of operation.
+- If the **Minister** has reasonable grounds to believe the vessel is unsafe, they may require the representative to prove compliance with safety requirements.
+
+### 2. **Stability and Modifications**
+- Any modification affecting **vessel stability** must be recorded.
+- Record must be maintained in a form and manner specified by the Minister.
+- For vessels that have undergone a stability assessment, the modification record is retained **until a new stability assessment** is conducted.
+
+### 3. **Freezing Spray Conditions**
+- **No operation** in areas where Environment Canada issues a **freezing spray warning** unless:
+  - A **stability assessment** confirms safe operation in freezing spray with ice accretion.
+- Vessels must carry **means to remove accumulated ice** from the hull.
+
+### 4. **Pre-Operation Notification**
+- Before first service, the authorized representative must inform the Minister of:
+  - Intention to operate the vessel.
+  - Physical characteristics (size, length, tonnage, etc.).
+  - Nature of operation (e.g., trawling, purse seining).
+- The representative must provide this information upon request.
+
+### 5. **Design Limitations and Safe Operation**
+- **No operation** beyond the vessel’s **design limitations**.
+- **No careless operation** — must be conducted with due care, attention, and consideration for others.
+
+### 6. **Lifejacket Requirements**
+- **All persons on board** must wear a lifejacket when:
+  - Vessel has **no deck or deck structure** → all must wear lifejackets.
+  - Vessel has a **deck** → all persons on the deck or in the cockpit must wear lifejackets.
+
+### 7. **Weather-Exposed Openings**
+- Openings exposed to weather must be **closed** when not needed for operations.
+- If danger of water entry exists, they must be **closed immediately**.
+
+### 8. **Maintenance and Tools**
+- Tools and spare parts for routine maintenance and minor repairs must be:
+  - Carried on board.
+  - Secured in a **readily accessible location**.
+
+### 9. **Fuel Safety (Gasoline-Powered Vessels)**
+- **Engine space blower must run for at least 4 minutes** before starting the engine.
+- **No fuel leakage** allowed.
+- **Fuel discharge** must comply with *Vessel Pollution and Dangerous Chemicals Regulations*.
+- **Fueling rules**:
+  - At dockside or beached:
+    - If portable tank: must be removed.
+    - If fixed tank: only one person allowed on board.
+  - When fueling a fixed tank:
+    - All electrical equipment must be off.
+    - All doors, windows, and ports must be closed.
+    - All engines must be shut off.
+    - All open flames (including pilot lights) must be extinguished.
+- **Portable fuel tanks** must be stored:
+  - Far from heat, ignition sources, machinery, and crew quarters.
+- **Fueling via funnel/nozzle**:
+  - Requires continuous contact between shipboard pipe and filling device during operation.
+
+### 10. **Portable Fuel-Burning Equipment**
+- Must be:
+  - Used only in **well-ventilated open spaces or on open decks**.
+  - **Secured** to prevent movement during use.
+  - Stored in **well-ventilated, isolated areas** from heat and ignition sources.
+
+---
+
+## 🔐 SAFETY PROCEDURES AND DRILLS
+
+### Required Safety Procedures (in writing, in English/French/bilingual):
+1. Location and use of **all safety equipment**.
+2. Measures to:
+   - Prevent falls overboard.
+   - Retrieve persons who fall overboard.
+   - Protect limbs from rotating equipment.
+   - Avoid hazards from ropes, nets, docking lines, etc.
+3. **Emergency load release** (for beam trawling and purse seining).
+4. Fire and explosion prevention measures.
+5. **Watertight/weathertight integrity**:
+   - With deck → prevent flooding of interior spaces.
+   - Without deck → prevent swamping.
+6. Safe loading, stowing, and unloading of fish, bait, and consumables.
+7. Operation of **towing and lifting equipment** and **prevention of overloading**.
+
+### Drills

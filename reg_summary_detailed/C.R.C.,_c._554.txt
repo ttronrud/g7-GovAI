@@ -1,0 +1,157 @@
+**Detailed Summary of the *Defence Services Pension Continuation Regulations***
+
+---
+
+### **Overview**
+
+The *Defence Services Pension Continuation Regulations* (the "Regulations") are a set of administrative rules implementing the *Defence Services Pension Continuation Act* (the "Act"). These regulations govern how certain individuals—particularly former members of the Canadian Armed Forces and public service personnel—may have their pensions adjusted or extended through **"augmenting service"**, which refers to full-time, paid service performed *after* receiving a pension. The Regulations establish the conditions under which such service can be counted toward pension calculations, the obligations of pensioners to repay or contribute, and the rules for computing and adjusting pensions based on this service.
+
+They also address special provisions for officers and militiamen, including eligibility, service recognition, pension computation, repayment obligations, and the treatment of absences or non-contributory periods.
+
+---
+
+## **Key Definitions and Interpretations**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Defence Services Pension Continuation Act*; the primary legislative framework. |
+| **Forces** | The regular force of the Canadian Forces, including historical components such as the Royal Canadian Navy, Canadian Army Active Force, Permanent Active Militia, and Royal Canadian Air Force (Regular), as defined before February 1, 1968. |
+| **Pension** | A pension granted under Parts I to III of the Act, based on service in the forces or public service. |
+| **Pensioner** | A person who has received a pension under the Act. |
+| **Public Service** | All branches of the Canadian public service covered by the *Public Service Superannuation Act*. |
+| **Augmenting Service** | Any continuous full-time paid service of one year or more (or six months or more for officers) *after* the grant of a pension, during which the individual receives pay equivalent to that of a force member. |
+| **Ultimate Table (a(f))** | A mortality table used in actuarial calculations (from 1924), used in computing pension amounts. |
+| **Mortality Tables** | Canadian Life Tables No. 2 (1941), used for interest and mortality assumptions in pension calculations. |
+
+---
+
+## **Core Provisions and Analysis**
+
+---
+
+### **1. Eligibility for Augmenting Service (Service Counting)**
+
+#### **General Rule (Section 5(1))**
+- A pensioner who serves on a full-time paid basis in the forces or in the naval, army, or air forces of Canada or the Canadian Forces (excluding the "forces") and receives **pay equivalent to their rank** may **elect** to count that service as part of their pensionable term.
+- The election must be made **within one year** of the start of such service.
+
+#### **Service Conditions for Counting**
+- The service must be **continuous full-time**.
+- The individual must receive **pay of their rank** as if still in the forces.
+- The service must be **in addition** to periods already counted under Parts I to III of the Act.
+
+> ⚠️ Important: This service **cannot be counted under other provisions** (e.g., under public service rules), except where specifically allowed (e.g., under sections 37(1)(b) or 41(c)).
+
+---
+
+### **2. Special Case: Pre-War Service in RCAF (Non-Permanent Active Air Force)**
+
+- Officers who served in the **Royal Canadian Air Force (RCAF)** before September 10, 1939, **without receiving full pay**, but later served **on active duty during WWII** and received pay or allowances under service regulations:
+  - Their **continuous full-time service** (six months or more) **shall be included** in pension computation and contribution purposes.
+
+> This provision recognizes service during wartime that may have been under non-standard pay arrangements but still qualifies for pension credit.
+
+---
+
+### **3. Service as a Member of the Regular Force of the Canadian Forces**
+
+- For **officers or militiamen**, service in the **regular force** of the Canadian Forces is included as augmenting service, regardless of whether they were previously pensioned.
+
+> This allows for recognition of service in the regular force as a form of career continuity.
+
+---
+
+### **4. Election and Repayment Obligations**
+
+#### **Election Requirements**
+- Must be made in **writing**, **witnessed**, and **submitted to a designated person by the Minister** within **one month** of the election.
+- Must be **evidenced by a formal document** (prescribed by the Minister).
+
+#### **Repayment Rules**
+- **If the pensioner receives pension payments during augmenting service**, they must repay:
+  - The total amount received **without interest**.
+  - In **equal instalments** over a period similar to the original pension duration.
+  - Installments begin **one month after the election date**.
+  - **Exception**: No repayment is required if the pensioner’s pay and allowances are reduced by the amount of the pension.
+
+- **If the pensioner receives a gratuity**:
+  - Must repay the **gratuity amount plus 4% simple interest per annum** from the date of payment to the date of election.
+  - For **partial service**, repayment is proportional to the portion of the service counted.
+
+> Repayment can be made in **one lump sum** or in **instalments** (life or for a fixed term, whichever is shorter), with **interest at 4% per annum** and **mortality based on Canadian Life Tables No. 2 (1941)**.
+
+> **Note**: If the pensioner later chooses to settle the outstanding amount, they may do so in one sum or over a shorter period.
+
+---
+
+### **5. Deductions from Pay for Augmenting Service**
+
+#### **For Service After Election**
+- Deductions are made from the pensioner’s **pay at the rate and manner specified in Section 47 of the former Act** (i.e., prior to the current Act).
+
+#### **For Service Before Election**
+- **Non-contributory service**:
+  - Treated as if it were **prior non-contributory service** under Part V of the former Act.
+  - Repayment would have been made under the old rules.
+
+- **Contributory service**:
+  - If deductions or contributions were already made (under the Public Service Superannuation Act or Civil Service Superannuation Act), and **not previously repaid**, those amounts are **deemed as required deductions**.
+  - If **previously repaid**, treated as if the service were eligible under **subsections 56(3) and (4)** of the former Act.
+
+> These deductions are **not** made retroactively unless the pensioner elected to count the service.
+
+---
+
+### **6. Pension Calculation Based on the "Pensionable Term"**
+
+The pensionable term is the **original pension term + elected augmenting service**.
+
+#### **For Militiamen**
+- **Original service < 20 years**:
+  - 1/50th of average annual pay and allowances over the **last 6 years** of the pensionable term.
+
+- **Original service 20–24 years**:
+  - 2/50th of last 6 years' average pay + **2/50th per year over 20 years** + **1/50th per year of augmenting service**.
+
+- **Original service ≥ 25 years**:
+  - 3/50th of last 6 years' average pay + **1/50th per year over 25 years** + **1/50th per year of augmenting service**.
+
+#### **For Officers**
+- **Pension = 1/50th of average annual pay and allowances** for **each year** of the pensionable term.
+
+> ⚠️ **Maximum Limits**:
+- Officers: Pension **not to exceed 35 years** of service in total.
+- Militiamen: Pension **not to exceed two-thirds** of average pay and allowances during the **last 3 years** of original service.
+
+> These caps prevent excessive pension increases due to long augmenting service.
+
+---
+
+### **7. Conditions for Pension Recalculation (Subsection 9(1))**
+
+A pensioner **may be entitled to a pension computed on the pensionable term** only if:
+- The **Minister is satisfied** (for officers), or
+- A **board of three officers** (under Section 15 of the Act) **certifies** (for militiamen) that:
+  - The circumstances of service and reason for ceasing augmenting service would **justify a pension grant** if the person had been otherwise eligible.
+
+> This ensures that the election is not made frivolously or without justification.
+
+---
+
+### **8. Death During Augmenting Service or Pension Calculation**
+
+- If a pensioner **dies while performing augmenting service** or while receiving a pension based on the pensionable term:
+  - Their **widow** may be granted a pension based on the pensionable term.
+  - Each of their **children** may receive a **compassionate allowance**, provided they are otherwise eligible under the Act.
+
+> This provides family support in the event of death during service.
+
+---
+
+### **9. Alternative Pension Option (Section 10)**
+
+If the pension computed under Section 9(1) is **less than**:
+> (Original pension) + (1/50th of average pay and allowances during augmenting service) × (number of years of augmenting service)
+
+Then the pensioner is entitled to an **annual pension equal to the greater of**:
+- The computed pension, or

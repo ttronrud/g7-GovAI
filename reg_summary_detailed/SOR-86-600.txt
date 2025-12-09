@@ -1,0 +1,193 @@
+### **Detailed Summary of the Central Registry of Divorce Proceedings Regulations, 1986**
+
+---
+
+#### **Background and Legal Authority**
+These regulations were introduced by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Justice**, under **subsection 26(1) of the Divorce Act, 1985**. The purpose was to **repeal the previous Divorce Regulations (C.R.C., c. 557)** and replace them with a new set of rules establishing a **centralized registry for divorce proceedings in Canada**.
+
+The new regulations came into force on **June 1, 1986** (S.C. 1986, c. 4), and were designed to improve transparency, prevent duplication of proceedings, and ensure that courts are aware of existing or pending divorce cases involving the same spouses.
+
+> **Note:** These regulations were repealed in 2013 under SOR/2013-169, Section 2. However, this summary focuses on their original content and intent.
+
+---
+
+## **Key Components of the Regulations**
+
+---
+
+### **1. Definition of Key Terms**
+
+- **Act**: Refers to the *Divorce Act, 1985*.
+- **Application for divorce**: A formal request submitted under subsection 8(1) of the Divorce Act.
+- **Central registry**: A centralized database established in **Ottawa, Ontario**, to track all divorce proceedings across Canada.
+- **Order**: Refers to the *Central Registry of Divorce Proceedings Fee Order*, which governs fees associated with filing and processing applications.
+- **Registrar**: The chief administrative officer of a court (including the registrar, prothonotary, or clerk of the court).
+
+> *Note: The "registration form" was later repealed (SOR/2013-169, s. 3), meaning the system now relies on electronic or standardized forms agreed upon between registrars and the central registry.*
+
+---
+
+### **2. Establishment and Location of the Central Registry**
+
+- A **central registry of divorce proceedings** is established in **Ottawa, Ontario**.
+- This registry serves as a **national database** to help courts determine whether a divorce proceeding is already pending or whether a prior divorce has already been granted.
+
+---
+
+### **3. Mandate of the Central Registry**
+
+The primary purpose of the registry is to:
+- Assist courts in determining **jurisdiction** over divorce cases.
+- Prevent **duplicate filings** by spouses applying for divorce in different courts.
+- Maintain a **comprehensive, accurate record** of all divorce proceedings involving a given marriage.
+
+This is achieved by collecting and storing specific personal and procedural information about each application.
+
+---
+
+### **4. Assignment of Divorce Registry Numbers**
+
+When an application for divorce is filed:
+
+#### **(a) Number Assignment**
+- The **registrar of the court** must assign a unique **divorce registry number** to the application.
+- The number must be the **next sequential number** after the last one assigned by that court’s registrar.
+
+#### **(b) Information to Be Provided to the Central Registry (within 7 days)**
+Within seven days of filing, the registrar must submit the following information to the central registry:
+
+| Information Item | Details |
+|------------------|--------|
+| Court number and divorce registry number | Assigned to the application |
+| Province and date of filing | Where and when the application was filed |
+| Date of marriage | For the marriage in question |
+| For each spouse: | |
+| - Role in the proceeding | Applicant, joint applicant, or respondent |
+| - Surname and given names on the day before marriage | As they existed at the time of marriage |
+| - Gender and date of birth | On the day before the marriage |
+| Fee status | If no fee is attached, state that the fee will be sent upon invoicing or that no fee applies |
+
+> This data is submitted either on a **form established by the central registry** or in an **agreed-upon electronic format**.
+
+---
+
+### **5. Handling of Transfers Between Courts**
+
+If a divorce proceeding is **transferred** from one court to another:
+
+#### **(a) New Registry Number**
+- The **new court’s registrar** assigns a new divorce registry number that follows the sequence of the last number assigned by that court.
+
+#### **(b) Information to Be Provided (within 7 days)**
+The transferring registrar must provide the central registry with:
+
+| Information Item | Details |
+|------------------|--------|
+| Court number and divorce registry number of the **transferring court** |
+| Court number and province of the **new court** |
+| Date of transfer |
+| Date of marriage |
+| For each spouse: role, surname, given names, gender, and date of birth |
+
+> Again, this information must be submitted via an official form or electronic format, signed and dated by the registrar.
+
+---
+
+### **6. Processing of Submitted Information by the Central Registry**
+
+Upon receiving the information, the central registry performs the following steps:
+
+#### **(a) Verification of Completeness and Accuracy**
+- Checks whether all required information is present.
+- If missing or incorrect, **requests correction or completion** from the registrar within 7 days.
+
+#### **(b) Sequence Validation**
+- Verifies that the divorce registry number is in **sequential order**.
+- If not, **requests an explanation** from the registrar within 7 days, or requires correction.
+
+#### **(c) Entry into the Central Record**
+- Once the information is complete, accurate, and properly sequenced, it is **entered into the central database**.
+
+---
+
+### **7. Notification to Registries of Pending or Existing Divorce Proceedings**
+
+After receiving a new application, the central registry checks its records to determine:
+
+- Whether **another divorce proceeding is pending** between the same spouses.
+- Whether a **divorce has already been granted** for that marriage.
+
+#### **Notifications Sent Based on Findings:**
+
+| Scenario | Notification Sent To |
+|--------|------------------------|
+| **Another divorce proceeding is pending** (even if filed in different courts) | To the **registrars of all courts** where the applications were filed (if filed on different days) <br> OR to **all registrars** and the **Registry of the Federal Court** (if filed on the same day) |
+| **A divorce has already been granted** | To the **registrar of the court** where the current application was filed |
+| **No pending proceedings and no prior divorce** | To the **registrar of the court** where the application was filed |
+
+> The notification is **valid for six years** from the date it is issued.
+
+#### **Renewal of Notifications**
+- If the divorce proceeding is **not dismissed or discontinued**, and no final judgment has been issued:
+  - The **registrar of the court of competent jurisdiction** can request a **renewal** of the notification.
+  - The central registry will issue a renewed notification valid for another **six years**.
+
+> This ensures that the registry remains updated and active during the duration of the case.
+
+---
+
+### **8. Registrar Responsibilities Upon Receiving a Notification**
+
+When a registrar receives a notification from the central registry:
+
+- Must **place the notification with the relevant application file**.
+- Must **inform the applicant (spouse who filed)** if:
+  - There is **another pending divorce** between the spouses, or
+  - A **divorce has already been granted**.
+
+This ensures that applicants are fully informed and can avoid duplicative or invalid applications.
+
+---
+
+### **9. Information to Be Submitted Upon Transfer or Case Closure**
+
+#### **(a) Upon Transfer**
+- Within 7 days of transfer, the **transferring court’s registrar** must provide:
+  - Court number and divorce registry number of the transferring court
+  - Province and (if known) court number of the receiving court
+  - Surname and given names of each spouse on the day before marriage
+
+#### **(b) Upon Discontinuance or Final Judgment**
+- Within 7 days after:
+  - The case is **discontinued**, or
+  - A judgment is **dismissed or granted**
+- The registrar must send to the central registry:
+  - Court number and divorce registry number
+  - Surname and given names of each spouse
+  - Outcome of the proceeding (discontinuance, dismissal, or grant)
+  - Date when the proceeding ended or judgment took effect
+
+> All such information must be submitted via an official form or electronic format, signed by the registrar.
+
+---
+
+### **10. Presumption of Discontinuance (Record Keeping Rule)**
+
+For the **sole purpose of record keeping**, the central registry will **presume a divorce proceeding has been discontinued** if:
+
+- It does **not receive** the required information under subsection 7(2), or
+- It does **not receive** a request for renewal of the notification within the **six-year period**.
+
+> This is a **presumption**, not a legal conclusion. It means the registry will treat the case as inactive after six years, unless evidence to the contrary is provided.
+
+---
+
+## **Key Objectives and Impacts of the Regulations**
+
+| Objective | Explanation |
+|--------|-------------|
+| **Prevent Duplicate Filings** | By maintaining a national database, the system ensures that spouses cannot file for divorce more than once on the same marriage. |
+| **Improve Court Jurisdiction Determination** | Helps courts assess whether they have jurisdiction to hear a case, especially when multiple applications are filed. |
+| **Enhance Transparency and Accountability** | Creates a clear, centralized record of all divorce proceedings. |
+| **Support Legal and Administrative Efficiency** | Reduces delays and errors by ensuring all relevant parties are informed. |
+| **Protect Spouses' Rights** | Prevents one spouse from being

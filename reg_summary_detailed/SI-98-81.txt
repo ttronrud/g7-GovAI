@@ -1,0 +1,185 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the regulation titled:
+
+> **"Specifications Relating to Non-automatic Weighing Devices (1998)"**,  
+> established under the *Weights and Measures Act* and *Weights and Measures Regulations*,  
+> effective **June 15, 1998** (SOR/93-234, C.R.C., c. 1605).
+
+---
+
+## 🔍 **Overview of the Regulation**
+
+This regulation establishes the **performance, design, accuracy, and operational requirements** for **non-automatic weighing devices** (i.e., devices that require operator intervention during the weighing process). It defines key technical terms, classifies devices by accuracy and performance, sets **in-service and acceptance error limits**, and specifies requirements for environmental stability, durability, and fraud prevention.
+
+The regulation applies to a wide range of devices such as **platform scales, balance scales, digital scales, and on-board weighing systems** used in commerce, retail, agriculture, and logistics — where accurate weight measurements are critical to fair trade and transaction validity.
+
+---
+
+## 📚 Key Definitions (Core Terminology)
+
+| Term | Definition |
+|------|-----------|
+| **Actual Scale Interval (d)** | The physical difference between two adjacent scale marks (analogue) or values (digital). Determines the smallest readable increment. |
+| **Verification Scale Interval (e)** | A manufacturer-specified value used to classify, inspect, and verify a device’s compliance. Used for regulatory testing. |
+| **Metrological Function** | Any function essential to measurement — including sensing, processing, storing, correcting, and displaying weight or price values. Includes tare, net, gross, pricing, and rounding. |
+| **Module** | A component (e.g., display, sensor, load cell) that performs a metrological function and can be tested independently. Subject to error limits. |
+| **Multi-interval Device** | A single weighing range divided into sub-ranges with different scale intervals. Automatically selects the correct range based on load. |
+| **Multiple Range Device** | Has two or more independent weighing ranges (e.g., 0–10 kg, 0–50 kg), each with a different verification scale interval. Operator or auto-selects range. |
+| **Non-automatic Weighing Device** | Requires human action to place/remove load and obtain results (e.g., beam scales with weights). Contrasts with automatic devices. |
+| **Auxiliary Indicating Element** | A visual aid (e.g., vernier, last digit in digital display) that helps read the scale more precisely. |
+| **Initial Zero-Setting Mechanism** | Automatically sets the device to zero when powered on. |
+| **On-board Weighing System** | Integrated into mobile equipment (trucks, forklifts, trailers). Must meet strict stability and safety standards. |
+
+> ⚠️ **Note**: All references to "verification scale interval" or "actual scale interval" refer to the **current weighing range or partial range** being tested.
+
+---
+
+## 📐 Classification of Devices
+
+Devices are classified into **classes** based on:
+
+- Accuracy (precision)
+- Verification scale interval (e)
+- Number of verification scale intervals
+
+The classification system uses **Oval outlines with text labels**:
+
+| Class | Description |
+|------|-------------|
+| **Class I** | Highest accuracy; most stringent error limits. |
+| **Class II** | Moderate accuracy. |
+| **Class III** | Standard accuracy; used in general trade. |
+| **Class IIIHD** | A higher-precision version of Class III, designed for high-traffic or sensitive applications. |
+| **Class IIII** | Lower accuracy; typically used in less critical applications. |
+
+> ✅ **On-board weighing systems** are **limited to Classes III, IIIHD, and IIII**.  
+> ❌ Class I and II are **not permitted** for on-board systems.
+
+---
+
+## 📏 Verification Scale Interval (e) Rules
+
+| Device Type | Verification Scale Interval (e) |
+|-----------|-------------------------------|
+| **Class I & II (no auxiliary element)** | Equal to actual scale interval (d) |
+| **Class I & II (with auxiliary element)** | Equals the scale interval **before** the auxiliary element (i.e., larger than d) |
+| **Class III, IIIHD, IIII (all types)** | Equal to actual scale interval (d) |
+| **Multi-interval devices** | Each partial range has a **smaller e** than the next higher range. All ranges must comply with class requirements. |
+
+> Example: A multi-interval scale with ranges 0–100g (e=1g), 100–500g (e=2g), 500–1000g (e=5g) must meet Class III requirements in each range.
+
+---
+
+## ✅ In-Service Error Limits (Per Load)
+
+These define the **maximum allowable deviation** from true weight for a given load (in terms of verification scale intervals, "e").
+
+| Class | Error Limit (Load Range) |
+|------|--------------------------|
+| **Class I & II** | ±1e (for all loads) |
+| **Class III** | ±1e (up to 500e); then **+1e per every 800e** beyond 500e, capped at ±22e |
+| **Class IIIHD** | ±1e (up to 500e); then +1e per every 800e (max ±22e) |
+| **Class IIII** | ±1e (up to 500e); then +1e per every 800e (max ±22e) |
+
+> ⚠️ These limits apply **per load**, and are based on the **number of verification scale intervals (m)** the load represents.
+
+---
+
+## ✅ Acceptance Limits of Error
+
+These are **half** of the in-service error limits and are used during **approval testing** (e.g., certification or factory inspection).
+
+> Formula:  
+> **Acceptance Limit = ½ × In-Service Limit**
+
+> Example:  
+> If in-service limit is ±1e, acceptance limit is ±0.5e.
+
+> ⚠️ **Exception for modules**:
+> - If a **module** (e.g., load cell, display) is tested separately:
+>   - **If it’s the only source of error**, acceptance limit = full in-service limit.
+>   - **For all other modules**, acceptance limit = **0.7 × in-service limit**.
+
+---
+
+## 🔍 Performance Requirements (Testing & Operation)
+
+### 1. **Repeatability & Consistency**
+- **Same load, same position**: Weight results must differ by **≤ in-service error**.
+- **Different load positions**: Weight results must differ by **≤ in-service error**.
+
+> Ensures consistency across different placements.
+
+---
+
+### 2. **Load-Induced Movement (Non-automatic Devices)**
+
+When a load is added or removed equal to **± in-service error** (but ≤ 2e):
+
+| Device Type | Movement Requirement |
+|-----------|------------------------|
+| **Without supplementary indicator** | Beam moves from center to limit of trig loop (or to end of lever system) |
+| **With supplementary indicator (no values)** | Indicator must move at least: |
+| - Class I/II | 1 mm (0.04 in.) |
+| - Class III/IIII (≤30 kg) | 2 mm (0.08 in.) |
+| - Class III/IIII (>30 kg) or IIIHD | 5 mm (0.2 in.) |
+
+> Ensures mechanical response is proportional to load.
+
+---
+
+### 3. **Automatic Devices (Digital/Analog)**
+
+When a load of **1.4 × actual scale interval** is added or removed:
+
+- **Analogue display**: Must change by **at least one actual scale interval**.
+- **Digital display**: Must change by **at least two actual scale intervals**.
+
+> Ensures sensitivity and responsiveness.
+
+---
+
+### 4. **Zero Stability (After Load Removal)**
+
+Under stable conditions, after removing a load that stayed for up to 30 minutes:
+
+| Device Type | Deviation from Zero |
+|-----------|---------------------|
+| Single range | ≤ ½ e |
+| Multiple range | ≤ ½ e (of tested range) |
+| Multi-interval | ≤ ½ (smallest e) |
+
+> Ensures no drift or residual error after use.
+
+---
+
+### 5. **Switching Between Ranges (Multiple Range Devices)**
+
+After removing a load > max capacity of first range, and switching to lowest range:
+
+- Within **5 minutes**, the zero indication must not vary by more than **1 e** of the lowest range.
+
+> Prevents instability during range changes.
+
+---
+
+### 6. **Steady-State Weight (Over Time)**
+
+If a load is kept on the scale for up to 30 minutes:
+
+- The weight reading must not change by more than the **in-service error limit**.
+
+> Ensures no time-dependent drift.
+
+---
+
+### 7. **Consistency Between Elements (Indication Agreement)**
+
+Weight values from different parts of the system must agree:
+
+| Case | Agreement Requirement |
+|------|------------------------|
+| **Digital elements with same e** | Must be **exactly equal** |
+| **Analogue elements with same e** | Must differ by **≤ 0.25e** |
+| **All other cases** | Must differ by **≤ 0.6e** (largest e or common e) |
+
+> Ensures

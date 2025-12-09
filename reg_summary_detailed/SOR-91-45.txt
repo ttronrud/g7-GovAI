@@ -1,0 +1,140 @@
+Certainly. Below is a **detailed, clear, and comprehensive summary** of the provided regulation, which was originally enacted under the *Excise Tax Act* and relates to the **information that a registrant must obtain before claiming an input tax credit (ITC)** in a tax return.
+
+---
+
+## 📚 **Detailed Summary of the Regulation on Input Tax Credit Supporting Documentation Requirements**
+
+### 🔹 **Regulatory Background**
+This regulation was made by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of National Revenue**, under **subsections 169(4)** and **277(1)** of the *Excise Tax Act*.  
+It establishes the **minimum information requirements** that a registrant must have and maintain in order to **legitimately claim an input tax credit (ITC)** on a tax return.
+
+> **Note**: This regulation was originally introduced in 1990 (S.C. 1990, c. 45, s. 12(1)) and was **repealed in 2014** (SOR/2014-248, s. 16). However, the content provided appears to be a **historical or archived version** of the regulation, possibly referencing a prior version that has since been superseded or replaced by updated rules (e.g., under the GST/HST system). Therefore, this summary is based on the **text as given**, even though it is no longer in force.
+
+---
+
+## 🔍 Key Definitions Used in the Regulation
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Excise Tax Act*, which governs the collection and administration of goods and services tax (GST), provincial sales tax (PST), and related credits. |
+| **Intermediary** | A person (such as an agent or third party) who acts on behalf of a supplier to facilitate a supply. This includes someone who is deemed to have acted as an agent under subsection 177(1.11) of the Act. |
+| **Provincial Sales Tax (PST)** | A provincial tax imposed under paragraph 3(b) of the *Taxes, Duties and Fees (GST) Regulations*. |
+| **Provincial Sales Tax Paid or Payable** | PST that became payable or was actually paid. |
+| **Status** | The tax classification of a supply: <br> - Exempt <br> - Taxable and zero-rated <br> - Taxable and not zero-rated |
+| **Supporting Documentation** | Any valid record that supports a claim for input tax credit. Includes: <br> - Invoice <br> - Receipt (including credit card) <br> - Debit note <br> - Ledger/book of accounts <br> - Written contract/agreement <br> - Electronic records (e.g., in a computerized system) <br> - Any other document issued or signed by a registrant |
+| **Tax Paid or Payable** | Tax that became due or was actually paid. |
+
+---
+
+## 📋 Prescribed Information for Claiming Input Tax Credit
+
+The regulation specifies **different levels of required documentation** depending on the **total amount paid or payable** for the supply or group of supplies. These tiers are designed to balance **accuracy, compliance, and administrative burden**.
+
+---
+
+### 🟢 Tier 1: Total Amount < $100
+
+When the total amount paid or payable is **less than $100**, the registrant must have the following:
+
+1. **Name of the supplier or intermediary** (or the name under which they do business).
+2. If an invoice is issued:
+   - The **date of the invoice**.
+3. If no invoice is issued:
+   - The **date when tax became payable** (i.e., the date tax was paid or became due).
+4. The **total amount paid or payable** for all supplies involved.
+
+> ✅ *This tier applies to small, low-value transactions and reduces compliance requirements for minor purchases.*
+
+---
+
+### 🟡 Tier 2: Total Amount ≥ $100 and < $500
+
+When the total amount is **$100 or more but less than $500**, the registrant must have:
+
+1. **Name of the supplier or intermediary** and their **registration number** (assigned under section 241 of the Act).
+2. All information from Tier 1 (date, total amount, etc.).
+3. **Additional information** if tax is separate from the price:
+   - The **amount of tax paid or payable** for each supply or for all supplies.
+4. **If PST is payable** (on taxable, non-zero-rated supplies):
+   - The **total of:**
+     - Tax under Division II of Part IX of the Act (i.e., GST),
+     - Provincial Sales Tax (PST) on each taxable supply.
+   - A **clear statement** that this total includes both GST and PST.
+5. **If the amount paid includes tax**:
+   - A **statement** that tax is included in the amount paid.
+6. **Total tax rate** (for taxable, non-zero-rated supplies):
+   - The combined rate(s) at which tax was paid.
+7. **Amount paid** for each such supply or the total for supplies with the same tax rate.
+8. **Status indication**:
+   - If two or more supplies have different statuses (e.g., one taxable, one exempt), the status of each taxable, non-zero-rated supply must be clearly indicated.
+
+> ⚠️ *This tier increases requirements as transaction size grows, ensuring better traceability and tax accuracy.*
+
+---
+
+### 🔴 Tier 3: Total Amount ≥ $500
+
+For transactions of **$500 or more**, registrants must provide **all information from Tiers 1 and 2**, plus:
+
+1. **Recipient’s details**:
+   - Full name of the recipient.
+   - Name under which the recipient does business.
+   - Name of the recipient’s **duly authorized agent or representative** (if applicable).
+2. **Terms of payment** (e.g., cash, cheque, bank transfer, credit card, etc.).
+3. A **detailed description of each supply** sufficient to identify it (e.g., product name, quantity, service type, date, etc.).
+
+> 💡 *This tier ensures full transparency and accountability for large purchases, helping prevent fraud and misrepresentation.*
+
+---
+
+## ⏱️ Effective Dates
+
+- **Section 1** (general provisions): Came into force on **April 1, 1997**.
+- **Section 2 and subsections 3(1), (2), and (4)**: Apply to supplies made **after April 23, 1996**.
+- **Subsection 3(3)**: Applies to supplies made **after March 1997**, **except**:
+  - For supplies made **before February 1998**, **paragraph 3(b)(iv)** of the regulation (as enacted by subsection 3(3)) **does not apply** — meaning those pre-1998 transactions were exempt from certain requirements.
+
+> 📌 This suggests a **phased implementation** of stricter documentation rules, allowing businesses time to adjust their records.
+
+---
+
+## 📌 Key Objectives of the Regulation
+
+| Objective | Explanation |
+|--------|-------------|
+| **Ensure Accuracy in ITC Claims** | Prevents over-claiming of input tax credits by requiring proper documentation tied to actual transactions. |
+| **Improve Tax Compliance** | Forces registrants to maintain records that clearly link purchases to their tax obligations. |
+| **Support Audit and Enforcement** | Provides clear, standardized information that tax authorities can use to verify claims during audits. |
+| **Differentiate by Transaction Size** | Uses a tiered approach to reduce burden on small purchases while increasing rigor for larger ones. |
+| **Clarify Tax Inclusions** | Helps distinguish between purchases where tax is included in the price versus where it is separate. |
+
+---
+
+## ⚠️ Important Notes & Interpretations
+
+1. **Supporting Documentation Must Be Valid and Issued by the Registrant**  
+   Only documents **validly issued or signed by the registrant** (i.e., the supplier or intermediary) qualify. This ensures authenticity and accountability.
+
+2. **Status Matters**  
+   The regulation explicitly requires identification of supply status (exempt, zero-rated, taxable) — especially when multiple supplies are involved. This is crucial because:
+   - Exempt supplies do not generate tax credits.
+   - Zero-rated supplies have zero tax, but may still be eligible for credit on input taxes.
+   - Taxable supplies (non-zero-rated) generate tax that must be accounted for.
+
+3. **Tax Inclusion Clarity**  
+   The requirement to state whether tax is included in the amount paid helps prevent errors in credit calculations.
+
+4. **Electronic Records Are Valid**  
+   The regulation recognizes **computerized or electronic data systems** as acceptable forms of documentation — reflecting modern business practices.
+
+5. **Historical Context**  
+   This regulation was part of early efforts to implement **GST input tax credit rules** in Canada. It predates the full integration of the GST/HST system and reflects a transitional phase in tax administration.
+
+---
+
+## ❌ Status of the Regulation Today
+
+> 🔴 **This regulation has been repealed** by **SOR/2014-248, section 16**.
+
+- The current rules governing input tax credit documentation are now under the **Goods and Services Tax/Harmonized Sales Tax (GST/HST) Act** and its associated regulations (e.g., *Taxes, Duties and Fees (GST) Regulations*).
+-

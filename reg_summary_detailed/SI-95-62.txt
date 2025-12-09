@@ -1,0 +1,163 @@
+### **Detailed Summary of the Harbourfront Remission Order (S.C. 1991, c. 24, s. 7(2))**
+
+---
+
+#### **Overview**
+The *Harbourfront Remission Order* is a statutory instrument issued by His Excellency the Governor General in Council, acting on the recommendation of the Minister of Finance, under **subsection 23(2) of the Financial Administration Act**. The Order provides for the **remission (forgiveness)** of income taxes, penalties, and interest associated with certain property exchanges involving the **Queens Quay West Land Corporation** (formerly known as Harbourfront Corporation) and related entities.
+
+This Order is designed to address tax consequences arising from a series of property exchanges that occurred between the late 1980s and early 1990s, primarily as part of urban redevelopment efforts in Toronto’s waterfront area. It aims to promote economic development and public interest by reducing the tax burden on specific taxpayers involved in these exchanges.
+
+The Order may be cited as the **Harbourfront Remission Order**.
+
+---
+
+### **Key Definitions**
+
+1. **Act**  
+   Refers to the *Income Tax Act* of Ontario, which governs the assessment and collection of income taxes and penalties.
+
+2. **Exchange**  
+   A transaction or series of transactions (identified in **Column I** of the Schedule) in which:
+   - A **transferor partnership or corporation** disposes of its interest in a property (Column III),
+   - And acquires an interest in another property (Column IV),
+   - Whether or not the disposal is directly to the party acquiring the new interest.
+
+   Exchanges may be the **first through fifth** in a sequence, each defined in the Schedule.
+
+3. **Transferor Corporation**  
+   Two specific corporations:
+   - **Rose Park Wellesley Investments Limited**
+   - **Rose Park Howard Investments Limited**  
+   Both are Ontario-incorporated corporations.
+
+4. **Transferor Partnership**  
+   Two specific partnerships:
+   - **HMS Partnership**: A partnership between 1006038 Ontario Inc. and 919889 Ontario Limited.
+   - **Huang & Danczkay Properties**: A partnership between Huang & Danczkay Limited and Huang & Danczkay Developments Inc.  
+   Both are Ontario-formed partnerships.
+
+5. **Properties Involved**  
+   The properties referenced in the Schedule (e.g., BQ-5, BQ-6, BQ-8, JQ-3, MLQ-3, MLQ-6, SQ-1, SQ-2, SQ-3, SQ-4, SQ-5, YQ-8, and the *proposed Realignment of Queens Quay West*) are defined as those shown in **Amendment No. 516 to the Official Plan — City of Toronto (Harbourfront Official Plan Part II)**, prepared by the Department of Public Works and the Environment, Survey and Mapping Section, Toronto, dated April 1992 (File: 2402.29; PG Map Nos. 50G-311, 312, 313).
+
+---
+
+### **Main Provisions of the Remission**
+
+#### **Section 3: Remission of Taxes, Penalties, and Interest**
+
+Remission is granted under the following conditions:
+
+---
+
+##### **1. For Transferor Partnerships**
+
+- **Eligible Taxpayers**: Members of a transferor partnership (i.e., individuals or entities that own a share in HMS Partnership or Huang & Danczkay Properties).
+- **Fiscal Period**: The fiscal period in which the transferor partnership disposes of an interest in a property listed in Column III of the Schedule.
+- **Remission Amount**:
+  - The amount by which:
+    - The **actual tax and penalties** paid by the taxpayer for the **taxation year ending** in that fiscal period,
+    - **Exceeds**
+    - The **tax and penalties that would have been payable** if the transferor partnership had received proceeds equal to the **cost amount** (as defined under the Income Tax Act) of the disposed interest immediately before the exchange.
+
+> In simpler terms: If the taxpayer paid more tax due to the exchange, and that tax would have been lower if the proceeds from the exchange had been equal to the original cost of the property, then the excess tax is forgiven.
+
+---
+
+##### **2. For Transferor Corporations**
+
+- **Eligible Entities**: Rose Park Wellesley Investments Limited and Rose Park Howard Investments Limited.
+- **Taxation Year**: The year in which the corporation disposes of an interest in a property listed in Column III of the Schedule.
+- **Remission Amount**:
+  - The amount by which:
+    - The **actual tax and penalties** paid by the corporation in that year,
+    - **Exceeds**
+    - The **tax and penalties that would have been payable** if the proceeds from the exchange had been equal to the **cost amount** of the disposed interest immediately before the exchange.
+
+> Again, this applies when the actual tax liability exceeds what would have been owed had the exchange resulted in proceeds matching the original cost of the property.
+
+---
+
+##### **3. Remission of Interest**
+
+- Any **interest (accrued interest)** on the remitted tax and penalties is also **forgiven**.
+- This ensures that taxpayers are not penalized for delayed payment due to the tax relief.
+
+---
+
+### **Conditions for Remission (Section 3 – Conditions)**
+
+Remission is **only granted** if the following conditions are met:
+
+1. **The disposed interest must be included in the inventory** of the transferor partnership or corporation **immediately before the exchange**.  
+   → This ensures the property was legally owned and accounted for at the time of the transaction.
+
+2. **Cost Amount Adjustment Rules for Acquired Interests**  
+   After the exchange, the cost amount of the newly acquired interest (called the *particular acquired interest*) is determined differently depending on the **type of exchange** (first, second, third, fourth, or fifth):
+
+---
+
+#### **For First or Second Exchange**  
+The cost amount of each acquired interest is treated as:
+> **The cost amount of the disposed interest** (i.e., the original cost of the property being sold)  
+→ This simplifies the accounting and treats the new interest as having been acquired at the original cost.
+
+#### **For Third, Fourth, or Fifth Exchange**  
+The cost amount of each acquired interest is calculated using the following formula:
+
+> **Cost Amount of Acquired Interest = (A) × (B) / (C)**
+
+Where:
+- **A** = The cost amount of the interest or interests disposed of in the exchange (immediately before the exchange)
+- **B** = The **fair market value** (FMV) of the particular acquired interest (immediately before the exchange)
+- **C** = The **total fair market value** of all interests in properties acquired in the exchange (immediately before the exchange)
+
+> This formula reflects a **pro-rata adjustment** based on market value, ensuring that the cost basis of the new property is aligned with the relative value of the exchange.
+
+---
+
+### **Purpose and Public Interest Rationale**
+
+The Order was enacted because:
+- The property exchanges were part of a **public infrastructure and urban development initiative** (the redevelopment of Queens Quay West).
+- The transactions involved **complex restructurings** of land ownership, often with public benefit in mind (e.g., creating new public spaces, parks, and waterfront access).
+- The tax treatment under the Income Tax Act could have created **unfair or excessive tax burdens** on developers and partners involved in these public-private partnerships.
+- Granting remission supports the **public interest** in promoting economic growth, sustainable development, and equitable land use in Toronto.
+
+---
+
+### **Key Implications and Effects**
+
+| Aspect | Impact |
+|-------|--------|
+| **Tax Relief** | Taxpayers involved in the exchanges receive relief on taxes and penalties that were higher than they would have been under a "cost-based" assumption. |
+| **Cost Basis Adjustment** | The cost basis of acquired properties is adjusted to reflect fair market value in later exchanges, which may affect future capital gains or deductions. |
+| **Public Development Focus** | Encourages investment in urban renewal projects by reducing the tax burden on key developers. |
+| **Legal and Accounting Clarity** | Provides a clear framework for how cost amounts are determined in multi-step property exchanges. |
+| **Limited Scope** | Applies only to the specific properties and entities listed in the Schedule and defined under the Order. |
+
+---
+
+### **Limitations and Exclusions**
+
+- The remission **does not apply** to:
+  - Taxpayers not members of a transferor partnership or corporation.
+  - Dispositions outside the listed properties.
+  - Exchanges not identified in the Schedule.
+- The rules apply only to **fiscal periods** in which the exchange occurred.
+- The remission is **not retroactive** beyond the specified time frame.
+
+---
+
+### **Conclusion**
+
+The **Harbourfront Remission Order** is a targeted, public-interest tax relief measure that:
+- Forgives income taxes, penalties, and interest on exchanges involving specific waterfront properties in Toronto.
+- Applies to two partnerships and two corporations involved in the redevelopment of Queens Quay West.
+- Uses a nuanced cost basis adjustment mechanism (especially in third and later exchanges) to reflect fair market value.
+- Promotes public development by reducing tax burdens on entities engaged in complex land restructurings.
+
+This Order demonstrates how tax policy can be used to support large-scale urban planning and infrastructure projects while ensuring fairness and transparency in tax treatment for participants.
+
+---
+
+> **Citation**: S.C. 1991, c. 

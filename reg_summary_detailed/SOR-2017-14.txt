@@ -1,0 +1,151 @@
+**Detailed Summary of the Vessel Fire Safety Regulations (S.C. 2001, c. 26)**
+
+---
+
+### **Overview**
+
+The *Vessel Fire Safety Regulations* (S.C. 2001, c. 26) are a set of Canadian regulations made under the *Canada Shipping Act, 2001*, specifically pursuant to **paragraph 35(1)(d)** and **subsection 120(1)**. These regulations establish **additional or complementary fire safety standards** that go beyond those required by the *International Convention for the Safety of Life at Sea, 1974 (SOLAS)* and its 1988 Protocol. The Governor in Council, on the recommendation of the Minister of Transport, has determined that these standards are necessary to enhance maritime safety, particularly in the areas of structural fire protection, fire safety systems, and fire-resistant materials.
+
+These regulations apply to **Canadian-registered vessels** operating **everywhere in Canadian waters and abroad**, with specific provisions depending on vessel type, size, passenger capacity, and route.
+
+---
+
+## **I. Key Definitions**
+
+The regulations begin with a comprehensive list of definitions that clarify key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Canada Shipping Act, 2001* |
+| **Cargo vessel** | Any vessel that is not a passenger vessel |
+| **Dangerous goods** | Substances/materials covered under the *IMDG Code* |
+| **Fire retardant coating/resin** | Must meet flame spread (≤25), smoke development (≤100) under CAN/ULC-S102 or ASTM E84 standards, or meet Annex 1 of the FTP Code |
+| **Fishing vessel** | As defined in the *Marine Personnel Regulations* |
+| **FSS Code** | *International Code for Fire Safety Systems* (IMO) |
+| **FTP Code** | *International Code for Application of Fire Test Procedures*, 2010 (IMO) |
+| **High-speed craft (HSC)** | Certified under either the 2000 or 1994 HSC Code |
+| **IMDG Code** | *International Maritime Dangerous Goods Code* |
+| **IMO** | International Maritime Organization |
+| **Length** | As defined in the *Vessel Registration and Tonnage Regulations* |
+| **Minister** | Minister of Transport |
+| **Near coastal voyage, Class 2, limited** | A voyage within 5 nautical miles of shore; max distance between ports ≤15 nm; not in sheltered waters |
+| **Passenger vessel** | Carries more than 12 passengers |
+| **Product certification body** | Accredited body (SCC or MLA member) certifying product compliance |
+| **Recognized organization** | Organization with an agreement with the Minister |
+| **Sheltered waters voyage** | As defined in the *Vessel Safety Certificates Regulations* |
+| **SOLAS** | The 1974 Convention and 1988 Protocol |
+| **Testing laboratory** | Accredited lab (SCC or ILAC member) producing test results |
+| **Type approval certificate** | As defined in the FTP Code |
+
+> **Note**: All terms defined in Chapter II-2 of SOLAS are used with the same meaning as in that chapter.
+
+---
+
+## **II. Interpretive Provisions**
+
+To ensure clarity and enforceability, the regulations include several interpretive rules:
+
+1. **"Should" = "Must"**  
+   In documents incorporated by reference, the word *"should"* is interpreted as *"must"*.
+
+2. **"Administration" = "Minister"**  
+   Any reference to "Administration" (a term used in IMO documents) is read as referring to the *Minister of Transport*.
+
+3. **Footnote content is mandatory**  
+   Guidelines, recommendations, or requirements in footnotes to incorporated documents are considered **mandatory**.
+
+4. **"May" = "Must" in specific FTP Code sections**  
+   - In **section 3.4 of Part 3, Annex 1 to FTP Code**, "may" is interpreted as "must".
+   - **Section 3.5.2.1** requires thermal radiation through windows to be tested and evaluated under Appendix 3 if escape routes pass near windows.
+   - The **hose-stream test procedure** in Appendix 2, Section 5 of Part 3 of FTP Code is **mandatory** if escape routes pass near windows.
+
+5. **FSS Code compliance requires Ministerial approval**  
+   Any system or equipment required by the FSS Code must be **approved by the Minister**.
+
+6. **No Ministerial approval needed for section 6 of FTP Code**  
+   If section 6 of the FTP Code applies (e.g., for certain materials or systems), Ministerial approval is not required.
+
+7. **FTP Code is read without "In general" clauses**  
+   When applying the FTP Code, the phrase *"In general"* is disregarded — requirements are applied strictly.
+
+---
+
+## **III. Scope of Application**
+
+The regulations apply to Canadian vessels **everywhere** under the following conditions:
+
+### **A. Applies to all of the following:**
+1. **Passenger vessels** that are **Safety Convention vessels** (i.e., vessels compliant with SOLAS).
+2. **Passenger vessels that are NOT Safety Convention vessels** and:
+   - Are **24 meters or more in length**, **except** those specifically excluded;
+   - Or are **over 15 gross tonnage but less than 24 meters** and carry **more than 36 berthed passengers**.
+3. **Cargo vessels of 500 gross tonnage or more**.
+4. **Vessels over 15 gross tonnage carrying dangerous goods (not in limited quantities)**, provided they fall under:
+   - Regulation 19.2.2 of Chapter II-2 of SOLAS, or
+   - Have cargo spaces covered by that regulation.
+
+### **B. Applies to specific passenger vessels (with reduced scope):**
+- Passenger vessels **24 meters or more** that:
+  - Are **not Safety Convention vessels**,
+  - Carry **no berthed passengers and fewer than 100 unberthed passengers**, and
+  - Are engaged on:
+    - A **sheltered waters voyage**, or
+    - A **near coastal voyage, Class 2, limited**.
+
+### **C. Applies to specific cargo vessels:**
+- Cargo vessels **24 meters or more but under 500 gross tonnage**, **excluding** those carrying dangerous goods (not in limited quantities) or those with cargo spaces under SOLAS regulation 19.2.2.
+
+---
+
+## **IV. Exclusions**
+
+The regulations **do not apply** to:
+
+- **Pleasure craft** (non-commercial, recreational vessels)
+- **Fishing vessels**
+- **High-speed craft (HSC)**
+- Vessels without **mechanical propulsion**
+- **Wooden vessels of primitive build**
+- Vessels involved in **oil/gas drilling, production, conservation, or processing**
+- **Nuclear vessels**
+
+> These exclusions reflect the fact that such vessels are subject to different safety standards or are not subject to the same fire risk profiles.
+
+---
+
+## **V. Responsibilities of Vessel Personnel**
+
+### **1. Authorized Representative (Owner/Operator)**
+- Must ensure compliance with:
+  - **Chapter II-2 of SOLAS** (excluding regulations 1.1, 1.3–1.6, and Part E)
+  - Sections **109 to 150** and **153 to 159** of the Act
+
+> This includes structural fire protection, fire detection, alarm systems, and fire-resistant construction.
+
+### **2. Master (Vessel Commander)**
+- Must ensure compliance with:
+  - **Regulation 7.8.1** and **Part E of Chapter II-2 of SOLAS**
+  - Sections **117, 118, 151, and 152**
+
+> These relate to fire control plans, emergency procedures, and crew training.
+
+---
+
+## **VI. Special Provisions for Vessels Not Covered by SOLAS (Non-Safety Convention Vessels)**
+
+### **A. Passenger Vessel Passenger Capacity Rules**
+The regulations provide **tiered structural fire protection requirements** based on passenger numbers and voyage type:
+
+| Scenario | Applies to |
+|--------|-----------|
+| **>36 berthed passengers** | Vessels with >36 berthed passengers (regardless of total passengers) |
+| **>50 passengers** (≤36 berthed) | Vessels with more than 50 passengers, but ≤36 berthed |
+| **>100 passengers** (≤12 berthed) | Vessels with >100 passengers, but ≤12 berthed, on non-sheltered or non-near-coastal voyages |
+| **≤50 passengers** (≤36 berthed) | Vessels with ≤50 passengers, ≤36 berthed, on sheltered or near-coastal voyages |
+| **≤100 passengers** (≤12 berthed) | Vessels with ≤100 passengers, ≤12 berthed, on sheltered or near-coastal voyages |
+
+> These rules ensure that vessels with higher passenger loads or higher risk profiles receive enhanced fire safety measures.
+
+### **B. Tankers (Special Case)**
+- **Chapter II-2 SOLAS requirements apply** to tankers subject to regulation 1.6 of SOLAS.
+- The

@@ -1,0 +1,89 @@
+**Detailed Summary of the Industrial Product Price Indices Adjustment Regulations**
+
+---
+
+**Regulation Title:**  
+*Industrial Product Price Indices Adjustment Regulations*  
+**Reference:** R.S., c. 42 (2nd Supp.), s. 6(3)  
+**Enactment Authority:**  
+His Excellency the Governor General in Council, on the recommendation of the Minister of Finance, pursuant to paragraph 50.1(3)(b) of the *Excise Tax Act*.
+
+---
+
+### **Purpose of the Regulation**
+
+This regulation establishes a specific method for adjusting the **Industrial Product Price Indices (IPPIs)** for **Motor Gasoline** and **Diesel Oil**, as used in the calculation of excise taxes under the *Excise Tax Act*. The adjustments are applied to historical price indices (specifically those released by Statistics Canada) to correct for a known discrepancy or to ensure consistency in tax calculations—particularly in relation to the base year of October 1985.
+
+The primary objective is to ensure that the price indices used in determining excise tax rates are accurately aligned with the actual economic conditions and inflation trends as of the time the tax was originally set, thereby maintaining fairness and consistency in tax assessment.
+
+---
+
+### **Scope and Application**
+
+The regulation applies **only to the Industrial Product Price Indexes** for:
+
+1. **Motor Gasoline**  
+2. **Diesel Oil**
+
+These indices are published monthly by **Statistics Canada** and are used in the *Excise Tax Act* to calculate excise tax rates based on changes in product prices over time.
+
+The adjustment is specifically applied to the **Industrial Product Price Index** values for each of the **twelve months immediately preceding October 1985** (i.e., from October 1984 to September 1985).
+
+---
+
+### **Adjustment Methodology**
+
+#### **1. For Motor Gasoline:**
+
+- The original Industrial Product Price Index (IPPI) for Motor Gasoline, as released by Statistics Canada for each of the 12 months before October 1985, is **adjusted by multiplying it by 0.8804**.
+- After multiplication, the resulting value is **rounded to the nearest one-tenth (i.e., one decimal place)**.
+- If the result is **exactly halfway between two one-tenths**, the value is rounded **up to the greater of the two** (this is known as "rounding up on ties").
+
+> **Example:**  
+> If the original index value is 100.0:  
+> 100.0 × 0.8804 = 88.04 → rounded to **88.0**  
+> If the result is 88.05 → rounded to **88.1** (since 88.05 is equidistant from 88.0 and 88.1, it rounds up).
+
+#### **2. For Diesel Oil:**
+
+- The original IPPI for Diesel Oil, as released by Statistics Canada for each of the 12 months before October 1985, is **adjusted by multiplying it by 0.9681**.
+- The resulting value is then **rounded to the nearest one-tenth**.
+- Again, in cases of equidistance, the value is **rounded up**.
+
+> **Example:**  
+> If the original index value is 100.0:  
+> 100.0 × 0.9681 = 96.81 → rounded to **96.8**  
+> If the result is 96.85 → rounded to **96.9**
+
+---
+
+### **Legal Basis**
+
+The regulation is enacted under **paragraph 50.1(3)(b)** of the *Excise Tax Act*, which authorizes the Governor General in Council (on the recommendation of the Minister of Finance) to make regulations that prescribe the manner of adjusting industrial product price indices for specific goods, including motor gasoline and diesel oil.
+
+Additionally, the adjustment is referenced in **paragraph 50.1(2)(a)** of the *Excise Tax Act*, which specifies that the use of these indices in tax calculations must be subject to such adjustments to ensure accuracy and consistency in tax assessments.
+
+---
+
+### **Key Implications**
+
+- **Historical Price Correction:** The adjustments reflect a deliberate correction to historical price data to account for a known inconsistency or to align with a specific economic baseline (e.g., a correction for inflation or measurement differences).
+- **Tax Fairness and Consistency:** By applying a uniform multiplier to the base indices, the regulation ensures that excise tax calculations are not distorted by outdated or inaccurate price data, especially in the context of tax reviews or adjustments over time.
+- **Simplicity and Predictability:** The use of fixed multipliers (0.8804 for gasoline, 0.9681 for diesel) provides a clear, transparent, and repeatable method for adjusting past data, which supports administrative efficiency and legal certainty.
+
+---
+
+### **Important Notes**
+
+- These adjustments are **retrospective** and apply **only to the period before October 1985**.
+- The regulation does **not** apply to price indices released after October 1985.
+- The adjustment is not a change in the underlying index itself but a **mathematical correction** applied to historical values for tax calculation purposes.
+- The rounding rules ensure consistency and prevent ambiguity in financial reporting.
+
+---
+
+### **Conclusion**
+
+The *Industrial Product Price Indices Adjustment Regulations* provide a precise, legally grounded mechanism for correcting historical price indices used in excise tax calculations for motor gasoline and diesel oil. By applying specific multipliers and standardized rounding rules, the regulation ensures that tax assessments based on these indices remain accurate, fair, and consistent with the economic context of the time. This is particularly important in legal and fiscal contexts where historical price data underpins tax liability and refund calculations.
+
+This regulation serves as a critical administrative tool to maintain the integrity of excise tax systems in the face of potential data inaccuracies or inconsistencies in historical price reporting.

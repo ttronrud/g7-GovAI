@@ -1,0 +1,131 @@
+Certainly. Below is a **detailed, clear, and structured summary** of the provided regulation, which defines the term **"small cable transmission system"** under the *Copyright Act* of Canada.
+
+---
+
+## **Detailed Summary of the Regulation on "Small Cable Transmission System"**
+
+### **1. Purpose of the Regulation**
+This regulation, made under **subsection 67.2(1.2)** of the *Copyright Act*, defines what constitutes a **"small cable transmission system"** for the purposes of **subsection 67.2(1.1)**.  
+The purpose is to determine which cable systems are eligible for special treatment under copyright law—specifically, to allow certain exceptions or exemptions related to the use or distribution of copyrighted works (e.g., in the context of cable services).
+
+> **Key Context**:  
+> The regulation helps determine whether a cable system qualifies as "small" based on the number of premises it serves and its structural relationship with other cable systems. This has implications for copyright licensing, particularly in relation to the rights of broadcasters and content providers.
+
+---
+
+### **2. Legal Basis**
+- **Enacted by**: His Excellency the Governor General in Council  
+- **On the recommendation of**:  
+  - The Minister of Industry, Science and Technology  
+  - The Minister of Communications  
+- **Authority**: Subsection **67.2(1.2)** of the *Copyright Act*  
+- **Original Citation**: S.C. 1993, c. 23, s. 4(1)  
+- **Status**: **Repealed** by **SOR/2005-148, s. 2**  
+  > ⚠️ **Important Note**: This regulation is **no longer in force** as of the date of repeal (June 2005). It was replaced or superseded by subsequent amendments to the *Copyright Act* or related legislation.
+
+---
+
+### **3. Key Definitions in the Regulation**
+
+| Term | Definition |
+|------|-----------|
+| **Premises** | A dwelling (including a single-unit residence or a single unit within a multi-unit building), or a room in a commercial or institutional building. |
+| **Service Area** | The geographic area where premises are served by a cable transmission system, as defined by Canadian law and regulations. |
+
+---
+
+### **4. Definition of "Small Cable Transmission System"**
+
+> A **small cable transmission system** is defined as:
+>  
+> A cable transmission system that transmits a signal (with or without a fee) to **not more than 2,000 premises** within the **same service area**.
+
+#### Key Conditions:
+- The system must serve **no more than 2,000 premises**.
+- The premises must be within a **single service area**.
+
+---
+
+### **5. Consolidation of Systems in a "Unit"**
+
+#### **Subsection (2): When Systems Are Considered in the Same Unit**
+If two or more cable transmission systems are:
+1. **Owned or directly or indirectly controlled** by the same person or group of persons; **AND**
+2. Their service areas are **each less than 5 km apart** from at least one other system in the group, **and**  
+   — if connected, their service areas would form a **contiguous, linear or non-linear network** (i.e., they are geographically adjacent or connected in a chain-like pattern), **except for the 5 km distance gap**.
+
+➡️ Then, **all such systems are treated as one unit** for the purpose of determining whether the total number of premises served exceeds 2,000.
+
+#### Example:
+- System A serves 1,500 premises in a rural area.
+- System B (owned by the same entity) serves 800 premises in a neighboring town, 4 km away.
+- Since the service areas are within 5 km and adjacent, they are considered part of the same unit.
+- Total premises = 1,500 + 800 = 2,300 → **Exceeds 2,000** → **Not a "small" system**.
+
+> 🔍 This rule allows for consolidation of systems under common ownership or control, even if they are physically separate, to prevent circumvention of the 2,000-premises threshold.
+
+#### **Exception to Subsection (2)**:
+- This consolidation rule **does not apply** to any cable transmission system that was **already included in a unit as of December 31, 1993**.  
+  > This preserves historical status and avoids retroactive changes to existing systems.
+
+---
+
+### **6. Exclusion of Master Antenna Systems**
+
+> A **master antenna system (MAS)** is **excluded** from being considered a "small cable transmission system" if:
+> - It is located **within the service area** of another cable transmission system that serves **more than 2,000 premises** in that service area.
+
+#### Implication:
+- Even if a master antenna system serves a small number of homes, if it operates in a service area where a larger cable system (serving over 2,000 homes) is already active, it is **not classified as a "small" system**.
+- This ensures that only truly small, independent systems qualify for the "small" designation.
+
+---
+
+### **7. Summary of Key Points**
+
+| Feature | Description |
+|--------|-------------|
+| **Threshold** | Maximum of **2,000 premises** in a single service area |
+| **Unit Consolidation** | Systems under same ownership/control and within 5 km of each other are combined for size assessment |
+| **Contiguity Rule** | Service areas must be adjacent or form a connected network (linear or non-linear) |
+| **Historical Exception** | Systems that were part of a unit as of **December 31, 1993**, are exempt from consolidation rules |
+| **Exclusion of MAS** | A master antenna system is not considered "small" if located in a service area served by a larger system (>2,000 premises) |
+| **Legal Status** | **Repealed** by **SOR/2005-148, s. 2** — no longer in effect as of June 2005 |
+
+---
+
+### **8. Practical Implications**
+
+- This regulation was designed to **identify small, local cable systems** that might have different copyright obligations or access rights compared to large, national cable providers.
+- It helped ensure that **small operators** (e.g., rural or community-based systems) were not unfairly burdened by the same licensing or content-sharing requirements as large-scale systems.
+- The rules allowed for **practical grouping** of systems under shared ownership, reflecting real-world business structures.
+
+---
+
+### **9. Current Status and Relevance**
+
+> ❌ **This regulation is no longer active**.  
+> It was **repealed in 2005** (SOR/2005-148, s. 2), and its provisions have been replaced or superseded by updated versions of the *Copyright Act* or other regulatory frameworks.
+
+> ✅ **Modern Relevance**:  
+> The concept of "small cable systems" may still exist in copyright law, but under different provisions or definitions. For example, modern interpretations may use similar thresholds in digital or broadband contexts, but the specific 2,000-premises rule and consolidation logic are no longer applicable.
+
+---
+
+### **Conclusion**
+
+This regulation was a **precise and practical attempt** to define "small cable transmission systems" in Canada for copyright purposes. It introduced key principles such as:
+- Threshold-based size limits,
+- Ownership and geographic consolidation,
+- Exclusions for master antenna systems.
+
+However, due to changes in the telecommunications and media landscape, and the repeal in 2005, **this regulation is no longer in force** and should not be used in current legal or regulatory analysis.
+
+---
+
+> 📌 **Final Note for Users**:  
+> When referencing this regulation today, it is essential to clarify that it is **historical** and **repealed**. Any current application of similar rules would be found in updated versions of the *Copyright Act* or in newer telecommunications regulations.
+
+--- 
+
+Let me know if you'd like a comparison with current regulations or a modern equivalent.

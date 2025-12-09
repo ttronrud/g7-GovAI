@@ -1,0 +1,145 @@
+**Detailed Summary of the Flammable Liquids Bulk Storage Regulations**
+
+---
+
+### **1. Regulation Title and Citation**
+The regulation is officially titled the **Flammable Liquids Bulk Storage Regulations** and may be cited as such. It establishes comprehensive safety standards for the design, construction, location, operation, and maintenance of stationary bulk storage facilities for flammable liquids located on railway right-of-way.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Boil-over** | A hazardous phenomenon where a hot layer of crude petroleum or similar liquid contacts a more volatile underlying liquid, causing it to flash into vapor. The rapid expansion of trapped vapors results in violent surface agitation. |
+| **Crude Petroleum** | An unrefined mixture of natural hydrocarbons with a flash point below 150°F. |
+| **Flammable Liquid** | Any liquid with a flash point below 175°F (as per Tagliabue’s Open Cup Tester) and Reid vapour pressure ≤40 psi at 100°F. Liquids with flash points ≥175°F are included if artificially heated to or above their flash point. |
+| **Flame Arrestor** | A device (e.g., metal plates, fins, screens) with high surface area designed to prevent flame entry into storage tanks through vents. |
+| **Flash Point** | The minimum temperature at which vapors of a liquid form a flammable mixture with air, measured by Tagliabue’s Open Cup Tester (ASTM D-1310-56T). |
+| **Installation** | A stationary bulk storage facility for flammable liquids located on a railway right-of-way. |
+| **Main Track** | A track used for scheduled train operations via timetable, block signals, or other approved control systems. |
+| **Owning or Operating Company** | The entity legally responsible for ownership or operation of the installation. |
+| **Private Track** | A track outside the carrier’s right-of-way, reserved exclusively for one owner or lessee. |
+| **Team Track / Business Track** | A shared track used by multiple companies or entities. |
+| **Vapour Pressure** | Reid vapour pressure (in psia) exerted by a volatile liquid at a given temperature, measured per ASTM D323. |
+
+---
+
+### **3. Classification of Flammable Liquids**
+
+Flammable liquids are categorized into **three classes** based on flash point and physical properties:
+
+| Class | Criteria |
+|------|---------|
+| **Class I** | Flash point ≤80°F; includes Class II liquids when artificially heated to or above their flash point. |
+| **Class II** | Flash point between 80°F and 175°F; includes liquids with flash points ≥175°F when heated to or above their flash point. |
+| **Class III** | Crude petroleum and other liquids with similar boil-over characteristics and flash point <150°F. |
+
+> **Note**: Flammable liquids with Reid vapour pressure ≥40 psi at 100°F are classified as **compressed gases**, not flammable liquids.
+
+---
+
+### **4. Scope and Applicability**
+
+- Applies to **stationary bulk storage facilities** located on railway right-of-way owned or leased by railway companies under the jurisdiction of the **Canadian Transport Commission (CTC)**.
+- Facilities previously approved by the Commission must be operated and maintained in accordance with these regulations, unless otherwise ordered.
+- **Exclusions**:
+  - Does **not apply** to entities defined as “companies” under Section 2 of the *National Energy Board Act*.
+  - Does **not apply** to installations with a total storage capacity **not exceeding 3,000 Imperial gallons**, provided they comply with all requirements of these regulations.
+
+---
+
+### **5. Construction and Approval Requirements**
+
+#### **Construction Authorization**
+- **No construction** may begin without **Commission authorization** via an order.
+- **Exception**: If the proposed installation fully complies with the regulations, **construction may proceed without prior approval**, but **operational approval is required before operations begin**.
+
+#### **Application Process**
+- Applications must be submitted by the owning or operating company to the **Secretary of the Commission**.
+- Must include **four copies of all drawings**, prepared in accordance with Sections 8–13.
+
+#### **Drawing Requirements**
+- **Scale**:
+  - Plan: minimum **1 inch to 50 feet**
+  - Section: minimum **1 inch to 20 feet**
+- All drawings must be:
+  - Dated
+  - Identified with a unique number
+  - Signed by the Chief Engineer or designated official
+- Required elements in the plan:
+  - Location of loading/unloading racks relative to:
+    - Gauge side of nearest rail
+    - Schools, stations, residential areas, hospitals (within 150 ft)
+    - Engine houses, shops, grain elevators (within 75 ft)
+  - Centre line of loading/unloading track relative to:
+    - Main track and adjacent tracks (closer than main track)
+  - Storage tanks relative to:
+    - Other tanks, pumphouses, warehouses, buildings
+    - Property lines
+    - Nearest rail (main and adjacent)
+    - Public buildings (as per Table III of Schedule I)
+    - Other structures (as per Table III)
+  - Elevation section within 200 ft of nearest tank
+- **Additional section** required if:
+  - Drainage direction needs to be shown
+  - Major features require clarification
+- Must show:
+  - Railway right-of-way, property fences, dikes, pipelines, sewers, ditches, watercourses, etc.
+
+#### **Notes/Legend Requirements**
+Must include:
+- Evidence that the **Provincial Fire Marshal or local fire authority has no objection** (e.g., signed plan or letter)
+- Design compliance with subsection 21(1)
+- Tank sizes, contents, capacities (in Imperial gallons)
+- Type, size, and construction of pumphouses, warehouses, enclosures
+- Type and size of motive power for pumps
+- Heating unit details (if applicable)
+- Whether tracks are team or private
+- Location reference (railway, subdivision, mileage, nearest town)
+
+#### **Recordkeeping**
+- Copies of all required drawings must be retained by the company **for the life of the installation** and **for at least two years after decommissioning**.
+
+---
+
+### **6. Minimum Distance Requirements**
+
+| Distance Type | Requirement |
+|-------------|------------|
+| **Loading/Unloading Track to Main Track** | As per **Table I of Schedule I** (measured from centre line of rack to gauge side of nearest rail) |
+| **Loading/Unloading Rack to Buildings/Property Lines** | As per **Table I of Schedule I** (unless exempted) |
+| **To Exclusively Used Company Structures** | Minimum **10 feet** between rack and tank, building, or structure used solely by the company |
+| **To Other Installations with Common Property Line** | Distance requirement waived if location complies with Table I requirements |
+| **Track Side to Rail (Loading Rack)** | As per **Table II of Schedule I** |
+| **Storage Tank to Tracks/Structures/Property Lines** | As per **Table III of Schedule I** |
+| **Between Tanks (Same Installation)** | - Capacity ≤50,000 gal: **minimum 3 feet**<br>- Capacity >50,000 gal: **≥½ diameter of smaller tank** |
+| **Between Crude Petroleum and Other Flammable Liquids** | - If adjacent tank >50,000 gal: **≥diameter of smaller tank**<br>- If both ≤50,000 gal: **≥½ diameter of smaller tank** |
+| **Between Flammable Liquid and Liquefied Petroleum Gas (LPG) or Dangerous Commodities** | Minimum **20 feet**<br>- Installations >150,000 gal: must be **≥100 feet** from such tanks |
+| **To Dike Wall** | Minimum **10 feet** from tank to dike wall |
+| **Outside Drum Storage Areas** | - ≤50 drums: **≥10 feet** from property line<br>- 51–100 drums: **≥25 feet**<br>- >100 drums: **≥50 feet**<br>- >10 drums: **≥10 feet** from any company-owned structure |
+| **Drum Storage (Aggregate ≤500 gal)** | May be stored in warehouses or suitable buildings (subject to exceptions) |
+
+> **Special Note**: Distance from **provincial highway right-of-way boundary** should not be less than the main track distance in Table III of Schedule I, and **must meet provincial standards** if more restrictive.
+
+> **No tank shall be located within less than 20 feet of any track**.
+
+---
+
+### **7. Location and Structural Requirements**
+
+#### **Tank Placement**
+- Tanks **must not be installed inside or under buildings** or on ground that cannot be **diked** if diking is required.
+- **Exception**: Class II tanks with aggregate capacity ≤500 Imperial gallons may be installed in or under buildings.
+
+#### **Distance from Installation Fence**
+- Minimum **5 feet** between storage tank and surrounding installation fence.
+
+#### **Separation Between Tanks**
+- Tanks must be separated by:
+  - **3 feet** for all tanks ≤50,000 gal
+  - **½ diameter** of smaller tank if both tanks exceed 50,000 gal
+
+#### **Dike Requirements**
+- Dikes must **not contain** tanks with liquefied petroleum gas or other dangerous commodities.
+- Tanks must be

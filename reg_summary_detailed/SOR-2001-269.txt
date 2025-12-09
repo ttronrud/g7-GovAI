@@ -1,0 +1,130 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the *Consumer Chemicals and Containers Regulations, 2001*, as issued under the *Hazardous Products Act* by Her Excellency the Governor General in Council, on the recommendation of the Minister of Health.
+
+---
+
+## 🔍 **Detailed Summary of the Consumer Chemicals and Containers Regulations, 2001**
+
+### 📌 **Overview**
+The *Consumer Chemicals and Containers Regulations, 2001* (R.S., c. 24 (3rd Supp.), s. 1) are a set of detailed safety regulations designed to protect consumers from the risks associated with hazardous chemical products and their containers. These regulations establish standardized requirements for:
+- Hazard classification,
+- Labeling and information display,
+- Container design and safety features (e.g., child resistance),
+- Testing procedures,
+- Data sources for hazard evaluation,
+- Compliance and recordkeeping.
+
+They apply to **consumer products** that pose risks such as toxicity, flammability, corrosiveness, or skin-bonding adhesiveness — but **exclude** certain common household items like lighters, fuel containers attached to engines, or portable petroleum containers meeting specific safety standards.
+
+> **Important Note**: These regulations **do not apply to vaping products**, as defined in the *Tobacco and Vaping Products Act*.
+
+---
+
+## 📚 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Chemical Product** | A product used by consumers with hazardous properties (toxic, corrosive, flammable, or quick skin-bonding adhesive). Excludes products where exposure is not reasonably foreseeable, or those like lighters, fuel tanks, or containers meeting CSA/ULC standards. |
+| **Hazard Category** | A broad classification system: <br>• Category 1: Toxic<br>• Category 2: Corrosive<br>• Category 3: Flammable<br>• Category 4: Quick skin-bonding adhesive<br>• Category 5: Pressurized containers |
+| **Sub-category** | More specific hazard level within a category (e.g., "very toxic," "spontaneously combustible"). Products may fall into multiple sub-categories, especially if different exposure risks exist. |
+| **Hazardous Ingredient** | Any ingredient present at ≥1% concentration that the supplier reasonably believes may harm humans, has unknown toxicological properties, or arises from chemical reactions not fully understood. Includes pure chemicals and complex mixtures. |
+| **Complex Mixture** | A substance derived from natural origins (e.g., plant fractions), physically separated, or chemically modified from such sources. Not a trade name. |
+| **Container** | Any container (pressurized or otherwise) intended for storage or dispensing of a chemical product by consumers — including empty containers destined for consumer use. |
+| **Display Surface** | The visible surface of the container where labeling is required; excludes bottom, seams, or concave/convex areas near top/bottom. |
+| **Main Display Panel** | The largest visible area of the display surface under normal sale conditions. Determined by container shape (e.g., largest side of rectangular, top or 40% of lateral surface for cylinders). |
+| **Responsible Person** | The **manufacturer** (if produced in Canada) or the **importer** (if imported). Responsible for hazard assessment, labeling, and compliance. |
+| **Good Scientific Practices** | Standards aligned with OECD guidelines: <br>• Test data development (OECD Test Guidelines)<br>• Laboratory practices (OECD GLP)<br>• Human experience data (peer-reviewed clinical cases) |
+| **Human Experience Data** | Evidence (peer-reviewed) showing injury or poisoning from exposure or foreseeable use, including accidental consumption by children. |
+| **Flash Point** | Minimum temperature at which a substance gives off flammable vapors. |
+| **Flame Projection** | Flame length when a spray container is ignited. >15 cm or flashback indicates high flammability. |
+| **Flashback** | Flame that travels back toward the spray container during ignition test. |
+| **Aspiration** | Entry of chemicals into the trachea or lower respiratory system via mouth/nose or vomiting. |
+| **Fumes / Mist / Vapour** | Airborne substances: fumes (condensed solids), mist (liquid droplets), vapours (gaseous form of solids/liquids). |
+| **Acid/Alkali Reserve** | Measures acidity (acid reserve = grams of NaOH to reach pH 4.00) or alkalinity (alkali reserve = grams of NaOH neutralized to reach pH 10.00). Used to assess corrosive potential. |
+| **Normal Atmospheric Pressure** | 101.324 kPa at 20°C. |
+| **Official Languages** | English and French. All required information must be in both languages. |
+| **Single-Use Container** | Non-reclosable container where all contents are used immediately after opening. |
+| **Child-Resistant Container** | Must require tools (not supplied) to open; must maintain resistance throughout product life. |
+
+---
+
+## 🚨 Hazard Classification & Evaluation
+
+### 1. **Hazard Determination Process**
+The responsible person must:
+- Determine the **hazard categories** and **sub-categories** of the chemical product or container.
+- Identify the **required container type**.
+- Determine the **required labeling and information** to be displayed.
+
+> 🔍 **Multiple Hazards**: If a product falls into more than one hazard category, **all required information must be displayed** on the container.
+
+> ⚠️ **Sub-category Priority**: If a product falls into multiple sub-categories within one category (e.g., "spontaneously combustible" and "flammable"), it **must be classified in all** — not just the most severe.
+
+> 🚨 **Multiple Exposure Routes**: If exposure can occur via multiple routes (e.g., ingestion, inhalation), **information must be provided for each route**.
+
+### 2. **Data Sources for Hazard Assessment (in order of precedence)**
+
+| Source | Description |
+|-------|-------------|
+| 1. **Human Experience Data** | Peer-reviewed data showing actual injuries or poisonings (especially child exposure). |
+| 2. **OECD Test Guidelines** | Peer-reviewed, standardized animal or in vitro testing (e.g., LD50, LC50). |
+| 3. **Tests under these Regulations** | If OECD tests were not done, then tests conducted per these regulations. |
+| 4. **National or International Standards** | Recognized standards (e.g., ISO, CSA) that meet good scientific practices. |
+| 5. **Generally Accepted Procedures** | Methods following good scientific practices at time of testing. |
+| 6. **Similar Products** | Data on products with similar properties (e.g., structure, use, ingredients). |
+| 7. **Other Peer-Reviewed Information** | Current scientific literature on the product or its ingredients. |
+| 8. **Product-Specific Testing** | Tests conducted by the responsible person using good scientific practices (if no other data available). |
+
+> ✅ **Preference Rules**:
+> - Original literature > secondary references.
+> - Data showing **greatest hazard** takes precedence.
+
+---
+
+## 📝 Labeling & Information Requirements
+
+### 1. **Primary Hazard Statement (Single-Use Containers)**
+All **single-use containers** must display:
+> **"USE ENTIRE CONTENTS ON OPENING."**  
+> **"UTILISER LA TOTALITÉ DU CONTENU APRÈS OUVERTURE."**
+
+This is a mandatory safety instruction to prevent partial use and accidental exposure.
+
+### 2. **First Aid Statement**
+Must include:
+- A list of **hazardous ingredients** (with concentrations ≥1%).
+- A **first aid treatment** for exposure via ingestion, absorption, or inhalation.
+- Helpful information for someone assisting the victim.
+
+> ⚠️ Must be clearly legible and in both official languages.
+
+### 3. **Hazard Symbol (Pictogram)**
+- Must display a **standardized pictogram** (as per Schedule 2).
+- The pictogram includes a **frame** and a **symbol** representing the hazard (e.g., skull for toxicity, flame for flammability).
+
+> Example: A skull and crossbones for toxic products; flame for flammable products.
+
+### 4. **Display Requirements**
+- **Main Display Panel**: The largest visible area of the container (as defined by shape).
+- **Display Surface**: The full surface where labels are placed — but excludes bottom, seams, and edges near top/bottom.
+
+> All required information (hazard symbol, first aid, hazard category, etc.) must be visible on the **main display panel**.
+
+---
+
+## 🔒 Child-Resistant Container Requirements
+
+### 1. **Design Requirements**
+A child-resistant container must:
+- Be opened **only** by using a tool (e.g., screwdriver, knife) not supplied with the product;
+- Or meet one of the following international standards:
+  - **CSA-Z76.1** (Canada)
+  - **ISO 8317** (International)
+  - **16 CFR 1700.20** (U.S.)
+
+> ✅ The container must **maintain** its child-resistant properties throughout the product’s useful life.
+
+### 2. **Performance Testing**
+The responsible person must evaluate:
+- **Compatibility** between the chemical product and the container (to ensure no degradation or failure of child resistance).
+- **Physical wear and stress** (e.g., repeated opening/closing).
+- **Force required** to open and close — must remain within

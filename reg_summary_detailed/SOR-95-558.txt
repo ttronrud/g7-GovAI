@@ -1,0 +1,149 @@
+### **Detailed Summary of the Greenwood Airport Zoning Regulations**
+
+The **Greenwood Airport Zoning Regulations** are a set of official rules established under the **Aeronautics Act** of Canada to ensure the safe operation of Greenwood Airport by restricting land use and development in its vicinity. These regulations were enacted after a public consultation process and are designed to prevent hazards to aviation—particularly those arising from terrain, structures, or environmental features—that could interfere with aircraft take-offs, landings, or flight paths.
+
+---
+
+## **1. Legal Basis and Purpose**
+
+- **Legal Authority**:  
+  The regulations are made pursuant to **subsection 5.5(1)a** of the *Aeronautics Act*, which allows for the publication of proposed zoning regulations. The final adoption follows **paragraph 5.4(2)(b)a**, which empowers the Minister of National Defence to issue regulations to protect airport safety.
+
+- **Purpose**:  
+  To prevent any development or natural growth on lands adjacent to or near Greenwood Airport that might compromise the safe operation of aircraft. This includes:
+  - Structures or objects exceeding certain elevation limits.
+  - Environmental hazards such as bird attractants or open water bodies.
+
+---
+
+## **2. Scope and Application**
+
+### **Applicable Area**
+- The regulations apply to **all lands adjacent to or in the vicinity of Greenwood Airport**, including public road allowances.
+- The **outer limits** of these lands are precisely defined in **Part VII of the schedule**.
+- **Exclusions**: Lands that are currently part of the airport itself (e.g., runways, taxiways, terminal areas) are **not subject** to these zoning restrictions.
+
+### **Key Definitions**
+| Term | Definition |
+|------|-----------|
+| **Airport** | The Greenwood Airport, located near the Village of Greenwood and the Town of Kingston, Nova Scotia. |
+| **Airport Zoning Reference Point (AZRP)** | A fixed point used as a datum for elevation measurements. Located at the intersection of the centerline of runway 13–31 and the westerly end of the strip for runway 13. Coordinates: Northing 4,982,711.68 m; Easting 5,465,850.41 m (Nova Scotia Grid). |
+| **Strip** | The rectangular area along each runway, designated for take-off and landing. Three strips exist: |
+| &nbsp;&nbsp;• Runway 13–31 | 300 m wide (150 m on each side), 2,554.7 m long |
+| &nbsp;&nbsp;• Runway 08–26 | 300 m wide (150 m on each side), 2,552.4 m long |
+| &nbsp;&nbsp;• Runway 01–19 | 150 m wide (75 m on each side), 1,330.7 m long |
+| **Approach Surface** | An imaginary inclined plane extending from each end of a strip to protect aircraft during approach. Different slopes apply depending on runway. |
+| **Transitional Surface** | An inclined plane rising from the sides of the strip and its approach surfaces, extending upward to meet the outer surface. Slope: 1 m vertical to 7 m horizontal. |
+| **Outer Surface** | A common imaginary plane at **45 meters above the AZRP elevation**, except where it would fall below **9 meters above ground level**—in such cases, it is set at 9 m above ground. |
+
+> ⚠️ **Elevation Reference**:  
+> The AZRP is set at **25 meters above sea level**, so the outer surface is at **70 meters above sea level** (25 + 45), unless terrain is too low.
+
+---
+
+## **3. Height Restrictions**
+
+No person may:
+- Construct or erect any **building, structure, or object** (including additions to existing ones), or
+- Permit **natural growth** (e.g., trees, hills, vegetation),  
+such that the **highest point exceeds** any of the following surfaces:
+
+1. **Approach Surface**  
+2. **Outer Surface**  
+3. **Transitional Surface**
+
+> These surfaces are carefully designed to ensure aircraft have a clear path during approach and departure, minimizing risk from obstacles.
+
+---
+
+## **4. Environmental Restrictions (Bird Hazard Mitigation)**
+
+To reduce bird strikes—a major aviation hazard—owners or lessees of affected lands are prohibited from using the land for:
+
+- Sanitary landfills  
+- Food garbage disposal sites  
+- Sewage lagoons  
+- Open water storage reservoirs  
+
+These types of sites attract birds and increase the risk of bird strikes during flight operations.
+
+---
+
+## **5. Detailed Descriptions of Key Surfaces**
+
+### **Approach Surfaces (by Runway)**
+
+Each approach surface begins with an **initial slope** (1:60 vertical to horizontal) from the end of the strip, rising to intersect with the outer surface. After that, the slope changes to **1:50** (except for runways 01 and 19, which use **1:40**) and continues to a horizontal line at a specified distance and elevation.
+
+| Runway | Initial Slope | Final Horizontal Line Distance | Height Above Strip End |
+|-------|---------------|-------------------------------|------------------------|
+| 13 | 1:60 → 1:50 | 15,000 m horizontal, 2,400 m from centerline | 291 m |
+| 31 | 1:60 → 1:50 | 15,000 m horizontal, 2,400 m from centerline | 291.6 m |
+| 08 | 1:60 → 1:50 | 15,000 m horizontal, 2,400 m from centerline | 291.2 m |
+| 26 | 1:60 → 1:50 | 15,000 m horizontal, 2,400 m from centerline | 291.2 m |
+| 01 | 1:40 → horizontal | 3,000 m horizontal, 525 m from centerline | 75 m |
+| 19 | 1:40 → horizontal | 3,000 m horizontal, 525 m from centerline | 75 m |
+
+> These surfaces are drawn on **Public Works Canada Zoning Plan No. S-1750**, dated November 15, 1988.
+
+---
+
+### **Transitional Surfaces**
+
+- Extend **from the lateral edges** of each strip and its approach surfaces.
+- Slope at **1:7** (1 meter vertical per 7 meters horizontal).
+- Rise until they intersect with the **outer surface** or the transitional surface of an adjacent runway strip.
+- Designed to prevent obstructions from appearing at the edges of runways.
+
+---
+
+### **Outer Surface**
+
+- A **constant elevation plane** at **45 meters above the AZRP (25 m ASL = 70 m ASL)**.
+- **Exception**: If the ground is lower than 9 meters, the outer surface is set at **9 meters above ground**.
+- The outer surface is defined by a complex **series of arcs and straight lines**, forming a closed boundary around the airport.
+- It is constructed using:
+  - Circles of **4,000 m radius** centered at midpoints of runway ends.
+  - Specific azimuths and distances (e.g., 59°09′40″, 79°08′50″, etc.) to define the path of the arcs.
+  - The entire boundary is referenced to the **Nova Scotia 3° MTM Coordinate System**, with central meridian at 64°30′W.
+
+> The outer limits are fully illustrated in **Public Works Canada Zoning Plan No. S-1750**.
+
+---
+
+## **6. Public Consultation and Legal Process**
+
+- The proposed regulations were **published twice** in:
+  - The *Kentville Adviser* (May 9 and 16, 1995)
+  - The *Canada Gazette, Part I* (April 23 and 30, 1994)
+- This allowed **interested parties** (residents, developers, environmental groups, etc.) to submit **representations or objections** to the Minister of National Defence.
+- After review, the Minister recommended the regulations, and the Governor General in Council approved them.
+
+---
+
+## **7. Enforcement and Compliance**
+
+- The regulations are enforceable by the **Minister of National Defence**.
+- Violations may result in penalties, including:
+  - Orders to remove or modify structures or features.
+  - Fines or legal action.
+- Compliance is monitored through land-use planning, zoning inspections, and environmental assessments.
+
+---
+
+## **8. Map and Reference Materials**
+
+All geometric definitions and boundaries are based on the **Public Works Canada Greenwood Airport Zoning Plan No. S-1750**, dated **November 15, 1988**. This plan provides:
+- Coordinates and azimuths
+- Descriptions of surfaces
+- Visual representations of strips, approach surfaces, transitional surfaces, and outer limits
+
+All distances and directions are **grid-referenced** to the **Nova Scotia 3° MTM system**, adjusted to July 1, 1979.
+
+---
+
+## **Summary Table**
+
+| Feature | Key Details |
+|--------|-------------|
+| **Legal

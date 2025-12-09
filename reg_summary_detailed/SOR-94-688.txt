@@ -1,0 +1,166 @@
+Certainly. Below is a **detailed, comprehensive summary** of the regulation you provided — the *Patented Medicines Regulations*, as amended and ultimately **repealed** in 2008 — with clear explanations of its purpose, structure, key provisions, and implications.
+
+---
+
+## 🔍 **Detailed Summary of the Patented Medicines Regulations (1993)**  
+*(Repealed by SOR/2008-70, s. 2 and s. 4)*
+
+> **Original Enactment**:  
+> Made by Order in Council P.C. 1988-2013 (September 15, 1988),  
+> Replaced and revoked by the Governor in Council on the recommendation of the Minister of National Health and Welfare, pursuant to **section 101 of the Patent Act**, under **S.C. 1993, c. 2, s. 7**.  
+> **Final Status**: **Repealed** on **April 1, 2008**, under **SOR/2008-70, s. 2 and s. 4**.
+
+---
+
+### 🎯 **Purpose of the Regulation**
+
+The primary objective of these regulations was to **promote transparency** in the pharmaceutical industry by requiring **patent holders** and **licensees** to disclose specific information about:
+
+1. **Patented medicines** (including details of patents, expiry dates, and supplementary protection certificates),
+2. **Sales pricing and revenue** (including average prices, net revenue, and ex-factory prices),
+3. **Research and development (R&D) expenditures**.
+
+This transparency aimed to:
+- Support **public access to drug pricing and innovation data**,
+- Enable **informed policy decisions** regarding access to medicines,
+- Encourage **innovation and fair competition** in the pharmaceutical market,
+- Ensure that **public health and patient access** are not compromised by monopolistic pricing.
+
+> ⚠️ **Note**: Although the regulation was intended to serve public interest, it was ultimately **repealed in 2008**, indicating that its implementation was either deemed ineffective, outdated, or superseded by newer regulatory frameworks (such as the *Pharmaceutical Pricing and Access Act* or updated provisions under the *Patent Act* and *Food and Drug Regulations*).
+
+---
+
+## 📚 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Patent Act* |
+| **Notice of Compliance (NoC)** | A regulatory document issued under the *Food and Drug Regulations* confirming that a medicine has met safety and efficacy standards for sale in Canada. |
+| **Rights Holder** | The person or entity holding rights to a patented medicine — includes patent holders, certificate holders, or licensees (excluding those continuing under subsection 11(1) of the Patent Act Amendment Act, 1992). |
+
+---
+
+## 📝 Core Provisions (by Section)
+
+---
+
+### ✅ **Section 1: Information Required for Medicines (Paragraphs 80(1)(a) and (2)(a))**
+
+**What must be disclosed?**  
+When a medicine is being sold or a notice of compliance is issued, the rights holder must provide detailed information identifying the medicine and its patent status.
+
+#### Required Information Includes:
+1. **Name and address** of the rights holder (or former rights holder) and their Canadian correspondence address.
+2. **Type of rights holder**:
+   - Patent holder?
+   - Holder of a **certificate of supplementary protection**?
+   - Licensee (not continuing under 11(1) of the 1992 amendment)?
+3. **Generic and brand name** of the medicine.
+4. **Use of the medicine**:
+   - Human or veterinary?
+5. **Therapeutic use** approved by the Minister of Health.
+6. **First date of notice of compliance** issued to the rights holder.
+7. **Drug Identification Number (DIN)** assigned under the *Food and Drug Regulations* for each strength and dosage form.
+8. **Patent details**:
+   - Patent number
+   - Grant date
+   - Expiry date
+9. **Supplementary Protection Certificates (SPCs)**:
+   - Certificate number
+   - Start and end dates
+   - Patent number referenced in the SPC application
+
+#### When Must This Information Be Provided?
+- **Within 7 days** of:
+  - First issuance of a Notice of Compliance (NoC), **or**
+  - First offering of the medicine for sale in Canada.
+- **Exception**: In specific cases, information must be submitted **within 30 days** after the **Board requests** it.
+
+#### Specific Exceptions (Where 30-Day Deadline Applies):
+1. The medicine is **not a prescription drug** and is **not listed in Schedule D** of the *Food and Drugs Act*.
+2. The medicine contains a **controlled substance** whose sale does **not require a prescription**.
+3. The NoC was issued based on a submission under **section C.08.002.1** of the *Food and Drug Regulations*.
+4. The medicine is for **veterinary use**.
+
+#### Updates to Information:
+- Any **change** in information (e.g., new patent term, expiry date) must be reported **within 30 days** of the change.
+- Specifically includes updates to **additional patent terms** granted via:
+  - Certificate of Additional Term (CAT) under **subsection 117.04(3)** of the *Patent Rules*, or
+  - Orders under **subsection 46.4(2)** of the *Patent Act*.
+
+> 🔍 *Purpose*: Ensures that the public and regulators have accurate, up-to-date data on patent timelines and medicine availability.
+
+---
+
+### ✅ **Section 2: Pricing and Sales Information (Paragraphs 80(1)(b) and (2)(b))**
+
+**What must be disclosed?**  
+Information on **sales pricing and revenue** for the medicine.
+
+#### Required Elements:
+1. Identity of rights holder or former holder.
+2. Generic and brand name of the medicine.
+3. Date of first sale in Canada.
+4. Day or period (e.g., six-month period) to which the data applies.
+5. **Drug Identification Number (DIN)** or alternative ID for each dosage form and strength.
+6. For each **six-month period** (Jan 1, July 1):
+   - **Quantity sold** in final dosage form.
+   - **Average price per package** (after promotions, rebates, discounts, etc.).
+   - **Net revenue** from sales (after deductions for rebates, discounts, taxes).
+   - **Publicly available ex-factory price** (in local currency) for:
+     - Each dosage form, strength, and package size
+     - For each **class of customer** (e.g., hospitals, pharmacies, wholesalers)
+     - In **each province and territory**
+     - In **specified foreign countries** (as listed in a schedule)
+
+#### Reporting Deadlines:
+- **Within 30 days** after:
+  - The day the medicine is first sold in Canada.
+  - The end of each **six-month period** (January 1 and July 1).
+- **Exception**: In the same cases as above (non-prescription, controlled substance, etc.), the information must be provided **within 30 days of a Board request**, and **during the two years following the request**, within 30 days of each six-month period end.
+
+#### Key Calculations:
+- **Average price per package** and **net revenue**:
+  - Must exclude **promotions, rebates, free goods, gifts, refunds, or other benefits**.
+  - Must **deduct federal sales tax**.
+- **Ex-factory price**:
+  - Must be **agreed upon** between the rights holder and the **regulatory authority** of the country where sold.
+  - Must be expressed in the **local currency** of the country.
+
+#### Exceptions:
+- Does **not apply** to sales to:
+  - A person with whom the rights holder is **not dealing at arm’s length**.
+  - Another rights holder or former rights holder.
+- If the medicine is resold to a non-arm’s-length party, the **original rights holder must provide pricing information** for that resale.
+
+#### Arm’s Length Determination:
+- Governed by the **Income Tax Act as of December 1, 1987**.
+- The Board uses this to assess whether a transaction was fair and commercially reasonable.
+
+> 🔍 *Purpose*: To promote **transparency in pricing**, especially for generic and patented drugs, and to allow comparison across provinces and countries.
+
+---
+
+### ✅ **Section 3: R&D Expenditure and Licensee Information (Subsection 88(1))**
+
+**What must be disclosed?**  
+For each calendar year, information about the **rights holder’s R&D activities** and **licensees in Canada**.
+
+#### Required Information:
+1. Name and address of:
+   - Rights holder
+   - All licensees in Canada
+2. **Total gross revenues** from sales in Canada (human and veterinary) by:
+   - The rights holder
+   - All licensees
+3. **Summary of R&D expenditures**:
+   - Type of research (e.g., clinical trials, formulation)
+   - Name of entity or person conducting R&D
+   - Amount spent per type of R&D
+   - Province where R&D was conducted
+   - Expenditures in that province
+
+#### Reporting Deadline:
+- **Within 60 days after the end of each calendar year**.
+
+#### Definition of "

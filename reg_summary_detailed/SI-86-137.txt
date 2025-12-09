@@ -1,0 +1,197 @@
+**Detailed Summary of the British Columbia Court of Appeal Criminal Appeal Rules, 1986**
+
+---
+
+### **Overview**
+
+The *British Columbia Court of Appeal Criminal Appeal Rules, 1986* provide a comprehensive procedural framework governing the filing, conduct, and management of criminal appeals within the Court of Appeal of British Columbia. These rules are designed to ensure that appeals are conducted efficiently, fairly, and in a manner that respects both the rights of the parties and the judicial process.
+
+The rules apply specifically to appeals against **convictions, sentences, or both**, and are administered by the **Registrar of the Court of Appeal**, with powers delegated to justices of appeal. The rules also incorporate provisions for **leave to appeal**, **pre-hearing conferences**, **factums**, **transcripts**, **exclusion of irrelevant material**, and **disposition of appeals**.
+
+---
+
+## **Key Definitions and Interpretations**
+
+The rules begin with a series of key definitions that clarify terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Appeal** | Includes an application for leave to appeal. |
+| **Appellant** | An applicant for leave to appeal (i.e., the person seeking to appeal). |
+| **Court** | Refers to the Court of Appeal of British Columbia. |
+| **Defendant** | The person who was convicted, sentenced, or otherwise found against. |
+| **File** | To submit documents to the registrar in the court’s registry. |
+| **Justice** | A justice of appeal. |
+| **Notice of Appeal** | Includes a notice of application for leave to appeal. |
+| **Order under Appeal** | The conviction, acquittal, sentence, finding, or determination being appealed. |
+| **Registrar** | Includes assistant, associate, deputy registrars, and persons appointed temporarily. |
+| **Respondent** | The prosecutor (if appellant is defendant); otherwise, the defendant (if appellant is prosecutor). |
+
+> *Note:* Definitions from Sections 2 and 673 of the *Criminal Code* are also incorporated into these rules.
+
+> The *Court of Appeal Rules (Civil)* apply to non-criminal appeals unless otherwise provided.
+
+> The Court may issue **practice directives** on any aspect of appeals, and has full authority under the *Court of Appeal Act* and associated rules.
+
+---
+
+## **Filing of an Appeal**
+
+### **1. Time Limits for Filing**
+
+- **Standard Time Limit:** An appeal against conviction or sentence must be filed **within 30 days** of the imposition of sentence.
+- **Extension Request:** If more than 30 days have passed, the defendant may apply for an extension by filing **Form 7** (original and one copy).
+  - The application must be filed before the 30-day deadline expires.
+  - The registrar forwards the form to the prosecutor.
+
+> ⚠️ **Note:** This 30-day window is strict and does not allow for automatic extensions. Failure to comply may lead to dismissal of the appeal.
+
+---
+
+### **2. Forms Required for Filing**
+
+| Appellant Type | Form Required |
+|---------------|---------------|
+| Defendant represented by counsel | Form 1 or 1A |
+| Defendant not represented by counsel | Form 2 |
+| Prosecutor appealing | Form 3 (notice of appeal) |
+
+> All notices of appeal must be filed with the **Registrar** and **served on the respondent**.
+
+---
+
+### **3. Service of Notice of Appeal**
+
+- The prosecutor must **serve the respondent** (defendant or prosecutor, as applicable) with the notice of appeal **either before or after** it is filed.
+- If the prosecutor cannot serve personally, the **Court or a Justice may authorize alternative service**.
+- Upon compliance with service requirements, the respondent is **deemed served**.
+
+> The appellant must provide **an address for service** on the notice.  
+> If the appellant is **in custody**, they must also provide:
+> - The name of the institution where they are detained;  
+> - A **second address** (other than the institution).
+
+> A **copy of the notice** is forwarded to the **judge who issued the order under appeal**.
+
+---
+
+## **Amendment of Notice of Appeal**
+
+- An appeal notice **may be amended**:
+  - **With leave of the Court or Justice**; or
+  - **Without leave**, under the following conditions:
+    - Up to **14 days before hearing**, if **factums are not required**; or
+    - Before the appellant files factums, if **factums are required**.
+
+> Upon amendment, the amended notice must be **filed and served** promptly.
+
+> **Rule 9 does not apply** to unrepresented appellants or respondents — meaning service requirements are more flexible.
+
+---
+
+## **Filing of Appeal Book and Transcript**
+
+### **General Requirements**
+
+- The appellant must file:
+  - **Four copies** of the **appeal book** and **transcript** within **60 days** of filing the notice of appeal.
+  - Deliver **one copy** of each to the respondent.
+
+> The appeal book and transcript must:
+- Be printed in **10-point type**;
+- Be printed **only on the left side** of the page;
+- Be on **durable white paper** measuring **21.5 cm × 28 cm**;
+- Be **bound separately**:
+  - Appeal book: **blue cover** (Form 4);
+  - Transcript: **red cover** (Form 5).
+
+> If the total number of pages exceeds **300**, the document must be split into **two or more volumes**, each containing **no more than 200 pages**.
+
+> Each volume must include:
+- A **page list** indicating the range of pages;
+- An **index** (as per Form 4 or 5, page 2).
+
+---
+
+### **Contents of the Appeal Book**
+
+The appeal book must contain:
+1. An index;
+2. A copy of the **information or indictment**;
+3. A copy of **all exhibits capable of reproduction**;
+4. A list of **excluded exhibits and affidavits**;
+5. A copy of the **order under appeal**;
+6. A copy of the **notice of appeal**;
+7. If no transcript is prepared, a **statement of facts** (as required by Rule 9).
+
+---
+
+### **Contents of the Transcript**
+
+The transcript must contain:
+1. An index (complete in each volume if multiple);
+2. All **rulings** of the trial judge:
+   - Reasons for judgment or charge to the jury;
+3. A **statement of excluded evidence** (as per Rule 9).
+
+> **Excluded from the transcript** (unless ordered otherwise or agreed upon):
+- Proceedings on **challenge for cause** of jury or juror;
+- The **opening address** of the judge;
+- The **opening and closing addresses** of counsel;
+- All proceedings in the **absence of the jury**, except:
+  - Rulings on admissibility of evidence after voir dire or otherwise;
+  - Objections to the judge’s charge;
+  - Objections to admissibility of evidence (only if the grounds of appeal relate to those matters);
+- **Unless**:
+  - The Court or Justice orders inclusion;
+  - The parties agree to include it.
+
+> **Exception:** If the parties agree on a **statement of facts**, the appellant may instead:
+- Include it in the appeal book; or
+- Submit it in a **separately bound red-cover volume** (as agreed or directed by the registrar).
+
+---
+
+## **Registrar’s Role in Quality Control**
+
+- The **registrar may reject** an appeal book or transcript that fails to comply with the rules or any order.
+- Upon rejection, the registrar must **promptly notify both parties** of the rejection and the **reasons**.
+- The parties are required to **reduce the bulk** of the appeal by excluding unnecessary evidence or material.
+- Either party may:
+  - Suggest exclusions;
+  - Request a **meeting with the registrar** (on two days’ notice) to settle the appeal book or transcript;
+  - Seek a **direction from the registrar** on what should be included or excluded.
+
+> If the registrar issues a direction, it may be **appealed to a Justice**, who may refer the issue back to the **original court’s registrar** or a judge.
+
+---
+
+## **Filing of Factums (Arguments)**
+
+- **Appellant** must file **four copies** of the factum within **30 days** of receiving the appeal book and transcript.
+- **Respondent** must file **four copies** within **30 days** of receiving the appellant’s factum.
+- If the appellant wishes to **reply**, they must file a **reply factum within seven days** of receiving the respondent’s factum and deliver a copy promptly.
+
+> **Factums must comply with Form 6**, including:
+- No irrelevant material;
+- No reproduction of material already in the appeal book or transcript (unless reference is sufficient).
+
+> **Index Requirement:**  
+If counsel estimates the appeal will take more than one day, the index page must include:
+> “After consultation with counsel for the respondent, I consider that the hearing of this appeal should take ___ days. I consider that the presentation of my argument will take ___ days.”
+
+---
+
+## **Appeals Against Sentence**
+
+- In appeals against sentence, the appellant must file **four copies** of **sentence appeal material** as required by the registrar.
+- One copy must be **served on the respondent**.
+
+> The court may order the preparation of a **post-sentence report** (e.g., for rehabilitation, community safety, or reintegration) when an appeal against sentence is filed.
+
+---
+
+## **Consequences of Non-Compliance**
+
+- If the appellant:
+  - F

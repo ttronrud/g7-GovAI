@@ -1,0 +1,142 @@
+**Detailed Summary of the *Chlorine Tank Car Unloading Facilities Regulations***
+
+---
+
+### **Overview**
+The *Chlorine Tank Car Unloading Facilities Regulations* are a set of safety and operational standards established under the authority of the **Canadian Transport Commission (Commission)** to regulate the location, design, construction, and operation of chlorine tank car unloading facilities located on railway right-of-way. These regulations aim to ensure public safety, protect workers, and prevent environmental or fire hazards associated with the handling of chlorine—a highly hazardous chemical.
+
+The regulations apply specifically to **chlorine in liquid or gaseous form**, with a maximum of **150 parts per million (ppm) of water**, and govern all aspects of unloading operations involving **approved chlorine tank cars**.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Chlorine** | The chemical element Cl₂ in liquid or gaseous form, containing not more than 150 ppm of water. |
+| **Commission** | The Canadian Transport Commission, responsible for regulating dangerous commodities by rail. |
+| **Dangerous Commodity** | Any substance subject to the *Regulations for the Transportation of Dangerous Commodities by Rail* or other Commission orders. |
+| **Main Track** | A track used for scheduled train operations, controlled by timetable, signals, or train orders. |
+| **Owning or Operating Company** | The entity responsible for owning or operating the chlorine unloading facility. |
+| **Railway Right-of-Way** | Land owned or leased by a railway, contiguous to its tracks, under Commission jurisdiction. |
+| **Railway Station** | A location where trains stop according to the timetable. |
+| **Railway Station-Dwelling** | A station building partially used as residential housing. |
+| **Serving Track** | The track on which chlorine tank cars are parked for unloading. |
+| **Shall** | Indicates mandatory (required) provisions. |
+| **Should** | Indicates recommendatory (advisory) provisions. |
+| **Tank Car** | A rail tank car approved by the Commission for chlorine service; excludes multi-unit cars (e.g., ICC 106A500-X). |
+
+---
+
+## **Scope and Applicability**
+
+- Applies to **chlorine tank car unloading facilities** located on railway right-of-way owned or leased by a railway company under Commission jurisdiction.
+- **Excludes** chlorine **stationary bulk storage facilities**—their construction on railway right-of-way is **prohibited**.
+- Facilities approved by the Commission **before July 31, 1965**, must comply with these regulations **except** for provisions related to **location, construction, and design**, which are not required to be followed unless otherwise ordered.
+
+---
+
+## **Location Approval Requirements**
+
+1. **Pre-construction Approval Required**  
+   - No new chlorine unloading facility or part thereof may be constructed without **Commission approval** of the proposed location via an order.
+   - **Exception**: If the proposed facility fully complies with Parts II, III, IV, and V of the regulations, **approval is not required before construction**, but **must be obtained before the facility is used**.
+
+2. **Application Submission**  
+   - Applications must be submitted by the **railway company** to the **Secretary of the Commission**.
+   - Must include **four copies of drawings** meeting specific requirements.
+
+3. **Drawing Requirements**  
+   - **Plan of Facility**: Minimum scale of **1 inch to 50 feet**; shows:
+     - Location of unloading rack and tank car in unloading position.
+     - Proximity to buildings, structures, boundaries, fire hydrants, rail lines, roads, and other key features.
+   - **Plot Plan**: Minimum scale of **1 inch to 200 feet**; shows location in relation to off-site structures.
+   - **Section Drawing**: Minimum scale of **1 inch to 20 feet**; shows elevation relative to other structures and tracks within 50 feet.
+   - All drawings must be:
+     - Dated
+     - Identified with a unique number
+     - Signed by the Chief Engineer or authorized official of the applicant or consulting firm.
+
+4. **Mandatory Elements in Drawing Notes/Legend**  
+   - Evidence that the **local fire authority** (provincial fire marshal, commissioner, or local fire department) has **no objection** to the facility.
+   - Statement confirming compliance with all regulations, or listing exceptions.
+   - Details on size, type, and purpose of all buildings, tanks, and structures on site.
+   - Reference to railway company, subdivision, mileage, and nearest town/city.
+   - Direction of prevailing winds.
+   - Location of:
+     - Self-contained breathing apparatus (SCBA)
+     - Emergency tank car repair kit
+   - If no buildings exist within restricted distances, this must be explicitly stated.
+
+5. **Retention of Drawings**  
+   - A copy of each required drawing must be kept by the railway company **for the life of the facility** and **retained for at least two years after decommissioning**.
+
+6. **Wind Considerations**  
+   - Facilities should be located **downwind** of occupied buildings where practicable, to minimize exposure to chlorine vapors.
+
+---
+
+## **Minimum Horizontal Distances from Structures and Tracks**
+
+| Distance Requirement | Details |
+|---------------------|--------|
+| **From other storage/transfer facilities** (combustible or dangerous commodities) | Minimum **75 feet** between center of unloading rack/tank car and nearest point of such facility. |
+| **From occupied buildings** | - **≥2,000 feet** from schools, hospitals, hotels, churches, multi-storey office buildings, shopping centres, apartments, department stores, or similar high-occupancy buildings.<br>- **≥1,000 feet** from single-family dwellings, railway stations, one-storey offices, restaurants, or low-occupancy buildings.<br>- **≥500 feet** from factories, workshops, or maintenance buildings. |
+| **From adjoining property** | Minimum **50 feet** from the boundary line of any adjacent property (whether currently built upon or planned). |
+| **From serving track** | Distance between **gauge side of unloading rack** and nearest rail must meet requirements in **Schedule I**. |
+| **From main tracks or main roads** | - **≥50 feet** from main tracks or curb lines of main roads.<br>- **≥20 feet** from passing tracks or non-main tracks. |
+
+> **Exception**: The Commission may authorize **lesser distances** for structures **on the same site** and used **exclusively** by the facility owner/operator.
+
+---
+
+## **Piping System Requirements**
+
+1. **Materials**  
+   - Only **steel pipe, fittings, and valves** may be used.
+   - Minimum **3/4 inch nominal diameter**.
+   - Must comply with standards in **Tables I and II of Schedule II**, or other standards **recommended by The Chlorine Institute** and **approved by the Commission**.
+
+2. **Joints**  
+   - All joints **exceeding 1¼ inches in nominal diameter** must be **welded**.
+
+3. **Gaskets, Packing, and Valves**  
+   - Must comply with **The Chlorine Institute Pamphlet No. 6 (1962)** and its amendments.
+
+4. **Welding**  
+   - Must be performed by a **welder approved by the provincial government** for the specific welding type.
+
+5. **Flexible Connection**  
+   - Must comply with **The Chlorine Institute Drawing No. 118 (Schedule III)** or an approved alternative.
+
+6. **Shut-Off Valves**  
+   - One shut-off valve near the **flexible connection** (not for throttling; must be fully open or closed).  
+   - A second shut-off valve near the **process tank or receiving vessel**.
+
+7. **Hydrostatic and Pneumatic Testing**  
+   - **Before first use** and **after repair**, the piping system must undergo:
+     - **Hydrostatic test**: 300 psig for 30 minutes without leakage or failure.
+     - **Pneumatic test**: Dry air at 150 psig (as recommended in Chlorine Institute Pamphlet No. 6).
+   - A **dated and signed record** of both tests must be retained for Commission inspection.
+
+8. **Expansion Chamber**  
+   - Required between shut-off valves or areas where liquid chlorine may trap.
+   - Capacity must be **at least 20%** of the protected pipeline's capacity.
+
+9. **"Air Padding" Procedure**  
+   - If tank car pressure is insufficient, **clean, dry air** ("air padding") may be used to increase pressure.
+   - **Inert gas** may be used **only with written consent from the chlorine supplier**.
+   - Total pressure (air/inert gas + chlorine vapour at max unloading temperature) must not exceed:
+     - **125 psig** for tank cars with safety valves set at **225 psig**.
+     - **200 psig** for tank cars with safety valves set at **375 psig**.
+   - Air or inert gas must be:
+     - Free of oil and contaminants
+     - Dried to a dew point of **−40°F or below** (at atmospheric pressure)
+
+---
+
+## **Pipeline Installation and Support**
+
+- Piping must be supported on **permanent steel or concrete supports**.
+- Supports for pipelines **above 4 feet** must extend **below the frost line** or rest on **bedrock**.
+- Pipelines exposed to **vehicular traffic** must be

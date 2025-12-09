@@ -1,0 +1,213 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the regulation you provided — the *Regulations respecting occupational safety and health of employees on trains while in operation*, made under Part IV of the *Canada Labour Code*, effective April 2, 1987 (now **repealed** by SOR/2015-143, s. 2).
+
+---
+
+## 📚 **Detailed Summary of the Regulation:  
+Occupational Safety and Health of Employees on Trains While in Operation**  
+*(Canada Labour Code – Part IV – Regulations, effective April 2, 1987)*
+
+> **Note:** This regulation has been **repealed** by *SOR/2015-143, s. 2*, and is no longer in force. It was issued under the authority of the Minister of Labour, on the recommendation of the Canadian Transport Commission, pursuant to sections 82*, 83*, and 106(2)* of the Canada Labour Code.
+
+---
+
+## 🔍 1. **Purpose and Scope**
+
+### Purpose:
+To establish **minimum health and safety standards** for employees working on trains while in operation, particularly focusing on:
+- Lighting
+- Noise exposure
+- Use of elevating devices (elevators, escalators)
+- Electrical safety
+- Sanitary conditions in on-board accommodations and food preparation areas
+- Protection from hazardous substances and vermin
+
+### Scope:
+- Applies to **employees on trains while in operation**.
+- Applies to **all persons granted access** to trains by an employer (e.g., contractors, trainees, visitors).
+- Applies to **non-employees** who perform work to acquire knowledge or experience — treated as if they were employees for the purposes of these regulations.
+
+> ⚠️ **Important Note:** This regulation is **no longer valid** as of the repeal in 2015. It was superseded by modern occupational health and safety legislation and standards.
+
+---
+
+## 📚 2. **Key Definitions (Relevant to the Regulation)**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Part II of the Canada Labour Code |
+| **CSA** | Canadian Standards Association (for standards reference) |
+| **Rolling stock** | Locomotives, cabooses, boxcars, tank cars, maintenance-of-way equipment, snowplows, flangers, etc. |
+| **On-board accommodation** | Living, eating, or sleeping quarters provided for employees |
+| **Food preparation area** | Area used for storing or preparing food |
+| **Elevating device** | Escalators, elevators, or similar devices on rolling stock |
+| **Safety device** | Devices designed to prevent injury (e.g., emergency stops, guards) |
+| **Qualified person** | Someone with knowledge, training, and experience to perform a task safely |
+| **Task position** | A location where visual tasks are performed (e.g., operating controls) |
+| **VDT** | Visual Display Terminal (e.g., computer screens) |
+| **A-weighted sound pressure level (dBA)** | Standard measure of human-perceivable noise |
+| **Noise exposure level (Lex,8)** | Time-integrated measure of noise exposure over 24 hours |
+| **Guarded electrical equipment** | Equipment shielded or inaccessible to employees |
+| **Control device** | Device that safely disconnects electrical equipment from power |
+
+---
+
+## 🚨 3. **Core Provisions and Requirements**
+
+---
+
+### 🔹 **3.1 Lighting Standards**
+
+#### Objective:
+Ensure adequate visibility to prevent accidents, especially during visual tasks.
+
+#### Requirements:
+- **Minimum lighting levels** are prescribed in **Schedules I, II, and III**.
+  - Schedule I & II: Minimum lighting in areas (e.g., corridors, workspaces)
+  - Schedule III: Maximum lighting at task positions (to prevent glare and eye strain)
+
+#### Measurement:
+- Average lighting is determined by taking **four measurements** at representative points (1 meter above floor).
+- Average = total of four readings ÷ 4.
+
+#### Alternatives:
+- If full lighting system is not feasible, **portable lanterns** must provide required lighting.
+
+#### Glare Control:
+- Reflection glare on **VDT screens** must be limited so employees can:
+  - Read all text
+  - See all visual content clearly
+
+#### Emergency Lighting:
+- Must be available in areas where employees pass during procedures involving risk.
+- Must:
+  - Operate automatically if possible
+  - Provide **at least 10 lx** of average lighting
+
+---
+
+### 🔹 **3.2 Noise Exposure Standards**
+
+#### Objective:
+Protect employees from hearing damage due to prolonged exposure to high noise levels.
+
+#### Key Metrics:
+- **A-weighted sound pressure level (dBA)**: Measures human-perceivable noise.
+- **Noise exposure level (Lex,8)**: Time-integrated exposure over 24 hours.
+
+#### Exposure Limits:
+| Condition | Limit |
+|--------|-------|
+| In any 24-hour period | No exposure to A-weighted sound pressure level exceeding the limit in **Schedule** (Column I) for more than the duration in **Column II** |
+| At any time | No exposure to **more than 87 dBA** |
+
+> ⚠️ Exposure to **84 dBA or more** is considered potentially hazardous.
+
+#### Actions Required:
+1. **If exposure ≥ 84 dBA**:
+   - Employer must **appoint a qualified person** to investigate.
+   - Investigator must:
+     - Identify noise sources
+     - Assess exposure duration
+     - Evaluate current controls
+     - Determine if exposure exceeds limits (e.g., 84–87 dBA)
+     - Recommend engineering controls or hearing protectors
+   - Report must be **signed, dated, and kept for 10 years**.
+   - Posted in a **conspicuous place** and provided to affected employees.
+   - Provide written information about the risks of high noise exposure.
+
+2. **If feasible**, employers must use **engineering controls** (e.g., sound barriers, enclosure) to reduce noise **before** relying on hearing protectors.
+
+3. **If not feasible**:
+   - Employer must **write a report** to:
+     - Head of Compliance and Enforcement
+     - Workplace committee or health and safety representative
+   - Must provide **hearing protectors** (meeting CSA CAN/CSA-Z94.2-02 standards) to employees.
+
+4. **Training**:
+   - Employers must develop and implement a **training program** on:
+     - Proper fit
+     - Care and maintenance
+     - Use of hearing protectors
+
+5. **Non-employees** granted access to noisy areas must **use approved hearing protectors**.
+
+6. **Warning Signs**:
+   - Must be posted in conspicuous places if noise exceeds 87 dBA.
+
+---
+
+### 🔹 **3.3 Elevating Devices (Escalators, Elevators)**
+
+#### Safety Rules:
+- **No load exceeding design capacity** may be carried.
+- **No operation** if any safety device is inoperative.
+- **No alteration or interference** with safety devices without authorization.
+
+#### Inspection and Testing:
+- Must be conducted by a **qualified person** at:
+  1. Before first operation
+  2. After any modification
+  3. **Every 12 months**
+- Record must include:
+  - Date and location
+  - Observations on safety and condition
+  - Signature of qualified person
+- Records must be **kept for 2 years**
+
+#### Maintenance:
+- Must be performed by a **qualified person appointed by the employer**
+
+---
+
+### 🔹 **3.4 Electrical Safety**
+
+#### General Rule:
+- Where work is performed on **live electrical equipment**, strict safety procedures apply.
+
+#### Requirements:
+- Employees must be **instructed in safe procedures** for working on live conductors.
+- Equipment must be **guarded** (covered, shielded, or inaccessible) when live or potentially live.
+- If guarding is not feasible:
+  - Equipment must be **insulated** from the employee or the employee from ground.
+
+#### Control Devices:
+- Must be:
+  - Easily accessible
+  - Designed for **quick and safe operation**
+  - Located so access paths are **free of obstruction**
+
+#### Lockout/Tagout:
+- If only authorized personnel operate switches:
+  - Switches must have **locking devices** accessible only to authorized persons.
+
+> ⚠️ If work is not covered by the above, **Part VIII of the Canada Occupational Health and Safety Regulations** applies.
+
+---
+
+### 🔹 **3.5 Sanitary and Hygienic Conditions**
+
+#### On-Board Accommodation & Food Preparation Areas:
+- Must be **clean, sanitary, and well-maintained**.
+- Used in a way that maintains cleanliness and hygiene.
+
+#### Key Requirements:
+- **Separation** between food preparation areas and sleeping quarters.
+- **Garbage disposal**:
+  - Must have **tight-fitting covers**
+  - Be **leak-proof and easy to clean**
+  - Be emptied **at least once daily**
+- **Potable water, heating, ventilation, and sewage systems** must be provided in all on-board accommodations.
+- **Toilet rooms** must be constructed and maintained to prevent health hazards.
+
+#### Vermin Prevention:
+- All enclosed areas (including accommodations, toilets, food prep) must be designed to **prevent vermin entry**.
+- If vermin enter:
+  - Employer must **eliminate them immediately** and prevent future entry.
+
+#### Storage:
+- No person may store equipment in on-board accommodation, toilet, or food preparation area **unless**:
+  - Storage is approved and does not compromise safety or hygiene
+
+---
+
+## 📎 4. **Compliance and

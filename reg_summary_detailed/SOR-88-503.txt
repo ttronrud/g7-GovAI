@@ -1,0 +1,144 @@
+**Detailed Summary of the Northern Ontario Loan Insurance Regulations**
+
+---
+
+### **Overview**
+
+The *Northern Ontario Loan Insurance Regulations* (S.C. 1980–81–82–83, c. 3; S.C. 1980–81–82–83, c. 90; S.C. 1988, c. 25) are a set of government regulations established to promote economic development in Northern Ontario by providing **loan insurance** to lenders who finance commercial projects in designated regions. These regulations were enacted under the authority of the *Appropriation Acts* of 1980–81, 1981–82, and 1988–89, and are administered by the **Minister of Industry, Science and Technology**.
+
+The primary objective is to encourage investment in economically significant sectors in Northern Ontario by reducing the financial risk for lenders—particularly small and medium-sized enterprises (SMEs)—that might otherwise be unable to secure loans due to perceived risks associated with location, sector, or project viability.
+
+---
+
+## **Key Definitions and Scope**
+
+| Term | Definition |
+|------|-----------|
+| **Applicant** | An individual, partnership, cooperative, or body corporate (excluding government entities, municipalities, or their subsidiaries). |
+| **Capital Costs** | Costs necessary to carry out a project under generally accepted accounting principles, excluding goodwill, motor vehicles not used exclusively on-site, aircraft, and amounts exceeding fair market value. |
+| **Designated Region** | The area of Ontario north of and including the census divisions of **Parry Sound and Nipissing**, as defined in the 1981 Census of Canada reference maps. |
+| **Disbursement** | Any payment made by a lender to an applicant under a loan agreement. |
+| **Eligible Sector** | A specific industrial or service sector listed in the Schedule (e.g., agriculture, tourism, mining). |
+| **Formal Demand** | A written demand by a lender to the applicant for repayment of a loan. |
+| **Lender** | Banks, credit unions, trust companies, insurance companies, pension funds, or foreign bank affiliates (excluding government-owned institutions). |
+| **Loan Agreement** | A contract between a lender and applicant for a loan to finance a project, with a corresponding loan insurance agreement. |
+| **Loan Insurance Agreement** | A contract between the Minister and a lender whereby the Minister insures the lender against loss if the borrower defaults. |
+| **Project** | Includes establishing, expanding, modernizing, or renovating a commercial operation in the designated region within an eligible sector. Establishing a facility also includes purchasing assets when the operation has ceased due to forces beyond the owner’s control and the transaction is arm’s-length and unrelated to the previous owner. |
+| **Minister** | The Minister of Industry, Science and Technology. |
+
+---
+
+## **Application Process**
+
+1. **Application Deadline**:  
+   Applicants must submit a written application to the Minister **on or before March 31, 1992**.
+
+2. **Required Information**:  
+   The application must include:
+   - A detailed description of the project.
+   - Pro forma financial statements for each year during which loan insurance is required.
+   - Evidence of commercial viability and equity ownership.
+
+3. **Eligibility Criteria** (for entry into a loan insurance agreement):
+
+   The Minister may enter into a loan insurance agreement **only if all of the following conditions are met**:
+
+   - **Loan Amount**: Between **$100,000 and $15,000,000**.
+   - **Loan Term**: No more than **15 years**.
+   - **Use of Funds**: The total loan must be used **exclusively for capital costs** (excluding working capital unless otherwise justified).
+   - **Commercial Viability**: The project and applicant’s operations must be commercially viable, subject to reasonable risk.
+   - **Equity Requirement**: The applicant must have **at least 20% equity** in the project’s capital costs.
+   - **Security**: The lender must hold an enforceable security interest (e.g., mortgage, lien) in accordance with standard banking practices.
+   - **Economic Benefit**: The project must make a **significant contribution** to the economic benefit of the designated region and Canada.
+   - **Project Feasibility**: Without loan insurance, the project would **not likely be carried out** in the proposed time, scope, or location.
+   - **No Loan on Commercial Terms**: The applicant cannot obtain a loan on commercially acceptable terms without insurance.
+
+4. **Working Capital Exception**:  
+   A loan insurance agreement **may be granted for working capital** if, without insurance, the project would not be viable.
+
+5. **Tourism-Specific Provisions (Eligible Sector 11)**:
+   - Projects in **Sector 11 (Tourism)** may receive insurance if:
+     - They are of **quality and scope** likely to attract tourists from outside Northern Ontario.
+     - They are part of or support another tourism facility.
+     - They are **thematically unique or original**, forming a distinct tourism attraction.
+
+6. **Exclusions**:
+   - **No insurance** for loans used for:
+     - Mergers, refinancings, or acquisitions (except for projects under Sector 11 as defined above).
+
+---
+
+## **Insurance Coverage and Fee Structure**
+
+- **Insurance Limit**:  
+  The loan insurance covers **up to 85% of the disbursed loan amount**.
+
+- **Insurance Fee Schedule** (paid in advance by the lender):
+
+  | Disbursement Type | Fee Formula |
+  |------------------|-------------|
+  | **First disbursement** | `Insurance % × Disbursement Amount` |
+  | **Each subsequent disbursement** | `Insurance % × Disbursement Amount` |
+  | **Each anniversary of first disbursement** (until formal demand or repayment) | `Insurance % × Outstanding Loan Balance` × `(Days remaining until next anniversary / 365)` |
+
+  > *Note: The fee is non-refundable.*
+
+- **Fee Calculation Notes**:
+  - Fees are calculated based on the **percentage of insurance**, the **disbursement amount**, and the **time period** between disbursements.
+  - The fee is due at the time of disbursement and on anniversaries until repayment or formal demand.
+
+---
+
+## **Claim Process and Loss Definition**
+
+A claim can only be paid by the Minister **if**:
+1. The lender makes a **formal written demand**.
+2. The lender submits evidence that:
+   - It took **all reasonable steps** to protect its rights and realize on the security.
+   - It **suffered a loss** as defined in Section 11.
+
+### **Definition of "Loss"** (total amount payable to lender):
+
+Loss =  
+**(a)** Principal amount of the outstanding loan + unpaid interest at date of formal demand  
+**(b)** Reasonable legal, administrative, and collection costs  
+**(c)** Costs incurred to protect the loan security  
+**(d)** Interest on (a), (b), and (c) at the **lender’s rate** for up to **180 days** after formal demand  
+**(e)** Additional interest at **half the rate** for up to another 180 days (only if the Minister and lender agree to realize on security during this period)  
+**Minus**:
+- Any amount **realized from the security**
+- Any amount **recovered by the lender after formal demand** in excess of all other loans made to the applicant
+
+> Thus, the loss is capped by the **insured amount** at the time of formal demand and is limited to the actual financial loss incurred.
+
+---
+
+## **Stock Option Provisions (Government Investment)**
+
+The Minister may, **on behalf of Her Majesty in right of Canada**, acquire a **stock option** in a company as a condition of entering into a loan insurance agreement **only if**:
+
+- The loan amount is **$500,000 or more**.
+- The expected rate of return on the project **justifies** the acquisition.
+
+### Key Rules:
+- The Minister may **exercise, assign, or sell** the stock option **only if it benefits Canada**.
+- If capital stock is acquired under the option, the Minister must **sell it within two years** of acquisition to benefit Canada.
+- If a third party offers to buy the stock option or capital stock, the Minister must **notify the applicant in writing**.
+- If the applicant intends to purchase the stock at the offered price and terms, it must **advise the Minister within seven business days**.
+- Upon such notice, the Minister **must sell the stock option or capital stock to the applicant**.
+
+> This provision allows the federal government to gain equity in successful Northern Ontario ventures as a form of strategic investment and risk-sharing.
+
+---
+
+## **Eligible Sectors (Schedule)**
+
+The regulations define 13 eligible sectors, each with specific industry classifications from the **Statistics Canada Standard Industrial Classification (SIC) 1980**:
+
+| Sector | Key Activities |
+|--------|----------------|
+| **1 – Agricultural Industries** | Crop dusting, maple sugar/syrup production, farm equipment repair, grain cleaning/drying, produce packing/grading |
+| **2 – Aquaculture** | Farming of fish, shellfish, crustaceans; marine plant cultivation; fishing gear and net mending; fish hatcheries |
+| **3 – Business Service Industries** | Computer and related services; architectural, engineering, duplicating, marketing, inventory, and design services |
+| **4 – Commercial Research and Development Facilities** | R&D facilities (no specific sub-classifications listed) |
+| **5 – Freight Forwarding** | Freight forwarding services

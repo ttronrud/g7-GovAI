@@ -1,0 +1,173 @@
+Certainly. Below is a **detailed, comprehensive summary** of the regulation titled:
+
+---
+
+# **Reduction in the Release of Volatile Organic Compounds (VOCs) – Petroleum Sector Regulations (2017)**  
+*Under the Canadian Environmental Protection Act, 1999 (CEPA 1999)*
+
+---
+
+## **I. Regulatory Background and Legal Authority**
+
+### **1.1 Legal Basis**
+These regulations were established under **subsection 93(1)** of the *Canadian Environmental Protection Act, 1999 (CEPA 1999)*, which allows the Governor in Council to make regulations to reduce the release of hazardous substances into the environment, particularly when such releases threaten human health or the environment.
+
+The regulations were proposed on **May 27, 2017**, and published in *Canada Gazette, Part I*, giving stakeholders a formal opportunity to:
+- Submit comments,
+- File a **notice of objection**, which would trigger a **board of review** to assess the proposed rules.
+
+### **1.2 Consultation Process**
+- The **National Advisory Committee** was consulted under **section 6c** of CEPA 1999, as required by subsection 93(3).
+- The Governor in Council concluded, pursuant to subsection 93(4), that the proposed regulations **do not conflict** with other federal environmental laws and provide **sufficient protection** to human health and the environment.
+
+Thus, the regulations were finalized and enacted on the recommendation of the **Minister of the Environment and the Minister of Health**, under **section 286.1d** of CEPA 1999.
+
+---
+
+## **II. Scope and Applicability**
+
+### **2.1 Who Is Covered?**
+The regulations apply to **facilities that produce liquid petroleum products** through distillation or processing of:
+- Crude oil or bitumen,
+- Mixtures of crude oil/bitumen and other hydrocarbons,
+- Partially refined feedstocks derived from crude oil or bitumen.
+
+Additionally, the regulations apply to **petrochemical facilities** that are **operated in an integrated way** with a petroleum-producing facility and share **at least one operator**.
+
+> **Definition of “Adjacent” Facilities**:  
+> Facilities separated by a railway track or road are considered “adjacent” for regulatory purposes.
+
+### **2.2 Exclusions**
+The following equipment components are **exempt from inventory listing and inspection requirements**:
+- Equipment normally operated at **internal pressure ≤ 5 kPa below ambient**,
+- Equipment located **underground**,
+- **Seal-less pumps** (e.g., canned-motor, diaphragm pumps),
+- **Bellows seal valves**,
+- **Diaphragm valves**,
+- **Storage vessels**,
+- **Oil-water separators**,
+- **Minor assemblies** (see below).
+
+> *Note: Minor assemblies are defined as components made up of up to 25 other equipment components, connected together, contacting the same fluid, and with a diameter <1.875 cm.*
+
+---
+
+## **III. Key Requirements for Operators**
+
+### **3.1 Leak Detection and Repair (LDR) Program**
+Every operator must establish and maintain a **Leak Detection and Repair (LDR) Program** that includes:
+
+| Requirement | Description |
+|-----------|-------------|
+| **Inventory of Equipment Components** | Must be maintained and updated annually. |
+| **Leak Detection Instruments** | Must be operated, maintained, and calibrated according to strict EPA standards. |
+| **Inspections** | Conducted at least 3 times per year for most components. |
+| **Recordkeeping** | Detailed records must be kept and retained for at least 5 years. |
+| **Training** | Inspectors must complete training within 12 months prior to first inspection. |
+
+---
+
+## **IV. Equipment Component Inventory Requirements**
+
+### **4.1 What Must Be Listed?**
+All equipment components **except the exempted ones** must be included in the inventory.
+
+### **4.2 Required Information in Inventory**
+For each listed component, the inventory must include:
+- Identification number,
+- Type (from Schedule 1),
+- Process unit location,
+- Location within the process unit,
+- Designation **“unsafe to inspect”** if inspection would expose individuals to immediate danger.
+
+### **4.3 Designation of “Difficult to Inspect” (Before 2027)**
+Before **January 1, 2027**, any equipment component located **more than 2 meters above a permanent support surface** must be designated as **“difficult to inspect”**.
+
+> This designation triggers **annual inspection** (not 3 times per year), to ensure compliance with accessibility and safety standards.
+
+### **4.4 Inventory Update Frequency**
+The inventory must be updated **only once per calendar year**, **before the first inspection** of that year.
+
+---
+
+## **V. Leak Detection Instruments: Technical Standards**
+
+### **5.1 Portable Monitoring Instruments (Porous or Active)**
+Must meet **EPA Method 21** (for VOC leak detection), with modifications:
+
+| Requirement | Details |
+|----------|--------|
+| **Sample Flow Rate** | Must be between **0.2 and 1.2 L/min** (vs. original EPA Method 21 requirement). |
+| **Calibration** | Must be performed daily using **methane (FID)** or **isobutylene (PID)** as reference compounds. |
+| **Response Factor** | If the response factor of the fluid is <1, it **cannot be applied** to inspection readings. |
+| **Calibration Precision & Response Time** | Must pass a **precision test** and have a **response time ≤ 5 seconds**. |
+| **Calibration Method** | Internal detector count must be assigned to known gas concentration (not adjusted via meter readout). |
+| **Daily Drift Assessment** | Required at the end of each day of use (per US EPA 40 CFR §60.485a(b)(2)). |
+
+> *Note: Instruments must be maintained per manufacturer’s specifications.*
+
+---
+
+### **5.2 Optical Gas-Imaging (OGI) Instruments**
+Must meet:
+- **EPA 40 CFR §60.18(h)(7)(i)(1)**,
+- Be operated and maintained per manufacturer’s instructions,
+- Be **checked daily** before first use (per §60.18(h)(7)(i)(2)(i)–(v)),
+- When inspecting **components covered by insulation**, must be operated to detect VOCs at **openings, seams, or end points** of insulation.
+
+---
+
+## **VI. Leak Inspection Requirements**
+
+### **6.1 Frequency of Inspections**
+All listed equipment components must be inspected **three times per calendar year**, with each inspection occurring:
+- **Between 1 and 6 months** after the last inspection.
+
+> **Inspection Methods**:
+- **Heavy-liquid components** (vapour pressure <1.013 kPa at 20°C): Inspected **visually**.
+- **All other components**: Inspected using a **leak detection instrument** (portable or OGI).
+
+### **6.2 Special Rule for “Difficult to Inspect” Components**
+Before **2027**, components designated as “difficult to inspect” must be inspected **once per year**, with inspections occurring:
+- **At least 3 months** after the last inspection.
+
+> Inspection method remains the same: visual for heavy liquids; instrument-based for others.
+
+---
+
+## **VII. Exemptions from Inspection Requirements**
+
+### **7.1 Dual Mechanical Seal Pumps with Barrier Fluid Systems**
+Pumps with a **dual mechanical seal system** and **barrier fluid system** are exempt **if** they meet all of the following:
+
+| Condition | Requirement |
+|--------|-------------|
+| **Barrier Fluid Pressure** | Must be **greater than stuffing box pressure** at all times. |
+| **Degassing or Purging System** | Must have a closed-vent system connected to a process gas, fuel gas, or control device, OR a system that purges barrier fluid into a process gas system **without releasing VOCs**. |
+| **VOC Content in Barrier Fluid** | Must contain **less than 10% VOCs by weight** (tested per ASTM E260 or E169). |
+| **Failure Detection Sensor** | Must have a sensor to detect system failure. |
+
+> **Daily Sensor Check Required**:
+> - Sensor must be checked daily for failure.
+> - If no audible alarm or automatic shutdown is present, daily checks are mandatory.
+
+### **7.2 “Unsafe to Inspect” Components**
+Any equipment component marked as **“unsafe to inspect”** in the inventory is **exempt** from inspection.
+
+---
+
+## **VIII. Leak Detection and Repair (Repair) Requirements**
+
+### **8.1 Significant Leak Definition**
+A leak is considered **significant** unless it meets one of the following thresholds:
+
+| Leak Type | Threshold |
+|---------|----------|
+| **Heavy-liquid component** | Drop rate < **3 drops per minute** (visual inspection) |
+| **Compressor** | VOC concentration < **1,000 ppmv** (measured via portable instrument) |
+| **Other equipment components** | VOC concentration < **10,000 ppmv** (before Dec 31, 2026); < **1,000 ppmv** (after Dec 31, 2026) |
+
+> *Note: These thresholds are based on VOC concentration measured using a calibrated portable instrument.*
+
+### **8.2 Repair Timeline**
+- A **significant leak must be repaired within 15 days**

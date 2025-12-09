@@ -1,0 +1,154 @@
+**Detailed Summary of the *Canadian Forces Superannuation Regulations***
+
+---
+
+### **1. Title and Citation**
+These regulations are officially titled the **Canadian Forces Superannuation Regulations** and may be cited as such. They form a key component of the framework governing pension and superannuation benefits for members of the Canadian Armed Forces, particularly under the *Canadian Forces Superannuation Act* (the "Act").
+
+---
+
+### **2. Key Definitions and References**
+
+- **"Act"**: Refers to the *Canadian Forces Superannuation Act*, which provides the legal foundation for the pension system.
+- **"a(f) Ultimate Table"**: A mortality table published in 1924 by the Institute of Actuaries and the Faculty of Actuaries in Scotland. This table is used for actuarial calculations in determining pension benefits, especially annuity payments.
+- **"Minister"**: Refers to the **Minister of National Defence**, who has authority over policy implementation and administrative decisions related to the regulations.
+- **"Past Earnings Election"**: This provision has been **repealed** (SOR/2016-64, s.1), meaning it no longer applies.
+- **"Pensionable Earnings Election"**: Applies specifically to individuals who were participants under subsection 4(2) of the *Reserve Force Pension Plan Regulations*. It refers to an election made under subsection 11(1) of those Regulations to count certain service periods as pensionable.
+
+---
+
+### **3. Definition of "Days of Canadian Forces Service"**
+
+This section establishes how service days are counted, with distinctions between the **regular force** and **reserve force**:
+
+#### **Regular Force**
+- All days for which pay was authorized.
+- Days of maternity or parental leave granted under the *Queen’s Regulations and Orders for the Canadian Forces*.
+
+#### **Reserve Force**
+- Days for which pay was authorized, **except**:
+  - For duties/training of **less than six hours**: counted as **1/2 day**.
+- Days during periods of exemption or leave (as defined in paragraph 2(b) of the *Reserve Force Pension Plan Regulations*) are counted in **proportion** to the member’s service during the 364-day period prior to the leave.
+- For periods **before April 1, 1999**, if records allow verification of duration but not exact pay days:
+  - Counted as **1/4 day per day** of service.
+
+#### **Class "A" Reserve Service**
+- Any day of service during which a member served on **Class "A" Reserve Service** (as defined in Article 9.06 of the Queen’s Regulations) counts as **1 2/5 days** of Canadian Forces service.
+
+> **Formula for Proportion of Leave Days**:
+>  
+> $$
+> \text{Proportion} = \frac{\text{Days of service in the 364 days before the period}}{\text{Total days in the 364-day period the member was a member}}
+> $$
+
+> **Note**: Days of service are calculated **without applying section 11** (which may relate to special service rules or exceptions).
+
+> **Rounding Rule**: Any fractional total number of days is **rounded up to the next whole day**.
+
+---
+
+### **4. Minimum Service Requirements for Pension Eligibility**
+
+#### **General Threshold**
+- A contributor is considered to have **not less than 25 years of Canadian Forces service** if they have completed **at least 9,131 days** of service.
+
+#### **Special Thresholds for Officers (Effective 2007–2009)**
+To account for changes in pension policy and service valuation, specific thresholds were established for officers:
+
+| Period | Rank | Equivalent Years | Equivalent Days |
+|-------|------|------------------|-----------------|
+| March 1, 2007 – Dec 31, 2007 | Colonels and above | 28 years | 10,227 days |
+| Jan 1, 2008 – Dec 31, 2008 | Colonels and above | 27 years | 9,861 days |
+| Jan 1, 2009 – Dec 31, 2009 | Colonels and above | 26 years | 9,496 days |
+| Same periods | Other officers | 26 years | 9,496 days |
+
+> These thresholds were introduced to adjust for changes in service valuation and ensure fair treatment of long-serving officers.
+
+---
+
+### **5. Definition of "Specified Kind of Superannuation or Pension Benefit" (Section 5(4))**
+
+A benefit qualifies as a "specified kind" if it:
+- Is granted under the *Judges Act*;
+- Is payable from the **Consolidated Revenue Fund** (excluding the Superannuation Account or Government Annuities Account);
+- Is **related to the period of service**;
+- Is paid in **installments during the recipient’s lifetime**, and possibly after death, if the plan allows.
+
+---
+
+### **6. Definition of "Kind of Superannuation or Pension Benefit" (Paragraph 8(2)(a))**
+
+A benefit qualifies if:
+- It is **partially or fully funded by contributions from others** (not solely by the contributor);
+- It is **related to service duration**;
+- It is paid in **installments during the recipient’s lifetime**, and potentially after death.
+
+> This distinction is used to determine which benefits are eligible for inclusion in pension calculations.
+
+---
+
+### **7. Time of War (Second World War)**
+
+- Defined as the period from **September 10, 1939, to September 30, 1947**, inclusive.
+- This period is used to assess eligibility for wartime service benefits or increased pension credits.
+
+---
+
+### **8. "Pay on a Full-Time Basis"**
+
+- Refers to the **standard pay rates** prescribed under regulations made under the *National Defence Act* for:
+  - Officers and non-commissioned members
+  - In both the regular and reserve forces (Class "C" Reserve Service)
+
+---
+
+### **9. Period of 6 Months (Paragraph 18(4)(f))**
+
+- A reference to a **six-month period** is used in certain contexts, such as for determining eligibility for benefits or service continuity.
+
+---
+
+### **10. Reserve Force Members Becoming Contributors (Section 8.1)**
+
+Under specific conditions, a **reserve force member may be treated as a member of the regular force** and become a contributor to Part I of the Act (the main Canadian Forces pension scheme), effective **March 1, 2007**, or on other dates depending on circumstances.
+
+#### **Conditions for Becoming a Contributor on March 1, 2007**:
+1. Not required to contribute to the **Public Service Pension Fund (PSPF)** or **Royal Canadian Mounted Police (RCMP) Pension Fund**;
+2. Has **no existing pensionable service** under Part I of the Act;
+3. Has **at least 1,674 days of Canadian Forces service** during any 60-month period beginning on or after April 1, 1999;
+4. Was a member of the Canadian Forces during the first month of that period and remained continuously (without more than 60-day interruptions) until March 1, 2007.
+
+#### **Alternative Entry Dates**:
+- If a member would have become a participant under subsection 4(2) of the *Reserve Force Pension Plan Regulations* due to a transfer value payment under subsection 22(2) of the Act.
+- On the **first day of the month** they become entitled to salary as a reserve force member, **if**:
+  - They are receiving an annuity or annual allowance;
+  - Entitled to a deferred annuity or annual allowance;
+  - Have exercised an early contribution option and are entitled to salary before payment.
+
+#### **General Rule for Later Entry**:
+- For any other case, entry occurs on the **first day of the month after a 60-month period ending after March 1, 2007**, provided:
+  - At least 1,674 days of service during that period;
+  - Continuous membership (no more than 60-day interruptions);
+  - No prior pensionable service under Part I.
+
+#### **Adjustments to Effective Dates**:
+- If the member is required to contribute to PSPF or RCMP Pension Fund:
+  - The March 1, 2007 reference is replaced with the **first day after they cease contributing** to those funds.
+  - For monthly entry dates: replaced with the first day after ceasing to contribute.
+  - For the day in question: replaced with the first day after ceasing to contribute.
+
+---
+
+### **11. Early Contribution Option (Section 8.1(3)(b))**
+
+A reserve force member may exercise an **early contribution option** to become a contributor under Part I of the Act, with the following limits:
+
+- **Before** being required to contribute to the Canadian Forces Pension Fund;
+- **No earlier than** the first day on or after March 1, 2007, when they were entitled to salary while receiving an annuity or annual allowance;
+- **No later than** the end of the 12th month after the month in which they were last entitled to salary as a reserve force member.
+
+> This allows members to transition into the pension system earlier, often to avoid future financial penalties or to secure benefits.
+
+---
+
+### **12. Ceasing to Be Considered a Regular Force

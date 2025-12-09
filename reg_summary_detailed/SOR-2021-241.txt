@@ -1,0 +1,178 @@
+Certainly. Below is a **detailed, structured summary** of the *Accessible Canada Regulations* (S.C. 2019, c. 10), enacted under the *Accessible Canada Act* and made by Her Excellency the Governor General in Council on the recommendation of the Minister of Employment and Social Development.
+
+---
+
+## 📚 **Detailed Summary of the Accessible Canada Regulations (S.C. 2019, c. 10)**
+
+### 🔹 **1. Purpose and Legal Authority**
+- These regulations implement the **Accessible Canada Act (ACA)** to ensure that all regulated entities in Canada provide accessible services, products, and information to persons with disabilities.
+- The regulations are issued under **section 91(1)** and **117(1)** of the ACA, which empower the Governor General in Council to make rules necessary for carrying out the Act’s objectives.
+- The goal is to promote **accessibility in public and private services**, including digital platforms, physical spaces, and communication processes.
+
+---
+
+### 🔹 **2. Key Definitions**
+The following terms are defined and used throughout the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Accessible Canada Act*. |
+| **Band** | Has the same meaning as in subsection 2(1) of the *Indian Act* — refers to a First Nations band, including its council and reserve lands. |
+| **Employee** | Any person employed by a regulated entity under paragraphs 7(1)(e) or (f) of the Act. Includes dependent contractors (as defined in the Canada Labour Code). <br> **Excludes**: <br> - Persons in student employment programs designated by the employer; <br> - Students employed only during vacation periods. |
+| **Planning and Reporting Cycle** | A 3-year period where: <br> - Year 1: Accessibility plan must be published (under sections 47, 56, 65, or 69); <br> - Years 2 & 3: Progress reports must be published (under sections 49, 58, 67, or 71). |
+| **WCAG** | The most recent version of the *Web Content Accessibility Guidelines*, published by the World Wide Web Consortium (W3C), available in both English and French. Compliance must meet **Level AA** standards. |
+| **Year** | A calendar year. |
+
+---
+
+### 🔹 **3. Calculation of Average Number of Employees**
+- **Annual average**:  
+  Sum of the number of employees in each month when the count is highest, divided by 12.  
+  If the result is equidistant between two whole numbers → **rounded up**.
+
+- **Cycle average**:  
+  Sum of the three annual averages (from the 3-year planning and reporting cycle), divided by 3.  
+  Again, if equidistant → **rounded up**.
+
+> This ensures that small businesses are not unfairly penalized due to fluctuating headcounts.
+
+---
+
+### 🔹 **4. Exemptions from Accessibility Requirements**
+
+#### A. **Exemptions for Bands (First Nations)**
+- Entities or individuals belonging to a **band** (as defined in the Indian Act) are exempt from sections 47–49, 56–58, 65–67, and 69–71 of the Act — **until 4 years before the fifth anniversary** of the regulations coming into force.
+- Exemption applies to:
+  - Councils of bands;
+  - Entities or persons operating undertakings **not within provincial legislative authority** (e.g., on reserve lands or outside provincial jurisdiction).
+
+> This recognizes the unique governance and cultural context of First Nations communities.
+
+#### B. **Exemptions for Small Regulated Entities (Paragraphs 7(1)(e) or (f))**
+- Entities with **fewer than 10 employees** during:
+  - The year before their first planning and reporting cycle (adjusted for exemption), **or**
+  - The year in which the entity was established  
+  → Are exempt from accessibility plan and progress report requirements.
+
+- **Exemption duration**:  
+  Applies **until the end of the planning and reporting cycle** in which the entity has fewer than 10 employees on average.
+
+- **When exemption ends**:  
+  The exemption **ceases** in any year when the entity has **10 or more employees on average**.
+
+> This allows small businesses time to grow and develop accessibility plans without immediate pressure.
+
+---
+
+### 🔹 **5. Fixed Day for Accessibility Plan Publication**
+
+The "fixed day" is the deadline by which a regulated entity must publish its first accessibility plan.
+
+| Entity Type | Fixed Day |
+|-----------|----------|
+| Entities in paragraphs 7(1)(a) to (d) of the Act (e.g., government bodies, public service organizations) | **December 31, 2021** |
+| Entities in paragraphs 7(1)(e) or (f) with **100+ employees** in the year of regulation entry | **June 1, 2022** |
+| Entities in paragraphs 7(1)(e) or (f) with **10–99 employees** in the year of regulation entry | **June 1, 2023** |
+
+> For entities established **after** the regulations come into force:  
+> Fixed day = **June 1 of the year following establishment**.
+
+> For entities that **cease to be exempt** and have never published a plan:  
+> Fixed day = **Later of**:  
+> - June 1 of the second year after regulation entry;  
+> - June 1 of the first year in which they have **10+ employees** after ceasing exemption.
+
+> This ensures that even newly formed or growing organizations are not left without a timeline.
+
+---
+
+### 🔹 **6. Applicable Period for Progress Reports**
+
+- **General rule**:  
+  The applicable period is **36 months** beginning from the date the last accessibility plan was published.
+
+- **Exception for entities that previously completed a cycle**:  
+  After ceasing exemption and having completed at least one full planning and reporting cycle:  
+  → Applicable period is **12 months** after June 1 of the first year in which the entity has **10+ employees** after ceasing exemption.
+
+> This provides flexibility for organizations that have already demonstrated progress.
+
+---
+
+### 🔹 **7. Accessibility Plan Requirements**
+
+#### ✅ Content and Structure
+An accessibility plan must:
+- Be written in **simple, clear, and concise language**.
+- Include the following headings:
+  1. **"General"**
+  2. A heading for each area identified under the Act (e.g., physical access, digital access, communication, etc.)
+  3. **"Consultations"**
+
+#### ✅ Content under "General"
+Must include:
+- Position title of the person responsible for receiving feedback.
+- Contact details for public communication:
+  - Mailing address of publicly accessible businesses;
+  - Telephone number;
+  - Email address.
+
+> This enables individuals with disabilities to access the plan and provide input.
+
+#### ✅ Publication Requirements
+- Must be published in a format meeting **WCAG Level AA** standards.
+- Published on the **main digital platform** (owned, operated, or controlled) used to communicate with the public.
+- Must be accessible directly on the **home screen or homepage**, or via a **hyperlink** from there.
+- **If no digital platform exists**:  
+  A **printed copy** must be displayed in the **reception or entrance area** of each public place of business.
+
+#### ✅ Notification to Accessibility Commissioner
+- Within **48 hours** of publication, the entity must:
+  - Notify the Accessibility Commissioner via email or electronic means.
+  - Provide either:
+    - The URL of the plan;
+    - A hyperlink to it; or
+    - The mailing addresses of the physical locations where the printed plan is displayed.
+
+---
+
+### 🔹 **8. Requests for Accessibility Plans**
+
+- Requests can be made via **mail, telephone, email, or any other public communication method**.
+- A person may request the plan in:
+  - Print;
+  - Large print;
+  - Braille;
+  - Audio format;
+  - Electronic format compatible with adaptive technology.
+
+#### ⏱️ Response Time Requirements
+| Format | Response Deadline |
+|-------|-------------------|
+| Braille or audio | **45 days** after request |
+| Any other format |  
+- For entities in (a)–(d): **15 days**  
+- For entities in (e) or (f) with **100+ employees**: **15 days**  
+- For entities in (e) or (f) with **99 or fewer employees**: **20 days**
+
+> Ensures timely access, with special attention to Braille and audio formats.
+
+---
+
+### 🔹 **9. Feedback Process Requirements**
+
+#### ✅ Designation and Accessibility
+- A regulated entity must designate a **specific person** to receive feedback and provide their **position title**.
+- The feedback process must allow:
+  - **Anonymous submissions**;
+  - Submission via **mail, telephone, email**, or any public communication method.
+
+#### ✅ Acknowledgment of Receipt
+- The entity must provide **acknowledgment of receipt** in the same method used for submission, **unless the feedback is anonymous**.
+
+#### ✅ Request for Description of Feedback Process
+- A person may request the **description of the feedback process** in accessible formats (same as for the plan).
+- Response time:
+  - Braille or audio: **45 days**
+  - Other formats:  
+    - 15 days (

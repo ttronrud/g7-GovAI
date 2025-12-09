@@ -1,0 +1,169 @@
+### **Detailed Summary of the Off-Road Small Spark-Ignition Engine Emission Regulations (Canada)**
+
+---
+
+#### **1. Regulatory Background and Legal Authority**
+
+These regulations were enacted under **section 160 of the Canadian Environmental Protection Act (CEPA), 1999**, and were published in *Canada Gazette, Part I*, on **March 29, 2003**, as a proposed regulation. The Minister of the Environment issued the draft regulations, allowing stakeholders to submit comments or file objections. After reviewing public feedback, the Governor in Council formally adopted the regulations, making them enforceable.
+
+This regulation applies to **off-road small spark-ignition engines** and aims to reduce harmful air pollutants through standardized emission limits and compliance procedures, aligning Canada with U.S. environmental standards.
+
+---
+
+#### **2. Key Definitions**
+
+The regulations establish precise definitions to ensure clarity and consistency in application:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canadian Environmental Protection Act, 1999*. |
+| **Engine** | An off-road engine prescribed under section 149 of CEPA, designed to be used independently or in a machine that is carried or moved. |
+| **Engine Kit** | An engine with attached hardware, fuel lines, and fuel tanks designed to be assembled. Treated as an engine for regulatory purposes. |
+| **Complete Fuel System** | Includes fuel lines and at least one fuel tank connected to the engine. |
+| **Exhaust Emissions** | Gases released from any opening downstream of the exhaust port. |
+| **Evaporative Emissions** | Fuel vapors escaping from fuel tanks or lines (excluding exhaust and crankcase emissions). |
+| **Crankcase Emissions** | Pollutants released from crankcase ventilation or lubrication systems. |
+| **Diurnal Emissions** | Evaporative emissions due to temperature changes in fuel tanks during daily use (when engine is off). |
+| **Running Loss Emissions** | Evaporative emissions lost while the engine is running (not including permeation or diurnal). |
+| **Permeation Emissions** | Fuel escaping through materials of fuel lines or tanks. |
+| **Volatile Liquid Fuel** | Any liquid fuel with a Reid vapour pressure >13.79 kPa. |
+| **Handheld Machine** | A lightweight, portable device (e.g., lawnmower, auger, jackhammer) used by an operator, with a dry weight under 16 kg (or 20 kg for vehicles), and powered by an engine ≤80 cm³ displacement. |
+| **Non-Handheld Machine** | Any machine that is not handheld, excluding bicycles. |
+| **Wintertime Engine** | Engine used exclusively in snow or ice conditions. |
+| **Model Year** | The year used by manufacturers to designate a product line; defined based on production periods. |
+| **Useful Life** | The period during which emission standards apply (as specified in section 12.5, 12.7(1), and 12.8(3)). |
+| **EPA Certificate** | A U.S. Environmental Protection Agency (EPA) certificate of conformity to U.S. federal emission standards. |
+| **Emission Family** | Grouping of engines or fuel system components based on EPA certificate specifications or specific sections of U.S. CFR (e.g., CFR 1051, 1054, 1060). |
+| **Element of Design** | Any component affecting emissions or performance, including software, hardware, calibration, or system interaction. |
+| **Emission Control System** | Any device or element of design that reduces engine emissions. |
+| **Unique Identification Number (UIN)** | A manufacturer-assigned number to identify individual engines. |
+
+> **Note**: References in the U.S. Code of Federal Regulations (CFR) are incorporated by reference but **excluded** from any references to:
+> - EPA or EPA Administrator discretion;
+> - Emission credit averaging, banking, or trading;
+> - Financial hardship or small-volume manufacturer provisions;
+> - Standards from other jurisdictions (except California Air Resources Board — CARB — in specific cases).
+
+Also, the terms:
+- “Nonroad vehicle” and “nonroad equipment” → interpreted as **machine**;
+- “Nonroad engine” → interpreted as **engine**.
+
+---
+
+#### **3. Purpose of the Regulations**
+
+The primary objectives are:
+
+1. **Reduce emissions** of:
+   - Hydrocarbons (HC)
+   - Oxides of nitrogen (NOx)
+   - Carbon monoxide (CO)
+
+2. **Limit toxic hydrocarbon emissions** of:
+   - Formaldehyde
+   - 1,3-Butadiene
+   - Acetaldehyde
+   - Acrolein
+   - Benzene
+
+3. **Establish emission standards and test procedures** that are **aligned with U.S. EPA standards**, ensuring consistency and effectiveness.
+
+---
+
+#### **4. Scope and Applicability**
+
+- **Applies to off-road small spark-ignition engines** of **model years 2005 and later**.
+- **Excludes** certain engines such as:
+  - Competition engines (with superior performance, not sold publicly, and labeled accordingly);
+  - Engines used exclusively in emergency/rescue or military machines (with appropriate labeling);
+  - Engines exported with a written statement of non-use in Canada;
+  - Engines already regulated under other CEPA regulations (e.g., compression-ignition engines or large spark-ignition engines);
+  - Engines with displacement ≥1,000 cm³ or power >30 kW.
+
+> **Note**: Engines with displacement **≤1,000 cm³** and power **≤30 kW** at crankshaft (with standard accessories) are included if they operate under Otto cycle characteristics and use spark plugs.
+
+---
+
+#### **5. Prescribed Engines (Under Section 149 of CEPA)**
+
+An engine is considered **prescribed** if it meets **all** of the following criteria:
+
+- Operates under characteristics **similar to the theoretical Otto cycle**;
+- Uses a **spark plug or other sparking device**;
+- Develops **no more than 30 kW** of power (with only standard accessories like oil/coolant pumps);
+- Has a **displacement of 1,000 cm³ or less**.
+
+> **Exception**: Engines designed exclusively for competition, emergency, military, or model use are excluded, provided they meet labeling and usage requirements.
+
+---
+
+#### **6. Model Year Determination**
+
+The model year is determined based on the **period of production**:
+- If production spans across calendar years, the model year corresponds to:
+  - The calendar year during which the production period falls, **or**
+  - The following calendar year (at the manufacturer’s choice).
+- A model year may **include only one January 1**.
+
+This ensures consistency in regulatory compliance across production cycles.
+
+---
+
+#### **7. Exclusions from Regulation**
+
+The following engines are **not subject** to these regulations:
+
+| Excluded Engine Type | Reason |
+|----------------------|--------|
+| **Competition engines** | Superior performance, not sold publicly, labeled as such (per subsections 17.2(3) and (4)). |
+| **Emergency/rescue machines** | Must bear a label indicating such use. |
+| **Military machines** | Used only in combat/support roles; must have a valid label. |
+| **Exported engines** | Accompanied by a written statement confirming no use/sale in Canada. |
+| **Engines covered under other CEPA regulations** | E.g., large spark-ignition or compression-ignition engines. |
+
+> These exclusions protect specialized or niche applications while maintaining environmental protection for mainstream off-road equipment.
+
+---
+
+#### **8. National Emissions Mark Authorization**
+
+Any company wishing to apply the **Canadian National Emissions Mark** to its engines must:
+- Submit a formal application to the Minister of the Environment;
+- The application must include:
+  - Head office and mailing addresses;
+  - Statement of intent to apply the mark;
+  - Location where the mark will be applied;
+  - Evidence of the company’s ability to verify compliance with the emission standards.
+
+> **Note**: This provision was repealed in 2017 (SOR/2017-196, s.5), so **no longer in force**.
+
+---
+
+#### **9. Emission Control System Requirements**
+
+All emission control systems must:
+- **Not release additional pollutants** that would not have been emitted without the system;
+- **Not make the engine or machine unsafe** or endanger persons or property during operation or malfunction.
+
+> This ensures that emission controls do not compromise safety or functionality.
+
+---
+
+#### **10. Auxiliary Emission Control Devices**
+
+An engine may have an **auxiliary emission control device** (e.g., a secondary filter or sensor) only if:
+- The device is **described in the evidence of conformity** (under section 16 or 17);
+- Its **operating conditions are substantially included** in the test procedures (section 13.1);
+- It is **needed to protect the engine** from damage or accidents; or
+- It is **used only to start the engine**.
+
+> Any such device that reduces the effectiveness of the primary emission control system under normal operating conditions is **prohibited** unless explicitly allowed.
+
+> **Note**: This clause was repealed in 2020 (SOR/2020-258, s.58 and s.59), so **no longer in force**.
+
+---
+
+#### **11. Open Crankcase Exception**
+
+Despite requiring a **closed crankcase**, an engine may have an **open crankcase** if:
+- It is **

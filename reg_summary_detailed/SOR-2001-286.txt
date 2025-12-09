@@ -1,0 +1,94 @@
+Certainly. Below is a **detailed, structured summary** of the provided regulation, based on the text you've shared. This summary captures the **legal context, procedural background, key definitions, interpretive rules, and substantive provisions** of the *Transportation of Dangerous Goods Regulations*, as amended or established under the *Transportation of Dangerous Goods Act, 1992*.
+
+---
+
+## 🔍 **Detailed Summary of the Transportation of Dangerous Goods Regulations (1999 Version – Repealed in 2020/2023)**
+
+### 📌 **1. Legal Authority and Procedural Background**
+
+- The regulation was issued under **section 27 of the Transportation of Dangerous Goods Act (TDGA), 1992** ("Act").
+- A **proposed version** of the regulations was published in the *Canada Gazette, Part I*, on **August 7, 1999**, pursuant to **section 30(1)** of the Act.
+- The government provided a **reasonable opportunity for public comment** (i.e., representations from interested parties) before finalizing the regulations.
+- After considering public feedback, the **Governor in Council**, on the recommendation of the **Minister of Transport**, formally enacted the regulations.
+
+> ⚠️ **Note**: This regulation has since been **repealed**:
+> - **SOR/2020-23, s. 1** (repealed in 2020)
+> - **SOR/2023-155, s. 2** (fully repealed in 2023)
+
+👉 This means the 1999 version is **no longer in force** and has been replaced by updated regulations (likely under the current *TDGA* framework, possibly incorporating modern standards and international alignment).
+
+---
+
+### 📌 **2. Interpretive Rules and Key Definitions**
+
+These rules clarify how terms are used throughout the regulations, ensuring consistency and legal precision.
+
+#### ✅ Interpretive Principles:
+| Rule | Explanation |
+|------|-------------|
+| **"must" vs "may"** | "Must" indicates an **imperative requirement**; "may" indicates a **permissive option**. |
+| **"on", "in", "by" with transport modes** | These terms are **synonymous** when used with *road vehicle, railway vehicle, vessel, or aircraft*. E.g., "on a road vehicle" = "in a road vehicle" = "by a road vehicle". |
+| **Pressure units** | Pressure is expressed in **kPa (gauge)** unless specified as **absolute**. **Vapour pressure is always absolute**. |
+| **Shipping Names (Schedule 1)** | May be: <br>• Written in singular/plural, upper/lower case<br>• In English only<br>• With altered word order (as long as full name is used and is a common phrase)<br>• For solutions/mixtures: followed by "SOLUTION" or "MIXTURE" and may include concentration<br>• For waste: preceded or followed by "WASTE" or "DÉCHET" (French) |
+| **Placards** | Refers to a **specific placard** in the Appendix to Part 4 (Dangerous Goods Safety Marks).<br>• "Placard" includes the plural (multiple placards)<br>• Number required is based on the applicable hazard class and quantity. |
+| **"or" usage** | Used in an **inclusive sense** unless clearly stated otherwise (e.g., "A or B" means either A, B, or both). |
+| **Shipping documents** | Refers to either:<br>• The **original** document, or<br>• A **copy** of the document. |
+| **Conversion: Articles vs. Net Explosives Quantity** | <br>• 1 kg net explosives quantity = **100 articles**<br>• 100 articles = 1 kg net explosives quantity<br>→ Used to standardize quantification for explosives (Class 1). |
+| **"Means of Containment"** | Refers to the **minimum required containment** unless otherwise specified.<br>• It must be sufficient such that:<br>  (a) When all other containments are removed, the dangerous goods remain compliant with the Act and Regulations for transport/handling.<br>  (b) When all other containments are removed, **some** of the goods would no longer be in a compliant containment. |
+| **"Gross mass of all dangerous goods"** | Applies only to dangerous goods that require a shipping document or are intended to be transported under sections 1.15, 1.16, 1.21, and 1.22. |
+
+---
+
+### 📌 **3. Key Definitions (Standards and References)**
+
+The regulation references numerous **national and international standards** to determine compliance with safety, packaging, and testing requirements.
+
+| Standard | Purpose / Application |
+|--------|------------------------|
+| **ASTM D 4359-90** | Determines whether a material is a **liquid or solid** (used in classification). |
+| **ASTM F 852-86** | Standard for **portable gasoline containers** for consumer use (used in packaging design). |
+| **CGA P-20 (2009)** | Classifies **toxic gas mixtures** (used in hazard assessment). |
+| **CGSB-32.301 (Canola Meal)** | National standard for **canola meal** (likely for classification or labeling purposes). |
+| **CGSB-43.123** | Packaging of **aerosol containers and gas cartridges** for transport (key for Class 2 gases). |
+| **CGSB-43.125** | Packaging of **infectious substances (Class 6.2)** and **medical/bio-waste**. |
+| **CGSB-43.126** | Reconditioning and repair of **drums** used in transporting dangerous goods. |
+| **CGSB-43.146** | Design and use of **intermediate bulk containers (IBCs)** for Classes 3, 4, 5, 6.1, 8, 9. |
+| **CGSB-43.151** | Packaging, handling, and transport of **Explosives (Class 1)**. |
+| **CSA B339, B340, B341, B342** | Standards for **cylinders, pressure receptacles, and containers** for transport of dangerous goods (especially Class 2 gases). |
+| **CSA B620, B621, B622, B625** | Standards for **highway tanks, portable tanks, and large containers** (Classes 3–9). |
+| **49 CFR** | U.S. federal regulations on dangerous goods transport (used for harmonization with U.S. practices). |
+| **ICAO Technical Instructions** | Air transport safety guidelines (used for air transport of dangerous goods). |
+| **IMDG Code** | International maritime dangerous goods code (used for sea transport). |
+| **ISO 2431, 2592, 10156, 10298** | Testing standards for **flow time, flash/fire points, fire potential, and toxicity of gases**. |
+| **OECD Guidelines (404, 430, 431, 435)** | Used for **dermal irritation, skin corrosion, and in vitro toxicity testing** (for chemical hazard evaluation). |
+| **Supplement to ICAO Instructions** | Additional safety guidance for air transport. |
+| **TP 14850** | Transport Canada Standard for **small containers** (Classes 3, 4, 5, 6.1, 8, 9). |
+| **TP 14877** | Standard for **rail transport containers** (updated in 2018). |
+| **ULC Standards (S504, S507, S512, S554)** | Fire extinguisher standards (used in emergency preparedness for transport operations). |
+| **UN Recommendations** | Core international framework for transport of dangerous goods (basis for all other standards). |
+
+---
+
+### 📌 **4. Transitional Provisions (Amendment Periods)**
+
+> **Section 1.3.1 (Transitional Compliance)**
+
+- If any of the following standards is **amended after the coming into force** of this regulation, **the previous version may be used for six months** after the new version is published:
+  
+  - CGSB-43.123  
+  - CGSB-43.125  
+  - CGSB-43.126  
+  - CGSB-43.146  
+  - CGSB-43.151  
+  - CSA B339  
+  - CSA B340  
+  - CSA B341  
+  - CSA B342  
+  - CSA B620  
+  - CSA B621  
+  - CSA B622  
+  - CSA B625  
+  - CSA B626 *(note: B626 not listed in original text but implied in sequence)*
+
+> 🔍 **Important Note**:  
+> For **TP 14877 (rail containers)**, the phrase "**

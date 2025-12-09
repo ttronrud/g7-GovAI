@@ -1,0 +1,99 @@
+**Detailed Summary of the Expropriation Act Basic Rate Order**
+
+**Order Title:**  
+*Expropriation Act Basic Rate Order*  
+This regulation establishes the methodology and applicable rates for determining the "basic rate" under **Section 33 of the Expropriation Act**, specifically concerning the calculation of compensation for expropriated property.
+
+---
+
+### **Purpose of the Regulation**
+The primary purpose of this Order is to define the **basic rate of interest** that shall be applied in compensation calculations when land or property is expropriated under the Expropriation Act. This rate is used to determine the fair market value of the property, including interest, for the period during which the property is held by the government or the expropriating authority.
+
+The regulation distinguishes between two distinct time periods:
+1. Periods ending on or before **September 30, 1973**
+2. Quarterly periods beginning **after September 30, 1973**
+
+---
+
+### **1. Basic Rate for Periods Ending on or Before September 30, 1973**
+
+- **Rate:**  
+  A fixed rate of **six per cent per annum** applies to any period ending on or before September 30, 1973.
+
+- **Nature of the Rate:**  
+  This is a **static, uniform rate**—it does not vary based on market conditions or financial instruments. It reflects a standard rate established prior to 1973 and is used to compensate for the time value of money during that era.
+
+---
+
+### **2. Basic Rate for Quarterly Periods Commencing After September 30, 1973**
+
+For periods beginning after September 30, 1973, the basic rate is determined by **one of two options**, whichever is **greater**:
+
+#### **Option A: Average Yield of Government of Canada Treasury Bills**
+- The rate is set equal to the **average yield** of Government of Canada treasury bills.
+- The yield is calculated over a **four-week period** immediately preceding the start of the quarterly period.
+- **Example:** If a quarterly period begins on October 1, 1973, the average yield of treasury bills over the four weeks ending on September 28, 1973, is used.
+
+#### **Conditions for Option A:**
+- The average yield must **not contain a fraction** other than a **multiple of one-quarter** (i.e., 0.25%, 0.50%, 0.75%, etc.).
+- If the yield contains a fraction that is **not** a multiple of one-quarter (e.g., 3.45%), it is **adjusted** to the nearest quarter of one per cent **above** the actual yield.
+
+#### **Example of Adjustment:**
+- If the average yield is **4.37%**, which is not a multiple of 0.25%, it is rounded up to **4.50%** (the nearest quarter of one per cent).
+- If the yield is **4.25%**, it remains unchanged (already a multiple of 0.25%).
+
+#### **Option B: Fixed Rate of Six Per Cent Per Annum**
+- A fallback option is available: a **fixed rate of six per cent per annum**.
+
+#### **Final Determination Rule:**
+- The basic rate for any quarterly period after September 30, 1973 is the **greater of**:
+  1. The average yield of treasury bills (adjusted as described), **or**
+  2. Six per cent per annum.
+
+> Therefore, even if the treasury bill yield is higher than 6%, the rate would be capped at 6% only if the yield is lower. But if the yield is above 6%, the higher yield applies.
+
+---
+
+### **Key Provisions and Implications**
+
+| Feature | Description |
+|--------|-------------|
+| **Timeline Split** | A clear demarcation at September 30, 1973, separates pre- and post-1973 interest rate treatment. |
+| **Market-Linked Rate (Post-1973)** | After 1973, the rate is tied to real market conditions (treasury bill yields), promoting fairness and responsiveness to economic changes. |
+| **Rounding Rule** | Ensures consistency and simplicity in calculations by standardizing yields to multiples of 0.25%. This avoids fractional decimals in financial computations. |
+| **Rate Floor** | The six per cent rate acts as a **floor**, ensuring that expropriation compensation does not fall below this level, even if treasury yields are low. |
+| **Flexibility and Fairness** | By linking the rate to market yields, the regulation ensures that compensation reflects actual economic conditions, particularly during periods of inflation or monetary change. |
+
+---
+
+### **Practical Application Example**
+
+- **Quarterly Period:** January 1, 1974  
+  - Four-week period: December 24, 1973 – January 7, 1974  
+  - Average yield of treasury bills: 5.87%  
+  - Since 5.87% contains a fraction not a multiple of 0.25%, it is rounded up to **6.00%** (nearest quarter).  
+  - Compare: 6.00% vs. 6.00% → both equal → **basic rate = 6.00% per annum**
+
+- **Quarterly Period:** March 1, 1974  
+  - Four-week period: February 18 – March 1, 1974  
+  - Average yield: 7.25% (already a multiple of 0.25%) → remains 7.25%  
+  - Compare: 7.25% vs. 6.00% → **basic rate = 7.25% per annum**
+
+- **Quarterly Period:** July 1, 1974  
+  - Average yield: 4.12% → not a multiple of 0.25% → rounded up to **4.25%**  
+  - Compare: 4.25% vs. 6.00% → **basic rate = 6.00% per annum** (since 6.00% is greater)
+
+---
+
+### **Legal and Policy Significance**
+
+- This Order ensures that compensation for expropriated property is both **transparent** and **economically relevant**.
+- It reflects a shift from a rigid, fixed rate to a **market-responsive mechanism**, enhancing fairness in compensation during periods of economic volatility.
+- The use of **government treasury bills** as a benchmark ensures that the rate is reliable, transparent, and backed by the government’s own financial instruments.
+- The **rounding and floor provisions** prevent manipulation and ensure administrative simplicity in calculations.
+
+---
+
+### **Conclusion**
+
+The *Expropriation Act Basic Rate Order* provides a clear, structured, and equitable framework for determining the interest rate used in expropriation compensation. It maintains a stable baseline (six per cent) for earlier periods and introduces a dynamic, market-based rate for later periods, with built-in safeguards (rounding and floor) to ensure consistency, fairness, and practicality in financial calculations. This balance between stability and responsiveness makes it a foundational component of compensation under the Expropriation Act.

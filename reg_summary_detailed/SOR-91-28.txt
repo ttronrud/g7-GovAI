@@ -1,0 +1,150 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the regulation you provided, which was issued under the *Excise Tax Act* (Canada) and governs the taxation of **games of chance** and **supplies related to gaming activities by provincial gaming authorities**.
+
+---
+
+## 🔍 **Detailed Summary of the Regulation:  
+"Regulations Prescribing Games of Chance and Prescribing Registrants Making Supplies of a Right to Participate in Games of Chance"**
+
+### **1. Legal Basis and Context**
+- **Authority**: The regulation was made by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, under **subsection 277(1)** of the *Excise Tax Act*.
+- **Purpose**: To prescribe:
+  - Which entities are considered **"registrants"** (i.e., authorized gaming bodies);
+  - What constitutes a **"prescribed game of chance"**;
+  - Key **definitions** and **tax rules** applicable to supplies of rights to participate in games of chance, especially those involving provincial gaming authorities.
+- **Status**: This regulation was **repealed in 2011** (SOR/2011-56, s. 8), meaning it is **no longer in force**. However, it remains historically significant and may have influenced current regulatory frameworks.
+
+> ⚠️ **Important Note**: As of 2011, this regulation is **repealed** and superseded. Any current interpretation of similar provisions should be based on updated legislation. This summary is for **historical and reference purposes only**.
+
+---
+
+## 📚 2. Key Definitions (Core Terminology)
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Excise Tax Act*. |
+| **Provincial Gaming Authority (PGA)** | A registered entity (as defined in section 3) that operates gaming activities, **excluding** specific types like paragraph (g) or (m). Examples include: <br> - Ontario Lottery and Gaming Corporation <br> - Manitoba Liquor and Lotteries Corporation <br> - Saskatchewan Gaming Corporation, etc. |
+| **Casino Operating Service** | Day-to-day management and administration of a casino operated by a provincial gaming authority. |
+| **Instant Win Game** | A game where a winner can be determined **without external reference** (e.g., scratch-off tickets). The outcome is visible on the ticket itself. |
+| **Instant Win Ticket** | A physical device (ticket, card) that evidences a right to play in an instant win game. |
+| **Face Value** | The amount shown on a ticket or device, **inclusive of tax**, as defined in Part IX of the Act. |
+| **Gaming Activity** | A commercial activity of a PGA that involves games of chance. Excludes non-gaming supplies (e.g., food, retail). Includes acquisition, establishment, or termination of such activities. |
+| **Non-Gaming Activity** | Any commercial activity of a PGA that is **not** a gaming activity. |
+| **Non-Gaming Supply** | A supply that is not a game of chance or related to gaming. Excludes: <br> - Accepting bets on games/races <br> - Supplying rights to play games to distributors <br> - Promotional supplies <br> - Prize in kind |
+| **Promotional Supply** | A supply made by a PGA for **no or nominal consideration**, or at a price below its basic cost. Includes: <br> - Free goods/services <br> - Discounted items <br> - Use of coupons/vouchers |
+| **Reimbursement** | Payment made by a PGA to a distributor for expenses incurred **not as an agent** of the authority. |
+| **Non-Taxable Reimbursement** | A reimbursement for expenses that relate to exempt, zero-rated, or taxable supplies where part of the consideration is excluded due to section 166 of the Act, or for property tax. |
+| **Period Cost** | The total cost (capital and operating) reasonably attributable to a lease interval (a period during which property is used). Includes: <br> - Capital cost allocation <br> - Operating costs <br> - Unrecoverable losses (capital cost > fair market value) |
+| **Prize in Kind** | A prize awarded in the form of property or service (not cash). |
+| **Imputed Input Tax Credit** | The input tax credit that would have been claimed if the authority had been required to include tax on certain supplies (e.g., under A1 in subsection 7(7)) — essentially a "tax on tax" concept. |
+
+---
+
+## 🏢 3. Prescribed Registrants
+
+The following entities are **designated as "registrants"** under subsection 188(5) of the *Excise Tax Act*:
+
+1. Atlantic Lottery Corporation  
+2. British Columbia Lottery Corporation  
+3. Manitoba Liquor and Lotteries Corporation  
+4. Ontario Lottery and Gaming Corporation  
+5. Société des loteries et courses du Québec  
+6. Western Canada Lottery Corporation  
+7. Interprovincial Lottery Corporation  
+8. Alberta Gaming and Liquor Commission  
+9. Saskatchewan Liquor and Gaming Authority  
+10. Saskatchewan Gaming Corporation  
+11. New Brunswick Lotteries and Gaming Corporation  
+12. Nova Scotia Gaming Corporation  
+13. Any **wholly-owned subsidiary** of one of the above (except where excluded in paragraph (g) or this paragraph) that is referred to in **section 15** of the Act.
+
+> ✅ These are the **only bodies** that can legally conduct games of chance under this framework.
+
+---
+
+## 🎲 4. Prescribed Games of Chance
+
+- Any game of chance **conducted by a registrant** listed above is considered a **"prescribed game of chance"** for the purposes of:
+  - **Paragraph 1(i) of Part V.1 of Schedule V** of the *Excise Tax Act*  
+  - **Section 5.1 of Part VI of Schedule V**
+
+This means such games fall under the scope of excise tax rules, including reporting, taxation, and supply obligations.
+
+---
+
+## 💰 5. Taxation Rules for Gaming Activities
+
+### A. **Net Tax for a Provincial Gaming Authority**
+
+The total net tax for a reporting period is calculated as:
+
+> **Net Tax = (Net Tax from Gaming Activities) + (Net Tax from Non-Gaming Activities)**
+
+Where:
+- **Gaming Net Tax** = Total amounts added (as per sections 2–3) − Total credits (prizes, winnings, additional credits)
+- **Non-Gaming Net Tax** = Determined under **Section 8** of the Act
+
+---
+
+### B. **Net Tax Attributable to Gaming Activities**
+
+Calculated using:
+
+> **Gaming Net Tax = (Amounts Added) – (Total Credits)**
+
+Where:
+- **Amounts Added** = Total of amounts required under subsections (2) and (3) to be included in net tax
+- **Total Credits** = 
+  - Credits for prizes/winnings (from subsections 4 and 5)
+  - Additional credit for gaming activities (subsection 6)
+
+---
+
+### C. **Adding Amounts to Net Tax (When a Bet is Placed)**
+
+When a person places a bet with a PGA (excluding purchasing an instant win ticket from a distributor), the authority **adds** to its gaming net tax the amount:
+
+> **Added Amount = (Tax Rate Base) × (100% + %A) × (Bet Amount) / (Tax Amount by Person)**
+
+Where:
+- **Tax Rate Base** =  
+  - If bet placed in a **participating province**: *Rate in subsection 165(1) + provincial tax rate*  
+  - Else: *Only rate in subsection 165(1)*  
+- **%A** = Percentage determined for A (likely a fixed or variable rate, e.g., 100% for full tax inclusion)  
+- **Bet Amount** = Total amount bet, including tax paid by the person  
+- **Tax by Person** = Any tax the person pays on the bet under provincial law
+
+> 🔍 This rule ensures that **all bets** are taxed at a rate that reflects both federal and provincial tax obligations.
+
+---
+
+### D. **Adding Amounts for Instant Win Tickets**
+
+When a PGA delivers or agrees to deliver an instant win ticket to a distributor, and the distributor pays the authority during a reporting period, the authority adds:
+
+> **Added Amount = (Tax Rate Base) × (100% + %A) × (Face Value of Ticket) / (Tax by Distributor)**
+
+Where:
+- **Face Value** = Price shown on the ticket, inclusive of tax
+- **Tax by Distributor** = Any tax paid by the distributor on the ticket
+
+> ⚠️ This ensures that **instant win tickets** are taxed as if they were part of a bet, even though they are sold to distributors.
+
+---
+
+### E. **Credit for Prizes or Winnings (Non-Instant Win)**
+
+When a prize is payable (e.g., from a bet), the authority receives a **credit** equal to:
+
+> **Credit = (Tax Rate Base) × (100% + %A) × (Prize Amount)**
+
+Where:
+- **Tax Rate Base** = Same as above (provincial + federal if applicable)
+- **Prize Amount** = Actual amount paid as prize
+
+> ✅ This credit offsets the tax added when the bet was placed.
+
+---
+
+### F. **Credit for Instant Win Prizes**
+
+For instant win tickets delivered to distributors, the credit is

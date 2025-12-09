@@ -1,0 +1,192 @@
+**Detailed Summary of the *Railway Traffic Liability Regulations*, 2023 (R.S., c. 28 (3rd Supp.))**
+
+---
+
+### **1. Purpose and Legal Basis**
+
+The *Railway Traffic Liability Regulations* (RTLR) were introduced by His Excellency the Governor General in Council, on the recommendation of the Minister of Transport, under specific provisions of the *Canada Transportation Act, 1987*:
+
+- **Section 27(2)** – Authority to make regulations regarding liability
+- **Section 153(2)** – Power to amend or replace existing regulations
+- **Section 155** – Power to revoke and substitute regulations relating to railway liability
+
+These regulations **revise and replace** the outdated *Order and Straight Bills of Lading Regulations, C.R.C., c. 1218*, which had governed railway liability and terms of carriage. The new regulations establish a modern, fair, and legally sound framework for limiting or restricting a railway company’s liability in respect of goods transported under its operations.
+
+The Regulations may be cited as the **Railway Traffic Liability Regulations (RTLR)**.
+
+---
+
+### **2. Key Definitions**
+
+- **Act**: Refers to the *Canada Transportation Act*.
+- **Carrier**: A railway company engaged in the transportation of goods.
+- **Delivering Carrier**: A carrier that delivers goods to their final destination.
+- **Originating Carrier**: A carrier that obtains possession of goods at the point of origin.
+- **Transportation of Goods**: Refers to "traffic" — the movement of goods by rail.
+
+> *Note: Certain sections have been repealed (e.g., SOR/93-253, s. 2), and the current version reflects updated legal and operational practices.*
+
+---
+
+### **3. General Liability Principles**
+
+#### **Section 3 – Liability for Loss, Damage, or Delay**
+Subject to the limitations and exemptions in these Regulations, a carrier is **liable** for:
+- Loss or damage to goods
+- Delay in transportation
+
+**This liability arises only if the loss, damage, or delay is not caused by one of the following statutory exceptions.**
+
+---
+
+### **4. Exemptions from Liability**
+
+A carrier **shall not be liable** for any loss, damage, or delay if it results from:
+
+| Cause | Explanation |
+|------|-------------|
+| **Act of God** | Natural events beyond human control (e.g., earthquakes, hurricanes). |
+| **War or insurrection** | Armed conflict or political unrest. |
+| **Riot, strike, or lock-out** | Labor actions that disrupt operations. |
+| **Defect in the goods** | Pre-existing flaws in the product itself. |
+| **Negligence or omission by the shipper or owner** | Fault of the party who loaded or owned the goods. |
+| **Authority of law** | Government-imposed restrictions or orders. |
+| **Quarantine** | Government-mandated isolation due to health or safety concerns. |
+
+> These exceptions are broad and protect carriers from liability for events outside their control or the responsibility of the shipper.
+
+---
+
+### **5. Specific Exemptions and Limitations**
+
+#### **(a) Weight Differences in Grain or Commodities**
+- A carrier is **not liable** for:
+  - Natural shrinkage in grain, seed, or other commodities during transport.
+  - Discrepancies in elevator weights **unless**:
+    - A certificate has been issued under **subsection 19(1) of the Weights and Measures Act**.
+    - The certificate confirms the accuracy of the weighing equipment.
+
+> This ensures fairness in agricultural transport where natural variations are expected.
+
+#### **(b) Cartage by Third Parties and Fire at Destination**
+- If **the carrier does not perform cartage** (i.e., final delivery), and:
+  - The carrier's notice of arrival is received by the entitled party,
+  - A **fire involving the goods** occurs:
+    - At the destination or port of export,
+    - **After 48 hours** (excluding holidays) from arrival — liability is that of a **warehouseman**.
+    - **After 72 hours** (excluding holidays) if the goods are **imported but not released under Customs Act** — liability is also warehouseman.
+
+> This protects carriers from liability for fire losses after a reasonable time has passed post-arrival.
+
+#### **(c) Goods in Open Cars**
+- If goods are transported in **open cars** (e.g., exposed to weather) in accordance with general practice or at the shipper’s request:
+  - Carrier is **only liable** for loss or damage due to **its own negligence**.
+  - **Exception**: If goods are lost or damaged by **fire**, liability is the same as for goods in **closed cars**.
+
+> This reflects the risk assumed by the shipper when goods are left exposed.
+
+> **Onus of Proof**: The carrier must prove **no negligence** in such cases.
+
+---
+
+### **6. Notice Requirements for Liability to Arise**
+
+Liability **only arises** if a notice is received within **four months** of the expiry of a reasonable delivery period:
+
+- For **loss of goods**:
+  - Notice must be received by the **originating carrier** or **delivering carrier** within 4 months after delivery deadline expires.
+- For **damage or delay**:
+  - Notice must be received within 4 months after delivery.
+
+> This ensures that claims are timely and prevents stale claims.
+
+---
+
+### **7. Liability During Transit Holds**
+
+- A carrier is **not liable** for any loss, damage, or delay that occurs while goods are:
+  - **Stopped and held in transit** at the request of a person entitled to do so (e.g., due to customs, inspection, or scheduling).
+
+> This protects carriers from liability for delays caused by customer-initiated holds.
+
+> **Onus of Proof**: The carrier must prove **no negligence** in such situations.
+
+---
+
+### **8. Multi-Carrier Transportation and Chain of Responsibility**
+
+- If goods are transported via **more than one carrier**:
+  - The **originating carrier** is liable for:
+    - Loss, damage, or delay **while the goods are in the possession of any other carrier**.
+  - The **originating carrier bears the burden of proof** to show that:
+    - The loss/damage/delay was **not caused by or resulted from** any act, negligence, or omission of the other carrier.
+
+> This ensures accountability in multi-leg shipments and prevents shifting liability among carriers.
+
+> The originating carrier is **entitled to recover** from the other carrier the amount it paid in compensation.
+
+> **Important Note**: This does **not** limit any legal remedy or right of action a person may have against a carrier — meaning individuals can still pursue claims independently.
+
+---
+
+### **9. Diversion to Water Transport (Rail-to-Vessel)**
+
+- If a carrier **diverts goods from rail to water transport** due to necessity (e.g., accidents, natural disasters):
+  - The carrier’s liability for loss or damage is **the same as if the goods were transported by rail**.
+
+> This ensures consistent liability regardless of mode change due to emergencies.
+
+- However, **where goods are transported by water**:
+  - The liability is subject to:
+    - Any applicable **water transportation laws** (e.g., *Marine Act*, *Canadian Shipping Act*).
+    - **Additional limitations** provided by those laws, **unless inconsistent** with these Regulations.
+
+> **Exclusions from Liability (Water Transport)**:
+  - Natural hazards (e.g., storms, tides)
+  - Explosion, boiler burst, or shaft breakage (not due to carrier negligence)
+  - Latent defects in vessel hull or machinery
+  - Collision, grounding, or navigation accidents
+  - Prolongation of voyage (delay due to weather or traffic)
+
+> **Exclusion**: Transportation on **lighters or ferries** across rivers, lakes, or harbors is **not included** in this water transport exemption.
+
+---
+
+### **10. Valuation of Loss or Damage**
+
+The **maximum amount** a carrier is liable for is the **lesser of**:
+
+1. **Value of goods at shipment point**, including:
+   - Freight and other charges affecting valuation
+   - Customs duties (if paid or payable and not refundable)
+
+2. **One of the following written values**:
+   - Value stated by the **shipper**
+   - Value **agreed upon** by the carrier and shipper
+   - Value determined based on the **tariff classification** of the goods
+
+> This ensures a fair and transparent method of determining compensation, preventing overcompensation.
+
+---
+
+### **11. Limited Liability in Special Tariff Cases**
+
+- If goods are transported under a **classification or reduced tariff** where the **risk is assumed by the shipper or owner**:
+  - The carrier’s liability is **limited to risks that are necessarily incidental** to transportation.
+  - The carrier is **only liable** for loss or damage resulting from its **own negligence**.
+
+> This protects carriers from bearing risks not reasonably associated with rail transport.
+
+> **Onus of Proof**: Carrier must prove **no negligence**.
+
+---
+
+### **12. Liability After Notice of Removal**
+
+- If a person entitled to receive goods receives a **notice (in printed or electronic form)** to remove the goods:
+  - **Within 72 hours** (excluding holidays):
+    - If goods are **imported but not released under Customs Act**
+    - If goods are **kept in a carrier’s car, station, place of delivery, or warehouse** → carrier’s liability becomes that of a **warehouseman**.
+  - **Within 48 hours** (excluding holidays) — in all other cases → same warehouseman liability.
+
+>

@@ -1,0 +1,165 @@
+### **Detailed Summary of the Draft Alberta Court of Appeal Criminal Appeal Rules (2018)**
+
+The resolution passed on **April 16, 2018**, by the Judges of the Court of Appeal of Alberta, approves and adopts the **Draft Alberta Court of Appeal Criminal Appeal Rules (drafts 13TE and 13TF)** under **section 482 of the Criminal Code (R.S.C. 1985, c. C-46)**. This regulation establishes a comprehensive, structured, and standardized procedural framework governing all criminal appeals to the Court of Appeal of Alberta, including appeals arising under the *Criminal Code*, *Extradition Act*, *Youth Criminal Justice Act*, and *Provincial Offences Procedure Act (Alberta)*.
+
+Below is a **detailed, organized summary** of the key provisions and principles of the regulation.
+
+---
+
+## **1. Scope and Applicability**
+
+- **Applies to all criminal appeals** to the Court of Appeal of Alberta, including:
+  - Appeals from conviction, acquittal, or stay of proceedings (conviction appeals)
+  - Appeals from sentencing decisions (sentence appeals)
+  - Appeals from decisions under the *Extradition Act*
+  - Appeals from findings of mental incapacity or criminal responsibility (Part XX.1 of the *Criminal Code*)
+  - Appeals from findings that an offender is a dangerous offender or long-term offender
+  - Appeals from costs orders in criminal matters
+
+> **Note**: The rules are designed to ensure consistency, fairness, and efficiency in the administration of criminal justice.
+
+---
+
+## **2. Definitions**
+
+Key terms are clearly defined to ensure uniformity across appeals:
+
+| Term | Definition |
+|------|-----------|
+| **Attorney General** | As defined in section 2 of the *Criminal Code* |
+| **Civil Rules** | Refers to the *Alberta Rules of Court (AR 124/2010)* |
+| **Conviction Appeal** | Includes appeals from conviction, acquittal, stay, or any decision concluding criminal proceedings (excluding sentence appeals), such as those under sections 672.72, 675(3), 676, 784, 839 of the *Criminal Code*, appeals from costs, extradition decisions, and mental responsibility findings |
+| **Court** | The Court of Appeal of Alberta |
+| **Criminal Appeal** | Any appeal covered under this Part |
+| **File** | To submit the correct document and obtain an acknowledgment from the Registrar confirming it is part of the record |
+| **Permission to Appeal** | Includes: (1) Application for leave to appeal; (2) Application for a certificate of sufficient importance; (3) Application under section 680 of the *Criminal Code* for review of interim release |
+| **Registrar** | A person appointed under the *Court of Appeal Act (Alberta)*, including Deputy Registrars or designated officers |
+| **Self-Represented Appellant** | An appellant without legal counsel |
+| **Sentence Appeal** | Appeals from sentence, parole directions, or other dispositions following conviction (but excludes dangerous offender or long-term offender findings) |
+
+> A reference to a "form" means the form in the **Schedule of Criminal Appeal Forms**, adapted to the case.
+
+---
+
+## **3. General Provisions – Application of Civil Rules**
+
+- **Subject to this Part, the Civil Rules apply to criminal appeals** (specifically **Part 14**, which governs standard civil appeals), **except** for the following provisions, which are **excluded** due to differences in the nature of criminal justice:
+
+| Excluded Civil Rules / Parts | Reason for Exclusion |
+|----------------------------|------------------------|
+| Part 5 – Disclosure of Information | Criminal appeals involve sensitive information; disclosure is managed differently |
+| Part 10, Div. 2 – Recoverable Costs | Costs in criminal cases are governed separately |
+| Part 14, Div. 1, Subdiv. 2 – Appeals as of Right | Criminal appeals generally require permission |
+| Part 14, Div. 1, Subdiv. 3 – Appeals with Permission | This Part governs permission procedures |
+| Part 14, Div. 1, Subdiv. 4 & Rule 14.11 – Cross Appeals | Not applicable in criminal appeals |
+| Part 14, Div. 5, Subdiv. 3 – Settlement Using Court Processes | Not applicable in criminal appeals |
+| Part 14, Div. 5, Subdiv. 4 – Judicial Dispute Resolution on Appeal | Not applicable |
+| Part 14, Div. 5, Subdiv. 7 – Security for Costs | Not applicable in criminal appeals |
+
+> This ensures that criminal appeals are not subject to civil procedural norms that may not align with their unique nature.
+
+---
+
+## **4. Permission to Appeal – When and How**
+
+### **When Permission is Required**
+An application for **permission to appeal** is required in the following situations:
+- In **summary conviction matters**, where leave to appeal is required under the *Criminal Code*
+- Where a **review under section 680** of the *Criminal Code* is required for an interim release order
+- Under the **Provincial Offences Procedure Act**, where a certificate of sufficient importance is needed
+- Where the appeal is from a **costs order**
+
+### **Procedure for Permission to Appeal**
+- Must be filed **pursuant to Rule 16.24** using **Form CRA-C**
+- Must be submitted **within**:
+  - The time limit set by statute for commencing the appeal, **and**
+  - **One month after the date of decision**, unless the statute specifies a different deadline
+
+> **Date of Decision** = Later of:
+> - Date the decision was made
+> - For conviction appeals, the date of sentencing (if sentencing occurs after conviction)
+
+---
+
+## **5. Filing the Notice of Appeal**
+
+### **General Rule**
+- **All appeals** (except self-represented appellants in custody) must be started by filing **3 copies** of a **notice of appeal** with the **Registrar**:
+  - **Form CRA-A** for self-represented appellants
+  - **Form CRA-B** for all other appeals
+
+### **Time Limits for Filing**
+- Within:
+  - The statutory time for starting an appeal
+  - **10 days after permission to appeal is granted**, if granted
+  - **One month after the date of decision**, if no permission is required
+
+> **Additional Requirement**: An **additional filed copy** must be served on the respondent **within these time limits** (subject to Rule 16.8 on service).
+
+---
+
+## **6. Special Provisions for Self-Represented Appellants in Custody**
+
+- May start an appeal by filing **3 copies of Form CRA-A** with a **senior officer of the institution** where they are detained.
+- The officer must:
+  - Endorse the date of receipt
+  - Return a copy to the appellant
+  - Retain a copy
+  - **Immediately forward a copy to the Registrar**
+
+> This ensures access to the appeals process for individuals without legal representation who are incarcerated.
+
+---
+
+## **7. Service of Documents**
+
+- **Service Requirements**:
+  - **Attorney General or Prosecutor**: Must be served personally if the appeal is filed as of right.
+  - **Convicted Person**: Must serve the notice or application on the **Attorney General**.
+  - **Other Documents**: May be served at the party’s address or on their lawyer of record.
+
+> **Exception**: Applications for permission to appeal or notices of appeal filed as of right must be **personally served** when filed by the Attorney General or a convicted person.
+
+---
+
+## **8. Appeals from Conviction and Sentence – Joint vs. Separate**
+
+- If an appeal arises from **both conviction and sentence**, the two components are treated as **separate appeals**.
+- **Order of Hearing**:
+  1. **Conviction appeal** is adjudicated first
+  2. **Sentence appeal** (or appeal on dangerous/offender finding) is adjudicated second
+
+> This ensures that the factual basis of conviction is fully reviewed before addressing sentencing issues.
+
+---
+
+## **9. Filing the Appeal Record – Timelines and Requirements**
+
+The **Appeal Record** is a critical component of the appeal and must be filed promptly.
+
+### **General Deadlines for Filing the Appeal Record**
+| Type of Appeal | Deadline |
+|---------------|----------|
+| Conviction appeal (general) | **4 months** after notice of appeal |
+| Sentence appeal (net sentence ≤ 6 months) | **2 months** after notice of appeal |
+| Sentence appeal (net sentence > 6 months) | **3 months** after notice of appeal |
+| Sentencing part of dual conviction-sentence appeal | **2 months** after conviction appeal is dismissed, struck, or abandoned |
+
+> **Exception**: If the Appeal Record is not filed within the deadline **and no extension is obtained**:
+> - If the appellant is a **self-represented person in custody**, the Registrar may refer the appeal to a **single appeal judge** for directions
+> - In all other cases, the appeal is **struck** (dismissed)
+
+---
+
+## **10. Contents of the Appeal Record**
+
+### **Conviction Appeal Record**
+Must include:
+
+#### **Part 1 – Pleadings**
+- Information, Indictment, or originating document and endorsements
+- For a **further appeal in a summary conviction matter**:
+  - Written or transcribed reasons of the Provincial Court of Alberta
+  - Notice of appeal to the Court of Queen’s Bench of Alberta
+
+#### **Part 2 – Final Documents**

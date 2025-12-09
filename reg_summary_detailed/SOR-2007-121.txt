@@ -1,0 +1,165 @@
+### **Detailed Summary of the Proceeds of Crime (Money Laundering) and Terrorist Financing Registration Regulations**
+
+---
+
+#### **1. Legal Basis and Purpose**
+These regulations were made by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, under **subsection 73(1)a of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA)**.  
+The primary purpose is to establish **registration requirements** for **money services businesses (MSBs)** and **foreign money services businesses (FMSBs)** in Canada. The regulations ensure transparency, accountability, and compliance with anti-money laundering (AML) and counter-terrorist financing (CTF) standards.
+
+They implement provisions of the PCMLTFA that require entities engaging in regulated financial services — such as money transmission, foreign exchange, or cash handling — to register with the **Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)**.
+
+---
+
+#### **2. Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Act** | Refers to the *Proceeds of Crime (Money Laundering) and Terrorist Financing Act* (PCMLTFA). |
+| **Financial Entity** | Defined as per subsection 1(2) of the *Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations*. Includes banks, credit unions, insurance companies, and other institutions involved in financial services. |
+| **Money Services Business (MSB)** | A person or entity referred to in **paragraph 5(h)** of the Act. Examples include currency exchange operators, remittance services, and agents for money transfers. |
+| **Foreign Money Services Business (FMSB)** | A person or entity referred to in **paragraph 5(h.1)** of the Act — typically a foreign-based MSB that operates in Canada or provides services to Canadian clients. |
+
+---
+
+#### **3. Eligibility Restrictions for Registration**
+
+An entity is **not eligible** for registration if any of the following individuals or entities are referred to in **paragraphs 11.11(1)(a) to (d), (e.1), or (f)** of the Act:
+
+- **Chief executive officer (CEO)**
+- **President**
+- **Director**
+- Any individual or entity that **directly or indirectly owns or controls 20% or more of the shares** in a corporation  
+  *(Applies to both corporations and non-corporate entities)*
+
+> This restriction prevents individuals with known links to criminal activity (e.g., fraud, organized crime, terrorism) from operating in the MSB sector.
+
+---
+
+#### **4. Required Information for Registration, Renewal, and Changes**
+
+All applicants, registered persons, and entities must submit specific information to FINTRAC in accordance with guidelines prepared by the Centre. The information must be submitted:
+
+- **Electronically**, if technically capable
+- **By telephone**, if electronic submission is not possible
+
+##### **Types of Submissions Required:**
+| Submission Type | Description |
+|----------------|-------------|
+| **Application for Registration** (Section 11.12) | Initial registration request |
+| **Notification of Changes** (Section 11.13) | Updates to existing information (e.g., address, ownership) |
+| **Clarification Request** (Section 11.14 or 11.17) | When the Centre requests additional details |
+| **Renewal of Registration** (Section 11.19) | Required periodically to maintain registration |
+| **Notification of Cessation of Activity** (Section 11.2) | When operations cease |
+
+> All submissions must include the information listed in **Schedule 1** (for applications and renewals) or **Schedule 2** (for cessation notifications).
+
+---
+
+#### **5. Specific Information Requirements (Schedule 1 and 2)**
+
+> Note: Although items are listed in singular form, **all known information** falling under each item must be reported.
+
+##### **A. Basic Applicant Information**
+- Applicant’s name and operating name  
+- Status (sole proprietorship, partnership, corporation, or other)  
+- Registration/incorporation number, jurisdiction, country of issue, and date of issue (for entities)  
+- Address of place of business  
+- Applicant’s telephone number and URL  
+
+##### **B. Ownership, Control, and Leadership Details**
+- For **corporations**:
+  - CEO, president, directors, and individuals owning ≥20% of shares
+  - Incorporation details of any parent or controlling corporations
+  - Registration details of any controlling entities (non-corporate)
+
+- For **non-corporate entities**:
+  - Same as above, but with entity-level ownership and control
+
+- For **individuals**:
+  - Full name, date of birth, country and political subdivision of birth and residence
+
+##### **C. Criminal Convictions**
+- A record of criminal convictions for:
+  - Applicant (corporation or entity)
+  - CEO, president, directors, and 20%+ shareholders
+- If the record is in a language other than English or French:
+  - Country, city, and political subdivision where issued
+  - Name of issuing authority
+  - Language of document
+  - Translator certification (name of organization and translator)
+
+##### **D. Financial Relationships**
+- Name, address, account number, and branch/transit number of every **financial entity** or **foreign entity** with which the applicant maintains accounts for regulated services  
+- Name, address, registration number of every **money services business (MSB)** or **foreign MSB** used to conduct transactions
+
+##### **E. Compliance Officer Information**
+- Name, address, telephone number, email, and title of the person responsible for implementing the **compliance program** under **paragraph 156(1)(a)** of the Regulations
+
+##### **F. Operational and Service Details**
+- Type of service or activity being offered (as per paragraph 5(h) or 5(l) of the Act)
+- Whether the service is provided in a **dwelling house** (residential setting)
+- Number of employees employed in the service/activity
+- Approximate annual value (in Canadian dollars) of:
+  - Foreign exchange transactions
+  - Other services or activities
+
+##### **G. Agents, Mandatories, and Branches**
+- Name, address, phone, email, and title of each agent or mandatary
+- Relationship (agent or mandatary or branch)
+- Services or activities provided by each agent/branch
+- Number of agents/branches per country
+- For each agent/mandatary:
+  - Personal details (if individual): date of birth, place of birth/residence
+  - Corporate details (if entity): CEO, directors, 20%+ owners, registration/incorporation details
+
+##### **H. Private Automated Banking Machines (PABMs)**
+- Name, address, and operating name of owner, lessor, and operator of PABM
+- For **individuals**:
+  - Date of birth, occupation
+- For **entities**:
+  - Registration/incorporation number, jurisdiction, country, and nature of business
+- Owner of cash loaded into PABM:
+  - Same details as above
+- Number of settlement accounts linked to PABM
+  - Account holder details (name, address, occupation, date of birth if individual)
+- Terminal ID, brand, model, and serial number of machine
+- Number of bills the machine can hold
+- Location and nature of business at the PABM site
+- Nature of business relationship between parties
+- Source of cash loaded into machine
+- Method of transporting cash
+
+##### **I. Cessation of Activity Notification (Schedule 2)**
+- Name and operating name of registered person/entity  
+- Existing registration number  
+- Date of submission  
+- Proposed effective date of cessation  
+- Name, address, phone, email, and title of person submitting the notification  
+
+---
+
+#### **6. Record Retention Requirements**
+
+- **Documents required under paragraphs 11.12(1)(b) and (c)** (ownership, control, structure) and **subsection 11.12(1.1)** must be:
+  - Kept for **five years** after:
+    - The date the registration application is submitted, **or**
+    - The date of a notification under section 11.13 (if submitted with a change notification)
+
+> These records are critical for audits, investigations, and compliance verification.
+
+---
+
+#### **7. Renewal Requirements (First-Time Renewal)**
+
+For entities that **renew their registration for the first time**, the renewal must occur no later than:
+
+| Entity Type | Deadline |
+|-----------|----------|
+| **Person** | Last day of the month of the person’s first birthday after the **second anniversary** of initial registration |
+| **Corporation** | Last day of the month of the **first anniversary of incorporation** after the second anniversary of initial registration |
+| **Entity other than a corporation** | Day **after the second anniversary** of initial registration |
+
+> Example: A corporation incorporated on January 1, 2020, must renew by **December 31, 2024** (first anniversary of incorporation = Jan 1, 2021 → 2nd anniversary = Jan 1, 2022 → renewal due by Dec 31, 2023)
+
+> ⚠️ *Note: This provision has been repealed by SOR/2019-240, s. 87*  
+> → **Current status: Repealed** — this rule is no longer in effect. Renewal timelines are now governed by general rules under the Act and

@@ -1,0 +1,146 @@
+**Detailed Summary of the *Meat and Poultry Products Plant Liquid Effluent Regulations***
+
+---
+
+### **Overview**
+The *Meat and Poultry Products Plant Liquid Effluent Regulations* are a set of environmental regulations designed to control and regulate the discharge of liquid effluents from meat and poultry processing facilities in Canada. These regulations aim to protect aquatic ecosystems—particularly fish populations—by limiting the amount and type of harmful substances that can be discharged into water bodies frequented by fish.
+
+The regulations are part of the broader *Fisheries Act*, which prohibits the deposit of deleterious substances into waters frequented by fish. This regulation specifically applies to plants involved in slaughtering, dressing, processing, or rendering of meat and poultry products.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Fisheries Act*, which provides the legal basis for the regulation of effluent discharge. |
+| **Ammonia Nitrogen** | Nitrogen in the form of ammonia generated from plant operations and present in effluent. |
+| **Biochemical Oxygen Demand (BOD)** | A measure of the amount of oxygen required by microorganisms to decompose organic matter in effluent. High BOD depletes dissolved oxygen in water, harming aquatic life. |
+| **Composite Sample** | A representative sample collected over time from various points or flows within a plant's effluent system. |
+| **Deposit** | To discharge or allow the deposition of effluent into water frequented by fish. |
+| **Effluent** | All wastewaters from a plant, including process water, wash water, tank drainage, storm water, and treatment facility waste. **Exclusions**: Storm water that meets specific low-BOD criteria (≤50 mg/L over 3 samples), and treated wastewater where pH is between 6.0–9.0 and total deleterious substances remain within authorized limits. |
+| **Equivalent Month** | A period of time between 4 and 6 weeks, declared by the plant owner, used to calculate average daily deposits over a longer period than a single month. |
+| **Existing Plant** | A plant that began commercial operations before March 31, 1977. |
+| **Expanded Plant** | A plant that has increased its capacity beyond a threshold (2.5× average production from 1971–1975 or from start to 1977). Once expanded, it becomes subject to these regulations. |
+| **Finished Product** | The net quantity of saleable meat or poultry products produced. |
+| **Grease** | Fats and oils generated during processing and present in effluent. |
+| **New Plant** | A plant that began commercial operation on or after March 31, 1977. |
+| **Operating Day** | Any 24-hour period (or part thereof) during which the plant is operational. |
+| **Owner** | The person or entity owning or operating the plant, or an authorized representative. |
+| **Plant** | Facilities primarily engaged in slaughtering, dressing, processing, or rendering of meat or poultry. Excludes facilities producing only edible oils, processing only hides, or retailing finished products directly. |
+| **Poultry Integrated Plant** | A plant that slaughters and dresses poultry. |
+| **Processing Plant** | A plant performing operations after slaughtering (e.g., cutting, packaging), excluding rendering. |
+| **Raw Material** | Inputs used in rendering (e.g., blood, bones, fat, offal, feathers, waste meat). |
+| **Red Meat Integrated Plant** | A plant slaughtering and dressing red meat (not poultry). |
+| **Rendering Plant** | A plant dedicated solely to edible or inedible rendering of meat or poultry, possibly with oil refining. |
+| **Saleable Material** | Dressed carcasses, processed meats, inedible offal, hides, and renderable products. |
+| **Slaughtering Day** | A 24-hour period (or part) during which slaughtering occurs. |
+| **Storm Water** | Rainwater or runoff from precipitation on or through the plant. |
+| **Total Suspended Matter (TSM)** | Non-filterable solids suspended in effluent. |
+
+> *Note: The "Minister" reference was repealed (SOR/95-428, s.1); current enforcement is managed by the federal government under the Fisheries Act.*
+
+---
+
+## **Applicability**
+
+- Applies to:
+  - **All new plants** (those beginning operations on or after March 31, 1977).
+  - **All expanded plants** (those exceeding capacity thresholds), beginning on the **first day of the month after** they become expanded.
+
+> **Key Transition Rule**: When a plant expands beyond its threshold, it becomes subject to these regulations immediately upon the following month’s start.
+
+---
+
+## **Prescribed Deleterious Substances**
+
+Under section 4 of the *Fisheries Act*, the following substances are defined as **deleterious** and must be strictly controlled:
+
+1. **Biochemical Oxygen Demand (BOD)**  
+2. **Total Suspended Matter (TSM)**  
+3. **Grease**
+
+These are the primary pollutants regulated in effluent discharge.
+
+---
+
+## **Permitted Discharge Limits**
+
+An owner may deposit these deleterious substances **only if**:
+
+1. **Daily Deposit Limit**: The actual daily deposit of each deleterious substance does **not exceed** the authorized daily limit for the plant’s class (as listed in **Column III** of Schedule I).
+2. **Average Monthly Deposit Limit**: The average daily deposit over an **equivalent month** (4–6 weeks) does **not exceed** the authorized average daily limit (listed in **Column IV** of Schedule I).
+3. **pH Requirement**: The pH of every **composite sample** of effluent must be between **6.0 and 9.0**.
+
+> This ensures that effluent is neither too acidic nor too alkaline, which could harm aquatic life.
+
+---
+
+## **Mandatory Monitoring and Compliance Requirements**
+
+Owners must install and maintain sampling and flow measurement systems approved in writing by the Minister. Required actions include:
+
+| Action | Description |
+|-------|-------------|
+| **Sampling** | Collect composite samples according to specific procedures (see section 7). |
+| **Analysis** | Analyze samples using approved methods (section 9). |
+| **Flow Measurement** | Continuously measure and record effluent flow (section 10). |
+| **Daily & Average Deposit Calculation** | Calculate actual and average daily deposits of BOD, TSM, and grease (section 11). |
+| **Acute Lethality Testing** | Conduct periodic toxicity tests on composite samples (section 9(4)) to assess fish mortality risk. |
+
+---
+
+## **Composite Sample Collection Procedures**
+
+### General Rules:
+- Must be collected during an **operating day** (24-hour period).
+- Two methods allowed:
+  1. **Continuous 24-hour collection** at a rate proportional to flow.
+  2. **Equal volume intervals** (no more than one hour apart) over 24 hours.
+
+### Special Cases:
+| Plant Type | Production Threshold | Sampling Requirement |
+|----------|------------------------|------------------------|
+| Red Meat Integrated | < 500 tonnes/year | At least **4 equal volumes** collected at equal intervals during **≥4 hours of slaughtering**. |
+| Poultry Integrated | < 2,500 tonnes/year | Same as above (≥4 hours of slaughtering). |
+| Processing Plant | < 500 tonnes/year | Same as above (≥4 hours of processing). |
+
+> These provisions ensure that samples reflect actual operational conditions, especially during peak activity.
+
+---
+
+## **Sampling Frequency (Based on Production Level)**
+
+| Plant Type | Annual Production | Sampling Frequency |
+|----------|-------------------|--------------------|
+| Red Meat Integrated | < 500 tonnes | **Once per equivalent month** |
+| Red Meat Integrated | 500–10,000 tonnes | **Once per week** |
+| Red Meat Integrated | >10,000 tonnes | **Twice per week** |
+| Processing Plant | < 500 tonnes | **Once per equivalent month** |
+| Processing Plant | >500 tonnes | **Once per week** |
+| Poultry Integrated | < 2,500 tonnes | **Once per equivalent month** |
+| Poultry Integrated | 2,500–7,000 tonnes | **Once per week** |
+| Poultry Integrated | >7,000 tonnes | **Twice per week** |
+| All Rendering Plants | Any size | **Once per week** |
+
+> This tiered approach balances monitoring rigor with operational feasibility.
+
+---
+
+## **Analytical Methods and Standards**
+
+### 1. **Concentration Determination (BOD, TSM, Grease)**
+- Must use:
+  - The **test method** specified in **Schedule III, Column I**, possibly modified in Column II.
+  - OR any **other method approved in writing by the Minister**, provided results can be verified using the standard method.
+
+### 2. **pH Testing**
+- Must use:
+  - The method prescribed in **section 424** of *Standard Methods for the Examination of Water and Wastewater, 14th Edition (1975)*.
+  - OR any other method approved by the Minister, **if it yields results verifiable** against the standard.
+
+> The *Standard Methods* (APHA, AWWA, WPCF) are the official reference for water quality testing.
+
+---
+
+## **Acute Lethality Test (Toxicity Assessment

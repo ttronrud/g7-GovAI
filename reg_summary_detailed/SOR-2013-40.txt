@@ -1,0 +1,115 @@
+**Detailed Summary of the Nunavut Borrowing Limits Regulations**
+
+---
+
+### **1. Regulatory Authority and Legal Basis**
+
+The *Nunavut Borrowing Limits Regulations* were made by **His Excellency the Governor General in Council**, on the **recommendation of the Minister of Finance**, pursuant to **subsection 27(5)a of the Nunavut Act**. This provision grants the government the authority to establish borrowing limits and define what constitutes borrowing for financial accountability and reporting purposes.
+
+- **Statutory Citation**:  
+  - S.C. 2012, c. 19, s. 215(2)  
+  - S.C. 1993, c. 28 (original enactment)
+
+These regulations are designed to implement and clarify the borrowing rules set out in the *Nunavut Act*, specifically under **sections 27(2) and (4)**, which govern the limits on borrowing by the government of Nunavut.
+
+---
+
+### **2. Key Definitions**
+
+- **"Government"** is defined as the **Government Reporting Entity (GRE)** — as specified in the *CPA Canada Public Sector Accounting Handbook*, as amended from time to time.  
+  → This ensures consistency in financial reporting standards across public sector entities in Nunavut.
+
+---
+
+### **3. What Constitutes Borrowing (Under Section 2(1))**
+
+The regulations define four types of obligations that are **deemed to constitute borrowing**, even if not formally classified as such under general accounting rules. These are subject to thresholds related to disclosure in the **Territorial Accounts** (the official financial statements of Nunavut).
+
+#### **(a) Loans of Money Received by Government**
+- Any obligation arising from a loan received by the government, including:
+  - Bonds, debentures, notes, or other forms of debt instruments issued or sold by the government.
+- **Value Calculation**:
+  - Equals the **sum of outstanding principal and accrued interest**.
+  - **Excludes** any amount held in a **custodial account** that:
+    - Is outside the government’s control.
+    - Is deposited regularly as required by the loan agreement for repayment.
+    - Example: A trust account managed by a third party for repayment purposes is not included in the borrowing value.
+
+#### **(b) Capital Leases**
+- A capital lease is a lease that transfers substantially all the risks and rewards of ownership to the lessee.
+- If the **value of the obligation** from such a lease (determined in accordance with the *CPA Canada Public Sector Accounting Handbook*) **exceeds the disclosure threshold** required in the Territorial Accounts, it is deemed to constitute borrowing.
+- The value is calculated using the **accounting standards** in the CPA Canada handbook (as updated periodically).
+
+#### **(c) Sale-Leaseback Transactions**
+- Occurs when a government entity sells a tangible capital asset (e.g., land, building) and then leases it back.
+- If the **liability** arising from this transaction (again, based on CPA Canada standards) **exceeds the disclosure threshold**, it is deemed to constitute borrowing.
+- Value is determined according to the *CPA Canada Public Sector Accounting Handbook*.
+
+#### **(d) Loan Guarantees**
+- A contingent liability arises when the government guarantees a loan made by another entity.
+- If the **contingent liability** (i.e., the potential obligation to repay if the borrower defaults) is **to be disclosed in the Territorial Accounts**, it is deemed to constitute borrowing.
+- The value of this contingent liability is the **full amount disclosed** in the financial statements.
+
+---
+
+### **4. What Does NOT Constitute Borrowing (Exclusions)**
+
+Certain transactions are **excluded** from being counted as borrowing under these regulations:
+
+#### **(i) Internal Transactions Between Government Entities**
+- Any obligation, liability, or contingent liability arising from a transaction **between two entities within the government** (e.g., between Nunavut Housing Corporation and another department) is **not considered borrowing**.
+- This exclusion prevents double-counting and internal offsetting in financial reporting.
+
+#### **(ii) Specific Canada Mortgage and Housing Corporation (CMHC) Loans**
+- Portions of loans from **CMHC to the Nunavut Housing Corporation** are **excluded** from borrowing limits **if**:
+  - The loan is for projects under **Section 79 of the National Housing Act**, or
+  - For a purpose under **Section 82 of the National Housing Act as it read before June 17, 1999**.
+- **Exclusion Condition**:  
+  - The funding provided by CMHC has been used to **reduce the outstanding balance** of the loan.
+- This provision recognizes that certain CMHC loans are structured as partial repayments or funding transfers, not as new borrowings.
+
+> ⚠️ This exclusion is **specific and time-bound**, tied to historical provisions of the National Housing Act and applies only to specific types of housing-related funding.
+
+---
+
+### **5. Purpose and Application**
+
+These regulations are intended to:
+
+- **Clarify the definition of borrowing** for the purpose of **setting borrowing limits** under the *Nunavut Act*.
+- Ensure **transparency and accountability** in financial reporting by clearly identifying when a financial obligation is treated as a borrowing.
+- Align with **public sector accounting standards** (CPA Canada) to ensure consistency and comparability with national and international financial reporting frameworks.
+- Prevent **overstatement or underreporting** of debt by defining both what counts as borrowing and what does not.
+
+---
+
+### **6. Effective Date**
+
+- The regulations come into force on the day that **Division 4 of Part 4 of the Jobs, Growth and Long-term Prosperity Act** comes into force.
+- If the regulations are **registered (published) after that date**, they will take effect on the **date of registration**.
+
+> ✅ **Note**: As of March 8, 2013, these regulations were in force (see SI/2013-25).
+
+---
+
+### **7. Key Implications for Nunavut Government Finance**
+
+| Aspect | Implication |
+|-------|-------------|
+| **Accounting Consistency** | Uses CPA Canada standards to ensure uniformity in measuring borrowing value. |
+| **Disclosure Thresholds** | Only obligations exceeding the disclosure threshold in Territorial Accounts are counted as borrowing. |
+| **Internal Transactions** | Government-to-government loans are not counted as borrowing — avoids internal accounting distortions. |
+| **CMHC Exclusion** | Specific housing loans are exempt if used to reduce debt — supports targeted housing funding. |
+| **Contingent Liabilities** | Loan guarantees are treated as borrowing if disclosed — increases transparency on risk exposure. |
+
+---
+
+### **Conclusion**
+
+The *Nunavut Borrowing Limits Regulations* provide a **clear, standardized, and transparent framework** for defining and measuring borrowing by the Nunavut government. By distinguishing between actual borrowings and internal or exempted transactions, and by aligning with national accounting standards, the regulations enhance financial accountability, support responsible fiscal management, and ensure compliance with legislative and reporting requirements under the *Nunavut Act*.
+
+These rules are essential for managing Nunavut’s debt, ensuring public trust, and enabling informed decision-making by stakeholders, including the legislature, creditors, and the public.
+
+--- 
+
+📌 **Final Note**: This summary reflects the legal and financial structure of the regulations as of their effective date (March 8, 2013), and remains relevant for financial reporting and policy analysis in Nunavut.

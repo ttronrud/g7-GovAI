@@ -1,0 +1,185 @@
+### **Detailed Summary of the Volatile Organic Compound (VOC) Concentration Limits for Automotive Refinishing Products Regulations**
+
+---
+
+#### **1. Regulatory Background and Legal Authority**
+
+These regulations are issued under **section 93(1)** of the *Canadian Environmental Protection Act, 1999 (CEPA 1999)*, specifically pursuant to **subsection 332(1)a**, which allows the Minister of the Environment to regulate substances that contribute to air pollution and pose risks to human health and the environment.
+
+- The proposed regulations were **published in the Canada Gazette, Part I, on April 26, 2008**, giving stakeholders (including industry, environmental groups, and the public) a **formal opportunity to comment or file a notice of objection**.
+- The **National Advisory Committee** was consulted under **section 6c** of CEPA 1999 to provide expert advice.
+- The Governor in Council, acting on the recommendations of the **Minister of the Environment and the Minister of Health**, concluded that:
+  - The proposed regulations **do not conflict** with other federal laws.
+  - They provide **adequate environmental and human health protection**.
+- Therefore, the regulations are **officially enacted**.
+
+---
+
+#### **2. Definitions**
+
+Key definitions clarify the scope and application of the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Automotive Refinishing** | Any activity involving servicing, maintenance, repair, restoration, or modification of motor vehicles or mobile equipment (or their parts), including the application of coatings or surface cleaners. |
+| **Coating** | A product that forms a protective film when applied to a surface. Excludes: metal plating, lacquer topcoats, and oil-based enamel paints used for vehicle restoration made **on or before 1985**. |
+| **Surface Cleaner** | A product used to clean surfaces before coating application. Excludes cleaners for equipment or handheld spot cleaners used prior to sanding. |
+| **Volatile Organic Compounds (VOCs)** | Organic compounds that evaporate easily and participate in atmospheric photochemical reactions (e.g., smog formation). **Excluded compounds** include those listed in **Schedule 1, item 65**, and **acetic acid, 1,1-dimethylethyl ester (C₆H₁₂O₂)**. |
+| **Mobile Equipment** | Non-motorized equipment capable of being pulled on highways (e.g., trailers, construction machinery). |
+| **Motor Vehicle** | Self-propelled vehicles, excluding aircraft, rolling stock, and boats/ships designed for water navigation. |
+
+---
+
+#### **3. Scope of Application**
+
+The regulations apply to **any automotive refinishing product containing VOCs listed in Column 1 of the Schedule**, if:
+
+- The product is **intended for use in automotive refinishing**, or  
+- The **container or product documentation** indicates it may be used for such purposes.
+
+**Exemptions** (Regulations do *not* apply):
+
+1. **Products for export only** – manufactured, imported, or sold exclusively for export.
+2. **Use in non-refinishing settings** – used in factories or shops for purposes unrelated to automotive refinishing (e.g., industrial coating).
+3. **Non-refillable aerosol containers** – imported, sold, or packaged in non-refillable spray cans.
+4. **Small containers** – containers with capacity **≤14.8 mL (0.5 fl oz)**.
+5. **Use during vehicle manufacturing** – applied during the original construction of vehicles or mobile equipment.
+6. **Laboratory use** – used as solvents in analysis, for scientific research, or as analytical standards.
+7. **Military applications** – used in chemical agent-resistant coatings during military operations.
+8. **Small containers for mobile restoration** – containers ≤118.3 mL (4.0 fl oz) used in mobile restoration services.
+
+> *Note:* "Military operation" includes national security, humanitarian relief, peacekeeping, or NATO defense activities.
+
+---
+
+#### **4. Prohibited VOC Concentrations and Compliance Requirements**
+
+**No person may manufacture or import** a product listed in the schedule with VOC concentration **exceeding the limit in Column 2 of the schedule**, unless:
+
+- The product must be **diluted** to meet or fall below the limit, and  
+  - The **dilution instructions** are clearly specified on the **label or documentation in both official languages (English and French)**, OR  
+  - The manufacturer/importer holds a **valid permit under section 5**.
+
+**No person may sell or offer for sale** such a product unless:
+
+- It is diluted to meet the VOC limit with proper instructions, OR  
+- It was **manufactured/imported under a permit** and the sale occurs **within one year of the permit’s expiry**.
+
+> **Important Clarification**:  
+> If multiple components must be combined before use, the **final VOC concentration after mixing must not exceed** the limit set in Column 2 of the schedule.
+
+> If a coating is labeled as suitable for use in **a different coating category**, the **lowest VOC limit applies**.
+
+---
+
+#### **5. Permit System for High-VOC Products**
+
+Any manufacturer or importer of a product that:
+- Falls outside the exemptions, and  
+- Has VOC concentration exceeding the allowed limit,
+
+**must hold a permit issued under section 5** of CEPA 1999.
+
+##### **Application Requirements**
+
+An application must include:
+
+1. **Applicant Information**:
+   - Name, address, phone, fax, email
+   - Name and contact details of authorized representative (if applicable)
+
+2. **Product Information**:
+   - Trade name (if any)
+   - VOC concentration
+   - Estimated annual volume (in units)
+   - Product category (as per schedule) and rationale for classification
+
+3. **Feasibility Statement**:
+   - Evidence that it is **not technically or economically feasible** to reduce VOC levels to meet the limit at the time of application.
+
+4. **Implementation Plan**:
+   - Detailed plan outlining measures to reduce VOC levels to within the limit
+   - Timeline for full implementation (must be completed within **4 years** of the first permit issuance)
+
+5. **Record-Keeping Location**:
+   - Address where records, supporting documents, and certification are stored
+
+6. **Certification**:
+   - A signed, dated statement confirming accuracy and completeness of all information
+   - Can be submitted electronically (if compatible with Minister’s system)
+
+##### **Minister’s Authority**
+
+- The Minister **must issue the permit** if:
+  - The applicant proves technical/economic infeasibility,
+  - A clear implementation plan exists, and
+  - The plan is to be completed within **4 years**.
+
+- The Minister **must refuse** the permit if:
+  - False/misleading information is provided, or
+  - Required information is missing or insufficient.
+
+##### **Permit Duration and Renewal**
+
+- Initial permit: **24 months** from issuance
+- Can be **renewed once** for an additional 24 months (total 48 months)
+- Renewal must be applied for **within 30 days before expiry**
+
+##### **Revocation of Permits**
+
+- A permit may be revoked if:
+  - The implementation plan will not be completed on time, or
+  - False/misleading information was provided
+
+> **Before revocation**, the Minister must:
+> - Provide **written reasons** for revocation, and  
+> - Give the permit holder a **written opportunity to respond**.
+
+---
+
+#### **6. Determining VOC Concentration**
+
+The regulations specify **formulas** to calculate VOC concentration:
+
+##### **For Coatings**:
+\[
+\text{VOC concentration (g/L)} = \frac{(W_{\text{volatiles}} - W_{\text{excluded}})}{(V_{\text{coating}} + V_{\text{water}} + V_{\text{excluded}})}
+\]
+Where:
+- \(W_{\text{volatiles}}\) = weight of volatile compounds (g)
+- \(W_{\text{excluded}}\) = weight of excluded compounds (g)
+- \(V_{\text{coating}}\) = volume of coating (L)
+- \(V_{\text{water}}\) = volume of water (L)
+- \(V_{\text{excluded}}\) = volume of excluded compounds (L)
+
+##### **For Surface Cleaners**:
+\[
+\text{VOC concentration (g/L)} = \frac{(W_{\text{volatiles}} - W_{\text{excluded}})}{V_{\text{surface cleaner}}}
+\]
+
+> These formulas apply **after dilution**, if required, as per manufacturer instructions.
+
+---
+
+#### **7. Laboratory Accreditation Requirements**
+
+Any laboratory analyzing products under these regulations must be:
+- **Accredited under ISO/IEC 17025:2005**, and  
+- Must include the specific test method (VOC analysis) within its **scope of accreditation**.
+
+---
+
+#### **8. Product Labeling and Date of Manufacture**
+
+- All products must have a **clear date of manufacture** or a **code representing that date** on the container.
+- If a code is used, the manufacturer/importer must provide an **explanation upon request** by the Minister.
+
+> If the manufacturer fails to provide this information, the **seller must add it** and provide an explanation.
+
+---
+
+#### **9. Dilution and Combination Instructions**
+
+- If dilution is required:
+  - Instructions must be clearly stated in **both official languages**.
+  - Dilution must **not result in VOC concentration exceeding the

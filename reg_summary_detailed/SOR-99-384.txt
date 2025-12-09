@@ -1,0 +1,62 @@
+**Detailed Summary of the Exemption from Deposit Insurance By-law (Foreign Currency Deposits)**
+
+**Regulatory Authority and Legal Basis**  
+The Canada Deposit Insurance Corporation (CDIC) issued this by-law through its Board of Directors, acting under two specific provisions of the *Canada Deposit Insurance Corporation Act*:
+
+- **Paragraph 11(2)(g)a**: Grants the Board the authority to make by-laws to regulate the administration of deposit insurance.
+- **Subsection 26.03(2)b**: Authorizes the Board to establish rules regarding the application of deposit insurance, including how deposits in foreign currencies are treated.
+
+This by-law specifically addresses the valuation of **foreign currency deposits** for the purposes of determining whether such deposits are covered under CDIC insurance and how their value is converted into Canadian dollars for insurance calculation.
+
+---
+
+**Key Provision of the By-law**  
+Under **paragraph 26.03(1)(b)** of the CDIC Act, when determining the amount of a foreign currency deposit in Canadian dollars (for insurance purposes), the applicable exchange rate must be based on a specific, objective benchmark.
+
+The by-law establishes that:
+
+> *The rate of exchange to be used on any given day to convert a foreign currency deposit into Canadian dollars is the latest exchange rate at which the federal member financial institution (e.g., a bank) that holds the deposit offered to buy that foreign currency with Canadian dollars, immediately before the day of determination.*
+
+In simpler terms:
+- The exchange rate used is not a published market rate from a foreign exchange provider (like Reuters or Bloomberg).
+- Instead, it is based on the **last known offer** made by the Canadian bank (the federal member institution) to purchase the foreign currency using Canadian dollars.
+- This rate is determined **before** the day on which the deposit amount is being assessed for insurance purposes.
+
+This method ensures that the exchange rate reflects the **actual transactional behavior** of the financial institution holding the deposit, rather than relying on third-party or average market rates, which may not reflect real-time buying conditions.
+
+---
+
+**Purpose and Rationale**  
+The by-law aims to:
+- Provide a **clear, transparent, and consistent method** for converting foreign currency deposits into Canadian dollars for insurance coverage calculations.
+- Prevent manipulation or inconsistencies in valuation by anchoring the rate to a real transaction (the bank’s offer to buy foreign currency).
+- Align with the principle that deposit insurance is based on the actual value of the deposit as held by the institution.
+
+By using the institution’s own offer rate, the by-law ensures that the valuation reflects the **institution’s financial position and market access**, rather than external or potentially volatile market rates.
+
+---
+
+**Effective Date**  
+This by-law came into force on **October 15, 1999**.  
+This means that from that date onward, all foreign currency deposits held by federal member institutions (such as Canadian banks) were subject to this exchange rate rule when determining their insured value under CDIC coverage.
+
+---
+
+**Relevant Statutory References**  
+- *R.S., c. 18 (3rd Supp.), s. 51* – Section 51 of the *Canada Deposit Insurance Corporation Act* (as amended) provides the legislative framework for the by-law.
+- *S.C. 1997, c. 15, s. 114* – The Statutory Instrument that formally enacted the by-law into law.
+
+---
+
+**Significance and Impact**  
+This by-law was a significant step in standardizing the treatment of foreign currency deposits under CDIC insurance. It:
+- Clarified the method for converting foreign currency deposits into Canadian dollars for insurance purposes.
+- Introduced a practical, institution-specific rate that better reflects real-world banking transactions.
+- Enhanced the accuracy and fairness of deposit insurance calculations, particularly in a globalized financial environment where foreign currency deposits are common.
+
+It also reflects CDIC’s commitment to regulatory clarity and consistency in protecting depositors, even in cross-border or multi-currency scenarios.
+
+---
+
+**Conclusion**  
+The *Exemption from Deposit Insurance By-law (Foreign Currency Deposits)* issued by the CDIC Board on September 29, 1999, provides a clear, institution-based method for determining the Canadian dollar equivalent of foreign currency deposits. By using the latest exchange rate at which a Canadian bank offered to buy the foreign currency with Canadian dollars, the by-law ensures that insurance valuations are grounded in real transactional data, promoting transparency, consistency, and fairness in the deposit insurance system. The by-law became effective on **October 15, 1999**, and remains a foundational rule for foreign currency deposit valuation under Canadian deposit insurance law.

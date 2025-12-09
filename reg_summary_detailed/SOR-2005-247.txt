@@ -1,0 +1,127 @@
+### **Detailed Summary of the New Substances Notification Regulations (Chemicals and Polymers)**  
+*Enacted under the Canadian Environmental Protection Act, 1999 (CEPA 1999)*
+
+---
+
+## **I. Background and Legal Basis**
+
+The **New Substances Notification Regulations (Chemicals and Polymers)** were adopted by Her Excellency the Governor General in Council, on the recommendation of the **Minister of the Environment** and the **Minister of Health**, pursuant to **subsection 89(1)** of the *Canadian Environmental Protection Act, 1999 (CEPA 1999)*.
+
+This regulation was preceded by a **proposed version** published in *Canada Gazette, Part I*, on **October 30, 2004**, under subsection **332(1)a** of CEPA 1999. The proposed regulations provided a public opportunity for stakeholders to submit **comments or objections** to the proposed rules, including requests for a **board of review** to assess the scientific or regulatory merits of the proposed requirements.
+
+After considering public input, the final regulations were enacted to establish **mandatory notification requirements** for manufacturers and importers of **new chemicals and polymers** not already on the Domestic Substances List (DSL), with the goal of assessing their potential toxicity and environmental impact under CEPA 1999.
+
+---
+
+## **II. Key Definitions**
+
+The regulations define key terms used throughout the document:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canadian Environmental Protection Act, 1999* |
+| **Animal / Plant** | Includes parts but excludes single-celled organisms (e.g., bacteria, viruses) without tissue/organ structure |
+| **Polymer** | A substance composed of molecules with one or more monomer units covalently bonded; >50% of molecules have ≥3 monomer units; molecular weight distribution due to variation in monomer count |
+| **Monomer unit** | The reacted form of a monomer in a polymer |
+| **Reactant** | A substance used in polymer manufacturing that becomes part of the polymer’s chemical composition (includes monomers) |
+| **Reactive functional group** | Atoms or groups expected to undergo chemical reactions |
+| **Chemical** | A substance that is *not* a polymer |
+| **Biochemical** | A substance produced by microorganisms or derived from plant/animal proteins/nucleic acids |
+| **Biopolymer** | A polymer produced by microorganisms or derived from plant/animal proteins/nucleic acids |
+| **Anionic/Cationic Polymer** | Polymers with net negative or positive charge, respectively |
+| **CAS Registry Number** | Unique identification number assigned by the American Chemical Society |
+| **DSL (Domestic Substances List)** | List of substances already assessed and deemed safe under CEPA 1999 |
+| **NDSL (Non-domestic Substances List)** | List of substances not yet assessed and not on the DSL; subject to notification requirements |
+| **Site-limited intermediate substance** | A substance manufactured and consumed at the same site, or transported to another site for consumption |
+| **Export-only substance** | A substance manufactured and exported without domestic use |
+| **Research and Development (R&D) substance** | A substance being investigated for technical viability, performance, or product improvement—not for commercialization |
+| **Test marketing** | Market exploration where product improvement is *not* the primary objective |
+| **Safety Data Sheet (SDS)** | Must meet requirements under the *Hazardous Products Regulations* |
+
+> **Note**: The term "government" in subsection 3(1) of CEPA does *not* apply to "government agencies" in these regulations.
+
+---
+
+## **III. Regulatory Objectives**
+
+The primary purpose of these regulations is to:
+
+1. **Ensure early identification** of potentially toxic substances before they enter widespread use.
+2. **Provide the Minister of the Environment** with sufficient data to determine whether a chemical or polymer is:
+   - **Toxic** or
+   - **Capable of becoming toxic** (under section 64 of CEPA 1999)
+3. **Enable risk assessment** and informed decision-making regarding inclusion on the **Domestic Substances List (DSL)** under section 87 of CEPA 1999.
+4. **Establish clear timelines and information requirements** for manufacturers and importers to submit data prior to exceeding certain thresholds in annual production or import volumes.
+
+---
+
+## **IV. Structure of the Regulations**
+
+The regulations are organized into **four parts** and several **schedules**:
+
+| Part | Purpose |
+|------|--------|
+| **Part 1 & 2** | Specify the **information requirements** for chemicals and polymers based on type, volume, and use |
+| **Part 3** | Covers **administrative matters**, including timelines, exemptions, and data submission procedures |
+| **Part 4** | Outlines **obligations of the Ministers** (Environment and Health) in reviewing and assessing submissions |
+
+### **Schedules (Information to be Submitted)**
+
+| Schedule | Purpose |
+|--------|--------|
+| **Schedule 1** | Information required for **chemicals** (R&D, site-limited intermediates, export-only) when volume exceeds 1,000 kg/year |
+| **Schedule 2** | Additional data for **biochemicals**, including nucleic acids and enzymatic capability |
+| **Schedule 3** | Information required for **polymers** (R&D, site-limited intermediates, export-only) when volume exceeds 10,000 kg/year |
+| **Schedule 4** | Data required for **NDSL chemicals** when volume exceeds 1,000 kg/year |
+| **Schedule 5** | Additional data for **NDSL chemicals** when volume exceeds 10,000 kg/year |
+| **Schedule 6** | Data required for **non-NDSL chemicals** when volume exceeds 10,000 kg/year |
+| **Schedule 7** | Lists of **polymer types** that qualify for reduced regulatory requirements |
+| **Schedule 8** | Lists of **reactants** used in polymer production |
+| **Schedule 9** | Information required for **polymers** (excluding those in section 6) when volume exceeds 1,000 kg/year |
+
+> **Flowcharts in Schedules 9–11** provide an overview of the information pathways and decision trees for different substance types and volumes.
+
+---
+
+## **V. Information Requirements by Substance Type**
+
+### **A. Chemicals (Non-Polymer)**
+
+#### **1. R&D Substances**
+- Must submit **Schedule 1** at least **30 days** before exceeding **1,000 kg/year**.
+- If biochemical (e.g., protein/nucleic acid):
+  - Submit **Schedule 2, items 1–2** with Schedule 1.
+
+#### **2. Site-Limited or Export-Only Intermediates**
+- Must submit **Schedule 1** at least **30 days** before exceeding **1,000 kg/year**.
+- If biochemical:
+  - If not consumed at manufacturing site or exported:
+    - Submit **Schedule 2, items 1–4**; plus **items 5–6** (if nucleic acid); **items 7–13** (if enzymatic capability).
+  - If consumed at site of manufacture:
+    - Submit **Schedule 2, items 1–2–4**.
+
+#### **3. Chemicals on NDSL (Non-R&D)**
+- When volume exceeds **1,000 kg/year**:
+  - Submit **Schedule 4** (and **Schedule 2, items 1–3** if biochemical)
+- When volume exceeds **10,000 kg/year**:
+  - Submit **Schedule 5** (and **Schedule 2, items 1–4** if biochemical; **5–6** if nucleic acid; **7–13** if enzymatic)
+- **Additional data required if**:
+  - Volume exceeds **50,000 kg/year** AND
+  - Released to aquatic environment >3 kg/day/site (after wastewater treatment):
+    - **Adsorption-desorption screening test data**
+    - **Hydrolysis rate vs. pH**, including hydrolysis products
+    - **Repeated-dose mammalian toxicity test** (≥28 days) via oral, dermal, or inhalation route, including:
+      - Species, strain, age, sex, number of animals
+      - Dose, vehicle, concentration
+- **If public exposure is significant**:
+  - Must also provide **in vitro chromosomal aberration test data** (with/without metabolic activation), or **in vivo clastogenicity data** showing tissue exposure to chemical or metabolites.
+
+#### **4. New Chemicals (Not on NDSL)**
+- When volume exceeds **100 kg/year**:
+  - Submit **Schedule 4** (and **Schedule 2, items 1–3** if biochemical)
+- When volume exceeds **1,000 kg/year**:
+  - Submit **Schedule 5** (and **Schedule 2, items 1–4** if biochemical; **5–6** if nucleic acid; **7–13** if enzymatic)
+- When volume exceeds **10,000 kg/year**:
+  - Submit **Schedule 6** (and same biochemical data as above)
+
+> **Note**: If a person previously submitted data under paragraph (1)(b) (e.g., for a substance later added to NDSL), they

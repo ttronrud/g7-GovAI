@@ -1,0 +1,166 @@
+**Detailed Summary of the Regulations Defining Local and Distant Signals under the Copyright Act**
+
+---
+
+### **Background and Legal Authority**
+These regulations were issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Consumer and Corporate Affairs** and the **Minister of Communications**, pursuant to **subsection 28.01(3)** of the *Copyright Act* (S.C. 1988, c. 65, s. 63).  
+
+The primary purpose of these regulations is to **define what constitutes a "local signal" and a "distant signal"** for the purposes of **subsection 28.01(2)** of the Copyright Act. This classification is critical in determining the scope of copyright protection for broadcast content—specifically, whether a signal qualifies as "local" (and thus subject to certain rights or exemptions) or "distant" (and thus not).
+
+> **Note**: These regulations were previously amended and partially repealed by *SOR/2004-33, s. 2*, but the current version remains in force as a key technical definition for copyright purposes.
+
+---
+
+## **1. Definition of "Area of Transmission"**
+
+The term *area of transmission* defines the geographic region in which a broadcast signal can be reliably received. It varies depending on the type of station (terrestrial TV, FM radio, AM radio) and the signal type (analog or digital).
+
+---
+
+### **A. Terrestrial Television Stations**
+
+#### **Analog Signals**
+- The **area of transmission** includes:
+  1. The area **within the predicted Grade B contour** of the station.
+     - This contour is determined using a standardized method outlined in the **Schedule** to the regulations.
+     - Grade B refers to a field strength level that ensures reception under typical conditions.
+  2. An additional **32 km buffer zone** extending outward from the Grade B contour.
+
+> **Purpose**: To account for both the primary coverage area and the practical reach of analog signals, which are more susceptible to terrain and atmospheric interference.
+
+#### **Digital Signals**
+- The **area of transmission** includes:
+  1. The area **within the noise-limited bounding contour** of the station.
+     - This contour is based on the **BPR-10 document** (Application Procedures and Rules for Digital Television Undertakings, Issue 1, published by the Department of Industry in August 2010).
+     - The noise-limited contour reflects the maximum distance at which a digital signal can be received with acceptable quality (i.e., without degradation due to noise).
+  2. An additional **32 km buffer zone** extending from that contour.
+
+> **Note**: Digital signals are more efficient and less prone to interference than analog signals, so their coverage is defined by a more precise technical standard (noise-limited contour).
+
+---
+
+### **B. Terrestrial FM Radio Stations**
+
+- The **area of transmission** is defined as:
+  - The area **within the predicted 0.5 mV/m field strength contour**.
+  - This contour is derived using the method specified in the **Schedule** to the regulations.
+
+> **Field Strength Standard**: 0.5 mV/m is a widely accepted threshold for reliable FM reception in most urban and suburban environments.
+
+---
+
+### **C. Terrestrial AM Radio Stations**
+
+- The **area of transmission** is defined as:
+  - The area **within a radius of 32 km from the principal studio** of the station.
+
+> **Rationale**: AM signals travel long distances via ground wave propagation, especially at night, and their coverage is often not strictly defined by a fixed contour. Therefore, a fixed radius of 32 km is used as a practical approximation for copyright purposes.
+
+---
+
+## **2. Definition of "Local Signal" (for subsection 31(2) of the Copyright Act)**
+
+A **local signal** is defined as a signal that originates from a terrestrial radio or television station whose transmission area **fully covers** a specific portion of a cable retransmitter’s service area.
+
+### **Two Scenarios**:
+
+1. **Entire Service Area of a Cable Retransmitter**  
+   → A local signal is one where the **area of transmission of the terrestrial station covers the entire service area** of the cable retransmitter.
+
+2. **Portion of the Service Area of a Retransmitter**  
+   → A local signal is one where the **area of transmission of the terrestrial station covers all of that specific portion** of the retransmitter’s service area.
+
+> **Implication**: If a cable system retransmits a signal from a terrestrial station whose coverage includes the entire or a part of the cable’s service area, that signal is considered a "local signal" and may be subject to different copyright rules (e.g., fair dealing or limited use rights).
+
+---
+
+## **3. Definition of "Distant Signal"**
+
+- A **distant signal** is **any signal that is not a local signal**.
+
+> This is a straightforward negative definition. If a signal does not meet the criteria for a local signal (i.e., its area of transmission does not fully cover any portion of the cable retransmitter’s service area), it is classified as a distant signal.
+
+> **Copyright Implication**: Distant signals are generally treated differently under copyright law—often requiring more stringent licensing or authorization for reproduction or distribution.
+
+---
+
+## **4. Methodology for Determining Antenna Height Above Average Terrain (HAAT)**
+
+HAAT (Height Above Average Terrain) is a key technical parameter used in determining signal reach and contour lines.
+
+### **Steps to Determine HAAT**:
+
+1. **Mark the transmitting site** on a topographical map using its **geographical coordinates**.
+2. **Draw two concentric circles**:
+   - One with a **radius of 3 km** (inner circle)
+   - One with a **radius of 16 km** (outer circle)
+3. **Draw eight radial lines** from the site, spaced **every 45°** (0°, 45°, 90°, ..., 315°).
+4. For **each radial**, draw a **profile graph**:
+   - X-axis: distance in kilometers (from 3 km to 16 km)
+   - Y-axis: elevation in meters above mean sea level
+   - The graph reflects the actual topography of the terrain between 3 km and 16 km.
+5. **Calculate average terrain elevation** for each segment:
+   - Using a **planimeter** (to measure area under the profile)
+   - Or by dividing the segment into equal sectors and averaging the median elevations
+   - Or by taking elevations at **sufficiently spaced points** to represent terrain accurately
+6. **Calculate HAAT** for each radial:
+   - HAAT = Height of antenna above sea level (at center of radiation)  
+     − Average elevation of terrain (in that radial segment)
+
+> **Note**: HAAT is calculated separately for each radial due to terrain variation. It is a critical input for propagation modeling.
+
+---
+
+## **5. Field Strength Thresholds for Television Contours**
+
+The **predicted Grade B contour** (for analog TV) is defined by specific field strength levels depending on the channel:
+
+| Channel Range | Field Strength |
+|-------------|----------------|
+| Channels 2 to 6 | 47 dB above 1 µV/m |
+| Channels 7 to 13 | 56 dB above 1 µV/m |
+| Channels 14 to 69 | 64 dB above 1 µV/m |
+
+> **Explanation**:
+> - These values represent the **minimum signal strength** required for a viewer to receive a clear and usable signal.
+> - Higher dB values indicate stronger required signals, reflecting the increased transmission power or better propagation characteristics for higher channels.
+
+---
+
+## **6. Determining Signal Reach Using Propagation Curves**
+
+To determine the **distance to the contour point** (i.e., the edge of the coverage area):
+
+1. Use the **HAAT** and **Effective Radiated Power (ERP)** values.
+2. Apply the appropriate **F(50,50) propagation curves** (Tables I to III).
+   - These are standardized models that predict how radio waves propagate over terrain and distance.
+   - F(50,50) refers to a specific propagation model used for 50% of the time and 50% of the terrain, providing a realistic estimate of signal reach.
+3. For directional antennas:
+   - Use the **ERP value in the direction of each radial**.
+4. For omnidirectional antennas:
+   - Use the ERP in the plane of maximum radiation.
+
+> **Reference Line**: The **40 dB line** is used as a reference for an ERP of **1 kW**. This helps standardize comparisons between different stations and signal strengths.
+
+---
+
+## **7. Constructing the Contour Line**
+
+- After calculating the distance to the contour point on each radial, the points are **joined by a smooth curve** to form the final **predicted contour**.
+- This contour represents the boundary of the area where the signal is strong enough to be considered reliably receivable.
+
+---
+
+## **Key Implications for Copyright Law**
+
+These regulations directly impact **copyright protection and licensing** for broadcast content:
+
+- **Local signals** (those whose transmission area fully covers a portion of a cable retransmitter’s service area) may be subject to **more favorable copyright exceptions**, such as:
+  - Fair dealing for private use
+  - Limited reproduction or retransmission
+- **Distant signals** (those not meeting the local signal criteria) are generally **subject to stricter copyright rules**, requiring:
+  - Licensing
+  - Compensation
+  - Prohibitions on unauthorized use
+
+This distinction

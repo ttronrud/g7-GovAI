@@ -1,0 +1,177 @@
+### **Detailed Summary of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations**
+
+These regulations, made under **section 73(1)a** of the *Proceeds of Crime (Money Laundering) and Terrorist Financing Act* (the "Act"), provide a comprehensive set of definitions and operational rules to strengthen Canada’s anti-money laundering (AML) and counter-terrorist financing (CTF) framework. They establish key terminology used throughout the Act and the regulatory regime, and they define specific types of financial transactions, entities, and records that must be reported or monitored to detect suspicious activity.
+
+---
+
+## **1. Legal Basis and Purpose**
+
+- **Authority**: The Governor in Council, on the recommendation of the Minister of Finance, enacted these regulations pursuant to **subsection 73(1)a** of the Act.
+- **Objective**: To implement the AML/CTF regime by clearly defining terms, identifying high-risk financial activities, and establishing reporting requirements for large-value transactions involving cash, virtual currency, and other financial instruments.
+- **Scope**: Applies to financial entities, certain service providers, and persons involved in transactions that may be linked to money laundering or terrorist financing.
+
+---
+
+## **2. Key Definitions in the Regulations**
+
+The regulations introduce or clarify definitions critical to enforcement and compliance. Below is a detailed breakdown of the most significant definitions:
+
+---
+
+### **A. Shell Bank**
+- **Definition**: A foreign financial institution that:
+  - Does **not** have a fixed place of business (i.e., no physical office with employees and operating records).
+  - Is authorized to conduct banking activities in a country but lacks a permanent operational presence.
+  - Is **not controlled** by, or under common control with, a depository institution, credit union, or another foreign financial institution that has a fixed place of business in Canada or another country.
+- **Purpose**: To identify institutions that may be used to conceal the origin of funds or avoid regulatory oversight — common tools in money laundering.
+
+---
+
+### **B. Financial Entity (Core Definition)**
+- **Includes**:
+  - Entities listed in paragraphs 5(a), (b), (d), (e), (f) of the Act (e.g., banks, credit unions, insurance companies).
+  - Financial services cooperatives (excluding caisses populaires).
+  - Life insurance companies and their brokers/agents (for loans or prepaid payment products).
+  - Credit union central when offering services to non-members.
+  - Government departments or provincial agents engaged in financial activities under section 76.
+- **Exclusions**:
+  - Loans to policyholders with terminal illness (secured by policy value).
+  - Loans solely for policy funding.
+  - Advance payments to policyholders.
+- **Purpose**: To define which institutions are subject to AML/CTF obligations, including recordkeeping and reporting duties.
+
+---
+
+### **C. Funds (Definition of What Must Be Monitored)**
+- **Includes**:
+  - Cash and foreign currencies.
+  - Securities, negotiable instruments, or financial instruments that represent ownership or interest.
+  - Private keys to access virtual currency (e.g., cryptocurrency wallets).
+- **Excludes**: Virtual currency itself (as a distinct category).
+- **Purpose**: To clarify what constitutes "funds" under the Act, ensuring that both traditional and digital assets are covered under AML scrutiny.
+
+---
+
+### **D. Virtual Currency (Not Included in "Funds")**
+- Virtual currency is **not** included in the definition of "funds."
+- However, **large virtual currency transactions** are subject to specific recordkeeping requirements.
+- **Purpose**: To distinguish between virtual currency (which may have different risks and regulatory treatment) and traditional financial instruments.
+
+---
+
+### **E. Large Cash Transaction Record**
+- **Trigger**: Receipt of **$10,000 or more in cash** in a single transaction.
+- **Required Information**:
+  - Date of receipt
+  - Account number(s) and names of account holders (if deposited)
+  - Name, address, occupation, and date of birth of all involved parties
+  - Type and amount of fiat currencies involved
+  - Method of receipt (e.g., cash drop, ATM, in person)
+  - Exchange rates and sources (if applicable)
+  - Accounts affected by the transaction
+  - Reference numbers (e.g., transaction IDs)
+  - Purpose of the transaction
+  - Details of remittance (method, value, recipient details)
+  - For dealers in precious metals: type, value, and wholesale value of items sold
+- **Purpose**: To enable financial institutions to detect and report potentially suspicious large cash flows.
+
+---
+
+### **F. Large Virtual Currency Transaction Record**
+- **Trigger**: Receipt of **$10,000 or more in virtual currency** in a single transaction.
+- **Required Information**:
+  - Date of receipt
+  - Account holder names (if deposited)
+  - Name, address, occupation, and date of birth of all parties
+  - Type and amount of virtual currency received
+  - Exchange rates and sources
+  - Affected accounts and holders
+  - Reference numbers and transaction identifiers (including sending and receiving addresses)
+  - For dealers in precious metals: type, value, and wholesale value of items sold
+- **Purpose**: To extend AML monitoring to digital assets, which are increasingly used in illicit activities.
+
+---
+
+### **G. Prepaid Payment Product (PPPs) and Accounts**
+- **Definition**:
+  - A product issued by a financial entity that allows users to access funds or virtual currency **in advance** of a transaction.
+  - Must allow:
+    - $1,000 or more to be added within 24 hours; or
+    - A balance of $1,000 or more to be maintained.
+- **Exclusions**:
+  - Products tied to credit/debit accounts.
+  - Single-use products (e.g., retail rebates).
+- **Purpose**: To identify and monitor prepaid products that can be used for money laundering (e.g., through layering or structuring).
+
+---
+
+### **H. Authorized User**
+- A person authorized by a holder of a prepaid payment product account to access funds or virtual currency electronically.
+- **Purpose**: To define who has access to funds and to track transactional activity linked to such accounts.
+
+---
+
+### **I. Dealer in Precious Metals and Precious Stones**
+- Includes individuals or entities that buy or sell:
+  - Gold, silver, palladium, platinum (coins, bars, ingots)
+  - Diamonds, sapphires, emeralds, rubies, alexandrite
+  - Jewellery made from these materials
+- Includes government departments or agents selling to the public.
+- **Purpose**: To identify high-risk points where cash may be converted into or out of physical assets — a common laundering method.
+
+---
+
+### **J. Foreign Currency Exchange Transaction**
+- Exchange of one fiat currency for another at the request of a customer.
+- **Mandatory Recordkeeping** when transaction value is **$3,000 or more**:
+  - Date
+  - Name and address of requester (with occupation or business nature)
+  - Type and amount of currencies involved
+  - Method of payment
+  - Exchange rates and sources
+  - Account numbers affected
+  - Transaction reference numbers
+- **Purpose**: To detect currency conversion used to disguise the origin or destination of funds.
+
+---
+
+### **K. Financial Services Cooperative**
+- Cooperatives regulated under *An Act respecting financial services cooperatives* (CQLR, c. C-67.3), **excluding caisses populaires**.
+- **Purpose**: To ensure that cooperatives offering financial services are subject to AML/CTF obligations.
+
+---
+
+### **L. Other Key Entities and Activities**
+| Term | Description |
+|------|-------------|
+| **Mortgage Broker** | Intermediary between lender and borrower for mortgage loans. |
+| **Mortgage Lender** | Provides loans secured by real property. |
+| **Mortgage Administrator** | Services mortgage agreements on behalf of lenders. |
+| **Legal Firm** | Provides legal services to the public. |
+| **Life Insurance Broker/Agent** | Arranges life insurance contracts. |
+| **Crowdfunding Platform** | Website/app used to raise funds or virtual currency via donations. |
+| **Crowdfunding Platform Services** | Provision and maintenance of such platforms. |
+| **Factor** | Engages in factoring (buying receivables). |
+| **Fiat Currency** | Currency issued by a country and designated as legal tender. |
+| **Foreign Currency** | Fiat currency issued by a country other than Canada. |
+| **Electronic Funds Transfer (EFT)** | Transmission of funds via electronic means (e.g., bank transfers). |
+
+> ⚠️ **Note**: Certain EFTs are excluded from the definition (e.g., internal treasury transfers, direct deposits, cheques, SWIFT MT-103 only, and inter-company transfers). This limits the scope to external, customer-initiated transactions.
+
+---
+
+## **3. Exclusions and Repeals**
+Several terms have been **repealed** due to legislative amendments:
+- **Business Relationship** (SOR/2019-240, s. 22)
+- **Client Credit File / Client Information Record** (SOR/2016-153 and SOR/2019-240)
+- **Ongoing Monitoring** and **Physical Presence** (SOR/2019-240, s. 22)
+
+These changes reflect updates to the AML framework, such as shifting from broad client profiling to transaction-based monitoring and reducing outdated concepts.
+
+---
+
+## **4. Key Regulatory Implications**
+
+### ✅ **Reporting Obligations**
+- Financial entities must maintain and report:
+  - **Large cash transactions** ($1

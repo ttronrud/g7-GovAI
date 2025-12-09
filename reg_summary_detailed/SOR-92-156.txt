@@ -1,0 +1,130 @@
+**Detailed Summary of the Taxation Statistical Analyses and Data Processing Services Fees Order**
+
+---
+
+### **Regulatory Background and Authority**
+
+The *Taxation Statistical Analyses and Data Processing Services Fees Order* was issued on **February 25, 1992**, by the **Minister of National Revenue** under the authority of **Order in Council P.C. 1988-2270**, passed on **September 29, 1988**. This order serves to establish specific fees that must be paid by individuals or entities receiving certain statistical analysis and data processing services from the **Department of National Revenue (DNR)**.
+
+The regulation is formally cited as **SI/88-188**, published in the *Canada Gazette, Part II*, on **September 29, 1988**, and is applicable to services provided by the DNR in the context of taxation administration and data management.
+
+---
+
+### **Purpose of the Order**
+
+The primary purpose of this regulation is to:
+
+- Define and standardize the fees charged for specific data processing and statistical analysis services delivered by the Department of National Revenue.
+- Provide clarity on the cost structure for users of DNR services, ensuring transparency and consistency in billing.
+- Enable the Department to recover reasonable and equitable costs associated with providing technical and administrative support for tax-related data processing.
+
+---
+
+### **Scope of Services Covered**
+
+The Order applies to any person who receives a service listed in **Column I** of the Schedule. These services are categorized into two main types:
+
+1. **Statistical Analyses and Data Processing Services**  
+   These include specialized tasks involving data manipulation, analysis, and reporting.
+
+2. **Administrative Support Services**  
+   These involve clerical and administrative functions that support data processing operations.
+
+Each service is assigned a unique code (e.g., ES 05, AS 02), and a corresponding hourly fee is set in **Column II** of the Schedule.
+
+---
+
+### **Fee Schedule (by Service Code)**
+
+#### **Statistical Analyses and Data Processing Services**
+
+| Service Code | Description | Fee |
+|-------------|-------------|-----|
+| **ES 05** | Statistical analyses (high-level) | **$62.65 per hour** |
+| **ES 04** | Statistical analyses (medium-level) | **$56.65 per hour** |
+| **ES 03** | Statistical analyses (basic level) | **$49.10 per hour** |
+| **ES 02** | Data processing tasks (moderate complexity) | **$41.70 per hour** |
+| **ES 01** | Data processing (basic level) | **$37.05 per hour** |
+
+> *Note: These fees apply to time-based services involving the use of computing systems, statistical software, or data modeling tools.*
+
+#### **Data Preparation and Conversion Services**
+
+| Service Code | Description | Fee |
+|-------------|-------------|-----|
+| Preparation of work for data conversion | Preparing input files or documentation for conversion | **$37.05 per hour** (same as ES 01) |
+| Routing cards | Creation or management of routing instructions for data flow | **$37.05 per hour** |
+| Data conversion | Converting data from one format to another (e.g., legacy to modern systems) | **$37.05 per hour** |
+| Use of terminal | Access or operation of a terminal for data entry or retrieval | **$37.05 per hour** |
+
+> *Note: These services are typically performed during data migration or system upgrades.*
+
+#### **Administrative Support Services**
+
+| Service Code | Description | Fee |
+|-------------|-------------|-----|
+| **AS 02** | Administrative support provided by a member of the Administrative Services (AS) group | **$40.95 per hour** |
+| **CR 04** | Administrative support provided by a member of the Clerical and Regulatory (CR) group | **$30.55 per hour** |
+| **CR 03** | Administrative support provided by a member of the Clerical and Regulatory (CR) group | **$30.05 per hour** |
+
+> *Note: These services include clerical tasks such as documentation, record-keeping, and regulatory compliance support.*
+
+#### **Output and Storage Media**
+
+| Item | Description | Fee |
+|------|-------------|-----|
+| Printouts | Physical or digital output (e.g., reports, summaries) | **$37.05 per hour** |
+| Magnetic tapes | Storage of data on magnetic tape media | **$37.05 per hour** |
+| 3480 self-loading cartridges | Specialized storage media (e.g., IBM 3480) used in legacy systems | **$37.05 per hour** |
+
+> *Note: Fees for output and storage are based on the time required to produce or manage the output or media, not on volume.*
+
+---
+
+### **Key Concept: Resource Unit**
+
+A **resource unit** is a composite metric developed internally by the Department of National Revenue to account for the cost of computing resources. It represents a standardized measure combining:
+
+- **CPU-seconds** (central processing unit time),
+- **Memory space** (RAM usage),
+- **Input/output (I/O) services** (data transfer operations).
+
+While the fee schedule is based on **hourly rates**, the underlying cost structure is derived from resource unit consumption. This allows the Department to:
+
+- Accurately allocate costs based on actual system usage,
+- Ensure that fees reflect the true cost of processing,
+- Provide a transparent and scalable billing model for future services.
+
+> *Note: The resource unit is not directly billed to users but serves as an internal accounting tool to justify and support the hourly fee structure.*
+
+---
+
+### **Application and Compliance**
+
+- Any individual or entity (e.g., tax preparers, third-party service providers, or government agencies) receiving a service listed in the Schedule must **pay the corresponding fee**.
+- Fees are **per hour** and are based on actual time spent providing the service.
+- The fees are **not subject to tax** unless otherwise required by law.
+- The Department may adjust fees in future amendments to reflect changes in technology, labor costs, or operational needs.
+
+---
+
+### **Legal and Practical Implications**
+
+- **Transparency**: The fee structure is clearly defined and publicly available, promoting accountability.
+- **Fairness**: Rates are tiered to reflect the complexity and resource intensity of the service.
+- **Administrative Efficiency**: By standardizing fees, the Department can streamline billing and reduce disputes.
+- **Cost Recovery**: The regulation enables the Department to recover operational costs associated with data processing and analysis, which are essential for tax administration.
+
+---
+
+### **Conclusion**
+
+The *Taxation Statistical Analyses and Data Processing Services Fees Order* establishes a clear, transparent, and cost-based framework for charging fees for data processing and administrative services provided by the Department of National Revenue. It ensures that users are fairly compensated for the time and resources expended in delivering tax-related data services, while also enabling the Department to maintain operational efficiency and financial sustainability.
+
+This regulation remains a foundational policy instrument in the administration of Canada’s tax data infrastructure and reflects the evolving needs of tax data management in the 1990s.
+
+---
+
+**Citation**:  
+*Taxation Statistical Analyses and Data Processing Services Fees Order*, SI/88-188, 1988 Canada Gazette, Part II, p. 4364.  
+Issued: Ottawa, Ontario, February 25, 1992.

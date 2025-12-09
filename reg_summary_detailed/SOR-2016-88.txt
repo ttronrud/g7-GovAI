@@ -1,0 +1,122 @@
+Certainly. Below is a **detailed, structured summary** of the provided regulation, organized for clarity and comprehensiveness. This summary covers the legal basis, definitions, classification of nuclear installations, risk ranking, liability limits, and specific site details as outlined in the *Nuclear Liability and Compensation Regulations* under the *Nuclear Liability and Compensation Act* (S.C. 2015, c. 4, s. 120).
+
+---
+
+## 📚 **Detailed Summary of the Nuclear Liability and Compensation Regulations**
+
+### 🔹 **1. Legal Basis and Authority**
+- The regulation was issued by **His Excellency the Governor General in Council**, on the **recommendation of the Minister of Natural Resources**.
+- It is enacted under:
+  - **Section 7(1)**: Requires consultation with the **Canadian Nuclear Safety Commission (CNSC)**.
+  - **Section 24**: Governs liability for nuclear incidents.
+  - **Section 78**: Provides for the making of regulations to implement the Act.
+- This regulation is a **detailed implementation of the Nuclear Liability and Compensation Act**, establishing definitions, classifications, and financial liability limits for nuclear facilities in Canada.
+
+> ✅ *Purpose*: To define what constitutes a nuclear installation, classify them by risk, and establish clear, tiered liability limits for operators in the event of a nuclear incident.
+
+---
+
+### 🔹 **2. Key Definitions**
+
+| Term | Definition (in English) | French Equivalent |
+|------|-------------------------|-------------------|
+| **Nuclear Fuel Conversion Facility** | Facility for storing or processing unirradiated enriched uranium. | Installation de conversion de combustible nucléaire |
+| **Nuclear Fuel Production Facility** | Facility for producing nuclear fuel containing unirradiated enriched uranium. | Installation de production de combustible nucléaire |
+| **Nuclear Fuel Waste Management Facility** | Facility for storing or managing nuclear fuel removed from reactors, meeting one of these conditions:<br>• Contains irradiated natural or depleted uranium (only in thermal-neutron reactors), with no other fissionable materials or significant moderators (graphite, heavy water, etc.);<br>• Does not exceed 500 g of ²³³U, 700 g of ²³⁵U, 450 g of ²³⁹Pu, or any combination thereof (no other fissionable materials or moderators);<br>• Does not exceed 80% of the smallest critical mass. | Installation de gestion des déchets de combustible nucléaire |
+| **Nuclear Fuel Waste Processing Facility** | Facility for processing fuel removed from reactors; or for storing/managing fuel that is *not eligible* for storage at a waste management facility. | Installation de traitement des déchets de combustible nucléaire |
+| **Power Reactor** | A nuclear reactor capable of producing electricity for commercial use. | Réacteur de puissance |
+| **Radioactive Waste Management Facility** | Facility for storing, managing, or processing material made radioactive by exposure to radiation during nuclear fuel production/use — *excluding natural/depleted uranium and fuel removed from reactors*. | Installation de gestion des déchets radioactifs |
+| **Reactor of less than 1 MW** | Reactor with thermal output <1 MW. | Réacteur de moins de 1 MW |
+| **Reactor of 1 MW to 7 MW** | Reactor with thermal output between 1 MW and 7 MW (inclusive). | Réacteur de 1 MW à 7 MW |
+| **Reactor of over 7 MW** | Reactor (non-power) with thermal output >7 MW. | Réacteur de plus de 7 MW |
+
+> ⚠️ *Note*: These definitions are critical for determining the **risk class** and **liability cap** of each nuclear installation.
+
+---
+
+### 🔹 **3. Designated Nuclear Installations (Schedule)**
+
+The regulation designates specific sites as **nuclear installations**, each assigned a **class** based on the highest-risk facility present.
+
+#### 📍 Site Location
+- Located on the **shore of Lake Huron**, in the **Municipality of Kincardine, Ontario**.
+- Precise location described via **Reference Plans** (e.g., 3R 7352, 3R 7351, 3R 7015, etc.).
+- Title documents registered in the **Bruce Land Registry (NO. 3)**.
+
+#### 🏗️ Facilities at the Site (by Station)
+
+| Station | Facilities Present |
+|--------|--------------------|
+| **Station A** | - 4-unit power reactor<br> - Facility for storage of irradiated fuel |
+| **Station B** | - 4-unit power reactor<br> - Facility for storage of irradiated fuel<br> - 4-unit power reactor<br> - Facility for storage of irradiated fuel<br> - Nuclear fuel waste management facility |
+| **Retired Power Reactor (under surveillance)** | - Placed in storage under surveillance |
+| **Eight-unit power reactor** | - Facilities for storage of irradiated fuel |
+| **Single-unit power reactor** | - Facility for storage of irradiated fuel |
+| **Single-unit reactor of over 7 MW** | - Nuclear fuel waste processing facility |
+| **Retired nuclear reactor structures** | - Structures no longer in operation |
+| **Facilities for nuclear fuel production and nuclear substance processing** | - Production and processing of nuclear substances |
+| **Radioactive waste processing and storage facilities** | - Handling of radioactive waste |
+| **Reactor of 1 MW to 7 MW** | - Medium-output reactor |
+| **Reactor of less than 1 MW** | - Low-output reactor |
+| **Reactor of less than 1 MW** | - Another low-output reactor |
+| **Nuclear fuel production facility** | - Production of fuel |
+| **Nuclear fuel conversion facility** | - Enriched uranium processing |
+| **Nuclear fuel waste management facility** | - Waste storage (multiple units) |
+| **Retired prototype power station** | - Placed in storage under surveillance |
+| **Nuclear fuel waste management facility** | - Additional waste storage |
+| **Retired power reactor** | - Under surveillance |
+| **Nuclear fuel waste management facilities** | - Multiple units |
+| **Retired nuclear reactor structures** | - Decommissioned structures |
+| **Radioactive waste management facility** | - Final disposal of radioactive waste |
+
+> ✅ This site includes a **diverse range of nuclear facilities**, from active power reactors to retired and decommissioned ones, with various types of fuel processing and waste handling.
+
+---
+
+### 🔹 **4. Risk Ranking of Facilities (for Regulatory Purposes)**
+
+Facilities are ranked from **highest to lowest risk** as follows:
+
+1. **Power Reactor**  
+2. **Reactor of over 7 MW**  
+3. **Nuclear Fuel Waste Processing Facility**  
+4. **Nuclear Fuel Waste Management Facility**  
+5. **Nuclear Fuel Conversion Facility**  
+6. **Nuclear Fuel Production Facility**  
+7. **Reactor of 1 MW to 7 MW**  
+8. **Radioactive Waste Management Facility**  
+9. **Reactor of less than 1 MW**
+
+> 🔍 *Purpose*: This ranking determines the **class of nuclear installation** and, consequently, the **liability cap** for operators.
+
+---
+
+### 🔹 **5. Classes of Nuclear Installations & Liability Limits**
+
+Each class is defined by the **highest-risk facility** present. The **operator** of the installation is liable for damages from nuclear incidents, but **only up to the prescribed maximum amount**.
+
+| Class | Highest-Risk Facility | Maximum Liability (CAD) |
+|------|------------------------|--------------------------|
+| **Power Reactor Class** | Power reactor | $180 million |
+| **Reactor of over 7 MW Class** | Reactor >7 MW (non-power) | $40 million |
+| **Nuclear Fuel Waste Processing Facility Class** | Fuel waste processing facility | $13 million |
+| **Nuclear Fuel Waste Management Facility Class** | Fuel waste management facility | $3.3 million |
+| **Nuclear Fuel Conversion Facility Class** | Fuel conversion facility | $2.3 million |
+| **Nuclear Fuel Production Facility Class** | Fuel production facility | $1.3 million |
+| **Reactor of 1 MW to 7 MW Class** | Reactor 1–7 MW | $1 million |
+| **Radioactive Waste Management Facility Class** | Radioactive waste management facility | $0.5 million |
+| **Reactor of less than 1 MW Class** | Reactor <1 MW | $0 million (i.e., **no liability cap**) |
+
+> ⚠️ **Important Note**:  
+> - The **Reactor of less than 1 MW Class** has a **$0.5 million** liability cap — *not zero*.  
+> - The **Reactor of less than 1 MW Class** is the **lowest-risk** category and thus has the **lowest financial exposure**.  
+> - The **Power Reactor Class** has the **highest liability cap** at **$180 million**, reflecting the potential for large-scale consequences in a commercial power reactor accident.
+
+> 💡 *Implication*: This tiered liability system ensures that **operators of higher-risk facilities bear greater financial responsibility**, while lower-risk facilities (e.g., small research reactors or waste storage) face minimal exposure.
+
+---
+
+### 🔹 **6. Effective Date**
+
+- These regulations come into force **on the day that Sections 7, 24, and 78 of the Nuclear Liability and Compensation Act come into force**.
+- As noted in the note:

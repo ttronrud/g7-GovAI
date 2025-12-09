@@ -1,0 +1,166 @@
+Certainly. Below is a **detailed, comprehensive summary** of the provided regulation — the **Marine Machinery Regulations**, under the **Canada Shipping Act**, as issued by His Excellency the Governor General in Council on the recommendation of the Minister of Transport.
+
+---
+
+## 🔍 **Detailed Summary of the Marine Machinery Regulations (C.R.C., c. 6 (3rd Supp.))**
+
+### 📌 **1. Purpose and Legal Basis**
+The regulation serves to **revise and replace** four outdated and obsolete sets of rules:
+- *Liquefied Petroleum Gas Regulations, C.R.C., c. 1437*
+- *Steamship Machinery Construction Order, C.R.C., c. 1490*
+- *Steamship Machinery Construction Regulations, C.R.C., c. 1491*
+- *Steamship Machinery Inspection Regulations, C.R.C., c. 1492*
+
+These are **revoked and replaced** by the new **Marine Machinery Regulations**, which provide modern, comprehensive, and safety-focused standards for:
+- The **construction**
+- **Installation**
+- **Inspection**
+of marine machinery on Canadian-registered ships.
+
+This update ensures alignment with current international maritime safety standards and technological advancements in shipboard systems.
+
+> **Legal Authority**: Section 338 of the *Canada Shipping Act*, which empowers the Governor General in Council to issue or amend regulations concerning marine machinery.
+
+---
+
+### 📌 **2. Regulatory Title and Citation**
+- **Title**: *Marine Machinery Regulations*  
+- **Citation**: *C.R.C., c. 6 (3rd Supp.)*  
+- The regulations may be cited as the "Marine Machinery Regulations" for all purposes.
+
+---
+
+### 📌 **3. Key Definitions (Critical for Interpretation)**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Shipping Act* |
+| **Approved Classification Society** | Recognized international organizations: <br> - American Bureau of Shipping (ABS) <br> - Bureau Veritas (Canada) <br> - Det norske Veritas (DNV) <br> - Lloyd’s Register of Shipping (LR) <br> - Germanischer Lloyd (GL) |
+| **Design Working Pressure** | Maximum pressure a component can safely withstand during normal operation |
+| **Assigned Working Pressure** | Maximum pressure to which the *weakest* component in a system is exposed; the system must be protected above this level |
+| **Fluid** | Includes gases, vapors, and liquids |
+| **Boiler** | Any plant generating steam or hot water under pressure via flame, combustion, or electric heating (includes superheaters, economizers, valves) |
+| **Component** | A discrete unit or part installed as part of machinery (e.g., pump, valve, shaft) |
+| **Component Inspection Certificate** | Issued by an inspector after construction to verify compliance |
+| **Material Test Certificate** | Certificate confirming that material samples passed required testing |
+| **Machinery Spaces (Category A)** | Spaces containing: <br> - Main propulsion or ≥373 kW auxiliary internal combustion engines <br> - Oil-fired boilers <br> - Fuel oil units <br> And trunks leading to these spaces |
+| **Main Steering Gear** | System applying torque to the rudder stock to steer the vessel |
+| **Auxiliary Steering Gear** | Backup system to move the rudder if main gear fails (excludes rudder stock, tiller, quadrant, or autopilot) |
+| **Steering Gear Power Unit** | Varies by type: <br> - Electric: motor + electrical arrangements <br> - Electro-hydraulic: motor + hydraulic pump <br> - Hydraulic: engine + hydraulic pump |
+| **Rudder Actuator** | Device transmitting torque to rudder stock via tiller/quadrant or directly |
+| **Rules or Codes** | Standards issued by approved classification societies for machinery design and installation |
+| **Test Pressure** | Maximum pressure applied during inspection (higher than design pressure) |
+| **Unfired Pressure Vessel** | Container under pressure without direct heating (e.g., condensers, accumulators) |
+| **Windlass** | Machinery for raising/lowering ship anchors (excludes anchors and cables) |
+| **Length** | Measured differently depending on vessel type: <br> - Passenger ships: between perpendiculars at deepest load line <br> - Other ships: from stem to stern post or rudder stock; for double-ended ships, between rudder stocks |
+
+> ⚠️ **Note**: Several terms were **repealed** by *SOR/2021-135*, including "inspection certificate," "inspector," "pressure vessel," "local/remote steering gear control system," and "periodic inspections." These are no longer in force.
+
+---
+
+### 📌 **4. Scope and Applicability**
+
+#### ✅ Applies to:
+- All ships **required to be registered under the Canada Shipping Act** (Part XV of the Act)
+
+#### ❌ Does NOT Apply to:
+- **Pleasure yachts** (except for specific cases)
+- **Non-passenger, non-self-propelled ships**
+
+#### Exceptions:
+1. **Pleasure yachts**:
+   - If **gross tonnage exceeds 5 tons**, and they have **propulsion system boilers** → regulations apply.
+
+2. **Non-passenger, non-self-propelled ships**:
+   - If the vessel:
+     - Operates **more than 15 miles from land**, **OR**
+     - Does **not operate more than 15 miles from land** AND has:
+       - Boilers or compressed air receivers with **assigned working pressure > 103 kPa**
+
+> ⚠️ **Exception Note**: The regulations **do not apply** to vessels covered by the *Vessel Construction and Equipment Regulations*.
+
+---
+
+### 📌 **5. Construction and Installation Standards**
+
+#### General Principle:
+Any machinery listed in **Schedules I to XV** must be constructed and installed according to:
+1. **Rules or codes** issued by an **approved classification society** at the time of construction.
+2. **Design specifications** from:
+   - Part I of the applicable schedule (I–XV)
+   - General design specifications in **Schedule XVI**
+
+#### Priority Rule:
+- If there is **inconsistency** between the rules/codes and the design specifications in the schedules, **the design specifications prevail**.
+
+#### Flexibility for Existing Machinery:
+- Machinery constructed **before or after** the regulation’s coming into force can be **repaired or reinstalled** in accordance with:
+  - The standards **in force at the time of repair** (not necessarily original standards)
+
+> ⚠️ **Exception**: If major repairs are **impractical or inappropriate**, they may be carried out using standards from the **original construction era** (i.e., rules in force when machinery was first built).
+
+---
+
+### 📌 **6. Material Testing Requirements**
+
+#### Mandatory Steps:
+1. **Specimen Testing**:
+   - Any material used in construction or repair must have **specimen pieces tested** before installation.
+   - Testing must be conducted **in the presence of an inspector**.
+
+2. **Equipment Verification**:
+   - Before testing, the inspector must be provided with **evidence** that all testing equipment is:
+     - In correct operational condition
+     - Properly adjusted
+   - Acceptable evidence includes **current reports or certificates** from an organization accredited by the **Standards Council of Canada (SCC)**.
+
+3. **Permanent Marking**:
+   - After successful testing, the material must be **permanently marked** with:
+     - Information from the **Material Test Certificate** (as per Schedule XVII under "MARKING — MARQUES")
+     - The **Federal Identity Symbol** (a government-issued stamp)
+
+4. **Alternative Marking (if required)**:
+   - If marking at standard locations is **physically impossible, unsafe, or not visible**, another suitable location may be accepted.
+
+5. **Witnessing by Experts**:
+   - An **exclusive surveyor** from an approved classification society OR a **metallurgist certified by a provincial government** may witness the test and marking.
+   - If so:
+     - The **material test certificate** must include:
+       - All test data
+       - Employer identification symbol
+       - Signature of the witness
+     - The **permanent marking** must also include the employer’s identification symbol.
+
+---
+
+### 📌 **7. Component Inspection and Certification**
+
+#### Requirement:
+- After construction, an **inspector** must issue a **Component Inspection Certificate** (in form per Schedule XVIII) for **each component** built in accordance with the regulations.
+
+#### Pre-issuance Checks:
+- The component must be **marked** with:
+  - All information from the certificate (under "MARKING — MARQUES")
+  - The **Federal Identity Symbol**
+
+#### Marking Requirements:
+- Marking must be:
+  - **Conspicuous**
+  - **Not easily removed or covered**
+  - Located at:
+    - **Hot-water or steam boilers**: adjacent to access/inspection opening  
+    - **Unfired pressure vessels**: on end plate  
+    - **Shafts**: on flange rim  
+    - **Propellers**: on hub  
+    - **Other components**: adjacent to manufacturer’s permanent marking  
+
+> ⚠️ If marking at the listed location is **impossible or unsafe**, the inspector may accept a **different, suitable location**.
+
+---
+
+### 📌 **8. Steering Gear Performance and Safety Requirements**
+
+#### General Performance Standards:
+- The **main steering gear** must be capable of:
+  - **Running ahead at maximum service speed**:
+    - From **

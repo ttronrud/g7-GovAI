@@ -1,0 +1,151 @@
+**Detailed Summary of the *Fishing Zones of Canada (Zones 4 and 5) Order***
+
+---
+
+### **1. Title and Citation**
+This regulation is formally titled the **Fishing Zones of Canada (Zones 4 and 5) Order** and may be cited as such. It establishes two new designated fishing zones in Canadian waters — **Fishing Zone 4** off the **Atlantic coast** and **Fishing Zone 5** off the **Pacific coast** — to define specific areas where commercial and recreational fishing is permitted under Canadian jurisdiction.
+
+---
+
+### **2. Key Definitions**
+
+- **C.H.S. Chart (Canadian Hydrographic Service Chart):**  
+  A nautical chart produced by the Canadian Hydrographic Service that provides detailed information about marine features, including depths, coastlines, and hazards. This chart is used as a reference for geographic positioning.
+
+- **Fishing Zone 1, 2, and 3:**  
+  These refer to previously established fishing zones defined in the *Fishing Zones of Canada (Zones 1, 2 and 3) Order*, with their boundaries described in the schedule to that order.
+
+- **Geographical Coordinates:**  
+  The specific latitudes and longitudes listed in Schedules I to IV that define the boundaries of Fishing Zones 4 and 5.
+
+- **NAD83 (North American Datum 1983):**  
+  The standard geodetic coordinate system used throughout Canada for precise mapping and spatial referencing. All coordinates in this Order are expressed in NAD83 unless otherwise specified.
+
+---
+
+### **3. Purpose of the Order**
+The primary purpose of this Order is to **officially prescribe Fishing Zone 4 and Fishing Zone 5** as designated areas of the sea where fishing activities are authorized under Canadian law. These zones are established to:
+- Provide clarity and legal definition for fishing rights and regulations.
+- Support sustainable fisheries management.
+- Ensure coordination with international agreements and neighboring jurisdictions.
+
+---
+
+### **4. Fishing Zone 4 – Atlantic Coast**
+
+#### **Location and Boundaries**
+- Located adjacent to the **Atlantic coast of Canada**.
+- Bounded on its outer perimeter by:
+  - **Geodesic lines** connecting points defined in **Schedule I**.
+  - **Arcs of circles** centered at points defined in **Schedule II**, each with a **radius of 200 nautical miles**.
+    - Each arc terminates where it intersects with:
+      - An adjacent arc, or
+      - A geodesic line from Schedule I.
+    - **Exception for Area 2 in Schedule I:**  
+      In this specific area, the arc extends **to the outer limit of the U.S. 200-nautical-mile fishery conservation zone** established under the **Fishery Conservation and Management Act of the United States (March 1, 1977)**.  
+      Specifically, it extends from the point of intersection with the U.S. zone to the point where it meets a geodesic line.
+
+#### **Exclusions**
+Fishing Zone 4 **does not include**:
+- Fishing Zones 1 and 2.
+- Internal waters and territorial seas of Canada.
+- Waters within the **islands of St. Pierre and Miquelon**.
+- The area bounded by:
+  - The territorial sea between:
+    - Point A: **47°21′54″N, 56°29′40″W (NAD27)**  
+    - Point B: **46°38′46″N, 55°54′12″W (NAD27)**
+  - And the boundary defined in **Schedule V**.
+
+> *Note: This exclusion ensures that the waters around the St. Pierre and Miquelon islands remain outside the scope of Fishing Zone 4, preserving jurisdictional and maritime rights of the French territory.*
+
+---
+
+### **5. Fishing Zone 5 – Pacific Coast**
+
+#### **Location and Boundaries**
+- Located adjacent to the **Pacific coast of Canada**.
+- Bounded on its outer perimeter by:
+  - **Geodesic lines** connecting points defined in **Schedule III**.
+  - **Arcs of circles** centered at points defined in **Schedule IV**, each with a **radius of 200 nautical miles**.
+    - Each arc terminates at the intersection with:
+      - An adjacent arc, or
+      - A geodesic line from Schedule III.
+
+#### **Exclusions**
+Fishing Zone 5 **does not include**:
+- Fishing Zone 3.
+- Internal waters and territorial seas of Canada.
+
+> *Note: This ensures that the Pacific zone is distinct from the previously established Zone 3 and avoids overlap with sensitive or restricted waters.*
+
+---
+
+### **6. Boundary Between Fishing Zone 4 and the Islands of St. Pierre and Miquelon**
+
+A specific and detailed boundary line is established between **Fishing Zone 4** and the **waters of the French islands of St. Pierre and Miquelon**. This boundary is defined in a sequence of geometric segments:
+
+1. **Start Point:**  
+   Begins at sea at **47°21′54″N, 56°29′40″W (NAD27)**.
+
+2. **From Point D:**  
+   - A series of **arcs of 24 nautical miles radius**, centered on the **nearest points of the baseline of the French islands**.  
+   - These arcs intersect at specific coordinates and define a transition zone.
+
+3. **From Point J:**  
+   - Connected by **geodesic lines** to specified points.
+
+4. **From Point M:**  
+   - A **segment of a 200-nautical-mile arc**, centered on the nearest point of the French island baseline, extending to a defined destination.
+
+5. **From Point N:**  
+   - Connected by **geodesic lines** to other specified coordinates.
+
+6. **From Point Q:**  
+   - A series of **arcs of 12 nautical miles radius**, again centered on the nearest points of the French island baseline.  
+   - These arcs intersect at specific coordinates and continue the boundary.
+
+7. **Final Point:**  
+   - The line terminates at **46°38′46″N, 55°54′12″W (NAD27)**.
+
+> This boundary is designed to respect international maritime boundaries and to protect the sovereignty and maritime interests of the French overseas territory of St. Pierre and Miquelon.
+
+---
+
+### **7. Coordinate System and Datum**
+
+- All geographical coordinates in this Order are expressed in the **North American Datum 1983 (NAD83)**.
+- Although some reference points are given in **NAD27** (the older datum), the Order specifies that **all coordinates are to be interpreted in NAD83 unless otherwise stated**.
+- This ensures consistency, accuracy, and compatibility with modern navigation, mapping, and geospatial systems.
+
+---
+
+### **8. Legal and Regulatory Implications**
+
+- This Order supplements the broader framework of Canadian fisheries management, particularly in relation to:
+  - The **Fisheries Act**.
+  - The **Fishing Zones of Canada (Zones 1, 2 and 3) Order**.
+- It establishes **clear spatial boundaries** for fishing operations, which helps:
+  - Prevent overfishing in sensitive areas.
+  - Facilitate enforcement and monitoring.
+  - Promote cooperation with the United States (especially regarding the 200-nautical-mile zone boundary).
+- The exclusion of certain areas (e.g., internal waters, territorial seas, and islands) ensures that fishing rights are not extended beyond Canada’s maritime jurisdiction.
+
+---
+
+### **9. Key Features and Significance**
+
+| Feature | Description |
+|--------|-------------|
+| **Geometric Precision** | Uses geodesic lines and arcs with fixed radii (e.g., 200 nautical miles) to define zones. |
+| **International Alignment** | Respects U.S. 200-nautical-mile fishery conservation zone in Zone 4. |
+| **Sovereignty Protection** | Clearly demarcates Canadian waters from French territories (St. Pierre and Miquelon). |
+| **Modern Datum** | Uses NAD83 for accuracy and consistency with current geospatial data. |
+| **Exclusion Clauses** | Prevents overlap with existing zones and sensitive areas. |
+
+---
+
+### **Conclusion**
+
+The *Fishing Zones of Canada (Zones 4 and 5) Order* provides a **precise, legally binding, and geographically accurate definition** of two new fishing zones off Canada’s Atlantic and Pacific coasts. It enhances Canada’s ability to manage fisheries sustainably, respects international maritime boundaries, and ensures clarity in jurisdictional boundaries — particularly in relation to the islands of St. Pierre and Miquelon. By using modern geodetic standards (NAD83) and incorporating international agreements (e.g., U.S. fishery conservation zones), the Order reflects a balanced, science-based, and diplomatically sensitive approach to maritime resource management.
+
+This Order is a critical component of Canada’s national fisheries policy and supports both domestic enforcement and international cooperation in marine resource governance.

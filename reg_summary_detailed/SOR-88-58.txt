@@ -1,0 +1,173 @@
+Certainly. Below is a **detailed, comprehensive summary** of the provided regulation — the *Air Transportation Regulations* (S.C. 1987, c. 34), as approved under the *National Transportation Act, 1987*, and as currently standing (with note on repeals and amendments).
+
+---
+
+## 🔍 **Detailed Summary of the Air Transportation Regulations**
+
+### **1. Regulatory Background and Authority**
+- The **Governor in Council**, on the recommendation of the **Minister of Transport**, has approved the *Air Transportation Regulations* under **Section 102 of the National Transportation Act, 1987**.
+- These regulations establish the legal framework governing **air transportation services** in Canada, including licensing, operational classifications, insurance requirements, and exemptions.
+- The regulations are formally cited as the **Air Transportation Regulations**.
+
+---
+
+### **2. Key Definitions (Relevant to the Regulation)**
+
+Several key terms are defined to ensure clarity and consistency in the application of the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Air Carrier** | Any person operating a domestic or international air service. |
+| **Air Crew** | Flight crew (pilots, navigators, engineers) and any personnel performing in-flight duties in the passenger cabin under the air carrier’s authority. |
+| **Certificated Maximum Carrying Capacity (CMCC)** | The maximum number of passengers allowed based on the aircraft’s Type Certificate or Supplemental Type Certificate, as approved by the Canadian aviation authority. |
+| **Large Aircraft** | Passengers >89 seats. |
+| **Medium Aircraft** | Passengers >39 but ≤89 seats. |
+| **Small Aircraft** | Passengers ≤39 seats. |
+| **All-Cargo Aircraft** | Aircraft designed exclusively for goods transport. |
+| **MCTOW** | Maximum Certificated Take-Off Weight of the aircraft, as stated in its Certificate of Airworthiness. |
+| **Passenger** | A person (not part of the air crew) who boards an aircraft under a valid contract for a domestic or international service. |
+| **Toll** | Any fare, rate, or charge established by an air carrier for transporting passengers, goods, or related services. |
+| **Territory** | Includes land, territorial waters, and references to states are interpreted as referring to their territories. |
+| **Third Party Liability** | Legal liability for injury to non-passengers or damage to property not in the carrier’s possession. |
+
+> ⚠️ **Important Note**: Many terms previously used in the regulations — such as *ABC*, *CPC*, *ITC*, *tour*, *charter flight*, *transborder services*, etc. — have been **repealed** by **SOR/2019-176** (Supplementary Orders 2019-176). This indicates that these specific service types or classifications are no longer governed by these regulations and may have been replaced by updated policy or removed due to changes in operational or regulatory priorities.
+
+---
+
+### **3. Exemptions from Part II of the Act**
+
+Part II of the *National Transportation Act* (which governs licensing and operational standards) **does not apply** to the following air services:
+
+- Air cushion vehicle services  
+- Organ retrieval transportation (for human transplants)  
+- Aircraft demonstration services  
+- External heli-transports  
+- Hot air balloon services  
+
+> ✅ These services are exempt from standard licensing and regulatory oversight under Part II of the Act, though they may still be subject to other safety or operational rules.
+
+---
+
+### **4. Exemption for Non-Crew Personnel on Board**
+
+An air carrier is **exempt** from requiring a domestic or non-scheduled international licence if it transports persons **not part of the air crew** who are **required for the operation** of the service (e.g., medical staff, technicians, or event personnel). This exemption applies only when such persons are necessary for the execution of the air service.
+
+---
+
+### **5. Classes of Aircraft Allowed Under Licences**
+
+The regulations define **four classes of aircraft** that Canadian air carriers may operate under appropriate licences:
+
+| Class | Description |
+|------|-------------|
+| **Small Aircraft** | Up to 39 passenger seats |
+| **Medium Aircraft** | More than 39 but not more than 89 passenger seats |
+| **Large Aircraft** | More than 89 passenger seats |
+| **All-Cargo Aircraft** | Designed exclusively for goods transport |
+
+> ✅ Each air carrier holding a licence for a specific class of aircraft is **assigned a designation** matching that class (e.g., "Domestic Service, Large Aircraft").
+
+---
+
+### **6. Classes of Air Services by Licence Type**
+
+The regulations establish distinct classes of **air services** that may be operated under different types of licences:
+
+#### A. **Domestic Services** (under a domestic licence)
+- Domestic service, small aircraft  
+- Domestic service, medium aircraft  
+- Domestic service, large aircraft  
+- Domestic service, all-cargo aircraft  
+
+#### B. **Scheduled International Services** (under a scheduled international licence)
+- Scheduled international service, small aircraft  
+- Scheduled international service, medium aircraft  
+- Scheduled international service, large aircraft  
+- Scheduled international service, all-cargo aircraft  
+- Scheduled international service (for non-Canadian carriers)  
+
+#### C. **Non-Scheduled International Services** (under a non-scheduled international licence)
+- Non-scheduled international service, small aircraft  
+- Non-scheduled international service, medium aircraft  
+- Non-scheduled international service, large aircraft  
+- Non-scheduled international service, all-cargo aircraft  
+- Non-scheduled international service (for non-Canadian carriers)  
+
+> ✅ Each air carrier and its licence are **assigned a designation** matching the class of service operated.
+
+---
+
+### **7. Insurance Requirements (Mandatory)**
+
+All air carriers operating domestic or international services must maintain **two types of liability insurance**:
+
+#### (a) **Passenger Liability Insurance**
+- Must cover injuries or deaths of passengers during boarding, disembarking, or on board.
+- **Minimum coverage amount** =  
+  **$595,000 × number of passenger seats** on board  
+  (adjusted every 5 years via CPI formula)
+
+> 🔍 **Adjustment Formula** (every 5 years, rounded to nearest $5,000):  
+>  
+> $ \text{Adjusted Amount} = (\text{Base Amount}) \times \left( \frac{\text{CPI of year 2 before adjustment}}{\text{CPI of 2017}} \right) $
+
+> ✅ **Exemption**: Does not apply to employees of the air carrier if workers’ compensation is applicable.
+
+#### (b) **Third-Party Liability Insurance**
+- Covers injury to third parties or damage to third-party property.
+- **Minimum coverage amount** depends on the aircraft’s **MCTOW**:
+
+| MCTOW Range | Minimum Coverage |
+|-----------|------------------|
+| ≤ 3,402 kg | $1,985,000 (adjusted) |
+| >3,402 kg and ≤8,165 kg | $3,970,000 (adjusted) |
+| >8,165 kg | $3,970,000 (adjusted) + ($655 × excess weight over 8,165 kg) |
+
+> 🔍 **Adjustment Formula** (same CPI-based formula as passenger insurance):
+
+> $ \text{Adjusted Amount} = (\text{Base Amount}) \times \left( \frac{\text{CPI of year 2 before adjustment}}{\text{CPI of 2017}} \right) $
+
+> ✅ The **excess weight** is rounded to the nearest whole kilogram.
+
+> 📌 **Note**: Adjustments occur **every five years**, starting from the day the regulation comes into force.
+
+---
+
+### **8. Restrictions on Insurance Exclusions**
+
+Air carriers **cannot exclude or waive** coverage below the required minimums **unless** the exclusion meets one of the following conditions:
+
+1. **Standard Industry Exclusions** covering:
+   - War, hijacking, terrorism
+   - Noise, pollution, aviation radioactive contamination
+
+2. **Exclusion for liability arising from contracts** — if the liability would have existed even without the contract.
+
+3. **Fraud or misrepresentation clause** — the policy is void if the carrier concealed material facts or committed fraud.
+
+> ❌ Any exclusion that reduces coverage below the minimums is invalid unless it falls under one of these approved categories.
+
+---
+
+### **9. Comprehensive Single Limit Coverage**
+
+- Air carriers **may use a single policy** (or combination of primary and excess policies) to cover all liability risks.
+- However, **no single limit** can be less than the **combined minimums** required under (a) and (b) above.
+
+---
+
+### **10. Working Day Definition**
+
+- A **working day** for filing documents with the National Transportation Agency is defined as a day when **Public Service of Canada offices are generally open** in the province where the head office or regional office is located.
+
+---
+
+### **11. Repealed Provisions (Important Update)**
+
+Many terms and service types previously included in the regulations have been **officially repealed** as of **SOR/2019-176**, including:
+
+- **ABC / ABC (domestic)** – Advance Booking Charter  
+- **CPC / CPC (domestic)** – Common Purpose Charter  
+- **ITC / ITC (domestic)** – Inclusive Tour Charter  
+- **Passenger non-resaleable / resaleable charter**  
+- **Transborder passenger charter (TPC), TPNC, TUSC**

@@ -1,0 +1,145 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the *Patented Medicines (Notice of Compliance) Regulations*, S.C. 1993, c. 2, s. 4, as amended and interpreted in the context of Canadian patent and drug regulation.
+
+---
+
+## 📚 **Detailed Summary of the Patented Medicines (Notice of Compliance) Regulations**
+
+### **1. Purpose and Legal Basis**
+These regulations implement **section 55.2(4)** of the *Patent Act* and are made by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Consumer and Corporate Affairs** (now the Minister of Health).  
+They establish a framework for how **patents on patented medicines** are evaluated and managed in relation to **new drug submissions** and **supplements** under the *Food and Drug Regulations (FDR)*.
+
+The primary objective is to **ensure that only valid, relevant, and properly authorized patents are included in a public register**, thereby protecting innovators while allowing generic manufacturers to enter the market after appropriate compliance with patent rights.
+
+> **Regulation Title**: *Patented Medicines (Notice of Compliance) Regulations*  
+> **Citation**: S.C. 1993, c. 2, s. 4
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Claim for the dosage form** | A claim covering a delivery system (e.g., tablet, injection) that administers a medicinal ingredient or formulation. Includes the ingredient or formulation within its scope. |
+| **Claim for the formulation** | A claim for a mixture of medicinal and non-medicinal ingredients contained in a drug and administered in a specific dosage form. *Does not need to specify non-medicinal ingredients.* |
+| **Claim for the medicinal ingredient** | Includes chemical or biological substances claimed in a patent, produced via the methods described in the patent or their "obvious equivalents," and includes different **polymorphs** of the ingredient. *Excludes different chemical forms.* |
+| **Claim for the medicine itself** | *Repealed* (SOR/2006-242, s.1) |
+| **Claim for the use of the medicinal ingredient** | A claim for using the ingredient to diagnose, treat, mitigate, or prevent a disease, disorder, or symptom. |
+| **Court** | *Repealed* (SOR/2017-166, s.1) |
+| **Expire** | Means the patent or certificate of supplementary protection lapses or terminates by operation of law. |
+| **First person** | The person who files the original new drug submission or supplement. |
+| **Second person** | A person filing a new drug submission or supplement that directly or indirectly compares their drug to one previously approved (marketed) under a notice of compliance where a patent list exists. |
+| **Identification number (DIN)** | A unique number (e.g., DIN-123456) assigned to a drug under FDR, C.01.014.2(1). |
+| **New drug submission** | A submission for a new drug or an extraordinary use (e.g., new indication), excluding changes in manufacturer name. |
+| **Supplement to a new drug submission** | A change in formulation, dosage form, or use; excludes changes based only on manufacturer name. |
+| **Register** | A public register maintained by the Minister of Health listing patents and certificates of supplementary protection eligible for inclusion. |
+| **Patent list** | A document submitted by the first person listing all relevant patents for a drug submission. |
+
+> ⚠️ **Note**: Several definitions (e.g., "medicine," "court") have been **repealed** and are no longer in force.
+
+---
+
+### **3. The Register: Management and Maintenance**
+
+The **Minister of Health** maintains a **public register** of:
+- Patents and certificates of supplementary protection (CSPs)
+- That meet eligibility criteria
+- That are linked to new drug submissions or supplements
+
+#### **Actions the Minister May Take Regarding the Register:**
+
+| Action | Conditions |
+|-------|-----------|
+| ✅ **Add** a patent/CSP | If it meets eligibility requirements and a notice of compliance has been issued for the related submission. |
+| ❌ **Refuse to add** | If the patent does not meet eligibility criteria. |
+| 🔁 **Delete** a patent/CSP | If: <br> - It was added due to an administrative error; <br> - It has been declared invalid/void under s.60(1) or s.125(1) of the Patent Act; <br> - It has been declared ineligible under s.6.07(1); <br> - The first person requests deletion; <br> - The patent has expired (unless a CSP covers it); <br> - The CSP has expired. |
+
+> 🔍 **Important Restriction**:  
+> The Minister **cannot delete** a patent based on a Federal Court decision **before the later of**:  
+> - The deadline for appealing to the Federal Court of Appeal;  
+> - The date when the appeal is discontinued or dismissed.  
+> This protects patent rights during judicial review.
+
+> ✅ If a deletion is later **reversed on appeal**, the patent/CSP is **re-added** to the register.
+
+> 🔄 The Minister may **review** the register to remove any patent/CSP that fails to meet eligibility standards.
+
+> ⏳ If a drug's **identification number (DIN)** is cancelled under **C.01.014.6(1)(a)** (e.g., due to a change in manufacturer), the related patent is deleted from the register **90 days after cancellation**.
+
+> ✅ **Exception**: If the DIN is cancelled due to a manufacturer change, subsection (3) does **not apply**.
+
+> ✅ If a new DIN is assigned to the same drug after cancellation, the previously deleted patent is **re-added** when the required documentation under **C.01.014.3** is received.
+
+#### **Public Access**
+- The register is **open to public inspection during business hours**.
+
+---
+
+### **4. Eligibility Criteria for Adding a Patent to the Register**
+
+A patent may be added to the register **only if**:
+
+#### For a **new drug submission**:
+The patent must contain **one of the following claims** and the corresponding claim must have been approved via a **notice of compliance**:
+
+| Claim Type | Eligibility Condition |
+|----------|------------------------|
+| **Medicinal ingredient** | The ingredient must be approved (via notice of compliance). Even if other ingredients are present in the submission. |
+| **Formulation** | The formulation must be approved. The claim may include non-medicinal ingredients; even if other non-medicinal ingredients are present. |
+| **Dosage form** | The dosage form must be approved. |
+| **Use of ingredient** | The use (diagnosis, treatment, etc.) must be approved. The use may be broader than the submission (e.g., combination with another drug), or include additional ingredients. |
+
+> ✅ **Flexibility**:  
+> - A patent may include **additional ingredients** beyond those claimed — still eligible.  
+> - A patent may include **additional uses** — still eligible.  
+> - A patent may include **combination therapy** — still eligible.
+
+#### For a **supplement to a new drug submission**:
+The supplement must involve a **change in**:
+- Formulation
+- Dosage form
+- Use of the ingredient
+
+And the patent must contain a claim for the **changed version** that has been approved via a **notice of compliance** for the supplement.
+
+> Example: A supplement requesting a new tablet formulation — the patent must claim that formulation and must have been approved in the supplement.
+
+#### For a **Certificate of Supplementary Protection (CSP)**:
+- The underlying patent must be **on the register** for that submission or supplement.
+- The CSP must grant rights, privileges, or liberties under **section 115 of the Patent Act** (i.e., it must extend protection for the drug).
+
+> CSPs are only eligible if they are tied to a valid, registered patent and relate to a drug with a valid submission.
+
+---
+
+### **5. Requirements for a Patent List**
+
+A patent list must include:
+
+1. Identification of the **new drug submission or supplement**.
+2. Details of the drug:  
+   - Medicinal ingredient  
+   - Brand name  
+   - Dosage form  
+   - Strength  
+   - Route of administration  
+   - Use  
+3. For each patent:  
+   - Patent number  
+   - Filing date in Canada  
+   - Date of grant  
+   - Expiration date  
+4. Statement from the **first person** that they are:  
+   - The owner of the patent, or  
+   - Hold an exclusive licence, or  
+   - Have obtained the owner’s consent to include the patent.  
+5. Address for service (for legal notices) or name/address of an alternate party.  
+6. Certification that:  
+   - All information is accurate  
+   - Each patent meets eligibility requirements
+
+> ✅ **Submission Timing**:
+> - Must be submitted **at the time of filing** of the new drug submission or supplement (subsection 4(2)).
+> - Alternatively, within **30 days** after a patent is issued (based on a Canadian filing date prior to submission filing).
+
+> 🔁 **Resubmission**:  
+> A first person may resubmit the **same patent list** in relation to a **supplement**, but **cannot submit a new list

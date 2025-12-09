@@ -1,0 +1,174 @@
+### **Detailed Summary of the Stratford Municipal Airport Zoning Regulations**
+
+---
+
+#### **1. Regulatory Background and Legal Authority**
+
+These regulations are issued under the authority of the **Aeronautics Act**, specifically:
+
+- **Section 5.5**: Requires that proposed regulations be published in the *Canada Gazette, Part I*, and in a local newspaper (Stratford Beacon Herald) to provide public notice and an opportunity for comment.
+- **Section 5.4**: Authorizes the Governor General in Council (on the recommendation of the Minister of Transport) to adopt proposed zoning regulations after public consultation.
+
+The proposed regulations were:
+- Published in two successive issues of the *Canada Gazette, Part I* on **June 24 and July 1, 1995**.
+- Published in two successive issues of the *Stratford Beacon Herald* on **June 28 and 29, 1995**.
+
+This ensured a **reasonable opportunity for interested parties** (e.g., residents, developers, aviation stakeholders) to submit representations to the Minister of Transport before final adoption.
+
+---
+
+#### **2. Title and Citation**
+
+- **Official Title**: *Stratford Municipal Airport Zoning Regulations*
+- **Citation**: R.S., c. 33 (1st Supp.), s. 1; S.C. 1992, c. 4, s. 10
+
+These regulations define the spatial and height restrictions applicable to land adjacent to and near the Stratford Municipal Airport.
+
+---
+
+#### **3. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | The Stratford Municipal Airport located in the Township of North Easthope, County of Perth, Province of Ontario. |
+| **Airport Reference Point (ARP)** | A specific point used as a vertical datum for measuring elevations. Its coordinates are UTM: N 4,806,823.84 and E 505,321.24. |
+| **Approach Surfaces** | Imaginary inclined planes extending from each end of the runways (05-23 and 17-35) to protect aircraft during landing. Defined by slope ratios and horizontal distances. |
+| **Outer Surface** | An imaginary horizontal plane located 45 meters above the ARP elevation, except where it would be less than 9 meters above ground—then it is set at 9 meters. |
+| **Strip** | The designated landing area (runway and approach zones) for each runway direction. |
+| **Transitional Surfaces** | Inclined planes rising from the lateral edges of the strips and approach surfaces, extending upward to meet the outer surface or another transitional surface. |
+
+> **Elevation of ARP**: 367.7 meters above sea level.
+
+---
+
+#### **4. Applicable Land Area**
+
+The regulations apply to **all land**, including public road allowances, that lies **adjacent to or in the vicinity of the airport**, as precisely described in **Part VI of the Schedule**.
+
+The outer boundary of the regulated zone is defined by a detailed, step-by-step geometric description across multiple lots and concessions in the Townships of Ellice and North Easthope and the City of Stratford, County of Perth.
+
+This boundary ensures that only land within a defined perimeter is subject to the height and development restrictions.
+
+---
+
+#### **5. Height Restrictions (Prohibited Development)**
+
+No person may:
+- Erect, construct, or add to any building, structure, or object on regulated land,
+- Where the **highest point** of such object exceeds the elevation of any of the following surfaces at the location of that point:
+
+1. **Approach Surfaces**  
+2. **Outer Surface**  
+3. **Transitional Surfaces**
+
+> These surfaces act as "height limits" to prevent obstructions that could interfere with aircraft operations.
+
+---
+
+#### **6. Prohibitions on Interference with Aeronautics**
+
+No owner or lessee may:
+- Use or develop any part of regulated land in a way that causes:
+  - Interference with **aircraft signals or communications** (e.g., radar, radio, navigation systems), or  
+  - Interference with **aeronautical service facilities** (e.g., control towers, lighting, emergency services).
+
+This includes both man-made structures and natural growth.
+
+---
+
+#### **7. Management of Natural Growth**
+
+If **natural vegetation** (e.g., trees, shrubs) grows beyond the elevation limits of the approach, outer, or transitional surfaces:
+- The **Minister of Transport** may issue a directive requiring the **removal of excess growth**.
+- This ensures that natural features do not become hazards to flight operations.
+
+---
+
+#### **8. Detailed Descriptions of Key Surfaces**
+
+##### **A. Airport Reference Point (ARP)**
+- Located at the **southwesterly end of runway 05-23**.
+- UTM Coordinates:  
+  - Start: N 4,806,218.75, E 504,852.60 (threshold of runway 05)  
+  - Move northeasterly 762.94 m along centerline of runway 05-23  
+  - Then northwesterly 64.94 m perpendicular → final point:  
+    **N 4,806,823.84, E 505,321.24**
+
+##### **B. Approach Surfaces (4 planes, one per runway end)**
+
+| Runway | Slope Ratio | Horizontal Distance from End | Height of Top Line | Distance from Centerline |
+|--------|-------------|-------------------------------|--------------------|--------------------------|
+| 05 (approach) | 1:40 (1m up / 40m out) | 3,000 m | 75 m above end elevation | 525 m from center |
+| 23 (approach) | 1:40 | 1,776 m | 44.4 m above end elevation | 341.4 m from center |
+| 17 (approach) | 1:30 | 1,350 m | 45 m above end elevation | 180 m from center |
+| 35 (approach) | 1:30 | 1,311 m | 43.7 m above end elevation | 176.1 m from center |
+
+> These surfaces protect aircraft during landing by preventing obstructions within critical approach zones.
+
+##### **C. Outer Surface**
+- A flat plane at **45 meters above the ARP elevation** (i.e., 367.7 m + 45 m = 412.7 m above sea level).
+- **Exception**: Where this plane would be less than 9 meters above ground, it is set at **9 meters above ground level** to avoid impractical enforcement.
+
+##### **D. Strips (Runway Areas)**
+| Runway | Width | Length |
+|--------|------|--------|
+| 05-23 | 150 m (75 m on each side) | 1,646.11 m |
+| 17-35 | 90 m (45 m on each side) | 1,095 m |
+
+These define the active areas where aircraft take off and land.
+
+##### **E. Transitional Surfaces**
+- Inclined planes rising at a **1:7 slope** (1 meter vertical per 7 meters horizontal).
+- Extend from the **lateral edges of the strips and approach surfaces**.
+- Extend upward until they meet:
+  - The **outer surface**, or
+  - Another transitional surface of an adjacent runway.
+- **Elevation rules**:
+  - Between thresholds: Lower edge elevation = elevation of nearest point on centerline.
+  - Between threshold and end of strip: Lower edge elevation = elevation of threshold.
+
+> These surfaces ensure smooth transitions between runway zones and approach zones, preventing abrupt height changes that could affect aircraft navigation.
+
+---
+
+#### **9. Enforcement and Compliance**
+
+- The **Minister of Transport** has the authority to:
+  - Require removal of **excess natural growth**.
+  - Enforce compliance with height and interference rules.
+- Violations may result in legal action or administrative penalties, though specific enforcement mechanisms are not detailed in the text.
+
+---
+
+#### **10. Purpose and Objectives**
+
+The primary objectives of these regulations are:
+
+1. **Ensure Flight Safety**  
+   Prevent visual and physical obstructions to aircraft during takeoff, landing, and approach.
+
+2. **Maintain Communication and Navigation Integrity**  
+   Prevent interference with radio, radar, and other aeronautical communication systems.
+
+3. **Preserve Airport Functionality**  
+   Protect the operational efficiency of the airport by maintaining clear zones around runways and approach paths.
+
+4. **Provide Predictable Zoning**  
+   Define clear boundaries and height limits so that land use planning is transparent and consistent.
+
+---
+
+#### **11. Significance and Impact**
+
+- These regulations establish a **formal, legally binding zoning framework** for land use around the Stratford Municipal Airport.
+- They reflect international standards for airport proximity zones, particularly in terms of:
+  - Approach surface slopes (1:40 or 1:30)
+  - Outer surface height (45 m above ARP)
+  - Transitional surfaces (1:7 slope)
+- The detailed geometric descriptions ensure precision in enforcement and compliance.
+
+---
+
+### **Conclusion**
+
+The *Stratford Municipal Airport Zoning Regulations* are a comprehensive and technically precise set of rules designed to **protect aviation safety** by establishing strict **height limits,

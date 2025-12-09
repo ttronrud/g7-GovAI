@@ -1,0 +1,139 @@
+**Detailed Summary of the *Ammonium Nitrate Storage Facilities Regulations***
+
+---
+
+### **Overview**
+
+The *Ammonium Nitrate Storage Facilities Regulations* are a set of safety and operational guidelines established by the **Canadian Transport Commission (Commission)** to regulate the construction, operation, and siting of storage facilities for **ammonium nitrate (NH₄NO₃)** and **ammonium nitrate mixed fertilizers** located on railway right-of-way or leased land. These regulations are designed to protect public safety, property, employees, and railway operations by minimizing the risks associated with the storage of highly combustible and potentially explosive materials.
+
+The regulations apply specifically to **solid forms** of ammonium nitrate (granular, prilled, flake, crystalline, or other solid forms) and **mixed fertilizers** containing ammonium nitrate, but **exclude certain low-hazard or exempt cases**.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Ammonium Nitrate** | Solid chemical compound NH₄NO₃ in granular, prilled, flake, crystalline, or other solid form. |
+| **Ammonium Nitrate Mixed Fertilizer** | A mixture of ammonium nitrate and other inert or fertilizer substances intended for agricultural use. |
+| **Capacity of a Storage Facility** | The maximum weight (in tons) of ammonium nitrate or mixed fertilizer the applicant declares will be stored. |
+| **Commission** | The Canadian Transport Commission, responsible for regulating rail transport and safety. |
+| **Dangerous Commodity** | Any substance regulated under the Transportation of Dangerous Commodities by Rail (General Order O-29 or amendments). |
+| **Main Track** | A track used for scheduled train operations with control systems like block signals or train orders. |
+| **National Building Code of Canada** | Governs building classifications, fire separations, and construction types; applies unless otherwise specified. |
+| **On-site Building or Structure** | A building or structure on the same site as the storage facility, used exclusively by the operator. |
+| **Ordinary Location** | An electrical environment not exposed to excessive dust, moisture, temperature extremes, or flammable/explosive atmospheres. |
+| **Owning or Operating Company** | The entity that owns or manages the storage facility. |
+| **Railway Right-of-Way** | Land owned or leased by a railway, adjacent to tracks, used for railway operations. |
+| **Railway Station** | A location where trains stop according to the timetable. |
+| **Railway Station-Dwelling** | A station where part of the structure is used as residential housing. |
+| **Serving Track** | The track used for loading/unloading railway cars at the facility. |
+| **Storage Facility** | A warehouse or enclosed structure used for storing ammonium nitrate or mixed fertilizers. |
+
+> *Note:* The terms "shall" indicate mandatory requirements; "should" indicates recommendations.
+
+---
+
+## **Scope and Applicability**
+
+### ✅ Applies To:
+- Storage facilities for **ammonium nitrate** or **ammonium nitrate mixed fertilizers** located on railway right-of-way owned or leased by a railway company under the Commission’s jurisdiction.
+
+### ❌ Does NOT Apply To:
+1. **Facilities with capacity ≤ 3,000 lbs** (1.5 tons) of ammonium nitrate or mixed fertilizer.
+2. **Nitrocarbonyl nitrates or other ammonium nitrate blasting agents** – their **preparation, storage, or use is strictly prohibited** near such facilities.
+3. **Mixed fertilizers with less than 60% ammonium nitrate** – unless they contain **iron oxide, chromic oxide, inorganic salts of chromium, copper, manganese, powdered metals, sulfur, potassium chloride**, or other ingredients that could sensitize or increase the hazard of ammonium nitrate.
+
+> These exemptions allow for safer handling of lower-risk fertilizer blends.
+
+---
+
+## **Construction Requirements**
+
+### **1. Capacity Thresholds**
+
+| Capacity | Requirement |
+|--------|-------------|
+| **Over 200 tons** | Must receive **Commission approval via formal application** (Sections 7–11). |
+| **Up to 200 tons** | Requires **written consent from the Director of Operation**, upon application (Sections 8–11). |
+
+> *Exception:* Facilities completed **before October 30, 1965** may operate until **October 30, 1966**, provided they comply with Part IV requirements. After that date, Commission approval is required.
+
+> *Appeal Rights:* Decisions of the Director of Operation can be appealed to the Commission.
+
+---
+
+### **2. Application Process**
+
+- Applications must be submitted **through the railway company** to the Commission’s Secretary.
+- Must include **four copies** of all drawings and data sheets.
+- Required drawings:
+  - **Plot Plan**: Minimum scale of **1 inch to 100 feet**, showing:
+    - Distance from nearest rail (gauge side) of serving track
+    - Distance from nearest rail of any main track or adjacent track within 20 feet
+    - Location relative to buildings, structures, property lines
+    - Railway right-of-way boundaries
+    - Nearest fire hydrant (with pressure, flow rate, and distance to fire department)
+  - **Additional plan (if needed)**: If plot plan is insufficient, a **1-inch-to-50-feet** plan of on-site structures must be provided.
+
+> All drawings and data sheets must:
+- Be **dated**
+- Have an **identification number**
+- Include the **applicant’s name**
+- Be **signed** by the Chief Engineer or responsible official
+
+---
+
+### **3. Required Information in Drawing Notes or Data Sheets**
+
+- Evidence that the **local fire authority (provincial fire marshal or commissioner)** has no objection.
+- Contents and **approximate quantities** of materials stored.
+- **Size, design, and materials** of the storage facility and ancillary buildings.
+- Type and size of **motive power** (forklift, loader, etc.).
+- Type and size of **heating unit** (if any).
+- Location reference: railway company, subdivision, mileage, and nearest town/village.
+- A statement confirming **compliance with all regulations**, or listing exceptions.
+
+> *Retention Requirement:* A copy of every drawing must be retained by the railway company **for the life of the facility and for at least two years after closure**.
+
+---
+
+## **Safety Distances (Horizontal Separation)**
+
+The following **minimum distances** must be maintained between the storage facility and surrounding structures or properties:
+
+| Proximity | Distance Requirement |
+|---------|------------------------|
+| **Schools, hospitals, hotels, churches, theaters, multi-unit residential buildings, office buildings (>1 storey), institutional buildings** | **300 feet** |
+| **Single-family dwellings, passenger stations, railway station-dwellings, one-storey offices, restaurants** | **150 feet** |
+| **Factories, railway shops, maintenance buildings, or associated office buildings** | **100 feet** *(reduced to 50 feet if capacity ≤ 200 tons)* |
+| **Freight stations, warehouses, storage tanks, or transfer facilities (for combustible/dangerous commodities)** | **100 feet** *(reduced to 50 feet if capacity ≤ 200 tons)* |
+| **Adjoining property (owned/leased by others)** | <br> - ≤200 tons: **25 feet** <br> - >200 tons: **50 feet** *(unless non-combustible construction or another ammonium nitrate facility is present)* <br> - If facility is **non-combustible** with **≥1.5-hour fire separation**, distance is **25 feet** <br> - If adjacent property has **another approved ammonium nitrate facility** and no buildings between them → **25 feet** |
+| **Main tracks or other non-serving tracks** | **20 feet** from gauge side |
+| **Serving track** | Distances as per **Schedule I** (specifics not detailed here) |
+
+> ⚠️ **Greater distances** may be required in **densely populated areas** or areas deemed to have **special hazard risks** by the Commission.
+
+> ✅ **Exception for on-site structures**:
+- For storage facilities **≤200 tons**, the distance to **other on-site storage structures** (not containing dangerous commodities) may be as low as **10 feet**.
+- The Commission may **authorize lesser distances** at its discretion for specific cases.
+
+---
+
+## **Structural and Design Requirements**
+
+### **Height and Floor Design**
+- **Maximum height**:
+  - **Bulk storage bins**: **40 feet** unless constructed of **non-combustible materials**.
+  - **Storage facility itself**: **One storey only**, unless necessary for elevators or similar equipment.
+  - **No basement construction** (no building over a basement).
+
+> ✅ **Recommendation**: Use **non-combustible materials** (e.g., concrete, steel) throughout.
+
+### **Floor Protection**
+- If floor or part in contact with ammonium nitrate is made of **combustible material**:
+  - Must be protected with a **plastic sheet** or **coating** (e.g., polyurethane, epoxy paint).
+- Metal parts (zinc, lead, copper) that react with ammonium nitrate must be **coated** to prevent reaction.
+
+### **Drains, Pits, and Openings**
+- **No drains, traps, pits, or depressions** in the floor (

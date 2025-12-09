@@ -1,0 +1,148 @@
+**Detailed Summary of the Goods and Services Tax Builders Remission Order (S.C. 1991, c. 24, s. 7(2))**
+
+---
+
+### **Overview**
+
+This regulation, known as the **Goods and Services Tax Builders Remission Order**, was issued by His Excellency the Governor General in Council, on the recommendation of the Minister of Finance, under **subsection 23(2) of the Financial Administration Act**. The purpose of the Order is to **remit (forgive) a portion of the federal excise tax (commonly referred to as the "federal sales tax")** that certain builders have paid or are liable to pay in respect of **additions to multiple unit residential complexes** (e.g., apartment buildings or multi-unit housing developments).
+
+The Order is designed to **promote public interest** by reducing the tax burden on builders who construct additions to existing residential complexes—particularly during a period when construction was underway and tax collection was deemed premature or disproportionate.
+
+---
+
+### **Key Elements of the Order**
+
+#### **1. Citation and Reference**
+- The Order may be cited as: **The Goods and Services Tax Builders Remission Order**.
+- It applies to provisions of the **Excise Tax Act (Act)**.
+
+---
+
+#### **2. Definition of "Estimated Federal Sales Tax"**
+
+The Order defines the **estimated federal sales tax** in respect of an addition to a multiple unit residential complex in two scenarios:
+
+- **Scenario A: Based on Interior Floor Space**
+  - If the builder bases their application for remission on **interior floor space**, the estimated tax is calculated using the formula:
+    $$
+    \text{Estimated Tax} = 50 \times \text{(interior floor space in square meters)}
+    $$
+    - This means the tax is **$50 per square meter** of interior floor space.
+
+- **Scenario B: Based on Fair Market Value**
+  - In all other cases, the estimated federal sales tax is **4.25% of the fair market value** of the addition at the time the builder is deemed to have collected tax under **subsection 191(4)** of the Excise Tax Act.
+
+> **Note:** Subsection 191(4) of the Excise Tax Act establishes when a builder is considered to have "collected" tax on a construction project—typically when the construction is substantially completed or when the project is deemed to be finished for tax purposes.
+
+---
+
+#### **3. Definition of "Interior Floor Space"**
+
+The term *interior floor space* is specifically defined to include:
+- The **full width** of enclosing walls of the addition that are **not adjacent** to other residential units or complexes.
+- **Half the width** of enclosing walls that **are adjacent** to other residential units or complexes.
+
+**Excluded areas** (not included in interior floor space):
+- Storage rooms
+- Attics or basements — **only if** they are finished by the builder to a standard comparable to living areas
+- Parking areas
+- Areas designated for heating, water, gas, or electricity supply equipment
+
+> This definition ensures that only usable, habitable, or structurally significant interior space is considered in calculating tax liability.
+
+---
+
+#### **4. Application for Remission**
+
+A builder applying for remission under **section 5 of the Excise Tax Act** must base their application on **either**:
+- The **interior floor space** of the addition, or  
+- The **fair market value** of the addition.
+
+This gives builders flexibility in how they calculate the tax for remission purposes.
+
+---
+
+#### **5. Conditions for Tax Remission**
+
+The remission of tax is granted **only if** the following conditions are met:
+
+##### **Condition 1: Timing of Application**
+- The builder must **apply to the Minister of National Revenue for remission before January 1, 1996**.
+
+> This sets a strict deadline to ensure timely action and prevent retroactive claims.
+
+##### **Condition 2: No Prior Rebate Under Section 121**
+- The builder must not have received a **rebate under section 121** of the Excise Tax Act in respect of the entire complex (i.e., the original building or the complex as a whole).
+
+> Section 121 allows for rebates in certain circumstances (e.g., for new construction or development). The absence of such a rebate ensures that the remission is not double-dipped or applied in conflict with existing tax relief.
+
+##### **Condition 3: No Prior Remission to Another Person**
+- No remission under section 5 has been granted to **any other person** in respect of the same addition.
+
+> This prevents overlapping or fraudulent claims and ensures that only one builder receives the benefit per addition.
+
+---
+
+#### **6. Amount of Remission Based on Completion Status (as of January 1, 1991)**
+
+The amount of remission granted depends on the **progress of construction as of January 1, 1991**, which serves as a key benchmark.
+
+| Construction Completion Status (as of Jan 1, 1991) | Remission Amount |
+|--------------------------------------------------|------------------|
+| **More than 25% complete** | Remission = lesser of: <br> - $50 × interior floor space (or 4.25% of fair market value), <br> - Amount of tax deemed to have been collected |
+| **Not more than 50% complete** | Remission = lesser of: <br> - 50% of estimated federal sales tax, <br> - Amount of tax deemed to have been collected |
+| **More than 50% complete** | Remission = lesser of: <br> - 75% of estimated federal sales tax, <br> - Amount of tax deemed to have been collected |
+
+> This tiered approach reflects a **progressive reduction in tax liability** as construction advances. It incentivizes early completion while still providing some relief to builders who began work early.
+
+---
+
+### **Key Policy Objectives**
+
+1. **Support for Builders**  
+   The Order provides financial relief to builders who add units to existing residential complexes—especially those that were only partially completed by January 1, 1991.
+
+2. **Encouragement of Affordable Housing Development**  
+   By reducing the tax burden on additions, the government encourages the expansion of multi-unit housing, which can help meet housing demand and promote affordable living.
+
+3. **Fairness in Tax Collection**  
+   The rule recognizes that tax collection under subsection 191(4) may occur too early in the construction process, especially when only partial work has been done. This remission adjusts for that timing issue.
+
+4. **Prevention of Abuse**  
+   The conditions (e.g., no prior rebate, no prior remission) prevent misuse or duplication of benefits.
+
+---
+
+### **Limitations and Exclusions**
+
+- **No relief applies** to:
+  - Parking areas
+  - Storage rooms (unless finished to living area standards)
+  - Basements or attics not finished to living area standards
+- **Only applies to additions**, not to new construction of entire buildings.
+- **Only applies to builders** who constructed the addition.
+- **Only applies to additions made after 1990** (since the tax collection threshold is tied to post-1990 activity).
+- **Only applies to additions completed or deemed complete by January 1, 1991**, with progress measured at that date.
+
+---
+
+### **Legal Basis**
+
+- The Order is issued under **subsection 23(2) of the Financial Administration Act**, which empowers the Governor General in Council (on ministerial recommendation) to make regulations for the administration of federal finances.
+- It operates within the framework of the **Excise Tax Act**, particularly **section 5 (remission)** and **section 191(4)** (collection of tax).
+
+---
+
+### **Conclusion**
+
+The **Goods and Services Tax Builders Remission Order** is a targeted fiscal policy designed to:
+- Reduce the tax burden on builders of additions to multi-unit residential complexes,
+- Promote housing development by incentivizing incremental construction,
+- Ensure fairness in tax collection by adjusting for partial completion,
+- Maintain fiscal integrity through strict eligibility and application conditions.
+
+It represents a pragmatic balance between supporting private sector investment in housing and ensuring equitable and transparent tax administration.
+
+---
+
+> **Note:** This Order is now historical and was enacted in **1991**, with the deadline for applications set at **January 1, 1996**. It is no longer active in current tax policy, but may still be referenced in legal or historical contexts related to tax remission or housing development.

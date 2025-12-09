@@ -1,0 +1,152 @@
+### **Detailed Summary of the Uranium Mines and Mills Regulations (S.C. 1997, c. 9)**
+
+---
+
+#### **1. Regulatory Background and Authority**
+
+The **Uranium Mines and Mills Regulations** were approved by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Natural Resources**, under **Section 44 of the Nuclear Safety and Control Act (NSCA)**. These regulations were established to ensure the safe, environmentally responsible, and secure development of uranium mining and milling activities in Canada.
+
+They were originally issued on **May 31, 2000**, and remain in force as part of the NSCA framework, with certain definitions and requirements updated or clarified over time (e.g., the repeal of "effective dose" in 2007).
+
+---
+
+#### **2. Key Definitions**
+
+The regulations define critical terms used throughout the framework:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Nuclear Safety and Control Act* (NSCA). |
+| **Concentrate** | A product obtained through physical or chemical separation of uranium from ore. |
+| **Equivalent Dose** | As defined in the *Radiation Protection Regulations*; measures radiation exposure to biological tissue. |
+| **Excavation Site** | Underground area used to evaluate a potential orebody. |
+| **Federal Authority** | Includes federal government bodies, Crown corporations, provincial governments, Indigenous self-governing bodies, and foreign/international entities with environmental assessment responsibilities. *Excludes* Indigenous bands, Export Development Canada, and certain not-for-profit entities. |
+| **Hazardous Substance** | Any non-nuclear substance used or produced in licensed operations that may harm human health or the environment. |
+| **Jurisdiction** | Entities with legal responsibility for assessing environmental impacts related to uranium mine/mill development, including federal, provincial, Indigenous, and international bodies. |
+| **Licensed Activity** | Activities authorized under paragraph 26(e) of the NSCA related to uranium mines or mills. |
+| **Licensee** | A person or entity granted a license to carry out a licensed activity. |
+| **Mill** | A facility where ore is processed to recover uranium concentrate, including tailings and water treatment systems. |
+| **Mine** | Includes both excavation sites and removal sites. |
+| **Ore** | A mineral deposit containing uranium in sufficient quantity and quality to make mining economically viable. |
+| **Removal Site** | A surface location where uranium is extracted to evaluate a potential orebody. |
+| **Waste Management System** | A system for collecting, transporting, treating, storing, or disposing of waste generated during operations. |
+| **Worker** | Any individual performing work as defined in the license. |
+| **Workers’ Representative** | A member of a safety committee, safety representative, collective bargaining agent, or individual worker if none of the above exist. |
+| **Workplace** | Any area within a mine or mill where workers may reasonably be present during operations. |
+
+> ⚠️ *Note: "Effective dose" was repealed in 2007 (SOR/2007-208, s.13) and replaced with "equivalent dose" as per Radiation Protection Regulations.*
+
+---
+
+#### **3. Scope of Application**
+
+- ✅ **Applies to**: Uranium **mines** and **mills** (including preparation, construction, operation, decommissioning, and abandonment).
+- ❌ **Does not apply to**: 
+  - Uranium **prospecting** or **surface exploration** activities.
+
+---
+
+#### **4. Requirements for Licence Applications**
+
+All licence applications (except for "abandonment" licences) must include detailed information in specific categories. The requirements are tailored to the type of licence and the stage of operation.
+
+---
+
+##### **A. General Application Requirements (All Licences Except Abandonment)**
+
+Applications must include:
+
+1. **Site Evaluation and Planning**
+   - Description of site evaluation process and preparatory investigations.
+   - Surface plan showing boundaries and proposed activity zones.
+   - Plans of existing and planned structures, excavations, and underground development.
+   - Description of the mine/mill, including installations, capacity, and development.
+
+2. **Geological and Mineralogical Information**
+   - Detailed description of site geology and mineralogy.
+
+3. **Historical Activity**
+   - Description of any prior mining or development activities at the site.
+
+4. **Workplace and Health & Safety**
+   - Description of eating areas and maintenance programs.
+   - Emergency power system plans and capacities.
+
+5. **Environmental Protection**
+   - Program to inform nearby communities about environmental and health impacts.
+   - Baseline environmental assessment of site and surrounding areas.
+   - Predicted environmental effects and mitigation measures.
+   - Qualifications and responsibilities of environmental protection workers.
+   - Environmental protection policies and monitoring programs.
+   - Proposed releases of nuclear and hazardous substances (volume, flow rate, concentration, physical/chemical/radiological characteristics).
+   - Measures to control releases (preventive and emergency).
+   - Waste stream analysis (liquid and solid), including groundwater ingress and diversion.
+   - Backfill quantities, composition, and characteristics.
+   - Full description of the proposed **waste management system**.
+
+6. **Health and Safety**
+   - Health and safety risks and mitigation strategies.
+   - Personal protective equipment (PPE) selection, use, and maintenance.
+   - Worker health and safety policies and training programs.
+   - Radiation protection worker roles and qualifications.
+   - Ventilation and dust control methods and equipment.
+   - Effectiveness and inspection schedule for ventilation/dust control systems.
+
+7. **Security Measures**
+   - Procedures to detect and respond to acts of sabotage or attempted sabotage.
+
+---
+
+##### **B. Licence-Specific Requirements**
+
+| Licence Type | Specific Requirements |
+|------------|------------------------|
+| **Prepare Site & Construct Mine** | - Proposed mine design<br>- Construction program and schedule<br>- Equipment, systems, and operating conditions<br>- Quality assurance program<br>- Process hazard analysis (PHA) results and implementation<br>- Waste management system design, construction, monitoring, and contingency plans<br>- Ore disposition plan (quantity, grade, storage, removal/disposal)<br>- Mining methods and programs<br>- Commissioning plan for installed components |
+| **Prepare Site & Construct Mill** | - Proposed mill design<br>- Construction program and schedule<br>- Equipment, systems, and operating conditions<br>- Quality assurance program<br>- PHA results and implementation<br>- Waste management system design, monitoring, construction schedule, and water movement controls<br>- Milling methods and programs<br>- Laboratory facilities and programs<br>- Commissioning plan |
+| **Operate Mine** | - Commissioning results<br>- Description of structures, systems, and equipment (updated post-commissioning)<br>- Operating and maintenance policies<br>- Methods for handling, storing, loading, and transporting nuclear and hazardous substances |
+| **Operate Mill** | - Commissioning results<br>- Description of structures, systems, and equipment (updated)<br>- Operating and maintenance policies<br>- Handling, storing, and loading of concentrates and uranium-bearing materials (solid/liquid)<br>- Operating schedule<br>- Daily/annual capacity, feed recovery, and tailings composition<br>- Operation of waste management system |
+| **Decommission Mine/Mill** | - Decommissioning schedule (start/end dates, rationale)<br>- Assets affected (structures, equipment, substances)<br>- Decommissioning methods and programs<br>- Final state of the site after decommissioning |
+| **Abandon Mine/Mill** | - Public notification program on environmental and health impacts of abandonment<br>- Results of decommissioning work<br>- Environmental monitoring results |
+
+---
+
+#### **5. Review Process and Timelines**
+
+- The **Canadian Nuclear Safety Commission (CNSC)** must:
+  - Determine within **60 days** of receiving an application whether it contains sufficient detail to begin review.
+  - Issue a **notice of commencement of review** within **5 days** of that determination via:
+    - Written notice (email or mail)
+    - Public posting on the CNSC website.
+- The **decision must be rendered within 24 months** from the date the notice is posted.
+
+> ⚠️ **Exclusions from the 24-month deadline** include:
+> - Time granted for submission of **requested information** (if deemed necessary).
+> - Up to **30 days** after receiving a response to a request for information to verify adequacy.
+> - Time required by **any jurisdiction** (provincial, Indigenous, or federal) to:
+>   - Respond to an offer to consult/cooperate under the *Canadian Environmental Assessment Act, 2012* (CEAA 2012).
+>   - Conduct and complete an environmental assessment (if legally required).
+> - Time required for **adjournment** under Section 14 of CNSC Rules of Procedure.
+
+> ✅ The CNSC must **notify the applicant in writing and publicly** of any excluded periods.
+
+---
+
+#### **6. Operational and Safety Obligations for Licensees**
+
+Every licensee must:
+
+1. **Establish and Maintain Operating Procedures**
+   - Develop, implement, and maintain written procedures for all licensed activities.
+   - Train workers on these procedures.
+   - Conduct regular audits to verify compliance.
+
+2. **Ventilation System Requirements**
+   - Each main fan must have a **warning device** that alerts when it fails.
+   - A designated person must be assigned to **receive and respond** to warnings.
+   - Measures must be in place to **prevent interference** with ventilation systems.
+
+3. **Ventilation Failure Response**
+   - If a ventilation system is not functioning as per licence:
+     - Implement **alternative protective measures** for workers.
+     - Limit work to only what is necessary to restore the system.
+   - Before any restoration work begins, the

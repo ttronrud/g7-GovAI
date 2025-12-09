@@ -1,0 +1,157 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the provided regulation — the *Transportation Safety Board Regulations* (as approved on January 10, 2014), under the authority of the *Canadian Transportation Accident Investigation and Safety Board Act*.
+
+---
+
+## 📚 **Detailed Summary of the Transportation Safety Board Regulations (2014)**
+
+### 🔹 **Overview**
+These regulations, adopted by the **Canadian Transportation Accident Investigation and Safety Board (CTAISB)** and approved by the Governor in Council on January 10, 2014, establish mandatory reporting obligations for key transportation sectors: **aviation, marine (shipping), and pipeline operations**. The purpose is to ensure timely and comprehensive information is available to the Board to investigate incidents and accidents that pose risks to safety, human life, property, or the environment.
+
+The regulations were developed following a public consultation process, with a proposed version published in the *Canada Gazette, Part I*, on September 3, 2011, allowing stakeholders to submit written representations.
+
+---
+
+## 🚨 I. Key Legal Authority and Procedural Background
+
+- **Legal Basis**:  
+  The regulations are made under **sections 31(1), (3)** and **34(1)b** of the *Canadian Transportation Accident Investigation and Safety Board Act* (CTAISB Act).  
+  - Section 34(3) allows for the publication of proposed regulations and provides a reasonable opportunity for public comment.
+  - Sections 31(1) and (3) authorize the Board to make regulations.
+  - Section 34(1)b enables the Board to issue regulations for reporting requirements.
+
+- **Publication & Approval**:  
+  - Proposed regulations were published in *Canada Gazette, Part I*, September 3, 2011.  
+  - Public comment period allowed for stakeholder input.  
+  - Final regulations approved on **January 10, 2014**, by the Governor in Council on the recommendation of the Government.
+
+- **Relevant Statutes**:  
+  - *Canadian Transportation Accident Investigation and Safety Board Act* (S.C. 1989, c. 3; S.C. 1998, c. 20, s. 21)  
+  - *Transportation of Dangerous Goods Act, 1992*  
+  - *Canadian Aviation Regulations*  
+  - *Canada Shipping Act, 2001*  
+  - *National Energy Board Onshore Pipeline Regulations*
+
+---
+
+## 📌 II. Definitions (Core Terminology)
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canadian Transportation Accident Investigation and Safety Board Act*. |
+| **Dangerous Goods** | Same meaning as in the *Transportation of Dangerous Goods Act, 1992*. Includes items with hazardous properties (e.g., flammables, toxic substances). |
+| **Serious Injury** | Defined as any of the following: <br> • Fracture of any bone (excluding fingers, toes, nose) <br> • Lacerations with severe bleeding or damage to nerves, muscles, or tendons <br> • Injury to an internal organ <br> • Second/third-degree burns affecting >5% body surface <br> • Verified exposure to infectious substances or injurious radiation <br> • Injury likely to require hospitalization |
+| **UN Number** | Standardized identifier for dangerous goods, as defined in *Transportation of Dangerous Goods Regulations*. |
+| **Air Traffic Services** | As defined in *Canadian Aviation Regulations*, subsection 101.01(1). Includes air traffic control, flight services, and related personnel. |
+| **Collision** | Impact not part of normal operations — between aircraft, ships, or between a vehicle and terrain/object. |
+| **Loss of Separation** | When two aircraft come within the minimum separation distance defined in the *Canadian Domestic Air Traffic Control Separation Standards*. |
+| **Risk of Collision** | A situation where an aircraft or vessel comes so close to colliding that a threat to safety exists. |
+| **Operation** | Activities from when a person boards an aircraft, ship, or rail vehicle until disembarkation (for aviation and maritime), or while in active use (rail). |
+| **Operator / Owner** | As defined in *Canadian Aviation Regulations* and *Canada Shipping Act*. Operator may differ from owner. |
+| **Pleasure Craft** | Non-commercial vessels used for recreational purposes. |
+| **Radio Ship Reporting Station** | Includes Canadian Coast Guard stations, Marine Communications and Traffic Services Centres, St. Lawrence Seaway stations, or harbour radio stations. |
+| **HVP / LVP** | High and Low Vapour Pressure hydrocarbons as defined in **CSA Z662** (Canadian Standards Association standard for pipeline systems). |
+| **Safety Zone** | *Repealed* by SOR/2018-258, section 3. No longer applies. |
+
+> Note: All definitions are consistent with existing federal regulations to ensure clarity and interoperability across sectors.
+
+---
+
+## 🛩️ III. Aviation Occurrence Reporting Requirements
+
+### ✅ Who Must Report?
+The following individuals must report aviation occurrences:
+- Owner
+- Operator
+- Pilot-in-command
+- Any crew member
+- Any person providing air traffic services with direct knowledge of the occurrence
+
+### ✅ When Must Reporting Occur?
+Reporting is required **if the occurrence results directly from the operation of an aircraft** and meets one of the following criteria:
+
+#### 🔹 **Accidents** (Require immediate reporting)
+1. A person is killed or sustains a **serious injury** due to:
+   - Being on board the aircraft
+   - Coming into direct contact with any part of the aircraft (including detached parts)
+   - Direct exposure to jet blast, rotor downwash, or propeller wash
+2. The aircraft sustains **structural failure or damage** that:
+   - Adversely affects structural strength, performance, or flight characteristics
+   - Requires major repair or replacement of components  
+   *(Exemptions apply for engine failure limited to engine, cowlings, accessories; or minor damage to propellers, tires, fairings, skin dents/punctures)*
+3. The aircraft is **missing or inaccessible**
+
+#### 🔹 **Incidents** (Require reporting for aircraft >2,250 kg or operating under Part VII of Canadian Aviation Regulations)
+These include:
+- Engine failure or precautionary shutdown
+- Power train transmission gearbox malfunction
+- Smoke or fire detected on board
+- Difficulties in controlling the aircraft due to:
+  - System malfunctions
+  - Weather phenomena
+  - Wake turbulence
+  - Uncontrolled vibrations
+  - Operations outside flight envelope
+- Aircraft fails to remain within intended landing/take-off area
+- Lands with landing gear retracted or drags wing tip, engine pod, or other part
+- Crew member physically incapacitated and unable to perform duties (threatens safety)
+- Depressurization requiring emergency descent
+- Fuel shortage requiring diversion or priority landing
+- Refueling with incorrect or contaminated fuel
+- Collision, risk of collision, or loss of separation
+- Crew declares emergency requiring priority handling
+- Unintentional or precautionary release of slung load
+- Any **dangerous goods released** in or from the aircraft
+
+---
+
+### 📝 Required Information in Report (for all aviation occurrences)
+1. Type, model, nationality, and registration marks of the aircraft  
+2. Name of owner, operator, pilot-in-command, and (if applicable) hirer  
+3. Last point of departure and intended destination (date/time of departure)  
+4. Date and time of occurrence  
+5. Name of person providing air traffic services involved  
+6. Number of crew, passengers, and others involved; number killed or with serious injuries  
+7. Location of occurrence (geographical point or latitude/longitude)  
+8. Description of the occurrence and resulting damage to environment and aircraft/property  
+9. List of dangerous goods carried or released (shipping name, UN number, consignor/consignee)  
+10. If aircraft is missing/inaccessible:
+   - Last known position (with date/time)
+   - Actions taken/planned to locate or access aircraft  
+11. Description of protective actions taken or planned (for persons, property, environment)  
+12. Name, title, phone number, and address of reporter  
+13. Any other information the Board requires
+
+---
+
+### ⏱️ Reporting Timelines
+- **Immediately** (as soon as possible, by quickest means):  
+  All information available at time of occurrence  
+- **Within 30 days** after the occurrence:  
+  Remaining information becomes available
+
+> **Exception**: The Board and reporting parties may enter into an agreement for non-urgent occurrences (e.g., low-risk incidents) regarding format and timeframes.
+
+> **Exemption Clause**:  
+> If a person reports information to the Board, **other members of the same company or organization** are exempt from reporting the same information.  
+> This reduces duplication and streamlines reporting for corporate entities.
+
+---
+
+## 🚢 IV. Marine (Shipping) Occurrence Reporting Requirements
+
+### ✅ Who Must Report?
+- Operator (not necessarily owner)
+- Master of the ship
+- Ship’s pilot
+- Crew members
+- Harbour master
+- Any person with direct knowledge of a marine occurrence
+
+> **Note**: In the case of a ship being towed, the **towing vessel’s operator and master** are also responsible.
+
+---
+
+### ✅ When Must Reporting Occur?
+Mandatory reporting applies when any of the following marine occurrences happen:
+
+1. A person is killed or sustains a **serious injury** due

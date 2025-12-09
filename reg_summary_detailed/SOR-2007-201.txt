@@ -1,0 +1,132 @@
+Certainly. Below is a **detailed and structured summary** of the provided regulation, including its context, purpose, key provisions, and implications:
+
+---
+
+### **Regulatory Summary: Agricultural Product Priority Claim (Banks) Regulations**
+
+#### **1. Legal Authority and Source**
+- **Enacted by**: Her Excellency the Governor General in Council  
+- **On the recommendation of**: The Minister of Finance  
+- **Based on**:  
+  - Subparagraph **427(7)(b)(ii)a** of the *Bank Act*  
+  - **Section 978b** of the *Bank Act*  
+- **Statutory References**:  
+  - S.C. 1997, c. 15, s. 47(1)  
+  - S.C. 2005, c. 54, s. 135  
+  - S.C. 1991, c. 46  
+
+> This regulation establishes the method for determining the **prescribed amount** used in assessing **priority claims** for agricultural products in the context of bankruptcy proceedings involving banks.
+
+---
+
+#### **2. Purpose of the Regulation**
+The primary objective of these regulations is to ensure **fair and consistent valuation** of agricultural product claims in bankruptcy cases involving financial institutions (banks). Specifically:
+
+- To define how the **"prescribed amount"** — a key threshold in determining the priority of claims — is calculated based on **historical and adjusted farm product price indices**.
+- To provide a **transparent, formula-based approach** for calculating this amount, especially in light of changes to the base of the Farm Product Price Index after April 25, 2001.
+
+This helps protect the interests of agricultural producers and ensures that claims related to agricultural products receive appropriate priority in insolvency proceedings.
+
+---
+
+#### **3. Key Provision: Definition of the Prescribed Amount**
+
+The **prescribed amount** is determined using a formula tied to the **Canadian Farm Product Price Index (FPPPI)**, published by **Statistics Canada**.
+
+##### **Formula Overview**:
+Let:
+- **A** = the prescribed amount  
+- **F** = the value of the most recent annual Farm Product Price Index for Canada (the "annual Index") at the time of the bankruptcy order or claim  
+- **B** = a base amount that adjusts over time based on changes to the index  
+
+> The prescribed amount (**A**) is calculated as follows:
+
+> **A = B × (F_after / F_before)**  
+> (Where F_after and F_before refer to the index values immediately before and after an adjustment)
+
+But more precisely, the regulation defines **B** in two parts:
+
+---
+
+##### **Case 1: No Adjustment After April 25, 2001**
+- If the annual Farm Product Price Index has **not been adjusted or re-established** on a revised base after **April 25, 2001**, then:
+  > **B = $1,322**
+
+> This fixed value serves as the base amount for claims where the index has remained unchanged since the reference date.
+
+---
+
+##### **Case 2: Adjustments or Re-establishments After April 25, 2001**
+- If the index has been **adjusted or re-established** on a revised base **after April 25, 2001**, then **B** is recalculated for each such adjustment.
+
+> For each adjustment:
+> - **First adjustment**: B = $1,322  
+> - **Each subsequent adjustment**: B = the value of B determined in the **previous adjustment**
+
+> To compute the new B value after an adjustment:
+> - Let:
+>   - **F_before** = the value of the most recent annual index **immediately before** the adjustment  
+>   - **F_after** = the value of the most recent annual index **immediately after** the adjustment  
+> - Then:  
+>   **New B = B_previous × (F_after / F_before)**  
+> - The result is **rounded up to the nearest dollar**
+
+> This ensures that the base amount **adjusts proportionally** to changes in the price index, reflecting real-world price fluctuations in agricultural markets.
+
+---
+
+#### **4. Practical Application in Bankruptcy Claims**
+
+- When a bank or creditor files a claim in a bankruptcy proceeding involving an agricultural product:
+  - The claimant must determine the **value of the most recent Farm Product Price Index** at the time the bankruptcy order or claim is made.
+  - Using the formula above, the **prescribed amount (A)** is calculated.
+  - This amount serves as a **priority threshold** — for example, to determine whether a claim for agricultural products is entitled to priority over other unsecured claims.
+
+> This mechanism ensures that claims tied to agricultural products are not unfairly disadvantaged due to inflation or deflation in farm prices.
+
+---
+
+#### **5. Regulatory Timeline and Effective Date**
+
+- **Date of Coming Into Force**: **October 1, 2007**  
+- This means that all calculations of the prescribed amount under this regulation must be based on the formula and index values as defined from that date onward.
+
+> The regulation supersedes earlier versions and updates the methodology to account for post-2001 index adjustments.
+
+---
+
+#### **6. Key Implications and Rationale**
+
+| Aspect | Explanation |
+|-------|-------------|
+| **Transparency** | The formula is clear and publicly accessible, allowing stakeholders (creditors, farmers, banks) to understand how priority claims are determined. |
+| **Inflation Adjustment** | The system adjusts the base amount (B) to reflect real changes in agricultural prices, preventing claims from being devalued due to inflation or deflation. |
+| **Historical Consistency** | The $1,322 base value was likely chosen to represent a benchmark from a pre-2001 period (possibly 1990–1995), providing a stable anchor point. |
+| **Fairness to Farmers** | By linking claim priority to actual market prices, the regulation protects agricultural producers who may face declining prices or market volatility. |
+| **Regulatory Clarity** | Avoids ambiguity in bankruptcy proceedings by defining a precise, rule-based method for calculating priority claims. |
+
+---
+
+#### **7. Limitations and Considerations**
+
+- The regulation applies **only to claims involving agricultural products** and is specific to **bankruptcy proceedings** involving banks.
+- It does **not apply to all types of claims** or to non-agricultural assets.
+- The value of the Farm Product Price Index must be obtained from **Statistics Canada** — the official source — and must be the most recent annual index published at the time of the claim.
+- The formula assumes **linear proportional adjustment**; it does not account for structural changes in the agricultural sector or supply chain disruptions.
+
+---
+
+### ✅ Conclusion
+
+The **Agricultural Product Priority Claim (Banks) Regulations** provide a **clear, formula-driven method** for determining the prescribed amount used in bankruptcy claims involving agricultural products. By linking the priority threshold to the Canadian Farm Product Price Index and adjusting it proportionally for index revisions after April 25, 2001, the regulation ensures that agricultural claims are fairly valued in light of real market conditions.
+
+This enhances **fairness, transparency, and consistency** in financial resolution processes, particularly for farmers and agricultural businesses facing insolvency.
+
+> **Effective Date**: October 1, 2007  
+> **Key Formula**:  
+> - If no adjustment after April 25, 2001 → B = $1,322  
+> - After adjustment → B = previous B × (F_after / F_before), rounded up to nearest dollar
+
+---
+
+This regulation remains a critical tool in Canada’s financial and agricultural policy framework, balancing the need for creditor protection with the economic realities faced by agricultural producers.

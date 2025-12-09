@@ -1,0 +1,150 @@
+Certainly. Below is a **detailed, structured summary** of the **Passport and Other Travel Document Services Fees Regulations**, S.C. 2004, c. 6 (as amended and in force as of the provided text), including its legal basis, key definitions, fee structure, adjustment mechanisms, exemptions, and enforcement provisions.
+
+---
+
+## 🔍 **Detailed Summary of the Passport and Other Travel Document Services Fees Regulations**
+
+### 📚 **Legal Basis and Authority**
+The regulations are made under the following statutes:
+- **User Fees Act** (S.C. 2004, c. 6): Governs the application of user fees for services provided by government departments.
+- **Financial Administration Act** (S.C. 1991, c. 24, s. 6 and s. 7(2)) and **R.S. c. F-11** (Passport Regulations): Provide the legal authority for setting, adjusting, and managing fees for passport and travel document services.
+
+The Governor in Council, on the recommendation of the **Minister of Citizenship and Immigration** and the **Treasury Board**, enacted these regulations pursuant to:
+- **Paragraph 19(1)(a)(b)** of the Financial Administration Act (authority to set fees for services)
+- **Section 19.2b** and **subsection 23(2.1)(c)** of the Financial Administration Act (provisions for fee adjustments and public interest considerations)
+
+> ✅ **Purpose**: To establish transparent, fair, and publicly accountable fees for services related to the issuance, replacement, and delivery of Canadian passports and other travel documents.
+
+---
+
+## 📌 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Base Year** | The most recent of: <br> - The reference year of the last fee adjustment under section 4 or 6; <br> - The fiscal year beginning April 1, 2013. |
+| **Reference Year** | The fiscal year immediately preceding the year in which the fee adjustment is calculated. |
+| **Minister** | The Minister of Citizenship and Immigration (responsible for administering the passport program). |
+| **Fiscal Year** | The period from April 1 to March 31. |
+
+---
+
+## 💳 Fee Structure and Application
+
+### 1. **General Rule (Section 2)**
+Every person requesting a service listed in **Column 1 of the Schedule** must pay the corresponding fee in **Column 2**.
+
+> Example: A request for a new passport triggers a fee based on the service type, delivery location, and validity period.
+
+---
+
+### 2. **Replacement of Lost or Stolen Documents (Section 3)**
+- If a person requests to replace a **lost or stolen passport or travel document**, they are **deemed to have requested service item 14**.
+- The **fee for item 14 applies in addition** to any applicable fee from items 1–6, 9, or 10.
+
+> 🔍 This ensures that replacement services are priced separately and fairly, reflecting the administrative burden involved.
+
+---
+
+### 3. **Extended Hours Service Fees (Item 8)**
+If a government office must open **outside normal business hours** to fulfill a request (e.g., for urgent travel), the person must pay an **additional fee** set out in **item 8 of the schedule**.
+
+> 💡 This compensates for operational costs during non-standard hours.
+
+---
+
+### 4. **Fee Increase for Passport Retention (Section 4)**
+When a person requests a passport replacement **and also wishes to retain their original valid passport** during processing:
+- The applicable fee is **increased by $45**.
+
+> 📝 Rationale: Covers the administrative and security cost of retaining a valid document during processing.
+
+---
+
+### 5. **Exemptions from Fees (Section 5)**
+
+No fee is payable in the following cases:
+- For a **destitute person**.
+- For a **child under 16 years of age** or a **mentally incompetent person living in an institution abroad**.
+- For the **issuance of an emergency travel document** to return a Canadian citizen who has been deported.
+
+> ✅ These exemptions reflect humanitarian and public interest considerations.
+
+---
+
+### 6. **Humanitarian Travel Exemption (Section 6)**  
+If a person requests a service (e.g., passport) to travel **outside Canada** in support of a humanitarian operation (e.g., disaster relief, conflict response):
+- The **fees under paragraphs 7(a) and (b)** and **item 8** are waived **if**:
+  - The person provides an **official document** from an **appropriate authority** (e.g., UN, Red Cross, NGO) confirming participation in the operation.
+
+> 🌍 Example: A doctor working in a refugee camp after a natural disaster may be exempted.
+
+---
+
+## 🔁 Fee Adjustment Mechanism (Sections 4–7)
+
+Fees are adjusted annually to reflect **cost changes** incurred by the government in delivering services.
+
+### A. **Adjustment for Domestic Mail/Courier Services (Subsection 4)**  
+Applies to fees for sending passports **within Canada**.
+
+#### Formula:
+$$
+\text{Adjustment} = \left( \frac{C_{\text{ref}} - C_{\text{prev}}}{N_{\text{ref}} - N_{\text{prev}}} \right) \times \left( \frac{N_{\text{ref}}}{N_{\text{prev}}} \right) \times \left( \frac{E_{\text{ref}} - E_{\text{prev}}}{N_{\text{ref}} - N_{\text{prev}}} \right) + \text{adjustment from other bodies}
+$$
+
+Where:
+- $ C_{\text{ref}} $: External cost (in constant dollars) to send documents by mail/courier in the **reference year**
+- $ N_{\text{ref}} $: Number of documents sent in the reference year
+- $ C_{\text{prev}} $: Cost in the year **before** the reference year
+- $ N_{\text{prev}} $: Number of documents sent in the prior year
+- $ E_{\text{ref}} $: Cost to other government bodies (e.g., DFAIT) for passport delivery
+- $ E_{\text{prev}} $: Same cost in prior year
+- $ N_{\text{ref}}^{(other)} $: Passports issued via other bodies in the reference year
+- $ N_{\text{prev}}^{(other)} $: Same in prior year
+- $ A $: Cumulative adjustments since base year (adjusted for subsection 4)
+
+#### Key Rules:
+- **No adjustment** if the result is between **–$1 and +$1** (after rounding).
+- If a fraction of a dollar results, it is **rounded up to the nearest dollar**.
+- All adjustments are applied **proportionally** to other fees.
+
+---
+
+### B. **Adjustment for International Mail/Courier Services (Subsection 6)**  
+Applies to fees for sending passports **outside Canada**.
+
+#### Formula:
+$$
+\text{Adjustment} = \left( \frac{C_{\text{ref, intl}} - C_{\text{prev, intl}}}{N_{\text{ref, intl}} - N_{\text{prev, intl}}} \right) \times \left( \frac{N_{\text{ref, intl}}}{N_{\text{prev, intl}}} \right) \times \left( \frac{E_{\text{ref, DFAIT}} - E_{\text{prev, DFAIT}}}{N_{\text{ref, DFAIT}} - N_{\text{prev, DFAIT}}} \right) + \text{adjustment from other bodies}
+$$
+
+Where:
+- $ C_{\text{ref, intl}} $: Cost to send passports abroad (in constant dollars)
+- $ N_{\text{ref, intl}} $: Number of documents sent abroad
+- $ E_{\text{ref, DFAIT}} $: Cost to DFAIT for international delivery
+- $ E_{\text{prev, DFAIT}} $: Cost in prior year
+- $ N_{\text{ref, DFAIT}} $: Passports issued via DFAIT in reference year
+- $ N_{\text{prev, DFAIT}} $: Same in prior year
+
+#### Key Rules:
+- **No adjustment** if the result is between **–$3 and +$3**.
+- Rounded up to nearest dollar if fractional.
+- Adjustments are **proportional** to other fees.
+
+---
+
+### C. **Proportional Adjustments to Other Fees (Section 7)**  
+When the base fee (1(a)(i) or 1(b)(i)) is adjusted, the following fees are **automatically adjusted**:
+
+| Fee | Adjustment Rule |
+|-----|------------------|
+| 1(a)(ii) & Item 5 | Set to **70%** of the adjusted 1(a)(i) fee |
+| 2(a) & Item 6 | Set to **60%** of the adjusted 1(a)(ii) fee |
+| Item 3 | Adjusted by **same amount** as 1(a)(i) |
+| Item 4 | Set to **60%** of the adjusted Item 3 fee |
+
+> ⚠️ This ensures a **systematic and consistent** fee structure across services.
+
+---
+
+### D. **Constant Dollars Adjustment (Section 8)**

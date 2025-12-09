@@ -1,0 +1,167 @@
+The regulation you provided appears to be a **repealed or revoked version** of a former Canadian fisheries regulation, specifically from the *Coastal Fisheries Protection Regulations* (SOR/82-771, SOR/93-62, etc.), and is **no longer in force**. This is clearly indicated by multiple references to **"Revoked"** or **"Repealed"** throughout the text.
+
+---
+
+## 🔍 Detailed Summary of the Repealed Regulation
+
+> **Note:** This document is **not currently active**. It was officially repealed and replaced by newer regulations, as noted in the citation:  
+> `[Repealed, SOR/2017-58, s. 2]`  
+> This means that the entire regulation was formally removed from the legal framework on or after the date specified in *SOR/2017-58*, section 2.
+
+---
+
+### 📌 1. **Definitions and Key Terms**
+
+The regulation begins with a series of definitions used throughout the text. Many of these terms have been **revoked or replaced** due to changes in policy, technology, or governance:
+
+| Term | Meaning | Status |
+|------|--------|--------|
+| **Blackcod trap/pot**, **sablefish trap/pot**, **purse seine net**, **set-line**, **statistical area**, **authorized topside chafer**, **extension measure**, **quota**, **quota period**, **quota table**, **Regional Director-General** | Various fishing gear, species, or administrative terms | ❌ **Revoked** |
+| **Cod-end** | Bag-like extension of a trawl net to retain catch | Still used in modern terms, but not defined here |
+| **Midwater trawl** | Trawl that does not touch the seabed | Still relevant concept |
+| **Mesh size** | Measured by wedge gauge (trawl) or diagonal distance (other nets) | Definition preserved |
+| **Fishing Zone 3, 4, 5, 6** | Specific geographic zones in Canadian waters | Still relevant in current system |
+| **Flag state** | Country where a foreign vessel is registered | Still in use |
+| **Foreign fishing vessel** | Vessel not engaged in scientific research | Still in use |
+| **Stock area** | Area where a fish population is managed | Still in use |
+| **Subarea / Subdivision / Sub-Zone** | Geographic subdivisions for management | Still in use |
+| **Length (swordfish)** | From lower jaw to tail fork | Specific to swordfish |
+| **Year** | Calendar year | Still used |
+
+> ⚠️ **Important**: Many definitions were revoked (e.g., "finfish", "incidental catch", "quota") because they were outdated or superseded by more modern regulations.
+
+---
+
+### 📌 2. **Scope of Application**
+
+#### Applies to:
+- Foreign fishing vessels (not engaged exclusively in scientific research)
+- Crew members, employees, or those attached to such vessels
+
+> ✅ Applies to **Canadian fisheries waters adjacent to the Atlantic coast** (Part I)  
+> ✅ Also applies to **Pacific coast waters** (Part II)
+
+---
+
+### 📌 3. **Prohibited Fishing Activities (Prohibition by Time, Location, Species)**
+
+#### A. **Close Time Restrictions (by Flag State and Stock Area)**
+- No person on board a foreign vessel from a flag state listed in **Schedule II (Atlantic)** may fish for species listed in **Schedule X** in a **specific stock area** during the **close time** specified in that schedule.
+- Each **flag state has its own close time** — meaning restrictions are **not uniform** across all foreign vessels.
+- Example: A vessel from Norway may be banned from fishing for a certain species in a specific zone during winter months, while a vessel from Japan may have different restrictions.
+
+> 🔍 This is a **targeted conservation measure** to protect vulnerable stocks during spawning or migration periods.
+
+#### B. **Prohibitions on Squid Jigger Fishing**
+- **No squid jigger fishing** in:
+  - **Subarea 3**: December 30 – December 31
+  - **Subarea 4**: December 30 – December 31  
+> (Likely to protect spawning or seasonal squid populations)
+
+#### C. **Prohibitions on Trawl Net Use for Certain Species**
+- In **Division 4VWX**, **no trawling for squid, silver hake, or Argentine** unless within a defined portion bounded by specific coordinates.
+
+> This restricts fishing to **only safe, sustainable zones** to prevent overfishing in sensitive areas.
+
+---
+
+### 📌 4. **Incidental Catch Limits**
+
+#### General Rule:
+- If a person is fishing for one species, they may retain an **incidental catch** of another species **only if**:
+  - The quantity does **not exceed** a defined **fishing quota**.
+  - The quota varies by species and location.
+
+| Species | Quota Limit |
+|--------|-------------|
+| Haddock | 1% of total weight in Division 4VW, 4X, or Subarea 5 |
+| Cod (in Division 4X) | 1% |
+| Other species (not listed) | 10% |
+
+> ❗ **Exception**: If the vessel has a valid **annual fishing plan** (issued by the Minister), and the fishing days have not been fully utilized, **section 9 does not apply** — meaning incidental catch limits are waived.
+
+> This encourages **efficient use of fishing days** and prevents overfishing in underutilized zones.
+
+---
+
+### 📌 5. **Minimum Size and Weight Limits (for Protection of Juveniles)**
+
+| Species | Minimum Size/Weight | Exception |
+|--------|---------------------|---------|
+| **Swordfish** | Must be **≥125 cm** in length | If caught **incidentally** while targeting larger swordfish, up to **15% of longer swordfish** may be retained |
+| **Bigeye tuna** | Must weigh **≥3.2 kg** | Incidental catch allowed up to **15% of larger fish** |
+| **Yellowfin tuna** | Must weigh **≥3.2 kg** | Incidental catch allowed up to **15% of larger fish** |
+| **Bluefin tuna** | Must weigh **≥30 kg** | No exception provided |
+
+> These rules are designed to **protect breeding stock** and ensure sustainable harvests.
+
+---
+
+### 📌 6. **Gear Restrictions (by Species and Zone)**
+
+#### Pacific Hake (in Sub-Zones 5-1 and 5-2):
+- Incidental catch limits:
+  - **No more than 20% of total Pacific hake weight**
+  - Walleye pollock: ≤10%
+  - Rockfish: ≤2%
+  - Pacific cod & ling cod: ≤1%
+  - Sablefish: ≤1%
+
+> Prevents bycatch of non-target species and protects vulnerable populations.
+
+#### Trawl Net Mesh Size Requirements:
+- **Pacific hake trawls**:
+  - Cod-end: **76 mm to 100 mm**
+  - Other parts: **≥89 mm**
+- **All other species**:
+  - Trawls must have **≥89 mm mesh** in all parts
+
+> These mesh sizes help **avoid catching juvenile fish**, reducing mortality in early life stages.
+
+---
+
+### 📌 7. **Inspection and Equipment Compliance**
+
+#### Fishery Officers May:
+- **Place numbered marks/seals** on inspected gear
+- **Issue a certificate of inspection** if gear is in compliance
+- **Seals must not be removed or tampered with** while vessel is in Canadian waters
+
+> This ensures **transparency, accountability, and compliance** with gear standards.
+
+---
+
+### 📌 8. **Vessel and Gear Separation Requirements**
+
+- A foreign vessel must maintain a **minimum distance of 1/2 nautical mile** between:
+  - Its own vessel
+  - Any attached gear or equipment
+  - Any **set fishing gear** (defined as gear anchored, drifting, or attached to vessel)
+
+> Prevents **accidental collisions**, **gear entanglement**, and **interference with navigation**.
+
+---
+
+### 📌 9. **Geographic Definitions (Sub-Zones in Pacific Fisheries)**
+
+#### Sub-Zone 5-1A:
+- East of a line from:
+  - 49°00′N, 126°15′W → 48°30′N, 125°55′W → intersects outer perimeter of Fishing Zone 5 at 48°21.2′N, 125°20.85′W
+
+#### Sub-Zone 5-1B:
+- West of 5-1A, east of a line from:
+  - 49°00′N, 126°15′W → 48°30′N, 126°00′W → south to outer perimeter of Fishing Zone 5
+
+#### Sub-Zone 5-2:
+- South of 49°23′N latitude, **excluding** Sub-Zone 5-1
+
+> These precise boundaries allow **zone-specific management** of fish stocks in the Pacific.
+
+---
+
+## 🔍 Key Policy Objectives (Historical Context)
+
+This regulation was designed to:
+1. **Protect vulnerable fish stocks** through time-based closures and size/weight limits.
+2. **Prevent overfishing** via gear restrictions (mesh size, gear type).
+3.

@@ -1,0 +1,183 @@
+**Detailed Summary of the Canada Deposit Insurance Corporation (CDIC) Resolution Planning By-law**
+
+---
+
+### **Overview**
+
+The **Canada Deposit Insurance Corporation (CDIC) Resolution Planning By-law**, adopted on **March 6, 2019**, and approved by the Minister of Finance on **April 10, 2019**, establishes a comprehensive regulatory framework for **domestic systemically important banks (D-SIBs)** to develop, maintain, and submit **resolution plans**. These plans are designed to ensure that, in the event of a bank failure, the financial system remains stable by enabling a **smooth, orderly resolution**—without causing widespread disruption or requiring public financial assistance.
+
+This by-law is grounded in **section 11(2)(e)a and 11(2.01)c** of the *Canada Deposit Insurance Corporation Act* (CDICA), and it came into force on **May 15, 2019**, following the implementation of *Budget Implementation Act, 2017, No. 1*.
+
+---
+
+## **Key Definitions**
+
+The by-law introduces several critical definitions to clarify scope and application:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Deposit Insurance Corporation Act* (CDICA). |
+| **Bank Group** | Includes a domestic systemically important bank and its affiliates, any entity in which it has a substantial investment (as defined under the *Bank Act*), and any business enterprise operated jointly with others (e.g., joint ventures or special purpose vehicles). |
+| **Critical Function** | An activity performed by a bank group entity for non-affiliated persons; its failure would adversely affect financial system stability or economic functioning in Canada. |
+| **Critical Shared Service** | A shared service (internal or external) supporting one or more business units; its failure would lead to cessation or material risk to critical functions. |
+| **Material Change** | Any significant change in the bank group’s legal structure, operations, critical functions/services, material legal entities, or applicable laws/regulations that requires updating the resolution plan. |
+| **Material Legal Entity** | A legal entity or branch within the bank group that meets at least one of the following: <br> - Performs a critical function or shared service; <br> - Cessation of operations would prevent implementation of the resolution strategy; <br> - Is a member institution. |
+| **Resolution** | The exercise of powers under paragraph 7(d) of the CDICA (or equivalent powers by foreign authorities). |
+| **Resolution Plan** | A domestic systemically important bank’s plan outlining how its bank group will be resolved in a way that preserves financial stability. |
+
+---
+
+## **Core Requirements for Resolution Plans**
+
+All resolution plans must be submitted to CDIC under **section 39.01 of the CDICA** and must include the following components:
+
+1. **Description of Critical Functions**  
+   A detailed list of all activities that serve customers outside the bank group and whose failure would threaten financial system stability.
+
+2. **Description of Critical Shared Services**  
+   Identification of shared services (internal or outsourced) essential to maintaining critical functions.
+
+3. **Description of Material Legal Entities**  
+   A full listing of entities within the bank group that qualify as material legal entities based on their role in operations or risk profile.
+
+4. **Resolution Strategy (Must Meet Section 5 Requirements)**  
+   A clear, actionable plan for resolving each member institution, including:
+   - How CDIC will resolve member institutions while preserving critical functions.
+   - How non-member material legal entities can:
+     - Continue operating;
+     - Be wound down or disposed of without disrupting critical functions; or
+     - Be placed in orderly insolvency or resolved without systemic harm.
+   - How the bank group’s profile and operations can be reduced through divestitures or wind-downs with **minimal adverse effect on financial stability**.
+
+5. **Assessment of Legal Structure, Operations, and Financial Arrangements**  
+   How the bank group’s structure and financial arrangements support the resolution strategy.
+
+6. **Minimization of Public Financial Assistance**  
+   An assessment showing how the resolution strategy limits reliance on public funds and ensures:
+   - Sufficient **loss-absorbing capacity**;
+   - Adequate **liquidity**;
+   - Access to **funding** for material legal entities during resolution.
+
+7. **Regulatory Requirements**  
+   - A list of regulators involved.
+   - Summary of applicable regulatory requirements.
+   - Description of how those requirements will be met in a way that supports resolution.
+
+8. **Material Contractual Arrangements**  
+   A list of key contracts and how they will be managed during resolution to avoid disruption.
+
+9. **Governance, Operational Capabilities, and Information Systems**  
+   How the bank’s governance, operational resilience, and IT infrastructure support effective resolution.
+
+10. **Impediments to Implementation**  
+   Identification of any obstacles (e.g., legal, operational, or contractual) and their potential impact on:
+   - CDIC’s ability to carry out resolution;
+   - Continuity of critical functions.
+
+11. **Work Plan**  
+   A detailed schedule outlining:
+   - Activities for maintaining, validating, and testing the resolution plan;
+   - How material changes will be accounted for;
+   - Remedial actions and timelines to address deficiencies.
+
+---
+
+## **Governance and Oversight Requirements**
+
+### **Board Approval Requirement**
+- Any resolution plan must first be approved by the **bank’s board of directors** or a **delegated committee** (unless otherwise specified by CDIC).
+
+### **Maintenance and Testing Obligations**
+- Banks must establish and enforce **policies and procedures** to:
+  - Maintain, test, and regularly review the resolution plan;
+  - Ensure alignment with current legal, financial, regulatory, and operational realities;
+  - Update the plan in response to material changes.
+
+### **Reporting to CDIC**
+- Banks must provide CDIC with:
+  - A copy of their **policies and procedures**;
+  - A **summary of maintenance and testing activities** upon request.
+
+---
+
+## **Material Change Notification and Reporting**
+
+### **Trigger for Notification**
+- A bank must **notify CDIC immediately** upon occurrence of a **material change**.
+
+### **Material Change Report (MCR)**
+Upon request, the bank must submit a **material change report** within **30 days** (or a longer period if specified by CDIC), containing:
+- A brief description of the material change;
+- References to the sections of the resolution plan affected;
+- The bank’s plan and schedule for updating the resolution plan.
+
+> **Note**: The plan for addressing the material change must be included in the bank’s **work plan for the next resolution plan submission**.
+
+---
+
+## **CDIC Review and Compliance Determination**
+
+After receiving a resolution plan, CDIC must issue a written determination on compliance:
+
+| Outcome | Description |
+|--------|-------------|
+| **Compliant** | The plan fully meets all requirements. |
+| **Partially Non-Compliant** | Deficiencies exist but are addressed by an acceptable work plan being substantially followed. |
+| **Materially Non-Compliant** | Deficiencies exist and no acceptable work plan is in place or being substantially implemented. |
+
+CDIC must notify the bank in writing of its decision.
+
+---
+
+## **Revisions and Work Plan Updates**
+
+### **Revised Work Plan (if non-compliant)**
+- Required when deficiencies are identified.
+- Must include:
+  - Remedial actions to address deficiencies;
+  - A clear timeline for completion.
+- Must be **approved by the bank’s board or delegated committee**.
+- Must be submitted in writing **within 30 days** (or as extended by CDIC).
+
+### **Subsequent Revisions**
+- Any further revisions to the work plan must:
+  - Be **agreed to by CDIC**;
+  - First be **approved by the bank’s board or delegated committee** (unless otherwise specified).
+
+---
+
+## **Enforcement and Timeline**
+
+- The by-law comes into force on the day **section 110 of the Budget Implementation Act, 2017, No. 1** comes into force (which was **May 15, 2019**).
+- If the by-law is registered after that date, it takes effect on the **date of registration**.
+
+---
+
+## **Purpose and Objectives**
+
+The primary goals of this by-law are:
+
+1. **Systemic Stability**: To prevent bank failures from triggering broader financial crises.
+2. **Orderly Resolution**: To enable a controlled, predictable, and transparent resolution process that protects critical functions.
+3. **Public Confidence**: To reduce reliance on taxpayer-funded bailouts by ensuring adequate loss-absorption and liquidity.
+4. **Transparency and Accountability**: To ensure that banks regularly assess and update their plans in response to changing conditions.
+5. **Regulatory Alignment**: To align Canada’s resolution planning framework with international standards (e.g., the *Bank Recovery and Resolution Directive* under the Basel III framework).
+
+---
+
+## **Key Takeaways**
+
+| Key Point | Implication |
+|---------|------------|
+| **Resolution plans are mandatory** | All D-SIBs must have and submit a detailed, comprehensive plan. |
+| **Plans must be dynamic** | Regular updates are required due to material changes. |
+| **Critical functions and entities are central** | The focus is on protecting public interests and economic stability. |
+| **Board-level oversight is required** | Ensures accountability and strategic governance. |
+| **CDIC has strong oversight authority** | Can request reports, require revisions, and assess compliance. |
+| **Public funding must be minimized** | Plans must demonstrate self-sufficiency in resolution. |
+
+---
+
+## **Conclusion**
+
+This by-law represents a significant step in Canada’s efforts to strengthen the resilience of its financial system. By mandating robust,

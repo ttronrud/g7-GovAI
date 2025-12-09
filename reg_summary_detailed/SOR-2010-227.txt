@@ -1,0 +1,208 @@
+### **Detailed Summary of the Long-Range Identification and Tracking of Vessels Regulations (Canada)**
+
+---
+
+#### **1. Regulatory Authority and Legal Basis**
+
+The **Long-Range Identification and Tracking of Vessels Regulations** were issued by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Transport**, under **subsection 35(1)a of the Canada Shipping Act, 2001**. This regulatory instrument is part of Canada’s efforts to enhance maritime safety and security through the implementation of international standards.
+
+- **Primary Legal Source**: Canada Shipping Act, 2001 (S.C. 2001, c. 26; S.C. 2005, c. 29, s. 16)
+- **Objective**: To mandate the installation and operation of Long-Range Identification and Tracking (LRIT) systems on eligible vessels to improve vessel monitoring, enhance situational awareness, and support search and rescue, traffic management, and maritime security operations.
+
+---
+
+#### **2. Key Definitions**
+
+The following terms are defined and used throughout the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Cargo Vessel** | A vessel that is not a passenger vessel and has a gross tonnage of 300 or more. |
+| **Passenger Vessel** | A vessel carrying more than 12 passengers. |
+| **International Voyage** | A voyage between ports in two different countries. Excludes voyages solely within the Great Lakes, St. Lawrence River, and their connected waters up to the lower exit of the St. Lambert Lock in Montreal. |
+| **LRIT Equipment** | Information-transmitting technology used to identify and track vessels over long distances. |
+| **LRIT Information** | Data transmitted by LRIT equipment, including vessel identity, position, and time of transmission. |
+| **Minister** | Refers to the Minister of Transport. |
+| **Sea Areas A1–A4** | As defined in Regulation 2.1 of Chapter IV of the International Convention for the Safety of Life at Sea (SOLAS). These areas are classified based on the level of maritime traffic and communication coverage. |
+| **SOLAS** | The International Convention for the Safety of Life at Sea, 1974, and its 1988 Protocol, as amended. |
+
+---
+
+#### **3. Determination of Vessel Construction Date**
+
+For regulatory purposes, the date of construction of a vessel is considered to be the **earliest** of the following:
+
+1. The day the keel is laid  
+2. The day construction begins for a specific vessel  
+3. The day assembly reaches the lesser of:  
+   - 50 tonnes, or  
+   - 1% of the estimated total mass of all structural materials  
+
+This rule ensures that vessels are assessed for compliance based on when construction actually commenced, regardless of when the keel was laid.
+
+---
+
+#### **4. Scope of Application**
+
+These regulations apply to:
+
+✅ **Canadian vessels** operating **anywhere in the world** if they:
+
+- Are engaged on an **international voyage** (i.e., between two foreign ports), **or**
+- Are **cargo vessels** or **passenger vessels** (defined above)
+
+❌ **Exemptions**:
+
+- **Pleasure craft** (e.g., private yachts, recreational boats)  
+- **Government vessels** (e.g., naval or emergency service vessels operated by federal or provincial governments)
+
+> *Note: Exemptions are narrow and ensure that only vessels involved in commercial or international transport are subject to mandatory LRIT requirements.*
+
+---
+
+#### **5. Responsibility of Authorized Representative**
+
+The **authorized representative** of a vessel (such as the master or operator) is responsible for ensuring that all requirements under **sections 4 to 10** are met. This includes compliance with equipment installation, operation, and record-keeping obligations.
+
+---
+
+#### **6. Mandatory Installation of LRIT Equipment**
+
+Every vessel subject to these regulations must be fitted with **LRIT equipment**.
+
+**Exception**:
+- A vessel operating **exclusively in Sea Area A1** (the most heavily monitored and secure maritime zone) may be exempt **if**:
+  - It is equipped with an **Automatic Identification System (AIS)** that meets the performance standards in **section 118 of the Navigation Safety Regulations, 2020**, and
+  - The AIS is operated in full compliance with those standards.
+
+> *This exemption recognizes that AIS already provides robust tracking capabilities in the most critical maritime areas.*
+
+---
+
+#### **7. Required LRIT Information Transmission**
+
+The LRIT equipment must automatically transmit the following data:
+
+1. **Vessel Identity** (e.g., name, call sign, IMO number)  
+2. **Position** (latitude and longitude)  
+3. **Date and Time of Transmission**
+
+This data is transmitted continuously or at defined intervals to enable real-time tracking and monitoring by maritime authorities.
+
+---
+
+#### **8. Equipment Standards and Approval**
+
+LRIT equipment must meet the **performance standards and functional requirements** set out in:
+
+> *Section 4 of the Revised Performance Standards and Functional Requirements for the Long-Range Identification and Tracking of Ships*,  
+> Annex to **IMO Resolution MSC.263(84)**, as amended from time to time.
+
+**Interpretation Clarifications**:
+- The word **"should"** in the IMO standards is interpreted as **"shall"** (i.e., mandatory, not optional).  
+- The term **"Administration"** in the IMO standards is interpreted as **"Minister of Transport"** (Canada’s equivalent).
+
+> This ensures that Canadian standards align with international best practices and that compliance is strictly enforced.
+
+---
+
+#### **9. Equipment Switching Off (Exceptions)**
+
+LRIT equipment may be switched off under two specific circumstances:
+
+##### **(a) When Protected by International Agreements**
+- If international agreements, rules, or standards require protection of navigational information (e.g., due to national security or sensitive operations), the master may disable the equipment.
+
+##### **(b) In Exceptional Circumstances (Safety/Security Reasons)**
+- The master may switch off the equipment **only** when:
+  - The operation of the LRIT system is believed to compromise the **safety or security** of the vessel.
+  - The decision is made for the **shortest possible duration**.
+
+> *This provision balances operational safety with regulatory compliance.*
+
+##### **Mandatory Actions When Switching Off**:
+- The master must:
+  1. **Immediately inform**:
+     - A **Marine Communications and Traffic Services (MCTS) Centre** of the Canadian Coast Guard  
+     - If the vessel is in international waters, the **relevant maritime authority** of the coastal state
+  2. **Record the reason and duration** in the vessel’s **navigational activities and events record** (as required under section 138 of the Navigation Safety Regulations, 2020)
+
+---
+
+#### **10. Transmission Frequency and Temporary Suspension**
+
+LRIT equipment must be capable of:
+
+- **Reducing transmission frequency** to **once every 24 hours**, or  
+- **Temporarily stopping transmission**  
+
+These options apply in the following situations:
+
+- While the vessel is **undergoing repairs, modifications, or conversions** in dry dock or port  
+- When the vessel is **laid up** (not in active service)
+
+> *Note: The master may act independently, but if directed by the Minister, the action must be carried out.*
+
+##### **Mandatory Record-Keeping When Frequency is Reduced or Transmission Stopped**:
+- The master must:
+  1. **Immediately notify** the Canadian Coast Guard MCTS Centre and, if applicable, the foreign maritime authority  
+  2. **Document in the navigational log**:
+     - The period during which transmission was reduced or stopped  
+     - Whether the Minister directed the action  
+
+> This ensures transparency and accountability in cases where tracking is temporarily suspended.
+
+---
+
+#### **11. System Failure Notification**
+
+If the **Canadian Coast Guard or the Minister** notifies the vessel’s master that:
+
+- A component of the LRIT receiving system has failed, or  
+- A system used to disseminate LRIT data has failed  
+
+→ The master must **immediately record** in the navigational log:
+
+- The **date and time** of the notification
+
+> This helps maintain a complete audit trail of system integrity and performance.
+
+---
+
+#### **12. Electromagnetic Interference Protection**
+
+LRIT equipment must be installed so that it **does not interfere with navigational equipment** (e.g., radar, GPS, sonar).  
+
+> This is a critical safety requirement to prevent operational hazards and ensure that navigation systems remain reliable and functional.
+
+---
+
+#### **13. Type Approval and Certification**
+
+The Minister of Transport has the authority to:
+
+- Issue a **proof of type approval** or a **certificate** for LRIT equipment  
+- Only if the equipment meets the **performance and functional standards** set out in the IMO Resolution MSC.263(84)
+
+> This ensures that only compliant, tested, and safe equipment is allowed on Canadian vessels.
+
+---
+
+#### **14. On-Board Record Keeping Requirements**
+
+The vessel’s master must ensure that the **proof of type approval or certificate** is carried on board in a **readily accessible** manner:
+
+- **Proof of Type Approval**:
+  - Must be either:
+    - A **label securely affixed** to the equipment in a visible location, or  
+    - A **document kept in a readily accessible location**
+- **Certificate**:
+  - Must be kept in a **readily accessible location**
+
+> This ensures that authorities can verify compliance during inspections or audits.
+
+---
+
+#### **15. Effective Date**
+
+These regulations come into force on the **

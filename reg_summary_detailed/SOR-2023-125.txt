@@ -1,0 +1,167 @@
+Certainly. Below is a **detailed, structured summary** of the *Release of Information for Family Orders and Agreements Enforcement Assistance Regulations*, as provided in the text. This summary is organized by key components and sections to ensure clarity, comprehensiveness, and legal accuracy.
+
+---
+
+## 🔍 **Detailed Summary of the Release of Information for Family Orders and Agreements Enforcement Assistance Regulations**
+
+### 📚 **Regulatory Background**
+- **Enacted under**: Section 22a of the *Family Orders and Agreements Enforcement Assistance Act* (FOAEAA).
+- **Governing Act**: *Family Orders and Agreements Enforcement Assistance Act* (Act).
+- **Legal Authority**: The Governor in Council, on the recommendation of the Minister of Justice and with the concurrence of the Minister of Finance, enacted these regulations to establish procedures for the release of personal and financial information to enforce family orders and agreements.
+- **Statutory Reference**: S.C. 2019, c. 16, s. 49; R.S., c. 4 (2nd Supp.)
+
+> ⚠️ **Important Note**: These regulations were **repealed** (annulled) by later amendments (SOR/87-315; SOR/2002-278, s. 1), meaning they are no longer in force. However, the summary below reflects the content *as it existed at the time of enactment*, which may still be relevant for historical or legal reference.
+
+---
+
+## 🔑 Key Definitions and Designations
+
+### 1. **Information Banks**
+These are government databases that may be searched under **Part I** of the FOAEAA to obtain information about individuals or corporations relevant to enforcement of family orders (e.g., child support, parenting, custody, access).
+
+#### ✅ Designated Information Banks:
+| Database | Administered By |
+|--------|----------------|
+| Old Age Security (ESDC PPU 116) | ESDC |
+| Social Insurance Number Investigations and Reviews (ESDC PPU 118) | ESDC |
+| Canada Pension Plan – Record of Earnings (ESDC PPU 140) | ESDC |
+| Canada Pension Plan Program (ESDC PPU 146) | ESDC |
+| Employment Insurance Program Investigation (ESDC PPU 171) | ESDC |
+| Old Age Security Program Investigations and Reviews (ESDC PPU 336) | ESDC |
+| Canada Pension Plan Program Investigations and Reviews (ESDC PPU 649) | ESDC |
+| Insurance Claim File – Local Office (ESDC PPU 150) | ESDC |
+| Employment Insurance Claim Files (ESDC PPU 151) | ESDC |
+| Employment Insurance Bi-Weekly Claimant’s Report (ESDC PPU 155) | ESDC |
+| Interstate Employment Insurance Claims (ESDC PPU 170) | ESDC |
+| Benefit and Overpayment File (ESDC PPU 180) | ESDC |
+| Listing of Employees by Nominal Roll (ESDC PPU 281) | ESDC |
+| Employment Benefits, Support Measures and Other Programs (ESDC PPU 293) | ESDC |
+| Employment Insurance Premium Reduction Program (ESDC PPU 301) | ESDC |
+| Record of Employment (ESDC PPU 385) | ESDC |
+| Social Insurance Number Register (ESDC PPU 390) | ESDC |
+| Employment Insurance Databank (ESDC PPU 501) | ESDC |
+| Individual Returns and Payment Processing (CRA PPU 005) | CRA |
+| T3 Assessment program (CRA PPU 015) | CRA |
+| Corporation Returns and Payment Processing (CRA PPU 047) | CRA |
+| Business Number and Program Account Registration (CRA PPU 223) | CRA |
+| Specialty Business Returns (CRA PPU 224) | CRA |
+
+> These databases contain financial, employment, and benefit-related data used to verify income, employment, and residency for enforcement purposes.
+
+---
+
+### 2. **Information Bank Directors**
+Each information bank is overseen by a designated official:
+
+| Information Bank Group | Director |
+|------------------------|---------|
+| ESDC databases (PPUs 116–390, etc.) | **Minister of Employment and Social Development** |
+| ESDC databases related to EI (PPUs 171, 170, 180, etc.) | **Chairperson of the Canada Employment Insurance Commission** |
+| CRA databases (PPUs 005, 015, 047, 223, 224) | **Minister of National Revenue** |
+
+> These directors are responsible for approving or denying access to information based on legal criteria and privacy protections.
+
+---
+
+## 📝 Application Requirements for Release of Information
+
+All applications under **Part I** of the Act must include the following information:
+
+1. **Applicant Type and Affiliation**:
+   - Indicate whether the applicant is:
+     - An official of a **court**
+     - A **peace officer**
+     - A **provincial enforcement service**
+     - A **provincial child support service**
+     - A **designated authority**
+   - If applicable:
+     - Name of the **court** (for court officials)
+     - Name of the **police force** (for peace officers)
+     - Name of the **service** and name of the **other entity** it is acting on behalf of (under section 6.2)
+     - Name of the **service or authority** (for child support or designated bodies)
+
+2. **Applicant Details**:
+   - Full name of the person completing the application
+
+3. **File Reference**:
+   - Reference number of the file, if applicable
+
+4. **Personal Information of the Individual (Subject of Request)**:
+   - Full name
+   - Date of birth
+   - Gender
+   - Phone number and email address (if known)
+   - Social Insurance Number (SIN), if known
+   - Surnames at birth of parents (if known)
+
+5. **Purpose of the Application**:
+   - Clear statement of why the information is being requested (e.g., enforcement of child support, parenting arrangement, etc.)
+
+6. **Indication of Requested Information**:
+   - Specific data points being sought
+
+7. **Declaration (for certain applicants)**:
+   - For **provincial enforcement services**, **provincial child support services**, or **designated authorities**, a declaration must be made confirming that all information provided is accurate and truthful.
+
+> 🔍 **Additional Requirement for Corporate Control**:
+> If the application relates to a **corporation controlled indirectly** by the named individual, the applicant must provide an explanation of how indirect control is established (e.g., through shares, voting rights, or governance).
+
+---
+
+## 📬 Method of Submission
+
+- Applications must be submitted via:
+  - **Mail** to:  
+    *Department of Justice, Family Law Assistance Services*  
+    Ottawa, Ontario K1A 0H8  
+  - **Electronic communication**, if permitted under an agreement entered into under **Section 3 of the Act** (which applies to the applicant)
+
+> Electronic submission is only allowed if a valid agreement exists between the applicant and the Department of Justice.
+
+---
+
+## 📚 Specific Information Released Based on Purpose
+
+The type of information released depends on the **purpose** of the application under the Act.
+
+---
+
+### 🟩 **1. For Enforcement of Support Provision (Section 7)**
+
+**Information released to the court official** includes:
+- Address of the person
+- Name and address of the person’s employer
+- Financial information from the individual’s tax and benefit returns (excluding SIN), including:
+  - T1 (Income Tax and Benefit Return) — including schedules
+  - Notice of Assessment / Reassessment
+  - T3 (Trust Income Allocations)
+  - T4 (Remuneration Paid)
+  - T4A (Pension, OAS, CPP, RCA, etc.)
+  - T4E / T4EQ (EI benefits)
+  - T4PS (Profit-Sharing)
+  - T4RIF (RRIF income)
+  - T4RSP (RRSP income)
+  - T5 (Investment income)
+  - T776 (Real estate rentals)
+  - T777 (Employment expenses)
+  - T1204 (Government service contracts)
+  - T2042 (Farming activities) and AgriStability/AgriInvest documents
+  - T2121 (Fishing activities)
+  - T2125 (Business/professional activities)
+  - T2200 (Employment conditions)
+  - T5007 (Benefits)
+  - T5008 (Securities transactions)
+  - T5013 (Partnership income)
+  - T5018 (Contract payments)
+
+> ⚠️ If the person controls a corporation (directly or indirectly), the **corporation’s T2 (Corporation Income Tax Return)** and its schedules are also released.
+
+---
+
+### 🟨 **2. For Enforcement of Support Provision (Enforcement)**
+
+**Information released to the court official** (same as above, but limited to prior year):
+- Address of the person
+- Name and address of the person’s employer
+- For the **tax year before** the current one:
+  - T1

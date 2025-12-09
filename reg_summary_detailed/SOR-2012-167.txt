@@ -1,0 +1,151 @@
+Certainly. Below is a **detailed, structured summary** of the regulation titled *Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations*, as published under the *Canadian Environmental Protection Act, 1999* (CEPA 1999), with an emphasis on clarity, context, and practical implications.
+
+---
+
+## 📝 **Detailed Summary of the Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations**
+
+### 🔍 **Background and Legislative Basis**
+
+This regulation was introduced under **section 332(1)a** of the *Canadian Environmental Protection Act, 1999 (CEPA 1999)*, which empowers the Minister of the Environment to establish regulations to reduce emissions of substances that pose a risk to human health or the environment. The proposed regulations were published in the *Canada Gazette, Part I*, on **August 27, 2011**, allowing public comment and objection.
+
+Key procedural elements include:
+- The **National Advisory Committee** was consulted under **section 6c** and **subsection 93(3)** of CEPA 1999.
+- The **Governor in Council** (on the recommendation of the Ministers of Environment and Health) concluded, under **sections 93(1)** and **330(3.2)d**, that:
+  - The proposed regulations do **not conflict** with other federal or provincial environmental laws.
+  - They provide **sufficient environmental and human health protection**.
+- Therefore, the regulations were formally adopted and came into force.
+
+> ✅ **Objective**: To reduce carbon dioxide (CO₂) emissions from coal-fired electricity generation in Canada by setting performance standards, requiring reporting, and establishing mechanisms for compliance and flexibility.
+
+---
+
+## 🏗️ **Structure of the Regulations**
+
+The regulations are divided into **four main parts**:
+
+---
+
+### ✅ **Part 1: Performance Standard and Exceptions**
+
+#### 🔹 Core Emission Standard:
+- A **performance standard** is established:
+  > A responsible person (owner or operator) of a **new unit** or **old unit** must **not, on average, emit more than 420 tonnes of CO₂ per GWh** (gigawatt-hour) of electricity produced during a calendar year.
+  
+  - This standard applies **only to CO₂ emissions from the combustion of fossil fuels** (excluding biomass).
+  - Emissions from **sorbent use** (e.g., for sulfur dioxide control) are **included** in the CO₂ emissions calculation.
+  - Emissions from **coal gasification systems** are included **if the system shares a responsible person with the unit**.
+
+#### 🔹 Exemptions and Exceptions:
+1. **Standby Units**:
+   - A "standby unit" is defined as one operating at a **capacity factor ≤ 9%** in a given year.
+   - The performance standard **does not apply** to standby units until **January 1, 2030**.
+   - This provides a **phased-in approach**, allowing time for infrastructure investment and transition.
+
+2. **Unit Substitution**:
+   - When an **existing unit reaches the end of its useful life**, a responsible person may apply to **replace it with another existing unit** under specific conditions:
+     - The substituted unit must be an existing unit.
+     - Both units must have a **common owner with ≥50% ownership**.
+     - Both units must be located in the **same province**.
+     - The substituted unit must have **equal or greater production capacity** in the prior calendar year.
+   - The substitution takes effect from **July 1, 2015**, or the beginning of the following calendar year (whichever is later).
+   - The substitution ends when:
+     - The original unit is no longer operated,
+     - The ownership condition fails,
+     - The substituted unit’s capacity drops below the original,
+     - The substituted unit shuts down,
+     - Or electricity is produced using fossil fuels other than coal (excluding coal).
+
+3. **Deferral for Shut-down Units**:
+   - If a unit **ceases operations after June 30, 2015**, the responsible person may apply to **defer the application of the CO₂ standard** to other units (deferred units) for up to **14 years** (from the year after shutdown until the end of the useful life of the shut-down unit).
+   - Conditions for deferral:
+     - Common ownership (≥50%) with deferred units.
+     - Same province.
+     - Production capacity of the shut-down unit must have been **equal to or greater** than that of the deferred unit in the prior year.
+   - The deferral is **not transferable** to the shut-down unit itself.
+   - **Prohibition**: The shut-down unit **cannot restart** after the deferral period.
+
+4. **Change of Deferred Unit**:
+   - A responsible person can **change the deferred unit** for a given calendar year by notifying the Minister, providing:
+     - Registration number of the new unit.
+     - Calendar year after the end of its useful life.
+     - Supporting documentation.
+
+---
+
+### ✅ **Part 2: Reporting, Recording, and Retention Requirements**
+
+#### 🔹 Mandatory Reporting:
+- Responsible persons must:
+  - **Register new units** within **30 days of commissioning**.
+  - Submit a **registration report** (Schedule 1) to the Minister, including:
+    - Unit details (capacity, location, fuel type).
+    - Ownership information.
+    - Commissioning date.
+  - The Minister assigns a **unique registration number** upon receipt.
+
+#### 🔹 Updates and Decommissioning:
+- Any change in unit details or **decommissioning** must be reported within **30 days**.
+- The report must include:
+  - Updated data or a statement of decommissioning.
+  - Date of decommissioning.
+
+#### 🔹 Information Requirements:
+- All emissions data, operational data, and compliance records must be:
+  - Accurately recorded.
+  - Kept for a specified period (not detailed in this excerpt).
+  - Available for inspection by the Minister or authorized officials.
+
+> ⚠️ **Note on Interpretation**:
+> - In all documents incorporated by reference, “should” is interpreted as **“must”**.
+> - Recommendations or suggestions are treated as **binding obligations**.
+> - Standards from **ASTM International** and the **Gas Processors Association (GPA)** are incorporated **as amended** over time.
+
+---
+
+### ✅ **Part 3: Quantification Rules for CO₂ Emissions**
+
+#### 🔹 Reference Method:
+- The **Reference Method for Source Testing: Quantification of Carbon Dioxide Releases by Continuous Emission Monitoring Systems** (June 2012, Department of the Environment) is the **primary method** for measuring CO₂ emissions.
+- This method ensures consistency and accuracy in emissions data collection using **continuous emission monitoring systems (CEMS)**.
+
+#### 🔹 Key Definitions Used:
+- **Production Capacity**: The maximum continuous output of a unit, expressed in MW.
+  - If not reported, it is calculated from **two consecutive hours of actual output**.
+- **Capacity Factor**: Ratio of actual electricity produced to maximum possible output if the unit operated at full capacity all year.
+- **Standard m³**: Volume at standard pressure and temperature (as defined in Electricity and Gas Inspection Regulations).
+- **Useful Life**:
+  - For units commissioned **before 1975**: Ends by **December 31, 2019** (or 50 years after commissioning, whichever comes first).
+  - For units commissioned **after 1974**: Ends by **December 31, 2029** (or 50 years after commissioning, whichever comes first).
+  - Special rule: For units converted from non-coal to coal-based generation before June 23, 2010, the useful life starts from the date of conversion.
+
+---
+
+### ✅ **Part 4: Implementation Timeline**
+
+| Event | Date |
+|------|------|
+| **Coming into force** | Varies by unit type |
+| **Performance standard applies to new units** | From commissioning date (after July 1, 2015) |
+| **Performance standard applies to old units** | After 2015, with phased-in application |
+| **Standby units** | **Deferred until January 1, 2030** |
+| **Unit substitution** | Begins July 1, 2015, or next calendar year |
+| **Deferral for shut-down units** | Applies from year after shutdown until end of useful life |
+
+> 📌 This phased approach allows for a **gradual transition** from coal-based power generation, giving industry time to invest in cleaner technologies or retire older units.
+
+---
+
+## 🧩 Key Definitions (Summary)
+
+| Term | Meaning |
+|------|--------|
+| **Act** | Canadian Environmental Protection Act, 1999 |
+| **Coal** | Includes petroleum coke and synthetic gas from coal or petroleum coke |
+| **Fossil fuel** | Any fuel other than biomass |
+| **Biomass** | Non-fossil, biodegradable organic material (e.g., wood, agricultural waste) |
+| **Unit** | Physically connected equipment producing electricity via thermal energy using coal (may use other fuels) |
+| **Power plant** | All equipment, buildings, and structures on a single or adjacent site used primarily for electricity generation |
+| **Responsible person** | Owner or operator of a unit |
+| **Capacity factor** | Ratio of actual electricity produced to maximum possible output in a year |
+| **Production capacity** | Maximum continuous output (in MW) |
+|

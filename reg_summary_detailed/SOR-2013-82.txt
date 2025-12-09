@@ -1,0 +1,167 @@
+### **Detailed Summary of the Social Insurance Number Regulations (Canada)**  
+*Effective Date: April 30, 2013*  
+*Approved by His Excellency the Governor General in Council, on the recommendation of the Minister of Human Resources and Skills Development*  
+*Pursuant to subsection 28.2(4)a of the Department of Human Resources and Skills Development Act and section 140c of the Employment Insurance Act*
+
+---
+
+## **Overview**
+
+The **Social Insurance Number (SIN) Regulations** establish the rules governing the **issuance, application, validity, replacement, and revocation** of Social Insurance Numbers (SINs) in Canada. These regulations are administered by the **Canada Employment Insurance Commission (CEIC)** and are designed to ensure that individuals who are legally entitled to a SIN—particularly those in Canada’s workforce—are properly identified and registered for access to employment insurance, tax, and other federal programs.
+
+The regulations provide clear procedural requirements for applying to register for a SIN, define who can apply and under what circumstances, and establish specific rules for validity periods—especially for non-citizens and permanent residents—based on immigration status and duration of stay in Canada.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Department of Human Resources and Skills Development Act* (commonly known as the *Employment and Social Development Canada Act*). |
+| **Canadian citizen** | As defined in *section 3 of the Citizenship Act*. |
+| **Permanent resident** | As defined in *subsection 2(1) of the Immigration and Refugee Protection Act*. |
+| **Registration** | The process of registering with the Commission under *section 28.1 or 28.2 of the Employment Insurance Act*. |
+| **Status** | The legal status of an individual under Canadian citizenship and immigration laws. |
+
+---
+
+## **Application Requirements for Registration**
+
+### **1. Required Information in Application**
+An application to register a person must include **supporting documents** that allow identification of:
+- Full name of the applicant;
+- Name at birth (if different from current name);
+- Date of birth;
+- Place of birth;
+- Full names at birth of both parents.
+
+> ⚠️ *Note: Paragraphs on name at birth and parent details were repealed in SOR/2018-136, s. 2 — this suggests some of the original requirements have been updated or replaced by newer policy.*
+
+### **2. Who Can Submit the Application?**
+- **If the person is 12 years of age or older**, the application must be:
+  - Signed by the individual themselves,
+  - Or by one of their parents,
+  - Or by any other person legally authorized to act on their behalf.
+
+- **If the person is under 12 years of age**, the application must be submitted by:
+  - One of their parents, or
+  - Any other person legally authorized to act in their name.
+
+### **3. Birth Registration Agreements**
+If a **pre-existing agreement** exists between the CEIC and the provincial government where the person was born, the application must be signed by an **official responsible for registering births** in that province.
+
+### **4. Signing Capacity for Individuals Unable to Sign**
+- If a person **cannot sign** their name, they may **attest** the application by making a **personal mark** in the presence of **two witnesses**, who must sign the form.
+- The Commission may still **register the person and assign a SIN** even if there is no signature or mark, provided the application meets all other requirements.
+
+### **5. Refusal to Apply Despite Legal Requirement**
+- If a person **is required by law to have a SIN** (e.g., for employment or tax purposes) but **refuses to apply**, the Commission may still register them and assign a SIN **if it has sufficient information to verify identity and status**.
+
+---
+
+## **Replacement of Lost, Destroyed, or Defaced SIN Cards**
+
+### **Process for Replacement**
+To apply for a replacement SIN card:
+- The application must be submitted in the **form and manner required** by the Commission.
+- It must include:
+  - The **same information and documents** required under section 2 (name, date of birth, place of birth, parent names, etc.);
+  - Either:
+    - The applicant’s **current SIN**, or
+    - A **statement confirming** that they were previously assigned a SIN.
+
+> ⚠️ *Note: This section was repealed in SOR/2018-136, s. 5 — indicating that the process may have been updated or replaced by new guidelines.*
+
+---
+
+## **Special Rules for Non-Citizens and Non-Permanent Residents**
+
+### **1. Purpose of Application Requirement**
+For individuals who are **not Canadian citizens or permanent residents**, and for whom the **Minister of Citizenship and Immigration has issued a direction under section 90 of the Immigration and Refugee Protection Act**, the application must include:
+- The **purpose** for which the SIN is being requested (e.g., employment, access to health services, financial services).
+
+### **2. SIN Format Begins with “9”**
+- All SINs assigned to non-citizens or non-permanent residents begin with the digit **"9"**.
+
+### **3. Validity Periods for SINs Starting with “9”**
+
+| Scenario | Validity Period |
+|--------|------------------|
+| Person was **not in Canada** when they applied | Expires **5 years** after the date of assignment |
+| Person was **in Canada** when they applied | Expires on the **earlier of**: <br> - The day their authorized stay in Canada ends (as per *subsection 183(4) of the Immigration and Refugee Protection Regulations*); <br> - **Two years** after the date of assignment |
+
+> This ensures that temporary foreign workers or visitors do not retain SINs indefinitely and that their access to federal programs is time-limited and tied to their immigration status.
+
+### **4. Extension or Renewal of SINs Beginning with “9”**
+- A person may apply at any time after assignment to:
+  - **Extend** the validity period, or
+  - Obtain a **new period of validity** equivalent to the standard period (5 years or 2 years).
+- The renewal application must include:
+  - All required documents and information from section 2;
+  - A clear statement of the **purpose** for which the SIN was originally applied (as stated in the original registration application).
+
+> This allows flexibility for individuals whose stay in Canada may be extended due to work, study, or family reasons.
+
+---
+
+## **Change in Status: Citizenship or Permanent Residency**
+
+### **1. Notification of Change**
+- A person who is **not a Canadian citizen or permanent resident** and who later becomes one **must notify the Commission** of:
+  - The change in status;
+  - The previously assigned SIN (which begins with “9”).
+
+### **2. Action by the Commission**
+- Upon receiving the notification, the Commission must:
+  - **Void** the previous SIN (beginning with “9”);
+  - Assign a **new SIN** to the individual, which will now begin with a standard number (not “9”), reflecting their new status as a Canadian citizen or permanent resident.
+
+> This ensures that citizens and permanent residents are issued permanent SINs, not temporary ones tied to immigration status.
+
+---
+
+## **Automatic Revocation of SINs (Non-Citizens with Non-“9” SINs)**
+
+- If a **non-citizen** applies for:
+  - A **replacement SIN card**, or
+  - A **change of name** (under *section 28.3 of the Act* or *section 139 of the Employment Insurance Act*),
+  and their **current SIN does not begin with “9”**,
+
+→ The Commission **must void** the existing SIN and assign a **new SIN beginning with “9”**.
+
+> This rule prevents non-citizens from retaining a permanent SIN that is not tied to their temporary status and ensures compliance with the temporary validity framework.
+
+---
+
+## **Historical Note: Expiry of Pre-2004 SINs**
+
+> **Repealed provision**: Any SIN card issued **without an expiry date** to a person who was **not a Canadian citizen or permanent resident** expired on **April 3, 2004**.
+
+- This was a transitional measure to phase out outdated SINs that had no clear validity period.
+- It reflects a policy shift to standardize the validity of temporary SINs for foreign nationals.
+
+> ⚠️ This provision was repealed in SOR/2018-136, s. 8 — suggesting that current policy now manages validity through the "beginning with 9" rule instead of a fixed expiry date.
+
+---
+
+## **Effective Date**
+
+- These regulations **come into force on April 30, 2013**.
+
+---
+
+## **Key Policy Objectives and Implications**
+
+| Objective | Explanation |
+|---------|-------------|
+| **Identity Verification** | Ensures accurate identification through required documentation and name/parental details. |
+| **Temporary Access Control** | Limits the duration of SINs for non-citizens to align with immigration status and authorized stay. |
+| **Legal Compliance** | Aligns SIN issuance with immigration laws (e.g., IRR), citizenship rules, and employment insurance requirements. |
+| **Flexibility for Change of Status** | Allows for smooth transition when a foreign national becomes a citizen or permanent resident. |
+| **Prevention of Fraud** | Requires verifiable identity and purpose of use, reducing misuse of SINs. |
+
+---
+
+## **Amendments and Repeals**
+
+Several

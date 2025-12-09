@@ -1,0 +1,144 @@
+**Detailed Summary of the Canada Deposit Insurance Corporation (CDIC) Data and System Requirements By-law (S.C. 2010, c. 12, s. 1886; R.S., c. C-3)**  
+*Ottawa, December 8, 2010*  
+*(Note: This by-law has been partially repealed by SOR/2019-187, s. 1 and s. 2. Key provisions remain in force as of the current status, though the original "Data Requirements" and "Standardized Data" sections have been formally repealed. The summary below reflects the surviving and relevant provisions, based on the text provided.)*
+
+---
+
+### **Purpose of the By-law**
+The primary purpose of this by-law is to ensure that **member financial institutions** (banks, credit unions, and other deposit-taking institutions) have the **technical capabilities and data systems** necessary to support the **Canada Deposit Insurance Corporation (CDIC)** in fulfilling its statutory duty under **section 14 of the Canada Deposit Insurance Corporation Act** to protect depositors during financial distress or insolvency.
+
+Specifically, the by-law mandates that member institutions maintain and provide accurate, timely, and accessible data about their deposit liabilities so that CDIC can:
+- Identify depositors,
+- Determine eligibility for insurance,
+- Assess insurance categories and account types,
+- Calculate interest accrued,
+- And, in emergency situations, temporarily prevent withdrawals to protect depositors.
+
+---
+
+### **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canada Deposit Insurance Corporation Act* (CDICA). |
+| **Business Day** | A weekday that is not a public holiday at the head office location of the member institution. |
+| **Determination Date** | The key reference point for assessing deposit liabilities. It is: <br> - If a winding-up order is made before CDIC pays under section 14: the filing date of the petition or process initiating winding-up; <br> - Otherwise: the first occurrence of any of the events listed in subsection 14(2.1) of the Act (e.g., insolvency, cessation of operations, etc.). |
+| **Determination Time** | The specific time by which all transactions on the determination date must be processed and posted to deposit records. <br> - If the determination date is a business day: the time by which all transactions on that day are posted. <br> - If not: the time by which all transactions on the preceding business day are posted. <br> Applies both to Canadian branches and foreign branches. |
+| **Foreign Branch** | A branch of a member institution located outside Canada. Data from foreign branches is exempt from certain reporting requirements under this by-law. |
+| **Standardized Data** | All references to time and day are based on the head office location of the institution. A "day" is a 24-hour period beginning at midnight at the head office; a "time" refers to that time at the head office. |
+
+---
+
+### **Core Data and System Requirements**
+
+Every member institution must be capable of:
+
+#### **1. Producing and Providing Specific Data as of the Determination Time**
+The institution must be able to provide the following data **regarding its deposit liabilities in Canada**, excluding those posted in foreign branches:
+
+- **Depositor Identification and Contact Information**  
+  Data enabling CDIC to:
+  - Identify each depositor.
+  - Contact them directly.
+  - Determine their **preferred official language** (e.g., English or French).
+  - Identify their **province of residence**.
+
+- **Grouping of Deposit Liabilities**  
+  Data enabling CDIC to group deposits by:
+  - Unique depositor.
+  - Eligibility to be insured by CDIC.
+  - Insurance category (e.g., regular, term, etc.).
+  - Account type (e.g., savings, checking, etc.).
+
+- **Interest Accrual Information**  
+  The interest that has accrued and is payable on each deposit liability as of the **determination date**.
+
+#### **2. Temporary Withdrawal Prevention**
+The institution must be capable of:
+- **Temporarily preventing withdrawals** (or portions thereof) from deposit accounts **within six hours** of receiving instructions from CDIC, based on account type.
+
+---
+
+### **Timeliness of Data Submission**
+
+The institution must provide or make available the required data to CDIC **no later than** the following deadlines:
+
+| Data Type | Deadline (if determination time ≥ determination date) | Deadline (if determination time < determination date) |
+|---------|--------------------------------------------------------|--------------------------------------------------------|
+| Depositor info (contact, language, province) | Earlier of:<br> - 6 hours after determination time<br> - 4:00 p.m. the day after the determination date | 4:00 p.m. the day after the determination date |
+| Interest and liability details | Earlier of:<br> - 30 hours after determination time<br> - 4:00 p.m. the second day after the determination date | 4:00 p.m. the second day after the determination date |
+
+> **Note**: These deadlines are designed to ensure that CDIC receives critical data promptly, especially in emergency scenarios involving bank failure.
+
+---
+
+### **Obligations to CDIC (On Request)**
+
+Member institutions must:
+- **Provide policies and procedures** related to data systems and compliance within the timeframe specified in CDIC’s request.
+- **Inform CDIC** of the time by which transactions are processed and posted to deposit records (i.e., the processing time for each day).
+- **Provide or make available** the required data, including at a specific time/date if requested by CDIC (especially when there is no determination time or date).
+- **Demonstrate consistency** between the data provided and the institution’s internal records, and **explain any discrepancies**.
+- **Provide any additional evidence** confirming that the institution has the required capabilities.
+
+---
+
+### **Compliance Timeline and Deadlines**
+
+#### **General Rule**
+- Every new member institution must:
+  - Submit a **compliance plan** within **30 days** of becoming a member.
+  - Comply with the by-law **as soon as feasible**, but **no later than 18 months** after becoming a member.
+
+#### **Special Cases**
+
+1. **Amalgamated Institutions**  
+   - For **any amalgamating institution** that became a member during the 18 months before the amalgamation date:
+     - Submit a compliance plan within 30 days of the amalgamation date.
+     - Comply within 18 months of when it became a member.
+   - For **any amalgamating institution** that was **not a member before** the amalgamation:
+     - Submit a compliance plan within 30 days of the amalgamation date.
+     - Comply within 18 months of the **amalgamation date**.
+   - For **all other deposit liabilities** of the new institution: comply **without delay**.
+
+2. **Institutions Assuming Deposit Liabilities**  
+   - When a new institution assumes the deposit liabilities of another:
+     - Must submit a compliance plan within **30 days** of assuming the liabilities.
+     - Must comply within **18 months** of assuming those liabilities.
+
+---
+
+### **Repeal Status (Important Update)**
+
+This by-law was **partially repealed** by **SOR/2019-187, s. 1 and s. 2**:
+- The **"Data Requirements"** section (formerly section 1886(1)) and the **"Standardized Data"** section were **repealed**.
+- The **core compliance obligations** (e.g., data availability, processing times, withdrawal prevention) may have been **transferred or replaced** by updated regulations or amendments to the CDICA or CDIC’s operational policies.
+
+> ✅ **Conclusion**: While the **text provided** appears to reflect a historical version of the by-law, **the actual current regulatory framework may differ**. As of 2024, the **original data and system requirements have been superseded or removed**, and CDIC now relies on a more modern, risk-based approach to data access and system readiness, possibly under updated operational guidelines or digital transformation initiatives.
+
+---
+
+### **Key Takeaways (For Financial Institutions)**
+
+1. **System Readiness is Mandatory**  
+   Institutions must have robust, real-time data systems capable of identifying depositors, their preferences, and account details — especially in crisis situations.
+
+2. **Timely Data Delivery is Critical**  
+   Data must be available within strict timeframes (e.g., within 6 hours for contact info, 30 hours for interest details), depending on whether the determination time occurs on or after the determination date.
+
+3. **Emergency Withdrawal Controls**  
+   Institutions must be able to act quickly to prevent withdrawals, which is essential for protecting depositors during bank failures.
+
+4. **Compliance Planning is Required**  
+   All institutions — new or existing — must develop and submit a clear compliance plan, especially in cases of mergers or liability transfers.
+
+5. **Legal and Regulatory Compliance**  
+   These requirements are rooted in **section 14 of the CDICA**, which gives CDIC the power to manage deposit insurance during insolvency.
+
+---
+
+### **Conclusion**
+
+While the **original 2010 Data and System Requirements By-law** has been **formally repealed** (as of SOR/2019-187), the **spirit and core principles** — such as the need for accurate, timely, and accessible deposit data and the ability to act swiftly during emergencies — remain central to CDIC’s operations.
+
+This summary provides a **historical and regulatory context** of the by-law as

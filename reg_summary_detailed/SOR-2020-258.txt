@@ -1,0 +1,129 @@
+Certainly. Below is a **detailed, structured summary** of the provided regulation — the **Off-road Compression-Ignition (Mobile and Stationary) and Large Spark-Ignition Engine Emission Regulations**, made under the *Canadian Environmental Protection Act, 1999 (CEPA 1999)*.
+
+---
+
+## 📚 **Detailed Summary of the Off-road Compression-Ignition and Large Spark-Ignition Engine Emission Regulations**
+
+### 🔹 **1. Regulatory Background and Authority**
+
+- **Legal Basis**:  
+  These regulations were issued under **subsection 332(1)a of the Canadian Environmental Protection Act, 1999 (CEPA 1999)**, which allows the Minister of the Environment to promulgate emission standards for engines.
+  
+- **Publication and Public Consultation**:  
+  On **March 9, 2019**, the Minister published a **proposed version** of these regulations in *Canada Gazette, Part I*, providing an opportunity for stakeholders to:
+  - Submit written comments; or  
+  - File a **notice of objection** requesting a **board of review** and specifying reasons for objection.
+
+- **Final Adoption**:  
+  After review and public input, **Her Excellency the Governor General in Council**, on the recommendation of the Minister of the Environment, formally adopted the regulations under:
+  - **Section 160c** (regulatory power of the Governor in Council);
+  - **Section 319** (provision for setting emission standards).
+
+> This reflects a transparent, participatory process in environmental regulation, ensuring scientific, technical, and public input before final implementation.
+
+---
+
+### 🔹 **2. Key Definitions (Core Terminology)**
+
+The regulations establish precise definitions essential for interpreting and applying the standards. Key definitions include:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canadian Environmental Protection Act, 1999*. |
+| **Adjustable Parameter** | A device, system, or design element that can be modified to affect engine emissions or performance during testing or normal operation — *excludes permanently sealed or tool-inaccessible components*. |
+| **CFR** | Chapter I of Title 40 of the *United States Code of Federal Regulations* (U.S. federal environmental standards). |
+| **CFR 60, 86, 89, 94, 1039, 1042, 1048, 1051, 1054, 1060, 1068** | Specific U.S. EPA standards referenced for emission limits, testing, and compliance. Each has a defined scope (e.g., mobile engines, stationary engines, spark-ignition). |
+| **Complete Fuel System** | Includes fuel lines and at least one fuel tank attached to the engine. |
+| **Compression-Ignition Engine** | Reciprocating internal combustion engine that ignites fuel via compression (not spark plug). Excludes engines operating like Otto cycle or using spark plugs. |
+| **Crankcase Emissions** | Pollutants released from crankcase ventilation or lubrication systems. |
+| **Element of Design** | Any control system (software, hardware), calibration, or interaction between systems. |
+| **Emergency Machine** | Designed exclusively for aircraft rescue, wildfire fighting, or emergency response. |
+| **Emergency Situation** | Any situation posing a direct or indirect risk to human life. |
+| **Emission Control System** | Any device, system, or design element that reduces or controls engine emissions. |
+| **Emission Family** | A grouping of engines or fuel systems based on EPA certification or technical classification. Determined by: <br> - EPA certificate (for certified engines); <br> - CFR 230 subpart C (for mobile/stationary engines); <br> - CFR 89, 94, 1039, 1048, 1051, 1060 depending on engine type and displacement. |
+| **EPA** | United States Environmental Protection Agency. |
+| **EPA Certificate** | A U.S. federal certification confirming compliance with U.S. emission standards. |
+| **Evaporative Emissions** | Volatile fuel compounds released from fuel systems (not exhaust, crankcase, or smoke). |
+| **Exhaust Emissions** | Gases emitted from any point downstream of the engine’s exhaust port. |
+| **Fire-Pump Engine** | Stationary engine certified by NFPA to power water pumps for firefighting. |
+| **Fuel Line** | Hose, tubing, or primer bulbs transporting fuel — excludes vent lines, tank-exposed segments, or priming-only bulbs. |
+| **Fuel Tank** | A tank with a cap designed to store fuel. |
+| **Hazardous Location** | Area where an explosive gas atmosphere may exist (per CSA C22.1). |
+| **Large Spark-Ignition Engine** | Engine with spark plug, operating like Otto cycle, and producing >19 kW at crankshaft. |
+| **Machine** | Any device powered by an engine. |
+| **Mobile/Stationary** | Engine designed for use in a mobile or stationary machine. |
+| **Model Year** | Year used by manufacturers to designate engine models — must align with production period. |
+| **Remote Location** | Area not served by North American Electric Reliability Corporation (NERC) or main Newfoundland and Labrador electrical networks, nor by natural gas distribution. |
+| **Replacement Engine** | Engine manufactured to replace a non-compliant engine in a machine, with same physical/performance characteristics, and made by the original manufacturer. |
+| **Smoke Emissions** | Exhaust emissions that block light transmission (e.g., visible soot). |
+| **Unique Identification Number (UIN)** | Manufacturer-assigned number to identify individual engines. |
+| **Useful Life** | Duration for which emission standards apply — defined in specific sections (e.g., 10(2), 11(3), etc.). |
+| **Volatile Liquid Fuel** | Liquid fuel with Reid vapour pressure >13.79 kPa. |
+
+---
+
+### 🔹 **3. Incorporation of U.S. Standards (CFR References)**
+
+- The regulations **incorporate by reference** specific standards from the U.S. CFR, particularly:
+  - **CFR 60** (nonroad engines – general)
+  - **CFR 89, 94, 1039, 1042, 1048, 1051, 1054, 1060, 1068** (specific engine types and testing)
+
+> These standards are **read as excluding**:
+> - References to EPA discretion or administrative flexibility;
+> - Alternative standards related to:
+>   - Emission credit averaging, banking, and trading;
+>   - Small-volume manufacturers;
+>   - Financial hardship;
+> - Conformity evidence from any authority other than the EPA.
+
+> **Key Interpretive Rules**:
+> - “Nonroad vehicle” or “nonroad equipment” → interpreted as **“machine”**.
+> - “Engine family” → interpreted as **“emission family”**.
+> - “Nonroad engine” → interpreted as **“off-road engine”**.
+> - “Certified emissions life” → interpreted as **“useful life”**.
+
+This ensures consistency with U.S. standards while maintaining Canadian regulatory independence.
+
+---
+
+### 🔹 **4. Application of Standards: When and How**
+
+#### ✅ **Applicability**
+- Applies to **engines prescribed under section 5** of CEPA 1999.
+- Covers:
+  - **Mobile and stationary compression-ignition engines**
+  - **Large spark-ignition engines**
+
+> **Exclusions**:
+> - Engines regulated under:
+>   - *On-Road Vehicle and Engine Emission Regulations*
+>   - *Marine Spark-Ignition Engine, Vessel and Off-road Recreational Vehicle Emission Regulations*
+> - **Competition engines** (with performance superior to standard engines)
+> - **Military-use engines** (used exclusively in combat/support missions)
+> - **Export-only engines** (not for use in Canada)
+> - Engines regulated under *Multi-Sector Air Pollutants Regulations*
+
+> **Exception**: Engines used in **auxiliary power units (APUs)** in tractors regulated under on-road rules are **excluded** from this regulation.
+
+---
+
+### 🔹 **5. Model Year Rules**
+
+- A manufacturer’s **model year** must:
+  - Match the **calendar year** in which production spans across January 1 — if production includes January 1.
+  - If production does **not** include January 1, it corresponds to the **calendar year** during which production occurs.
+- **No model year may include more than one January 1**.
+- If an imported engine lacks a date of manufacture, its model year is the **calendar year of import**.
+
+> This ensures consistency in regulatory tracking and compliance timelines.
+
+---
+
+### 🔹 **6. Dual Market Consideration: Canada vs. U.S.**
+
+- An engine sold in Canada is considered to be **sold concurrently in Canada and the U.S.** if:
+  - An engine of the **same emission family** (or families, if multiple evaporative standards apply) is offered for sale in the U.S. within **365 days** before:
+    - **Import date** (for imported engines); or
+    - **Date of national emissions mark application** (if known), or **date of engine completion** (if mark date is unknown).
+
+> This rule ensures that Canadian emissions standards are

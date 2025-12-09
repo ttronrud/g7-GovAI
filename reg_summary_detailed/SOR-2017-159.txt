@@ -1,0 +1,167 @@
+### **Detailed Summary of the Discretionary Services Regulations (CRTC, August 3, 2017)**
+
+The **Discretionary Services Regulations**, adopted by the **Canadian Radio-television and Telecommunications Commission (CRTC)** on **August 3, 2017**, are a set of binding rules governing the broadcasting obligations of **licensees operating discretionary programming undertakings or discretionary services networks** under the *Broadcasting Act* (S.C. 1991, c. 11). These regulations implement and clarify key requirements related to the **content, programming, advertising, and operational transparency** of such services.
+
+They were developed following a public consultation process: the proposed regulations were published in the *Canada Gazette, Part I*, on **October 8, 2016**, allowing interested parties to submit representations to the CRTC. After review, the CRTC finalized and enacted the regulations in August 2017.
+
+---
+
+## **I. Key Definitions**
+
+The regulations begin with a comprehensive set of definitions that establish the meaning of key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Broadcasting Act* (S.C. 1991, c. 11). |
+| **Advertising Material** | Any commercial message promoting a station, network, or program. Excludes: station identifications, program announcements during credits, or promotions for Canadian films/programs where only the sponsor’s name is mentioned without product description. |
+| **Broadcast Year** | The period from **September 1 to August 31** of the following year. |
+| **Canadian Program** | A program that either: (a) has a Canadian film/video production certificate under the *Income Tax Act*, or (b) meets the criteria established in **Broadcasting Regulatory Policy CRTC 2023-90** (March 23, 2023) or **CRTC 2015-86** (March 12, 2015). [Note: The 2023 policy replaced the earlier one.] |
+| **Commercial Message** | An advertisement intended to sell or promote goods, services, natural resources, or activities. Includes mentioning a sponsor in a list of prizes. |
+| **Exempt Distribution Undertaking** | A distribution entity whose operator is exempt from certain requirements under Part II of the Act via Commission order under subsection 9(4). |
+| **Key Figure** | A unique alphanumeric code (from Schedule 1, Column 2) corresponding to a specific program category. |
+| **Licensed** | Authorized by the CRTC. |
+| **Licensee** | A person authorized to operate a discretionary programming service or network. |
+| **New Programming Service** | A service not previously distributed in Canada, including HD versions or new multiplexes of existing services. |
+| **Program** | A broadcast that falls into one of the categories listed in **Schedule 1, Item 6, Column 1**. |
+| **Programming** | Any content broadcast, excluding visual images that consist predominantly of alphanumeric characters (e.g., menus, digital text). |
+
+---
+
+## **II. Core Obligations for Licensees**
+
+### **1. Minimum Canadian Programming Requirement (Section 1)**
+
+> *Subject to licence conditions, a licensee must devote at least 35% of its broadcast time in a broadcast year to Canadian programs.*
+
+- This is a **minimum content standard** aimed at ensuring Canadian cultural and linguistic diversity in the airwaves.
+- **Advertising material** is **included** in the calculation of broadcast time.
+
+> *For third language services (non-English/French), the requirement increases to at least 15% of broadcast time.*
+
+- A **third language service** is defined as a programming service that:
+  - Provides **at least 90% of its programming each week** in a language other than English or French;
+  - Begins on a **Sunday**;
+  - Excludes secondary audio programming and subtitles.
+
+> **Clarification**: The time devoted to a program includes time spent in **ad breaks**, meaning advertising is factored into the total time calculation.
+
+---
+
+### **2. Prohibited Content (Section 2)**
+
+Licensees are prohibited from broadcasting content that:
+
+- Contravenes any **Act of Parliament or provincial legislation**;
+- Contains **abusive comments or pictorial representations** that:
+  - Tend to or are likely to expose individuals or groups to **hatred or contempt** based on:
+    - Race, national or ethnic origin
+    - Colour
+    - Religion
+    - Sex
+    - Sexual orientation
+    - Age
+    - Mental or physical disability
+- Contains **false or misleading news**.
+
+This provision reinforces Canada’s commitment to **media responsibility, inclusivity, and factual integrity**.
+
+---
+
+### **3. Technical Requirements for Commercial Messages (Section 3)**
+
+All commercial messages broadcast during program breaks or between programs must comply with:
+
+> **ATSC Recommended Practice A/85: Techniques for Establishing and Maintaining Audio Loudness for Digital Television**
+
+- This ensures **consistent audio levels** across all programs, improving viewer experience and reducing listener fatigue.
+- The standard is **amended from time to time**; licensees must follow the most current version.
+
+---
+
+### **4. Advertising Alcoholic Beverages (Section 4)**
+
+A licensee may broadcast alcohol-related ads **only if**:
+
+1. The **sponsor is not prohibited** from advertising under provincial law;
+2. The ad is **not designed to promote general consumption** of alcohol;
+3. The ad **does not target minors or youth**:
+   - Does not influence non-drinkers (especially youth) to drink;
+   - Is not directed at persons under the legal drinking age;
+   - Does not associate alcohol with youth or youth symbols;
+   - Does not portray minors in contexts where alcohol is shown or promoted;
+4. The ad **does not depict alcohol in attractive contexts** for youth (e.g., parties, social events);
+5. **No endorsement** by:
+   - Public figures, role models, or celebrities known for advocacy of children;
+   - Persons with reputations in media or public service;
+6. Alcohol is **not portrayed as a status symbol, necessity, or escape** from life;
+7. No implication that:
+   - Success, achievement, or social acceptance depend on drinking;
+   - Alcohol is essential to enjoy an event or activity;
+8. Alcohol is **not shown in excessive or immoderate ways**;
+9. No exaggeration of effects, packaging, or misuse;
+10. No **imperative language** urging purchase or consumption;
+11. No introduction of alcohol in a way that could be associated with:
+   - Operating vehicles (requiring skill);
+   - Activities requiring mental alertness or danger;
+12. No **inducements** based on higher alcohol content;
+13. No reference to **feelings or effects of alcohol consumption**;
+14. No scenes showing or implying consumption of alcohol;
+15. No portrayal of alcohol in **prohibited situations** (e.g., driving, public health zones).
+
+> **Exception**: Industry, public service, or brand preference advertising is **exempt** from this restriction.
+
+---
+
+### **5. Equitable Time Allocation During Elections (Section 5)**
+
+During an **election period**, licensees must allocate time fairly to:
+
+- All **accredited political parties**;
+- All **rival candidates** in the election or referendum.
+
+> **Election Period Definition**:
+- For federal/provincial elections or referendums: from the **announcement** of the election to the **day of voting**.
+- For municipal elections: **two months before** the election day to the day of voting.
+
+This ensures **equal access** to airtime for all parties, promoting democratic fairness.
+
+---
+
+### **6. Non-Disclosure Agreements (NDAs) with Distribution Partners (Section 6)**
+
+Licensees must sign and provide to **distribution undertakings** (e.g., cable providers) or **video-on-demand (VOD) platforms** an agreement that:
+
+1. **Reproduces the CRTC’s non-disclosure provisions** (from *Broadcasting Regulatory Policy CRTC 2013-578*);
+2. **Includes consent** to comply with those provisions for the benefit of the **distribution licensee**.
+
+> Purpose: To protect confidential information shared between broadcasters and distributors, ensuring **commercial confidentiality** and **fair competition**.
+
+---
+
+### **7. Program Logging and Recordkeeping (Section 7)**
+
+Licensees must:
+
+- **Keep a program log** in a form acceptable to the CRTC;
+- **Retain the log for one year** after the broadcast date;
+- **Enter daily information**, including:
+  - Date
+  - Licensee/service identification
+  - Start time, duration, and **sponsor name** (for commercial messages)
+  - Program title and additional info (as per Schedule 1)
+  - **Key figure** identifying the program type
+  - Start and end times of the program
+  - Language/type code (Schedule 2, Part A, C, or D)
+  - Accessibility code (Schedule 2, Part B)
+  - Brief content description (if required by licence)
+
+> For **music video clips**, additional details are required:
+  - Title
+  - Performer name and language
+  - Whether it is a **Canadian music video** (as defined in *Public Notice 2000-42*)
+  - Key figure
+  - Accessibility code
+
+> If a program is broadcast in **multi-hour blocks**, the start and end times of each block must be recorded.
+
+> **Submission Deadline**: Within **30 days after the end of each month**, submit the monthly log

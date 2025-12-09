@@ -1,0 +1,191 @@
+**Detailed Summary of the Forfeited Property Sharing Regulations (S.C. 1993, c. 37)**
+
+---
+
+### **Overview**
+
+The *Forfeited Property Sharing Regulations* (commonly referred to as the **Forfeited Property Sharing Regulations**) were enacted under the authority of the *Seized Property Management Act* (the "Act") and are designed to establish a fair and transparent framework for the **sharing of proceeds** derived from the forfeiture of property, **fines imposed** in connection with criminal offenses, and **moneys transferred to Canada by foreign governments**.
+
+These regulations ensure that contributions made by various jurisdictions—particularly the Government of Canada and provincial or foreign law enforcement agencies—in the investigation, prosecution, and forfeiture of property are appropriately recognized and rewarded through financial sharing. The goal is to promote cooperation among jurisdictions while ensuring accountability and equitable distribution of financial benefits.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Seized Property Management Act* |
+| **Agency** | - For Canada: A law enforcement agency under federal authority<br>- For a province: A provincial law enforcement agency or the Royal Canadian Mounted Police (RCMP) acting under contract<br>- For a foreign state: A law enforcement agency within that state |
+| **Contribution** | The share of the Government of Canada or a jurisdiction assessed based on the value and importance of information provided and participation in investigations/prosecutions |
+| **Fine** | Amount paid or recovered on account of a fine imposed under subsection 462.37(3) of the *Criminal Code*, initiated by the Government of Canada |
+| **Jurisdiction** | Refers to either a province or a foreign state |
+| **Net Proceeds** | The net proceeds from the disposition of forfeited property, calculated in accordance with the *Seized Property Disposition Regulations* (Section 12) |
+| **Property** | Any property forfeited to Her Majesty under provisions in Section 10 of the Act |
+
+---
+
+## **Key Provisions and Principles**
+
+---
+
+### **1. Foreign State Agreements (Section 3)**
+
+- **No sharing with foreign governments** occurs unless a formal agreement is in place under **Section 11 of the Act**.
+- Such agreements must:
+  - Specify that sharing occurs **between the Government of Canada and the foreign government**;
+  - Provide that **proceeds from property disposition** and **fines** are shared according to **Part I of these Regulations**;
+  - **Prohibit conditions** on how the received funds may be used;
+  - Name the **official to whom payments are to be made**, or designate a **central authority** to determine recipients.
+
+> ⚠️ Agreements must not conflict with the Act or these Regulations.
+
+---
+
+### **2. Determining the Amount Available for Sharing (Section 5)**
+
+The total amount eligible for sharing is calculated as follows:
+
+> **Available Amount = (Sum of: net proceeds from forfeited property + amount of any fine)**  
+> **Minus:**  
+> a) A **prorated portion** of operating expenses (as defined in paragraph 13(3)(a) of the Act);  
+> b) A **prorated portion** of amounts reserved for future losses;  
+> c) **Payments arising from indemnifications** granted under Section 18 of the Act (this was **repealed in 2024**).
+
+> 🔍 *Note: As of 2024, indemnification payments are no longer deducted from the available amount.*
+
+---
+
+### **3. Timing of Sharing (Section 6)**
+
+Sharing must occur **no later than 90 days after the end of the fiscal year** in which the following are credited to the **Consolidated Revenue Fund** and the **Proceeds Account**:
+
+- Net proceeds from **one forfeited property**
+- Net proceeds from the **last disposed-of property** (if multiple properties were forfeited)
+- Amounts **paid or recovered on account of a fine**
+- Both **net proceeds from property** and **fines** (if both occurred)
+
+> This ensures timely distribution and aligns sharing with fiscal year-end accounting.
+
+---
+
+### **4. Assessing Contributions (Section 7)**
+
+The **Attorney General** assesses the contribution of the Government of Canada and each relevant jurisdiction based on two key factors:
+
+1. **Nature and importance of information** provided by agencies (e.g., intelligence, leads, evidence);
+2. **Level of participation** in investigations and prosecutions leading to forfeiture or fines.
+
+> The Attorney General may consult with relevant agencies and jurisdictions during this assessment.
+
+---
+
+### **5. Contribution Percentage Guidelines (Section 7(3))**
+
+A percentage is assigned to each jurisdiction based on the **relative size of its contribution**:
+
+| Contribution Level | Assigned Percentage |
+|-------------------|----------------------|
+| Predominant portion (largest share) | **90%** |
+| Significant portion | **50%** |
+| Minimal portion | **10%** |
+
+> These percentages are **not arbitrary**—they reflect the relative role of each jurisdiction.
+
+---
+
+### **6. Method of Determining Contribution Percentages (Section 7(4))**
+
+The process follows a **step-by-step hierarchy**:
+
+1. Determine the contribution of:
+   - Government of Canada
+   - All other relevant jurisdictions (grouped together)
+
+2. Among the remaining jurisdictions, identify the one with the **highest contribution** and assign its share.
+
+3. Repeat the process with the **remaining jurisdictions** until only **two remain**.
+
+4. For the final two jurisdictions, calculate their shares based on the remaining residual amount.
+
+> This method ensures that even smaller contributors are recognized, and larger contributors receive proportionate rewards.
+
+> ✅ **Minimum Contribution for Canada**: The Government of Canada’s share **cannot be less than 10%**.
+
+---
+
+### **7. Calculation of Shares by the Minister (Section 9)**
+
+Once the Attorney General assigns the percentages, the **Minister of Supply and Services** calculates the actual shares using this method:
+
+1. **Government of Canada’s share** = (Available amount) × (Canada’s percentage)
+2. **First residual amount** = Available amount – Canada’s share
+3. If only one other jurisdiction remains → that jurisdiction receives the residual amount.
+4. If more than one jurisdiction remains:
+   - Multiply the residual amount by the percentage of the **jurisdiction with the highest contribution**
+   - Subtract that product → new residual amount
+5. Repeat until only two jurisdictions remain.
+6. For the final two, multiply the residual amount by their respective percentages.
+
+> This ensures **sequential allocation** based on contribution levels, with larger contributors receiving larger shares.
+
+---
+
+### **8. Payment of Shares (Section 10)**
+
+- The **Minister pays** the calculated share to:
+  - The **provincial government**, or
+  - The **designated official** as specified in the agreement with the foreign government or province.
+
+> If a **province enters into a memorandum of understanding (MoU)** with the Government of Canada regarding how to allocate a portion of its share, such allocation must be **consistent with the MoU**.
+
+---
+
+### **9. Sharing of Moneys Transferred from Foreign Governments (Section 11)**
+
+When a foreign government transfers funds to Canada under an agreement:
+
+- The amount available for sharing is calculated by **subtracting** the amounts specified in **Section 5(a)** (operating expenses and future loss reserves).
+- **Foreign government contributions are not included** in the contribution assessment (as per Section 11).
+- Sharing must occur **within 90 days** of the foreign government’s payment being credited to the Proceeds Account.
+
+> This ensures that foreign transfers are shared fairly with Canadian provinces, without including the foreign government’s own contribution in the assessment.
+
+---
+
+### **10. Unshared Funds and Final Accounting (Section 12)**
+
+- **Within 120 days after the end of each fiscal year**, all amounts in the **Proceeds Account** that:
+  - Have **not been shared** under Sections 10 or 11
+  - And are **not reserved** under Section 16 of the Act
+  → Must be **calculated and transferred** to the **Seized Property Non-Tax Revenue Account**
+
+> This ensures that unallocated funds are not left unaccounted for and are properly managed.
+
+---
+
+### **11. Historical Obligation (Section 13)**
+
+- **By March 31, 2000**, all unshared amounts from fiscal years **1993–94 to 1996–97** must be:
+  - Calculated
+  - Transferred to the Seized Property Non-Tax Revenue Account
+
+> This was a **one-time compliance requirement** to close historical gaps in the sharing system.
+
+---
+
+## **Key Principles and Objectives**
+
+| Principle | Explanation |
+|--------|-------------|
+| **Equity** | Ensures that jurisdictions contributing significantly to investigations and prosecutions receive fair financial recognition. |
+| **Transparency** | Clear rules for assessing contribution, calculating shares, and timing payments. |
+| **Accountability** | All steps are traceable through assessments by the Attorney General and calculations by the Minister. |
+| **Provincial Involvement** | Provinces receive a share of proceeds and can redistribute them via MoUs. |
+| **International Cooperation** | Foreign governments can participate in sharing, provided they enter into formal agreements. |
+| **Fiscal Discipline** | Only net proceeds and fines are shared; operating costs and future liabilities are deducted. |
+
+---
+
+## **Repealed Provisions**
+
+- The deduction of **indemnification payments** from the available amount was **repealed in 2

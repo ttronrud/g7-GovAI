@@ -1,0 +1,163 @@
+**Detailed Summary of the *Carbonated Beverage Glass Containers Regulations* (S.C. 2010, c. 21)**
+
+---
+
+### **Overview**
+The *Carbonated Beverage Glass Containers Regulations*, made under **section 37 of the Canada Consumer Product Safety Act (CCPSA)**, establish specific safety standards for **carbonated beverage glass containers** with a capacity of **1.5 liters or more** that contain **non-alcoholic carbonated beverages**. These regulations were introduced to prevent injury risks associated with glass containers that may shatter under pressure, particularly during handling or impact, and to ensure consumer safety.
+
+The regulations came into force upon registration and are designed to be enforced through rigorous testing, clear labeling, and accountability in manufacturing and importation processes.
+
+---
+
+### **Key Definitions and Scope**
+
+- **Carbonated Beverage Glass Container**:  
+  A glass container with a **capacity of 1.5 L or greater**, containing a **non-alcoholic carbonated beverage**.
+
+> This definition excludes alcoholic beverages and containers below 1.5 L in volume.
+
+---
+
+### **Core Safety Requirements**
+
+#### **1. Shatter Resistance Test (Perforation Prevention – Schedule 1)**
+A carbonated beverage glass container must **not shatter in a way that perforates plastic sheets** used in a standardized test setup.
+
+- **Test Method (as described in Schedule 1)**:
+  - A **test apparatus** is constructed with:
+    - A **10 cm diameter flat support surface**.
+    - A **square frame (80 cm x 80 cm)** made of four 16 mm diameter rods, mounted vertically, 80 cm above the support surface.
+    - A **drill probe** (adjustable height) with a **4.5 mm sharp "MM Glazemaster Glass Drill, Type A"** affixed to it.
+    - The probe advances at **0.254 mm per second** and rotates at **0.2 revolutions per second**.
+    - Adjustable support points to hold the container upright.
+
+  - **Plastic sheet protection system**:
+    - Clear polyethylene sheets (0.035 ± 0.005 mm thick) are suspended:
+      - One **80 cm wide sheet** across the top and two side walls.
+      - Two **33 cm wide sheets** on the side facing the drill, with a **14 cm gap** symmetrically placed around the drill centerline.
+    - The lower edges of all sheets extend below the support surface and are subjected to a **uniform downward force of 39 N/m of width** via weight rods.
+
+  - **Pre-test conditions**:
+    - Remove any **packaging or labels** that do not remain on the container after sale or use.
+    - Equilibrate the unopened container:
+      - Store in a **22°C water bath for 4 hours**.
+      - Subject to **ultrasonic agitation** to equilibrate internal pressure.
+    - Ensure plastic sheets are **free of pre-existing perforations**.
+    - Position the container **upright and centered** on the support surface.
+    - Adjust the drill probe and support points to the **mid-height** of the container.
+    - Advance the drill until it pierces the container.
+
+  - **Pass/Fail Criteria**:
+    - The container **must not cause any piece or part to perforate** any of the plastic sheets above the support surface.
+
+> This test simulates a scenario where a container might be struck or punctured during handling, ensuring that even if it breaks, fragments do not penetrate protective plastic barriers.
+
+---
+
+#### **2. Weight Retention Test (Dry Weight Retention – Schedule 2)**
+When tested under specific conditions, **at least 95% of the dry weight** of the container must remain **inside the cylinder** after shattering.
+
+- **Test Method (as described in Schedule 2)**:
+  - A **drop test** is conducted using:
+    - A **concrete block (50 cm × 40 cm × 20 cm)** with a smooth, flat surface.
+    - A **rigid vertical cylinder (2 m in diameter, 20 cm high)** centered over the block, so its top edge aligns with the impact surface.
+    - A **drop mechanism** consisting of two horizontal bars (6 mm diameter), 4 cm apart, positioned symmetrically over the centerline of the impact surface, at **75 cm above** the surface.
+
+  - **Pre-test conditions**:
+    - Remove non-removable packaging and labels.
+    - Equilibrate the container:
+      - Store in a **25°C water bath for 4 hours**.
+      - Agitate with **ultrasonic energy** to equalize internal pressure.
+    - Clean the cylinder and surrounding area.
+
+  - **Test procedure**:
+    - Place the container **horizontally and centered** on the support bars.
+    - Allow it to **fall freely** via a snap-action withdrawal of the support bars.
+    - Upon shattering:
+      - Collect and weigh all container fragments that:
+        - **Travel beyond the outside diameter** of the cylinder (external fragments).
+        - **Remain within the inside diameter** of the cylinder (internal fragments).
+      - Calculate the **total dry weight** of the container by summing the weights of both sets of fragments.
+
+- **Pass/Fail Criteria**:
+  - The **total dry weight** of the container must be **at least 95%** of the original dry weight.
+
+> This ensures that the container does not disintegrate into very small or lost pieces, which could pose a choking or ingestion hazard. It also verifies structural integrity under impact.
+
+---
+
+### **Labeling Requirements**
+
+- Every carbonated beverage glass container must have the following **warning printed or affixed** in **boldface letters**:
+  - **"CONTENTS UNDER PRESSURE. HANDLE WITH CARE."** (in English)
+  - **"CONTENU SOUS PRESSION. MANIPULER AVEC SOIN."** (in French)
+
+- The text must be:
+  - Clearly legible.
+  - At least **3 mm in height**.
+  - Prominently displayed.
+
+> This warning alerts consumers to the internal pressure and potential for sudden breakage, especially when handling or dropping the container.
+
+---
+
+### **Manufacturing and Importation Accountability**
+
+Every person who **manufactures or imports** a carbonated beverage glass container must:
+
+1. **Establish and maintain a system of control and inspection** to ensure compliance with:
+   - The shatter resistance requirement (Schedule 1).
+   - The dry weight retention requirement (Schedule 2).
+
+2. **Prepare and maintain detailed documentation** of:
+   - All tests conducted on the containers.
+   - The results of those tests (including test dates, conditions, equipment used, and outcomes).
+
+3. **Retain records for two years**:
+   - The documents must be **available for inspection by a government inspector at all reasonable times** during that period.
+
+> This ensures traceability, accountability, and the ability to verify compliance during audits or investigations.
+
+---
+
+### **Repeal Clause**
+The regulation includes a **"Repeal" clause**, indicating that these rules are intended to replace or supersede any prior regulations on similar topics, though the specific prior rule is not named here.
+
+---
+
+### **Effective Date**
+These regulations **come into force on the day they are registered** in the *Canada Gazette*.
+
+---
+
+### **Purpose and Public Safety Objectives**
+
+The primary objectives of these regulations are:
+
+1. **To prevent injury** from glass container shattering due to internal pressure.
+2. **To reduce the risk of fragmentation** that could lead to cuts, punctures, or ingestion hazards.
+3. **To ensure product integrity** under normal handling and accidental impact conditions.
+4. **To provide clear consumer warnings** and enforce traceability in the supply chain.
+
+---
+
+### **Key Safety Principles Applied**
+
+| Principle | Application |
+|--------|-------------|
+| **Structural Integrity** | Ensures containers resist puncture and shatter in a way that does not release dangerous fragments. |
+| **Impact Resistance** | Tests simulate real-world drop scenarios to assess container durability. |
+| **Consumer Awareness** | Mandatory bold warnings inform users of the internal pressure risk. |
+| **Supply Chain Accountability** | Manufacturers and importers are required to prove compliance through testing and recordkeeping. |
+
+---
+
+### **Conclusion**
+
+The *Carbonated Beverage Glass Containers Regulations* represent a comprehensive and science-based approach to ensuring the **safety of consumers** when using glass bottles of carbonated non-alcoholic beverages. By setting strict standards for **shatter resistance**, **weight retention**, **labeling**, and **recordkeeping**, the regulations provide a robust framework to minimize injury risks associated with glass container failure.
+
+These rules reflect Canada’s commitment to consumer protection under the *Canada Consumer Product Safety Act*, and they serve as a model for future product safety regulations involving pressurized glass containers.
+
+--- 
+
+**Note**: These regulations apply specifically to **non-alcoholic carbonated beverages** in glass containers of **1.5 L or larger**. Alcoholic beverages and smaller containers are outside the scope.

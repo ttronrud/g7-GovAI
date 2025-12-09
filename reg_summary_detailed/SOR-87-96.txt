@@ -1,0 +1,141 @@
+Certainly. Below is a **detailed, structured summary** of the regulation titled:
+
+---
+
+## **Satellite Remote Sensing Services Fees Order, 1987**  
+*(P.C. 1981-239, revoking SOR/85-369 and replacing it with SI/81-18)*  
+**Issued by:** The Minister of Energy, Mines and Resources  
+**Date:** February 16, 1987  
+**Citation:** *Satellite Remote Sensing Services Fees Order, 1987*  
+**Legal Basis:** Paragraph 13(b) of the *Financial Administration Act*, pursuant to Order in Council P.C. 1981-239  
+
+---
+
+### **1. Purpose of the Regulation**
+This regulation establishes a new fee structure for the provision of satellite remote sensing imagery, tapes, and services by the Minister of Energy, Mines and Resources. It replaces the earlier *Satellite Remote Sensing Services Fees Order, 1985* (SOR/85-369), which had been in effect since April 1985. The 1987 Order modernizes and clarifies the fee structure, aligns it with current service offerings, and introduces a tiered discount system for frequent users.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Satellite Operator** | A person who owns or controls the rights to the primary acquisition and distribution of satellite remote sensing data. |
+| **Ground Station Operator** | A person who owns or controls facilities for the direct reception of satellite data and is authorized by the satellite operator to receive and distribute these data. |
+
+> These definitions are critical in determining who is responsible for paying fees and under what conditions.
+
+---
+
+### **3. Core Provisions**
+
+#### **A. General Fee Structure**
+- Any person receiving satellite remote sensing imagery, tapes, or services as described in **Column I** of the Schedule must pay the fee specified in **Column II** of that item.
+- The fee is payable directly to the **Minister of Energy, Mines and Resources**.
+
+#### **B. Discounted Payment for Frequent Users**
+Notwithstanding the general fee structure, **satellite operators or ground station operators** who receive services under **specific items in the Schedule** (items 6, 7, 15, and 16) during a **12-month period** are entitled to a **tiered discount** on the total fee charged:
+
+| Number of Scenes | Discount Rate |
+|------------------|---------------|
+| Up to 150 separate scenes | 91% of the fee |
+| Up to 250 additional scenes (beyond 150) | 88% of the fee |
+| Any additional scenes beyond 250 | 85% of the fee |
+
+> This incentive encourages regular, high-volume use of satellite data while ensuring revenue is still generated for the government.
+
+---
+
+### **4. Schedule of Services and Fees**
+
+The Schedule outlines specific types of satellite data products, their descriptions, and associated fees. Below is a **detailed breakdown** of the listed items, grouped by type for clarity.
+
+---
+
+#### **A. Full Scene Imagery (by size)**  
+*(All full scenes have a base area of 34,000 km² or 32,000 km² or 3,600 km²)*
+
+| Product | Area | Description |
+|--------|------|-------------|
+| Raw Full Scene | 34,000 km² | Unprocessed, original satellite data |
+| Bulk Full Scene | 34,000 km² | Same as raw, but delivered in bulk format |
+| System Corrected, Geocoded | 4,000 km² | Data corrected for system errors and geographically aligned |
+| Precision Corrected, Geocoded | 4,000 km² | Higher accuracy correction and geocoding |
+| Raw Quadrant | 8,360 km² | A quarter of a full scene; raw data |
+| Bulk Quadrant | 8,360 km² | Bulk delivery of a quadrant |
+| Raw Full Scene (32,000 km²) | 32,000 km² | Smaller full scene, possibly for regional use |
+| Bulk Full Scene (32,000 km²) | 32,000 km² | Bulk version of 32,000 km² full scene |
+| System Corrected, Geocoded (32,000 km²) | 4,000 km² | Corrected and geocoded for 32,000 km² |
+| Precision Corrected, Geocoded (32,000 km²) | 4,000 km² | High-accuracy version |
+| Raw Quadrant (32,000 km²) | 8,360 km² | Quarter of 32,000 km² scene |
+| Bulk Quadrant (32,000 km²) | 8,360 km² | Bulk delivery of quadrant |
+| Raw Full Scene (3,600 km²) | 3,600 km² | Small-scale full scene |
+| Bulk Full Scene (3,600 km²) | 3,600 km² | Bulk version of small scene |
+| System Corrected, Geocoded (1,000 km²) | 1,000 km² | Corrected and geocoded for small area |
+| Precision Corrected, Geocoded (1,000 km²) | 1,000 km² | High-accuracy version |
+
+> **Note:** Multiple entries appear repeated across the text — likely due to formatting or duplication in the original document. These appear to represent variations in product type and size, with consistent fee structures.
+
+---
+
+#### **B. Print and Transparency Products**
+
+| Product | Size | Color | Description |
+|--------|------|-------|-------------|
+| 185 mm print | Black & White / Colour | Standard print size |
+| 185 mm transparency | Black & White / Colour | Transparent film version |
+| 371 mm print | Black & White / Colour | Larger print, suitable for detailed analysis |
+| 371 mm transparency | Black & White / Colour | Larger transparency |
+| 742 mm print | Black & White / Colour | Very large print, possibly for presentations |
+| 70 mm Quicklook print | Black & White / Colour | Small, quick-view print for preliminary inspection |
+
+> These are physical output products derived from satellite data, typically used for visual interpretation or reporting.
+
+---
+
+#### **C. Track-Based Services (for line-of-sight or linear coverage)**
+
+| Track Type | Fee | Description |
+|-----------|-----|-------------|
+| One track | Single line of satellite coverage |
+| 2 to 10 tracks | Per track | Multiple tracks for regional coverage |
+| 11 to 20 tracks | Per track | Larger-scale coverage |
+| 21 to 40 tracks | Per track | Broad regional or national coverage |
+| Complete Canadian coverage | One fee | Full national coverage (likely a bundled service) |
+
+> This reflects the cost of acquiring and delivering linear or regional coverage across the country.
+
+---
+
+#### **D. Additional Print & Transparency Items (repeated)**  
+Several entries are duplicated in the original text (e.g., 185 mm print, 371 mm print, 70 mm Quicklook). These appear to be a list of print and transparency products with various sizes and color options, possibly reflecting different service levels or regional demand.
+
+---
+
+### **5. Key Observations and Interpretations**
+
+1. **Redundancy in the Schedule**  
+   The original text contains **repeated entries** (e.g., multiple instances of 185 mm print, 371 mm print, etc.). This may indicate a formatting error or duplication in the source document. It is likely that the schedule was intended to list unique product types, and the repetition suggests a copy-paste or data input error.
+
+2. **Tiered Discount Applies Only to Specific Items**  
+   The 91%, 88%, and 85% discount applies **only** to services listed under **items 6, 7, 15, and 16** of the Schedule.  
+   - These items are not clearly labeled in the provided text, but based on context, they likely include:
+     - Full scene imagery
+     - Track-based coverage
+     - Large print outputs (e.g., 371 mm, 742 mm)
+   - The discount does **not** apply to other services (e.g., small quadrant images or standard prints).
+
+3. **No Mention of Fees in the Text**  
+   While the regulation specifies **what** fees are charged and **how** they are discounted, it does **not list the actual dollar amounts**.  
+   → This is a critical omission. The full fee structure would require reference to the **original Schedule** (which is missing in the provided text).  
+   → Without the actual fee amounts (e.g., CAD $X for a raw full scene), the financial impact of the regulation cannot be fully assessed.
+
+4. **Service Categories**  
+   The services fall into four main categories:
+   - **Imagery (raw, corrected, bulk)**
+   - **Print and transparency products**
+   - **Track-based coverage**
+   - **National coverage**
+
+5. **Eligibility for Discount**  
+   - The discount

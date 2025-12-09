@@ -1,0 +1,153 @@
+**Detailed Summary of the *Payments and Settlements Requisitioning Regulations, 1997* (S.C. 1996, c. 18, s. 4)**
+
+---
+
+### **1. Regulatory Authority and Legal Basis**
+The *Payments and Settlements Requisitioning Regulations, 1997* are made by the **Treasury Board of Canada** under **sections 10a and 33 of the Financial Administration Act (FAA)**.  
+- These sections empower the Treasury Board to establish rules governing the requisitioning of payments and settlements from the **Consolidated Revenue Fund** and inter- or intradepartmental settlements.  
+- The regulations provide a formal, standardized framework to ensure the **authenticity, integrity, and accountability** of financial transactions involving government payments and settlements.
+
+---
+
+### **2. Key Definitions**
+- **Act**: Refers to the *Financial Administration Act*, which provides the legal foundation for these regulations.
+- **Digital Signature**:  
+  A cryptographic mechanism that allows a recipient to verify:
+  - That the message was created using the signer’s private key (i.e., it originated from the intended sender), and  
+  - That the message has not been altered since signing.  
+  This ensures both **authenticity** and **non-repudiation** of the transaction.
+
+- **Settlement**:  
+  Defined as a transfer between departments or organizations (inter- or intradepartmental).  
+  **Excludes** adjusting or correcting entries within a single appropriation (i.e., internal accounting adjustments).
+
+---
+
+### **3. Scope of Application**
+These regulations apply to **all requisitions** submitted to the **Receiver General of Canada** for:
+- A payment to be made from the **Consolidated Revenue Fund**, or  
+- An **interdepartmental or intradepartmental settlement** (e.g., reimbursement, transfer of funds between government departments).
+
+---
+
+### **4. Requirements for Requisition Format**
+Every requisition must be submitted in one of the following acceptable forms:
+1. **Pre-printed form** specifically designed for requisitioning payments or settlements.  
+2. **Printed or written form** generated through an established operating procedure of the submitting department or organization.  
+3. **Electronic instruction** delivered via:
+   - **Online transfer**, or  
+   - **Magnetic tape, disk, diskette, or other electronic storage devices**.
+
+> This ensures consistency, traceability, and compliance with internal financial controls.
+
+---
+
+### **5. Design and Operational Standards**
+All requisitions must:
+- Comply with the **Design of Forms for Input to the Central Accounting System (CAS)**, as outlined in **Receiver General Directive 1986-12**.  
+  - This ensures uniformity in data format, structure, and field requirements to support automated processing and integration into the government’s financial systems.
+
+Additionally, if the requisition is submitted electronically via **on-line transfer**, it **must be authorized by a digital signature**.  
+- This digital signature serves as a secure, verifiable proof of origin and integrity.
+
+---
+
+### **6. Required Information in a Requisition**
+All requisitions must contain the following information (as specified in the schedule):
+
+| Information Item | Description |
+|------------------|-------------|
+| **Submitting Department/Organization** | Name or other identification of the department or unit submitting the requisition. |
+| **Dates** | Date of requisition and the required date of payment. |
+| **Payee Details** | Full name of the recipient (payee). |
+| **Amount** | The exact amount of payment or settlement, or the basis for calculation (with Receiver General’s concurrence). |
+| **Currency** | Currency of payment (if not Canadian dollars). |
+| **Payment Address** | Physical address to which payment or settlement advice is to be sent, or, in electronic cases, the **financial institution number, branch number, and account number** of the payee. |
+| **Recurring Payments (if applicable)** | - Effective date of commencement<br> - Frequency (e.g., monthly, quarterly)<br> - Number of payments or the date of the final payment. |
+| **Certification** | Must meet the certification requirements under Section 4. |
+| **Requisition/Voucher Serial Number** | Unique identifier for tracking and audit purposes (if applicable). |
+
+---
+
+### **7. Certification Requirements (Section 4)**
+Certification is a critical control to prevent fraud and ensure accountability. The certification must:
+- **Comply with the Treasury Board’s Policy on Account Verification**, which sets standards for verifying financial transactions.
+- Be in a form that is **difficult to imitate or duplicate** by unauthorized persons.
+- Clearly:
+  - Identify the **person certifying** the requisition,  
+  - Involve **personally generated information** at the time of certification (not pre-stored or auto-generated via a system), and  
+  - Be **authenticatable by the Receiver General** before payment or settlement is processed and **auditable afterward**.
+
+> This requirement ensures that the certification is not merely a mechanical or automated process but involves **human judgment and personal verification** at the time of issuance.
+
+---
+
+### **8. Integrity and Protection of Requisitions**
+- **Appropriate Minister’s Responsibility**:  
+  The Minister responsible for the department must protect the **integrity of the requisition** from the time it is created until it is received by the Receiver General.  
+  - This includes safeguarding against unauthorized access, alteration, or loss.
+
+- **Receiver General’s Responsibility**:  
+  The Receiver General must protect the **integrity of the requisition** from the time it is received until it is verified under Section 6.  
+  - This includes ensuring that the requisition remains unaltered during processing.
+
+---
+
+### **9. Conditions for Payment or Settlement**
+The Receiver General **shall not make a payment or settlement** unless:
+1. The requisition has been:
+   - Verified as **authentic** and  
+   - Certified by a person **duly authorized under subsection 33(1) of the Financial Administration Act** (i.e., a person with proper authority to certify financial transactions), and  
+2. (If applicable) The requisition has been **acknowledged receipt** by the Receiver General when submitted electronically via on-line transfer.
+
+> This two-pronged verification ensures that only legitimate, properly authorized, and authenticated requests are processed.
+
+---
+
+### **10. Information Sharing for Certification Verification**
+The **appropriate Minister** must provide the Receiver General with the necessary information to **identify the person who certified** the requisition.  
+- This enables the Receiver General to verify the identity and authority of the certifying officer, supporting accountability and auditability.
+
+---
+
+### **11. Effective Date**
+These regulations **come into force on February 23, 1998**.
+
+> This date marks the implementation of a modernized, secure, and standardized system for government financial requisitioning.
+
+---
+
+### **12. Repeal Note (Note: Not in the Text)**
+The original regulation includes a "[Repeal]" clause, which may have been intended to replace or supersede earlier versions of similar rules. However, in the provided text, no specific repeal is detailed. It is likely that this refers to the replacement of outdated requisitioning procedures with this more robust, technology-enabled framework.
+
+---
+
+### **Overall Purpose and Significance**
+The *Payments and Settlements Requisitioning Regulations, 1997* represent a significant step toward:
+- **Modernizing government financial processes** by integrating digital technology (e.g., digital signatures, electronic transfers),
+- **Enhancing transparency and accountability** through mandatory certification and audit trails,
+- **Reducing fraud and errors** through strict controls on requisition format, content, and verification,
+- **Ensuring consistency** across departments through standardized forms and operational procedures.
+
+These regulations are foundational to Canada’s financial governance, supporting secure, efficient, and accountable government spending and inter-departmental transfers.
+
+---
+
+### **Summary Table**
+
+| Element | Key Requirement |
+|--------|------------------|
+| **Legal Authority** | Sections 10a & 33 of the Financial Administration Act |
+| **Scope** | All payments from Consolidated Revenue Fund and inter/intradepartmental settlements |
+| **Form Requirements** | Pre-printed, printed/written, or electronic (with digital signature for online transfers) |
+| **Design Standards** | Must comply with CAS Design Directive 1986-12 |
+| **Certification** | Must involve personal, real-time input; cannot be auto-generated; must be verifiable and auditable |
+| **Integrity** | Protected by the appropriate Minister (before submission) and Receiver General (after receipt) |
+| **Payment Conditions** | Payment only if: (1) verified and certified by authorized person; (2) electronically transferred requisitions are acknowledged |
+| **Required Information** | Payee, amount, date, currency, address/institution details, frequency (if recurring), serial number |
+| **Effective Date** | February 23, 1998 |
+
+---
+
+**Conclusion**  
+This regulation establishes a comprehensive, secure, and auditable framework for government requisitioning of payments and settlements. By combining traditional controls with modern digital tools—especially digital signatures—it ensures that financial transactions are both efficient and trustworthy, aligning with broader government financial accountability and transparency goals.

@@ -1,0 +1,147 @@
+### **Detailed Summary of the Radio Regulations, 1986**
+
+The **Radio Regulations, 1986** (C.R.C., c. 379 and c. 380, revoked and replaced) were enacted by the **Canadian Radio-television and Telecommunications Commission (CRTC)** on **September 18, 1986**, following a public consultation period. These regulations supersede the previous *Radio (A.M.) Broadcasting Regulations* and *Radio (F.M.) Broadcasting Regulations*, establishing a comprehensive framework for the operation of radio stations in Canada, with a strong emphasis on **Canadian content**, **broadcast standards**, **ethical programming**, and **regulatory compliance**.
+
+---
+
+## **I. Background and Legal Authority**
+
+- The proposed regulations were **published in the Canada Gazette, Part I, on March 29, 1986**, giving licensees and the public a **reasonable opportunity to make representations**.
+- The CRTC, acting on the recommendation of its Executive Committee, **revoked the old regulations** and issued these new ones under **subsection 16(1) of the Broadcasting Act**.
+- This process reflects the CRTC’s commitment to **public participation** and **regulatory transparency**.
+
+---
+
+## **II. Key Definitions and Terminology**
+
+The regulations introduce precise definitions to ensure clarity and consistency in enforcement. Key terms include:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Broadcasting Act* |
+| **Canadian** | Includes Canadian citizens, permanent residents, individuals whose residence was in Canada for six months prior to contributing to a musical work, or a licensee |
+| **Commercial message** | An advertisement promoting goods, services, or activities, including those listing the seller |
+| **Commercial station** | Any station not owned by the Corporation, not-for-profit, or designated as community, native, or ethnic |
+| **Community station** | A station serving local communities (non-commercial) |
+| **Campus station** | A station serving educational institutions |
+| **Native station** | A station serving Indigenous communities |
+| **Ethnic station** | A station targeting culturally or racially distinct groups (excluding Aboriginal, French, or British Isles heritage) |
+| **Content category/subcategory** | Based on the **2010 Broadcasting Regulatory Policy 2010-819**, which categorizes broadcast content (e.g., music, talk, news) |
+| **Market** | Defined by contour (e.g., 15mV/m for A.M., 3mV/m for F.M.) or BBM-defined central area |
+| **Musical selection** | Any live or recorded music of one minute or more, including medleys and montages |
+| **Canadian selection** | Music meeting at least two of the following criteria:<br>• Performed/composed/lyrics by a Canadian<br>• Recorded/performed in Canada<br>• Canadian receives ≥50% credit as composer/lyricist (post-1991)<br>• Instrumental performance by a Canadian composer<br>• Performance of music composed by a Canadian for instruments only |
+| **Montage** | A compilation of excerpts from multiple songs (not a medley); deemed Canadian if >50% of duration is Canadian selections and ≥4 minutes |
+| **Medley** | A single performance combining excerpts from several songs; considered a Canadian selection if composed or performed by a Canadian |
+| **Spoken word content, production content, official contour** | All **repealed** |
+| **Subsidiary communications multiplex operations channel** | A secondary frequency band (76 kHz or 59.5 kHz) used for data or audio transmission; **exempt from Canadian content rules** |
+
+---
+
+## **III. Canadian Content Requirements (Core of the Regulations)**
+
+These provisions mandate that radio stations broadcast a **minimum percentage of Canadian music**, depending on the type of station.
+
+### **1. Community and Campus Stations (Non-Commercial)**
+- Must devote **at least 12%** of musical selections (in a broadcast week) from **content category 3** to **Canadian selections broadcast in full**.
+- *Note:* Content category 3 typically refers to **music** (as opposed to talk, news, etc.).
+
+### **2. All Other Stations (Non-Commercial)**
+- Must devote **at least 10%** of musical selections from content category 3 to Canadian selections.
+- These must be **scheduled reasonably throughout the broadcast day**.
+
+### **3. Commercial Stations (Commercial Radio)**
+- Must devote:
+  - **At least 25%** of musical selections from **content subcategory 31** (general music) to Canadian selections.
+  - **At least 20%** of musical selections from **content subcategory 34** (popular music) to Canadian selections.
+- Both must be **scheduled reasonably throughout each broadcast day**.
+
+> **Exception**: If **7% or more** of the musical selections during an **ethnic programming period** are Canadian selections and scheduled reasonably, then the Canadian content requirements apply **only to the non-ethnic programming portion** of the week.
+
+---
+
+### **4. French-Language Stations**
+
+- **French-language stations (non-commercial)**:
+  - Must devote **at least 65%** of **vocal musical selections from content category 2** (e.g., pop, rock, etc.) to **French-language selections broadcast in full**.
+
+- **Commercial French-language stations**:
+  - Must devote **at least 55%** of vocal musical selections from content category 2 to **French-language selections in full**, between **6:00 a.m. and 6:00 p.m.** (Monday to Friday).
+
+- **Reduction Clause**:
+  - If a station devotes **≥35% but <50%** of its programming to instrumental selections, it may reduce the percentage of Canadian selections from category 2 to **20%**.
+  - If it devotes **≥50%** to instrumental selections, it may reduce it to **15%**.
+
+---
+
+### **5. General Canadian Content Requirement (All Stations, Non-Commercial)**
+
+- **Non-commercial stations (excluding commercial, community, campus)**:
+  - Must devote **at least 30%** of musical selections from content category 2 to Canadian selections.
+
+- **Commercial stations (community, campus, or commercial)**:
+  - Must devote **at least 35%** of musical selections from content category 2 to Canadian selections **broadcast in full**.
+
+- **Commercial stations (daily, 6 a.m.–6 p.m.)**:
+  - Must devote **at least 35%** of musical selections from content category 2 to Canadian selections **during weekday morning hours**.
+
+---
+
+### **6. Montage and Medley Rules**
+
+- A **montage** is considered a **Canadian selection in full** if:
+  - More than **50% of its duration** consists of Canadian selections from category 2.
+  - Total duration is **4 minutes or more**.
+
+- A montage is considered a **French-language selection in full** if:
+  - More than **50% of its duration** consists of French-language vocal selections from category 2.
+  - Total duration is **4 minutes or more**.
+
+> This allows for creative programming while still ensuring Canadian and linguistic content is represented.
+
+---
+
+## **IV. Ethical and Legal Broadcasting Standards**
+
+### **Prohibited Content**
+A licensee **shall not broadcast**:
+1. Anything in contravention of the law.
+2. **Abusive comments** that expose individuals or groups to **hatred or contempt** based on:
+   - Race, national/ethnic origin, colour, religion, sex, sexual orientation, age, or disability.
+3. **Obscene or profane language**.
+4. **False or misleading news**.
+5. **Telephone interviews or conversations** unless:
+   - The individual **gave prior consent**, or
+   - The person **called the station directly** for participation.
+
+> **Note**: Sexual orientation does **not** include acts that are criminal under the *Criminal Code*.
+
+> **Obscenity** is defined as language that **unduly exploits sex** or combines sexual content with crime, horror, cruelty, or violence.
+
+---
+
+## **V. Alcoholic Beverage Advertising (Strict Controls)**
+
+A licensee may only advertise an alcoholic beverage **if**:
+1. The sponsor is **not prohibited** from advertising under provincial law.
+2. The commercial message is **not designed to promote general consumption** of alcohol.
+3. The commercial message **complies with the Code for Broadcast Advertising of Alcoholic Beverages**, published by the CRTC on **August 1, 1996**.
+
+> **Exceptions**: Industry, public service, or brand preference advertising is **not prohibited**.
+
+---
+
+## **VI. Pre-1999 Requirements (Food and Drugs Act Compliance)**
+
+Before **January 1, 1999**, any commercial message involving a **device subject to the Food and Drugs Act** (e.g., medical devices, food products) required:
+1. **Script approval** by the **Minister of Health** to confirm compliance with relevant legislation.
+2. The script must bear a **script number** assigned by the Minister.
+3. A **record of the script** must be kept for **one year** after broadcast and provided upon request by the CRTC or an inspector.
+
+> **Important**: Approval does **not guarantee** compliance with the law.
+
+---
+
+## **VII. Election Periods and Political Broadcasting**
+
+During an **election period** (federal, provincial, or municipal):
+- Licensees must **allocate time equitably** to all

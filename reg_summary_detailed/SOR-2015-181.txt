@@ -1,0 +1,172 @@
+Certainly. Below is a **detailed, structured summary** of the *Secure Air Travel Regulations* (S.C. 2015, c. 20), enacted under the *Secure Air Travel Act*, as amended and updated through subsequent amendments (notably SOR/2022-225 and SOR/2019-325), with particular attention to the current operative provisions.
+
+---
+
+## 📚 **Detailed Summary of the Secure Air Travel Regulations (S.C. 2015, c. 20)**
+
+### **1. Purpose and Legal Basis**
+The *Secure Air Travel Regulations* are made under **section 32 of the Secure Air Travel Act (SATA)** by the Governor General in Council, on the recommendation of the **Minister of Public Safety and Emergency Preparedness (MPSEP)**.  
+The primary purpose is to **enhance aviation security** by implementing a system of **identity verification and passenger screening** for certain domestic and international flights, especially those involving high-risk or large-scale operations.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Secure Air Travel Act* |
+| **Boarding Pass** | Includes a ticket or document accepted by an air carrier and approved by an aerodrome operator as confirmation of a passenger’s status on a flight |
+| **Canadian Travel Number (CTN)** | A unique identifier assigned to individuals under section 10.1 of the Act; used to track passenger identity and ensure accurate matching against security lists |
+| **Domestic Flight** | A flight departing from a Canadian aerodrome and operated under Subpart 5 of Part VII of the Canadian Aviation Regulations (CARs) |
+| **International Flight** | A flight departing from or arriving at a Canadian aerodrome and operated under:<br>• Subpart 1 of CARs using aircraft with:<br> – Maximum take-off weight > 8,618 kg (19,000 lbs), or<br> – Seating capacity (excluding crew) of 20 or more<br>• OR under Subpart 5 of CARs |
+| **Minister** | The Minister of Public Safety and Emergency Preparedness |
+
+> ⚠️ **Note**: The term "unique identifier" was **repealed** in SOR/2022-225, s.1. Only the **Canadian Travel Number (CTN)** is now relevant.
+
+> ✅ For **paragraph 10(f)** of the Act, the **Minister of Foreign Affairs** is designated as a "prescribed person" — meaning they may be involved in cross-border screening coordination.
+
+---
+
+### **3. Scope of Application**
+
+These regulations apply to **passenger-carrying flights** where **screening of passengers, their property, and baggage occurs** either:
+
+- **In Canada** under the *Aeronautics Act*, or  
+- **In another country** by the entity responsible for such screening
+
+Specifically, the rules apply to:
+
+✅ **Domestic flights** departing from Canadian aerodromes under Subpart 5 of Part VII of the CARs  
+✅ **International flights** departing from or arriving at Canadian aerodromes under:
+- Subpart 1 of CARs with large aircraft (>8,618 kg or ≥20 seats), **or**
+- Subpart 5 of CARs
+
+> 🔍 *Excluded*: Smaller aircraft or flights where screening does not occur before boarding.
+
+---
+
+### **4. Information Collection and Submission Requirements**
+
+#### **4.1. Pre-Flight Information Collection (72 Hours Before Departure)**  
+Air carriers must collect the following information about each passenger expected to board:
+
+- Citizenship or nationality  
+- Passport details (number, expiry, issuing country) or permanent resident card (Canada or U.S.)  
+- Canadian Travel Number (if provided)  
+- Reservation record locator number  
+- Unique passenger reference assigned by the air carrier  
+- Flight code (airline + flight number)  
+- Scheduled departure date, time, and place  
+- Scheduled arrival date, time, and place  
+
+> 📌 This information must be collected **no later than 72 hours before scheduled departure**.  
+> If a reservation is made **after 72 hours**, the information must be submitted at the time of reservation.
+
+#### **4.2. Timeliness of Submission to the Minister**
+
+- **For persons expected to board**:  
+  - Information must be provided **within 72 hours** of departure or at time of reservation (whichever is later).  
+  - Any **new information or changes** must be reported **as soon as feasible** before departure.
+
+- **For persons on board**:  
+  - Information must be provided to the Minister **within 30 minutes after departure** (e.g., boarding gate time).  
+  - This includes updated details such as actual departure time or changes in passenger details.
+
+> ✅ The information must be submitted via an **electronic communication system** compatible with the Minister’s system and capable of:
+> - Receiving and acknowledging receipt of data
+> - Receiving directions from the Minister under **section 9 of the Act**
+
+> 🔁 Air carriers must **use the same system** for cancellation notifications (see below).
+
+---
+
+### **5. Cancellation Reporting**
+
+- Air carriers must inform the Minister of **flight cancellations** within **30 minutes** of cancellation:
+  - For a reservation where information was previously provided
+  - For a flight where a person was on board and information was submitted
+
+> ❗ This ensures real-time updates to the Minister’s database and helps prevent mismatches or security risks.
+
+---
+
+### **6. Identity Verification at Check-In and Boarding**
+
+#### **6.1. Pre-Boarding Checks (Before Boarding Pass Issuance)**
+
+##### **If the Minister has flagged the passenger as a "listed person" (on a watchlist)**:
+- The air carrier **must not allow** the person to obtain a boarding pass via:
+  - Self-service kiosks  
+  - Internet check-in  
+- If the person visits the **check-in desk**, the carrier must:
+  - Verify identity using acceptable photo ID (as defined below)
+  - Compare:
+    - Name, date of birth, and photo on ID with reservation record
+    - Full face (if photo ID is presented) with the photo in the document
+
+> ⚠️ **If a discrepancy is found**, the air carrier **must not issue a boarding pass** until receiving a response from the Minister.
+
+> ✅ **Exception**: The air carrier may issue a boarding pass **only if**:
+> - No discrepancy is found, **OR**
+> - A discrepancy exists but the Minister confirms the person's details still match a listed individual (i.e., no new direction issued)
+
+> 📞 The air carrier must **contact the Minister of Transport by phone** and be informed that **no direction will be issued under subsection 9(1)** (except under paragraph 9(1)(b)) before allowing boarding.
+
+---
+
+#### **6.2. Identity Verification at Boarding Gate**
+
+##### **Domestic Flights (Passengers 18+ years of age)**  
+Must verify identity using **one** of the following:
+
+1. **One valid photo ID** issued by a Canadian government authority showing:
+   - Full name (surname, first name, middle names)
+   - Date of birth  
+   *(Excluded: fishing/hunting/boating documents)*
+
+2. **One of the following** (photo ID with full name and DOB):
+   - Passport (citizen/national of country)
+   - NEXUS card
+   - Permanent resident card (U.S.)
+   - Enhanced U.S. driver’s license
+   - Any document under Immigration and Refugee Protection Regulations (s.50(1) or 52(1))
+
+3. **Two valid IDs**, at least one showing full name and DOB  
+   *(Excluded: fishing/hunting/boating documents)*
+
+4. **Valid restricted area identity card** (as defined in Canadian Aviation Security Regulations, 2012)
+
+> ✅ **Exception**: If one ID is lost or stolen, the carrier may verify identity using:
+> - Employee ID, public transit pass, or baptismal certificate  
+> - **Only if** accompanied by official documentation from a government body or police service attesting to loss/theft
+
+---
+
+##### **International Flights (Passengers 18+ years of age)**  
+Must verify identity using **one** of the following:
+
+1. Passport (citizen/national of country)
+2. NEXUS card
+3. Any document under s.50(1) or s.52(1) of the *Immigration and Refugee Protection Regulations*
+4. Valid restricted area identity card
+
+> ✅ Must compare:
+> - Name, DOB, and gender on ID with name on boarding pass
+> - Full face (if photo ID presented) with photo in document
+
+> ⚠️ **If there is a significant discrepancy** (e.g., name mismatch), the air carrier must **immediately report it to the Minister** via the electronic system.
+
+---
+
+### **7. Prohibitions on Transportation**
+
+An air carrier **may not transport** a passenger if:
+
+1. The passenger presents a photo ID and **does not resemble the photograph**  
+2. The passenger presents **more than one ID** with a **significant discrepancy** between them  
+
+> ✅ **Exception**:  
+> A passenger may be transported **if**:
+> - Their appearance changed due to **medical reasons** after the photo was taken  
+> - They present a **document signed by a healthcare professional** attesting to the change  
+>

@@ -1,0 +1,170 @@
+### **Detailed Summary of the Cannabis Tracking System Order (S.C. 2018, c. 16, Ottawa, May 31, 2019)**
+
+This regulation, made under **subsection 82(1) of the *Cannabis Act***, establishes a comprehensive **Cannabis Tracking System** to ensure transparency, accountability, and traceability in the movement and inventory of cannabis and cannabis products across licensed operations in Canada. The goal is to enable the Minister of Border Security and Organized Crime Reduction to monitor the flow of cannabis through the legal supply chain, prevent diversion, and support regulatory oversight.
+
+---
+
+## **I. Purpose and Legal Basis**
+
+- **Authority**: The Minister promulgates this Order pursuant to **subsection 82(1) of the Cannabis Act**, which allows the Minister to establish systems for tracking cannabis.
+- **Objective**: To create a **national tracking system** that records detailed monthly inventory movements for cannabis products and unpackaged cannabis across licensed operators, including cultivators, processors, medical sellers, and authorized public bodies.
+
+---
+
+## **II. Key Definitions**
+
+The Order defines several key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Cannabis Act* |
+| **Regulations** | Refers to the *Cannabis Regulations* |
+| **Book value** | The value of an asset as recorded on the balance sheet (i.e., financial accounting value) |
+| **Cannabis extract** | As defined in the Regulations |
+| **Cannabis product** | As defined in the Regulations (includes edibles, oils, etc.) |
+| **Edible cannabis** | As defined in the Regulations |
+| **Licence for analytical testing**, **cultivation**, **processing**, **research**, **sale for medical purposes** | As defined in the Regulations |
+| **Site** | As defined in the Regulations (a physical location where operations occur) |
+| **Unpackaged cannabis** | Cannabis not contained within a cannabis product (e.g., raw flower, stems, etc.) |
+| **Public body** | Includes Crown corporations and government entities authorized to sell cannabis under provincial law |
+
+> **Note**: For the purposes of this Order, "cannabis contained in a cannabis product" includes cannabis that is itself a cannabis product.
+
+> **Exclusions from "sale or distribution"**:
+> - Return of cannabis  
+> - Sale/distribution for destruction  
+> - Import or export of cannabis  
+
+---
+
+## **III. Reporting Requirements**
+
+### **A. For Licence Holders (Cultivation, Processing, Medical Sale)**
+
+These entities must submit **monthly reports by the 15th day of each month**, covering the **previous month's inventory and transactions**.
+
+#### **Core Reporting Elements (by category)**
+
+| Category | Required Information |
+|--------|------------------------|
+| **1. Inventory at Start of Month** | Number and quantity of cannabis products and unpackaged cannabis on the first day of the prior month |
+| **2. Additions to Inventory** | By reason: <br>• Sale/distribution to the holder<br>• Packaging & labelling for retail<br>• Return of products<br>• Importation<br>• Production from unpackaged cannabis<br>• Other reasons |
+| **3. Removals from Inventory** | By reason: <br>• Sale/distribution<br>• Destruction<br>• Loss/theft (requiring notice under para. 246(1)(b))<br>• Return by holder<br>• Other reasons |
+| **4. Retail Sales (by province & class)** | <br>• Number and book value of cannabis products sold directly to consumers (excluding purchase orders under section 289)<br>• Book value expressed in Canadian dollars, net of sales tax<br>• By province and cannabis class (per Schedule 1) |
+| **5. Sales to Other Licensed Entities** | <br>• Number and book value of products sold to other cultivators, processors, medical sellers, or researchers<br>• Quantity of unpackaged cannabis used in production of specific classes (items 8–14 of Schedule 2) |
+| **6. Unpackaged Cannabis Movements** | <br>• Quantity and book value of unpackaged cannabis added or removed due to: <br>• Sale/distribution to other holders<br>• Use in production<br>• Packaging for retail<br>• Destruction<br>• Loss due to drying or normal business activities<br>• Theft/loss requiring notice<br>• Returns<br>• Other reasons |
+| **7. Final Inventory** | <br>• Number and book value of cannabis products<br>• Quantity and book value of unpackaged cannabis on the last day of the previous month |
+
+#### **Reporting by Class and Location**
+
+- **Cannabis Products**:
+  - Must be reported **by class** (as listed in **Column 1 of Schedule 1**)
+  - Quantity (in applicable units from **Column 2**) and **book value (in CAD, net of tax)**
+
+- **Unpackaged Cannabis**:
+  - Must be reported **by class** (as in **Schedule 2, Column 1**)
+  - Quantity (in applicable units) and **book value (in CAD, net of tax)**
+
+- **By Province (for retail sales)**:
+  - For products sold to consumers, data must be broken down **by province and cannabis class**
+
+- **By Province (for unpackaged cannabis sales)**:
+  - Quantity and book value must be reported **by province and class**
+
+#### **Surface Area Requirements (for Cultivation & Processing)**
+
+If reporting from a licensed site:
+- **Cultivator**:
+  - Total authorized surface area (in m² for indoor, hectares for outdoor)
+  - Total area used for cultivation, propagation, or harvesting
+- **Processor**:
+  - Total surface area (in m²) used for producing cannabis
+
+> If multiple surfaces (e.g., stacked floors), each must be included in the total.
+
+---
+
+### **B. For Public Bodies Authorized to Sell Cannabis**
+
+Public bodies (e.g., provincial governments, Crown corporations) must report **monthly by the 15th day of each month**.
+
+#### **Reporting Elements**
+
+| Element | Details |
+|--------|--------|
+| **Inventory at Start** | Number of cannabis products on first day of previous month |
+| **Additions** | Due to sale/distribution, return, or other reasons |
+| **Removals** | Due to sale, destruction, loss/theft, return, or other reasons |
+| **Retail Sales** | <br>• Number and book value of products sold to consumers present or absent at location<br>• Book value in CAD, net of tax |
+| **Sales to Other Entities** | Sales to authorized sellers or other locations |
+| **Final Inventory** | Number and quantity of products on last day of previous month |
+| **Activity Indicators** | Whether primary activity was: <br>• Sale to authorized sellers or distribution to other locations<br>• Retail sale to consumers |
+| **Location Details** | <br>• Business name<br>• Unique location identifier (from public body or Minister)<br>• Municipality and postal code |
+| **Reporting Period** | Month and calendar year |
+
+#### **Reporting by Province & Class**
+
+- Data must be broken down **by province and cannabis class (Schedule 1)**
+
+---
+
+### **C. For Provincial Sellers (Non-Public Bodies)**
+
+Persons authorized under provincial law to sell cannabis (e.g., private retailers) must report **by the 10th day of each month** to the **designated public body**, not directly to the Minister.
+
+#### **Reporting Elements**
+
+Same as public bodies (inventory, additions, removals, sales, final inventory, activity type, location details), but:
+
+- Must be submitted to the **public body responsible** for authorizing sales in the province
+- Reporting must be **by location** within the province
+
+#### **Designated Public Body**
+
+- **If no public body exists** in the province OR
+- The Minister and provincial public body agree in writing that the public body will receive and forward the data to the Minister
+
+→ Then the **provincial public body** receives the reports.
+
+- Otherwise, the **public body authorized under provincial law** receives the reports.
+
+> This ensures provincial oversight while enabling central tracking.
+
+---
+
+## **IV. Conditions for Reporting Obligations**
+
+A person is **only required to report** if:
+
+1. The public body to which the report is due:
+   - Is **required** to provide the data to the Minister, **or**
+   - Has **agreed** in writing with the Minister to receive and forward the data
+
+2. A **notice** specifying the effective date of this requirement is:
+   - Published on the **Government of Canada website**, or
+   - Provided directly to the person
+
+> If the condition ends (e.g., the public body stops requiring reporting), the Minister must issue a notice to inform affected parties as soon as possible.
+
+---
+
+## **V. Reporting Upon Closure of Operations**
+
+Any licensed holder or public body that **ceases all authorized activities** at a location must:
+
+- Submit **any outstanding reports** for the previous month
+- Submit a report for the **month in which operations ceased**
+- Must do so **within 15 days** of ceasing operations
+
+---
+
+## **VI. Submission and Recordkeeping Requirements**
+
+### **Submission Method**
+- All reports must be submitted **via the dedicated website** established by the Minister for this purpose.
+
+### **Notification of Changes**
+- Holders or public bodies must **notify the Minister** if the individual responsible for submitting reports is no longer in charge.
+
+### **Record Retention**
+- All records, reports, electronic data,

@@ -1,0 +1,165 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the regulation titled:
+
+---
+
+## **Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector)**  
+*Issued under the Canadian Environmental Protection Act, 1999 (CEPA 1999)*  
+*Published in Canada Gazette, Part I, May 27, 2017; Enacted in 2017*
+
+---
+
+### **I. Legislative Background and Purpose**
+
+#### **1. Legal Authority**
+- The regulation was made under **subsection 332(1)a** of the *Canadian Environmental Protection Act, 1999* (CEPA 1999), which allows the Minister of the Environment to propose and adopt regulations to reduce emissions of harmful substances.
+- The Governor in Council (i.e., the federal Cabinet) enacted the regulation **on the recommendation of the Minister of the Environment and the Minister of Health**, pursuant to:
+  - **Section 93(1)**: Authority to make regulations for environmental protection.
+  - **Section 286.1d**: Power to regulate emissions of substances that contribute to climate change or environmental harm.
+  - **Section 330(3.2)e**: Power to designate provisions as "serious offences" for enforcement purposes.
+
+#### **2. Regulatory Process**
+- A **proposed regulation** was published in *Canada Gazette, Part I* on May 27, 2017, giving stakeholders (industry, environmental groups, etc.) a **public comment period**.
+- The **National Advisory Committee** was consulted under **subsection 93(3)** to provide expert advice.
+- The Governor in Council concluded that the proposed regulations:
+  - Do **not conflict** with other federal laws;
+  - Provide **sufficient environmental and human health protection**;
+  - Are **necessary and proportionate** to reduce emissions of methane and volatile organic compounds (VOCs).
+
+> ✅ Therefore, the regulation was adopted and came into force as a binding legal instrument.
+
+---
+
+### **II. Overall Objectives**
+
+The primary goals of these regulations are:
+
+1. **To reduce emissions of methane and certain volatile organic compounds (VOCs)** from upstream oil and gas operations.
+2. **To protect the environment and human health** by minimizing the release of greenhouse gases and pollutants that contribute to climate change and air quality degradation.
+3. **To establish enforceable, measurable, and science-based standards** for emission control in the upstream sector.
+
+> ⚠️ *Note: These regulations apply only to **onshore upstream oil and gas facilities**. Offshore operations are excluded.*
+
+---
+
+### **III. Key Definitions**
+
+To ensure clarity and consistency, the regulation provides precise definitions of key terms:
+
+| Term | Definition |
+|------|-----------|
+| **Operator** | A person who manages, controls, or has charge of an upstream oil and gas facility. |
+| **Upstream Oil and Gas Facility** | A single site or network of sites including: wells, gathering pipelines, processing plants, compression stations, and storage. It includes all equipment involved in extraction, primary processing, and transportation. |
+| **Hydraulic Fracturing** | Injecting fluid under pressure into a well to create fractures in rock formations to release hydrocarbons. Includes refracturing. |
+| **Flowback** | Fluids (with solids) recovered after hydraulic fracturing for cleanup, re-fracturing, or production resumption. |
+| **Fugitive Emissions** | Unintentional release of hydrocarbon gases from equipment or processes. |
+| **Venting** | Controlled release of gas (not from combustion), due to design or equipment failure. |
+| **Combustion Device** | Equipment that burns gaseous fuel to generate heat or energy (e.g., heaters, boilers). |
+| **Hydrocarbon Gas Conservation Equipment** | Equipment designed to capture and store gas for later use (e.g., fuel, injection). |
+| **Hydrocarbon Gas Destruction Equipment** | Equipment that converts hydrocarbons into CO₂ and other molecules (e.g., flares). |
+| **Standard Conditions** | 15°C and 101.325 kPa; used for measuring gas volumes. |
+| **Standard m³** | A cubic meter of gas at standard conditions. |
+| **Gas-to-Oil Ratio (GOR)** | Volume of gas produced per volume of liquid oil (in standard m³). |
+
+> 🔍 *Note: "Should" is interpreted as "must" in these regulations. Recommendations in referenced documents are treated as obligations unless context indicates otherwise.*
+
+---
+
+### **IV. Core Provisions and Requirements**
+
+#### **A. Hydrocarbon Gas Conservation Equipment (Section 7)**
+
+Operators must ensure that **at least 95% of hydrocarbon gas routed to conservation equipment is captured and conserved**.
+
+**Mandatory Requirements:**
+- Equipment must operate **continuously**, except during normal servicing or repairs.
+- Must be operated and maintained **in accordance with manufacturer’s recommendations**.
+- **Exception**: If an operator can prove via documented records that **non-compliance with a recommendation does not affect the 95% capture rate**, that recommendation need not be followed.
+
+**Recordkeeping Requirements:**
+- For each month the equipment is used:
+  - Document the **percentage of gas captured** at any given moment.
+  - Include **volumetric flow rate calculations** and supporting data.
+  - Record **operation and maintenance practices**, including manufacturer recommendations and actions taken.
+
+> 📌 *This ensures transparency and accountability in gas capture performance.*
+
+---
+
+#### **B. Use of Captured Gas (Section 8)**
+
+Captured hydrocarbon gas must be conserved until it is used for one of the following:
+
+1. **As fuel in a combustion device** where **no more than 5% of the gas is released** to the atmosphere.
+2. **Delivered** to a downstream facility (e.g., pipeline).
+3. **Injected** into an underground geological deposit (not as waste disposal).
+
+**Recordkeeping for Combustion Devices:**
+- For each month the device is used:
+  - Record the **percentage of gas released** to the atmosphere.
+  - Based on:
+    - Tests conducted under manufacturer-recommended conditions; or
+    - Measurements taken under those conditions.
+- Must be supported by **test results or measurement data**.
+
+> 🔍 *This ensures that combustion is efficient and emissions are minimized.*
+
+---
+
+#### **C. Hydrocarbon Gas Destruction Equipment (Section 9)**
+
+For facilities using flares or incinerators to destroy hydrocarbons, the equipment must meet **specific requirements based on location**:
+
+| Province | Required Document |
+|--------|-------------------|
+| **British Columbia** | Sections 3.6 and 7 of *Flaring and Venting Reduction Guideline* (2016) |
+| **Manitoba or Saskatchewan** | Section 3 of *Directive S-20: Saskatchewan Upstream Flaring and Incineration Requirements* (2015) |
+| **Alberta (all other cases)** | Sections 3.6 and 7 of *Directive 060: Upstream Petroleum Industry Flaring, Incinerating, and Venting* (2016) |
+
+**Recordkeeping Requirement:**
+- Must maintain **demonstrable proof** (with supporting documents) that all destruction requirements are met.
+
+> 📌 *These guidelines are adopted as binding standards, ensuring that flaring is minimized and emissions are fully accounted for.*
+
+---
+
+#### **D. Flowback Gas Management (Section 10)**
+
+For wells undergoing **hydraulic fracturing** with a **gas-to-oil ratio (GOR) of at least 53:1**:
+
+- **Flowback gas must NOT be vented**.
+- Must be **captured and routed** to either:
+  - Hydrocarbon gas conservation equipment, or
+  - Hydrocarbon gas destruction equipment.
+
+**Exception:**
+- If the flowback gas has **insufficient heating value** to sustain combustion, venting may be permitted.
+
+**Recordkeeping Requirement:**
+- For each well undergoing hydraulic fracturing:
+  - Record the **most recent GOR** before fracturing.
+  - If GOR ≥ 53:1, demonstrate that flowback gas was captured and routed.
+  - If gas was vented, record the **heating value** of the gas.
+
+> ⚠️ This targets high-GOR wells — which are typically associated with significant methane emissions — and requires strict emission controls.
+
+---
+
+#### **E. Emissions from Compressor Seals (Section 14)**
+
+For **centrifugal or reciprocating compressors** with a **rated brake power of 75 kW or more**:
+
+- Emissions from **seals (centrifugal)** or **rod packings/distance pieces (reciprocating)** must be:
+  1. **Captured** and routed to conservation or destruction equipment; or  
+  2. **Routed to vents** (with strict limits).
+
+**Venting Requirements:**
+- If venting is used, emissions must be **measured** using:
+  - A **flow meter** (not a calibrated bag), or
+  - A **continuous monitoring device**.
+
+**Calibration & Measurement Standards:**
+- Flow meter must be **calibrated per manufacturer’s recommendations** with a **maximum error of ±10%**.
+- Measurements must be taken under specific conditions:
+  - For **centrifugal compressors**: When operating under conditions representative of the **previous 7 days**.
+  - For **reciprocating compressors**: When the compressor is **pressurized**.
+  - In all cases, **with a

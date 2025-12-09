@@ -1,0 +1,162 @@
+**Detailed Summary of the *Expansion Gates and Expandable Enclosures Regulations* (S.C. 2010, c. 21)**
+
+---
+
+### **Overview**
+
+The *Expansion Gates and Expandable Enclosures Regulations*, made under **section 37 of the Canada Consumer Product Safety Act (CCPSA)**, establish comprehensive safety, labeling, material composition, and performance standards for **expansion gates** and **expandable enclosures** designed for use with infants and toddlers aged **6 months to 24 months**.
+
+These regulations are designed to protect young children from accidental injury by ensuring that such products are safe in terms of physical design, chemical content, flammability, and clear user instructions. The regulations came into force upon registration and apply to all expansion gates and expandable enclosures sold in Canada.
+
+---
+
+## **Key Definitions**
+
+The following terms are defined to ensure clarity and consistency throughout the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Burr** | A non-functional protrusion on the surface that increases the roughness-height index by more than 100 μm. |
+| **Expandable Enclosure** | A self-supporting barrier (indoor or outdoor) intended to surround an area where children aged 6 months to 24 months may be confined. |
+| **Expansion Gate** | A barrier installed in doorways or openings to prevent children from passing through; it can be removed by older individuals who can operate its locking mechanism. |
+| **Good Laboratory Practices (GLP)** | Practices aligned with the OECD document *Principles of Good Laboratory Practice*, specifically ENV/MC/CHEM(98)17 (1998), ensuring scientific integrity in testing. |
+| **Indelibly Printed** | Markings applied directly to the product or packaging using paint, stamping, moulding, etc., that do not fade or erode under standard testing (e.g., glass cleaner and rubbing). |
+| **Permanently Affixed** | Labels secured with adhesive or bonding agents that cannot be easily removed under specified testing conditions. Excludes hang tags or labels on padded parts. |
+| **Rough** | Surface with a roughness-height index greater than 50 μm. |
+| **Roughness-Height Index** | The average deviation (in micrometres) of surface irregularities from a perfect flat surface. |
+| **Safety Standard** | ASTM F1004-86 – *Standard Consumer Safety Specification for First-Generation Standard Expansion Gates and Expandable Enclosures*, approved in 1986 and published in 1987. |
+
+---
+
+## **Material and Chemical Safety Requirements**
+
+### **Lead, Mercury, and Toxic Metal Limits**
+Any **accessible part** or **surface coating** on an expansion gate or expandable enclosure must comply with the following limits when tested using methods in accordance with **Good Laboratory Practices (GLP)**:
+
+- **Total lead**: ≤ 90 mg/kg  
+- **Antimony, arsenic, cadmium, selenium, or barium**: ≤ 1,000 mg/kg *migrated* from the material  
+- **Total mercury**: ≤ 10 mg/kg  
+
+> *Note:* "Accessible part" and "surface coating material" are defined in the *Surface Coating Materials Regulations*.
+
+### **Flame Resistance (Textile Fibres)**
+Any textile component must meet the following **flame spread time** requirement when tested per **CAN/CGSB-4.2 No. 27.5** (Flame Resistance – 45° Angle Test – One-Second Flame Impingement):
+
+- Flame spread time must be **greater than 7 seconds**, **unless**:
+  - The fibre has a raised surface, **and**
+  - The material exhibits **ignition or fusion of base fibres** during testing.
+
+> *This means that even if a fabric has a raised surface, it must still resist catching fire for at least 7 seconds under standard test conditions.*
+
+### **Structural Integrity and Surface Finish**
+
+#### **Wood, Plastic, or Hard Materials**
+- Must be **free from cracks, defects, or flaws**.
+- Must be **smoothly finished** to eliminate **rough or sharp edges**.
+
+#### **Metal Components**
+- Must be **free from burrs, projections, sharp edges, corners, or points**.
+- **Cut edges** of metal tubing must meet **one of two requirements**:
+  1. Smoothly finished to eliminate rough or sharp edges, or  
+  2. Protected by a **cap** that remains in place when subjected to a **force of 90 N** in any direction.
+
+#### **Threaded Bolt Ends**
+- If accessible to a child or user, the **threaded end of every bolt** must be covered by:
+  - An **acorn nut**, or  
+  - A device offering **equivalent protection** (e.g., a safety cap).
+
+#### **Small Parts (Small Parts Cylinder Test)**
+- Any part small enough to fit inside the **small parts cylinder** (as illustrated in Schedule 2) must be:
+  - **Affixed securely** so that it does **not detach** when subjected to a **90 N force** in any direction.
+
+> *Purpose:* Prevents ingestion of small, potentially hazardous components by young children.
+
+---
+
+## **Performance and Testing Requirements**
+
+### **Compliance with ASTM F1004-86 Safety Standard**
+Every expansion gate or expandable enclosure must:
+- Meet the **performance requirements** in **Sections 4.1 to 4.1.5** of the ASTM F1004-86 standard.
+- Be tested using the **methods** specified in:
+  - Sections **5.1 to 5.3.1** and **5.3.2.1 to 5.3.4** of the ASTM standard.
+
+> *These tests evaluate structural stability, strength under load, resistance to deformation, and overall safety during use.*
+
+---
+
+## **Labeling and Warning Requirements**
+
+### **Prohibited References**
+- **No direct or indirect reference** to the *Canada Consumer Product Safety Act* or these regulations may appear on the product, packaging, or advertising.
+
+### **Mandatory Indelible or Permanent Labeling**
+The product must have either:
+- **Indelibly printed**, or  
+- **Permanently affixed** (in English or French)
+
+with the following information, clearly and prominently displayed:
+
+#### **Required Information (in numerals and block letters ≥ 2.5 mm height, contrasting with background):**
+1. **Name and principal place of business in Canada** of the manufacturer, importer, or distributor  
+2. **Model name or number**  
+3. **Year and month of manufacture**, or a code identifying that date  
+
+> *This ensures traceability and accountability.*
+
+---
+
+### **Mandatory Safety Warning (in English and French)**
+
+The following warning must be clearly displayed:
+
+#### **In English:**
+> **WARNING**  
+> Install according to manufacturer’s instructions.  
+> Intended for use with children from 6 months through 24 months.  
+> Install with locking mechanism on side away from child (applies to pressure-mounted gates only).  
+> This product will not necessarily prevent all accidents. Never leave child unattended.  
+> If an enclosure has a locking/latching mechanism, use only with the locking/latching mechanism (or appropriate terminology) securely engaged.
+
+#### **In French:**
+> **MISE EN GARDE**  
+> Installer conformément aux instructions du fabricant.  
+> Destiné aux enfants de 6 à 24 mois.  
+> Installer de façon que le mécanisme de verrouillage se trouve du côté opposé à l’enfant. (Seulement dans le cas des barrières retenues par pression.)  
+> Cet article ne prévient pas nécessairement tous les accidents. Ne jamais laisser l’enfant sans surveillance.  
+> Si l’enceinte est munie d’un mécanisme de fermeture/verrouillage, l’avertissement suivant s’y applique : N’utiliser l’article que lorsque le mécanisme de fermeture/verrouillage (ou autres termes appropriés) est solidement enclenché.
+
+#### **Display Requirements:**
+- Headings “WARNING” and “MISE EN GARDE” must be in **uppercase block letters**, at least **5 mm in height**.
+- All text must be in **numerals and letters**, at least **2.5 mm in height**, with **high contrast** (via colour, projection, or indentation).
+
+---
+
+### **Packaging Requirements**
+The **packaging** must also include:
+- The same information required on the product itself (manufacturer name, model, date of manufacture), clearly and prominently displayed.
+
+---
+
+### **User Instructions (Included with Product)**
+
+The product must come with **written instructions** in both English and French, including:
+
+1. **Assembly instructions** (if not pre-assembled)  
+2. **Installation instructions**, including:
+   - Limitations on mounting hardware (e.g., not to use on certain wall types or surfaces)  
+3. **Operation, maintenance, and cleaning** procedures  
+
+> *Instructions must include line drawings or photographs to illustrate each step clearly.*
+
+---
+
+## **Testing Methods for Label Durability**
+
+### **Indelibility Test (for printed markings):**
+1. Spray marked surface with **glass cleaner**  
+2. Soak for **20 seconds**  
+3. Gently rub the surface **10 times in a back-and-forth motion** with an **all-purpose cloth** within 10 seconds  
+4. Record whether markings have **faded or been erased**
+
+> *Purpose: Ensures labels remain legible and visible over time

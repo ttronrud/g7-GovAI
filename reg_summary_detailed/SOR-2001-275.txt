@@ -1,0 +1,151 @@
+**Detailed Summary of the Disposal at Sea Regulations (Canada)**
+
+---
+
+### **1. Regulatory Background and Legal Authority**
+
+These **Disposal at Sea Regulations** are made under **subsection 332(1)** of the *Canadian Environmental Protection Act, 1999* (CEPA 1999), which empowers the Minister of the Environment to regulate the disposal of waste or other matter at sea.
+
+On **February 17, 2001**, the Minister published a **proposed version** of these regulations in *Canada Gazette, Part I*, providing the public with an opportunity to:
+- Submit comments
+- File a **notice of objection** requesting a **board of review** and providing reasons for the objection
+
+Following this public consultation period, **Her Excellency the Governor in Council**, acting on the recommendation of the Minister of the Environment, **formally adopted** the regulations under **subsection 135(1)** of CEPA 1999.
+
+---
+
+### **2. Definitions**
+
+Key terms used throughout the regulations include:
+
+- **Act**: Refers to the *Canadian Environmental Protection Act, 1999*.
+- **Log-book**: Defined as the official log required under **section 261 of the Canada Shipping Act**. This document is critical for tracking vessel or aircraft operations and emergencies.
+
+---
+
+### **3. Reporting Requirements for Emergencies Involving Disposal at Sea**
+
+When a disposal occurs during an **emergency** (as defined in subsection 130(1) of CEPA), a detailed **report must be submitted** to the enforcement officer designated for the area or to another person designated by the Governor in Council.
+
+#### **Required Information in the Report**:
+
+- **For Ship or Platform Disposal**:
+  - Name of the vessel or platform
+  - Name of the master or person in charge
+  - Owner’s name and address
+  - Port of registry, official number (if any), overall length, extreme breadth, overall height, and deadweight tonnage
+
+- **For Aircraft Disposal**:
+  - Name of the pilot-in-command
+  - Owner’s name and address
+  - Type, model, serial number, nationality, registration marks, and maximum certificated take-off weight (from Certificate of Airworthiness)
+
+- **Route Information**:
+  - Last point of departure and immediate destination at the time of disposal
+
+- **Disposal Site Details**:
+  - Latitude and longitude of the disposal site
+  - Depth of the sea at that location
+
+- **Documentation**:
+  - Extracts from the **log-book and manifests** related to the emergency
+
+- **Circumstances of Disposal**:
+  - Detailed description of why the substance was disposed of
+  - Date and time of disposal
+
+- **Substance Details**:
+  - Composition and nature (sufficient to identify the substance)
+  - Quantity disposed of
+  - Physical form (solid, liquid, or gas)
+  - Packaging and containment methods (if any)
+  - Trade name (if applicable)
+  - Estimated time for the substance to disappear below the water surface
+
+#### **Submission Requirements**:
+- Must be submitted in **written form** or in an **electronic format compatible** with the recipient’s system.
+
+---
+
+### **4. National Action List (NAL) Screening Mechanism for Waste**
+
+The regulations establish a **two-tier screening process** under **Sections 9 and 10 of Schedule 6** of CEPA 1999 to determine whether waste or other matter poses a risk to the marine environment.
+
+#### **Lower Level Screening (Initial Assessment)**
+
+- Applies to waste containing substances listed in **Column 1 of the table** at or **below the concentration level in Column 2**.
+- If so, the waste is considered to be **below the Lower Level** of the National Action List and does not require further testing.
+
+#### **Upper Level Screening (Biological Testing)**
+
+- If a substance is **above the concentration threshold**, it triggers **biological testing**.
+- The tests are required to assess **toxicity to marine or estuarine ecosystems**.
+
+##### **Required Tests**:
+- **Acute lethality test**:
+  - Method: *Biological Test Method: Reference Method for Determining Acute Lethality of Sediment to Marine or Estuarine Amphipods (EPS 1/RM/35)*, December 1998 (as amended)
+  - Assesses immediate mortality of amphipods (small crustaceans)
+
+- **Two sub-lethal tests** (or one sub-lethal + one bioaccumulation test):
+  - Method: *Biological Test Method: Sublethal Toxicity Tests to Assess Sediments Intended for Disposal at Sea (EPS 1/RM/40)*, May 2001 (as amended)
+  - Evaluates long-term effects such as growth inhibition, behavior changes, or reproductive impacts
+
+- **Bioaccumulation test** (if applicable):
+  - Method: *Guidance Manual: Bedded Sediment Bioaccumulation Tests (EPA/600/R-93/183)*, September 1993 (as amended)
+  - Measures how much of a substance accumulates in organisms over time
+
+> ⚠️ **All tests must be conducted and interpreted** in accordance with **generally accepted scientific standards** at the time of testing.
+
+#### **Interpretation of Test Results**:
+
+| Result | Outcome |
+|-------|--------|
+| All three tests (acute + two sub-lethal) meet criteria | Waste is **below the Lower Level** of the NAL |
+| Either the acute lethality test OR one of the two sub-lethal tests fails | Waste is **above the Upper Level** of the NAL |
+| Acute lethality test AND one sub-lethal test meet criteria | Waste is **between Lower and Upper Levels** (i.e., below Upper Level but above Lower Level) |
+
+> This tiered approach allows for **risk-based decision-making**, ensuring only substances with significant environmental risk trigger more rigorous evaluation.
+
+---
+
+### **5. Specified Areas Adjacent to Canada’s Territorial Sea**
+
+Certain areas near Canada’s coast are designated as **"specified areas"** where disposal at sea is subject to additional regulatory scrutiny under **paragraph 122(2)(e)** of CEPA 1999.
+
+These areas include:
+
+1. **North Arm of the Fraser River**  
+   - Bounded east by a line from the south shore at 123°04′00″W, 49°12′10″N to the north shore at 123°04′00″W, 49°12′23″N
+
+2. **Main channel of the Fraser River**  
+   - Downstream of the Alex Fraser Bridge, from south shore at 122°56′33″W, 49°09′28″N to north shore at 122°57′29″W, 49°10′33″N
+
+3. **Northwest Miramichi River**  
+   - East of a line from south shore at 65°49′12″W, 46°56′18″N to north shore at 65°49′02″W, 46°56′29″N
+
+4. **Southwest Miramichi River**  
+   - Northeast of a line from south shore at 65°40′22″W, 46°51′55″N to north shore at 65°40′30″W, 46°52′00″N
+
+5. **East Channel of the Mackenzie River**  
+   - Northeast of a line from south shore at 134°08′28″W, 69°14′33″N to north shore at 134°09′47″W, 69°16′37″N
+
+6. **Mackenzie River and Beaufort Sea**  
+   - Seaward of a complex polygonal boundary extending from:
+     - 134°48′18″W, 69°28′03″N
+     - West to 135°24′14″W, 69°23′36″N
+     - Southwest to 135°50′17″W, 69°05′32″N
+     - Southeast to 135°13′55″W, 68°43′39″N
+     - Southwest to 135°24′04″W, 68°40′34″N
+
+7. **Bras d’Or Lake, St. Peters Inlet, Great Bras d’Or, St. Patrick’s Channel, Whycocomagh Bay, and St. Andrews Channel** (Nova Scotia)
+
+> These areas are considered ecologically sensitive and are subject to stricter oversight due to their proximity to coastal habitats and biodiversity.
+
+---
+
+### **6. Permitting Process under Section 127 of CEPA 1999**
+
+The regulations outline the **permitting framework** for disposal at sea, governed by **section 127** of CEPA 1999.
+
+#### **Timeline for Decision**:
+- The Minister must either **issue** or **notify the applicant of refusal** within **90 days** of receiving a notice of application

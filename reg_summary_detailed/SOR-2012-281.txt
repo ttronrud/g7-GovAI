@@ -1,0 +1,106 @@
+Certainly. Below is a **detailed, comprehensive summary** of the *Eligible Mortgage Loan Regulations* as issued under the *Protection of Residential Mortgage or Hypothecary Insurance Act*, effective December 7, 2012 (S.C. 2011, c. 15, s. 20), with clear structure, interpretation, and practical implications.
+
+---
+
+## 📚 **Detailed Summary of the Eligible Mortgage Loan Regulations**
+
+### 🔹 **1. Regulatory Authority and Purpose**
+The Minister of Finance, in consultation with the Governor of the Bank of Canada and the Superintendent of Financial Institutions, issued these regulations under **subsection 42(1)** of the *Protection of Residential Mortgage or Hypothecary Insurance Act*.  
+**Purpose**: To define and establish the eligibility criteria for residential mortgage or hypothecary loans that are **not insured under a policy deemed to be a "policy" under section 19** of the Act. These regulations ensure that mortgage loans meet standards for affordability, risk, transparency, and borrower protection.
+
+> ⚖️ **Key Point**: The regulations apply to **all mortgage or hypothecary loans not covered by insurance under section 19**, meaning loans that are either uninsured or fall outside the scope of standard mortgage insurance.
+
+---
+
+### 🔹 **2. Key Definitions**
+
+| Term | Definition & Context |
+|------|------------------------|
+| **Credit Score** | Issued by a federally or provincially incorporated credit reporting agency; must be based on a scale substantially equivalent to one used by such agencies on **June 26, 2011**. Ensures consistency and comparability across lenders. |
+| **Eligible Residential Property** | One to four housing units (e.g., single-family homes, townhouses, condominiums), including associated rights, structures, and facilities. |
+| **First-Time Home Buyer** | An individual who: <br>• Has never purchased an eligible residential property in Canada; <br>• Has not occupied one as a principal residence in the current or past four calendar years; <br>• Or, is living separate and apart from spouse/common-law partner for ≥90 days due to relationship breakdown, and began separation in the current or prior four years. |
+| **Funded** | Money has been advanced to the borrower (i.e., the loan is active and disbursed). |
+| **Gross Debt Service Ratio (GDS)** | % of gross annual income required to cover housing payments (mortgage + taxes + insurance). Must not exceed **39%**. |
+| **Total Debt Service Ratio (TDS)** | % of gross annual income required to cover all housing and other debts. Must not exceed **44%**. |
+| **High Ratio Loan (HRL)** | Loan where principal + prior balances > **80% of property value** at approval. |
+| **Low Ratio Loan (LRL)** | Loan where principal + prior balances ≤ **80% of property value** at approval. |
+| **Housing Unit** | A self-contained unit providing living, sleeping, eating, food prep, and sanitation for one household (can share some facilities). |
+| **Loan for Addition of Housing Units** | A loan used to add units to an existing property (e.g., convert a single-family home into a duplex), with only one purpose: increase units or discharge prior loan. |
+| **Newly Built** | Property never occupied for residential use, or in a condo/private portion, only occupied temporarily before registration. |
+| **Quarter** | Any 3-month period: Jan 1, Apr 1, Jul 1, Oct 1. |
+| **Value of Eligible Residential Property** | Value assigned by lender or insurer, verified using accepted methods (e.g., appraisal, model, comparable sales). Must not exceed: <br>• Purchase price; or <br>• Purchase price + estimated improvement cost (if improvements are part of loan). |
+
+> ✅ **Value Verification Methods**:  
+> - Statistically reliable valuation model  
+> - Fair-market-value appraisal by independent appraiser  
+> - Drive-by appraisal  
+> - Review of comparable properties  
+
+> ❌ **Exclusion**: Principal amount of loan does **not** include mortgage insurance premiums.
+
+---
+
+### 🔹 **3. Scope of Application**
+
+These regulations apply to:
+- All **mortgage or hypothecary loans** that are **not insured under a contract of insurance** that could be considered a policy under **section 19** of the Protection Act.
+
+> 📌 **Exception**: Loans that are modified or restructured in specific ways (e.g., loan workouts, refinancing) may still be eligible under certain conditions.
+
+---
+
+### 🔹 **4. Eligibility Criteria: General Principles**
+
+A mortgage loan is **eligible** only if it meets the criteria in **section 4**, and where applicable, **section 5, 6, or 6.1**.
+
+#### ✅ **General Eligibility Requirements**
+- Must be **underwritten and administered by a qualified mortgage lender**.
+- Must be **held in a registered retirement savings plan (RRSP)** or **registered retirement income fund (RRIF)** *only if* administered by a qualified mortgage lender.
+- Must be **secured in first or second priority** by an eligible residential property.
+
+---
+
+## 🔹 **5. High Ratio Loan (HRL) Criteria**
+
+A high ratio loan must meet **all of the following**:
+
+| Criterion | Details |
+|--------|--------|
+| **1. Loan-to-Value (LTV) Limit** | <br>• If property value ≤ $500,000 → max **95%** of value<br>• If property value > $500,000 → max **$475,000 + 90% of value over $500,000**<br>→ This creates a tiered cap designed to cap risk for higher-value properties. |
+| **2. Purpose** | Must either:<br>• Be for the **purchase** of the property, or<br>• Be to **discharge a prior uninsured low ratio loan**. |
+| **3. Amortization Period** | Must amortize over **≤25 years**<br>→ **Exception**: Up to **30 years** if:<br>• Borrower is a **first-time home buyer**, or<br>• Property is **newly built**. |
+| **4. Property Value Cap** | Must be **less than $1,500,000**. |
+| **5. Interest Rate Fluctuations** | If variable rate allows amortization changes, **payment must be recalculated every 5 years** to match original schedule. |
+| **6. Payment Start Date** | Scheduled payments begin on:<br>• Day of funding<br>• Day of closing (purchase agreement)<br>• Day of completion (improvement/conversion) |
+| **7. Credit Score Requirement** | At approval, **at least one borrower or guarantor must have a credit score ≥600**. |
+| **8. Debt Service Ratios** | GDS ≤ **39%**, TDS ≤ **44%** (calculated using **worst-case interest rate scenario**). |
+| **9. Occupancy Requirement** | Property must contain **at least one housing unit** occupied by borrower or related person (spouse, common-law partner, parent-child). |
+| **10. Repayability Assessment** | Must be **reasonably likely to be repaid** based on borrower’s ability to pay all debts and obligations over the term, using reasonable assumptions about peak payments. |
+| **11. Securities Guarantee (Pool of Loans)** | If part of a pool used to issue marketable securities (e.g., mortgage-backed securities), **any securities issued after July 1, 2016 must be guaranteed under subsection 14(1) of the National Housing Act**. |
+
+> 🚫 **Credit Score Exception**:  
+> The 600 score requirement **does not apply** if **no more than 3%** of the lender’s HRLs and LRLs approved and funded during any of the following periods had borrowers/guarantors with scores <600:  
+> - First 4 quarters of the last 5 quarters  
+> - First 4 quarters of the last 6 quarters  
+> - First 4 quarters of the last 7 quarters  
+
+> 🔍 **Interest Rate Calculation for GDS/TDS**:  
+> Used to calculate ratios based on **the greater of**:  
+> - Loan interest rate + 2%  
+> - **5.25%**  
+> This ensures borrowers are assessed under stress conditions (e.g., rising interest rates).
+
+> 📝 **Income Verification Requirement**:  
+> Lender or insurer must make **reasonable efforts to verify income and employment status** (or plausibility of self-employed income). Failure to do so invalidates the loan's eligibility.
+
+---
+
+## 🔹 **6. Low Ratio Loan (LRL) Criteria**
+
+A low ratio loan must meet the following:
+
+| Criterion | Details |
+|--------|--------|
+| **1. Payment Schedule** | Payments must begin on:<br>• Day of funding<br>• Day of closing<br>• Day of completion (improvement) |
+| **2. Pool of Loans & Securities** | If part of a pool issuing marketable securities, **any securities issued after July 1, 2016 must be guaranteed under subsection 14(1) of the National Housing Act**. |
+| **3. Insurance Requirements (if not in a pool)** | Must be **individually insured** on:<br

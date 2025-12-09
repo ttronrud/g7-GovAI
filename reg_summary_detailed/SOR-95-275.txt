@@ -1,0 +1,191 @@
+### **Detailed Summary of the Canadian Computer Reservation Systems (CRS) Regulations**
+
+---
+
+#### **1. Purpose and Policy Background**
+
+The **Canadian Computer Reservation Systems (CRS) Regulations** were enacted under the **Aeronautics Act** to promote fair competition and transparency in the Canadian air travel market. The primary objectives are:
+
+- To ensure **fair, neutral, and comprehensive presentation** of passenger air services in computer reservation systems (CRS) operating in Canada.
+- To guarantee that **travel agents and consumers** have access to accurate, balanced, and comparable information about air services available in Canada.
+- To protect against **unfair discrimination** in how carriers are displayed or promoted within CRS platforms.
+
+These regulations aim to level the playing field among airlines, prevent market distortions, and enhance consumer choice and trust in air travel information systems.
+
+---
+
+#### **2. Scope of Application**
+
+The Regulations apply to all **computer reservation systems (CRS)** operated in Canada for the purpose of **displaying or selling passenger air services**, regardless of:
+
+- The **legal status or nationality** of the system vendor;
+- The **source of data** or location of the data processing center;
+- The **geographic location** where the air services are provided.
+
+**Exclusions:**
+- Systems used **internally by carriers, their affiliates, or charterers** in their own offices or sales counters.
+- **Carrier-owned websites** (e.g., official airline websites) are not subject to these rules.
+
+> ⚠️ Important: These Regulations do **not** exempt any party from compliance with other federal laws such as the **Competition Act** or the **Personal Information Protection and Electronic Documents Act (PIPEDA)**.
+
+---
+
+#### **3. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Carrier** | An air carrier that sells air services in Canada. |
+| **Participating Carrier** | A carrier that has an agreement with a system vendor to display schedules, fares, rules, or availability, or to make reservations/tickets through the system. |
+| **System Vendor** | An entity that owns, operates, markets, or distributes a CRS. |
+| **Subscriber** | A travel agent or entity that provides information to the public and contracts with a system vendor to offer air service bookings. |
+| **Display** | The presentation of carrier schedules, fares, rules, or seat availability via a video terminal. |
+| **Default Display** | The automatically shown display unless a subscriber requests otherwise. |
+| **Availability** | Information about seats held out for sale on a specific flight. |
+| **Fare** | The price for a service plus terms and conditions. |
+| **Tourism Product** | Pre-arranged combinations of air travel and other non-air services sold at an all-inclusive price. |
+| **Charter Air Service** | A service made available by a carrier to a charterer (e.g., a travel organizer) for public passenger transport. |
+
+---
+
+#### **4. Core Obligations of System Vendors**
+
+##### **4.1 Fair, Neutral, and Comprehensive Displays**
+- All displays of carrier information must be:
+  - **Comprehensive**: Include all relevant details (schedules, fares, rules, availability).
+  - **Neutral**: Not favor one carrier over another.
+  - **Non-discriminatory**: Not based on carrier identity, market share, or other biased factors.
+
+> ✅ System vendors must apply **consistent standards** across all participating carriers and city-pair markets.
+
+##### **4.2 Prohibition of Carrier-Based Bias**
+- System vendors **must not use any factor related to carrier identity** when:
+  - Constructing or ordering flight displays.
+  - Editing connecting flights.
+  - Determining which flights appear or are prioritized.
+
+> This prevents preferential treatment of certain airlines (e.g., larger or more profitable ones).
+
+##### **4.3 Equal Treatment of Flights and Stops**
+- In cities with **multiple airports**, the system must ensure **no discrimination based on airport served**.
+- Flights involving **stops, changes of aircraft, carriers, or modes of transport** must be **clearly identified** to avoid confusion.
+
+##### **4.4 Charter Air Services**
+- Charter services must be:
+  - **Clearly labeled** as "charter air services."
+  - **Displayed only once** per city-pair market if multiple charterers offer the same service.
+  - The **names of all charterers** must be clearly indicated.
+
+> ❌ Tourism products (e.g., all-inclusive packages) are **excluded** from CRS displays.
+
+##### **4.5 No Automatic Carrier Preference**
+- System vendors **cannot create functions** that automatically favor one carrier over others.
+
+##### **4.6 Consistent Treatment of Non-Participating Carriers**
+- If a system displays information from **non-participating carriers**, it must do so in the **same manner** as for all other non-participating carriers.
+
+##### **4.7 Transparency in Display Criteria**
+- System vendors must:
+  - Provide, upon request, the **current criteria used** to construct and order flight displays.
+  - Disclose the **weight assigned to each criterion** (e.g., time, price, route, etc.).
+
+##### **4.8 Default Display Rights**
+- Subscribers have the right to:
+  - **Select a default display** at no extra cost.
+  - Have that display remain active unless they request otherwise.
+- The default display must be **at least as useful** as any other display in terms of functionality and ease of use.
+
+> Note: A consumer can request a different display for each transaction without the default being suppressed.
+
+---
+
+#### **5. Information Accuracy and Integrity**
+
+##### **5.1 Accuracy of Carrier Data**
+- Participating carriers must provide **accurate and non-misleading** information.
+- If a carrier provides **inaccurate or misleading information**, the system vendor must:
+  - Notify both the carrier and subscribers.
+- Flights operated by a carrier **other than the one identified by the designator code** must clearly identify the **actual operating carrier** (except in rare short-term arrangements).
+
+##### **5.2 Disclosure of Code-Sharing and Wet Leases**
+- In **code-sharing or long-term wet lease arrangements**:
+  - Subscribers must **inform consumers orally and in writing** that:
+    - The carrier whose designator appears on the ticket is **not necessarily the one operating** the flight.
+    - The **actual transporting carrier** must be clearly identified at the time of booking and sale.
+- In **non-oral/recorded transactions**, the subscriber may meet this requirement by including a **notation in the PNR** (Passenger Name Record).
+
+---
+
+#### **6. Fair Access and Equal Treatment**
+
+##### **6.1 Equal Access to Distribution Facilities**
+- All carriers (including new or small ones) must have **equal opportunity** to:
+  - Access the system’s distribution facilities.
+  - Use service enhancements (e.g., seat selection, last seat availability, boarding passes).
+- System vendors **cannot require** carriers to buy or sell other goods/services as a condition of participation.
+
+##### **6.2 Equal Loading Standards**
+- System vendors must apply **the same standards of care and timeliness** when loading data from all participating carriers.
+- If a carrier receives special loading capabilities (e.g., faster updates), the vendor must offer the **same capability to all other carriers** when technically feasible.
+
+##### **6.3 Data Sharing and Transparency**
+- Carriers may request:
+  - Current **database update procedures** and **data formats** (e.g., for schedules and fares).
+- System vendors are **not required** to display information from carriers that do not intend to enter into a contract with them.
+
+---
+
+#### **7. Billing and Transaction Transparency**
+
+- Billing must be:
+  - **Detailed and verifiable**.
+  - Delivered via an **electronic medium compatible** with the carrier’s systems.
+- Each billable segment must include:
+  - Type of booking (e.g., reservation, cancellation)
+  - Booking status code
+  - Booking/cancellation indicator
+  - PNR record locator
+  - Passenger name, country of origin
+  - Agency code (e.g., IATA/ARC/BSP)
+  - Pseudo-city code
+  - Transaction date
+  - City-pair or segment
+  - Flight date and number
+  - Class of service
+
+> This ensures transparency and accountability for all transactions.
+
+---
+
+#### **8. Separation of Services**
+
+- System vendors must **separate distribution facilities** (where bookings are made) from **hosting services** (where seat inventory is managed) — either **physically or logically**.
+- This ensures that:
+  - Hosted and non-hosted carriers are treated **equally** in terms of:
+    - Procedures
+    - Protocols
+    - Inputs and outputs
+- Interfaces must be **compatible with industry standards** (e.g., IATA, ICAO).
+
+---
+
+#### **9. Disclosure of Regulations and Improvements**
+
+- The **complete, unedited text of these Regulations** must be displayed in the system’s reference information.
+- Any **improvement** to:
+  - Distribution facilities
+  - Service enhancements
+  - Equipment
+  must be **offered to all participating carriers** (subject to technical limitations outside the vendor’s control).
+
+---
+
+#### **10. Restrictions on Marketing and Sales Practices**
+
+##### **10.1 Prohibition of Carrier Promotion by System Vendors**
+- No system vendor may use its **sales force** to promote any carrier to subscribers.
+
+##### **10.2 Prohibition of Airline Promotion of CRS**
+- No carrier may use its **sales force** to promote a specific CRS or system vendor.
+
+##### **10.3 Ban on Joint Marketing**
+- Members of **system vendor sales forces** and **airline sales forces**

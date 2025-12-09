@@ -1,0 +1,143 @@
+Certainly. Below is a **detailed, structured summary** of the regulation titled **"Direction to the CRTC (Ineligibility of Non-Canadians)"**, as issued under the *Broadcasting Act* and published in *S.C. 1991, c. 11*, with amendments effective April 8, 1997 (SOR/96-192).
+
+---
+
+## 🔍 **Detailed Summary of the Regulation: Direction to the CRTC (Ineligibility of Non-Canadians)**
+
+### 📌 **Overview**
+This regulation establishes a **prohibition on non-Canadians holding broadcasting licences** in Canada. It is issued by the **Governor in Council**, on the recommendation of the **Minister of Canadian Heritage**, pursuant to **subsection 26(1)** of the *Broadcasting Act*, and in consultation with the **Canadian Radio-television and Telecommunications Commission (CRTC)** under **subsection 26(4)**.
+
+The regulation aims to ensure that **broadcasting services in Canada remain under Canadian ownership and control**, protecting national interests, cultural integrity, and public interest in media content.
+
+> **Effective Date**: April 8, 1997  
+> **Repealed By**: SOR/96-192 (a later amendment that repealed the original direction, though the core policy remains in effect through subsequent regulations)
+
+---
+
+## 🔧 Key Provisions and Definitions
+
+### 1. **Core Prohibition**
+> **No broadcasting licence may be issued, amended, or renewed to a non-Canadian.**
+
+This means:
+- Any individual or entity that is **not a Canadian** (as defined below) is **ineligible** to apply for, receive, or retain a broadcasting licence.
+- This applies to all types of broadcasting licences, including those for **broadcasting distribution undertakings** (e.g., cable, satellite, terrestrial distribution).
+
+---
+
+### 2. **Definition of "Non-Canadian"**
+A **non-Canadian** is:
+- Any person or entity that is **not a Canadian**, as defined in the regulation.
+
+> This is the foundational criterion for ineligibility.
+
+---
+
+### 3. **Definition of "Canadian" (Expanded Scope)**
+A **Canadian** is defined broadly to include:
+
+| Category | Key Criteria |
+|--------|-------------|
+| **Citizens & Permanent Residents** | A citizen of Canada (by Citizenship Act) who is ordinarily resident in Canada; or a permanent resident (by Immigration Act) who has been resident in Canada for ≤1 year after becoming eligible for citizenship. |
+| **Government Entities** | Federal, provincial, or local governments, or their agencies. |
+| **Corporations (with specific conditions)** | Includes corporations where: |
+| &nbsp;&nbsp;• Majority of directors are appointed by government (federal/provincial statute, Governor in Council, or minister); |
+| &nbsp;&nbsp;• Or are "qualified" under specific criteria (see below). |
+
+#### Subcategories of "Qualified" Entities:
+These are **exceptions** to the non-Canadian rule — they are allowed to hold broadcasting licences **if they meet strict ownership and governance standards**.
+
+| Entity Type | Requirements |
+|----------|-------------|
+| **Qualified Corporation** | - Incorp. under Canadian or provincial law<br>- ≥80% of directors are Canadians<br>- In share-capital corporations: Canadians own ≥80% of voting shares and votes<br>- In subsidiaries: parent corp. must have ≥66⅔% Canadian ownership and voting control, and must not influence programming decisions |
+| **Qualified Successor** | A corporation directly controlled by a Canadian carrier (as defined in Telecommunications Act) or its acquiring corporation, with: |
+| &nbsp;&nbsp;• Unchanged control since the direction came into force<br>&nbsp;&nbsp;• All directors and CEO are Canadians<br>&nbsp;&nbsp;• All voting shares not owned by the Canadian carrier or its acquiring corporation are owned by Canadians<br>&nbsp;&nbsp;• Operates only within the operating territory of the Canadian carrier<br>&nbsp;&nbsp;• Does not own shares in any foreign broadcasting distribution licensee<br>&nbsp;&nbsp;• Directors have full control over programming<br>&nbsp;&nbsp;• ≥33⅓% of directors are **independent members**<br>&nbsp;&nbsp;• At least one independent member must be present at any board meeting (quorum requirement)<br>&nbsp;&nbsp;• No parent or affiliate corporation influences programming decisions |
+
+| **Qualified Cooperative** | ≥80% of members are Canadians; established under federal or provincial cooperative legislation |
+| **Qualified Mutual Insurance Company** | Head office in Canada; ≥80% of directors and committees are Canadians |
+| **Qualified Pension Fund Society** | ≥80% of directors and committees are Canadians; established under specific federal or provincial pension fund laws |
+
+> These "qualified" entities are **exempt from the non-Canadian ineligibility rule**, provided they meet all the criteria.
+
+---
+
+### 4. **Definition of "Control"**
+Control is defined as **any actual or de facto influence** over a corporation — not just legal ownership.
+
+This includes:
+- Ownership of securities
+- Trusts, agreements, or arrangements
+- Influence through contracts or business relationships
+
+> **Key Implication**: Even if a non-Canadian does not own voting shares, if they exert **control through financial, contractual, or operational means**, the entity is deemed a **non-Canadian** and thus ineligible.
+
+---
+
+### 5. **Definition of "Independent Member"**
+An independent member is:
+- Not an officer, employee, or contractor of the qualified successor or its affiliates
+- Not a director of any affiliate corporation
+- Free from conflicts of interest
+- Capable of acting in the best interests of the corporation
+
+> This ensures **board independence** and **accountability**, especially in programming decisions.
+
+---
+
+### 6. **Definition of Key Terms**
+| Term | Explanation |
+|------|------------|
+| **Acquiring Corporation** | As defined in the *Canadian Telecommunications Common Carrier Ownership and Control Regulations* (SOR/94-667), as of October 25, 1994 |
+| **Affiliate Corporation** | Includes Canadian carriers, acquiring corporations, or any entity that controls them |
+| **Subsidiary Corporation** | A corporation controlled by another corporation |
+| **Voting Share** | Includes shares with voting rights, convertible shares, or options/rights to acquire shares at the time of valuation |
+
+---
+
+## ⚖️ Key Policy Principles
+
+1. **National Ownership and Control**  
+   The regulation ensures that **broadcasting services remain under Canadian ownership and control**, safeguarding national interests and cultural diversity.
+
+2. **Prevention of Foreign Influence**  
+   Prevents non-Canadians from exerting control over media content, which could lead to foreign bias, commercial interests, or political interference.
+
+3. **Clear Thresholds for Exceptions**  
+   Only **specific, well-defined entities** (e.g., qualified corporations, successors) are allowed to operate, ensuring that the exception is **narrow and transparent**.
+
+4. **Board Accountability and Independence**  
+   Requires a **minimum of 33⅓% independent directors** and a **quorum requirement** to ensure that programming decisions are made independently and in the public interest.
+
+5. **Prohibition of Indirect Control**  
+   Even indirect control (e.g., through trusts or agreements) can result in ineligibility — meaning **no loopholes** exist based on mere financial ties.
+
+---
+
+## 🚫 What This Means in Practice
+
+| Scenario | Outcome |
+|--------|--------|
+| A foreign-owned company applies for a TV or radio licence | ❌ **Rejected** – non-Canadian applicant |
+| A Canadian-owned company with 80% Canadian directors and shareholders | ✅ **Eligible** – qualifies as a "qualified corporation" |
+| A foreign-owned company that owns 30% of a Canadian broadcaster | ❌ **Deemed non-Canadian** – due to control via ownership or agreements |
+| A Canadian carrier’s subsidiary operating only in its territory | ✅ **Eligible** – if it meets qualified successor criteria |
+| A company with 70% Canadian ownership and 30% foreign ownership | ❌ **Ineligible** – fails the 80% threshold for qualified corporations |
+
+---
+
+## 📚 Legal Basis and Process
+
+- **Authority**: Section 26(1) of the *Broadcasting Act* allows the Governor in Council to issue directions to the CRTC.
+- **Consultation**: Section 26(4) requires consultation with the CRTC before issuing such directions.
+- **Implementation**: The CRTC is **directed to enforce** the rule — no licence may be issued or renewed to a non-Canadian.
+- **Deemed Control**: If the CRTC determines that an applicant is **controlled by a non-Canadian** (via personal, financial, contractual, or business relationships), the applicant is **automatically deemed a non-Canadian**.
+
+---
+
+## 🔁 Amendments and Repeal
+
+- The original direction was published in **S.C. 1991, c. 11**.
+- It was **repealed** by **SOR/96-192** (a later statutory instrument), which may suggest a **reform or replacement** of the policy.
+- However, **the core principle remains in effect** — Canada continues to maintain strict ownership rules for broadcasting licences, and similar provisions are found in current CRTC policies and regulations (e.g., under the *Broadcasting Act* and *Canadian Telecommunications Common Carrier Ownership and Control Regulations*).
+
+> **Note**: While formally repealed, the spirit and intent of the regulation are **preserved** in modern broadcasting policy and CRTC

@@ -1,0 +1,188 @@
+**Detailed Summary of the *Carriages and Strollers Regulations* (S.C. 2016, c. 9, s. 67; S.C. 2010, c. 21)**
+
+---
+
+### **Overview**
+
+The *Carriages and Strollers Regulations* are a set of safety standards established under **section 37a of the Canada Consumer Product Safety Act (CCPSA)**. These regulations aim to ensure that carriages (also known as "baby carriers" or "landaus") and strollers (also known as "poussettes") are safe for children by setting strict requirements related to:
+
+- Structural safety and performance standards  
+- Chemical composition of materials  
+- Labeling and user information  
+- Prohibitions on hazardous substances  
+- Instructions for safe use and handling  
+
+These regulations were introduced to align Canadian product safety standards with internationally recognized benchmarks such as **ASTM F833** and **ISO 31110**, while also addressing specific risks associated with children’s products.
+
+---
+
+## **Key Definitions**
+
+The regulations begin with a list of key definitions used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **ASTM F833** | Standard for consumer safety performance of carriages and strollers, published by ASTM International, as amended from time to time. |
+| **Carriage** | A wheeled vehicle designed to transport a child in a reclined or horizontal position; includes devices that can be converted to function as a carriage. |
+| **Stroller** | A wheeled vehicle designed to transport a child in a seated position; includes devices convertible to strollers. |
+| **Good Laboratory Practices (GLP)** | Practices aligned with OECD Principles of Good Laboratory Practice (ENV/MC/CHEM(98)17), ensuring scientific integrity in testing. |
+| **Good Scientific Practices (GSP)** | For test data: compliance with OECD Guidelines for Testing of Chemicals; for lab practices: GLP. |
+| **ISO 31110** | International standard for pushchairs and prams, covering requirements and test methods. |
+| **LC50** | Concentration of a substance in air that causes death of at least 50% of animals after inhalation over a specified time. |
+| **LD50** | Single dose of a substance that causes death of at least 50% of animals via a defined route (e.g., oral, dermal). |
+
+---
+
+## **Safety Compliance Requirements**
+
+Carriages and strollers must meet **one of the following two sets of requirements**:
+
+### **Option 1: ASTM F833 Standards (with exceptions)**
+- Must comply with **all requirements of ASTM F833**, **except**:
+  - Sections 5.3, 5.12, 8, and 9 (which relate to specific performance tests or features deemed less critical).
+
+### **Option 2: Hybrid Standard (ASTM F833 + ISO 31110)**
+- Must meet:
+  - Sections **6.8 and 6.10 of ASTM F833** (specifically related to structural stability and safety features)
+  - All requirements of **ISO 31110**, **except**:
+    - Sections 6, 7, and 10 (which pertain to certain testing or design aspects considered non-essential or redundant).
+
+> This dual-pathway approach allows manufacturers flexibility in choosing between widely recognized international standards, with a focus on ensuring equivalent safety outcomes.
+
+---
+
+## **Transition Periods for New Standards**
+
+To avoid disrupting the market when updated standards are introduced, the regulations provide **transition periods**:
+
+| Scenario | Duration |
+|--------|---------|
+| **Manufacture or import** of a carriage or stroller | 180 days after publication of a new version of ASTM F833 or ISO 31110 |
+| **Advertising or sale** of a carriage or stroller | 365 days after publication of a new version of the applicable standard |
+
+> During these periods, products compliant with the **previous version** of the standard remain legally acceptable.
+
+---
+
+## **Prohibited Toxic Substances**
+
+Carriages and strollers must **not contain** any of the following substances if they could become accessible to a child or be released upon breakage or leakage:
+
+| Substance | Limit |
+|--------|-------|
+| Carbon tetrachloride or any compound containing it | Prohibited |
+| Any substance with >10 mg methyl alcohol per gram | Prohibited |
+| Any substance with >100 mg petroleum distillates per gram | Prohibited |
+| Benzene | Prohibited |
+| Any substance with >100 mg turpentine per gram | Prohibited |
+| Boric acid or salts of boric acid | Prohibited |
+| Ethyl ether | Prohibited |
+
+> These restrictions are based on known toxicological risks to infants and young children, especially regarding inhalation, ingestion, or skin absorption.
+
+---
+
+## **Toxicity Limits for Substances in Use**
+
+If a carriage or stroller contains a toxic substance, **at least one** of the following must be met:
+
+1. **Inaccessibility**: The substance cannot be ingested, inhaled, or absorbed through the skin due to the product’s design, form, size, or physical characteristics.
+
+2. **Quantity Limit**:  
+   For a child weighing **10 kg**, the total quantity of the substance must not exceed the **lesser of**:
+   - 1% of the **oral LD50** (determined using good scientific practices)
+   - 1% of the **dermal LD50** (determined using good scientific practices)
+
+3. **Toxicity Threshold**:  
+   The substance must not exceed the toxicity limits specified in **Schedule 1** of the regulations (which includes specific thresholds for various chemicals based on LD50 values).
+
+> These limits are based on risk assessment principles to ensure that even if exposure occurs, it remains below harmful levels.
+
+---
+
+## **Lead, Mercury, and Heavy Metal Restrictions**
+
+For **removable stickers, films, or surface coatings** on accessible parts of the product:
+
+- **Lead**: ≤ 90 mg/kg total lead  
+- **Antimony, Arsenic, Cadmium, Selenium, Barium**: If more than 1000 mg/kg migrates from the material, it is prohibited  
+- **Mercury**: ≤ 10 mg/kg total mercury  
+
+> Testing must follow **good laboratory practices (GLP)** to ensure accuracy and reliability.
+
+---
+
+## **Phthalate Restrictions in Vinyl Materials**
+
+Vinyl components (e.g., plastic parts) are subject to strict limits on phthalate plasticizers:
+
+| Phthalate Type | Maximum Limit |
+|---------------|---------------|
+| **DEHP, DBP, BBP** | ≤ 1000 mg/kg in any vinyl part |
+| **DINP, DIDP, DNOP** | ≤ 1000 mg/kg **only in parts that can reasonably be placed in a child’s mouth** (under 4 years old) |
+
+> **Exception**: A part is considered "accessible to a child's mouth" if:
+> - It can be brought to the child’s mouth and kept there for sucking or chewing  
+> - One of its dimensions is less than **5 cm**
+
+> For **inflatable parts**, dimensions are measured in the **deflated state**.
+
+---
+
+## **Mandatory Labeling Requirements**
+
+All carriages and strollers must display information in **both English and French**, clearly and legibly, with the following specifications:
+
+### **Font Requirements**
+- **Sans-serif typeface** (not compressed, expanded, or decorative)
+- **Large x-height** (relative to ascenders/descenders) — as illustrated in **Schedule 2**
+- **Minimum height of 2.5 mm** (measured from upper-case or lower-case letters with ascenders or descenders, e.g., "b" or "p")
+
+> The font must ensure **high readability**, especially for parents and caregivers.
+
+### **Signal Words**
+- "WARNING" and "MISE EN GARDE" must be in **uppercase letters**
+
+### **Prohibited References**
+- No direct or indirect references to the **Canada Consumer Product Safety Act** or these **Regulations** may appear in advertising, product descriptions, or accompanying materials.
+
+---
+
+## **Mandatory Permanent Information (on Product or Label)**
+
+Every carriage or stroller must have the following permanently printed or affixed:
+
+1. **Manufacturing/Import Details**:
+   - In Canada: Name and principal place of business of manufacturer or producer
+   - Imported: Name and principal place of business of manufacturer, producer, or importer
+
+2. **Model Name or Number**
+
+3. **Year and Month of Manufacture**
+
+---
+
+## **Mandatory Usage Instructions (Displayed or Accompanied by Product)**
+
+The product must include clear instructions, possibly illustrated with drawings or photos, covering:
+
+- **Assembly instructions** (if not fully assembled)
+- **Folding and unfolding procedures** (if foldable)
+- **Manufacturer’s recommended maximum child weight**
+- **Recommended use positions** (e.g., reclined vs. seated)
+- **Operation of braking system**
+- **How to use the child restraint system**
+- **Maximum permissible load** (if the product has a load-carrying component, such as a tray or basket)
+- **Maintenance and cleaning instructions**
+- **Any other safety-related information**
+
+---
+
+## **Mandatory Safety Warnings (Permanent Labeling)**
+
+All products must carry the following warnings in both English and French:
+
+### **General Warning**
+> **WARNING**  
+> Never leave child unattended.  
+> Avoid serious injury from falling or sliding out. Always use the child restraint system.

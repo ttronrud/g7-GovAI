@@ -1,0 +1,151 @@
+### **Detailed Summary of the Protection of Passenger Information Regulations**
+
+The **Protection of Passenger Information Regulations** (commonly referred to as the "Passenger Name Record Information Regulations") are a set of administrative rules made under the **Immigration and Refugee Protection Act (IRPA)** by the **Government of Canada**, specifically through the **Minister of Public Safety and Emergency Preparedness**. These regulations govern how the **Canada Border Services Agency (CBSA)** collects, retains, uses, and discloses **passenger name record (PNR) information** for the purposes of national security, immigration enforcement, and border management.
+
+---
+
+## **1. Legislative Basis and Process**
+
+- The regulations were **proposed** and laid before both Houses of Parliament under **subsection 5(2)a of the IRPA**, which allows the Minister to table proposed regulations for parliamentary review.
+- The final regulations were **made by Her Excellency the Governor in Council**, on the recommendation of the Minister, under:
+  - **Subsection 5(1)** of the IRPA (power to make regulations),
+  - **Section 150.1c** of the IRPA (specific authority to regulate the use of passenger information).
+- The regulations came into force on the **day of registration** in the Canada Gazette.
+
+---
+
+## **2. Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Act** | Refers to the *Immigration and Refugee Protection Act* (IRPA). |
+| **Agency** | The **Canada Border Services Agency (CBSA)**. |
+| **Commercial vehicle** | Any vehicle carrying persons or goods by air, water, or land. Defined in accordance with the IRPR (Immigration and Refugee Protection Regulations). |
+| **Day of departure** | The day a commercial vehicle departs from the last point of embarkation before arriving in Canada. Applies to all modes of transport. |
+| **Time of departure** | The time of take-off (air) or departure (water/land) from the last point of embarkation. |
+| **Passenger name record information (PNR)** | Information specified in **paragraph 269(1)(e)** of the IRPA — includes details such as name, nationality, travel dates, destination, contact information, and other passenger details provided to the CBSA. |
+| **Serious transnational crime** | A crime punishable by at least 4 years in prison that: <br> - Occurs in more than one country; <br> - Is planned or controlled in another country; <br> - Involves an organized criminal group active across borders; <br> - Has substantial effects abroad; or <br> - Is committed with intent to travel through or into Canada. |
+| **Terrorism offence** | Includes acts or omissions: <br> - For political, religious, or ideological purposes with intent to intimidate or compel action; <br> - Intended to cause death, serious harm, endanger public safety, cause major property damage, or disrupt essential services; <br> - Involves participation in or support of terrorist groups; <br> - Includes financing, facilitating, or conspiring to commit such acts. <br> *Defined under subsection 83.01(1) of the Criminal Code.* |
+| **Terrorist group** | As defined in subsection 83.01(1) of the Criminal Code. |
+| *(Note: "Advance passenger information," "enforcement database," "PAXIS system," and "intelligence official" have been repealed by SOR/2016-38, s. 1 and s. 2.)* |
+
+---
+
+## **3. Core Principles and Limitations**
+
+### **A. Use of PNR Information**
+- The CBSA may **only use** PNR information **in accordance with these Regulations** and **only for purposes under the IRPA**.
+- Use is strictly limited to:
+  - Preventing, detecting, investigating, or prosecuting **terrorism offences** or **serious transnational crimes**.
+  - Conducting **trend analysis** or developing **risk indicators** to support national security or border safety.
+
+### **B. Retention of PNR Information**
+
+| Retention Period | Conditions |
+|------------------|-----------|
+| **Default retention period**: **3 years and 6 months** after the **day of departure** of the commercial vehicle carrying the passenger. | Applies to all individuals unless otherwise extended. |
+| **Extended retention (up to 6 years)**: | If the information is needed to identify someone **reasonably suspected** of having committed a **terrorism offence** or **serious transnational crime**. Retention must be **proportional and justified**, and only as long as necessary for that purpose. |
+
+> ⚠️ **Note**: Retention beyond 6 years is **not permitted** under any circumstances.
+
+---
+
+## **4. Access to PNR Information by CBSA Officials**
+
+Access is strictly controlled and time-limited.
+
+### **(1) General Access (for identifying terrorism or transnational crime)**
+- Officials may access PNR data to:
+  - Identify individuals who may have committed a **terrorism offence** or **serious transnational crime**.
+  - Conduct **trend analysis** or develop **risk indicators**.
+- Access is **only allowed if the official's duties require it**.
+
+### **(2) Access During 72 Hours to 2 Years After Departure**
+- During the period from **72 hours after departure** to **two years after day of departure**:
+  - Officials may access the **name** of a person who was on board (only for identifying potential threats).
+  - Access is **only permitted if confirmed necessary** for the purpose.
+
+### **(3) Access After 2-Year Period (until 3 years 6 months)**
+- After the 2-year window, access is permitted **only if authorized by the President of the CBSA**.
+- Access is **only allowed** to identify someone **reasonably suspected** of committing a terrorism offence or serious transnational crime.
+
+### **(4) Access During Extended Retention Period (under subsection 3(2))**
+- During the period when PNR data is retained under extended conditions (i.e., for terrorism or transnational crime), access is **limited to identifying persons** who may have committed such offences.
+
+> ✅ **All access must be justified** and tied to the official’s function.
+
+---
+
+## **5. Recordkeeping Requirements**
+
+When access is granted, the following **must be recorded in a register** and **retained for at least two years**:
+
+| Information Required |
+|----------------------|
+| Name of the official requesting access |
+| Reason for the request |
+| Name of the person being investigated |
+| Dates: request made, authorization granted, and date of access |
+
+> This ensures **transparency, accountability, and auditability** of access to sensitive personal data.
+
+---
+
+## **6. Disclosure of PNR Information**
+
+The CBSA may disclose PNR information **only under strict conditions**, primarily to other government bodies or foreign authorities.
+
+### **A. To Federal or Provincial Government Departments**
+Disclosures are allowed **only if**:
+- There are **reasonable grounds** to believe the information will assist in preventing, investigating, or prosecuting a **terrorism offence** or **serious transnational crime**.
+- The department has **functions directly related** to such investigations.
+- The department has committed to applying **standards of protection** at least as strong as those in these Regulations.
+- The department agrees **not to further disclose** the information without CBSA permission (unless legally required).
+- Only the **necessary information** is disclosed.
+
+### **B. To Foreign Government Authorities**
+Disclosures are allowed **under international agreements** if:
+- There are **reasonable grounds** to believe the information will assist in preventing, investigating, or prosecuting a terrorism or transnational crime.
+- The foreign authority has functions directly related to such crimes.
+- The authority has committed to applying **standards of protection** at least equivalent to those in these Regulations — or, alternatively, to those negotiated with the **European Union**.
+- Only **necessary information** is disclosed.
+
+> ✅ **Important**: Disclosure under these provisions is **case-by-case** and subject to rigorous review.
+
+### **C. Legal Compliance**
+- Nothing in the regulations prevents the CBSA from disclosing PNR information in response to a **subpoena, warrant, or court order** issued by a Canadian court or body with jurisdiction.
+
+---
+
+## **7. Repealed Provisions**
+
+Several earlier definitions and provisions have been **repealed** by **SOR/2016-38, s. 1 and s. 2**, including:
+- Advance passenger information
+- Enforcement database
+- PAXIS system
+- Intelligence official
+
+These were either outdated or superseded by new frameworks (e.g., the 2016 amendments to PNR regulations, which modernized data handling and strengthened privacy protections).
+
+---
+
+## **8. Key Objectives and Purpose**
+
+The primary goals of these regulations are:
+
+1. **Enhance national security** by enabling the CBSA to identify potential threats related to terrorism or organized crime.
+2. **Support effective border management** through timely access to passenger data.
+3. **Ensure compliance with privacy and data protection standards** by imposing strict limits on:
+   - Retention periods,
+   - Access rights,
+   - Disclosure conditions,
+   - Recordkeeping.
+4. **Balance security needs with individual privacy rights** by requiring justification, oversight, and transparency.
+
+---
+
+## **9. Oversight and Accountability**
+
+- The **President of the CBSA** has authority to approve access to PNR data in sensitive cases.
+- A **detailed register** of all access and disclosures is maintained and retained for **at least two years**.
+- The regulations are designed

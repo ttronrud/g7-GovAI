@@ -1,0 +1,142 @@
+**Detailed Summary of the *Commercial Loan (Cooperative Credit Associations) Regulations* (S.C. 1991, c. 48)**
+
+---
+
+### **Overview**
+
+The *Commercial Loan (Cooperative Credit Associations) Regulations* are a set of administrative rules made under the *Cooperative Credit Associations Act* (the "Act") by His Excellency the Governor General in Council, on the recommendation of the Minister of Finance. These regulations serve two primary purposes:
+
+1. **Define key terms** related to "commercial loans" as specified in subsection 386(1) of the Act.
+2. **Prescribe specific international financial institutions** (international agencies) that are recognized for regulatory purposes in the context of commercial loans.
+
+These regulations are critical in determining whether a loan issued by a cooperative credit association qualifies as a "commercial loan" under the Act—thereby triggering specific regulatory requirements, including reporting, disclosure, and governance obligations under sections 398 and 399.
+
+---
+
+### **Key Definitions and Provisions**
+
+---
+
+#### **1. Scope and Citation**
+
+- The regulations are formally titled: *Commercial Loan (Cooperative Credit Associations) Regulations*.
+- "Act" refers to the *Cooperative Credit Associations Act*.
+- These regulations apply specifically to the definition of a "commercial loan" under subsection 386(1) of the Act and to the application of sections 398 and 399, which govern certain financial reporting and disclosure obligations.
+
+---
+
+#### **2. Prescribed Subsidiaries (Section 398 & 399)**
+
+> *All subsidiaries of the association, other than those that are financial institutions, are prescribed subsidiaries.*
+
+- This means that when assessing the financial structure or asset base of a cooperative credit association, **only non-financial institution subsidiaries** are considered "prescribed subsidiaries" for regulatory purposes.
+- Financial institutions (e.g., banks, credit unions, insurance companies) are **excluded** from being counted as prescribed subsidiaries under this rule.
+- This distinction is important because it affects how total assets are calculated and how the association's financial exposure is assessed under sections 398 and 399.
+
+---
+
+#### **3. Definition of "Widely Distributed" (Key to Commercial Loan Status)**
+
+A commercial loan is deemed "widely distributed" if it meets **one of several criteria**, depending on the nature of the underlying debt or security. This is central to determining whether a loan qualifies as a commercial loan under subsection 386(1).
+
+##### **A. For Debt Obligations (e.g., bonds, notes)**
+
+A debt obligation is considered "widely distributed" if **at least one of the following conditions is met**:
+
+1. **Holding Threshold**:
+   - At least **90% of the maximum authorized principal** of the debt obligations is held by **persons other than the association and its subsidiaries**.
+
+2. **Holding Threshold (Distribution)**:
+   - The debt obligations were issued to **at least 25 persons other than the association and its subsidiaries** within **six months** of the first issuance.
+
+3. **Continuous Issuance (Average Holders)**:
+   - If the debt obligations are issued continuously, there must be, on average, **at least 25 holders** other than the association and its subsidiaries.
+
+4. **Initial Distribution Criteria (Meeting Three of Four)**:
+   At the time of initial distribution, the debt obligations must meet **at least three of the following four criteria**:
+   - The initial term was **less than one year**.
+   - The debt was **rated by a rating agency**.
+   - It was distributed through a person **authorized to trade in securities**.
+   - It was distributed in accordance with an **offering circular, memorandum, or similar document** related to securities distribution.
+
+> *Note:* The "maximum authorized principal" means the highest amount of debt that can be issued under the terms of the debt obligation or any related agreement.
+
+##### **B. For Other Securities (e.g., shares, equity instruments)**
+
+A security is considered "widely distributed" if:
+- It is **listed and posted for trading on a recognized stock exchange**, or
+- A **prospectus** relating to the issuance of the securities was filed under the laws of Canada, a province, or a jurisdiction outside Canada.
+
+> This ensures that securities with broad market access or formal disclosure are treated as widely distributed.
+
+---
+
+#### **4. Prescribed International Agencies**
+
+The following international financial institutions are designated as **"prescribed international agencies"** under the regulations:
+
+| Agency | Purpose |
+|-------|--------|
+| International Bank for Reconstruction and Development (IBRD) | World Bank's lending arm |
+| International Finance Corporation (IFC) | Promotes private sector development |
+| Inter-American Development Bank (IDB) | Regional development bank for the Americas |
+| Asian Development Bank (ADB) | Regional development bank for Asia |
+| African Development Bank (AfDB) | Regional development bank for Africa |
+| European Investment Bank (EIB) | European development bank |
+| Caribbean Development Bank (CDB) | Regional development bank for the Caribbean |
+| Nordic Investment Bank (NIB) | Nordic regional development bank |
+| European Bank for Reconstruction and Development (EBRD) | Supports transition economies in Europe |
+| Council of Europe Development Bank (CEDB) | Supports development in Council of Europe member states |
+
+> These agencies are recognized as legitimate sources of financing and are included in the regulatory framework to ensure that loans issued through or in connection with these institutions are properly categorized and regulated.
+
+---
+
+#### **5. Definition of "Total Assets" (for sections 398 & 399)**
+
+Total assets of an association at a given time are defined by the following formula:
+
+> **Total Assets = A + B**
+
+Where:
+- **A** = The total of the assets that would be reported on the association’s balance sheet prepared as at that time in accordance with the **accounting principles and specifications** set out in subsection 292(4) of the Act (i.e., the official accounting standards applied by the Superintendent).
+- **B** = The total of the assets included in the value of A that are:
+  - Assets of a **subsidiary of the association that is a financial institution**, or
+  - Assets of a **subsidiary of a financial institution**, **provided that** the subsidiary is not a subsidiary of the association solely because of its relationship to the association.
+
+> **Important Exclusion**: Assets of a subsidiary that is a financial institution **only because it is a subsidiary of the association** are **not included** in B.
+
+> This rule ensures that the association's total assets for regulatory purposes are not inflated by including financial institution subsidiaries that are merely structurally linked to the parent cooperative.
+
+---
+
+### **Regulatory Purpose and Impact**
+
+These regulations provide **clear, measurable standards** to determine whether a loan qualifies as a "commercial loan" under the Act. This classification is essential because:
+
+- Commercial loans are subject to **enhanced disclosure and reporting requirements** under sections 398 and 399.
+- They are also subject to **specific limits on the types of securities or debt instruments** that can be issued.
+- The rules help ensure **transparency, market access, and investor protection** by requiring broad distribution of such loans.
+
+---
+
+### **Key Principles Underlying the Regulations**
+
+1. **Market Accessibility**: The "widely distributed" standard ensures that loans are not concentrated among a small group of investors or within the association’s own network.
+2. **Transparency**: Requirements such as offering circulars, ratings, and prospectus filings promote investor confidence and regulatory oversight.
+3. **Exclusion of Financial Institutions**: By excluding financial institution subsidiaries from being counted in prescribed subsidiaries, the regulations prevent double-counting and maintain focus on non-financial operations.
+4. **International Recognition**: The inclusion of major international development banks ensures that cooperative credit associations engaging with global markets are operating within a consistent regulatory framework.
+
+---
+
+### **Conclusion**
+
+The *Commercial Loan (Cooperative Credit Associations) Regulations* establish a **comprehensive and transparent framework** for identifying and regulating commercial loans within cooperative credit associations. By defining "widely distributed" debt and securities and prescribing international agencies, the regulations ensure that loans issued to the public or through global markets meet rigorous standards of distribution, disclosure, and transparency. Additionally, the precise definition of total assets and prescribed subsidiaries supports accurate financial reporting and strengthens the integrity of the cooperative credit system.
+
+These regulations are a key component of Canada’s financial oversight regime for cooperative credit associations, balancing financial innovation with investor protection and regulatory accountability.
+
+--- 
+
+**Citation**: *S.C. 1991, c. 48*  
+**Act Reference**: *Cooperative Credit Associations Act*  
+**Effective Date**: 1991 (as amended or referenced in subsequent legislation)

@@ -1,0 +1,119 @@
+**Detailed Summary of the Regulation: "Regulations Specifying Activities that Do Not Constitute Brokering"**
+
+---
+
+### **Regulatory Context and Authority**
+
+This regulation was issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Foreign Affairs**, under **paragraph 12(e.1)a of the Export and Import Permits Act (EIPA)**.  
+
+The purpose of these regulations is to **clarify which activities do not constitute "brokering"** under the EIPA — a critical distinction because brokering is generally subject to strict licensing and oversight under Canadian export control laws. By defining specific activities that are *exempt* from being considered brokering, the regulation aims to reduce unnecessary regulatory burdens while maintaining national security and export control safeguards.
+
+The regulation is part of **Statutes of Canada, 2018, Chapter 26, Section 12(2)**, and is codified under **R.S., c. E-19** (the Export and Import Permits Act).
+
+---
+
+### **Key Definitions**
+
+Before outlining the exempt activities, the regulation establishes two key definitions:
+
+1. **Affiliate of a Corporation**  
+   A corporation is considered an affiliate of another if:
+   - One controls the other, or  
+   - Both are controlled by the same corporation.
+
+2. **Control of a Corporation**  
+   A corporation is "controlled" by another if the latter has the **ability to exercise control in fact** — meaning practical, not just legal or formal, control over the corporation’s operations, decisions, or governance.
+
+> *Note: This definition focuses on "control in fact" rather than ownership or shareholding alone, allowing for flexibility in assessing real-world influence.*
+
+---
+
+### **Exempt Activities That Do Not Constitute Brokering**
+
+The regulation explicitly states that the following activities **do not constitute brokering** under the EIPA:
+
+---
+
+#### **1. Brokering Between a Corporation and Its Affiliates**
+
+An activity involving a transaction between a corporation and one of its affiliates is **not considered brokering** if:
+
+- The transaction involves the **movement of a good** (i.e., physical goods being exported or imported),  
+  **but** the good is **not** one listed in **Group 9 of the Schedule to the Export Control List**;  
+- The good is intended for **end-use by an affiliate** of the corporation.
+
+> **Explanation**:  
+> This exemption applies only when the transaction is internal to a corporate group — for example, a Canadian company selling equipment to its subsidiary for use in that subsidiary’s operations. Since the end-use is within the same corporate structure, there is no risk of external diversion or misuse, and thus the activity is exempt from requiring a permit or being classified as brokering.
+
+> **Exclusion Note**:  
+> Goods listed in **Group 9** (which typically include items of strategic or sensitive nature — e.g., certain dual-use technologies, advanced electronics, or items with potential military applications) are **excluded** from this exemption. This ensures that sensitive goods remain under strict control.
+
+---
+
+#### **2. Brokering by a Canadian Citizen or Permanent Resident (Outside Canada)**
+
+A Canadian citizen or permanent resident (as defined in subsection 2(1) of the *Immigration and Refugee Protection Act*) who is **outside Canada** may engage in brokering without being deemed a broker if:
+
+- The transaction involves the **movement of a good**, **not listed in Group 9** of the Export Control List;  
+- The brokering is done **on behalf of the employer**;  
+- The **employer is not**:
+  - A Canadian citizen or permanent resident, **or**
+  - An organization incorporated, formed, or organized under Canadian provincial or federal law (i.e., a Canadian entity);  
+- The Canadian citizen or permanent resident **does not have the ability to exercise control in fact** over the employer.
+
+> **Explanation**:  
+> This exemption recognizes that individuals abroad may assist in facilitating trade transactions for foreign employers. However, the exemption is conditional and safeguards against misuse. Key safeguards include:
+> - The good must not be in Group 9 (i.e., sensitive or restricted items).
+> - The individual must act as an agent, not a decision-maker.
+> - The individual must not have real control over the employer — preventing situations where a foreign national could effectively manage or influence the transaction.
+
+> **Example**:  
+> A Canadian citizen living in the U.S. helps facilitate the sale of a non-sensitive piece of machinery to a foreign-owned company in Asia, acting solely as a liaison. If the citizen has no decision-making power over the foreign employer, and the good is not in Group 9, this activity is exempt from brokering rules.
+
+---
+
+### **Effective Date and Implementation**
+
+- These regulations come into force on the day that **subsection 12(2) of the Export and Import Permits Act (S.C. 2018, c. 26)** comes into force.  
+- If the regulations are **registered (published) after** that date, they will take effect on the **date of registration**.
+
+> *Note: These regulations were officially in force as of September 1, 2019, as indicated in SI/2019-41.*
+
+---
+
+### **Purpose and Significance**
+
+This regulation serves several important functions:
+
+1. **Reduces Regulatory Burden**:  
+   It prevents overly restrictive application of brokering rules in routine, internal corporate transactions or in cases where individuals abroad act as facilitators without control.
+
+2. **Enhances Trade Efficiency**:  
+   Allows legitimate business activities — especially within corporate groups or cross-border facilitation — to proceed without unnecessary licensing requirements.
+
+3. **Maintains Security and Control**:  
+   By excluding only goods in Group 9 and ensuring that individuals do not have actual control over the employer, the regulation maintains a strong security framework for sensitive items and high-risk transactions.
+
+4. **Clarifies Legal Boundaries**:  
+   Provides clear, rule-based guidance on what constitutes brokering, helping businesses, exporters, and government agencies apply the law consistently.
+
+---
+
+### **Limitations and Exceptions**
+
+- **Group 9 Exclusion**:  
+  Any transaction involving goods in Group 9 (e.g., advanced computing hardware, certain chemicals, or surveillance equipment) is **not exempt**, regardless of the circumstances. These remain subject to full export control requirements.
+
+- **Control in Fact Requirement**:  
+  The "control in fact" standard is crucial — even if ownership is shared, if one party exercises real influence over decisions, the activity may still be considered brokering.
+
+- **Employer Status Matters**:  
+  If the employer is a Canadian entity (citizen, permanent resident, or incorporated under Canadian law), the exemption does not apply.
+
+---
+
+### **Conclusion**
+
+The *Regulations Specifying Activities that Do Not Constitute Brokering* provide a targeted, practical exemption from the brokering provisions of the *Export and Import Permits Act*. These exemptions are designed to support legitimate business operations — particularly within corporate groups and international facilitation — while preserving Canada’s ability to control sensitive exports and prevent misuse. The rules are carefully structured to balance economic efficiency with national security, ensuring that only non-sensitive, low-risk transactions are exempt from regulatory scrutiny.
+
+These regulations reflect a nuanced approach to export control, recognizing the realities of modern international trade while maintaining essential safeguards.

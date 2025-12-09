@@ -1,0 +1,147 @@
+Certainly. Below is a **detailed, structured summary** of the regulation you provided — the *Nuclear Substances and Radiation Devices Regulations*, approved under the *Nuclear Safety and Control Act* by Her Excellency the Governor General in Council on the recommendation of the Minister of Natural Resources, effective May 31, 2000 (S.C. 1997, c. 9).
+
+---
+
+## 📚 **Detailed Summary of the Nuclear Substances and Radiation Devices Regulations**
+
+### 🔹 **Overview**
+These regulations, made by the **Canadian Nuclear Safety Commission (CNSC)** and approved under **section 44 of the Nuclear Safety and Control Act (NSCA)**, establish the legal framework governing the **possession, use, licensing, and disposal** of **radioactive nuclear substances**, **sealed sources**, and **radiation devices** in Canada. They define key terms, set exemption and clearance levels, and outline conditions under which certain activities can be carried out **without a license**.
+
+The regulations apply to all nuclear substances and sealed sources, as well as radiation devices **excluding Class II prescribed equipment**. They do **not apply** to the **packaging or transport** of such materials.
+
+---
+
+## 🔍 **Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Act** | Refers to the *Nuclear Safety and Control Act* (NSCA). |
+| **Bulk Quantity** | More than 1 tonne (mass) of material (section 5) or more than 1 tonne per year per facility (section 5.1). |
+| **Certificate** | Official document issued by CNSC or a designated officer confirming certification of equipment or personnel. |
+| **Certified** | Verified by CNSC or authorized officer under specific provisions of the NSCA. |
+| **Class II Prescribed Equipment** | Defined in separate *Class II Nuclear Facilities and Prescribed Equipment Regulations*. |
+| **Conditional Clearance Level** | Activity concentration that results in an effective dose ≤ **1 mSv/year** due to a low-probability event (per IAEA RS-G-1.7), or ≤ **10 µSv/year** (a conservative threshold). |
+| **Depleted Uranium** | Uranium with <0.7% U-235 (less than natural concentration). |
+| **Dosimeter** | Device worn to measure individual radiation exposure. |
+| **Effective Dose** | Standardized measure of radiation risk (defined in *Radiation Protection Regulations*). |
+| **Exemption Quantity** | Maximum allowable activity level for exempted substances. Varies by substance and distribution. |
+| **Exposure Device** | Radiation device used for gamma radiography (e.g., industrial inspection); includes sealed source assembly, drive mechanism, guide tube, and exposure head. |
+| **IAEA Safety Standard RS-G-1.7** | 2004 edition on application of exclusion, exemption, and clearance principles. |
+| **Licensed Activity** | Activities authorized by a CNSC license (e.g., use, processing, storage). |
+| **Licensee** | Individual or entity holding a valid license. |
+| **Natural Uranium** | Uranium with normal U-235 concentration (~0.7%). |
+| **Nuclear Criticality** | Self-sustaining fission chain reaction. |
+| **Operate** | Includes coupling, uncoupling, locking/unlocking, and all activities involving exposure devices when the sealed source is not in the fully shielded position. |
+| **Prescribed Equipment** | Equipment listed in the *General Nuclear Safety and Control Regulations*. |
+| **Radiation Device** | Any device containing > exemption quantity of a nuclear substance for radiation use, or containing a radium luminous compound. |
+| **Radiation Survey Meter** | Instrument measuring radiation dose rates. |
+| **Sealed Source** | Radioactive material in a robust, leak-proof capsule or bonded cover. |
+| **Sealed Source Assembly** | Sealed source integrated into an exposure device with permanent components. |
+| **Servicing** | Maintenance (installation, repair, dismantling) not part of routine operation or authorized in the license. |
+| **Specific Activity** | Activity per unit mass (e.g., Bq/g). |
+| **Unconditional Clearance Level** | Maximum allowable concentration for bulk material (excluding surface contamination). Defined per substance and atomic number. |
+| **Unsealed Source** | Source not in a sealed capsule. |
+| **Worker** | Person performing work authorized in a license. |
+
+> ⚠️ **Note**: These definitions are critical for interpreting thresholds and exemptions.
+
+---
+
+## 🚩 **Scope and Applicability**
+
+### ✅ Applies To:
+- All **nuclear substances** and **sealed sources**.
+- All **radiation devices** **not classified as Class II prescribed equipment**.
+
+### ❌ Does Not Apply To:
+- **Packaging or transport** of nuclear substances, sealed sources, or radiation devices (covered under other regulations).
+
+---
+
+## 📝 **Licensing Requirements**
+
+### 1. **General Application for a Licence (Non-Servicing Activities)**  
+All applications for a licence (except for servicing) must include the following additional information:
+
+| Requirement | Description |
+|-----------|-------------|
+| **Methods & Procedures** | For carrying out the licensed activity and during emergencies. |
+| **Accident Response Plan** | Must include: <br> - Monitoring of radioactive releases <br> - Detection of radiation dose and activity <br> - Containment of contamination <br> - Decontamination procedures |
+| **Site Description** | Proposed location and site details. |
+| **Worker Roles & Training** | Qualifications, responsibilities, duties, and proposed training programs. |
+| **Emergency Procedures** | For fires, spills, and other incidents involving nuclear substances. |
+| **Equipment Inspection Program** | Routine checks for safety and functionality. |
+| **Calibration Plans** | For radiation survey meters and dosimeters (per Regulation). |
+| **Leak & Survey Testing** | Methods for conducting required leak tests and radiation surveys. |
+| **Room Design (if applicable)** | For unsealed sources used in enclosed rooms. |
+| **Radiation Device Details** | Brand name, model number, and quantity. |
+| **Criticality Prevention** | Required for Category I, II, or III nuclear material (per *Nuclear Security Regulations*). |
+| **Disposal Procedures** | For devices or check sources (if manufacturing/distributing). |
+
+> ⚠️ **Exception**: Licensing applications for **imports or exports** are governed by the *Nuclear Non-proliferation Import and Export Control Regulations* and are exempt from these requirements.
+
+---
+
+### 2. **Application for Licence to Service a Radiation Device**
+
+Must include:
+- Brand name and model number (or certificate number) of the device.
+- Description of the servicing activity (e.g., repair, maintenance).
+- Proposed methods, procedures, and equipment.
+- Worker qualifications and training program.
+- Post-service verification procedures to ensure the device is safe for use.
+
+> 🔍 This is a more limited scope than full licensing and focuses on maintenance and safety.
+
+---
+
+## ✅ **Exempt Activities (No Licence Required)**
+
+A person may carry out the following **without a licence**, provided the activity or concentration does not exceed:
+
+### 1. **Radioactive Nuclear Substances**
+- Possess, transfer, import, export, use, mine, produce, refine, convert, enrich, process, reprocess, manage, or store a radioactive substance **if**:
+  - The activity or concentration does **not exceed**:
+    - Its **exemption quantity**
+    - Its **conditional clearance level**
+    - Its **unconditional clearance level**
+
+> 🔍 These thresholds vary by substance and are based on risk, distribution, and atomic number.
+
+---
+
+### 2. **Sealed Sources (Low Activity)**
+- Possess, transfer, import, export, store, use, or abandon a sealed source **containing less than the exemption quantity** of radioactive material.
+
+---
+
+### 3. **Radiation Devices (Non-Exposure Devices)**
+- Possess, transfer, store, use, or abandon a radiation device (other than exposure devices) **if** the quantity of nuclear material contained is **less than 10 times the exemption quantity**.
+
+---
+
+### 4. **Deuterium and Deuterium Compounds**
+- Possess, transfer, store, use, or dispose of deuterium (or compounds) **if less than 10 kg per calendar year**.
+
+---
+
+### 5. **Depleted Uranium (DU) in Aircraft Counterweights**
+- May be used **if**:
+  - Each counterweight has:
+    - Durable, legible marking: **"DEPLETED URANIUM APPAUVRI"** visible through any coating.
+    - Manufacturer’s name, unique ID, and statement: **"UNAUTHORIZED ALTERATIONS PROHIBITED / MODIFICATIONS INTERDITES SANS AUTORISATION"**.
+  - No alterations beyond those allowed in the *Canadian Aviation Regulations* (subsection 571.02(1)).
+  - No chemical, physical, or metallurgical treatment except for repair or restoration of plating.
+
+> 🔍 This exemption supports aviation safety and regulatory transparency.
+
+---
+
+### 6. **Material with DU, Natural Uranium, or Natural Thorium (Non-Radiation Use)**
+- May possess, transfer, use, or abandon material containing **≤10 kg** of these materials **per calendar year**, **provided** it is **not used for radiation properties**.
+
+> ⚠️ **Exclusion**: Does **not apply** to Category I, II, or III nuclear materials (as defined in *Nuclear Security Regulations*).
+
+---
+
+## �

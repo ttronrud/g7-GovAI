@@ -1,0 +1,135 @@
+**Detailed Summary of the *Large Fishing Vessel Inspection Regulations***
+
+---
+
+### **Overview**
+The *Large Fishing Vessel Inspection Regulations* (LFVIR) are a set of Canadian maritime safety regulations established under the *Canada Shipping Act*. These regulations establish minimum safety, stability, machinery, and life-saving equipment standards for **large commercial fishing vessels** that exceed specific size thresholds. The regulations apply primarily to vessels over **24.4 meters in length or 150 gross tons**, excluding sailing ships.
+
+They are designed to ensure the **safety of life, structural integrity, and operational reliability** of fishing vessels, particularly in harsh marine environments. The regulations are administered by the **Board of Steamship Inspection (Board)**, which has the authority to approve, exempt, or impose additional safety requirements as needed.
+
+---
+
+## **Key Definitions and Interpretations**
+
+| Term | Meaning |
+|------|--------|
+| **Act** | Refers to the *Canada Shipping Act*, the foundational legislation governing maritime safety and vessel registration. |
+| **Approved** | Unless otherwise stated, means approved by the Board of Steamship Inspection. |
+| **Board** | The Board of Steamship Inspection, responsible for overseeing vessel inspections and safety compliance. |
+| **Chairman** | The head of the Board. |
+| **Class II EPIRB** | Emergency Position Indicating Radiobeacon (a device that transmits a distress signal in an emergency). |
+| **Continuous Rating** | The maximum brake power (in kilowatts) and speed at which an engine can operate continuously for at least 24 hours without degradation. |
+| **Divisional Supervisor** | An officer of Transport Canada responsible for a specific Steamship Inspection Division. |
+| **Existing Fishing Vessel** | A vessel that is not new (i.e., construction began before or on July 12, 1956). |
+| **Fishing Vessel** | Any vessel engaged in commercial fishing. |
+| **Immersion Suit** | A protective suit designed to reduce heat loss when a person is immersed in cold water. |
+| **Inspector** | A maritime inspector appointed under the Canada Shipping Act. |
+| **Length** | Measured from the foremost point of the stem to the aft side of the stern post (or rudder stock), or between extreme hull points if no rudder stock exists. |
+| **New Fishing Vessel** | A vessel whose construction began on or after July 12, 1956, including foreign vessels brought into Canadian registry. |
+| **Sailing Ship** | A vessel propelled wholly by sails, or a vessel under 200 gross tons with sails and mechanical propulsion (non-steam). |
+| **SART** | Search and Rescue Radar Transponder — used to locate vessels in distress via radar. |
+| **Survival Craft** | Life-saving equipment (e.g., life rafts, lifeboats) required by section 24 of the *Life Saving Equipment Regulations*. |
+| **TP 127** | *Ship Safety Electrical Standards* issued by Transport Canada, amended periodically. |
+| **VHF Coverage Area** | Defined areas where Canadian or U.S. Coast Guard radio stations provide continuous distress and safety services on 156.8 MHz (Channel 16). Includes the Great Lakes, St. Lawrence River, Puget Sound, and all waters within a 156.8 MHz coverage radius. |
+
+> **Note**: The classes of voyages (home-trade, inland, minor waters) are defined in the *Home-Trade, Inland and Minor Waters Voyages Regulations*.
+
+---
+
+## **Exemptions and Special Requirements**
+
+- **Exemption Authority**:  
+  The Board may **exempt a vessel from full compliance** with any requirement if it deems it appropriate and justifiable (e.g., due to unique operational needs or design).
+
+- **Additional Safety Requirements**:  
+  If the Board determines that **life safety is at risk**, it may impose **additional requirements** beyond those in these regulations — particularly for life-saving and fire extinguishing equipment.
+
+- **Prohibited Fire Extinguishers**:  
+  The use of **vapourizing liquid fire extinguishers** is **prohibited** except in **radio rooms and switchboards**, where they may be used **only if**:
+  - The extinguisher contains **no more than 1.136 liters** of vapourizing liquid, and
+  - It is used **in addition to** other required fire protection measures.
+
+---
+
+## **Applicability of Regulations**
+
+### **Applies to:**
+- **New fishing vessels** over **24.4 m in length or 150 gross tons**, **excluding sailing ships**.
+- **Existing fishing vessels** over **24.4 m in length or 150 gross tons**, **excluding sailing ships**, under Sections 10 to 13.1, 14.1, subsections 15(12) to (12.2) and (15), and Sections 19.1, 22.1, and 24 to 27.
+
+> *Note: Some provisions have been repealed (e.g., SOR/2021-135, s. 56–59), indicating updates or consolidation of regulations.*
+
+---
+
+## **Stability and Inclining Experiment Requirements**
+
+### **Mandatory Inclining Experiment**
+An **inclining experiment** must be conducted during or near the completion of a vessel, in the presence and to the satisfaction of a **steamship inspector**.
+
+### **Stability Conditions to Be Assessed**
+The results of the inclining experiment must be developed to reflect the vessel’s stability under the following operational conditions:
+
+1. **Lightship** – Vessel empty, no cargo or fuel.
+2. **Port departure** – Departing port with standard load.
+3. **Arrival at fishing grounds** – Vessel arriving at fishing location.
+4. **Half load** – Vessel loaded to half capacity.
+5. **Full load** – Vessel fully loaded with cargo.
+6. **Worst operating condition affecting stability** – Most adverse operational scenario.
+7. **Worst operating condition with accumulated ice on topsides and rigging** – Ice load on deck, superstructure, and rigging.
+8. **Port after discharge of cargo** – After cargo discharge, with 10% of fuel, fresh water, and stores remaining, and ice on topsides and rigging.
+
+> **Special Note**: Stability must also be evaluated for fish with **different stowage characteristics** (e.g., loose vs. packed) in conditions specified in paragraphs (2)(d), (e), (f), and (g).
+
+### **Exemption from Ice Load Stability Testing**
+- The stability analysis for **conditions (g) and (h)** (worst ice conditions) is **not required** unless the vessel is to operate in or be transferred to **northern or eastern Canadian waters**.
+
+### **Deck Stowage Allowance**
+- Where appropriate to the vessel’s trade, **an allowance must be made** for fish stowed on deck, which affects stability due to shifting weight.
+
+### **Weight Assumptions for Accumulated Ice**
+Accumulated ice is assigned specific weights based on surface area and location:
+
+| Area | Weight per m² |
+|------|----------------|
+| Total deck area (including superstructure & deckhouse tops) | 54 kg/m² |
+| Superstructure & deckhouse fronts, sides, bulwarks (inboard only) | 37 kg/m² |
+| Guardrails, stanchions, hatch coamings, companionways | 78 kg/m² |
+| Rigging, masts, derricks (up to 6.1 m above main weatherdeck) | 48 kg per running meter |
+
+### **Minimum Vertical Centre of Gravity (VCG) for Ice**
+- **Side trawlers**: Minimum VCG of **2.44 m** above main weatherdeck.
+- **Stern trawlers**: Minimum VCG of **1.22 m** above main weatherdeck.
+
+> These values ensure that even under worst-case ice loading, the vessel remains stable and does not capsize.
+
+---
+
+## **Required Stability Documentation**
+
+The vessel owner must submit the following plans and documents to the Board:
+
+1. **Hydrostatic curves and draught mark locations**
+2. **Cross curves of stability** (for each condition)
+3. **Curves of righting levers** for all specified conditions
+4. **Capacity plan** showing:
+   - Capacities and centers of gravity of all cargo, tank, and storage spaces
+5. **Tank sounding tables** (for monitoring liquid levels)
+
+> These documents are essential for demonstrating that the vessel meets stability standards under all operational scenarios.
+
+---
+
+## **Stability Information for Existing and Modified Vessels**
+
+- **Existing vessels** (built before March 2, 1967) are subject to these requirements **if modified** in a way that affects stability.
+- If stability data is **available**, it must be **updated and submitted** to the Board for approval.
+- If stability data is **not available**, the owner must provide data **to the extent considered necessary** by the Board.
+
+> **Exception**: The Board may **dispense with stability testing** if the vessel is a **sister ship** (identical or similar in design) and its stability data and plans have already been approved.
+
+---
+
+## **Propulsion and Machinery Requirements**
+
+### **Means of Stopping the Vessel**
+- **Except when a continuous watch is maintained in the machinery space**, a **readily identifiable method** must be provided to stop the vessel **outside** the machinery space (e.g., via a switch or control panel).

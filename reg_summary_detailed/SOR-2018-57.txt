@@ -1,0 +1,160 @@
+**Detailed Summary of the Bank Recapitalization (Bail-in) Conversion Regulations**
+
+---
+
+### **1. Introduction and Legal Basis**
+
+The *Bank Recapitalization (Bail-in) Conversion Regulations* were issued by **Her Excellency the Governor General in Council**, on the recommendation of the **Minister of Finance**, under **subsection 39.2(10)a of the Canada Deposit Insurance Corporation Act (CDICA)**. This regulatory instrument implements a key component of Canada’s financial stability framework: the **bail-in mechanism** for systemically important banks.
+
+These regulations were enacted under **S.C. 2016, c. 7, s. 139(4)** and are part of **R.S., c. C-3** (the Canada Deposit Insurance Corporation Act). Their primary purpose is to define which shares and liabilities of **domestic systemically important banks (D-SIBs)** are subject to **"bail-in" conversion** — a process where certain debt instruments or shares are converted into common shares during a bank’s restructuring or insolvency, rather than being written off or fully repaid.
+
+---
+
+### **2. Key Definitions**
+
+The regulations establish the following key definitions:
+
+- **Act**: Refers to the *Canada Deposit Insurance Corporation Act*.
+- **Debt obligation**: Defined in accordance with *section 2 of the Bank Act*; broadly refers to any debt instrument issued by a bank.
+- **Subordinated indebtedness**: Also defined in section 2 of the Bank Act; refers to debt that ranks behind senior debt in terms of repayment priority.
+- **Non-viability contingent capital**: A share or liability of a federal member bank that, under specific conditions (e.g., a public announcement about the bank’s non-viability), can be automatically converted into common shares. This is a form of **contingent capital** designed to absorb losses during stress scenarios.
+
+---
+
+### **3. What Is "Prescribed" for Bail-in Conversion?**
+
+Under **subsection 39.2(2.3)** of the CDICA, the following **shares and liabilities are prescribed** (i.e., eligible for conversion into common shares) under the bail-in mechanism:
+
+#### **A. Debt Obligations (excluding subordinated indebtedness) that meet all of the following criteria:**
+1. **Issued by a domestic systemically important bank (D-SIB)**.
+2. **Perpetual or has a term to maturity exceeding 400 days** — either:
+   - Original or amended maturity > 400 days, or
+   - Contains an explicit or embedded option that, if exercised, would result in a maturity > 400 days from issuance.
+3. **Unsecured or only partially secured at the time of issuance**.
+4. **Identified by a unique identifier** such as:
+   - CUSIP number
+   - ISIN (International Securities Identification Number)
+   - Or another similar designation used for trading and settlement.
+
+> *Note:* This excludes debt obligations with fixed maturities of 400 days or less, and those with embedded options that do not extend maturity beyond 400 days.
+
+#### **B. Shares or subordinated indebtedness that are:**
+- Issued by a D-SIB
+- **Neither common shares nor non-viability contingent capital**
+
+> *Note:* Common shares are excluded because they are already equity; non-viability contingent capital is excluded because it is a distinct type of capital instrument designed to respond to viability announcements.
+
+---
+
+### **4. Conditions for Prescribed Status**
+
+A share or liability is only considered prescribed if:
+
+- It was **issued on or after the day the Regulations come into force**, **or**
+- It was issued **before** that date, but its terms were **amended on or after** the effective date to:
+  - Increase its principal amount, or
+  - Extend its maturity term
+
+> This ensures that only instruments that meet the new standards post-regulation are subject to bail-in, preventing retroactive application to older instruments.
+
+---
+
+### **5. Treatment of Partially Secured Debt Obligations**
+
+If a debt obligation is only **partially secured** at issuance:
+
+- Only the **amount exceeding the value of the collateral** (determined at issuance) is treated as a prescribed liability.
+- This includes **unpaid accrued interest**.
+- The portion secured by collateral is not subject to bail-in.
+
+> This protects creditors with secured claims and ensures that bail-in applies only to the risk that remains after collateral is taken into account.
+
+---
+
+### **6. Exclusions from Bail-in (Not Prescribed)**
+
+The following instruments are **explicitly excluded** from being prescribed for bail-in:
+
+| Excluded Instrument | Reason |
+|--------------------|--------|
+| **Covered bonds** | As defined in *section 21.5 of the National Housing Act* — these are secured debt instruments used in housing finance, not subject to bail-in. |
+| **Eligible financial contracts** | As defined in *subsection 39.15(9)* of the CDICA — these are instruments that meet specific criteria for being excluded from bail-in due to their structure or purpose. |
+| **Structured notes** | Defined as debt obligations where maturity or returns depend on performance of an asset, index, interest rate, or exchange rate. |
+| **Conversion or exchange privileges** | That allow conversion into shares at any time. |
+| **Options or rights to acquire shares** | Especially those under paragraph (d) of the definition. |
+| **Shares of a series created before January 1, 2013** that arose from the exercise of a conversion privilege under an earlier series | These are considered legacy instruments and are excluded. |
+
+---
+
+### **7. Clarification on Structured Notes**
+
+#### **Definition of a Structured Note:**
+A debt obligation is considered a structured note if:
+- Its maturity or payment is based on:
+  - Performance of an entity or asset
+  - Market price of a security, commodity, fund, or financial instrument
+  - Interest rate or exchange rate
+- Or contains any other embedded derivative or similar feature
+
+#### **Exclusions from the Structured Note Definition (Despite the General Rule):**
+- **Debt obligations where the return is based solely on a fixed or floating interest rate** (with no other variable features), even if it changes between fixed/floating, are **not** considered structured notes.
+- The return must be **independent of external indices or performance** — if the only variable is interest rate (fixed or floating), it is not a structured note.
+
+> This distinction ensures that instruments with predictable, simple interest payments are not unnecessarily exposed to bail-in.
+
+---
+
+### **8. Meaning of "Conversion"**
+
+The term *conversion* is defined differently depending on the instrument:
+
+- **For non-viability contingent capital**: Conversion occurs **automatically under the terms of the instrument** when a public announcement of non-viability is made by the Superintendent or the Government.
+- **For prescribed shares or liabilities**: Conversion occurs under **subsection 39.2(2.3)** of the CDICA — a formal bail-in process during a bank restructuring.
+
+---
+
+### **9. Regulatory Requirements for Conversion**
+
+The Canada Deposit Insurance Corporation (CDIC) must follow strict principles when carrying out a conversion:
+
+#### **A. Capital Adequacy Requirement**
+- The CDIC **must take into account** the requirement under **subsection 485(1) of the Bank Act** that banks maintain **adequate capital**.
+- This ensures that bail-in does not lead to capital depletion below acceptable levels.
+
+#### **B. Subordination and Priority Rules**
+- The CDIC must use its **best efforts** to ensure that:
+  - All **subordinate prescribed shares or liabilities** and **subordinate non-viability contingent capital** are converted **before** or **at the same time** as the prescribed shares/liabilities.
+  - This ensures a **hierarchical conversion order** — senior creditors are paid first.
+
+#### **C. Pro-Rata Conversion**
+- For prescribed shares or liabilities of **equal rank** converted during the same restructuring period:
+  - The conversion must be **pro rata** — all holders receive the **same number of common shares per dollar** of their converted entitlement.
+  - This prevents preferential treatment and promotes fairness.
+
+#### **D. Priority for Equal-Rank Holders**
+- Holders of prescribed shares or liabilities must receive **more common shares per dollar** than holders of:
+  - Any **subordinate prescribed shares or liabilities**
+  - Any **subordinate non-viability contingent capital**
+- This gives **priority** to prescribed instruments in conversion.
+
+#### **E. Equal Treatment with Equal-Rank Non-Viability Contingent Capital**
+- If a **non-viability contingent capital** of the **same rank** is converted during the same period:
+  - Holders of prescribed shares/liabilities must receive **the same number of common shares per dollar** as the holders of that non-viability capital.
+- This ensures **parity** between different types of capital instruments of equal rank.
+
+---
+
+### **10. Definitions in the Context of Conversion**
+
+- **Subordinate to**: A share or liability ranks subordinate if, in a winding-up, it would be paid **after** another share/liability.
+- **Equal in rank**: Two instruments would be paid **in the same order** in a winding-up.
+- **Liquidation entitlement**: The amount a shareholder is entitled to receive upon winding up, **in priority to subordinate claims**.
+
+> These definitions ensure that conversion decisions are based on a clear hierarchy of claim priority.
+
+---
+
+### **11. Effective Date and Enforcement**
+
+- The Regulations come into force on the **180th day after registration**.
+- As of the note in the document, these regulations were **in force on September 23,

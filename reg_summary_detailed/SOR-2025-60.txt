@@ -1,0 +1,197 @@
+Certainly. Below is a **detailed, structured summary** of the regulation titled:
+
+> **"Designating Certain Excluded Classes of Projects under subsection 88(1) of the Impact Assessment Act"**  
+> (S.C. 2019, c. 28, s. 1; Effective February 27, 2025)
+
+This regulation, issued by the **Minister of the Environment**, designates certain classes of projects as **exempt from mandatory environmental impact assessments (EIAs)** under the *Impact Assessment Act (IAA)* — provided that they are deemed to cause only **insignificant adverse environmental effects**.
+
+---
+
+## 🔍 **Background and Legal Basis**
+
+### **1. Purpose of the Regulation**
+The Minister has determined that specific types of projects — when carried out on federal lands or outside Canada — will result in **only insignificant environmental harm**. Therefore, under **section 88(1)** of the *Impact Assessment Act*, these projects are **designated as exempt** from the full impact assessment process.
+
+### **2. Legal Authority**
+- The Minister relies on **subsection 89(2)** of the IAA, which requires that public comments be considered in determining whether a project should be designated.
+- The decision was made after reviewing public input, ensuring transparency and public engagement.
+
+### **3. Repeal of Previous Order**
+- The prior *Designated Classes of Projects Order* (SOR/2019-323) is **repealed**, meaning this new Order supersedes it.
+
+---
+
+## 📚 Key Definitions
+
+The regulation provides precise definitions to ensure clarity and consistency across all project categories:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Impact Assessment Act* |
+| **Allied Petroleum Product** | As defined in the *Storage Tank Systems for Petroleum Products and Allied Petroleum Products Regulations* |
+| **Building** | A roofed physical structure, including moveable accommodations (e.g., tents, trailers) |
+| **Developed Land** | Land permanently altered for human use or landscaped and maintained for such use |
+| **Expansion** | Increase in exterior dimensions or production capacity of a physical work |
+| **Hook-up** | A structure or line connecting a physical work to a main utility (gas, water, power, etc.) |
+| **Modification** | Change to a physical work that does not alter its purpose or function (excluding expansion or relocation) |
+| **Petroleum Product** | As defined in the same storage regulations |
+| **Water Body** | Includes lakes, rivers, reservoirs, oceans, tributaries, and wetlands up to the annual high-water mark. **Excludes** ditches without fish habitat, waste lagoons, mine ponds, irrigation ponds, and dugouts |
+| **Wetland** | Areas where water influences soil formation and supports water-tolerant vegetation (e.g., marshes, swamps, bogs) |
+
+> ⚠️ **Note on Physical Work**: Includes all systems and equipment necessary for operation (e.g., HVAC, security, electrical), **but excludes** systems that produce goods or energy for purposes other than operation.
+
+---
+
+## 🏗️ Designated Classes of Projects (Exempt from EIAs)
+
+The regulation outlines **three main schedules** of exempt projects, each with specific conditions and geographic applicability.
+
+---
+
+### ✅ **Schedule 1 & 2: General Exemptions (Federal Lands & Parks Canada)**
+
+#### **Applicability**
+- Projects listed in **Schedule 1** are exempt when carried out on **federal lands or outside Canada**.
+- Projects in **Schedule 2** are exempt when carried out on **federal lands administered by Parks Canada**.
+
+#### **Excluded Activities (Even if in Schedule)**
+The following activities **do not qualify** for exemption, regardless of the schedule:
+1. Projects that change:
+   - Water level of a water body
+   - Alignment of a watercourse
+   - Characteristics of a wetland
+2. Activities involving **listed wildlife species** under the *Species at Risk Act* (e.g., their residences or critical habitats)
+3. Any activity under **subsection 5(1) of the Migratory Birds Regulations, 2022**, unless specifically allowed under subsection 5(2)
+4. Release of a **deleterious substance** into a water body (as defined in Fisheries Act s.34(1))
+5. Activities prohibited under:
+   - *Canadian Navigable Waters Act*
+   - *Fisheries Act* (s.34.4(1), 35(1), 36(3))
+   - *Scott Islands Protected Marine Area Regulations*
+6. Removal or damage to:
+   - Historical, archaeological, paleontological, or architectural resources
+7. Damage to such significant structures or sites
+
+> 🔍 **Key Point**: Even if a project fits within a schedule, if it triggers one of these exclusions, it **must undergo a full environmental assessment**.
+
+---
+
+### ✅ **Schedule 3: Wildlife Areas (Parks Canada-Managed Zones)**
+
+- Applies to projects in areas referred to in **Schedule I of the Wildlife Area Regulations**
+- Applies only to **federal lands managed by Parks Canada**
+
+> ⚠️ Same exclusions apply as in Schedules 1 and 2.
+
+---
+
+## 🏗️ Detailed Project Categories (Schedules 1–3)
+
+Each schedule includes specific project types, with **size and location-based limits**.
+
+---
+
+### 🔹 Part 1: Operation, Maintenance, or Repair of Physical Works
+
+- Includes routine operations (e.g., cleaning, repairs, upgrades) of any physical work
+- **Excludes**:
+  - Projects involving work in water bodies
+  - Disturbance of known or suspected subsurface contamination (unless located in a **closed site** in the Federal Contaminated Sites Inventory and **does not require risk management**)
+
+---
+
+### 🔹 Part 2: Interior Building Activities
+
+- Any physical activity **entirely within the interior of a building**
+- Excludes activities involving exterior construction or water body interaction
+
+---
+
+### 🔹 Part 3: Geotechnical/Scientific Wells
+
+- Construction of wells for **geotechnical, environmental, or scientific investigations**
+- **Excludes**:
+  - Placing temporary or permanent fill in a water body
+  - Disturbance of subsurface contamination (unless in a closed site with no risk management)
+
+---
+
+### 🔹 Part 4: Construction, Modification, Expansion, or Removal of Buildings (on Developed Land)
+
+| Project Type | Footprint Limit |
+|------------|------------------|
+| Building (any type) | ≤1000 m² |
+| Special Purpose Building (e.g., hospitals, schools, community centers) | ≤1500 m² |
+| Prefabricated structure or tent pad | ≤1000 m² |
+
+> ✅ **Expansions** allowed only if the **total footprint of all expansions** does not exceed:
+- 1000 m² (for buildings and special purpose buildings)
+- 100 m² (for non-developed land)
+
+> ❌ **Exclusions**:
+- Projects involving placement of fill in water bodies
+- Disturbance of known/suspected contamination (unless in a closed site with no risk management)
+- Demolition of a building **within 30 m of a school, hospital, or residential building**
+
+---
+
+### 🔹 Part 5: Related Physical Works (Supporting Structures)
+
+- Includes lighting, signage, parking lots, access roads, charging stations, HVAC, awnings, bollards, security systems, etc.
+- Applies to **existing buildings or structures**
+
+| Project Type | Footprint Limit |
+|------------|------------------|
+| On developed land | ≤1000 m² |
+| On undeveloped land | ≤100 m² |
+
+> ✅ Expansions allowed only if total footprint remains within limit  
+> ✅ Decommissioning/removal allowed within footprint limits
+
+> ❌ Exclusions:
+- Fill placement in water bodies
+- Disturbance of contamination (same conditions)
+
+---
+
+### 🔹 Part 6: Water-Related Utility Infrastructure
+
+Includes:
+- Hydrants, hook-ups (non-pipeline)
+- Septic systems
+- Water-related utility infrastructure (pipes, drains, steam lines)
+- Electrical substations (only if linked to a transmission line)
+
+#### Exemptions Apply When:
+- Footprint ≤100 m² (for construction/installation)
+- Expansion does not exceed footprint limit
+- Decommissioning/removal of systems ≤1000 m²
+
+> ❌ Exclusions:
+- Placement of fill in water bodies
+- Crossing of water bodies (except overhead telecommunication or electrical lines ≤130 kV)
+- Disturbance of contamination (same rules)
+
+> ⚠️ **Special Provisions**:
+- **No use of vehicles or heavy machinery** on water body substrate
+- **No use of explosives**
+- **No placement of legs/piles** in water body substrate
+
+> 🚫 **Prohibited locations**:
+- Projects involving utility lines in:
+  - Protected marine areas under *Canada Wildlife Act* (s.4.1(1))
+  - Migratory bird sanctuaries (as per Migratory Bird Sanctuary Regulations)
+
+---
+
+### 🔹 Part 7: Utility Infrastructure (Power, Telecom, Pipelines)
+
+Includes:
+- Water pipelines
+- Sewers
+- Drains
+- Steam lines
+- Overhead/underground telecom lines
+- Electrical transmission/distribution lines (≤130 kV, excluding interprovincial lines)
+
+#### Exemptions:
+- Construction or installation of lines **≤100 m in

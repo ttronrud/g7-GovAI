@@ -1,0 +1,117 @@
+### **Detailed Summary of the Iqaluit Airport Zoning Regulations**
+
+---
+
+#### **1. Regulatory Background and Legal Authority**
+
+The **Iqaluit Airport Zoning Regulations** are established under the **Aeronautics Act (R.S., c. A-2)**, specifically pursuant to **paragraphs 5.4(2)(b)a and (c)a**, which authorize the Minister of Transport to create zoning regulations to ensure the safe operation of airports and related aeronautical facilities.
+
+- A **notice of proposed regulations** was first published in the *Nunatsiaq News* on **February 10 and 17, 2012**, followed by publication of the full draft in the *Canada Gazette, Part I* on **March 19 and 26, 2011**.
+- This provided a **reasonable opportunity for public comment** and stakeholder input before final adoption.
+- The regulations were approved by **His Excellency the Governor General in Council**, on the recommendation of the Minister of Transport.
+
+---
+
+#### **2. Purpose of the Regulations**
+
+The primary objectives are to:
+
+1. **Prevent development or use of land adjacent to or near Iqaluit Airport** that could interfere with:
+   - The **safe operation of aircraft** during takeoff, landing, and approach.
+   - **Air traffic communications and navigation signals** (e.g., radar, radio, GPS) used by aircraft and ground-based aeronautical service facilities.
+
+2. To **protect aviation safety** by minimizing risks such as:
+   - Obstructions to flight paths.
+   - Interference with radio and communication signals.
+   - Wildlife hazards (especially birds), which can pose a danger to aircraft.
+
+---
+
+#### **3. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | Refers to Iqaluit Airport in the vicinity of Iqaluit, Nunavut. |
+| **Airport Reference Point (ARP)** | The geometric center of the runway thresholds at coordinates: <br> **7,069,965.22 N, 521,899.94 E** (latitude 63°45′23.67089″ N, longitude 68°33′22.01292″ W). Elevation: **21.24 m above sea level**. Located 1,371.43 m from the end of runway 17–35 along the centerline. |
+| **Approach Surface** | An imaginary inclined surface extending from each runway end (17 and 35) to a horizontal line 15,000 meters away. <br> - **Runway 17**: Starts at 33.01 m elevation, rises at a **1:50 slope** (1 m vertical per 50 m horizontal). <br> - **Runway 35**: Starts at 21.24 m elevation, rises at the same **1:50 slope**. <br> The surface is defined by a horizontal line 15,000 m out, with outer ends 2,400 m from the centerline and 300 m above the end elevation. |
+| **Outer Surface** | An imaginary surface at a **constant elevation of 45.00 m above the ARP**, but **minimum 9.00 m above ground** if it would otherwise fall below that. It forms a circular arc centered on the ARP. |
+| **Strip Surface** | An imaginary rectangular surface associated with the runway. <br> - For runway 17–35: <br>   - Width: **300 m** (150 m on each side of centerline) <br>   - Length: **2,742.86 m** <br>   - Starts 60 m northwest of threshold 17 and ends 60 m southeast of threshold 35 <br>   - Elevation: 33.01 m at 17 end, 21.24 m at 35 end <br>   - Centerline bearing: **S 44°50′23″ E** <br> - Elevation profile: Slopes gradually between thresholds; calculated using a table in the schedule. |
+| **Transitional Surface** | An imaginary inclined surface rising from the lateral edges of the strip and approach surfaces at a **1:7 slope** (1 m vertical per 7 m horizontal), extending upward to meet the outer surface. |
+| **Zoning Plan** | **Plan No. E-3265**, prepared by the Department of Public Works and Government Services, dated **December 1, 2008**. This plan defines the spatial layout and boundaries of the regulated area. |
+
+---
+
+#### **4. Geographic Scope and Applicability**
+
+- The regulations apply to **all lands adjacent to or in the vicinity of Iqaluit Airport** within the **limit defined in Part 6 of the schedule**.
+- The area includes:
+  - **Land under water**
+  - **Public road allowances**
+- The boundaries are defined by the **approach surfaces, outer surface, strip surface, and transitional surfaces**, forming a protected zone around the airport.
+
+> **Note**: The boundaries follow a precise, geometric path based on grid coordinates and elevation data, ensuring consistent and measurable protection.
+
+---
+
+#### **5. Prohibited Activities and Developments**
+
+##### **(a) Construction or Development Restrictions**
+- No person may:
+  - **Place, erect, construct, or permit** the construction of:
+    - Any **building, structure, or object**
+    - Any **addition to an existing structure**
+    - Any part of which would **penetrate** any of the following:
+      - Approach surface
+      - Outer surface
+      - Transitional surface
+
+##### **(b) Use or Development Causing Signal Interference**
+- No person may:
+  - **Use or develop** any land **under the outer surface** in a way that causes **interference with signals or communications** to or from:
+    - Aircraft
+    - Aeronautical service facilities (e.g., radar stations, radio towers)
+
+##### **(c) Natural Growth Restrictions**
+- No person may:
+  - Allow **natural vegetation (trees, shrubs, etc.)** to grow in such a way as to **penetrate**:
+    - Approach surface
+    - Outer surface
+    - Transitional surface
+
+##### **(d) Wildlife Attraction Restrictions**
+- No person may:
+  - Use or permit use of land under the outer surface for **activities that attract wildlife**, especially **birds**, which could create a hazard to aviation safety.
+
+> **Exception**: 
+> Despite the above, a person **may** use or permit use of land under the outer surface as a **site for an open water storage reservoir** for a period of **up to 48 hours**.
+
+---
+
+#### **6. Elevation and Coordinate System**
+
+- **Grid Coordinates**: All coordinates are in **meters (m)** using:
+  - **1983 North American Datum (NAD83)**
+  - **UTM Zone 19**
+  - Computed with a **combined scale factor of 0.99959894**
+- **Elevations**: Based on the **Canadian Geodetic Vertical Datum of 1928 (CGVD28)**
+
+> These precise measurements ensure consistency and accuracy in defining the protected zones.
+
+---
+
+#### **7. Boundary Description (Detailed Path)**
+
+The regulated area is defined by a **complex, multi-segmented boundary** that follows the outer surface and approach surfaces. Key segments:
+
+1. Start at the **intersection of the northern airport boundary and eastern outer surface limit** (614.05 m from ARP on bearing N09°09′37″E).
+2. Go **northerly** along the eastern outer surface for **3,385.95 m**.
+3. Move **westward** along the outer surface for **3,229.36 m** to intersect the **northeastern limit of runway 17 approach surface**.
+4. Proceed **northwesterly** along that approach surface for **12,546.82 m** to its northwestern corner.
+5. Travel **southwesterly** for **4,800.00 m** to the southwestern corner.
+6. Move **southeasterly** for **12,546.82 m** to intersect the outer surface again.
+7. Go **southerly and easterly** for **11,485.63 m** to intersect the **southwestern limit of runway 35 approach surface**.
+8. Proceed **southeasterly** for **12,546.82 m** to the southwestern corner.
+9. Move **northeasterly** for **4,800.00 m** to the northeastern corner.
+10. Travel **northwesterly** for **12,892.64 m** to intersect the **northeastern limit of the transitional surface for runway 35**.
+11. Continue **northwesterly** for **2,250.00 m** to a deflection point (315 m northeast of the southeastern corner of the strip surface).
+12. Move **northwesterly** for **131.13 m** to the intersection with the **northeastern airport

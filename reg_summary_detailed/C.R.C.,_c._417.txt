@@ -1,0 +1,164 @@
+**Detailed Summary of the *Consumer Packaging and Labelling Regulations* (CPLR)**
+
+---
+
+### **Overview**
+The *Consumer Packaging and Labelling Regulations* (CPLR) are a set of rules under the *Consumer Packaging and Labelling Act* (CPLA) that govern how prepackaged products must be labeled in Canada. The primary objective is to ensure **consumer transparency**, **accuracy**, and **accessibility** of product information through standardized labeling practices. These regulations apply to most prepackaged goods sold to consumers, with specific exemptions for certain categories.
+
+---
+
+## **Key Definitions and Concepts**
+
+### 1. **Act**
+- Refers to the *Consumer Packaging and Labelling Act*, which provides the legal foundation for these regulations.
+
+### 2. **Canadian Unit**
+- A unit of measurement defined in **Schedule II** of the *Weights and Measures Act*. Examples include:
+  - Litre (for volume)
+  - Kilogram (for weight)
+  - Gram, millilitre, etc.
+- These units are preferred for labeling due to their standardization and public familiarity.
+
+### 3. **Metric Unit**
+- Units defined in **Schedule I** of the *Weights and Measures Act* (e.g., grams, millilitres, metres).
+- Used when applicable, especially in international trade or where metric is standard.
+
+### 4. **Declaration of Net Quantity**
+- The mandatory statement on a label indicating the **actual net quantity** of the product (excluding packaging).
+- Must include:
+  - The numerical quantity
+  - The unit of measurement (metric or Canadian)
+  - The unit must be clearly visible and displayed in bold, at a minimum height based on container size.
+
+### 5. **Ornamental Container**
+- A container designed primarily as a **decorative item**, not for functional storage.
+- Must meet the following criteria:
+  - No promotional or advertising material on its surface (except trademark or common name).
+  - Designed to look like a decorative ornament.
+  - Sold both as a container and as a standalone decorative item.
+- **Labeling Exception**: All labeling may be applied to the **bottom** of the container or to a **tag attached** to it.
+
+### 6. **Principal Display Surface (PDS)**
+- The **most visible surface** of a container under normal or customary conditions of sale or use.
+- Determined by the container type:
+  - **Side or surface** visible → total area of that side (excluding top, if any)
+  - **Lid** visible → top surface of the lid
+  - **No clear side visible** → 40% of total surface area (excluding top/bottom), if visible
+  - **Bag with equal sides** → one side
+  - **Bag with unequal sides** → largest side
+  - **Narrow wrapper/band** → area of a ticket or tag attached
+  - **Wine container** → any surface visible without turning the bottle
+
+> *Note: The PDS is critical because it is where the **declaration of net quantity** and **product identity** must be prominently displayed.*
+
+### 7. **Principal Display Panel (PDP)**
+- The portion of the label applied to the **principal display surface**.
+- Specific rules apply depending on container type:
+  - **Mounted on display card**: Label can be on the container or the card, as long as it is visible under normal sale conditions.
+  - **Ornamental container**: Label can be on the **bottom** or on a **tag**.
+  - **All other containers**: Label must be on the PDS.
+
+---
+
+## **Exemptions from Labeling Requirements**
+
+Certain prepackaged products are **exempt** from full compliance with labeling requirements under the Act and these Regulations. These exemptions are based on product type, use, or market conditions.
+
+| Exemption Category | Description |
+|-------------------|-----------|
+| **Commercial/Industrial Use** | Products made for internal use by businesses (e.g., for manufacturing or operations), not sold to consumers. |
+| **Export or Duty-Free Sales** | Products destined solely for export or sold in duty-free stores. |
+| **Consumer Textile Articles** | Subject to the *Textile Labelling Act* (e.g., clothing, fabrics). |
+| **Vehicle/Equipment Replacement Parts** | Exempt unless intended or displayed for sale to consumers. |
+| **Art Supplies** | Includes paints, dyes, glazes, ceramics, tools — exempt if used by artists. |
+| **Products Covered by Other Acts** | Products regulated under the *Feeds Act*, *Fertilizers Act*, *Seeds Act*, or *Pest Control Products Act* — exempt from sections 4, 5, 6, and 10 of the CPLA. |
+
+---
+
+## **Language Requirements (Official Languages)**
+
+Canada's official languages are **English and French**. All labeling information must be in **both official languages**, **except** for:
+
+### 1. **Identity and Principal Place of Business**
+- May be shown in **only one** official language.
+
+### 2. **Exemptions Based on Local Language Use**
+- **Local Product**:
+  - A product manufactured and sold within a local government unit (e.g., city, town).
+  - May be labeled in **only the language** that is the **mother tongue of at least 10% of residents** in that area.
+  - Applies only if **neither language** is the mother tongue of ≥10% of residents.
+- **Test Market Product**:
+  - A product not previously sold in Canada, with significant differences in composition, function, or packaging.
+  - Must be pre-approved by the Minister of Consumer and Corporate Affairs with a **notice of intention** filed **6 weeks before test marketing begins**.
+  - Labeling may be in one language if that language is the mother tongue of ≥10% of residents.
+  - **Ceases to be a test market product after 12 months** of initial sale — unless acquired by another dealer before that time.
+
+### 3. **Specialty Product**
+- An imported product:
+  - Not widely used by Canadians.
+  - No readily available comparable Canadian-made substitute.
+- May be labeled in **one official language** only.
+
+### 4. **Special Cases Where Language May Be Reduced**
+- If **other surfaces** on the label are **equal in size and prominence** to the PDP, information required on the PDP may be shown in **one language**, provided it is also shown on another surface.
+- **Appropriate Language Exceptions**:
+  - Greeting cards
+  - Books
+  - Talking toys
+  - Games requiring knowledge of a specific language to play
+  - Labeling may be in the **language appropriate to the product**.
+
+---
+
+## **Labeling Requirements on the Principal Display Panel**
+
+The **PDP** must display the following information:
+
+1. **Net Quantity**  
+   - Must be clearly visible and in **bold type**.
+   - Minimum font height depends on the size of the PDS:
+     | PDS Area | Minimum Font Height |
+     |---------|---------------------|
+     | ≤5 sq in (32 cm²) | 1/16 inch (1.6 mm) |
+     | >5 to ≤40 sq in (258 cm²) | 1/8 inch (3.2 mm) |
+     | >40 to ≤100 sq in (645 cm²) | 1/4 inch (6.4 mm) |
+     | >100 to ≤400 sq in (25.8 dm²) | 3/8 inch (9.5 mm) |
+     | >400 sq in (25.8 dm²) | 1/2 inch (12.7 mm) |
+
+2. **Product Identity**
+   - Must indicate the **common or generic name** or **function** of the product (e.g., "milk", "soda", "detergent").
+
+3. **Other Required Information**
+   - As specified in the Act or Regulations (e.g., manufacturer, ingredients, expiry date, allergens).
+
+> **Note**: If the PDS is **≤1.55 sq in (10 cm²)**, and all required information is on the PDP, the non-net quantity information may be in **1/32 inch (0.8 mm)** font — a reduced standard due to space constraints.
+
+---
+
+## **Label Application Rules**
+
+- The label must be **applied to the container** where the product is displayed for sale.
+- **Mounting on a display card**:
+  - Label may be applied to either the container or the card.
+  - The **height of the net quantity** must be proportional to the **total visible area of the display card**, not the container.
+- **Wrapper or narrow band** (e.g., for small items):
+  - Label must be a **ticket or tag** attached to the wrapper.
+- **Ornamental containers**:
+  - Label may be on the **bottom** or on a **tag**.
+- Label must be applied so that the product **bears the label at the time of sale**.
+
+---
+
+## **Units of Measurement**
+
+- **Net quantity** must be shown in **either metric or Canadian units**.
+- When both are used:
+  - They must be **grouped together** (e.g., "500 mL (17 oz)")
+  - Exceptions: Any **hazard symbols** required under the *Hazardous Products Act* may be placed **between or adjacent** to the units.
+
+---
+
+## **Net Quantity by Product Type**
+
+The **declaration of net quantity** must be shown in terms of:
+- **Volume** (e

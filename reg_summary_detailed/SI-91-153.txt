@@ -1,0 +1,125 @@
+**Detailed Summary of the Quebec Family Allowances Income Tax Remission Order, 1991**
+
+---
+
+### **Overview**
+
+The *Quebec Family Allowances Income Tax Remission Order, 1991* (S.C. 1991, c. 24, s. 7(2)) is a regulatory instrument issued by His Excellency the Governor General in Council, acting on the recommendation of the Minister of Finance. It is made under **subsection 23(2)** of the *Financial Administration Act*, which empowers the government to issue orders for the remission (i.e., forgiveness or cancellation) of income taxes in the public interest.
+
+This Order specifically addresses the issue of **income tax liability** for individuals who received or are receiving **Quebec Family Allowances** (also known as family assistance allowances) during the taxation years **1990 and 1991**. The primary objective is to **reduce or eliminate the income tax burden** on these individuals by remitting a calculated amount of tax that would otherwise have been due.
+
+The Order may be cited as the *Quebec Family Allowances Income Tax Remission Order, 1991*.
+
+---
+
+### **Key Definitions and Context**
+
+- **"Act"** refers to the *Income Tax Act* (the federal tax legislation governing income tax obligations in Canada).
+- **"Family allowances"** are payments provided under the *Act respecting family assistance allowances of the Province of Quebec*, which were designed to support low- and middle-income families with children.
+- The Order applies to individuals who:
+  - Received family allowances in **1990**, or
+  - Receive family allowances in **1991**.
+
+---
+
+### **Core Provision: Remission of Income Tax**
+
+The Order grants a **remission of income tax** to each qualifying individual. The amount of remission is determined by calculating a specific **excess**—the difference between the total tax liability and certain amounts that are either already paid or would have been paid under the Income Tax Act, *if* family allowances had not been included in the individual’s taxable income.
+
+The remitted amount equals the **aggregate of several excesses**, as defined in the Order. These excesses are structured to correct the effect of how family allowances are treated in income tax calculations under the *Income Tax Act*. Specifically, the remission is based on three distinct comparisons:
+
+---
+
+### **1. Excess Between Tax Liability and Tax Paid (Under Subsection 120(2))**
+
+> *The amount by which the total amount of taxes, interest and penalties payable by the individual under Parts I, I.1 and I.2 of the Act for the 1990 or 1991 taxation year exceeds the amount, if any, deemed under subsection 120(2) of the Act to have been paid on account of the individual’s tax under Part I of the Act for that year.*
+
+- **Purpose**: This component addresses the tax that would have been due on the individual's income **if family allowances were included** in their taxable income.
+- **Subsection 120(2)**: This provision allows the government to **deem** that certain amounts (e.g., family allowances) have already been paid on account of tax. This is a method of **tax offsetting**—it reduces the tax liability by assuming that some income-related payments have already been accounted for.
+- **Calculation**:
+  - Total tax, interest, and penalties owed (Parts I, I.1, I.2)  
+    → *minus*  
+    Amount deemed to have been paid under 120(2)  
+  → Result = **Excess tax liability** due to the inclusion of family allowances in income.
+
+> ✅ This excess is **part of the remission**.
+
+---
+
+### **2. Excess Between "Should-Have-Been" Tax and Actual Tax (Under Subparagraph 120(2)(a)(i))**
+
+> *The amount by which the excess amount that would have been determined under subparagraph (a)(i) for the 1990 or 1991 taxation year, if no amount were included in computing the individual’s income for that year with respect to family allowances received under the Quebec Act, exceeds the actual excess determined.*
+
+- **Purpose**: This component corrects for the **tax impact** of including family allowances in taxable income.
+- **Subparagraph 120(2)(a)(i)**: This refers to the standard method of calculating tax liability based on a person's income. If family allowances were **not included** in income, the tax liability would be lower.
+- **Calculation**:
+  - Hypothetical tax liability **without** including family allowances in income  
+    → *minus*  
+    Actual tax liability (with family allowances included)  
+  → Result = **Excess tax that would have been avoided** if family allowances were excluded from income.
+
+> ✅ This excess is **part of the remission**.
+
+---
+
+### **3. Excess Between Deemed Payments (Under 122.2(1), 122.4(3), or 122.5(3)) and Actual Payments**
+
+> *The amount by which the total of all amounts each of which is an amount that would have been deemed under subsections 122.2(1), 122.4(3) or 122.5(3) of the Act to have been paid by the individual on account of the individual’s tax under Part I of the Act for the 1990 or 1991 taxation year, if no amount were included in computing the individual’s income for that year with respect to family allowances, exceeds the total of all amounts each of which is an amount deemed under those subsections to have been paid by the individual on account of tax under Part I of the Act for that year.*
+
+- **Purpose**: This component addresses **additional tax payments** (such as interest or penalties) that are triggered by the inclusion of family allowances in income.
+- **Subsections 122.2(1), 122.4(3), and 122.5(3)**: These provisions deal with **deemed payments** of tax, typically related to:
+  - Tax on deemed income (e.g., deemed dividends or interest),
+  - Penalties or interest on late tax payments,
+  - Tax treatment of certain non-taxable benefits.
+- **Calculation**:
+  - Total of **deemed payments** under those subsections **if family allowances were excluded** from income  
+    → *minus*  
+    Total of **actual deemed payments** made under those subsections  
+  → Result = **Excess of deemed payments that would have been avoided**.
+
+> ✅ This excess is **part of the remission**.
+
+---
+
+### **Aggregate Remission Amount**
+
+The **total remitted tax** is the **sum of the three excesses** described above. That is:
+
+> **Remission Amount = (Excess 1) + (Excess 2) + (Excess 3)**
+
+This structure ensures that the remission compensates individuals for the **overpayment of tax** that results from the way family allowances are treated in the income tax system—specifically, because they are included in taxable income, even though they are not actual income.
+
+---
+
+### **Public Interest Justification**
+
+The Order is made **"in the public interest"**, reflecting a policy decision to:
+- Recognize that family allowances are **not income** but rather **government support** for families.
+- Prevent individuals from being **double-charged**—paying tax on benefits they do not earn.
+- Improve fairness in the tax system by adjusting for the **non-income nature** of family allowances.
+- Support family stability and economic well-being by reducing the financial burden on low- and middle-income families.
+
+---
+
+### **Legal and Administrative Basis**
+
+- **Authority**: The Order is issued under **subsection 23(2)** of the *Financial Administration Act*, which allows the Governor General in Council to make orders for remission of taxes when it is in the public interest.
+- **Recommendation**: The Minister of Finance recommends the Order based on fiscal and equity considerations.
+- **Applicability**: Only applies to individuals receiving family allowances under the *Act respecting family assistance allowances of the Province of Quebec* in 1990 or 1991.
+
+---
+
+### **Significance and Impact**
+
+- This Order represents a **corrective measure** in the tax system to prevent **tax overreach** on non-earned benefits.
+- It reflects a **principle of tax equity**—individuals should not be taxed on benefits that are intended to support them financially.
+- It is a **temporary policy intervention** specific to Quebec family allowances during 1990 and 1991.
+- It sets a precedent for future tax adjustments related to social benefits.
+
+---
+
+### **Conclusion**
+
+The *Quebec Family Allowances Income Tax Remission Order, 1991* is a targeted, equitable, and legally sound regulation designed to **remit income tax liabilities** for individuals who received or were receiving Quebec family allowances in 1990 or 1991. By calculating and remitting a sum equal to the **aggregate of three excesses**, the Order corrects the over-taxation that occurs when family allowances are included in taxable income under the *Income Tax Act*. The Order serves both a **fiscal and social purpose**, promoting fairness, reducing financial strain on families, and aligning tax treatment with the nature of the benefits provided.
+
+It stands as a notable example of how governments can use administrative powers to ensure that tax systems do not inadvertently penalize individuals receiving essential social support

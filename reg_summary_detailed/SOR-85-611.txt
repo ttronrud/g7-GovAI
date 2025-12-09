@@ -1,0 +1,188 @@
+**Detailed Summary of the Investment Canada Regulations (S.C. 1984-85, c. 20)**  
+*Effective June 30, 1985*  
+*Made under the Investment Canada Act (Act)*
+
+---
+
+### **Overview**
+
+The *Investment Canada Regulations* (ICR), made under sections 12, 14, 15, 17, and 35 of the *Investment Canada Act*, establish the procedural and valuation framework for assessing foreign investments in Canada. These regulations define key terms, determine how the value of a Canadian business is calculated when a non-Canadian acquires control, and outline the requirements for notices and applications submitted by foreign investors. The regulations were introduced to ensure that foreign investments in Canada do not harm national interests—particularly in areas such as national security, economic stability, and public welfare.
+
+The regulations are effective from **June 30, 1985**, and remain in force with periodic updates (some provisions have since been repealed or amended, e.g., references to NAFTA, WTO, and American investors).
+
+---
+
+## **Key Definitions and Interpretations**
+
+### 1. **Act**
+- Refers to the *Investment Canada Act*, the primary legislation governing foreign investment in Canada.
+
+### 2. **Authorized Body**
+- The governing body responsible for making fair market value determinations in relation to certain investments (e.g., for non-Canadian investors under sections 3.3 to 3.5).
+- Includes:
+  - Board of directors or a committee thereof
+  - A person or group acting as a board
+  - A director or officer authorized to make fair market value assessments
+
+### 3. **Class of Securities**
+- Any class of securities (including series), such as common shares, preferred shares, etc.
+- Excludes:
+  - Warrants, options, or rights to acquire securities
+  - Bonds, debentures, or instruments representing debt
+
+### 4. **Fair Market Value (FMV)**
+- Defined as the price a reasonably prudent buyer would pay to a similarly prudent seller in an open, unrestricted market, acting independently and at arm’s length.
+- Used in valuation of non-traded securities or when precise market data is unavailable.
+
+### 5. **Financial Statements**
+- Must be prepared in accordance with **Generally Accepted Accounting Principles (GAAP)**.
+- Audited statements are preferred; if not available, **unaudited statements** may be used, especially if the entity has not completed its first full fiscal year.
+
+### 6. **Investor**
+- A **non-Canadian** required to:
+  - File a notice under **section 12** (threshold investment), or
+  - File an application for review under **subsection 17(1)** (subject to review).
+- Includes individuals, corporations, or entities (including state-owned enterprises).
+
+### 7. **Publicly Traded Entity**
+- An entity whose equity securities are listed on a **published market** (domestic or foreign).
+
+### 8. **Published Market**
+- A market (inside or outside Canada) where trading prices are regularly published in newspapers, financial publications, or electronically.
+
+### 9. **Trading Period**
+- The **most recent 20 days of trading** before the first day of the month immediately preceding:
+  - The month in which the **notice or application is filed**, if filed before implementation of the investment; or
+  - The month in which the **investment is implemented**, otherwise.
+
+This period is used to determine average trading prices for calculating market capitalization.
+
+---
+
+## **Valuation Rules for Assets and Enterprise Value**
+
+These rules are critical for determining the value of a Canadian business when a non-Canadian acquires control. The value is used to assess whether the investment requires review under the Act.
+
+---
+
+### **A. General Rule for Non-Canadian Acquisitions (Section 3.1)**
+
+> *Applies when a non-Canadian acquires control of a Canadian business through asset purchase or control of an entity.*
+
+#### **1. Asset-Based Valuation (Control via Assets or Entity)**
+- If a non-Canadian acquires:
+  - Only the assets used in the Canadian business, or
+  - Only control of an entity conducting the business,
+
+**Value of assets = Total value of all assets acquired**, as shown in the **audited financial statements** of the entity for the fiscal year immediately before implementation.
+
+#### **2. Consolidated Valuation (Acquires Multiple Entities)**
+- If the non-Canadian acquires control of:
+  - One or more entities in Canada, **directly or indirectly**, in addition to the primary entity,
+
+**Value of assets = Total value of all assets** in the **consolidated financial statements** of all entities for the fiscal year before implementation.
+
+#### **3. Cross-Border Entity Control (Controlled by Foreign Corporation)**
+- If the non-Canadian acquires control of a **corporation outside Canada** that controls a Canadian business,
+
+**Value of assets = Total value of all assets** (both inside and outside Canada) of all entities under control, based on **consolidated audited financial statements** from the fiscal year before implementation.
+
+#### **4. Use of Unaudited Financial Statements**
+- If audited statements are not available:
+  - Use **unaudited financial statements**.
+  - Exclude:
+    - Ownership interests in other entities being acquired
+    - Duplicated values from intercompany transactions
+
+#### **5. Fiscal Year Adjustment**
+- If the entity’s first fiscal year is incomplete before implementation:
+  - "Fiscal year" refers to the period ending immediately before implementation.
+
+#### **6. Currency Conversion**
+- All values must be expressed in **Canadian dollars (CAD)**.
+- Conversion rate:
+  - Based on the **noon exchange rate** published by the **Bank of Canada** on the **last day of the financial period**.
+
+---
+
+### **B. Valuation for Publicly Traded Entities (Sections 14.1(1), 14.11(1), (2))**
+
+> *Applies when a non-Canadian acquires control of a publicly traded entity conducting a Canadian business.*
+
+#### **Enterprise Value Formula**
+> **Enterprise Value = Market Capitalization + Liabilities – Cash & Cash Equivalents**
+
+#### **1. Market Capitalization**
+- For each class of equity securities:
+  - **Listed on a published market**:
+    - Average daily number of shares outstanding × average daily closing price on the **principal market** during the trading period.
+  - **Not listed**:
+    - Determined in good faith by the **authorized body** of the non-Canadian as fair market value.
+
+#### **2. Liabilities**
+- Total liabilities **excluding operating liabilities**.
+- Based on the most recent quarterly financial statements released:
+  - Before filing (if notice is filed before implementation), or
+  - Before implementation (in all other cases).
+
+#### **3. Cash & Cash Equivalents**
+- Total cash and equivalents from the same financial statements as liabilities.
+
+#### **4. Exchange Rate Application**
+- **Market capitalization**: Average of noon exchange rates during the trading period.
+- **Liabilities and cash**: Based on the **noon exchange rate** on the **last day of the financial period**.
+
+#### **5. Outstanding Shares**
+- If the number of outstanding shares is unknown, use the **most recently published information**.
+
+---
+
+### **C. Valuation for Non-Publicly Traded Entities (Section 14.1(1), 14.11(1), (2))**
+
+> *Applies when a non-Canadian acquires control of a private or non-listed entity.*
+
+#### **Enterprise Value Formula**
+> **Enterprise Value = Total Acquisition Value + Liabilities – Cash & Cash Equivalents**
+
+#### **1. Total Acquisition Value**
+- If acquiring **100% of voting interests**:
+  - Total consideration paid as per transaction documents.
+- If acquiring **less than 100%**:
+  - Sum of:
+    - Consideration paid by the non-Canadian
+    - Consideration paid by other investors
+    - Fair market value (determined by authorized body) of any voting interests not acquired
+
+#### **2. If Consideration is Not Quantified at Implementation**
+- Total acquisition value = sum of:
+  - Amounts calculated under (2)
+  - Fair market value of unquantified portion (determined by authorized body)
+
+#### **3. Exception: Non-Arm’s Length or Nominal Consideration**
+- If parties are **not acting at arm’s length** or only nominal consideration is paid:
+  - Total acquisition value = fair market value of the Canadian business (as determined by authorized body)
+
+#### **4. Liabilities & Cash**
+- Liabilities = non-operating liabilities from most recent quarterly statements (before filing or before implementation).
+- Cash = cash and cash equivalents from same statements.
+
+#### **5. Exchange Rate Application**
+- **Total acquisition value**: Based on average noon exchange rate over the month immediately before:
+  - Filing of notice (if filed before implementation), or
+  - Implementation (if no notice filed).
+- **Liabilities and cash**: Based on noon exchange rate on the last day of the financial period.
+
+---
+
+### **D. Special Case: Acquisition Under Paragraph 28(1)(c) of the Act**
+
+> *When control is acquired via a transaction involving assumption of liabilities and transfer of cash.*
+
+#### **Enterprise Value = Total Acquisition Value + Liabilities – Cash & Cash Equivalents**
+
+Where:
+- **Total acquisition value** = consideration paid (as per transaction documents)
+- **Liabilities** = liabilities assumed by the non-Canadian
+- **Cash & cash equivalents** = amounts transferred to the non-Canadian
+
+#### **Exception: Non-Arm’s Length or Nom

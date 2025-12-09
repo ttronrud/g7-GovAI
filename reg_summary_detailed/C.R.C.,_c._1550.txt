@@ -1,0 +1,113 @@
+**Detailed Summary of the *Territorial Sea Geographical Coordinates Order***
+
+---
+
+### **Overview**
+
+The *Territorial Sea Geographical Coordinates Order* is a regulatory instrument that establishes the **geographical coordinates of specific points** used to define **baselines and the outer limit of the territorial sea** for designated coastal areas in Canada. It operates under the authority of the *Territorial Sea and Fishing Zones Act* (Act) and provides precise, legally recognized coordinates to determine maritime boundaries.
+
+This Order is essential for defining Canada’s territorial sea limits, particularly in relation to coastal features such as islands, low-tide elevations, and the coastline itself. It serves as a legal and technical foundation for maritime jurisdiction, including rights to fish, navigate, and manage natural resources.
+
+---
+
+### **Key Definitions**
+
+1. **"Act"**  
+   Refers to the *Territorial Sea and Fishing Zones Act*, which provides the legal framework for establishing territorial sea boundaries and fishing zones. This Order implements provisions of the Act by specifying how baselines and outer limits are determined.
+
+2. **"Area, followed by a number"**  
+   Denotes a specific coastal region (e.g., Area 1, Area 2). Each Area includes all **islands and low-tide elevations** adjacent to it. These features are critical in determining baseline positions, especially where coastlines are irregular or composed of multiple landmasses.
+
+3. **"C.H.S. Chart" (Canadian Hydrographic Service Chart)**  
+   A nautical chart produced by the Canadian Hydrographic Service, used as a reference for coastal mapping. While not directly used in this Order, it provides the foundational geographic data that supports the accuracy of the coordinates listed.
+
+4. **"Geographical coordinates of points"**  
+   Defined as the **latitude and longitude** of specific points derived from **Columns II and III of Schedules I to IV**. These coordinates are the legal basis for defining maritime boundaries.
+
+---
+
+### **Core Provisions**
+
+#### **1. Issuance of Coordinate Lists**
+- The **lists of geographical coordinates** in **Schedules I, II, III, and parts of Schedule IV** are officially issued as legally binding references.
+- These coordinates are used to establish **baselines** (the starting line from which the territorial sea is measured) and the **outer limit of the territorial sea** in accordance with the *Territorial Sea and Fishing Zones Act*.
+
+> **Purpose**: To provide clear, measurable, and legally recognized points that define Canada’s maritime boundaries.
+
+---
+
+#### **2. Baseline Determination by Area**
+
+| **Area(s)** | **Baseline Rule** | **Explanation** |
+|-----------|-------------------|-----------------|
+| **Areas 1, 2, 3, 4, 5, 6** (Schedule I) | Straight lines joining listed points | For the coastal portions of these areas, the baseline is a series of **straight lines** connecting the points specified in Schedule I. This method is used where the coastline is relatively linear or where straight-line approximation is appropriate. |
+| **Area 2 (Schedule II)** | Low-water line along the coast | The baseline is the **low-water line** (i.e., the line marking the edge of the land at low tide) joining the points listed in Schedule II. This is a standard method under international law (e.g., UNCLOS) for defining baselines along coastlines. |
+| **Islands and Low-Tide Elevations (Schedule III)** | Low-water lines of islands and low-tide elevations | For any island or low-tide elevation listed in Schedule III, the baseline is the **low-water line** of that feature. This ensures that even small landforms are properly included in the baseline, which affects the width of the territorial sea. |
+
+> **Legal Basis**: These rules are consistent with international law, particularly the *United Nations Convention on the Law of the Sea (UNCLOS)*, which recognizes both straight baselines and low-water lines as valid methods.
+
+---
+
+#### **3. Territorial Sea Outer Limit Line – Area 3 (Schedule IV)**
+
+This is a **key innovation** in the Order:
+
+- The outer limit of the territorial sea in **Area 3** is **redefined** to replace the original line described in subsection 3(1) of the *Territorial Sea and Fishing Zones Act*.
+- The new line is determined using **two different methods**, depending on the part of Schedule IV:
+
+  - **Part I of Schedule IV**:  
+    The outer limit is defined by **straight lines** joining the points listed in Part I.
+
+  - **Part II of Schedule IV**:  
+    The outer limit is defined by a **geodesic line** (the shortest path between two points on the Earth’s surface, accounting for curvature) joining the points listed in Part II.
+
+> **Purpose**: This substitution allows for a more accurate and geographically precise definition of the territorial sea boundary in Area 3, especially where the coastline is complex or curved. The use of geodesic lines ensures that the boundary reflects the actual shape of the landmass on a spherical Earth.
+
+---
+
+### **Reference and Datum**
+
+- The coordinates are based on the **North American Datum 1983 (NAD83)** geodetic system.
+- This is a modern, internationally recognized reference system that ensures high accuracy in positioning and mapping across North America.
+
+> **Importance**: Using NAD83 ensures consistency and compatibility with other Canadian and international geospatial data, such as maps, satellite imagery, and navigation systems.
+
+---
+
+### **Legal and Practical Implications**
+
+1. **Jurisdiction and Sovereignty**  
+   The baseline and outer limit lines defined in this Order establish the **legal extent of Canada’s territorial sea**, which extends up to 12 nautical miles from the baseline. This defines where national jurisdiction begins, including control over navigation, fishing, and environmental protection.
+
+2. **Maritime Boundary Clarity**  
+   By providing specific coordinates, the Order eliminates ambiguity in maritime boundaries, which is essential for resolving disputes, managing fisheries, and coordinating with neighboring jurisdictions.
+
+3. **Compliance with International Law**  
+   The methods used (straight baselines, low-water lines, geodesic lines) are in line with UNCLOS, ensuring Canada’s maritime claims are internationally recognized and legally sound.
+
+4. **Practical Use**  
+   These coordinates are used by government agencies (e.g., Fisheries and Oceans Canada, Department of Natural Resources), maritime operators, and legal authorities in:
+   - Determining fishing zones
+   - Planning marine infrastructure
+   - Conducting environmental assessments
+   - Resolving boundary disputes
+
+---
+
+### **Citation and Enforcement**
+
+- The Order may be cited as the **Territorial Sea Geographical Coordinates Order**.
+- It is enforceable as part of the *Territorial Sea and Fishing Zones Act* and forms part of Canada’s legal framework for maritime governance.
+
+---
+
+### **Conclusion**
+
+The *Territorial Sea Geographical Coordinates Order* is a technically precise and legally significant document that:
+
+- Defines the **geographical coordinates** of key points along Canada’s coastlines.
+- Establishes **baselines** and the **outer limit of the territorial sea** using internationally accepted methods.
+- Provides a **modern, accurate, and legally binding** basis for maritime jurisdiction, particularly in Areas 1–6 and especially in Area 3, where the outer limit is redefined using straight and geodesic lines.
+- Ensures alignment with **international standards** (UNCLOS) and the **NAD83 geodetic system**, enhancing accuracy and interoperability with global navigation and mapping systems.
+
+This Order is foundational to Canada’s maritime policy and plays a critical role in the administration of its coastal zones.

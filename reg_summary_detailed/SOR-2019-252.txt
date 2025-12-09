@@ -1,0 +1,217 @@
+**Detailed Summary of the Environmental Response Regulations (Canada)**
+
+---
+
+### **Overview**
+
+The *Environmental Response Regulations*, made under the *Canada Shipping Act, 2001*, establish a comprehensive framework to prevent and respond to oil pollution incidents involving vessels and oil handling facilities in Canada. These regulations are designed to protect the marine environment, particularly sensitive ecosystems and communities, by mandating strict operational procedures, emergency preparedness, and accountability for oil-handling activities.
+
+These regulations were adopted through a series of statutory amendments and are currently in force as of **June 25, 2019**, with specific provisions governing the notification, planning, response, and review of oil pollution prevention and emergency plans.
+
+---
+
+## **1. Legal Authority and Legislative Basis**
+
+The regulations are made under the authority of the *Canada Shipping Act, 2001*, specifically:
+
+- **Paragraphs 35(1)(d), (e)a, and (f)a** – Authority to regulate environmental response.
+- **Subsection 182(1)b** – Powers to prescribe conditions for oil handling operations.
+- **Paragraphs 244(f)c and (h)d** – Powers to establish requirements for oil pollution prevention and emergency response.
+
+These provisions empower the Governor in Council (on the recommendation of the Minister of Transport) to prescribe rules related to oil pollution prevention and emergency response, including notification timelines, operational standards, and emergency planning requirements.
+
+---
+
+## **2. Key Definitions**
+
+- **Act**: Refers to the *Canada Shipping Act, 2001*.
+- **Area of Environmental Sensitivities**: A location containing:
+  - Threatened, vulnerable, or endangered species;
+  - Cultural or high socio-economic significance (e.g., Indigenous lands, protected habitats).
+
+---
+
+## **3. Classes of Vessels Subject to Regulations**
+
+The following vessels are subject to the oil pollution prevention and emergency response requirements under **subsection 167(1)** of the Act:
+
+| Class | Criteria |
+|------|--------|
+| **Oil Tankers** | 150 gross tonnage (GTV) or more |
+| **Other Vessels** | 400 GT or more that carry oil as cargo or fuel |
+| **Towing/Pushing Vessels** | Any vessel (including non-oil tankers) that is towing or pushing another vessel carrying oil as cargo or fuel, **if the combined GT is 150 GT or more** |
+
+### **Exclusions**
+The following vessels are **not covered**:
+- Foreign vessels **only transiting** through Canadian territorial sea or exclusive economic zone (EEZ) and not engaged in loading/unloading oil.
+- **Pleasure craft** (non-commercial recreational vessels).
+- **Government vessels**, **naval auxiliaries**, or vessels owned/operated by a foreign state used solely for non-commercial government service.
+
+> ⚠️ **Note**: The regulations **do not apply** to vessels operating **north of latitude 60°N**, which includes the Arctic region.
+
+---
+
+## **4. Oil Pollution Prevention Plan (OPPP)**
+
+The operator of an oil handling facility must prepare and maintain a detailed **Oil Pollution Prevention Plan (OPPP)** that includes the following elements:
+
+### **Mandatory Components of the OPPP:**
+
+1. **Supervision Responsibility**  
+   - Name and position of the person responsible for supervising loading/unloading operations on board the vessel.
+
+2. **Equipment & Maintenance**  
+   - Types and quantities of equipment used during oil transfer.
+   - Procedures to maintain and certify equipment per manufacturer specifications.
+
+3. **Loading/Unloading Procedures**  
+   - Step-by-step procedures for personnel before and during operations.
+
+4. **Flow/Pressure Control**  
+   - Procedures to safely reduce or stop flow/pressure when the vessel supervisor signals a stop.
+
+5. **Two-Way Communication**  
+   - Requirements to maintain effective communication between:
+     - The on-site facility supervisor and the vessel supervisor.
+     - Procedures to ensure continuity in case of communication failure.
+
+6. **Lighting Requirements**  
+   - Lighting arrangements to meet the standards in *Section 34 of the Vessel Pollution and Dangerous Chemicals Regulations*.
+
+7. **Transfer Conduit Compliance**  
+   - Documentation proving the transfer conduit meets the requirements of *subsection 35(1)* of the Vessel Pollution and Dangerous Chemicals Regulations.
+
+8. **Compliance with Subsection 35(3)**  
+   - Measures to prevent leaks or spills during transfer operations.
+
+9. **Personnel Training**  
+   - Description of training provided or planned for personnel involved in oil loading/unloading, including:
+     - Frequency of training.
+     - Content related to preventing pollution incidents.
+
+10. **Plan Review & Update**  
+    - Procedures for reviewing and updating the plan to ensure ongoing compliance with the regulations.
+
+---
+
+## **5. Oil Pollution Emergency Plan (OPEP)**
+
+The operator must also prepare an **Oil Pollution Emergency Plan (OPEP)** that outlines how the facility will respond to a discharge of oil. This plan must include:
+
+### **Core Requirements of the OPEP:**
+
+1. **Incident Response Procedures**  
+   - Step-by-step actions to respond to an oil spill.
+
+2. **Oil Pollution Scenarios**  
+   - For facilities **south of 60°N**:
+     - Class 1 (e.g., small facility): ≥1 m³ discharge
+     - Class 2: ≥5 m³
+     - Class 3: ≥15 m³
+     - Class 4 (large facility): ≥50 m³  
+   - For facilities **north of 60°N**:
+     - Scenario based on **maximum possible discharge of up to 10,000 tonnes** (the prescribed maximum quantity).
+
+3. **Assumptions and Factors Considered**  
+   - Nature of oil product
+   - Types of vessels involved
+   - Tides, currents, and weather conditions
+   - Proximity to environmental sensitivities
+   - Measures to minimize environmental damage
+   - Time required to initiate a response
+
+4. **Response Priorities**  
+   The plan must prioritize:
+   1. Safety of personnel
+   2. Safety of the facility
+   3. Safety of adjacent communities
+   4. Prevention of fire/explosion
+   5. Minimizing environmental impact
+   6. Reporting the incident
+   7. Clean-up of affected areas (especially environmental sensitivities)
+
+5. **Available Equipment & Resources**  
+   - Types and quantities of equipment and resources available immediately at the site.
+
+6. **Source and Deployment of Resources**  
+   - Name and location of suppliers of equipment and resources.
+   - Procedures for deploying them at the incident site.
+
+7. **Personnel Responsibility**  
+   - Names and positions of individuals authorized to lead and ensure an immediate, effective, and sustained response.
+
+8. **Training Records**  
+   - Names and positions of individuals who have received oil spill response training.
+
+9. **Incident Exercise Program**  
+   - Annual drills and simulations to test the effectiveness of the plan, including coordination with:
+     - Vessels involved in loading/unloading
+     - Response vessels
+     - Canadian Coast Guard
+     - Department of Transport
+     - Provincial and municipal authorities
+
+10. **Health & Safety Measures**  
+   - Procedures to protect personnel and responders under applicable federal and provincial health and safety laws.
+
+11. **Plan Review & Update**  
+   - Procedures to review and update the plan to reflect changes in operations, laws, or environmental conditions.
+
+12. **Compliance with Section 39**  
+   - Procedures for reporting and documenting any oil pollution incident.
+
+13. **Post-Incident Investigation**  
+   - Procedures to determine root causes, contributing factors, and actions to prevent recurrence.
+
+---
+
+## **6. Contingency Planning**
+
+- The operator must **incorporate any existing contingency plans** into their emergency plan, including:
+  - Plans issued by the **Canadian Coast Guard**
+  - Provincial or municipal emergency response plans
+
+---
+
+## **7. Exercise Requirements**
+
+- All **oil pollution incident exercises** must be:
+  - Conducted at least **30 days before** the exercise date.
+  - A written description of the exercise must be submitted to the **Minister of Transport**.
+
+---
+
+## **8. Review and Update of Plans**
+
+### **Annual Review**
+- The OPP and OPEP must be reviewed **annually** and updated if necessary to remain compliant.
+
+### **Triggered Reviews (within 90 days)**  
+If any of the following events occur, the plan must be reviewed and updated within **90 days**:
+- Changes in legislation or environmental conditions
+- Changes in personnel involved in oil operations
+- Gaps identified after an incident or exercise
+- Changes in business practices, policies, or operational procedures
+
+### **Submission After Update**
+- Any updated plan must be submitted to the Minister **no later than one year after the update**.
+
+---
+
+## **9. Recordkeeping**
+
+- Operators must maintain a **record of all plan reviews and updates**, including:
+  - Dates of review
+  - Results and changes made
+- These records must be kept for **three years** after creation.
+
+---
+
+## **10. Response Procedures (Paragraph 168(1)(e))**
+
+In the event of a discharge, the operator must:
+
+1. **Immediately shut down** loading/unloading operations and restart only after ensuring the response is not compromised.
+2. **Report the discharge** in accordance with *Section 133* of the Vessel Pollution and Dangerous Chemicals Regulations.
+3. **Coordinate with the Canadian Coast Guard and other agencies** (federal, provincial, municipal) involved in marine environmental protection.
+4. **Follow the established

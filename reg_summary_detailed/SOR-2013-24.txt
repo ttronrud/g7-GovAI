@@ -1,0 +1,104 @@
+Certainly. Below is a **detailed, structured, and comprehensive summary** of the **Heavy-duty Vehicle and Engine Greenhouse Gas Emission Regulations**, as enacted under the *Canadian Environmental Protection Act, 1999* (CEPA 1999), based on the provided text.
+
+---
+
+## 📚 **Detailed Summary of the Heavy-duty Vehicle and Engine Greenhouse Gas Emission Regulations**
+
+### 🔹 **Legal Basis and Enactment Background**
+
+- These regulations were **proposed** by the Minister of the Environment on **April 14, 2012**, and published in *Canada Gazette, Part I*, under **subsection 332(1)a** of CEPA 1999.
+- The proposal was followed by a **public comment period**, during which stakeholders (e.g., industry, environmental groups) were invited to:
+  - Submit written comments or
+  - File a **notice of objection** requesting a **board of review** to assess the regulations.
+- Based on the recommendations of the Minister and following **sections 160 and 162 of CEPA 1999**, the **Governor in Council** formally enacted the regulations.
+
+> ✅ This process ensures regulatory transparency, public participation, and adherence to CEPA’s environmental protection mandate.
+
+---
+
+### 🔍 **Purpose of the Regulations**
+
+The primary objective of these regulations is to:
+
+- **Reduce greenhouse gas (GHG) emissions** from heavy-duty vehicles and engines in Canada.
+- Establish **emission standards** for key pollutants, including:
+  - **Carbon dioxide (CO₂)**
+  - **Methane (CH₄)**
+  - **Nitrous oxide (N₂O)**
+- Promote **technology innovation** and **emission control improvements** through performance-based standards.
+- Align Canadian standards with **U.S. Environmental Protection Agency (EPA)** standards, particularly through reference to the **Code of Federal Regulations (CFR)**.
+
+---
+
+## 📚 Key Definitions and Technical Terms
+
+The regulations define critical terms used throughout the framework:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canadian Environmental Protection Act, 1999* (CEPA 1999). |
+| **Adjusted Loaded Vehicle Weight (ALVW)** | Average of curb weight and GVWR. For vehicles >6,350 kg, rounded to nearest 225 kg increment. Used for classifying emissions standards. |
+| **Aftertreatment Device** | Systems (e.g., catalytic converters, particulate filters) installed downstream of the exhaust to reduce emissions. |
+| **A to B Testing** | Comparative testing between two vehicles, engines, or equipment to evaluate performance differences. |
+| **Automatic Tire Inflation System** | System that maintains tire pressure at a set level via pneumatic or electronic means. |
+| **Auxiliary Emission Control Device** | Components that sense parameters (speed, RPM, temperature) to modulate or activate emission control systems. |
+| **Averaging Set** | A group of vehicles, engines, or trailers used to calculate CO₂ emission credits under the **CO₂ emission credit system** (Sections 34–47). Includes specific classes and types. |
+| **Basic Vehicle Frontal Area** | Projected area of the vehicle (excluding mirrors, deflectors) along its longitudinal axis, measured perpendicular to it. |
+| **Box Van Trailer** | Enclosed trailer with fixed sides, roof, and nose; excludes tank trailers. |
+| **Brake Horsepower (BHP)** | 745.7 watts (1 horsepower). Standard unit for measuring engine power. |
+| **Bus** | Vocational vehicle carrying more than 15 passengers. |
+| **Cab-Complete Vehicle** | Heavy-duty incomplete vehicle with a completed driver compartment requiring only cargo or load-bearing additions. |
+| **Calibration** | Technical specifications defining how a component or system operates across its working range. |
+| **CFR** | Code of Federal Regulations of the United States, used as a benchmark for U.S. emission standards. |
+| **CH₄** | Methane, a potent GHG. |
+| **Class 2B** | GVWR >3,856 kg (8,500 lbs) and ≤4,536 kg (10,000 lbs). |
+| **Class 3** | GVWR >4,536 kg (10,000 lbs) and ≤6,350 kg (14,000 lbs). |
+| **Class 4–8** | Progressive classes based on increasing GVWR (up to Class 8: >14,969 kg / 33,000 lbs). |
+| **Coach Bus** | Intercity passenger bus without standing passenger accommodations. |
+| **Compression-Ignition Engine** | Engine that ignites fuel through compression (e.g., diesel), not spark ignition. Excludes Otto-cycle engines. |
+| **Concrete Mixer** | Vocational vehicle with a rotating drum for mixing and transporting concrete. |
+| **CO₂** | Carbon dioxide, a major GHG. |
+| **CO₂ Family Certification Level** | Maximum CO₂ emission level set by a company for its fleet, equal to or exceeding the calculated deteriorated emission level. |
+| **Curb Weight** | Weight of the vehicle with standard equipment and fuel at nominal capacity. |
+| **Day Cab** | Tractor cab without sleeper accommodation. |
+| **Deteriorated Emission Level** | Emission level adjusted downward due to engine wear over time (based on usage). |
+| **Deterioration Factor** | Factor applied to emission data to account for degradation over time (based on EPA CFR sections). |
+| **Dry Box Van Trailer** | Box van trailer without refrigeration. |
+| **Electric Vehicle (EV)** | Heavy-duty vehicle without an internal combustion engine, powered solely by external electricity or solar power. |
+| **Element of Design** | Any hardware, software, calibration, or system interaction that affects emissions. |
+| **Emergency Vehicle** | Vehicle designed as an ambulance or fire truck. |
+| **Emission Control System** | Includes aftertreatment devices, auxiliary controls, engine modifications, and design elements. |
+| **Engine Configuration** | Unique combination of hardware and calibration affecting emissions within a family or subfamily. |
+| **Engine Family** | Grouping of engines based on EPA certificate or CFR 1036 subpart C section 230. |
+| **Engine Subfamily** | Subset within an engine family sharing the same CO₂ family certification level. |
+| **EPA** | United States Environmental Protection Agency. |
+| **EPA Certificate** | U.S. conformity certificate for engines or vehicles meeting federal emission standards. |
+| **Family Emission Limit** | Maximum allowable emission level for a fleet or subfleet, set by the company and must be equal to or exceed calculated emission values (e.g., CO₂, N₂O, CH₄). |
+| **FTP-Based City Test** | Federal Test Procedure used to measure emissions in urban driving conditions. |
+| **Fuel Cell Vehicle** | Vehicle powered by an electrochemical cell (e.g., hydrogen fuel cell) without combustion. |
+| **Full-Aero Trailer** | Box van trailer without certain features like belly boxes, drop decks, side platforms, steps, or ramps. |
+| **GAWR** | Gross Axle Weight Rating – maximum load a single axle can carry. |
+| **GCWR** | Gross Combination Weight Rating – maximum total weight of vehicle and trailer. |
+| **GEM Computer Simulation Model** | EPA model used to simulate emissions performance of vehicles and engines. |
+| **GVWR** | Gross Vehicle Weight Rating – maximum allowable loaded weight of a vehicle. |
+| **Heavy-Duty Incomplete Vehicle** | Vehicle with chassis, powertrain, and wheels but requiring further assembly. Minimum curb weight >2,722 kg or frontal area >4.2 m². |
+| **Heavy-Duty Vehicle** | On-road vehicle with GVWR >3,856 kg (8,500 lbs). Excludes medium-duty passenger vehicles. |
+
+> ⚠️ Note: "Heavy-duty completed vehicle" was **repealed** by *SOR/2018-98, s.1* and is no longer in effect.
+
+---
+
+## 🚗 Regulatory Framework and Emission Standards
+
+### 1. **Vehicle and Engine Classification System**
+
+Heavy-duty vehicles are classified into **eight classes (Classes 2B to 8)** based on **Gross Vehicle Weight Rating (GVWR)**:
+
+| Class | GVWR Range |
+|------|-----------|
+| 2B | >3,856 kg (8,500 lbs) to ≤4,536 kg (10,000 lbs) |
+| 3 | >4,536 kg (10,000 lbs) to ≤6,350 kg (14,000 lbs) |
+| 4 | >6,350 kg (14,000 lbs) to ≤7,257 kg (16,000 lbs) |
+| 5 | >7,257 kg (16,000 lbs) to ≤8,845 kg (19,500 lbs) |
+| 6 | >8,845 kg (19,500 lbs) to ≤11,793 kg (26,000 lbs) |
+| 7 | >11,793 kg (26,000 lbs) to ≤14,96

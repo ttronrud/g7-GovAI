@@ -1,0 +1,131 @@
+**Detailed Summary of the Systems Software Development Contract Remission Order**
+
+---
+
+### **Overview of the Regulation**
+
+The *Systems Software Development Contract Remission Order* (S.C. 1980–81–82–83, c. 170, s. 4) is a statutory instrument issued by Her Excellency the Governor General in Council. It was enacted under **section 17 of the Financial Administration Act**, based on the recommendations of the **Minister of National Revenue** and the **Treasury Board**. The primary objective of this Order is to promote the development of high-value software in Canada by providing **remission (exemption)** of certain taxes and duties on imported computer equipment used specifically in the context of **systems software development contracts**.
+
+This Order is designed to encourage Canadian companies to engage in international software development partnerships—particularly those involving the creation or modification of operational or applications software—by reducing the financial burden associated with importing essential computer hardware and related equipment.
+
+---
+
+### **Title and Citation**
+- **Official Title**: *Systems Software Development Contract Remission Order*  
+- **Citation**: S.C. 1980–81–82–83, c. 170, s. 4  
+- **Status**: Repealed in part by SI/95-43, s. 2 (note: the section is now repealed, but the Order may still be referenced for historical or interpretive purposes)
+
+---
+
+### **Key Definitions**
+
+1. **Computer Equipment**  
+   Includes:
+   - Automatic data processing machines, systems, and components  
+   - Accessories, attachments, and peripheral equipment used with the above  
+   - Electrical or electronic apparatus operated by or in conjunction with the above equipment  
+   - Recorded carrier media (e.g., magnetic tapes, optical discs)  
+   - Parts of any of the above goods  
+
+   *(Note: This broad definition ensures that a wide range of hardware and media necessary for software development are covered.)*
+
+2. **Minister**  
+   Refers to the **Minister of National Revenue**, responsible for administering and enforcing the provisions of this Order.
+
+3. **Support**  
+   Defined as the **correction of deficiencies or other problems** that arise during the **subsequent use** of operational or applications systems software developed under a systems software development contract.  
+   → This definition is critical because it establishes a condition under which software may be retained in Canada (for support purposes).
+
+4. **Systems Software Development Contract**  
+   A contract between:
+   - A **Canadian company** and  
+   - A **foreign company**  
+   For the purpose of:
+   - Developing **new operational or applications systems software**  
+   - Modifying existing systems software to ensure compatibility with future or existing computer systems  
+   - Providing **support** for such software (in the case of development and support contracts)  
+
+   The software must be intended for use with **existing or future computer systems**, emphasizing practical, real-world application.
+
+---
+
+### **Core Provision: Remission of Duties and Taxes**
+
+The Order grants **remission** (i.e., exemption) of:
+- **Customs duties** under the **Customs Tariff**  
+- A **portion of sales and excise taxes**  
+paid or payable on **computer equipment** imported into Canada by or on behalf of a **Canadian company** for use in carrying out a **systems software development contract**.
+
+> **Important Note**: The remission applies only to computer equipment used in the context of such contracts and is not a general tax relief.
+
+---
+
+### **Conditions for Remission**
+
+To qualify for remission, the following **conditions must be met**:
+
+#### 1. **Date of Import**
+- The computer equipment must be imported **on or after January 1, 1984**.  
+→ This establishes a time-bound eligibility window, ensuring the policy targets modern software development activities.
+
+#### 2. **Disposal of Equipment Within Three Years**
+- Within **three years** of the date the equipment was accounted for under the *Customs Act*, the equipment must be either:
+  - **Exported from Canada**, or  
+  - **Destroyed under the supervision of a customs officer**  
+→ This ensures that imported equipment does not remain in Canada indefinitely and is not used for unrelated purposes.
+
+#### 3. **Disposal of Developed Software**
+- All **software developed under the contract** must be:
+  - **Exported from Canada**,  
+  - **Unless** the Canadian company has an obligation under the contract to provide **support** for the software in which case:
+    - The Canadian company may **retain one copy** of the software solely for support purposes.  
+→ This protects the Canadian company’s ability to maintain and support software, while still promoting export of the core intellectual property.
+
+#### 4. **Record-Keeping and Reporting Obligations**
+- The Canadian company must:
+  - Maintain **satisfactory records** of the **use of the computer equipment** during its time in Canada  
+  - Provide to the Minister **reports or other information** as required for the administration of this Order  
+→ Ensures transparency, accountability, and compliance with the intent of the policy.
+
+#### 5. **Timely Claim for Remission**
+- A **claim for remission must be submitted to the Minister within three years** of the date the equipment was accounted for under the *Customs Act*.  
+→ Establishes a strict deadline to prevent indefinite delays in claiming benefits.
+
+---
+
+### **Policy Objectives and Rationale**
+
+The Order was introduced to:
+- Encourage **Canadian participation in global software development**  
+- Reduce the **cost of importing essential hardware** for software development  
+- Promote **technology transfer and innovation** in Canada  
+- Ensure that **software developed under international contracts** is exported (or properly supported), thereby protecting Canadian interests in intellectual property and economic participation  
+
+It balances the need for **tax relief** with **regulatory accountability**, ensuring that:
+- The equipment is not misused  
+- The software is not retained indefinitely in Canada  
+- The government maintains oversight over the use of imported equipment
+
+---
+
+### **Repeal Status**
+
+- Section 4 of this Order was **repealed by Statutory Instrument SI/95-43, section 2**.  
+- This indicates that the Order is **no longer in force** as of the date of repeal.  
+- However, it remains **historically significant** and may still be referenced in legal or policy analyses related to early Canadian software development incentives.
+
+---
+
+### **Conclusion**
+
+The *Systems Software Development Contract Remission Order* was a targeted policy tool designed to support Canada’s growth in the software industry during the 1980s. By offering tax and duty remission on imported computer equipment used in international software development contracts, it aimed to:
+- Lower barriers to entry for Canadian firms in global software development  
+- Encourage the creation and export of high-value software  
+- Promote technological advancement and innovation  
+
+While the Order has been **repealed**, it reflects an early recognition of the importance of **software as a key component of modern economic competitiveness** and sets a precedent for future government incentives in the tech sector.
+
+---
+
+**Note for Practitioners**:  
+Although this Order is no longer active, its principles—such as equipment use limitations, export requirements, and support-based retention of software—may inform the design of modern digital innovation incentives, especially in areas like AI, cloud computing, and software-as-a-service (SaaS).

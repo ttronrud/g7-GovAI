@@ -1,0 +1,135 @@
+**Detailed Summary of the Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations (Canada)**
+
+---
+
+### **Overview**
+
+The *Passenger Automobile and Light Truck Greenhouse Gas Emission Regulations* (the "Regulations") were made by Her Excellency the Governor General in Council on the recommendation of the Minister of the Environment, pursuant to **sections 160 and 162 of the Canadian Environmental Protection Act, 1999 (CEPA 1999)**. These regulations were introduced to reduce greenhouse gas (GHG) emissions from new passenger automobiles and light trucks in Canada by aligning with U.S. federal standards and establishing a clear, phased pathway toward **zero-emission vehicles (ZEVs)** by **model year 2035**.
+
+The regulations were first proposed in the *Canada Gazette, Part I*, on **April 17, 2010**, allowing stakeholders to submit comments or file objections before final adoption. This public consultation process ensured transparency and stakeholder engagement in shaping Canada’s climate strategy for transportation.
+
+---
+
+## **Key Objectives**
+
+1. **Reduce GHG Emissions**: Establish emission standards that are aligned with U.S. Environmental Protection Agency (EPA) standards under the *Code of Federal Regulations (CFR)*.
+2. **Phased Transition to Zero-Emission Vehicles (ZEVs)**:
+   - Begin in **model year 2026** with incremental increases in ZEV requirements.
+   - Achieve **100% zero-emission passenger automobiles and light trucks by model year 2035**.
+3. **Ensure Market Alignment**: Align Canadian vehicle emissions standards with those of the United States to facilitate trade, market access, and consumer confidence.
+4. **Support Innovation**: Encourage the development and adoption of advanced clean technologies such as electric, plug-in hybrid, and fuel cell vehicles.
+
+---
+
+## **Scope and Applicability**
+
+### **1. Covered Vehicle Classes**
+The Regulations apply to two main classes of vehicles:
+- **Passenger automobiles** (vehicles designed to transport up to 10 persons)
+- **Light trucks** (vehicles with specific functional or structural characteristics)
+
+#### **Exclusions**
+- Vehicles being **exported** and accompanied by written evidence that they will **not be sold or used in Canada**.
+- **Work trucks** (vehicles with GVWR > 3,856 kg and ≤ 4,536 kg) are excluded from the scope of these emissions standards, though they are defined for clarity.
+- Vehicles manufactured in stages by multiple manufacturers, where no single manufacturer produces more than 10,000 units annually, are also excluded.
+
+> Note: The definitions of "passenger automobile" and "light truck" include detailed technical and functional criteria (e.g., seating capacity, cargo volume, towing capability).
+
+---
+
+## **Core Definitions (Key Terms)**
+
+| Term | Definition |
+|------|-----------|
+| **Passenger Automobile** | Any four-wheeled self-propelled vehicle designed for highway use, with GVWR < 4,536 kg (10,000 lbs), excluding light trucks and work trucks. Designed to carry ≤10 passengers. |
+| **Light Truck** | A vehicle that either: <br> - Has four-wheel drive or GVWR > 2,722 kg (6,000 lbs) and meets at least four of the following: approach angle ≥28°, break-over angle ≥14°, departure angle ≥20°, running clearance ≥20 cm, axle clearance ≥18 cm; <br> OR is designed to perform functions like transporting more than 10 people, providing temporary living quarters, or carrying cargo beyond passenger volume. |
+| **Zero-Emission Vehicle (ZEV)** | Includes electric vehicles (EVs), plug-in hybrid electric vehicles (PHEVs), and fuel cell vehicles (FCVs). |
+| **Advanced Technology Vehicle** | EV, PHEV, or FCV. |
+| **Hybrid Electric Vehicle** | Powered by both an internal combustion engine and an on-board electric motor. |
+| **Mild Hybrid** | Features automatic start/stop and regenerative braking, recovering at least 15% but less than 65% of total braking energy. |
+| **Strong Hybrid** | Recovering at least 65% of total braking energy. |
+| **Curb Weight** | Weight of vehicle at operational status with standard equipment, fuel at nominal capacity, and optional equipment. |
+| **GVWR** | Maximum design loaded weight of a single vehicle. |
+| **GCWR** | Maximum combined weight of towing vehicle, passengers, cargo, and trailer. |
+| **Payload Capability** | GVWR minus curb weight. |
+| **Towing Capability** | GCWR minus GVWR. |
+| **Useful Life** | Emission standards apply for: <br> - Passenger vehicles/light trucks (non-medium duty): 10 years or 120,000 miles (whichever comes first); <br> - Medium-duty light trucks: 11 years or 120,000 miles. |
+| **Footprint** | Calculated as (average lateral width × longitudinal distance between front and rear wheel centers) ÷ 144, rounded to nearest 0.1 sq ft. Used in emissions modeling. |
+
+> **Note**: Several definitions have been repealed (e.g., "car line," "transmission class") as of SOR/2014-207, s.1, reflecting modernization of vehicle classification.
+
+---
+
+## **Standards and Compliance**
+
+### **1. Emission Standards Based on U.S. CFR**
+- The Regulations incorporate **federal emission standards from the U.S. Code of Federal Regulations (CFR)**, specifically:
+  - **Title 40, Chapter I, Part 600, Subpart F** (energy efficiency and fuel economy)
+  - **Title 49, Chapter V, Part 538** (minimum driving range for alternative fuel vehicles)
+
+> **Important Exclusions in Canadian Interpretation**:
+- References to **EPA discretion**, **Secretary of Transportation discretion**, **fleet averaging**, **emission credits**, **small-volume manufacturers**, or **financial hardship** are **excluded**.
+- Only **EPA standards** are valid; conformity must be verified by the EPA.
+- Any alternative standards from other authorities are **not recognized**.
+
+### **2. Conformity Requirements**
+- Vehicles must meet **GHG emission standards** for their model year and class.
+- Compliance is assessed using **test procedures** identical to those in the U.S. CFR.
+- Vehicles must pass **real-world driving conditions** and **standardized test cycles** to determine emissions.
+
+### **3. Fleet-Level Requirements**
+- Applies to **fleets** of passenger automobiles and light trucks.
+- Requires fleets to meet **aggregate emission standards**.
+- Includes requirements for **fleet-level compliance**, especially for vehicles with high emissions or those operated under shared ownership.
+
+### **4. Credit System (Under Section 162 of CEPA)**
+- A **credit system** allows manufacturers to:
+  - Offset emissions from high-emission vehicles by producing or selling **low-emission or zero-emission vehicles**.
+  - Earn **emission credits** for producing ZEVs or meeting emission targets.
+- Credits can be used to meet compliance obligations for non-compliant vehicles.
+- Credits are **non-transferable** and must be used within a defined period.
+
+### **5. Zero-Emission Vehicle (ZEV) Compliance System**
+- Begins in **model year 2026** with increasing ZEV mandates.
+- By **model year 2035**, **all new passenger automobiles and light trucks** must be **zero-emission vehicles**.
+- A **compliance unit system** is established to track progress toward ZEV adoption.
+- **Combined fleets** (e.g., fleets of manufacturers or operators) must meet ZEV targets based on their total sales.
+
+---
+
+## **Model Year and Production Rules**
+
+- A model year is defined as the calendar year in which a vehicle is produced, **if production includes January 1**.
+- If production spans across calendar years, the model year corresponds to the **calendar year during which the production period falls**.
+- The **period of production must include only one January 1**.
+
+> This ensures consistency in tracking vehicle emissions over time and prevents manipulation of model years.
+
+---
+
+## **Concurrent Sale Rule (Canada–U.S. Market Alignment)**
+
+A vehicle of a specific model year sold in Canada is considered to be **sold concurrently** in Canada and the United States **if**:
+- A vehicle of the **same test group** is offered for sale in the U.S. within **365 days** before:
+  - For **imported vehicles**: the day of import into Canada.
+  - For **Canadian-manufactured vehicles**: the day the **national emissions mark** is applied, or if unknown, the day the **main assembly** was completed.
+
+> This rule ensures that Canadian standards reflect U.S. market availability and enables manufacturers to comply with both jurisdictions simultaneously.
+
+---
+
+## **Application and Authorization**
+
+- Any company wishing to apply the **national emissions mark** (as set out in Schedule 2 of the *On-Road Vehicle and Engine Emission Regulations*) to a vehicle must:
+  - Submit an **application to the Minister of the Environment**.
+  - Receive **authorization** under subsection 7(2) of those Regulations.
+
+> This ensures that only compliant vehicles receive the official emissions certification.
+
+---
+
+## **Timeline and Phased Approach**
+
+| Model Year | Emission Standard Target |
+|-----------|--------------------------|
+| 2026 | Gradual increase in ZEV requirement (e

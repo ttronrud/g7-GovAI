@@ -1,0 +1,177 @@
+**Detailed Summary of the *Certain Products Containing Toxic Substances Regulations* (S.C. 2023, c. 12, s. 55)**
+
+---
+
+### **Overview and Legal Basis**
+
+The *Certain Products Containing Toxic Substances Regulations* (the "Regulations") are a set of environmental regulations made under **subsection 93(1)d of the Canadian Environmental Protection Act, 1999 (CEPA 1999)**. These Regulations were introduced by the **Governor in Council**, on the recommendation of the **Minister of the Environment** and the **Minister of Health**, following a formal consultation process.
+
+#### **Key Procedural Background:**
+- On **November 18, 2023**, the Minister of the Environment published a **proposed version** of the Regulations in *Canada Gazette, Part I*, providing public notice and an opportunity for stakeholders to:
+  - Submit **comments** or
+  - File a **notice of objection**, requesting a **board of review** and providing reasons for the objection.
+- The **National Advisory Committee** was also given the opportunity to provide advice under section 6c of CEPA 1999.
+- The Governor in Council concluded, under subsection 93(4), that the proposed Regulations **do not conflict** with other federal environmental or health legislation and **provide sufficient protection** to human health and the environment.
+
+Thus, the Regulations were formally adopted and made under **section 93(1)d** of CEPA 1999.
+
+---
+
+## **Core Objectives of the Regulations**
+
+The primary goals of these Regulations are:
+
+1. **To regulate specific products containing toxic substances** that pose risks to human health and the environment.
+2. **To ensure that manufacturers and importers** of such products demonstrate:
+   - Technical and economic feasibility of alternatives.
+   - A viable plan to minimize or eliminate environmental and health risks.
+3. **To phase out or restrict** the use of certain toxic substances in specific product categories over time.
+4. **To enforce accountability** through mandatory recordkeeping and permit systems.
+
+---
+
+## **Key Definitions and Scope**
+
+### **Regulated Product**
+A product that:
+- Belongs to a **product category** specified in **Sections 13, 17, or 21**, and  
+- Contains a **toxic substance** listed in **Schedule 1** of CEPA 1999.
+
+> *Note: The term "toxic substance" refers to substances identified as harmful under CEPA, such as coal tars, polycyclic aromatic hydrocarbons (PAHs), and 2-butoxyethanol.*
+
+### **Product Category**
+A product belongs to a category if:
+- It is **labeled or documented** (on container or in product documentation) as belonging to that category.
+- The manufacturer or importer provides evidence of such classification.
+
+> *Example: A product labeled as a "roofing sealant" is considered to belong to the roofing sealant category.*
+
+### **Exclusions**
+- **Waste** or products at the **end of their useful life** that are intended for **recycling** are **not covered**.
+- The Regulations **do not apply** to products that are **in transit** through Canada (from outside to outside Canada).
+
+---
+
+## **Permit System: Requirements and Conditions**
+
+### **Who Needs a Permit?**
+Manufacturers, importers, or sellers who wish to produce, import, or sell a **regulated product** must apply for a **permit** under one of the following:
+- Paragraph 14(a), 18(a), or 22(b) of the Regulations.
+
+### **Permit Application Requirements (Sections 3(1))**
+
+The applicant must submit a detailed application to the Minister, including:
+
+| Information Required | Purpose |
+|----------------------|--------|
+| **Applicant details** | Name, address, phone, email, business number (if applicable) |
+| **Authorized representative** | Name, title, contact info (if applicable) |
+| **Product details** | Common/generic name, trade name, trademark |
+| **Product category** | Category and evidence of classification |
+| **Toxic substance content** | Total quantity and concentration (with units) |
+| **Annual production/import/sales volume** | Estimated volume per calendar year (with units) |
+| **Intended and potential uses** | Description of how the product is used |
+| **Feasibility of alternatives** | Evidence that **no technically or economically feasible alternative** exists that: <br> - Achieves the same function, and <br> - Has a less harmful environmental or health impact |
+| **Environmental and health mitigation plan** | A plan that includes: <br> - Measures to prevent release of toxic substance during normal use or end-of-life; <br> - Measures to **eliminate or reduce** the toxic substance within a defined time period |
+| **Requested permit validity** | Must not exceed **three years**, with justification |
+
+### **Minister’s Authority**
+- The Minister may **request clarifications** to ensure the application is complete.
+- The applicant must **notify the Minister within 30 days** of any change in the submitted information.
+
+### **Permit Issuance Conditions (Section 4)**
+The Minister **must issue** the permit if:
+1. The applicant has proven that **no feasible alternative** exists to the toxic substance.
+2. The applicant has submitted a **reasonable and actionable mitigation plan** to reduce or eliminate harm.
+
+> *Note: The plan must be realistic and address both use and end-of-life scenarios.*
+
+### **When a Permit is Refused**
+The Minister may refuse the permit if:
+1. There is **false or misleading information**.
+2. Required documents are **missing or insufficient**.
+3. Issuing the permit would result in **serious or irreversible harm** to human health or the environment, or would **not support sustainable development**.
+
+### **Permit Duration and Renewal**
+- **Initial validity**: Up to **three years**.
+- **Renewal**: Only **once**, for up to **three years**.
+- **Renewal Application Requirements**:
+  - Must be submitted **at least 90 days before expiry**.
+  - Must include:
+    - All original application details.
+    - Actual annual volumes manufactured/imported/sold.
+    - **Progress report** on implementation of the mitigation plan.
+    - Explanation (if not fully implemented) and plan for full implementation.
+
+> *The Minister must renew the permit if both conditions in Section 4(2) are met; otherwise, it is refused.*
+
+### **Revocation of Permits**
+A permit may be revoked if:
+1. The permit holder **requests revocation**.
+2. The holder has provided **false or misleading information**.
+3. The holder has **failed to implement** the mitigation plan (to the extent feasible and within their control).
+
+> *Before revocation, the Minister must provide written reasons and an opportunity for the holder to make written representations.*
+
+---
+
+## **Laboratory and Documentation Standards**
+
+### **Laboratory Accreditation Requirements**
+Any analysis of toxic substance concentration must be conducted by a laboratory that:
+- Is **accredited under ISO/IEC 17025** by a body that is a signatory to the **ILAC MRA (International Laboratory Accreditation Cooperation Mutual Recognition Arrangement)**, **or**
+- Is accredited under **Quebec’s Environment Quality Act (CQLR, c. Q-2)**.
+
+> *The laboratory’s accreditation scope must include the specific analysis being performed.*
+
+### **If No Recognized Method Exists**
+If no recognized analytical method exists, the analysis must follow **good scientific practice** generally accepted at the time of testing.
+
+### **Certification of Submissions**
+All information and documents submitted to the Minister must be:
+- **Accompanied by a signed certification** (by the submitter or authorized representative) stating that the information is **accurate and complete**.
+- Submitted in an **electronic format compatible** with the Minister’s system.
+
+> *Electronic signatures are accepted if the certification is submitted electronically.*
+
+> *Exception:* If submission is **not feasible due to circumstances beyond the applicant’s control**, the information may be submitted on **paper** in the format specified by the Minister (or any format if no format is specified).
+
+---
+
+## **Recordkeeping Requirements (Section 10)**
+
+All persons who:
+- **Manufacture** or **import** regulated products, or  
+- **Sell** regulated products **for export only**
+
+must maintain records for **at least five years**.
+
+### **Records Must Be Maintained in:**
+- English, French, or both.
+
+#### **For Manufacturers:**
+- Product name, trade name, category, and evidence of classification.
+- Date of manufacture.
+- Quantity manufactured at each plant (with units).
+- Total quantity and concentration of toxic substance.
+- Results of any analysis (as manufactured or diluted, with supporting documents and lab name/address).
+
+#### **For Importers:**
+- Same as manufacturers, plus:
+  - Date and port of entry.
+  - Quantity imported (with units).
+  - Harmonized Commodity Description and Coding System (HCDS) number.
+  - Business number from the Minister of National Revenue.
+
+#### **For Export Sellers:**
+- Product name, trade name.
+- Quantity sold (with units).
+- Date of sale.
+
+> **Records must be made no later than 30 days after becoming available.**
+
+> **Records must be kept at the principal place of business in Canada** or at another location in Canada where inspection is possible. If at another location, the **civic address must be provided to the Minister**.
+
+> **Electronic records must be in a readily readable format.**
+
+> **Change in address must be reported within 30 days.

@@ -1,0 +1,194 @@
+### **Detailed Summary of the Solvent Degreasing Regulations (Canada)**
+
+The **Solvent Degreasing Regulations**, made under **section 93(1)** of the *Canadian Environmental Protection Act, 1999* (CEPA 1999), were issued by the Governor in Council on December 7, 2002, following a public consultation process and review by the National Advisory Committee. These regulations establish a **usage-based, consumption-tracking system** for certain solvents used in industrial degreasing processes to reduce environmental and human health risks associated with solvent use.
+
+---
+
+## **I. Background and Legislative Basis**
+
+- The regulations were proposed under **subsection 332(1)** of CEPA 1999 and published in *Canada Gazette, Part I*, allowing public comment and objection.
+- The **National Advisory Committee** was given an opportunity to provide advice under **section 6** of CEPA.
+- The Governor in Council concluded that the proposed regulations **do not overlap with other environmental or health legislation** and provide **adequate protection** to human health and the environment.
+- Therefore, the regulations were formally enacted under **subsection 93(1)** of CEPA, with recommendations from both the **Minister of the Environment** and the **Minister of Health**.
+
+---
+
+## **II. Scope and Applicability**
+
+### **What the Regulations Apply To**
+- The regulations apply to the **use of specific solvents** listed in **Column 1 of Schedule 1**.
+- These solvents are used in **specific degreasing processes** listed in **Column 2 of Schedule 1**.
+- The use must occur in **equipment** classified as:
+  - **Cold degreaser**: Equipment using liquid solvents via spraying, brushing, flushing, agitating, or immersion.
+  - **Vapour degreaser**: Equipment using solvent vapour, which condenses on substrates to remove soils.
+
+### **Exemptions**
+The regulations **do not apply** to:
+1. **Dry cleaning** of textiles, apparel, rugs, furs, leathers, or similar materials — *except during manufacturing*.
+2. **Use of continuous scouring machines** in textile mills.
+
+> ⚠️ This ensures that common textile cleaning operations are excluded from the regulatory scope.
+
+---
+
+## **III. Core Regulatory Requirement: Consumption Units**
+
+### **Key Principle**
+No person may use a solvent in a degreasing process in a quantity **exceeding the threshold** set in **Column 3 of Schedule 1**, **unless** they have a **consumption unit** issued by the Minister.
+
+- A **consumption unit** represents **1 kilogram of solvent** that can be used **in excess** of the threshold.
+- Each kilogram of solvent used **above the threshold** requires one consumption unit.
+
+### **How Consumption Units Are Issued**
+
+#### **Eligibility Conditions:**
+To apply for consumption units for a given year:
+1. The person must have used the solvent in the process in the **year immediately preceding** the requested year.
+2. The request must be submitted to the Minister **before October 1** of that preceding year.
+3. The request must be on a form provided by the Minister and include:
+   - Information on solvent and process usage.
+   - Documentary evidence supporting the claimed average annual consumption.
+4. The person must be informed in writing by the Minister of their **average annual consumption**.
+
+#### **Calculation of Consumption Units**
+- The number of consumption units issued =  
+  `(Average annual consumption × Percentage in Column 4 of Schedule 3)`  
+  − `(Threshold in Column 3 of Schedule 1)`  
+  − `(Any retired units under Section 5)`
+
+> Example: If average annual consumption is 10,000 kg, threshold is 5,000 kg, and the percentage is 10%, then:
+>  
+> Units = (10,000 × 10%) − 5,000 = 1,000 − 5,000 = **–4,000 → zero units issued**
+
+#### **Rounding Rules**
+- If the result is **zero or negative**, **no units are issued**.
+- If the result is **not a whole number**, it is **rounded to the nearest whole number**.
+- If equidistant between two numbers, **round up**.
+
+#### **Determining Average Annual Consumption**
+The average is calculated based on the **last few years of use**:
+| Usage Pattern | Average Calculation |
+|--------------|---------------------|
+| Used in **last year only** | That year’s usage |
+| Used in **last two years** | Average of those two years |
+| Used in **last three years** | Average of those three years |
+| Used in **earlier years** (plus last three) | Person selects **three consecutive years** from the period in Column 5 of Schedule 1 and computes the average |
+
+> This allows flexibility for businesses with fluctuating usage patterns.
+
+---
+
+## **IV. Consumption Unit Management**
+
+### **Validity**
+- Consumption units are **valid only for the year** they are issued.
+- Cannot be carried forward or used in future years.
+
+### **Retirement of Units**
+- A person may **retire** a consumption unit (i.e., surrender it).
+- Must submit a completed form (Schedule 4) with:
+  - Name, address, contact details
+  - Facility details
+  - Reason for retirement
+- Once retired, units **cannot be reissued**.
+
+### **Transfer of Units**
+- Units may be **transferred** to another person **for the same year and same degreasing process**.
+- Transfer is **only allowed** after written approval from the Minister.
+- Transfer requires:
+  - **Joint application** by transferor and transferee.
+  - Submission of information (Schedule 5) including:
+    - Details of both parties
+    - Solvent and process
+    - Quantity to be transferred
+    - Unexpended units available
+- Conditions for approval:
+  1. Transferor must have **unexpended units** for each unit being transferred.
+  2. Transferee must **commit to use** the units in the same year and process.
+- If the Minister discovers:
+  - Transferor **lacked sufficient unexpended units**, or
+  - Transferee **breached the commitment**,
+  → The transfer is **cancelled**, and units are **returned to the transferor**.
+
+> This ensures accountability and prevents misuse.
+
+---
+
+## **V. Reporting Requirements**
+
+### **For Persons Using Solvents**
+- Must submit a **report to the Minister** within **30 days after the end of the year**.
+- Report must include:
+  - Opening and closing inventory
+  - Quantity supplied by sellers
+  - Quantity transferred to other uses (on-site/off-site)
+  - Quantity reclaimed/recycled on-site
+  - Quantity sold or transferred to others
+  - Quantity sent to waste management facilities
+- Must **retain copies** of the report and supporting documents (e.g., shipping records) for **five years** after the end of the year.
+
+### **For Sellers of Solvents**
+- Must submit a **report within 30 days after the end of the year** of sale.
+- Report must include:
+  - Total quantity sold (with purchaser details and dates)
+  - Quantity returned by purchasers
+  - Quantity of **recycled or reclaimed solvent** sold or returned
+- Must retain records for **five years** at their **principal place of business**.
+
+> These reports ensure transparency in solvent flow and help track environmental impact.
+
+---
+
+## **VI. Submission and Compliance Requirements**
+
+### **General Rules for Submissions**
+- All applications, notices, and reports must be:
+  - **Signed and dated** by:
+    - A person authorized to act on behalf of a corporation, or
+    - The individual submitting the document (in other cases).
+
+### **Confidentiality**
+- Applicants or parties may request **confidentiality** under **section 313 of CEPA**.
+- Must state the **reason** for confidentiality (e.g., trade secrets, competitive advantage).
+- The Minister may approve or deny such requests.
+
+---
+
+## **VII. Enforcement and Penalties**
+
+### **Ministerial Discretion**
+- The Minister may:
+  - **Refuse to issue** a consumption unit, or
+  - **Cancel** an existing unit,
+  if false or misleading information is submitted.
+
+### **Due Process**
+- Before refusing or cancelling:
+  - The Minister must provide **written reasons**.
+  - The affected party must be given a **minimum of 30 days** to make **oral or written representations**.
+
+> This ensures fairness and protects against arbitrary decisions.
+
+---
+
+## **VIII. Effective Date**
+
+- The regulations **come into force on the day of registration** in the Canada Gazette.
+
+---
+
+## **IX. Key Schedules (Summary)**
+
+| Schedule | Purpose |
+|--------|--------|
+| **Schedule 1** | Lists **solvents** (Column 1) and **degreasing processes** (Column 2), with **thresholds** (Column 3) and **start dates** (Column 4) |
+| **Schedule 2** | Form for requesting consumption units — includes data on usage over time |
+| **Schedule 3** | Percentage multiplier used in calculating consumption units (Column 4) |
+| **Schedule 4** | Form for retiring consumption units |
+| **Schedule 5** | Form for transferring consumption units |
+| **Schedule 6** | Form for solvent users to submit annual reports |
+| **Schedule 7** | Form for sellers to submit annual reports |
+
+---
+
+## **X. Key Objectives and Environmental

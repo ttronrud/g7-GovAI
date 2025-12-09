@@ -1,0 +1,145 @@
+**Detailed Summary of the Temporary Importation of Vessels Remission Order, No. 9**
+
+---
+
+### **1. Legal Authority and Purpose**
+
+The **Temporary Importation of Vessels Remission Order, No. 9** is a regulatory instrument issued under the authority of the **Financial Administration Act**, specifically **subsection 23(2)**. It was promulgated by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of National Revenue**, with the stated objective of serving the **public interest**.
+
+The primary purpose of this Order is to **remit (i.e., refund or cancel) a portion of customs duties and sales tax** that certain vessels have paid or are otherwise liable to pay when they are **temporarily imported into Canada**. This remission is intended to support the operation of essential maritime services by reducing the financial burden on importers of vessels used for temporary purposes—such as those involved in emergency response, trade, or transportation—without permanently altering the vessel’s status or ownership.
+
+---
+
+### **2. Order Title and Citation**
+
+- **Official Title:** *Temporary Importation of Vessels Remission Order, No. 9*  
+- **Reference:** S.C. 1991, c. 24, s. 7(2)  
+- This Order may be cited as such in official and administrative contexts.
+
+---
+
+### **3. Scope of Remission**
+
+Remission is granted **subject to Section 3** of the Order and applies to specific vessels listed in the **Schedule** attached to the Order. Each item in the Schedule contains the following information:
+
+| Column | Description |
+|-------|-------------|
+| **I** | Name of the importer (entity responsible for the vessel) |
+| **II** | Name or identification of the vessel |
+| **III** | Period during which the vessel was temporarily imported into Canada (start and end dates) |
+| **IV** | Total amount of customs duties paid or payable under the *Customs Tariff* |
+| **V** | Total amount of sales tax paid or payable under the *Excise Tax Act* |
+
+#### **Amount of Remission**
+
+The remitted amount is calculated as follows:
+
+> **Remission Amount = [Difference between (Customs Duties) and (Sales Tax)] – [One one-hundred-and-twentieth (1/120) of the difference × Number of months/part of months the vessel remains in Canada]**
+
+This means:
+- First, the difference between the total customs duties and the total sales tax is determined.
+- Then, a portion of that difference is **deducted for each month** (or partial month) the vessel remains in Canada.
+- The **final remittance** is the **remaining balance** after this deduction.
+
+> Example:  
+> If the difference between customs duties and sales tax is $100,000, and the vessel remains in Canada for 6 months:  
+> Remission = $100,000 – (1/120 × $100,000 × 6) = $100,000 – $5,000 = **$95,000**
+
+This structure ensures that the remission is **proportional to the duration** of the vessel’s stay in Canada, thereby preventing excessive refunds for long-term stays while still providing relief for temporary use.
+
+---
+
+### **4. Conditions for Eligibility of Remission**
+
+Remission is **only granted** if **all of the following conditions are met**:
+
+#### **Condition 1: Service Requirement and Availability of Suitable Vessels**
+
+- **For Canadian-registered vessels:**  
+  No suitable **Canadian-registered and Canadian-built** vessel (or a Canadian-registered vessel that is Canadian-built) is available to perform the same service that the vessel is required to perform.
+
+- **For foreign-registered vessels:**  
+  No suitable **Canadian-registered vessel** is available to perform the same service.
+
+> This ensures that the remission is only available when there is a genuine need for a vessel that cannot be replaced by a Canadian-owned or Canadian-built vessel—protecting national interests and ensuring equitable access to maritime services.
+
+#### **Condition 2: Export or Removal Beyond Territorial Sea**
+
+- The vessel must be **exported** (i.e., removed from Canadian territory) **before the end of the temporary importation period** specified in Column III of the Schedule.
+
+> **Exception:**  
+> If the vessel is subject to a **conditional exemption** under the *Customs and Excise Offshore Application Act*, it may be removed **beyond the territorial sea** (i.e., into international waters) instead of being exported.
+
+> This provision allows flexibility for vessels operating in offshore or maritime zones where full export is not feasible.
+
+#### **Condition 3: Proof of Export**
+
+- Where the vessel is **exported**, the **exporter must submit proof of export** to the **Deputy Minister of National Revenue**.
+
+> This requirement ensures accountability and verifies that the vessel has actually left Canada, preventing misuse or fraudulent claims.
+
+#### **Condition 4: Re-admission and Recalculation of Duties and Taxes**
+
+- If the vessel is **re-admitted into Canada** after its temporary importation period and:
+  - No other remission order or regulation under the *Customs Tariff* applies to it,
+  
+  Then, upon re-admission:
+  - The **customs duties** and **sales tax** that would otherwise be assessed will **not include** the following amounts:
+    1. The amount of customs duties and sales tax **already paid** (as listed in Column IV of the Schedule),
+    2. The amount of customs duties and sales tax **remitted** (as listed in Column V of the Schedule),
+    3. Any other amount of duties or taxes **paid or payable** in respect of which a remission order applies.
+
+> This prevents double taxation or overcharging when the vessel returns to Canada. It effectively **excludes previously paid or remitted amounts** from future duty calculations.
+
+---
+
+### **5. Key Principles and Implications**
+
+| Principle | Explanation |
+|--------|-------------|
+| **Proportional Remission** | The refund is not a flat amount but scales with time—reflecting the temporary nature of the import. |
+| **Public Interest Justification** | The Order is only enacted when it serves a clear public interest—e.g., national emergency, critical transport needs. |
+| **Service Justification** | Only vessels required to perform essential services and lacking suitable Canadian alternatives qualify. |
+| **Accountability & Verification** | Proof of export is required to prevent abuse or non-compliance. |
+| **Prevention of Double Taxation** | Previously paid or remitted taxes are not counted again upon re-entry, ensuring fiscal integrity. |
+
+---
+
+### **6. Practical Applications**
+
+This Order is typically applied in situations such as:
+
+- **Emergency response vessels** (e.g., during natural disasters or maritime emergencies)
+- **Temporary trade or transport vessels** (e.g., for short-term cargo movement)
+- **Maritime research or exploration vessels** operating temporarily in Canadian waters
+- **Vessels used in border or security operations**
+
+In these cases, the vessel may be imported temporarily, perform its function, and then be exported—without being permanently registered or taxed in Canada.
+
+---
+
+### **7. Regulatory Context**
+
+This Order operates under the broader framework of:
+- **Financial Administration Act** (providing authority for financial remissions)
+- **Customs Tariff** (determines duties)
+- **Excise Tax Act** (determines sales tax)
+- **Customs and Excise Offshore Application Act** (provides for exemptions in offshore operations)
+
+It is part of a series of **temporary importation remission orders** designed to balance fiscal responsibility with operational necessity in the maritime sector.
+
+---
+
+### **Conclusion**
+
+The **Temporary Importation of Vessels Remission Order, No. 9** provides a **targeted, time-limited, and conditionally based mechanism** for refunding customs duties and sales tax for vessels temporarily imported into Canada. It ensures that:
+- Vessels are only remitted when essential services cannot be provided by Canadian alternatives,
+- The financial burden is proportional to the duration of stay,
+- Export compliance is verified,
+- And no double taxation occurs upon re-entry.
+
+This Order reflects a pragmatic approach to fiscal policy in the context of national economic and operational needs, particularly in the maritime and emergency sectors.
+
+--- 
+
+**End of Summary**

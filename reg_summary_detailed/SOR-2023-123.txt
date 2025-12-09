@@ -1,0 +1,183 @@
+**Detailed Summary of the Vaping Products Reporting Regulations**
+
+---
+
+### **Overview**
+
+The *Vaping Products Reporting Regulations* are a regulatory framework established under **Section 7.8a of the Tobacco and Vaping Products Act (TVP Act)**, as amended by *S.C. 2018, c. 9, s. 12* and *S.C. 1997, c. 13*. These regulations mandate **transparency and accountability** in the production, sale, and distribution of vaping products in Canada. They require manufacturers to report detailed information about their vaping products—including ingredients, sales volumes, and geographic distribution—to the **Minister of Mental Health and Addictions** (in consultation with the Associate Minister of Health).
+
+These regulations are designed to:
+- Improve public health oversight of vaping products,
+- Enable effective monitoring of product safety and composition,
+- Support policy development related to youth access, nicotine exposure, and market regulation,
+- Ensure compliance with federal excise duties and product labeling standards.
+
+---
+
+## **Key Definitions**
+
+The regulations define key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Tobacco and Vaping Products Act*. |
+| **Assortment** | A package containing two or more types of vaping products, or two or more brands of the same type with different characteristics (e.g., flavours, nicotine levels). |
+| **Civic Address** | Full address details (unit, number, street, municipality, province/state, postal code/country) for addresses in or outside Canada. |
+| **GTIN** | Global Trade Item Number assigned by GS1 to identify a brand or assortment. |
+| **Manufacturer** | Excludes entities that only package, label, or distribute products on behalf of a manufacturer. |
+| **Net Sales** | Total sales value minus returns during a specified period. |
+| **Net Volume** | Total volume of vaping substance sold minus returns. |
+| **Unique Product Identifier (UPI)** | Either the GTIN or an alphanumeric code (≤10 characters) for brands without GTIN. |
+| **Vaping Device** | Devices that generate aerosol (e.g., e-cigarettes), as defined in Section 2 of the TVP Act. |
+| **Vaping Part** | Components such as tanks, cartridges, pods, or batteries. |
+| **Vaping Substance** | The liquid or aerosol contained in devices (e.g., e-liquids). |
+
+---
+
+## **Scope of Application**
+
+### **Products Covered**
+The regulations apply to all vaping products intended for **retail sale**, including:
+
+1. **Vaping parts** that:
+   - Contain or are intended to contain a source of energy (e.g., batteries),
+   - Are reservoirs (e.g., tanks, cartridges) with aerosol-generating components,
+   - Contain microprocessors.
+
+2. **Vaping devices** that:
+   - Do not contain a vaping substance,
+   - Contain a vaping substance.
+
+3. **Vaping substances** (e-liquids).
+
+4. **Assortments** of the above products intended for retail sale.
+
+> ⚠️ **Exclusions**:
+> - Products covered by a **Food and Drugs Act authorization** (e.g., licenses for specific products),
+> - Assortments that include a vaping product already authorized under the Food and Drugs Act.
+
+---
+
+## **Mandatory Reporting Requirements**
+
+Manufacturers must submit two primary reports:
+
+---
+
+### **1. Report on Sales**
+
+#### **General Requirements**
+- Must include:
+  - Name, contact info (phone, email), and civic address of the manufacturer’s principal place of business in Canada.
+  - Name, contact info, and address of the individual who prepared the report (or their employer if not employed by the manufacturer).
+  - Date of submission and a sworn attestation that all information is true, complete, and provided in good faith.
+  - The reporting period (e.g., Jan 1 – Jun 30 or Jul 1 – Dec 31).
+
+#### **For Individual Brands (not in an assortment)**
+
+For each brand sold during the reporting period:
+
+| Information Required |
+|---------------------|
+| Unique product identifier (UPI) |
+| Type of vaping product |
+| Brand name or brand family name |
+| Number of units per package (if packaged) |
+| Any distinguishing brand elements (e.g., "Mint," "Limited Edition") |
+| For products containing vaping substance: |
+| - Name of the vaping substance |
+| - Dominant flavour (from a scheduled list), or "Other" or "Unflavoured" if not listed |
+| - Nicotine concentration (mg/mL) |
+| - Volume of vaping substance per unit (mL) |
+
+#### **For Sales and Returns (by province, Canada, and export)**
+
+| Product Type | Reporting Details |
+|------------|-------------------|
+| **Packaged products (not in assortment)** | - Number of packages sold/returned in each province, Canada, and for export <br> - Returns per category (e.g., defective, returned by customer) |
+| **Unpackaged products (e.g., single units)** | - Number of units sold/returned in each province, Canada, and for export |
+| **Sold in Canada** | - Net sales value (excluding taxes) by province and Canada <br> - Total vaping duty and additional vaping duty paid (on sales minus returns) |
+| **Sold for export** | - Name of destination country <br> - Net sales value in Canadian dollars |
+| **All types** | - Net volume (in litres) of vaping substance sold per province, Canada, and export |
+
+#### **For Assortments**
+
+| Information Required |
+|---------------------|
+| Unique product identifier |
+| Brand name or family name |
+| Distinguishing descriptive terms |
+| Description of contents: <br> - Brand name of each included vaping product <br> - Name of vaping substance <br> - Total volume (mL) of vaping substance in the assortment |
+
+| Sales and Returns Reporting |
+|----------------------------|
+| - Number of assortments sold/returned per province, Canada, and export |
+| - For assortments sold in Canada: <br> Net sales value (excl. taxes) by province and Canada <br> Total vaping duty and additional duty (on sales minus returns) |
+| - For assortments sold for export: <br> Name of destination country <br> Net sales value (CAD) |
+
+> ✅ All reports must be in **English or French**.
+
+---
+
+### **2. Report on Ingredients**
+
+#### **Applicability**
+- Required for **each brand of vaping product sold in Canada**, including those in assortments.
+- **Exempt** if the product is manufactured **solely for export**.
+
+#### **Information Required for Each Brand**
+
+| Item | Details |
+|------|--------|
+| Unique product identifier |
+| Brand name or brand family name |
+| Distinguishing brand elements |
+| Name of the vaping substance |
+| Dominant flavour: <br> - From a scheduled list, or <br> - "Other" if not listed, or <br> - "Unflavoured" if applicable |
+| Nicotine concentration (mg/mL), if any |
+
+#### **For Each Ingredient Used in the Vaping Substance**
+
+| Requirement | Description |
+|-----------|-------------|
+| Common name | E.g., propylene glycol |
+| Chemical name | If applicable |
+| CAS Registry Number | Chemical Abstracts Service number |
+| Supplier name and civic address | Full contact details |
+| Concentration | In mg/mL or mL/mL |
+| For nicotine specifically | Indicate whether it is natural, synthetic, or a mixture |
+
+> 🔍 **If more than one substance is used in manufacturing an ingredient**:
+> - Full ingredient details must be reported for each substance and for any substances used in their manufacture.
+> - The **ingredient supplier** may submit this information on behalf of the manufacturer.
+
+> ✅ **Identical substances** are defined as those with **the same ingredients in the same concentrations** — even across different brands or in assortments.
+
+> 📌 **Exception**: If two brands contain the same vaping substance, the manufacturer may submit a single ingredients report containing only the basic information (brand name, UPI, flavour, nicotine) for both brands — **provided the substance is identical**.
+
+---
+
+### **Submission Requirements**
+
+#### **Forms**
+- Reports must be submitted using **official forms established by the Minister**:
+  - **Sales Report for Vaping Products** (as amended)
+  - **Ingredients Report for Vaping Products** (as amended)
+- **Supplier supplements** (for ingredients with multiple substances) use:
+  - *Supplemental Ingredients Report for Vaping Products (Suppliers)*
+
+#### **Submission Method**
+- Reports must be **submitted via email**.
+- Attach the **official form** to the email.
+
+#### **Submission Deadlines**
+
+| Report | Deadline |
+|-------|----------|
+| **Initial Sales Report** | Within the time limit set in subsection (6) for the first full period after the regulations come into force |
+| **Annual Sales Reports** | <br> - For Jan 1 – Jun 30: by **July 31** <br> - For Jul 1 – Dec 31: by **January 31** of the next year |
+| **First Ingredients Report** | By **December 31, 2023**, for all brands sold from the date of regulation enforcement to December 31, 2023 |
+
+> 🚨 **Change Notification Requirement**
+> - If there are changes to product information (e.g., new flavour, nicotine level, ingredient), a **Notification of Change** must be submitted:
+>   - Before the first sale of the modified product.

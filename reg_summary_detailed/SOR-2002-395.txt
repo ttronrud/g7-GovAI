@@ -1,0 +1,142 @@
+Certainly. Below is a **detailed, comprehensive, and structured summary** of the **CCRFTA Rules of Origin Regulations**, as referenced in your query.
+
+---
+
+## 📚 **Detailed Summary of the CCRFTA Rules of Origin Regulations**  
+*Enacted under S.C. 2001, c. 28, s. 34(1); pursuant to S.C. 1997, c. 36*  
+*Based on the Canada–Costa Rica Free Trade Agreement (CCRFTA)*
+
+---
+
+### 🔍 **Overview**
+
+The **CCRFTA Rules of Origin Regulations** establish the criteria under which goods can be deemed "originating" for tariff treatment under the **Canada–Costa Rica Free Trade Agreement (CCRFTA)**. These rules determine whether a product qualifies for preferential tariff treatment—such as reduced or zero tariffs—when traded between Canada and Costa Rica.
+
+Originating goods are those that meet specific production and material requirements, ensuring that trade benefits are only granted to products substantially produced within the CCRFTA territory (Canada or Costa Rica).
+
+---
+
+## 📌 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Agreement** | The Canada–Costa Rica Free Trade Agreement (CCRFTA) |
+| **CCRFTA country** | Canada or Costa Rica |
+| **Customs Valuation Agreement** | Agreement on Implementation of Article VII of GATT 1994 (Annex 1A of Uruguay Round Final Act) |
+| **Excluded costs** | Sales promotion, marketing, after-sales service, royalties, shipping/packing, and non-allowable interest |
+| **Fungible goods/materials** | Interchangeable for commercial purposes with identical properties |
+| **Identical goods** | Same in all respects (physical, quality, reputation), produced in same country by same or another producer |
+| **Indirect material** | Used in production, testing, or maintenance but not physically incorporated (e.g., fuel, tools, lubricants) |
+| **Intermediate material** | Material produced by a producer and used in the production of that good |
+| **Material** | Any good used in the production of another good (part or ingredient) |
+| **Net cost** | Total cost minus excluded costs (e.g., marketing, interest) |
+| **Net cost of a good** | Net cost reasonably allocated to the good using methods in subsection 4(6) |
+| **Non-allowable interest costs** | Interest > 700 basis points above national government interest rate for comparable maturities |
+| **Non-originating good/material** | Does not meet origin requirements |
+| **Originating good/material** | Meets origin requirements |
+| **Producer** | Person who grows, mines, harvests, fishes, hunts, manufactures, processes, or assembles a good |
+| **Production** | Any of the above activities |
+| **Royalties** | Payments for use of IP (patents, trademarks, designs), *excluding* training or engineering services performed in CCRFTA territory |
+| **Sales promotion, marketing & after-sales service costs** | Includes advertising, incentives, salaries, travel, training, insurance, office supplies, and warranty repairs |
+| **Shipping and packing costs** | Costs to pack and ship goods from point of origin to buyer; excludes retail packaging |
+| **Similar goods** | Not identical but functionally interchangeable, produced in same country by same or another producer |
+| **Tariff provision** | A heading or subheading in the Harmonized System (HS) |
+| **Territory** | As defined in the CCRFTA Implementation Act (subsect. 2(1)) |
+| **Total cost** | Sum of all product and period costs incurred in CCRFTA territory |
+| **Transaction value** | Price actually paid or payable, adjusted per GATT Article 8; if unavailable, value determined under Articles 2–7 of Customs Valuation Agreement |
+| **Used** | Used or consumed in the production of a good |
+
+> **Harmonized System (HS) references**:  
+> - *Chapter* = 2-digit HS code  
+> - *Heading* = 4-digit HS code  
+> - *Subheading* = 6-digit HS code  
+
+> **Accounting Requirement**: All costs must be recorded in accordance with **Generally Accepted Accounting Principles (GAAP)** in the CCRFTA country where production occurs.
+
+---
+
+## ✅ **When Does a Good Originate?**
+
+A good originates in the territory of a CCRFTA country if it meets **one or more** of the following conditions:
+
+---
+
+### 1. **Automatic Origin (No Production Requirement)**  
+Goods originate **automatically** if they are:
+
+| Category | Description |
+|--------|-------------|
+| **Mineral or non-living natural resources** | Extracted in or taken from the territory of Canada or Costa Rica |
+| **Vegetables** | Harvested in the territory |
+| **Live animals** | Born and raised entirely in the territory |
+| **Goods from live animals** | Obtained from live animals raised in the territory |
+| **Hunting/fishing products** | Obtained from hunting or fishing in the territory |
+| **Marine life** | Fish, shellfish, or marine life taken from sea/seabed/subsoil **outside** CCRFTA territory by a vessel: <br> - Registered/recorded/listed with a CCRFTA country, or <br> - Leased by a CCRFTA company, or <br> - Not exceeding 15 tons gross tonnage and licensed by a CCRFTA country |
+| **Production on factory ships** | Goods produced on board a factory ship (from marine life) if the ship is registered/leased by a CCRFTA entity and flies its flag |
+| **Seabed/subsoil extraction** | Goods extracted from continental shelf or EEZ (or beyond) by a CCRFTA-registered vessel flying its flag |
+| **Outer space goods** | Obtained by a CCRFTA country/person and not processed outside CCRFTA territories |
+| **Waste/scrap** | Derived from production or used goods collected in the territory, and is fit only for raw material recovery |
+| **Produced from originating materials** | Produced entirely in the territory from originating materials (e.g., from minerals, plants, animals) or their derivatives at any stage |
+
+> ⚠️ **Note**: These goods do **not** require a change in tariff classification or regional value content to qualify as originating.
+
+---
+
+### 2. **Change in Tariff Classification + Regional Value Content Requirement**
+
+A good originates if:
+
+- Each **non-originating material** used in its production undergoes an **applicable change in tariff classification** due to production in the CCRFTA territory; **AND**
+- The applicable rule in **Schedule I** specifies:
+  - Only a change in tariff classification (and all other requirements are met), **OR**
+  - Both a change in tariff classification **and** a regional value-content requirement (and all other requirements are met)
+
+> This means that even if some materials are imported, the final product must be classified differently in the HS than the raw inputs.
+
+---
+
+### 3. **Produced Entirely from Originating Materials**
+
+A good originates if:
+
+- It is produced **entirely** in the territory of one or both CCRFTA countries;
+- **Exclusively** from **originating materials** (i.e., materials that themselves qualify as originating).
+
+> This is the highest standard of origin—no non-originating materials are used.
+
+---
+
+### 4. **General Rule for Goods (with Exceptions)**
+
+For most goods (excluding Chapters 39, 50–63), a good originates if:
+
+| Requirement | Description |
+|-----------|-------------|
+| ✅ Production | Entirely produced in the territory of one or both CCRFTA countries |
+| ✅ Non-originating materials | Either: <br> - Do **not** undergo a change in tariff classification (same heading/subheading, and not subdivided), **OR** <br> - Undergo an applicable change in classification |
+| ✅ Regional value content | Must meet minimum threshold: <br> - **35%** if transaction value method is used <br> - **25%** if net cost method is used <br> *(unless Schedule I specifies a different threshold)* |
+| ✅ All other requirements | The good must satisfy all other applicable requirements |
+
+> 🔍 **How to determine heading/subheading match?**  
+> Use **General Rules for Interpretation of the Harmonized System** and relevant **Chapter Notes**.
+
+---
+
+### 5. **10% Rule (for Non-Change in Classification)**
+
+If non-originating materials do **not** undergo a change in tariff classification (same heading/subheading), the good originates **provided**:
+
+- The **value** of those non-originating materials ≤ **10%** of the **transaction value** of the good, **adjusted to F.O.B. basis**  
+- **AND** the good satisfies all other requirements
+
+> ⚠️ **Important**: If the good has a regional value-content requirement, the value of those non-originating materials **must be included** in the regional value content calculation.
+
+> ❗ **Exception**: This rule **does not apply** to non-originating materials used in goods from **Chapters 1–21**, unless the material is in a **different subheading** than the good.
+
+---
+
+### 6. **Special Rule for Fibres/Yarns in Chapters 50–63**
+
+For goods in **Chapters 50 through 63** (e.g., textiles, apparel):
+
+- If certain **fibres or yarns** used in the component determining tariff classification **do not undergo a change in classification**, the

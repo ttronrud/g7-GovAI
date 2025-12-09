@@ -1,0 +1,198 @@
+**Detailed Summary of the Aquaculture Activities Regulations (SOR/2014-91)**
+
+---
+
+### **Overview**
+
+The *Aquaculture Activities Regulations* (SOR/2014-91), made under **section 36(5.2)b of the Fisheries Act** (c. F-14), are a set of detailed federal rules governing the **deposit of deleterious substances** in aquaculture operations. These regulations were issued by the **Minister of Fisheries and Oceans** on **June 26, 2015**, following a formal process under the *Fisheries Act* and its enabling provisions.
+
+These regulations apply to **all aquaculture facilities in Canada** that cultivate fish, and they establish **strict conditions** for the use of drugs, pest control products, and biochemical oxygen-demanding (BOD) matter — substances that can harm fish and their habitats — particularly in **tidal waters**.
+
+---
+
+## **Key Objectives**
+
+1. **Protect fish and fish habitat** from adverse impacts caused by the deposition of potentially harmful substances.
+2. **Ensure transparency and accountability** through monitoring, reporting, and notification requirements.
+3. **Promote environmentally responsible aquaculture practices**, especially in ecologically sensitive areas like tidal zones.
+4. **Balance aquaculture development with environmental protection**, by requiring risk mitigation and alternatives assessments.
+
+---
+
+## **Core Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Fisheries Act* (c. F-14). |
+| **Aquaculture** | The cultivation of fish. |
+| **Aquaculture Licence** | Includes federal or provincial licenses/leases for aquaculture operations. |
+| **Barren Substrate** | Benthic substrate (seabed) with no visible organisms. |
+| **Biochemical Oxygen Demanding Matter (BOD)** | Organic material that consumes dissolved oxygen in water or sediment. |
+| **Monitoring Standard** | A technical standard developed and maintained by the Department of Fisheries and Oceans (DFO), used to guide environmental assessments and monitoring. |
+
+---
+
+## **Deleterious Substances and Their Use**
+
+The following substances are classified as **deleterious** and must be deposited only under strict conditions:
+
+### 1. **Drugs**
+- Drugs permitted or authorized under the *Food and Drugs Act*.
+- **Requirements**:
+  - Must be prescribed by a **veterinarian authorized under provincial law**.
+  - If not located in a province, the prescription must be from a veterinarian in any province.
+  - The owner/operator must **minimize accidental release**.
+  - Before depositing, they must **consider alternatives** and **record this consideration**.
+
+### 2. **Pest Control Products**
+- Must be **registered** under the *Pest Control Products Act* (PCPA), or:
+  - Authorized under **subsection 21(5)** or **41(1)** of the PCPA, or
+  - Exempted under **paragraph 67(1)(z.4)** of the PCPA.
+- **Requirements**:
+  - Must be used **in compliance with all conditions** (e.g., usage location, quantity, concentration).
+  - Must **consider alternatives** and **record the assessment**.
+  - Must **notify the Minister at least 72 hours before** any deposit, including:
+    - Product name
+    - Date, time, and geographic coordinates of deposit
+
+### 3. **Biochemical Oxygen Demanding Matter (BOD)**
+- Includes fish feces and unconsumed feed.
+- Must be deposited **only under conditions that minimize harm** to fish and habitats.
+
+---
+
+## **Environmental Protection Measures**
+
+### **General Requirement (Section 4–14)**
+- Owners/operators must take **reasonable measures** to minimize harm to fish and fish habitat **outside the facility**, considering:
+  - Cost and effectiveness of available mitigation measures
+  - Degree and nature of potential harm
+  - Physical characteristics of the facility and aquaculture type
+
+### **For Facilities with High Biomass (>2.5 t standing or >5 t annual production)**
+- Must take **additional measures** to minimize deposition of:
+  - Fish feces
+  - Unconsumed feed
+
+---
+
+## **Pre-Deposit Environmental Assessment (Tidal Finfish Facilities)**
+
+**Applies to finfish aquaculture facilities in tidal waters** that begin operations **after June 26, 2015**.
+
+### **Mandatory Pre-Deposit Information Submission (within 300 days of operation start)**
+
+Must submit to the Minister:
+1. **Predicted footprint of BOD** (calculated using the *Monitoring Standard*)
+2. **Seabed survey** identifying fish and fish habitat (in water column and on seabed)
+3. **Bathymetry** (seabed depth) of leased area
+4. **Additional soft-bottom data** (if applicable)
+
+> **Exception**: Facilities with a maximum standing biomass ≤2.5 t or annual production ≤5 t are **exempt**.
+
+### **If Operations Begin Within 300 Days of Regulation Coming Into Force**
+- Must submit the required information **within 30 days** of commencement.
+
+### **If a Permit Application is Approved That Would Increase BOD Footprint**
+- Must conduct required studies and submit the information within **30 days** of application approval.
+
+> **Note**: The studies must be conducted **in accordance with the Monitoring Standard**.
+
+---
+
+## **Free Sulfide Monitoring (Soft Bottom Tidal Facilities)**
+
+Applies to finfish facilities in **tidal waters** in or adjacent to:
+
+- Quebec, Nova Scotia, New Brunswick, Prince Edward Island, Newfoundland and Labrador
+- British Columbia
+
+### **Mandatory Sulfide Sampling**
+- Must take benthic substrate samples at specified times and locations per the Monitoring Standard.
+- Must determine **free sulfide concentration**.
+
+### **Exemption Thresholds**
+- **Quebec, NS, NB, PEI, NL**: If mean free sulfide > **3000 µM** → **no restocking allowed**
+- **BC**: 
+  - >1300 µM at 30 m from structure → no restocking
+  - >700 µM at 125 m from structure → no restocking
+
+> **"Restocking"** refers to adding new fish to the facility.
+
+### **Visual Monitoring as Alternative**
+If samples cannot be obtained (e.g., sediment depth <5 cm or volume <15 ml, disturbed interface), the owner may conduct **visual monitoring** instead.
+
+#### **Visual Monitoring Rules**
+- **Quebec, NS, NB, PEI, NL**:
+  - If **>70%** of monitored locations show:
+    - *Beggiatoa* species or similar bacteria
+    - Marine worms
+    - Barren substrate → **no restocking**
+- **British Columbia**:
+  - If **≥10% coverage** of:
+    - Any four segments (100–124 m from structure), OR
+    - Two contiguous segments (116–124 m) and two or more (124–140 m) → **no restocking**
+
+---
+
+## **Notification Requirements**
+
+### **To the Minister**
+- **Sulfide or biological thresholds exceeded** (as per above)
+- **Presence of Beggiatoa, marine worms, or barren substrate** beyond thresholds
+- **Within 14 days** of:
+  - Sample collection
+  - Visual monitoring completion
+
+### **To a Fishery Officer (Emergency Notification)**
+- If **fish morbidity or mortality** is observed **within 96 hours** of a drug or pest control product deposit:
+  - Must immediately notify the officer with:
+    - Facility name and operator
+    - Geographic coordinates of affected fish
+    - Estimated number and species of fish
+    - Product name and date of deposit
+
+---
+
+## **Ministerial Directions and Compliance**
+
+- If the Minister directs the owner/operator to take **measures under section 36(6)** of the *Fisheries Act* (e.g., to reduce harm to wild fish), and the direction relates to a prior notification (e.g., about sulfide or biological issues), the owner must:
+  - **Cease depositing** the drug or pest control product
+  - Comply with the Minister’s directions before resuming deposits
+
+---
+
+## **Annual Reporting Requirements**
+
+### **What Must Be Included**
+Each annual report must contain:
+- For every drug or pest control product deposit:
+  - Product name or active ingredients
+  - Purpose of deposit
+  - Date, quantity, and coordinates
+  - Record of consideration of alternatives
+- Description of any mitigation measures taken (e.g., to reduce BOD or harm)
+- Free sulfide concentrations (if applicable)
+- Visual monitoring data (if required)
+- Information on any fish morbidity/mortality notifications
+
+### **Submission Deadline**
+- Must be submitted **on or before April 1** of the year following the reporting year.
+
+### **Retention**
+- A copy must be **retained at the facility for two years** after submission.
+
+> **Note**: No information before the regulation’s coming into force is required to be included.
+
+---
+
+## **Prescribed Activities (Under Section 35(2)(a) of the Fisheries Act)**
+
+The following activities are **prescribed** (i.e., subject to regulation):
+
+1. **Installation, operation, maintenance, or removal** of aquaculture facilities
+2. **Measures to control biofouling or fish pathogens/pests**
+
+### **Conditions for These Activities**
+- Must be conducted under a valid aquaculture licence
+-

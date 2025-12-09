@@ -1,0 +1,185 @@
+### **Detailed Summary of the Regulation: Determining the Value of Imported Goods (S.C. 1990, c. 45, s. 12)**
+
+This regulation, made under subsection 277(1) of the *Excise Tax Act*, establishes specific formulas and procedures for determining the **value of goods imported under certain temporary or exempt circumstances**. The primary purpose is to ensure that excise duties and customs duties are appropriately assessed in situations where full duty payment would not be required due to temporary importation, remission, or processing.
+
+The regulation was originally enacted in 1990 and has since undergone several amendments and repeals, with key updates reflecting changes in trade and tax policy. It is now **repealed in part (SOR/2002-277, s. 9)**, meaning that **only the surviving provisions remain in force**, particularly those related to temporary imports, processing, and specific types of goods such as vessels, software, and qualifying vehicles.
+
+---
+
+## **1. Key Definitions**
+
+Before applying the formulas, the regulation defines key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Excise Tax Act* |
+| **Canadian customs waters** | As defined in the *Vessel Duties Reduction or Removal Regulations* |
+| **Carrier media** | Goods capable of storing software (e.g., CDs, hard drives) |
+| **Process** | Includes adjustment, assembly, maintenance, manufacture, repair, packaging, testing, etc. |
+| **Qualifying vehicle** | Same meaning as in the *Non-Taxable Imported Goods (GST/HST) Regulations* |
+| **Remaining duties payable** | Total customs, excise, and excise taxes not yet remitted, removed, relieved, or reduced |
+| **Software** | Instructions or data processed by data processing equipment |
+| **Value for duty** | As defined in the *Customs Act* |
+| **Vessel** | As defined in the *Vessel Duties Reduction or Removal Regulations* |
+
+> **Note**: Some terms (e.g., "month") are clarified to mean the number of full or partial months/weeks included in a period, with the first day of the first month/week being the start of the period.
+
+---
+
+## **2. Purpose and Legal Basis**
+
+- The regulation applies to **temporary imports** where duties or taxes are reduced, remitted, or otherwise waived.
+- It is based on **subsection 215(2) of the Excise Tax Act**, which allows for a specific method of determining value when duties are reduced or remitted.
+- The formulas ensure that **the value of goods is not simply their market value**, but is adjusted based on the **duration of stay in Canada** and the **duties that remain payable**.
+
+---
+
+## **3. Core Formulas by Type of Import**
+
+### **A. Goods Imported Under Temporary Importation Regulations (Items 19, 22, 25, 28, 29, 34, 37, 50, 51, 55, 56 or 4, 10, 13, 45, 48 for non-residents)**
+
+> Applies when goods are temporarily imported and meet the conditions of the *Temporary Importation (Excise Levies and Additional Duties) Regulations*.
+
+**Formula:**
+> Value = (Value for duty of goods) × (Number of months in Canada) / (Remaining duties payable)
+
+- **Purpose**: To calculate the value of goods based on their duty value and time in Canada, proportionally adjusting for the duties that would have otherwise been due.
+
+> **Note**: If the regulations do not apply, the same formula applies if the conditions (except security) would have applied.
+
+---
+
+### **B. Vessels Temporarily Imported Under Section 3 of Vessel Duties Reduction or Removal Regulations**
+
+**Formula:**
+> Value = (Value for duty of vessel) × (Number of months in Canadian customs waters) / (Remaining duties payable)
+
+- Applies when the vessel is temporarily imported under section 3 of the vessel regulations (e.g., for short-term use).
+
+---
+
+### **C. Vessels Under Paragraph 11(a) of Vessel Duties Reduction or Removal Regulations**
+
+**Formula:**
+> Value = (Value for duty of vessel) × (Number of months under paragraph 11(a)) / (Remaining duties payable)
+
+- Applies when the vessel is imported under a specific temporary use condition (e.g., for inspection or repair).
+
+---
+
+### **D. Vessels Under Paragraph 11(b)**
+
+**Formula:**
+> Value = (Value for duty of vessel) × (Number of months under paragraph 11(b)) / (Remaining duties payable)
+
+- Similar to (C), applies to another type of temporary use condition.
+
+---
+
+### **E. Vessels Under Section 13 or 14 of Vessel Duties Reduction or Removal Regulations (Repairs or Modifications)**
+
+**Formula:**
+> Value = (Value of repairs/modifications) × (Remaining duties payable)
+
+- Applies when a vessel is imported for repair or modification under these regulations.
+- The value is based solely on the **cost of the work done**, not the vessel’s original value.
+
+---
+
+### **F. Carrier Media with Software (e.g., CDs, hard drives)**
+
+> Applies when software is stored on carrier media and tax is payable on a supply of the right to use the software in Canada.
+
+**Formula:**
+> Value = (Value for duty of carrier media + software) − (Value of software)
+
+- The value of the carrier media is reduced by the value of the software, reflecting that the software is the core taxable component.
+- This prevents double taxation on software when it is imported with physical media.
+
+---
+
+### **G. Locomotives or Miscellaneous Railway Equipment (Under Order P.C. 1953-18/894)**
+
+**Formula:**
+> Value = (Value for duty of equipment) × (Number of months in Canada) / (Remaining duties payable)
+
+- Applies when customs duties are partially remitted under a specific Order in Council.
+
+---
+
+### **H. Railway Rolling Stock Temporarily Diverted (Under Order No. 4)**
+
+**Formula:**
+> Value = (Monthly rental charge) × (Number of months of temporary use) / (Remaining duties payable)
+
+- Used when rolling stock is diverted for temporary use in Canada.
+- Value is based on **rental income**, not market value.
+
+---
+
+### **I. Railway Rolling Stock Under Code 2338 of Schedule II to Customs Tariff**
+
+**Formula:**
+> Value = (Average monthly rental charge) × (Number of months of temporary use) / (Remaining duties payable)
+
+- Applies when rolling stock is temporarily used in Canada and becomes subject to duties due to that use.
+- Uses **average rental charge** to reflect ongoing operational value.
+
+---
+
+### **J. General Case – Duty Reduction, Remission, or Relief under Parliamentary Acts or Regulations**
+
+> Applies when duties are reduced, removed, relieved, or remitted under any Act of Parliament or regulation.
+
+**Formula:**
+> Value = (Value for duty of goods) × (Remaining duties payable)
+
+- A general formula for all such cases where duties are waived or reduced.
+
+---
+
+### **K. Goods Processed Abroad and Re-imported (Exported Goods → Processed Goods)**
+
+> Applies to goods exported for processing, then re-imported as processed goods.
+
+**Conditions:**
+- Goods were **not last imported** under:
+  - A situation where tax (calculated under these regulations) was payable,
+  - Where goods were prescribed under Non-Taxable Imported Goods (GST/HST) Regulations (excluding paragraphs 3(j) and (k)),
+  - Where the importer was entitled to a rebate under section 215.1 of the Act,
+  - Or, if imported before 1991: where tax under Part VI of the Act was not payable or relief was granted.
+- Goods must be **exported within a certain period**.
+- A supply of the goods (exported or processed) must have been made **outside Canada** to a recipient entitled to a rebate under section 252 of the Act, or included in Part V of Schedule VI.
+
+**Formula:**
+> Value = (Value of processing + value of any added goods) × (Remaining duties payable)
+
+- The value includes the **cost of processing and any new components added** during processing.
+
+---
+
+### **L. Temporary Importation of Buses or Aircraft under Lease (Non-Resident Lessor)**
+
+> Applies when a bus or aircraft is leased from a non-resident lessor at arm’s length.
+
+**Conditions:**
+- The conveyance is imported on a particular day.
+- It is exported **on or before**:
+  - 24 months after the import date, **or**
+  - The termination of the lease (whichever comes first).
+- The **cumulative months** of use under the lease do not exceed 24.
+- The lessee obtained **written authorization from the Minister** before the import date to use this formula.
+
+**Formula:**
+> Value = (Value for duty of conveyance) × (Number of months from import to first export after the particular day) / (Remaining duties payable)
+
+- Value is tied to the **duration of temporary use** and the **duty remaining**.
+
+---
+
+### **M. Qualifying Vehicles (Personal Use, Temporary Import)**
+
+> Applies to individuals who import a qualifying vehicle for personal use (not commercial), and export it within 30 days.
+
+**Conditions:**
+- The vehicle is **not accounted for as a commercial good** under section 3

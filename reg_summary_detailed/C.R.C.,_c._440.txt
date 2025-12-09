@@ -1,0 +1,66 @@
+**Detailed Summary of the Protection of Privacy Regulations (Relevant Provision)**
+
+**Regulation Title:**  
+*Protection of Privacy Regulations*  
+(Referenced as: "These Regulations may be cited as the Protection of Privacy Regulations")
+
+---
+
+**Purpose of the Provision:**  
+This section of the Regulations implements a procedural requirement under subsection 178.23(1) of the *Criminal Code of Canada* regarding the **certification of notice given in connection with authorized surveillance** (specifically, interception of communications). It ensures that when a notice is given to a person under the authority of a court authorization for surveillance, a formal certificate is filed with the court to document key details of that notice.
+
+---
+
+**Key Provisions and Requirements:**
+
+1. **Who Must Certify:**  
+   The certification must be provided by either:
+   - The **Attorney General of a province**, if the notice was given by that provincial Attorney General, or  
+   - The **Solicitor General of Canada**, if the notice was given by him.
+
+2. **When Certification is Required:**  
+   The certification is required **immediately upon giving the notice** under subsection 178.23(1) of the *Criminal Code*, which governs the giving of notice to the person subject to surveillance (the "object of the interception").
+
+3. **Content of the Certificate:**  
+   The certificate must include the following specific information:
+   - **Name and address** of the person who was the object of the interception (i.e., the individual whose communications were intercepted).
+   - **Date on which the authorization and any renewal thereof expired** (this ensures transparency about the duration of the surveillance authorization).
+   - **If a delay in giving the notice was granted**, then the **period of that delay** must be specified. This applies under:
+     - Section 178.23 of the *Criminal Code*, or  
+     - Subsection 178.12(3) of the *Criminal Code*.
+   - **Date, place, and method** of giving the notice (i.e., when, where, and how the notice was delivered to the individual).
+
+4. **Filing Requirement:**  
+   The certificate must be **filed with a judge** of the court that issued the original authorization. This ensures judicial oversight and accountability.
+
+---
+
+**Confidentiality and Handling of the Certificate:**
+
+- The certificate is treated as a **confidential document**.
+- It must be **placed in a sealed packet**.
+- The packet must be **sealed by the judge** who received the certificate.
+- The sealed packet is to be **kept with the original authorization packet** (the one that contains the court’s authorization to intercept communications).
+- This procedure is governed by **section 178.14 of the Criminal Code**, which sets out the rules for handling and preserving the authorization and related documents.
+
+---
+
+**Legal Status and Effect:**
+
+- The certificate serves as **evidence of compliance** with the legal requirement to provide notice to the individual affected by surveillance.
+- By requiring the certificate to be filed and kept confidential, the regulation balances the need for **legal accountability** and **privacy protection**.
+- The confidentiality ensures that sensitive information about surveillance operations is not disclosed to the public or unauthorized parties, while still allowing judicial oversight.
+
+---
+
+**Important Note on Revocation:**  
+This provision has been **revoked** by *SOR/81-859, section 2*.  
+This means that **the regulation as currently stated is no longer in force**.  
+It was likely replaced or superseded by more current privacy or surveillance laws, such as the *Personal Information Protection and Electronic Documents Act (PIPEDA)* or updated provisions under the *Criminal Code* related to surveillance and privacy.
+
+---
+
+**Conclusion:**  
+Although the provision outlines a detailed procedural requirement for certifying and filing notice in surveillance cases, it is **no longer valid** due to its revocation. Therefore, it does not currently apply to any ongoing or future surveillance authorizations under the *Criminal Code*. Its historical significance lies in establishing early procedural safeguards for privacy and transparency in surveillance activities.
+
+> **Final Note:** Any current application of similar requirements would now be governed by more recent legislation, such as the *Criminal Code* amendments related to surveillance, or by privacy laws like *PIPEDA* or provincial privacy statutes, which may impose different obligations on notice, consent, and data handling.

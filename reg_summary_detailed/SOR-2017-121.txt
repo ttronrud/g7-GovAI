@@ -1,0 +1,118 @@
+### **Detailed Summary of the Locomotive Emissions Regulations (S.C. 2012, c. 7, s. 37; R.S., c. 32 (4th Supp.))**
+
+---
+
+#### **1. Regulatory Background and Authority**
+The *Locomotive Emissions Regulations* were made by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Transport**, under **subsection 47.1(2)a of the Railway Safety Act**. This regulation establishes **emission standards and testing requirements** for locomotives operating in Canada to reduce harmful pollutants from rail operations.
+
+These regulations are aligned with **U.S. Environmental Protection Agency (EPA)** standards found in **Title 40 of the Code of Federal Regulations (CFR), specifically Part 1033** (for diesel engines) and related parts such as Part 92 and Part 89. The goal is to harmonize Canadian environmental standards with U.S. standards to facilitate cross-border operations and ensure environmental protection.
+
+---
+
+#### **2. Key Definitions**
+
+The regulation provides a comprehensive set of definitions to clarify terminology used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Locomotive** | A self-propelled on-track piece of equipment designed to move freight, passengers, or equipment, but not carry passengers or cargo beyond operators. Excludes steam, off-line, maintenance, low-power (<750 kW), exhibition, or specialized equipment. |
+| **Line-haul locomotive** | Total rated power >1,715 kW (2,300 hp). Used for long-distance freight transport. |
+| **Switch locomotive** | Total rated power ≤1,715 kW (2,300 hp). Used for yard switching and short-haul operations. |
+| **Freshly manufactured locomotive** | Contains less than 25% previously used parts. |
+| **Refurbished locomotive** | Contains less than 50% previously used parts. |
+| **Remanufactured locomotive** | Originally manufactured after Dec. 31, 1972; has >25% used parts; has undergone power assembly replacement/inspection; converted to use different fuel; or is a repowered unit. |
+| **Repowered locomotive** | Previously used locomotive with engine replaced by a non-remanufactured engine that has never been installed in a locomotive. |
+| **Power assembly** | Engine components including cylinders, pistons, valves, fuel injectors, and cylinder heads. |
+| **Family emission limit** | Maximum allowable emissions of NOx, PM, or NOx+HC for a specific engine family, defined by the manufacturer and included in the EPA certificate under Part 1033 or 92. |
+| **Tier of standards** | Emission standards based on year of original manufacture (e.g., Tier 1–Tier 4), as defined in CFR 1033.101. |
+| **Useful life** | Period during which an emission standard applies, as determined by CFR 1033.101(g). |
+| **Service life** | Total lifespan of a locomotive, from original manufacture to permanent removal from service. |
+| **Active fleet** | All locomotives currently being used in Canadian railway operations. |
+| **Total fleet** | Active fleet plus all locomotives stored in Canada. |
+| **Incidental operations** | Limited operations where: (a) locomotives cross U.S.-Canada border; (b) operate ≤40.23 km (25 miles) within Canada; and (c) average operating time in Canada <5% of total operating time in prior year. |
+| **Crankcase emissions** | Emissions from the crankcase ventilation or lubrication system (housing for crankshaft). |
+| **Exhaust emissions** | Emissions from any opening downstream of the exhaust valve/port. |
+| **EPA certificate** | U.S. EPA-issued certificate of conformity to federal standards under CFR Part 1033 or 92. |
+| **Year of original manufacture** | Determined by: (1) date of first assembly; (2) most recent assembly with <25% used parts for switch locomotives; (3) most recent assembly with <50% used parts for line-haul; (4) January 1, 1973 for upgraded locomotives. |
+
+> **Note**: Total rated power = sum of all engines’ rated power (including auxiliary engines that operate while main engine runs, excluding idle-reduction auxiliaries).
+
+---
+
+#### **3. Purpose of the Regulations**
+- Reduce emissions of:
+  - Nitrogen oxides (NOx)
+  - Particulate matter (PM)
+  - Hydrocarbons (HC)
+  - Carbon monoxide (CO)
+  - Smoke
+- Establish clear **emission standards**, **testing procedures**, and **compliance requirements** for locomotives operating in Canada.
+
+---
+
+#### **4. Application of Emission Standards**
+
+##### **A. General Rule: Standards Apply to New Locomotives**
+- **Sections 4 to 9 apply** to **new locomotives** placed into service **on or after the coming into force date** of these regulations, **for the duration of their useful life**, **unless exceptions apply**.
+
+##### **B. Exceptions Where Standards Do Not Apply**
+
+| Exception | Conditions |
+|---------|------------|
+| **Remanufactured locomotives** | Not subject to sections 4–9 regardless of service type. |
+| **Low-revenue railway companies** | If the railway company realized **$30 million or less in gross rail revenues** in each of the two years prior to placement into service. |
+| **Non-covered locomotives** | If the locomotive is **not covered by an EPA certificate**. |
+| **Freight or tourist services** | Applies only if the locomotive is used for freight or tourist/excursion services. |
+| **Switch locomotives with nonroad engines** | If equipped with a nonroad engine (per CFR 1033.901), and covered by an EPA certificate under **Part 89 or 1039**, and affixed with the **EPA locomotive and engine labels** (as per CFR 1033.150(e)(4) and 1039.135/89.110). |
+| **Incidental operations** | Locomotives used in incidental operations (cross-border, short distances, low Canadian operation) are exempt. |
+
+> These exceptions allow flexibility for smaller operators and certain specialized or low-impact operations.
+
+---
+
+#### **5. Emission Compliance Requirements**
+
+##### **A. Exhaust Emissions Standards**
+- A locomotive **must conform** to applicable exhaust emission standards when tested under **section 8**.
+- Standards are based on:
+  - **Tables 1 and 2** in CFR 1033.101 (for NOx, PM, HC, CO)
+  - **Paragraph 1033.101(f)(1)** (for specific thresholds)
+
+> **Exception**: A locomotive may conform to **alternate CO and PM standards** (in paragraph 1033.101(i)) instead of the standard tables — **only if tested under section 8**.
+
+> **Note**: Footnotes **d and e (Table 1)** and **b and c (Table 2)** do **not apply** in this context.
+
+##### **B. Smoke Standards**
+- A locomotive must meet **smoke standards in Table 3** of CFR 1033.101, based on its **tier of standards** (determined by year of original manufacture).
+- Applies to **all locomotives** after placement into service.
+- **Exception**: 
+  - If the locomotive has an **EPA certificate with EPA labels** (section 1033.135), compliance is waived.
+  - If the locomotive emits **≤0.05 g/bhp-hr of PM**, smoke standards are waived.
+
+> **Note**: Smoke standards apply regardless of EPA certification status, unless the exemption conditions are met.
+
+---
+
+#### **6. Crankcase Emissions Regulation**
+
+- **Prohibition**: A railway company **must not operate a locomotive that releases crankcase emissions directly into the atmosphere**.
+- **Exemption**:
+  - If crankcase emissions are **routed to the exhaust system upstream of the aftertreatment device**, the release is **deemed not to be a direct atmospheric release**.
+  - If crankcase emissions are **added physically or mathematically** to exhaust emissions during testing (per paragraph 1033.115(a)(1)), the rule does not apply.
+- **Exception**: Applies only if the locomotive has an EPA certificate with the required EPA labels (section 1033.135).
+
+> This ensures that crankcase emissions — which can contain harmful pollutants like benzene and sulfur compounds — are not released directly into the air.
+
+---
+
+#### **7. Mandatory Testing Requirements**
+
+##### **A. Pre-Service Testing**
+- **All new locomotives** must be tested in accordance with **section 8** before being placed into service.
+- Testing ensures compliance with exhaust and smoke standards.
+
+##### **B. Annual Testing for Large Operators**
+- Starting in the **2019 calendar year**, railway companies with **gross revenues ≥$250 million** in each of the two prior years must conduct **annual emission testing** of a sample of locomotives.
+
+**Testing Sample Requirements**:
+- **Elig

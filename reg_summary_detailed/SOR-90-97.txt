@@ -1,0 +1,189 @@
+Certainly. Below is a **detailed, structured summary** of the regulation you provided — the **Occupational Safety and Health in Coal Mines Regulations (Nova Scotia)**, which replaced the *Coal Mines (CBDC) Safety Regulations* and came into force on **February 15, 1990**, under the authority of the **Canada Labour Code**.
+
+---
+
+## 📚 **Regulation Summary: Occupational Safety and Health in Coal Mines Regulations (Nova Scotia)**  
+**Effective Date:** February 15, 1990  
+**Legal Basis:** Part II of the *Canada Labour Code*, under sections 125*, 125.1**, 125.3***, 126*, and subsections 157(1)* and (1.1)****  
+**Issued by:** Her Excellency the Governor General in Council, on the recommendation of the Minister of Labour  
+
+> This regulation replaces the outdated *Coal Mines (CBDC) Safety Regulations, C.R.C., c. 1011*, with a modern, comprehensive set of occupational safety and health standards specifically tailored for coal mining operations in **Nova Scotia**. It reflects updated safety practices, technological developments, and international best practices in mine safety, particularly regarding explosives, ventilation, personnel training, and emergency response.
+
+---
+
+## 🔍 OVERVIEW OF PURPOSE AND SCOPE
+
+- **Purpose:** To establish and enforce minimum safety and health standards for coal mines in Nova Scotia to protect workers from hazards such as explosions, gas exposure, mechanical failure, poor ventilation, and unsafe working conditions.
+- **Applicability:** Applies to all **coal mines** operating under the *Canada Labour Code*, specifically **Part II**, which governs occupational safety and health.
+- **Scope:** Covers all aspects of mine operations, including:
+  - Handling and storage of explosives
+  - Ventilation systems
+  - Equipment safety and maintenance
+  - Personnel qualifications and supervision
+  - Emergency preparedness and response
+  - Recordkeeping and reporting
+
+---
+
+## 📖 KEY DEFINITIONS (Important for Understanding the Regulation)
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Part II of the Canada Labour Code |
+| **Coal Miner** | Employee with a certificate who works underground at cutting, shearing, or breaking coal |
+| **Mine Manager** | Employee with a first-class mine official certificate, responsible for overall mine operations |
+| **Underground Manager** | Second-class mine official certificate holder, supervises daily underground operations |
+| **Overman** | Third-class mine official certificate holder, oversees shifts and enforces safety |
+| **Chief Electrician / Chief Mechanic** | Supervisory roles for electrical and mechanical operations |
+| **Shotfirer** | Certified employee authorized to fire shots (explosive charges) |
+| **Mine Rescue Worker** | Holds a mine examiner certificate and is trained in emergency response |
+| **Qualified Person** | Employee with knowledge, training, and experience to safely perform a specified duty |
+| **Flameproof / Intrinsically Safe Equipment** | Electrical equipment designed to prevent ignition in methane-rich environments |
+| **Locked Out** | Equipment rendered inoperative to prevent accidental operation |
+| **Working Face** | Area where coal or stone is extracted |
+| **Working Shaft** | Shaft used for transporting personnel or materials |
+| **Main Fan / Booster Fan / Auxiliary Fan** | Ventilation systems used to ensure air flow and gas control |
+
+---
+
+## 📝 MAJOR PROVISIONS AND REQUIREMENTS
+
+---
+
+### 1. **Recordkeeping and Documentation Requirements**
+
+- All records, reports, plans, or procedures must be:
+  - **Kept above ground** at the mine site.
+  - **Readily accessible** for inspection by:
+    - Safety officers
+    - Safety and health committees
+    - Safety and health representatives
+- Records must be:
+  - **Dated and signed** by the person who created them.
+  - **Countersigned by the mine manager** for any plan or procedure.
+- If submitted to the **Coal Mining Safety Commission (CMSC)** for approval:
+  - Employer must **notify the safety committee or representative in writing immediately**.
+  - Approved plans must be **kept on-site and available for employee review**.
+- In case of **inconsistency** between a referenced standard and a general provision, the **general provision prevails**.
+
+> ⚠️ This ensures transparency, accountability, and traceability of safety decisions.
+
+---
+
+### 2. **Personnel Qualifications and Appointment Requirements**
+
+- **No employee can be appointed to a supervisory role without meeting qualifications for all junior positions.**
+- **Each coal mine must have a separate mine manager.**
+- Upon death, resignation, or incapacity of the mine manager:
+  - Employer must **identify in writing**:
+    - A first-class mine official to act as mine manager
+    - An underground manager to act as mine manager
+    - Or **cease operations**
+  - The employer must comply with the identified replacement within **90 days**.
+- **Daily supervision** must be provided by:
+  - At least **one underground manager**
+  - At least **one overman**
+
+> ✅ Ensures continuity of safe management and oversight even during personnel changes.
+
+---
+
+### 3. **Explosives and Detonators – Strict Controls**
+
+#### 🔒 Storage:
+- **No explosives or detonators may be stored underground.**
+- Must be stored in an **approved above-ground structure**.
+- Maximum storage: **Only the amount needed for 24 hours of underground use**.
+- Detonators must be stored **separately** from explosives in a room with a **masonry wall ≥150 mm thick**.
+
+#### 🚚 Transportation:
+- Explosives and detonators must be transported in **secure cases or canisters**.
+- Detonators must be in **separate cases** from explosives.
+- **No case can contain more than 5 kg of explosive** unless approved by the CMSC.
+- Cases must be kept **at least 300 mm away** from any equipment that could ignite them.
+
+#### 🧑‍💼 Handling & Control:
+- Only a **qualified person** (with mine examiner certificate) may control:
+  - Storage
+  - Issuance
+  - Receipt of explosives/detonators
+- Before issuing a detonator:
+  - Must test for **electrical continuity**
+- Only **shotfirers** may receive and use detonators.
+- Unused explosives/detonators must be **returned to surface storage** at end of shift.
+
+#### 🔧 Blasting Equipment Maintenance:
+- Blasting machines must be:
+  - **Cleaned and overhauled at least every 3 months**
+  - Maintained by a qualified person
+- A record of maintenance must be kept.
+
+> 🚨 These rules significantly reduce the risk of accidental detonations due to faulty equipment or improper handling.
+
+---
+
+### 4. **Shotfiring Procedures – Safety-First Protocol**
+
+#### ✅ Pre-Shot Requirements:
+- Only **one class/grade of explosive** may be used per shot.
+- Explosives must be in **original wrapping**.
+- Maximum amount per hole = **lesser of**:
+  - Amount needed for the job
+  - Maximum allowed in Schedule II (Part I)
+- Use **non-metallic tamping rods and stemmers**.
+- Use a **cleaner and crack detector** capable of detecting cracks ≥3 mm in length.
+
+#### 🚫 Prohibited Shotfiring Situations:
+- In **broken coal** or **support pillars**
+- Where **methane gas concentration exceeds 1.25%**
+
+#### 🚨 Pre-Charging Verification:
+- All broken coal must be removed from the shot hole area.
+- Dust must settle before charging.
+- Shot hole must be:
+  - Thoroughly cleaned
+  - Verified to not intersect cracks >3 mm
+  - At least **3 mm larger than the cartridge diameter**
+- A **stemming plug** must be placed at the back of the hole.
+- Dust in the area must be treated with **stone dust** (minimum of **3 x 25 kg bags per meter of advance**).
+
+#### 🔥 Before Firing:
+- Define a **danger area extending at least 30 meters** from the shot hole.
+- **Evacuate all personnel** from the danger zone.
+- **Post sentries** at the perimeter to prevent unauthorized entry.
+- Sentries must **only allow entry after confirmation from the shotfirer** that the area is safe.
+
+> 🔍 The shotfirer must **retest gas concentration (methane)** immediately before firing using:
+> - A **methanometer**
+> - A **locked-flame safety lamp**
+
+> ⚠️ No one except the **shotfirer** may:
+> - Connect a shotfiring cable
+> - Fire a shot
+> - Handle detonators directly
+
+---
+
+### 5. **Blasting Machine Requirements**
+
+- Shotfiring cable must be **at least 30 meters long** when used with a blasting machine.
+- Sequence of operations:
+  1. Twist cable ends together at machine and isolate from ground
+  2. Check cable and detonator circuit
+  3. Connect to shot
+  4. Check total circuit
+  5. Confirm evacuation of danger area
+  6. Connect cable to machine
+  7. Verify shotfirer has sole control
+  8. Shout “FIRE” or “TIR”
+  9. Verify area is safe before firing
+
+> 🔐 This sequence prevents accidental ignition and ensures full control.
+
+---
+
+### 6. **Ventilation and Equipment Safety**
+
+- **Main fan** provides primary ventilation above ground.
+- **Booster fans** assist with underground ventilation.
+- **Auxiliary

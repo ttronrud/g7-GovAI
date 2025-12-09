@@ -1,0 +1,126 @@
+**Detailed Summary of the *Interest Rate for Customs Purposes Regulations* (S.C. 1986, c. 1)**
+
+---
+
+### **Overview**
+
+The *Interest Rate for Customs Purposes Regulations*, made under the authority of several key Canadian statutes — the *Customs Act*, *Customs Tariff*, *Duties Relief Act*, and *Special Import Measures Act* — establishes a standardized, transparent method for determining the rate of interest applicable to customs-related financial obligations. These regulations came into force on specific dates:
+
+- **For the Customs Act and Customs Tariff**: On the coming into force of subsection 164(2), sections 174 and 210 of the *Customs Act*.
+- **For the Duties Relief Act**: On the coming into force of section 44 of the *Duties Relief Act*.
+
+These regulations are cited as the **Interest Rate for Customs Purposes Regulations** and serve to ensure consistency and fairness in the calculation of interest on customs duties, penalties, and other financial liabilities.
+
+---
+
+### **Key Definitions**
+
+- **Quarter**: A three-month period ending on:
+  - March 31  
+  - June 30  
+  - September 30  
+  - December 31  
+  *(This is referred to as "trimestre" in the text.)*
+
+---
+
+### **Core Principle: Determining the Prescribed Rate of Interest**
+
+The prescribed rate of interest in effect during any quarter is derived from **Government of Canada Treasury Bills (T-bills)**. Specifically:
+
+> The rate is the **simple arithmetic mean** (average) of the **average equivalent yields** (expressed as a percentage per year) of T-bills that:
+> - Mature approximately **three months after their date of issue**, and  
+> - Were sold at **auctions during the first month of the immediately preceding quarter**.
+
+---
+
+### **Step-by-Step Calculation Method**
+
+1. **Identify the relevant auction period**:
+   - Look at the **first month of the immediately preceding quarter** (e.g., for the quarter ending March 31, examine auctions held in January of the prior year).
+
+2. **Select eligible Treasury Bills**:
+   - Only T-bills that:
+     - Mature in about **3 months** from issue (i.e., 90-day bills), and  
+     - Were **sold at auction** during the identified first month.
+
+3. **Calculate average equivalent yield**:
+   - For each eligible T-bill, compute its **average equivalent yield**, expressed as a **percentage per year** (not per month).
+
+4. **Compute the arithmetic mean**:
+   - Take the **simple average** of all such yields.
+
+5. **Convert to monthly rate**:
+   - The final interest rate is expressed as a **percentage per month**, derived from the annual yield.
+   - This monthly rate is then **rounded to the nearest one-tenth of a percentage point** (e.g., 0.1%).
+   - If the result is exactly halfway between two values (e.g., 1.05%), it is **rounded up to the higher value** (e.g., 1.1%).
+
+---
+
+### **Application in Legal Provisions**
+
+#### **1. For the Customs Act and Customs Tariff (excluding section 3)**  
+- When interest is required to be paid on a monthly or fractional monthly basis (e.g., for late payment of duties), the prescribed rate of interest is:
+  - The **monthly rate** derived from the above formula.
+  - This applies **except where section 3 of the Customs Act** governs the interest calculation (e.g., for specific types of penalties or delays).
+
+#### **2. For the Special Import Measures Act**  
+- Interest is calculated using the **same prescribed rate** (i.e., the monthly rate based on the 3-month T-bill average yield) when required under provisions of this Act.
+
+#### **3. For the Duties Relief Act (sections 42 and 43)**  
+- When interest is required under sections 42 and 43 of the *Duties Relief Act*, the prescribed rate of interest is:
+  - The **annual yield** (not monthly) of the same T-bill average, rounded to the nearest one-tenth of a percentage point (with rounding up in case of a tie).
+
+> ⚠️ Note: This distinction between monthly and annual rates applies only in specific sections of the Duties Relief Act.
+
+---
+
+### **Purpose and Rationale**
+
+- **Transparency and Market Linkage**: The use of Government of Canada Treasury Bills — which are considered low-risk, short-term government securities — ensures that the interest rate reflects current market conditions and is stable and reliable.
+- **Predictability**: By basing interest rates on a consistent, published financial instrument, the regulations provide businesses and government agencies with a predictable framework for calculating interest on customs-related obligations.
+- **Fairness and Neutrality**: The method avoids arbitrary or discretionary decisions by relying on objective, market-driven data.
+
+---
+
+### **Repeal Note**
+
+- A prior version of this regulation (SOR/97-557, s. 3) was **repealed**, indicating that the current version is the updated and current legal instrument.
+
+---
+
+### **Key Takeaways**
+
+| Feature | Detail |
+|-------|--------|
+| **Regulatory Basis** | Customs Act, Customs Tariff, Duties Relief Act, Special Import Measures Act |
+| **Effective Dates** | Upon coming into force of specific provisions (e.g., sections 174, 210 of Customs Act; section 44 of Duties Relief Act) |
+| **Interest Source** | 90-day Government of Canada Treasury Bills |
+| **Timeframe** | Auctions during the **first month of the immediately preceding quarter** |
+| **Rate Type** | Annual yield → converted to **monthly rate** (for most customs provisions); annual rate (for Duties Relief Act) |
+| **Rounding Rule** | Nearest 0.1%; **round up** if equidistant |
+| **Exclusion** | Section 3 of the Customs Act (special provisions) |
+| **Citation** | *Interest Rate for Customs Purposes Regulations*, S.C. 1986, c. 1 |
+
+---
+
+### **Practical Example**
+
+Suppose the quarter in question is **March 31, 1986**.  
+- The relevant auction period is **January 1986**.
+- In January 1986, 10 auctions of 90-day T-bills occurred.
+- The average equivalent yields of those T-bills were:  
+  3.5%, 3.6%, 3.4%, 3.7%, 3.5%, 3.6%, 3.5%, 3.8%, 3.4%, 3.6%
+- **Average annual yield** = (3.5 + 3.6 + 3.4 + 3.7 + 3.5 + 3.6 + 3.5 + 3.8 + 3.4 + 3.6) / 10 = **3.56%**
+- Convert to **monthly rate**: 3.56% ÷ 12 = **0.2967%** → rounded to **0.3% per month**
+- Final prescribed rate for that quarter = **0.3% per month**
+
+This rate would be used to calculate interest on any customs duty payment delayed beyond the due date during that quarter.
+
+---
+
+### **Conclusion**
+
+The *Interest Rate for Customs Purposes Regulations* provide a clear, objective, and market-based mechanism for determining interest on customs-related financial obligations. By anchoring the rate to publicly available Treasury Bill yields, the regulations ensure that interest charges are both fair and reflective of current economic conditions. This enhances transparency, reduces administrative discretion, and strengthens the integrity of Canada’s customs financial system.
+
+These regulations remain a foundational component of Canada’s customs administration framework and are regularly reviewed in light of changes in financial markets and policy needs.

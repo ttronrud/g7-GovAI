@@ -1,0 +1,157 @@
+### **Detailed Summary of the Sanikiluaq Airport Zoning Regulations**
+
+The **Sanikiluaq Airport Zoning Regulations** are a set of legally binding rules established under the *Aeronautics Act* (R.S., c. A-2, s. 1) to ensure the safe operation of Sanikiluaq Airport in Nunavut by preventing developments or land uses that could interfere with aviation safety, aircraft operations, or communication systems. These regulations were developed and enacted by the **Governor in Council**, on the recommendation of the **Minister of Transport**, in accordance with specific provisions of the Aeronautics Act.
+
+---
+
+## **1. Background and Legislative Process**
+
+- **Notice of Proposal**:  
+  A notice of the proposed regulations was first published in two successive issues of the *Nunatsiaq News* on **February 10 and 17, 2012**, and a copy of the proposed regulations was published in two successive issues of the *Canada Gazette, Part I* on **March 19 and March 26, 2011**.  
+  This provided a **reasonable opportunity** for interested parties (e.g., local communities, developers, aviation stakeholders) to submit written representations or objections to the Minister of Transport.
+
+- **Legal Authority**:  
+  The regulations were made pursuant to:
+  - **Paragraph 5.4(2)(b)a** of the Aeronautics Act: Authority to regulate land use near airports to prevent interference with safe operations.
+  - **Paragraph 5.4(2)(c)a** of the Aeronautics Act: Authority to regulate land use to prevent interference with signals or communications related to aeronautics.
+
+- **Effective Date**:  
+  The regulations come into force on the day the requirements in **subsection 5.6(2)** of the Aeronautics Act are met.  
+  **Note**: These regulations came into force on **April 2, 2013**.
+
+---
+
+## **2. Purpose of the Regulations**
+
+The primary objectives are:
+
+1. **To prevent land use or development** near Sanikiluaq Airport that would:
+   - Interfere with the safe operation of aircraft.
+   - Pose a hazard due to obstruction of visibility, terrain, or noise.
+
+2. **To prevent interference with critical aeronautical signals and communications**, including:
+   - Radio signals used for air traffic control.
+   - Navigation and communication systems between aircraft and ground facilities.
+
+3. **To protect aviation safety** by managing environmental and physical factors such as:
+   - Vegetation growth.
+   - Wildlife activity (especially birds).
+   - Structures or objects that could cause hazards during takeoff, landing, or flight.
+
+---
+
+## **3. Key Definitions**
+
+The following terms are defined in the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | Refers specifically to Sanikiluaq Airport, located in the vicinity of Sanikiluaq, Nunavut. |
+| **Airport Reference Point (ARP)** | The geometric center of the runway thresholds (at grid coordinates 6,267,209.582 N, 607,612.360 E; latitude 56°32′13″ N, longitude 79°15′00″ W). Located 640.175 m from the end of runway 09-27 along the centerline. Elevation: 25.43 m above sea level. |
+| **Approach Surface** | An imaginary inclined surface extending from each end of the runway (runway 09 and 27). It ensures aircraft can approach safely without hitting terrain or obstructions. |
+| **Outer Surface** | An imaginary surface extending 4,000 meters from the ARP in all directions, maintained at a constant elevation of 45 meters above the ARP, but capped at **9 meters above ground level** where it would otherwise fall below that. |
+| **Strip Surface** | An imaginary surface associated with the runway, 90 meters wide (45 m on each side), extending from 60 m southwest of threshold 09 to 60 m northeast of threshold 27 (total length: 1,280.35 m). Has variable elevation based on slope. |
+| **Transitional Surface** | An inclined surface rising from the lateral edges of the strip and approach surfaces to meet the outer surface. Slope: 1 vertical meter per 7 horizontal meters. |
+| **Zoning Plan** | Plan No. E3300, prepared by the Department of Public Works and Government Services and dated December 1, 2008. Serves as the reference map for all spatial descriptions. |
+
+---
+
+## **4. Geographic Scope of Application**
+
+- The regulations apply to **all lands adjacent to or in the vicinity of the airport** within a **circular boundary of 4,000 meters** centered on the **Airport Reference Point (ARP)**.
+- This includes:
+  - Land **under water**.
+  - Public road allowances.
+- The area is defined precisely using **grid coordinates** in the **1983 North American Datum, Zone 17, UTM projection**.
+- Elevation values are based on the **Canadian Geodetic Vertical Datum (CGVD28)**.
+
+---
+
+## **5. Prohibited Activities and Developments**
+
+### **(a) Construction or Placement of Structures**
+A person **must not**:
+- Place, erect, construct, or permit another to do so on any land within the zone:
+  - Any building, structure, or object (including additions to existing structures) that would **penetrate** any of the following surfaces:
+    - Approach surface
+    - Outer surface
+    - Transitional surface
+
+> This means no buildings, towers, or even trees or poles can extend above these defined surfaces.
+
+### **(b) Use or Development Causing Signal Interference**
+A person **must not**:
+- Use or develop any land **under the outer surface** in a way that causes interference with:
+  - Signals or communications to and from aircraft.
+  - Signals or communications to and from aeronautical service facilities (e.g., radar, radio towers, navigation beacons).
+
+> This protects critical communication infrastructure from being blocked or disrupted.
+
+### **(c) Growth of Natural Vegetation**
+A person **must not**:
+- Allow natural growth (e.g., trees, shrubs, vegetation) to grow in a way that would **penetrate**:
+  - Approach surface
+  - Outer surface
+  - Transitional surface
+
+> This prevents vegetation from growing too tall and obstructing aircraft approaches or visibility.
+
+### **(d) Wildlife Attraction**
+A person **must not**:
+- Use or permit the use of any land for activities that **attract wildlife**, particularly **birds**, which may pose a hazard during flight operations.
+
+> Bird strikes are a known aviation hazard; this rule helps reduce such risks.
+
+---
+
+## **6. Exceptions and Permitted Uses**
+
+Despite the general prohibitions, the following **exceptions** are allowed:
+
+- **Open Water Storage Reservoirs**:  
+  A person may use any land as a site for an **open water storage reservoir** (e.g., for water supply or emergency use) for a **maximum duration of 48 hours or less**.
+
+> This is a limited exception designed to allow temporary water storage without violating the core safety provisions.
+
+---
+
+## **7. Technical Descriptions of Surfaces (Key Spatial Features)**
+
+### **A. Approach Surfaces**
+- **Runway 09 Approach**:
+  - Begins at elevation **31.12 m** above sea level.
+  - Slopes at **1 vertical meter per 25 horizontal meters**.
+  - Extends 2,500 meters horizontally from the end of the runway.
+  - Outer ends are 295 meters from the centerline and 100 meters above the starting elevation.
+
+- **Runway 27 Approach**:
+  - Begins at elevation **32.35 m** above sea level.
+  - Slopes at **1 vertical meter per 30 horizontal meters**.
+  - Extends 2,500 meters horizontally.
+  - Outer ends are 295 meters from the centerline and 83.33 meters above the starting elevation.
+
+> Elevation at any point is derived from the nearest point on the centerline of the approach surface.
+
+---
+
+### **B. Outer Surface**
+- Extends **4,000 meters** from the ARP in all directions.
+- Maintained at **45 meters above the ARP**.
+- However, if this would place it **below 9 meters above ground**, it is adjusted to **9 meters above ground**.
+
+> This ensures that even in low-lying areas, there is a minimum safe clearance for aircraft.
+
+---
+
+### **C. Strip Surface**
+- Associated with runway 09–27.
+- **Width**: 90 meters (45 m on each side of the centerline).
+- **Length**: 1,280.35 meters.
+- **Starts**: 60 m southwest of threshold 09.
+- **Ends**: 60 m northeast of threshold 27.
+- **Elevation**:
+  - Threshold 09: 31.12 m
+  - Threshold 27: 32.35 m
+  - Between thresholds: Slopes are defined in **Column 7 of the schedule**, with elevation calculated based on segment data.
+
+> The surface is not flat — it has a graded slope to reflect terrain and ensure safe approach paths

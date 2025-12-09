@@ -1,0 +1,154 @@
+The regulation you provided is a **set of Access to Information Regulations** issued under the **Access to Information Act (Act)** of Canada. These regulations, originally published in *Statutory Correlates 1980–81–82, c. 111*, were **repealed or amended** over time, notably by:
+
+- **SOR/2018-38, s. 2** (repealed the entire regulation),
+- **SOR/2023-156, s. 4** (repealed a section on examination of records),
+- **SOR/2013-114, s. 1 and s. 3** (repealed lists of investigative bodies and classes of investigations).
+
+As such, **this regulation is no longer in force** in its current form. However, the content reflects the **original intent and structure** of the Access to Information Regulations prior to repeal, and provides a detailed summary of the key provisions that were historically in effect.
+
+Below is a **comprehensive, detailed summary** of the regulation as it existed before its repeal — with clear context, explanation, and legal significance — for reference and understanding.
+
+---
+
+## 🔍 **Detailed Summary of the Access to Information Regulations (Prior to Repeal)**
+
+### 📌 **1. Legal Basis and Authority**
+- The regulation was made by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Justice** and the **Treasury Board**, under **subsection 77(1) of the Access to Information Act**.
+- This means the regulation is a formal administrative instrument issued to implement and clarify the provisions of the Act, particularly regarding how requests for access to government records are processed.
+
+> ⚠️ **Note**: These regulations were **repealed in 2018 (SOR/2018-38, s. 2)** and further elements were removed in 2023 and 2013. As of now, the current version of the regulations is governed by **the updated Access to Information Regulations (SOR/2023-156)** or other modernized versions. This summary reflects the **historical content**.
+
+---
+
+### 📚 **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Access to Information Request Form** | A standardized form prescribed by the designated Minister (under paragraph 70(1)(b) of the Act) for submitting a request to access government records. |
+| **Act** | Refers to the *Access to Information Act* (commonly known as the "Access to Information Act"). |
+| **Appropriate Officer** | The designated officer within a government institution whose title and address are published under paragraph 5(1)(d) of the Act. This officer is responsible for receiving and processing access requests. |
+
+> These definitions establish the procedural and administrative framework for handling access requests.
+
+---
+
+### 📝 **3. Requesting Access to Records (Under Part 1 of the Act)**
+
+#### ✅ How a Request Must Be Made:
+A person must submit a request to the **appropriate officer** of the government institution that controls the record in one of two ways:
+1. A **completed Access to Information Request Form**, or  
+2. A **written request** that includes **sufficient detail** to allow the officer to identify the record.
+
+> This ensures clarity and helps prevent vague or unactionable requests.
+
+#### ❌ Insufficient Information:
+- If the request lacks sufficient detail to establish that the requester has a right to access under **section 4 of the Act**, the institution **must request additional information** to verify the requester’s entitlement.
+
+> This protects government institutions from processing requests that are not legally justified.
+
+---
+
+### 🔐 **4. Protection of Personal Information**
+
+- If the record contains **personal information about the requester**, the institution **must require adequate identification** before disclosing the information.
+- This requirement **does not apply** if the requester’s identity has already been confirmed (e.g., through prior communication or verification).
+
+> This balances public access with privacy rights under the *Personal Information Protection and Electronic Documents Act (PIPEDA)* and other privacy laws.
+
+---
+
+### 🔄 **5. Transfer of Requests Between Institutions**
+
+- The **head of a government institution** may transfer a request to another institution within **15 days** of receiving it, **if**:
+  - The record is under the control of the second institution, and
+  - The head of the second institution **consents** to process the request within the time limits set by the Act.
+
+> This allows for efficient handling when records are held across departments.
+
+#### ⚠️ Limitation:
+- A request **cannot be transferred to a third (or subsequent) institution** after being transferred once.
+
+> Prevents abuse or circumvention of procedural rules.
+
+---
+
+### 💰 **6. Application Fee**
+
+- Every person making a request under Part 1 of the Act must pay an **application fee of $5** at the time of submission.
+
+> This fee helps cover administrative costs associated with processing requests. It is a standard feature of access to information regimes globally.
+
+---
+
+### 📂 **7. Opportunity to Examine vs. Copy a Record**
+
+The head of a government institution may choose to provide **an opportunity to examine** a record instead of a copy under the following circumstances:
+
+#### ✅ When Examination is Required:
+- The record or part thereof is **so lengthy** that reproducing it would **unreasonably interfere with the institution’s operations**.
+- The record is in a **form that does not readily lend itself to reproduction** (e.g., audio, video, complex data files).
+
+#### ✅ When Examination is Required Due to Legal Prohibitions:
+- Providing a copy is **prohibited by or under another Act of Parliament** (e.g., national security, privacy, or criminal law).
+
+#### ✅ When a Copy is Required Instead:
+- The record is a **disclosable part** of a larger record that would otherwise be refused disclosure, and it **cannot reasonably be separated** for examination.
+- The record is in a **form that does not readily lend itself to examination** (e.g., a physical document stored in a sealed container).
+
+> This flexibility ensures that access is both practical and operationally feasible.
+
+---
+
+### 🖥️ **8. Format of Copies (Under Subsection 4(2.1))**
+
+If a person requests a copy of a record in a specific format (e.g., PDF, Word), the institution is **not required to provide it in that format** if:
+
+- The record **does not exist in that format** within the institution, **and**
+- The head of the institution determines that **converting the record to that format would be unreasonable**.
+
+#### 📌 Factors Considered in Determining "Reasonableness" of Conversion:
+1. **Cost to the institution** (labor, equipment, time)
+2. **Potential degradation** of the original record (e.g., digital loss, image quality)
+3. **Severability** – if only a part of the record is requested, whether it can be cleanly separated in the requested format
+4. **Existence of alternative useful formats** within the institution
+5. **Possibility of converting to another useful format**
+6. **Impact on operations** of the institution
+7. **Availability of personnel, technology, and equipment**
+
+> This provision protects government institutions from being burdened with technically or financially unreasonable conversion tasks.
+
+#### 📝 Outcome:
+- If conversion is deemed unreasonable, the copy must be provided in:
+  - A format **already available** in the institution, or  
+  - A format where conversion is **reasonably feasible** based on the above factors.
+
+> This ensures fair access while respecting institutional constraints.
+
+---
+
+### 🔍 **9. Investigative Bodies and Classes of Investigations**
+
+These sections define which bodies are considered **"investigative bodies"** under paragraph 16(1)(a) of the Act (which may allow certain exemptions from disclosure), and which **classes of investigations** are exempt from access requirements under paragraph 16(4)(c).
+
+#### 🔎 Investigative Bodies (Listed in Schedule I):
+- Canadian Forces Military Police  
+- Canadian Forces National Counter-Intelligence Unit  
+- Canadian Security Intelligence Service (CSIS)  
+- Criminal Investigations Directorate (CIDA), International, Large Business and Investigations Branch, Canada Revenue Agency  
+- Director of Investigation and Research, Department of Consumer and Corporate Affairs  
+- Intelligence and Targeting Operations Directorate, Canada Border Services Agency  
+- Preventive Security and Intelligence Branch, Correctional Service of Canada  
+- Royal Canadian Mounted Police (RCMP)
+
+> These bodies are exempt from full disclosure of records in certain circumstances due to their sensitive or intelligence-related roles.
+
+#### 🕵️ Classes of Investigations (Listed in Schedule II):
+- Investigations by a **Fact Finding Board** (Department of Transport) into air traffic control issues (e.g., safety risks, inadequate separation between aircraft).
+- Investigations by a **Flight Service Station Review Committee** into aviation safety issues (e.g., system failures, procedural lapses).
+- Canadian Forces **flight safety accident investigations** (excluding those conducted via board of inquiry or summary investigation under the National Defence Act).
+- **Fire investigations** by the Canadian Forces Fire Marshall (excluding those under the National Defence Act).
+- Investigations by the **Special Inquiries Unit** of the Inspector General’s Branch, Correctional Service of Canada.
+
+> These are considered sensitive and may be subject to exemptions from disclosure under the Act to protect national security, public safety, or operational integrity.
+
+> ⚠️ **Note**: These lists were **repealed in 2013 (SOR/2013-114, s. 3)** and

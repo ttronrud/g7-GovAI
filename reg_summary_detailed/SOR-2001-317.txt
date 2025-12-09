@@ -1,0 +1,139 @@
+The provided text is a **summary of the Proceeds of Crime (Money Laundering) Suspicious Transaction Reporting Regulations**, originally enacted under the **Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the "Act")** in Canada. Below is a **detailed, structured, and accurate summary** of the regulation, including context, definitions, reporting obligations, exemptions, and key provisions — with clear explanations and notes on repeals and updates.
+
+---
+
+## 🔍 **Overview of the Regulation**
+
+### **Legal Basis**
+- The regulation was made under **section 73 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the "Act")**.
+- It was published in the *Canada Gazette, Part I*, on **February 17, 2001**, as part of the *Proceeds of Crime (Money Laundering) Regulations, 2000*.
+- This publication provided a **reasonable opportunity for interested parties** (e.g., financial institutions, businesses, legal professionals) to submit representations or comments to the Minister of Finance before final adoption.
+- The regulation was officially enacted by **Her Excellency the Governor General in Council**, on the recommendation of the Minister of Finance.
+
+> ⚠️ **Important Note**: This regulation has been **repealed** by **SOR/2016-153, s. 1** (effective 2016), and further **repealed in full by SOR/2019-240, s. 1**.  
+> ✅ As of now, **this specific set of Suspicious Transaction Reporting Regulations is no longer in force**.  
+> The current framework is governed by the **Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations**, which were updated and replaced in 2019–2020 with more modern and comprehensive rules.
+
+---
+
+## 📚 Key Definitions (as of the 2001 version)
+
+Although many definitions have been **repealed or replaced**, the following definitions were included in the original 2001 version:
+
+| Term | Definition |
+|------|-----------|
+| **Cash** | Coins under the *Currency Act*, Bank of Canada notes intended for circulation, or foreign coins/banknotes (non-Canadian). |
+| **Funds** | Includes cash, fiat currencies, securities, negotiable instruments, or private keys enabling access to digital value (excluding *virtual currency*). |
+| **Fiat currency** | Currency issued by a country and designated as legal tender. |
+| **Virtual currency** | A digital representation of value not backed by fiat currency, usable for payment/investment, and exchangeable for funds or other virtual currency. Includes private keys granting access. |
+| **Financial transaction** | Any transfer of funds or assets involving a financial entity. |
+| **Casino** | A government, organization, or operator referred to in paragraphs 5(k) to (k.3) of the Act. |
+| **Listed person or entity** | Includes: terrorist groups, persons/entities subject to UN or Special Economic Measures Act orders, foreign states under sanctions, or those under the *Sergei Magnitsky Law*. |
+
+> ❌ **Repealed Definitions** (all removed by SOR/2019-240, s. 1):  
+> Accountant, accounting firm, British Columbia notary, legal firm, life insurance broker, credit union central, dealer in precious metals and stones, electronic funds transfer, precious metal, precious stones, real estate broker, trust company, SWIFT.
+
+> ⚠️ **Note**: The 2001 version included a **special provision** regarding registered charities running lotteries in casinos. If a registered charity manages a lottery (e.g., roulette, card games) in a government-supervised casino for ≤2 consecutive days, the activity is considered conducted by the supervising government/organization. This provision was also **repealed** in 2019.
+
+---
+
+## 📝 Reporting Obligations
+
+### 1. **Who Must Report?**
+Any **person or entity** involved in a financial transaction or attempted transaction that raises **reasonable suspicion** of money laundering, terrorist financing, or sanctions evasion.
+
+> ✅ Applies to **financial entities**, casinos, money services businesses, and others defined in the Act.
+
+---
+
+### 2. **When Must a Report Be Made?**
+
+| Type of Transaction | Reporting Requirement |
+|---------------------|------------------------|
+| **Financial transaction** (under **section 7**) | Must be reported **as soon as practicable** after reasonable measures confirm suspicion. |
+| **Attempted transaction** (under **section 7.1**) | Must be reported **immediately**. |
+
+> ⚠️ "As soon as practicable" means promptly, not necessarily within hours, but within a reasonable timeframe after suspicion arises.
+
+---
+
+### 3. **What Information Must Be Reported?**
+
+Reports must include information from **Schedules 1 and 2**, depending on the transaction type.
+
+#### ✅ **Schedule 1 (for financial transactions)** – Required Information Includes:
+- **Parties involved**: Names, addresses, contact details (email, phone)
+- **Account details**: Account numbers, transit numbers, names of account holders
+- **Transaction details**: Type, amount, time, reference numbers, posting date
+- **Source of funds**: Name, account number, policy number, issuer details
+- **Remittance details**: Method, value, type (funds, virtual currency, or other), recipient details
+- **Device and online activity** (for digital transactions):
+  - Type of device, device number, IP address, user name, session date/time
+- **Entity ownership structure**:
+  - Names and addresses of individuals owning ≥25% of an entity
+  - Directors (corporations), trustees (trusts), beneficiaries (non-publicly traded trusts)
+- **Identification documents**:
+  - Address, date of birth, citizenship, ID number (excluding SIN)
+  - Issuing authority, jurisdiction, expiry date
+- **Type of report**: From which regulatory report it originated (e.g., section 54(1)(a))
+
+#### ✅ **Schedule 2 (for attempted transactions)** – Similar to Schedule 1, but with **immediate reporting requirement**.
+
+> ⚠️ **Note**: Both schedules contain **items marked with an asterisk (*)** — these are **mandatory**.  
+> For non-asterisked items, reporting is **not required** if the person/entity **cannot reasonably obtain** the information.
+
+> ✅ **For greater certainty**:
+> - If an item is described in singular form, **all known information** must be reported (e.g., report all account holders).
+> - Reporting is **not required** if the information is **not applicable** to the transaction.
+
+---
+
+### 4. **Exemptions from Reporting**
+
+The following **exemptions apply**:
+
+| Exemption | Description |
+|--------|-------------|
+| **Failure to obtain data** | If reasonable measures are taken but the information cannot be obtained, the item is not required to be reported. |
+| **Attempted transaction** | For items marked with an asterisk, exemption applies if information cannot be obtained. |
+| **Disclosure would inform counterparty** | If reporting would **reveal the transaction to a third party** (e.g., a customer), the reporting obligation does **not apply**. |
+
+> This protects privacy and prevents disclosure of sensitive commercial or personal information to parties involved in the transaction.
+
+---
+
+### 5. **Format and Submission Requirements**
+
+| Requirement | Details |
+|----------|--------|
+| **Electronic format preferred** | Reports must be sent **electronically** if the sender has the technical capability. |
+| **Paper format fallback** | If electronic submission is not possible, the report must be sent in **paper form**, following Centre guidelines. |
+| **Retention period** | The reporting person/entity must **retain a copy of the report for at least 5 years** after submission. |
+| **Machine-readable format** | A machine-readable copy is acceptable **if a paper copy can be readily produced**. |
+| **Employer/contractual exception** | If the copy belongs to an employer or contractual partner, the individual is **not required to retain it after employment or contract ends**. |
+
+---
+
+### 6. **Designated Information (Prescribed under Act)**
+
+The regulation specifies **designated information** required for reporting under paragraphs 55(7)(f), 55.1(3)(f), and 56.1(5)(f) of the Act. This includes:
+
+| Category | Details |
+|--------|--------|
+| **Personal details (person)** | Name, alias, date of birth, citizenship, address, email, phone, employer details |
+| **Identification documents** | Number, issuing authority, jurisdiction, country, expiry date (excluding SIN) |
+| **Entity details** | Registration/incorporation date, number, jurisdiction, country |
+| **Transaction details** | Time, amount, type, reference numbers, parties involved |
+| **Account details** | Account number, transit number, type, status, opening/closing dates, branch numbers |
+| **Online activity** | Device type, number, IP address, user name, session date/time |
+| **Ownership structure** | Individuals owning ≥25% of entity; directors, trustees, beneficiaries (non-public trusts) |
+| **Relationships** | Relationship between reporting person and the transaction participant |
+
+> All these details are **prescribed as mandatory** in the context of suspicious activity reporting.
+
+---
+
+## 🚫 Repeals and Amendments
+
+| Repeal | Effective Date | Reason |
+|-------|

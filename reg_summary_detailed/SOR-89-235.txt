@@ -1,0 +1,165 @@
+**Detailed Summary of the *Airborne Remote Sensing Services Fees Order, 1989***  
+*(P.C. 1982-1125; SI/82-85; Revokes SOR/86-927)*
+
+---
+
+### **Overview**
+
+The *Airborne Remote Sensing Services Fees Order, 1989* (cited as **SI/82-85**, 1982 Canada Gazette Part II, p. 1559; revokes SOR/86-927, 1986 Canada Gazette Part II, p. 3861) is a regulatory instrument issued by the **Minister of Energy, Mines and Resources** under **paragraph 13(b) of the Financial Administration Act**. This provision allows the Minister to make rules governing fees and charges for services provided by federal departments, including those related to airborne remote sensing.
+
+This Order **revokes the earlier *Airborne Remote Sensing Services Fees Order, 1986*** and replaces it with a new, updated fee structure that governs the payment of fees for the provision of airborne remote sensing services. It came into force on **May 2, 1989**, and remains in effect as the current governing regulation for such services in Canada.
+
+---
+
+### **Key Provisions and Definitions**
+
+#### **Abbreviations and Definitions**
+The Order introduces several technical terms used throughout the fee schedule:
+
+- **CCT**: Computer-Compatible Tape  
+- **HDDT**: High Density Digital Tape  
+- **NAPL**: National Air Photo Library  
+- **SAR**: Synthetic Aperture Radar  
+
+These definitions clarify the formats and types of data products involved in remote sensing services.
+
+---
+
+### **Fee Structure by Service Type**
+
+The Order specifies fees and charges for various airborne remote sensing services, organized into a **schedule** with items corresponding to specific services. Each item includes:
+
+- A description of the service
+- The unit of measurement
+- The applicable fee (in Canadian dollars)
+
+Below is a detailed breakdown of each item:
+
+---
+
+#### **Item 1: Per Mount of HDDT**
+- **Fee**: A fixed fee per mount of high-density digital tape (HDDT).
+- **Purpose**: Covers the cost of storing and managing raw data from an airborne sensor system on digital tape.
+
+#### **Item 2: Per CCT Produced from Same Mount of HDDT**
+- **Fee**: A fee per computer-compatible tape (CCT) produced from one mount of HDDT.
+- **Details**: The CCT is a derivative product derived from the original HDDT data; this fee covers the conversion and formatting process.
+- **Note**: This fee applies only when a CCT is generated from the same HDDT mount.
+
+#### **Item 3: Standard Geometric Image Processing (Aircraft Motion Removed)**
+- **Fee**: Per million output pixels.
+- **Description**: Standard processing to correct geometric distortions caused by aircraft motion, resulting in a georeferenced image suitable for mapping and analysis.
+
+#### **Item 4: Product Registration to Ground Control Points**
+- **Fee**: Charged per registration.
+- **Description**: Aligns the remotely sensed image with known ground control points to ensure spatial accuracy.
+
+#### **Item 5: Set-Up, Per Flight Line**
+- **Fee**: A fixed fee per flight line.
+- **Description**: Covers the initial setup and planning required to process data from a single flight line (a continuous path flown by the aircraft).
+
+#### **Item 6: Processing, Per Million Output Pixels**
+- **Fee**: Per million output pixels.
+- **Description**: Applies to the core image processing step, including radiometric and geometric corrections.
+
+#### **Item 7: Comparative Geometric Product Registration**
+- **Fee**: Per million output pixels.
+- **Description**: Aligns two or more images (from different times or sensors) to a common coordinate system using shared ground control points. Used for change detection or time-series analysis.
+
+#### **Item 8: Line Summing (MEIS II Imagery)**
+- **Fee**: Per million output pixels.
+- **Description**: Enhances image quality by combining adjacent lines of data to improve signal-to-noise ratio and dynamic range. Applies to linear array scanner imagery (e.g., MEIS II system).
+- **Note**: Fee is independent of the number of spectral bands.
+
+#### **Item 9: Reflectance Transformation (MEIS II)**
+- **Fee**: Per million output pixels.
+- **Description**: Processes a single band of MEIS II imagery to enhance reflectance characteristics, useful for vegetation, soil, or surface feature analysis.
+
+#### **Item 10: Flight Line Time Charges**
+- **For First Minute of a Flight Line**: A fixed fee for the first minute of data collection.
+- **For Each Additional Minute**: A per-minute charge.
+- **Purpose**: Accounts for time-based processing costs associated with longer flight lines or extended data acquisition.
+
+#### **Item 11: Output Reel Charges (9-track tape formats)**
+- **Fee**: Per output reel (in 9-track format).
+- **Formats Covered**:
+  - 1,600 bpi, 1,200 or 2,400 ft. reel
+  - 800 bpi, 1,200 or 2,400 ft. reel
+- **Note**: Charges under Item 9 (line summing or reflectance transformation) are **not included** in this fee.
+
+#### **Item 12: 185 mm Black and White Negative**
+- **Fee**: Charged per negative.
+- **Purpose**: Covers the production of traditional black-and-white photographic film from remote sensing data.
+
+#### **Item 13: 185 mm Colour Negative**
+- **Fee**: Charged per negative.
+- **Purpose**: Covers the production of colour photographic film.
+
+#### **Item 14: VHS Video Cassette (60-minute)**
+- **Fee**: Per 60-minute VHS video cassette.
+- **Purpose**: Applies to video-based remote sensing data (e.g., thermal or motion capture), where data is recorded on VHS format.
+
+#### **Item 15: 150 mm Quicklook Type 7772 Dry Silver Paper**
+- **Fee**: Per metre of print.
+- **Purpose**: Covers the production of quicklook prints (small-scale preview images) on dry silver paper.
+
+#### **Item 16: 220 mm Width Dry Silver Paper (Integrated Radar Imaging System – IRIS)**
+- **Fee**: Per metre of print.
+- **Purpose**: Covers the production of high-resolution prints from radar-based imagery (e.g., SAR data).
+
+#### **Item 17: CCT Reels (½ in. × 1,200 ft.)**
+- **Fee**: Per 8½-inch reel.
+- **Description**: Applies to ½-inch, 1,200-foot CCT reels.
+
+#### **Item 18: CCT Reels (½ in. × 2,400 ft.)**
+- **Fee**: Per 10½-inch reel.
+- **Description**: Applies to ½-inch, 2,400-foot CCT reels.
+
+---
+
+### **Key Features and Implications**
+
+1. **Fee Transparency and Standardization**  
+   The Order establishes a clear, itemized, and measurable fee structure that ensures consistency and transparency in pricing for remote sensing services.
+
+2. **Differentiation by Product Type**  
+   Fees vary based on the type of output (e.g., digital tape, film, video, paper prints), the level of processing (basic vs. advanced), and the complexity of geometric corrections.
+
+3. **Cost Recovery Mechanism**  
+   The fees are designed to recover the direct costs of data acquisition, processing, and product delivery, ensuring financial sustainability of the federal remote sensing program.
+
+4. **Technological Relevance**  
+   The inclusion of modern formats (HDDT, CCT, SAR, MEIS II) reflects the evolution of remote sensing technology from analog film to digital data.
+
+5. **Administrative Clarity**  
+   The definitions and structure make it easier for users (e.g., researchers, government agencies, private contractors) to understand and calculate fees for specific services.
+
+6. **Revocation of Outdated Order**  
+   The 1986 Order was outdated due to technological advances and changes in data formats. This 1989 Order modernizes the fee framework to reflect current practices.
+
+---
+
+### **Jurisdiction and Enforcement**
+
+- The **Minister of Energy, Mines and Resources** is the responsible authority.
+- Fees are due when a person receives an airborne remote sensing service as defined in Column I of the schedule.
+- Payments are to be made directly to the Minister.
+- The Order applies to all entities receiving such services, including federal, provincial, territorial, and private organizations.
+
+---
+
+### **Legal Basis**
+
+- **Paragraph 13(b) of the Financial Administration Act** grants the Minister authority to make rules about fees and charges for services provided by federal departments.
+- The Order is issued under this statutory power and is legally binding.
+
+---
+
+### **Conclusion**
+
+The *Airborne Remote Sensing Services Fees Order, 1989* is a critical regulatory tool that standardizes and modernizes the fee structure for airborne remote sensing services in Canada. It ensures fair, transparent, and cost-reflective pricing while adapting to technological changes in data acquisition and processing. By replacing the 1986 Order, it provides a more accurate and relevant framework for users and the federal government alike.
+
+This Order remains a foundational document in the management of Canada’s remote sensing infrastructure and continues to inform the pricing of geospatial data services to this day, though it may be subject to periodic review or replacement as technology evolves.
+
+---  
+**Citation**:

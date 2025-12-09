@@ -1,0 +1,203 @@
+**Detailed Summary of the *Protection of Residential Mortgage or Hypothecary Insurance Regulations* (S.C. 2011, c. 15, s. 20)**
+
+---
+
+### **Overview**
+
+These regulations, made under the *Protection of Residential Mortgage or Hypothecary Insurance Act* (the "Act"), establish detailed requirements for **qualified mortgage lenders**, **approved mortgage insurers**, and **reinsurance practices** in Canada. The primary objective is to ensure **financial stability, transparency, and consumer protection** in the residential mortgage and hypothecary insurance market by setting strict eligibility and operational standards.
+
+The regulations came into force on the day that **Section 20 of the Supporting Vulnerable Seniors and Strengthening Canada’s Economy Act** came into force, or, if registered later, on the date of registration. As of January 1, 2013, these regulations were in force (as noted in SI/2012-87).
+
+---
+
+## **Key Definitions**
+
+1. **Act**  
+   Refers to the *Protection of Residential Mortgage or Hypothecary Insurance Act*.
+
+2. **Beneficial Ownership**  
+   Includes ownership through:
+   - Trustees  
+   - Legal representatives  
+   - Agents  
+   - Other intermediaries  
+   → This broadens the scope of ownership to include indirect or structured holdings.
+
+3. **Voting Share**  
+   A share of any class of shares that carries voting rights under all circumstances, due to a current event, or because a condition has been fulfilled.  
+   → Ensures that voting power is considered in ownership assessments.
+
+---
+
+## **1. Qualification of Mortgage Lenders**
+
+A mortgage or hypothecary lender must meet one of the following criteria to be designated a **qualified mortgage lender**:
+
+### **(a) General Criteria (Section 3(1))**
+- Must be a **corporation** whose **articles of incorporation do not restrict its ability to lend** in the jurisdictions where it operates.
+
+### **(b) Specific Types of Entities (Section 3(1)(b))**
+The lender must be one of the following:
+1. **A financially sound institution** with:
+   - At least **$3,000,000 in unencumbered paid-up capital**
+   - Incorporated by or under an Act of **Parliament or a provincial legislature**
+
+2. **A federal financial institution** or **authorized foreign bank**, as defined in **Section 2 of the Bank Act**
+
+3. **A trust, loan, or insurance corporation** incorporated and regulated by a provincial legislature
+
+4. **A cooperative credit society** incorporated and regulated by a provincial legislature
+
+> ✅ *Note:* A cooperative credit society **does not need to meet the underwriting or administration requirements** under subsections (2) and (3) if it was **already designated as a qualified mortgage lender** under an agreement defined in **Section 43 of the Act** before these regulations came into force.
+
+---
+
+## **2. Requirements to Underwrite Loans**
+
+To **underwrite** residential mortgage or hypothecary loans, a lender must meet **additional criteria** beyond being a qualified lender:
+
+- Must have:
+  - **At least 3 years of experience** underwriting such loans in Canada
+  - **Capability and resources** to underwrite and commit to such loans
+
+**OR**
+
+- Be a **subsidiary** of a parent corporation that:
+  - Is a qualified mortgage lender
+  - Meets the criteria in (a) above
+  - **Undertakes to underwrite** the subsidiary’s loans in Canada
+  - Is **accountable to the approved mortgage insurer** for performance on those loans
+
+**OR**
+
+- Have:
+  - **At least $5,000,000 in paid-up capital**
+  - At least **two mortgage officers**, each with:
+    - **Minimum of 10 years of underwriting experience**
+    - Responsible for underwriting all residential mortgage and hypothecary loans in Canada
+
+> ⚠️ *Note:* The underwriting experience must be in **residential mortgage or hypothecary loans** and must be directly relevant to the lender’s operations.
+
+---
+
+## **3. Requirements to Administer Loans**
+
+To **administer** residential mortgage or hypothecary loans, a lender must meet additional criteria:
+
+- Must have:
+  - **At least 3 years of experience** administering such loans in Canada
+  - **Capability and resources** to meet all insurance conditions
+
+**OR**
+
+- Be a **subsidiary** of a qualified mortgage lender parent that:
+  - Undertakes to administer the subsidiary’s loans
+  - Is **accountable to the approved mortgage insurer** for performance
+
+**OR**
+
+- Have:
+  - **$5,000,000 in paid-up capital**
+  - At least **two mortgage officers**, each with:
+    - **Minimum of 10 years of administration experience**
+    - Responsible for administering the lender’s loans in Canada
+
+> 🔍 *Note:* These requirements ensure that lenders have both experience and qualified personnel to manage loan performance and compliance with insurance terms.
+
+---
+
+## **4. Reinsurance Provisions**
+
+An **approved mortgage insurer** may only:
+
+- **Cause itself to be reinsured** against a risk it has underwritten **if the reinsurer is also an approved mortgage insurer**  
+  → Prevents non-approved insurers from taking on risks through reinsurance.
+
+- **Reinsure a risk** undertaken by another insurer **only if** that insurer’s contract is, or could be deemed under **Section 19 of the Act**, to be a **policy**  
+  → Ensures that reinsurance is tied to formal, policy-based arrangements.
+
+> ❌ *No reinsurance allowed* unless both parties are approved and the underlying contract qualifies as a policy.
+
+---
+
+## **5. Loan Replacement Restrictions**
+
+An approved mortgage insurer **must not replace** an insured mortgage or hypothecary loan with another loan under the same insurance coverage **unless**:
+
+1. **Both loans are made to the same borrower**, and  
+   → The new loan is intended to **discharge the outstanding balance** of the original loan (i.e., refinancing)
+
+2. **The new loan is part of a loan workout** designed to:
+   - Reduce or avoid losses on a real or potential insurance claim  
+   → Protects against fraudulent or speculative loan replacements
+
+> 💡 This prevents insurers from using loan replacement as a way to evade insurance obligations or create financial risk.
+
+---
+
+## **6. Commitment to Insure a Portfolio**
+
+An approved mortgage insurer that makes a **commitment to insure a portfolio of loans up to a specified total value** must:
+
+- **Not insure any individual loan** under that commitment **later than one year after the commitment is made**
+
+> ⏱️ Ensures that commitments are acted upon within a reasonable timeframe, preventing long-term delays in underwriting.
+
+---
+
+## **7. Prescribed Relationship (Section 13(1)(c))**
+
+A person or entity is considered to be in a **prescribed relationship** with an approved mortgage insurer if:
+
+- The mortgage insurer and/or its controlled entities (under Section 3 of the *Insurance Companies Act*) **beneficially own more than 20% of the voting shares** of a qualified mortgage lender, **OR**
+- Another person/entity and its controlled entities:
+  - Beneficially own **more than 20% of the voting shares** of the qualified mortgage lender, **AND**
+  - Also beneficially own **more than 20% of the voting shares** of the approved mortgage insurer
+
+> 🔍 This creates a **conflict-of-interest threshold** — if ownership exceeds 20%, the relationship is flagged for regulatory scrutiny.
+
+---
+
+## **8. Deemed Joint Ownership (Section 5)**
+
+Two or more persons/entities are **deemed to be a single person or entity** for ownership purposes if they:
+
+- Have **agreed (formally or informally)** to act **jointly or in concert** in respect of:
+  - Shares in a qualified mortgage lender or approved mortgage insurer  
+  - Shares in any entity that owns shares in a qualified mortgage lender or approved mortgage insurer  
+  - Shares in any entity that controls such an entity  
+
+> ⚖️ This includes:
+- Agreements to **veto** board proposals
+- Agreements that **no proposal may be approved without consent** from one or more parties
+
+> ❌ **Exception:**  
+Ownership is **not presumed** to be joint or in concert simply because:
+- One is a proxyholder of another  
+- They vote in the same way (e.g., all vote "yes" or "no")
+
+> 📌 This prevents automatic assumptions of control based on voting patterns alone.
+
+---
+
+## **9. Notification Requirement for Prescribed Relationships**
+
+Under **Section 14 of the Act**, an approved mortgage insurer **may enter into a policy with a person/entity in a prescribed relationship** **only if**:
+
+- The **Minister is notified at least 60 days in advance** that the insurer is **currently or expects to be** in such a relationship
+
+> 🚨 This provides **early regulatory oversight** and transparency in relationships that could pose conflicts of interest.
+
+---
+
+## **10. Fee Structure for Approved Insurers**
+
+Fees paid by approved mortgage insurers under **Section 9 of the Act** are calculated using the following formula:
+
+> **Fee = (Total direct premiums written in a calendar year)**
+
+- Fees are **due and payable on March 1 of the following year**
+- May be **recovered as a debt due to Her Majesty** (i.e., the Crown)
+
+> 💰 This creates a **direct link between premiums earned and regulatory fees**, ensuring that insurers contribute to oversight costs based on their activity.
+

@@ -1,0 +1,106 @@
+Certainly. Below is a **detailed, comprehensive summary** of the *Insurable Housing Loan Regulations* as issued under the *National Housing Act*, effective December 7, 2012 (S.C. 2012, c. 19, s. 357; R.S., c. N-11). This summary organizes the key provisions by theme, explains their implications, and highlights critical thresholds and exceptions.
+
+---
+
+## 📚 **Overview of the Insurable Housing Loan Regulations (2012)**
+
+These regulations establish the **eligibility criteria and underwriting standards** for housing loans to be insured by the **Corporation (the Canada Mortgage and Housing Corporation – CMHC)** under the *National Housing Act*. The regulations apply to all housing loans **not previously insured** under a contract entered into before December 7, 2012.
+
+The primary objective is to **ensure financial stability, protect borrowers, and promote responsible lending** by setting clear thresholds for loan structure, borrower qualifications, property value, debt levels, and creditworthiness.
+
+---
+
+## 🔍 Key Definitions
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *National Housing Act* |
+| **Credit Score** | Issued by a federally or provincially incorporated credit reporting agency; must be substantially equivalent to scores used on June 26, 2011 |
+| **Eligible Residential Property** | One to four family housing units (e.g., single-family homes, townhouses, condominiums), including associated rights, structures, and facilities |
+| **First-Time Home Buyer** | An individual who has never owned a residential property in Canada; or who has been living separate and apart from a spouse/common-law partner for at least 90 days due to a breakdown of the relationship |
+| **Funded** | Money has been advanced to the borrower under the loan |
+| **Gross Debt Service Ratio (GDS)** | % of gross annual income required to cover housing payments (e.g., mortgage, taxes, insurance) |
+| **Total Debt Service Ratio (TDS)** | % of gross annual income required to cover all housing and other debt payments |
+| **High Ratio Loan** | A loan where the principal amount (plus prior balances) exceeds 80% of the property value at approval |
+| **Low Ratio Loan** | A loan where the principal amount (plus prior balances) is ≤80% of the property value at approval |
+| **Newly Built** | Property never occupied for residential use (or only temporarily during interim possession) |
+| **Quarter** | A 3-month period: Jan 1, Apr 1, Jul 1, or Oct 1 |
+| **Value of Eligible Property** | Determined by lender or insurer using accepted methods (e.g., appraisal, model, comparable sales); cannot exceed purchase price or purchase price + planned improvements |
+
+> ⚠️ **Note**: The principal amount of the loan **does not include insurance premiums**.
+
+---
+
+## 🚦 Scope and Applicability
+
+- Applies to **all housing loans not previously insured** under a pre-existing CMHC-approved contract.
+- A loan becomes a **new loan** for regulatory purposes if:
+  - It is modified to **replace security with a new property and increase balance**, or
+  - It involves a **modification requiring an additional insurance premium**.
+- Such modifications are assessed **as if approved on the day of the change**, and must meet current criteria.
+- **Exceptions**:
+  - Modifications **not requiring additional insurance premiums** do not affect insurance eligibility.
+  - The Corporation may provide insurance for loans in **loan workout programs** (to reduce losses) if:
+    - It meets the original loan criteria (e.g., under paragraph 4(a))
+    - No additional insurance premium is required
+
+---
+
+## 🏠 Property and Loan Structure Requirements
+
+### ✅ General Requirements for All Insured Loans
+1. **Must be underwritten and administered by an approved lender** or held in a **Registered Retirement Savings Plan (RRSP)** or **Registered Retirement Income Fund (RRIF)** administered by an approved lender.
+2. **Must be secured in first or second priority** by an eligible residential property (i.e., no junior liens).
+
+---
+
+## 🔍 High Ratio Loan (HRL) Requirements
+
+A high ratio loan is defined as one where the **loan-to-value (LTV) exceeds 80%** at approval.
+
+### Mandatory Criteria:
+| Requirement | Details |
+|-----------|--------|
+| **Loan-to-Value Cap** | - ≤95% of property value if value ≤$500,000<br>- $475,000 + 90% of value above $500,000 (e.g., $500k + $100k = $600k → 90% of $100k = $90k → total = $590k) |
+| **Purpose** | Must either:<br>• Purchase the property, or<br>• Discharge a prior **uninsured low ratio loan** |
+| **Amortization Period** | - Maximum **25 years**<br>- Can extend to **30 years** if: <br> • Borrower is a **first-time home buyer**, or<br> • Property is **newly built** |
+| **Property Value Limit** | Must be **less than $1,500,000** |
+| **Payment Recalculation** | If variable interest rates are allowed, payments must be **recalculated every 5 years** to align with original amortization schedule |
+| **Start of Payments** | Must begin on:<br>• Day of funding<br>• Closing of purchase agreement<br>• Completion of improvement/conversion |
+| **Credit Score** | At least **one borrower or guarantor must have a credit score ≥600** |
+| **Debt Service Ratios** | - GDS ≤39%<br>– TDS ≤44% |
+| **Occupancy Requirement** | At least one family unit must be occupied by the borrower or a related person (spouse, common-law partner, parent-child) |
+| **Reasonable Repayment Likelihood** | Must be reasonably likely to be repaid based on borrower’s income, debts, and obligations; based on **reasonable assumptions about peak payments** |
+| **Securities Guarantee (Pool Loans)** | If part of a pool of loans used to issue marketable securities, **any securities issued after July 1, 2016 must be guaranteed under subsection 14(1) of the Act** |
+
+### Exceptions to Credit Score Requirement (Paragraph 1(g))
+- If **no more than 3%** of the lender’s **high ratio or low ratio loans** approved and funded during any of the following periods had **no borrower/guarantor with a score ≥600**:
+  - First 4 quarters of the prior 5 quarters
+  - First 4 quarters of the prior 6 quarters
+  - First 4 quarters of the prior 7 quarters
+
+> This allows for **temporary leniency** in credit scoring if a lender maintains a strong overall credit profile.
+
+### Income Verification Requirement
+- Lenders or CMHC must make **reasonable efforts** to verify borrower income and employment status.
+- For self-employed borrowers, plausibility of reported income must be assessed.
+
+---
+
+## 🔍 Low Ratio Loan (LRL) Requirements
+
+A low ratio loan is one where the **loan-to-value ≤80%** at approval.
+
+### Mandatory Criteria:
+| Requirement | Details |
+|-----------|--------|
+| **Payment Start Date** | Payments begin on:<br>• Day of funding<br>• Closing of purchase agreement<br>• Completion of improvement/conversion |
+| **Pool-Based Securities** | Any securities issued on a direct basis after **July 1, 2016** must be **guaranteed under subsection 14(1) of the Act** |
+| **Individual Insurance** | Must be insured on an individual basis on:<br>• Day of funding, or<br>• Day of refinancing (additional advances) |
+| **Pool Membership Requirement** | For any given day, the loan must have been part of a pool meeting the **criterion in paragraph (c)** OR must not have been insured at any time in the prior 6 months |
+| **Arrears Clause** | The loan must have been in arrears, insured when it fell into arrears, and **remained insured** since — thus, ineligible to join a pool |
+| **Portfolio Requirement** | Must belong to a portfolio with the Corporation where **at least 95% of all insured loans** by the lender meet one of the following:<br>• Criterion in paragraph (c)<br>• Subparagraph (ii) or (iii) of paragraph (c)<br>• Held in RRSP/RRIF of a partnership that does **not deal at arm’s length** with the borrower<br>• Held in RRSP/RRIF of a **connected person** (as defined in Income Tax Regulations) to the borrower |
+| **Purpose** | Must either:<br>• Purchase the property, or<br>• Discharge a prior **low ratio loan** |
+| **No Balance Increase** | Outstanding balance **cannot exceed** what would have been outstanding under the original amortization schedule |
+| **Amortization Period** | - For purchase loans: ≤25 years<br>– For discharge loans: ≤25 years OR the **remaining amortization period** of the prior loan (whichever is shorter) |
+| **Property Value Cap** | At approval or discharge

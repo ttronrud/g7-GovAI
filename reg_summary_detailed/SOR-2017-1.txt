@@ -1,0 +1,172 @@
+**Detailed Summary of Canadian Payments Association By-law No. 1 — General**
+
+---
+
+### **1. Legal Authority and Approval**
+This by-law is established under the **Canadian Payments Act (CPA)** and approved by both the **Board of Directors of the Canadian Payments Association (CPA)** and the **Minister of Finance**.  
+- The Board adopted the by-law on **December 1, 2016**, pursuant to **subsection 18(1)a** of the CPA.  
+- The Minister approved it on **December 23, 2016**, under **subsection 18(2)c** of the CPA.  
+- The by-law is governed by statutory references including:  
+  - *S.C. 2014, c. 39, ss. 342(1) to (4)*  
+  - *R.S., c. C-21; S.C. 2001, c. 9, s. 218*  
+  - *S.C. 2014, c. 39, s. 342(5)*  
+
+This by-law sets out the foundational rules for membership, governance, and operational responsibilities of the Canadian Payments Association (CPA), particularly in relation to its role in overseeing and regulating the national payment system.
+
+---
+
+### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Canadian Payments Act* |
+| **Member Advisory Council (MAC)** | A council established under section 21.4 of the CPA; advises the Board on matters affecting members. |
+| **Payment Service Provider (PSP)** | A person that supports payment systems that interface with national clearing and settlement systems (e.g., payment processors, intermediaries). |
+| **Payment System** | A system or arrangement that facilitates payments or transfers of value, which are then cleared and settled through the CPA-operated systems. |
+| **Stakeholder** | A person who is a user or PSP, or represents the interests of a group of users or PSPs, but is **not a member** of the CPA. |
+| **Stakeholder Advisory Council (SAC)** | A council established under section 21.2 of the CPA; represents non-member stakeholders. |
+
+---
+
+### **3. Membership Requirements**
+
+#### **Automatic Registration of Banks and Foreign Banks**
+- Every **bank** and every **authorized foreign bank** must be registered as a member of the CPA.
+- **On the day it comes into existence**, domestic banks must provide:
+  - Name and date/method of formation
+  - Intended start date of operations
+  - Head office address (including email)
+  - Name and address of CEO or president
+  - Names and addresses of directors and senior officers
+  - Certified copy of incorporating instrument (e.g., letters patent)
+  - Certified copy of by-laws
+  - Audited financial statements for the last five years (or all years if less than five years)
+  - Authorization for the CPA to contact the bank and receive information from the **Office of the Superintendent of Financial Institutions (OSFI)** and, for foreign banks, the foreign regulator
+  - Agreement to provide any additional information required by the CPA
+
+#### **Registration of Payment Service Providers (PSPs)**
+- A PSP must be **registered under the Retail Payment Activities Act (RPA)** to qualify for membership under paragraph 4(2)(i) of the CPA.
+
+#### **Application for Membership**
+Every application must include:
+- Name, formation date, and method of establishment
+- Head office address (including email)
+- Name and address of CEO or president
+- Names and addresses of directors and senior officers
+- Certified resolution authorizing the application
+- Audited financial statements (last five years or all years)
+- Certified copy of charter, letters patent, or incorporating instrument
+- Certified copy of by-laws
+- Agreement to provide further information as needed
+
+**Additional Requirements Based on Applicant Type**:
+| Applicant Type | Required Documentation |
+|---------------|------------------------|
+| Subject to regulatory authority | Name of regulator and authorization to contact them |
+| Securities dealer | Membership in a CPA-recognized organization and provincial registration as a securities dealer |
+| Qualified corporation (on behalf of money market mutual fund) | Prospectus, prospectus receipt, investment list, legal opinion certifying compliance |
+| Trustee of qualified trust | Trust agreement, prospectus, investment list, legal opinion |
+| Central, trust, loan, or local company | Declaration accepting deposits transferable by order; confirmation of clearing arrangement (if applicable) |
+| Accepts deposits transferable by order | Declaration + evidence of deposit insurance/guarantee (federal/provincial) + clearing confirmation |
+| Payment Service Provider | Proof of registration under RPA |
+| Clearing house of a designated clearing and settlement system | Evidence of designation under section 4(1) of the *Payment Clearing and Settlement Act* |
+
+---
+
+### **4. Membership Dues and Notification of Changes**
+
+- **Dues** are payable on the day membership commences.
+- **All members must notify the CPA immediately** of any change in circumstances that could affect their eligibility to remain a member (e.g., changes in ownership, financial status, or regulatory status).
+
+---
+
+### **5. Bridge Institutions and Rights Transfer**
+
+- A **federal institution** designated as a **bridge institution** under **section 39.13(1)(c)** of the *Canada Deposit Insurance Corporation Act (CDICA)* acquires all rights and assumes all obligations of the member it is replacing **as of the date and time specified in the order**.
+- This includes rights under the by-laws related to payment exchange, clearing, and settlement — **except for the member it is replacing**.
+
+> This provision ensures continuity and stability in the payment system during transitions between institutions.
+
+---
+
+### **6. Suspension of Member Rights**
+
+Despite **By-law No. 6 — Compliance**, the Board may suspend a member’s rights if:
+1. The member has **failed to comply with any provision** of the Act, by-laws, or rules **on more than one occasion**  
+2. A **liquidator, trustee, receiver, or sequestrator** is appointed over the member’s assets  
+3. The member proposes an arrangement with creditors, invokes bankruptcy law, or commits an act of bankruptcy  
+
+**Exemption**:
+- The Board **cannot suspend** a member if the member is subject to an order under **section 39.13(1)** of the CDICA (i.e., a bridge institution).
+
+**Notification Requirements**:
+- The Board must **notify the member in writing** of the suspension, including **reasons**.
+- If the member requests a **review within five days**, the Board must:
+  - Review the decision
+  - Provide the member with an opportunity to make representations
+- After review, the Board must notify the member and **all other members** in writing of the final decision and reasons **if**:
+  - The suspension was previously notified and then terminated, or
+  - The suspension was confirmed and no prior notice was given
+
+> **No review request** within five days → Board notifies other members of the suspension.
+
+**Continued Liability**:
+- Even during suspension, the member remains **liable for dues and fees**.
+
+**Reinstatement**:
+- The Board must **reinstate** a member’s rights if:
+  - The member applies for reinstatement
+  - The reasons for suspension no longer exist
+
+> Suspension does **not affect compliance obligations** under By-law No. 6.
+
+---
+
+### **7. Stakeholder Advisory Council (SAC)**
+
+#### **Composition**
+- Maximum of **20 individuals**
+- **At least one, up to two** must be **elected directors** of the CPA
+- Must include:
+  - **At least 12 members representing users**, including:
+    - At least **two consumers**
+    - At least **one from the retail sector**
+    - At least **one from federal government**
+    - At least **one from a provincial government**
+    - At least **one from treasury and cash management services**
+  - **At least one member representing payment service providers**
+
+#### **Eligibility and Appointment Criteria**
+- All non-elected members must:
+  - Represent the interests of the stakeholder they represent
+  - Not be a director, officer, or employee of a member
+  - Not be a director of the CPA
+
+**Evaluation Process (in consultation with the Minister of Finance)**:
+- Consider whether the stakeholder already has **established consultative processes** with the CPA or its committees
+- **Preference given to stakeholders with national scope**
+- For **user representatives**:
+  - Prefer associations or organizations representing broad constituencies
+  - If not available, prefer prominent corporations within the industry
+- For **PSP representatives**:
+  - Prefer associations representing majority interests in an industry
+  - If not available, prefer prominent corporations
+
+**Selection Process When More Nominees Are Qualified**:
+- Evaluate based on:
+  - Whether the stakeholder is already adequately represented
+  - Business reliance on payment systems
+  - Level of R&D in payment systems
+  - Affiliations with international payment organizations
+  - Skills, expertise, and experience needed for effective council function
+
+#### **Term and Removal**
+- Non-elected members serve **no more than three years** and may be reappointed
+- Elected directors serve for a **term fixed by the Board** and may be reappointed
+- A member may be **removed** if:
+  - Absent without cause from **three consecutive meetings**
+  - The stakeholder no longer exists or is no longer a stakeholder
+  - No longer meets eligibility criteria
+
+#### **Vacancy Procedures**
+- If

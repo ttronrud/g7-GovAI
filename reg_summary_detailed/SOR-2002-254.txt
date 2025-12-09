@@ -1,0 +1,149 @@
+The regulation you've provided is the **Sulphur in Diesel Fuel Regulations**, made under the **Canadian Environmental Protection Act, 1999 (CEPA 1999)**, and came into force on **January 1, 2003**. Below is a **detailed, structured summary** of the regulation, including its background, key provisions, definitions, application, compliance requirements, and implications — presented in a clear and comprehensive format for regulatory understanding.
+
+---
+
+## 🔍 **Detailed Summary of the Sulphur in Diesel Fuel Regulations**
+
+### 📌 **Background and Purpose**
+- The regulation was introduced under **subsection 332(1)** of CEPA 1999, following a proposed rule published in the *Canada Gazette, Part I*, on **December 22, 2001**.
+- The Governor in Council (on recommendation of the Minister of the Environment) adopted the regulations pursuant to **sections 140 and 330** of CEPA 1999.
+- The primary objective is to **reduce air pollution**, particularly **sulphur dioxide (SO₂)** emissions, which contribute to smog, acid rain, and respiratory health issues.
+- The regulation establishes **sulphur concentration limits** in diesel fuel for different end-use applications, with the goal of improving air quality and public health.
+
+---
+
+## 📚 **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | The *Canadian Environmental Protection Act, 1999* |
+| **Authorized Official** | A person authorized to act on behalf of a corporation, individual, or entity (e.g., CEO, director, or designated representative). |
+| **Batch** | An identifiable quantity of diesel fuel with a single, consistent sulphur concentration, measured per section 4. |
+| **Diesel Fuel** | Any fuel that evaporates at atmospheric pressure, boils between 130°C and 400°C, and is used in diesel engines or marketed as such. Includes blends of biomass-based diesel fuel and conventional diesel. |
+| **Large Stationary Engine** | Diesel engine with per-cylinder displacement ≥ 30,000 cm³ (e.g., power plants, industrial machinery). |
+| **Small Stationary Engine** | Diesel engine with per-cylinder displacement < 30,000 cm³ (e.g., generators, pumps). |
+| **Locomotive** | Self-propelled rail vehicle designed to move freight/passengers, excluding vehicles with <750 kW engines or dual-use vehicles. |
+| **Locomotive Engine** | Diesel engine used to power or provide auxiliary power to a locomotive. |
+| **Off-Road Engine** | Engine used or designed to be moved from one location to another; not used in on-road vehicles or vessels. |
+| **On-Road Vehicle** | Vehicle designed for public roads (e.g., trucks, buses). |
+| **Vessel** | A boat, ship, or craft designed for navigation in water but not self-propelled out of water. |
+| **Vessel Engine** | Diesel engine used to propel a vessel or provide auxiliary power. |
+| **Vessel Propelled by a Large Diesel Engine** | A vessel powered by one or more large diesel engines (≥30,000 cm³ per cylinder). |
+| **Scientific Research** | Does **not** include consumer preference or marketing studies. |
+
+> ⚠️ **Note**: Some definitions have been **repealed** (e.g., *biodiesel fuel*, *northern supply area*), and others have been updated or clarified.
+
+---
+
+## 🚨 **Exemptions and Exceptions**
+
+The regulations **do not apply** to diesel fuel in the following cases:
+
+1. **In Transit**  
+   - Fuel moving from outside Canada to outside Canada, with written evidence of transit.
+
+2. **For Export**  
+   - Fuel produced or sold for export, with proof of export intent.
+
+3. **Imported for Specific Uses**  
+   - Fuel imported for use in off-road engines, small/large stationary engines, or conveyances (land, water, air), **if**:
+     - Sulphur concentration exceeds the limit in section 3,
+     - And the fuel will meet the requirements **before use or sale**,
+     - And is accompanied by written evidence.
+
+4. **Scientific Research**  
+   - The regulations **do not apply** to diesel fuel used in scientific research (except for section 1, which sets general limits).
+
+5. **North of Latitude 81°N**  
+   - Paragraphs (1)(f) and (g) (sulphur limits) **do not apply** for diesel fuel used **north of 81°N**.
+
+---
+
+## 📏 **Sulphur Concentration Limits (by End-Use)**
+
+| End-Use | Sulphur Limit (mg/kg) | Effective Date |
+|--------|------------------------|----------------|
+| On-road vehicles & off-road engines | **15 mg/kg** | From January 1, 2003 |
+| Locomotive engines | **500 mg/kg** | From January 1, 2003 |
+| Vessel engines (excluding large diesel-propelled vessels) | **500 mg/kg** until **May 31, 2014** → **15 mg/kg after May 31, 2014** | 2014 transition |
+| Vessel engines on large diesel-propelled vessels | **1,000 mg/kg** after May 31, 2014 | 2014 transition |
+| Small stationary engines | **15 mg/kg** after May 31, 2014 | 2014 transition |
+| Large stationary engines | **1,000 mg/kg** after May 31, 2014 | 2014 transition |
+
+> ✅ **Note**: The 2014 transition marked a significant shift toward cleaner fuels across all major sectors.
+
+---
+
+## 📏 **Measurement Method**
+
+- Sulphur concentration must be measured using **ASTM D5453-16** (Ultraviolet Fluorescence method).
+- For **reporting purposes**, an **equivalent method** may be used **only if**:
+  - The method is described in writing to the Minister,
+  - It is validated against ASTM D6708-16 (statistical validation of method equivalence),
+  - And the results are proven equivalent to ASTM D5453-16.
+
+> ⚠️ **Important**: The equivalent method is **only for reporting** — it **cannot** be used to verify compliance with sulphur limits.
+
+---
+
+## 📝 **Reporting and Recordkeeping Requirements**
+
+### 1. **Annual Reports (for Producers & Importers)**  
+- Must be submitted to the Minister **within 45 days after the end of each calendar year**.
+- Reports must include:
+  - Name and address of producer/importer.
+  - Name and address of each facility where fuel is produced or imported.
+  - Volume of diesel fuel and sulphur concentration for each facility and province.
+
+### 2. **Method for Calculating Sulphur Concentration**  
+- Use of **ASTM D5453-16** or an **equivalent method** validated per ASTM D6708-16.
+- Equivalent method is **only for reporting**; not for compliance.
+
+### 3. **Pre-Production/Import Notification (Schedule 2)**  
+- Any person intending to **produce or import diesel fuel** must submit a report to the Minister **no later than 5 days before first production/import**.
+- The report includes:
+  - Intended use (e.g., on-road, off-road, research).
+  - Facility details.
+  - Volume estimates.
+
+### 4. **Change Notification**  
+- If changes occur (excluding annual volume or authorized official), notify the Minister **within 5 days**.
+
+### 5. **Update Requirement (Post-2017)**  
+- If a person previously submitted a report before the amendment came into force, they must submit a **new report within 60 days** if the fuel is intended for:
+  - Vessel engines (any type)
+  - Small or large stationary engines
+  - Scientific research
+
+> ⚠️ This update was introduced to ensure compliance with the 2014 sulphur reduction timeline.
+
+---
+
+## 📂 **Recordkeeping Requirements**
+
+- **Each batch** of diesel fuel must be recorded with:
+  - Volume (m³)
+  - Date of dispatch/import
+  - Sulphur concentration:
+    - >15 mg/kg but ≤1000 mg/kg
+    - >1000 mg/kg
+
+- Records must be kept for **5 years** at:
+  - Production facility in Canada, or
+  - Importer’s principal place of business in Canada.
+
+---
+
+## 🚚 **Import Notification Requirements**
+
+- **Must notify the Minister in writing at least 12 hours before importation** if:
+  - More than **100 m³** at one time, OR
+  - More than **1,000 m³** into any one province within a day.
+
+### Required Information in Notice:
+- Name and civic address of importer
+- Intended use (on-road, off-road, vessel engine, large stationary, scientific research)
+- Volume of diesel fuel
+- Point of entry into Canada and estimated time of entry
+- First storage/refuelling facility and estimated delivery time
+- Name and phone number of representative

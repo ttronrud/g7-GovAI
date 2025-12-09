@@ -1,0 +1,189 @@
+### **Detailed Summary of the National Energy Board Export and Import Reporting Regulations (S.C. 1990, c. 7, s. 42)**
+
+---
+
+#### **1. Regulatory Background and Authority**
+These regulations were approved by **His Excellency the Governor General in Council**, on the recommendation of the **Minister of Natural Resources**, under **subsection 129(1)** of the *National Energy Board Act*.  
+They came into effect on **October 31, 1995**, and are formally known as the **National Energy Board Export and Import Reporting Regulations**.
+
+These rules establish the **mandatory reporting obligations** for individuals and entities involved in the **export or import of oil, gas, or electricity** through the National Energy Board (NEB), ensuring transparency, accountability, and regulatory oversight of energy trade across Canada and internationally.
+
+---
+
+#### **2. Key Definitions**
+
+To ensure clarity and consistency, the regulations define several key terms:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *National Energy Board Act*, the primary legislation governing the NEB’s authority and operations. |
+| **Border Accommodation Transfer** | A transfer of power or energy to: <br> - Provide electricity to a foreign country lacking access to its power system; <br> - Support an international work; or <br> - Restore service during emergencies when a foreign power system has lost service. |
+| **Electricity Transfer** | Includes five types:<br>1. **Sale transfer** – under a sales contract;<br>2. **Equichange transfer** – equal energy exchanged within a set period;<br>3. **Storage transfer** – energy stored in a reservoir (e.g., hydro) with expectation of return later;<br>4. **Adjustment transfer** – to balance energy accounts or compensate for services;<br>5. **Carrier transfer** – power routed through another system as a carrier to a third party or back to origin. |
+| **Energy** | Total quantity of electricity transmitted over time, measured in **watt-hours** or multiples/sub-multiples (e.g., kWh). |
+| **Licence** | A permit issued under Part VI of the Act for exporting or importing gas, oil, or electricity. |
+| **Order** | An authorization issued by the NEB for the export/import of gas (including export for later import or import for later export). |
+| **Permit** | A permit specifically for exporting electricity. |
+| **Power** | The rate of energy transfer, measured in **watts** or multiples/sub-multiples (e.g., kW). |
+| **Power System** | The complete infrastructure including generating stations, transformers, transmission lines, substations, and distribution networks necessary for producing, transmitting, and distributing electricity. |
+| **Refined Petroleum Products** | Includes: <br> - Oil sands-derived oil; <br> - Gasoline-type fuels; <br> - Blending components; <br> - Middle distillates (kerosene, diesel, fuel oils); <br> - Heavy fuel oils (Nos. 4–6, bunker C oil, residual fuel oil); <br> - Partially processed oil (commingled or not). |
+
+---
+
+#### **3. Recordkeeping Requirement**
+- A **copy of every return** submitted to the NEB must be **retained by the submitter for three years** from the month to which the return relates.
+
+---
+
+#### **4. Mandatory Reporting Requirements by Type of Energy**
+
+##### **A. Gas Exports/Imports (via Licence or Order)**  
+*Returns due by the last day of each month for the previous month.*
+
+Must include:
+- Licence/order number  
+- Total quantity exported or imported  
+- Highest daily volume during the month  
+- Average heating value of gas (in MJ or equivalent)  
+- Value/price at international border (in Canadian currency)  
+- Name of export customer (for export) or seller (for import)  
+- Province of origin (for exported gas); country/state of origin (for imported gas)  
+- Transportation costs associated with export  
+- Whether the transaction was **firm** or **interruptible**  
+- Geographical region of destination (for export); region within Canada (for import)  
+- Name and telephone number of person who prepared the return  
+
+> *Note: Applies to all gas, including natural gas, propane, butanes, and ethane.*
+
+---
+
+##### **B. Propane and Butanes Exports (via Licence or Order)**  
+*Returns due by the last day of each month.*
+
+Must include:
+- Licence/order number  
+- Total quantity exported  
+- Export price at point of loading/injection (in CAD)  
+- Province of export  
+- Country and destination within importing country  
+- Mode of transport  
+- Opening and closing inventory levels  
+- Supply sources  
+- Final disposition (e.g., sold, stored, used)  
+- Inter-provincial transfers  
+- Name and telephone number of preparer  
+
+> *Note: These are typically used in regional or inter-provincial markets.*
+
+---
+
+##### **C. Ethane Exports (via Licence or Order)**  
+*Returns due by the last day of each month.*
+
+Must include:
+- Licence/order number  
+- Province of export  
+- Total quantity exported  
+- Total revenue generated at point of loading/injection (in CAD)  
+- Destination of export  
+- Mode of transport  
+- Name and telephone number of preparer  
+
+> *Note: Ethane is often exported as a feedstock for petrochemical production.*
+
+---
+
+##### **D. Oil Exports (via Licence or Order)**  
+*Returns due by the last day of each month.*
+
+**For oil other than refined petroleum products (e.g., crude oil):**
+- Crude oil stream exported  
+- Consignee and destination in importing country  
+- Total quantity exported  
+- Mode of transport  
+- Point of sale  
+- Export price at point of sale (in CAD)  
+- Marine freight cost (CIF – Cost, Insurance, and Freight) (in CAD)
+
+**For refined petroleum products (e.g., diesel, kerosene, fuel oils):**
+- Type of product exported  
+- Total quantity (in cubic metres)  
+- Export price at point of loading/injection (in CAD)  
+- Province of export  
+- Mode of transport  
+- Country and destination within importing country  
+
+> *Note: All oil-related data must be reported in Canadian currency.*
+
+---
+
+##### **E. Electricity Exports (via Licence or Permit)**  
+*Returns due by the 15th day of each month for the previous month.*
+
+Must include:
+- Quantities and dollar values (in CAD) of electricity exported, broken down by:
+  - Customer  
+  - Type (firm vs. interruptible)  
+  - Class of electricity transfer (e.g., sale, equichange, adjustment, carrier)  
+- Name and telephone number of preparer  
+
+> **Exception**:  
+> If a permit authorizes **border accommodation transfers of 1,000 kW or less per customer**, returns are due **every six months** instead of monthly.
+
+---
+
+#### **5. Measurement Standards**
+
+##### **Gas Measurement**
+- Must comply with the *Electricity and Gas Inspection Act*.
+- **Volume Measurement**:  
+  - Expressed as cubic metres at **standard conditions**:  
+    - Temperature: **15°C**  
+    - Pressure: **101.325 kPa (1 atm)**  
+  - If measured under different conditions, must be **converted to standard conditions** using the **Ideal Gas Law**.
+  - If deviation from ideal gas behavior exceeds **1%**, correction must be applied using **AGA Report No. 3** (Orifice Metering of Natural Gas and Other Related Hydrocarbon Fluids), as amended.
+
+- **Thermal Measurement**:  
+  - Computed in **joules on a dry basis**  
+  - Dry gas is defined as having moisture content **less than 110 mg/m³**
+
+##### **Liquid Measurement (Propane, Butanes, Ethane)**
+- May be measured in **liquid form** (cubic metres)
+- For liquids **other than cryogenic**, volume is computed at **15°C**
+
+> *Note: Cryogenic liquids (e.g., liquefied natural gas) may be measured differently and are subject to Board-specific rules.*
+
+##### **Power and Energy**
+- Must be measured in units meeting the requirements of the *Electricity and Gas Inspection Act*  
+- Power: watts or multiples (e.g., kW)  
+- Energy: watt-hours or multiples (e.g., kWh)
+
+---
+
+#### **6. Purpose and Significance of the Regulations**
+
+These regulations serve several critical functions:
+
+1. **Transparency and Accountability**  
+   - Ensures that all energy exports and imports are fully documented, enabling the NEB to monitor market activity and prevent unfair practices.
+
+2. **Market Integrity**  
+   - Provides data on pricing, volumes, and destinations to support fair competition and prevent market manipulation.
+
+3. **Regulatory Oversight**  
+   - Enables the NEB to assess the environmental, economic, and national security implications of energy trade.
+
+4. **International Compliance**  
+   - Standardizes measurement and reporting for cross-border transactions, ensuring consistency with international trade norms.
+
+5. **Emergency Preparedness**  
+   - The inclusion of "border accommodation transfers" allows for emergency power support to foreign countries, enhancing Canada’s role in international energy security.
+
+6. **Data for Policy Development**  
+   - The detailed reporting supports long-term planning, such as energy policy, infrastructure investment, and climate strategy.
+
+---
+
+#### **7. Key Compliance Notes**
+
+- **Timeliness**: All returns must be submitted **on time** — monthly (except for small border transfers, which are every six months).
+- **Accuracy**: Measurements must follow strict technical standards (e

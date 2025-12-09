@@ -1,0 +1,144 @@
+**Detailed Summary of the Textile Floor Coverings Regulations (S.C. 2010, c. 21)**
+
+---
+
+### **Overview**
+
+The *Textile Floor Coverings Regulations*, made under **section 37 of the Canada Consumer Product Safety Act (CCPSA)**, establish mandatory flammability safety requirements for textile floor coverings sold or advertised in Canada. These regulations aim to reduce fire risks associated with certain types of floor coverings by requiring testing for flame resistance and mandating clear, visible warnings on products that fail to meet flammability standards.
+
+The regulations apply to **textile floor coverings** used in residential, commercial, or public spaces, with specific provisions depending on the product’s intended use (indoor only, indoor and outdoor, or outdoor only), size, and whether it has been treated with flame-retardant chemicals.
+
+---
+
+### **Key Definitions**
+
+1. **Methenamine Tablet Test Standard**  
+   - Refers to **CAN/CGSB-4.2 No. 27.6-2015**, titled *Textile Test Methods – Flame Resistance – Methenamine Tablet Test for Textile Floor Coverings*.  
+   - This standard defines how to test the flammability of textile floor coverings using a methenamine tablet to assess their resistance to ignition and spread of flame.
+
+2. **Removal of Non-Permanent Flame-Retardant Treatments Standard**  
+   - Refers to **CAN/CGSB-4.2 No. 30.2-M90**, titled *Textile Test Methods – Procedure for the Removal of Non-Permanent Flame-Retardant Treatments on Textile Floor Coverings*.  
+   - This standard allows for testing whether a flame-retardant treatment applied to a floor covering is temporary or permanent. If the treatment can be easily removed (i.e., non-permanent), the product may not meet safety requirements.
+
+3. **Sampling Plans Standard**  
+   - Refers to **CAN/CGSB-4.155-M88**, titled *Flammability of Soft Floor Coverings – Sampling Plans*, reaffirmed in 2013.  
+   - Establishes statistical sampling procedures to determine if a batch of floor coverings meets flammability standards. It uses a **normal sequential sampling plan** to evaluate whether a given number of specimens (tested under specific conditions) pass or fail.
+
+4. **Textile Floor Covering (Exclusions)**  
+   - Does **not include**:
+     - One-of-a-kind or Oriental rugs.
+     - Underlays made of textile fibers.  
+   - Applies to standard manufactured carpet tiles and large-area carpets.
+
+---
+
+### **Flammability Testing Requirements**
+
+#### **1. General Testing Procedure**
+All textile floor coverings that are **carpet tiles or have a surface area > 2.16 m²** or **linear dimensions > 1.8 m** must be tested using a sample of **48 specimens** under the following conditions:
+
+| Type of Floor Covering | Testing Protocol |
+|------------------------|------------------|
+| **Untreated** | - Methenamine tablet test (CAN/CGSB-4.2 No. 27.6-2015)<br>- Normal Sequential Sampling Plan (CAN/CGSB-4.155-M88) |
+| **Treated with flame retardant** | - Removal of non-permanent flame retardant treatment (CAN/CGSB-4.2 No. 30.2-M90)<br>- Methenamine tablet test<br>- Normal Sequential Sampling Plan |
+
+> The testing is designed to determine whether the product will ignite easily and whether flames spread rapidly — key indicators of fire hazard.
+
+#### **2. Acceptance Criteria**
+- The **cumulative number of specimen failures** (i.e., samples that fail the flame test) must **not reach or exceed** the number specified in the **"last column" of Table 1** in the *Sampling Plans Standard* (i.e., the "Normal Sequential Sampling Plan" column).
+- If the number of failures **equals or exceeds** this threshold, the product fails the flammability test.
+
+---
+
+### **Labeling Requirements (Warnings)**
+
+A warning label **must be clearly and prominently displayed** on the product or its packaging if the flammability test results indicate failure.
+
+#### **A. Outdoor-Use Only Floor Coverings (Large or Tile)**
+- If the cumulative number of failures reaches or exceeds the threshold in the sampling plan:
+  > **Warning Label Required:**
+  >  
+  > **Caution — Flammable — Do not use in locations exposed to open flame or sources of intense heat. Do not use indoors.**  
+  >  
+  > **Attention — Inflammable — Tenir éloigné de la flamme ou d’une source de chaleur intense. Ne pas utiliser à l’intérieur.**
+
+> This warning is especially critical because outdoor-use products are often exposed to direct sunlight, heat from vehicles, or open flames (e.g., barbecues), and are prohibited from indoor use due to fire risk.
+
+#### **B. Indoor-Use Only, Indoor & Outdoor Use, or Small-Sized Floor Coverings**
+- For products **with surface area ≤ 2.16 m²** and **all linear dimensions ≤ 1.8 m**, the warning required is:
+  > **Caution — Flammable — Do not use in locations exposed to open flame or sources of intense heat.**  
+  >  
+  > **Attention — Inflammable — Tenir éloigné de la flamme ou d’une source de chaleur intense.**
+
+> This applies even if the product is intended for indoor use, emphasizing that such materials can still pose a fire risk in high-heat environments.
+
+> ⚠️ **Note:** The warning must be:
+> - Clearly and prominently displayed;
+> - Printed in **easily legible letters**;
+> - Of **equal size and prominence**;
+> - **Set apart** from other text or images on the label (to ensure visibility and avoid confusion).
+
+---
+
+### **Labeling on Packaging vs. Product**
+
+- If the floor covering is **packaged**, the required warning **must be on the package**.
+- If the warning is **affixed directly to the floor covering**, it must be **clearly visible to the consumer** due to packaging methods (e.g., rolled or folded).
+
+---
+
+### **Import Exceptions (Temporary Relief)**
+
+A person may **import** a textile floor covering **without the required label** under the following conditions:
+
+1. **Purpose**: The import is **solely for resale** (not for direct consumer sale).
+2. **Pre-Import Notice**: Before importation, the importer must send a notice to the **designated inspector** (or nearest inspector if none exists) containing:
+   - A statement identifying themselves as the importer;
+   - The **date and place** of importation;
+   - The **nature and quantity** of the floor coverings being imported;
+   - The **address** of the premises where the product will be labeled in compliance.
+3. **Post-Import Notification**: Before reselling the product, the importer must **notify the inspector in writing** that labeling has been completed in accordance with the regulations.
+
+> This provision allows for a temporary exemption during importation, provided all necessary documentation and compliance steps are followed.
+
+---
+
+### **Enforcement and Compliance**
+
+- The regulations come into force on the **date of registration** (as stated in the text).
+- The **inspector** responsible for enforcement is designated by the government and may be located at the point of labeling or the nearest location if no inspector is present.
+- Non-compliance may result in penalties under the *Canada Consumer Product Safety Act*, including product recalls, seizure, or fines.
+
+---
+
+### **Key Objectives and Impacts**
+
+| Objective | Explanation |
+|--------|-------------|
+| **Public Safety** | Prevents fire hazards from flammable floor coverings, especially in homes and commercial spaces. |
+| **Consumer Awareness** | Ensures consumers are informed of potential fire risks and where such products should not be used. |
+| **Product Accountability** | Requires manufacturers and importers to test and label products based on standardized, science-based protocols. |
+| **Environmental and Chemical Considerations** | Identifies non-permanent flame retardants (which may degrade over time), promoting safer, more durable materials. |
+
+---
+
+### **Repeal Note**
+
+The regulation includes a **[Repeal]** clause, indicating that this regulation replaces or supersedes any previous versions. This ensures current standards are aligned with updated testing and safety practices.
+
+---
+
+### **Conclusion**
+
+The *Textile Floor Coverings Regulations* represent a comprehensive and science-based approach to ensuring that commonly used floor coverings do not pose a significant fire risk. By requiring standardized flammability testing, clear labeling of hazardous products, and specific exemptions for importers, the regulations balance safety with practicality in the marketplace.
+
+They protect consumers by:
+- Prohibiting the use of flammable products in high-risk environments,
+- Requiring transparency through visible warnings,
+- Encouraging the use of permanent, effective flame-retardant treatments.
+
+These measures align with broader consumer product safety goals under the *Canada Consumer Product Safety Act*, reinforcing Canada’s commitment to public health and safety.
+
+--- 
+
+✅ **Final Note**: This regulation applies only to **textile floor coverings** (excluding rugs and underlays), and its enforcement is tied to standardized testing protocols and labeling obligations. Compliance is mandatory for all manufacturers, distributors, and importers of such products in Canada.

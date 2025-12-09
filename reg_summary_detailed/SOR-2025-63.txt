@@ -1,0 +1,211 @@
+**Detailed Summary of the Radiocommunication Act Exemption Order (Jammers — Certain Correctional Services)**  
+*Issued by the Minister of Industry, Ottawa, February 28, 2025*  
+*Under subsection 14(1)a of the Radiocommunication Act (S.C. 2014, c. 39, s. 181; R.S., c. R-2; S.C. 1989, c. 17, s. 2)*
+
+---
+
+### **1. Purpose of the Order**
+This regulation establishes a **limited exemption** from the Radiocommunication Act's restrictions on the use, installation, importation, possession, distribution, and sale of **radio frequency jammers** in **correctional facilities** operated by:
+- The **Correctional Service of Canada (CSC)**, and  
+- The **Sous-ministériat des services correctionnels** (Sub-Ministry of Correctional Services) of Quebec’s **Ministère de la Sécurité publique** (Public Security Ministry).
+
+The exemption is granted **only for specific, legitimate purposes** related to **public safety, law enforcement, and the protection of property or persons**.
+
+---
+
+### **2. Key Definitions**
+- **Act**: Refers to the *Radiocommunication Act*.
+- **Correctional facility**: A building or part of a building used for detaining persons, established by Quebec Government order, including the land it occupies.
+- **Minister**: As defined in section 2 of the Act — the federal Minister of Industry.
+- **Penitentiary**: A facility operated permanently or temporarily by CSC for inmate care and custody, including its land.
+
+> Note: The exemption applies specifically to **penitentiaries and correctional facilities**, not general public or private locations.
+
+---
+
+### **3. Who Is Exempt?**
+
+#### **(a) Employees of CSC and Quebec’s Correctional Services**
+Employees of:
+- The **Correctional Service of Canada (CSC)**, and  
+- The **Sous-ministériat des services correctionnels** of Quebec’s Ministry of Public Security  
+
+are exempt from **subsection 4(4)** and **paragraph 9(1)(b)** of the Radiocommunication Act when they:
+- Install, use, possess, import, or distribute jammers  
+**in the course of their duties or training.**
+
+#### **(b) Government Officials and Contractors**
+The following **government officials or entities** are exempt from **subsection 4(4)** when importing jammers **on behalf of CSC or Quebec’s correctional services**:
+- The **Minister of Public Works and Government Services of Canada**
+- Employees of the **Department of Public Works and Government Services of Canada**
+- The **Minister of Public Security of Quebec**
+- Employees of the **Sous-ministériat des services à la gestion** (Quebec’s Public Security Ministry)
+
+> These individuals or entities may import jammers only **for official duties** related to correctional services.
+
+#### **(c) Contractors and Subcontractors**
+Any person or entity that:
+- Has entered into a **contract with the Government of Canada** (CSC) or the **Government of Quebec** (Sous-ministériat) to provide jammers or related services, **or**
+- Performs **any part of the work** under such a contract (including subcontracts)
+
+is exempt from **subsection 4(4)** and **paragraph 9(1)(b)** of the Act.
+
+> This includes manufacturing, distribution, leasing, offering for sale, or selling jammers under contract.
+
+---
+
+### **4. Purpose of the Exemption**
+The exemptions are granted **only for the following purposes**:
+1. **Public safety** — particularly in penitentiaries and correctional facilities.
+2. **Investigation or prosecution of offences** — including preservation of evidence (e.g., preventing illegal communications).
+3. **Protection of property** or **prevention of serious harm to any person**.
+
+> The use of jammers must be **directly tied** to one of these justifications.
+
+---
+
+### **5. Pre-Use Notification Requirements**
+
+Before using a jammer, **CSC or Quebec’s correctional authority** must provide a **written notice to the Minister of Industry** containing:
+
+#### **(a) Contact Information**
+- A responsible person’s **telephone number and email** for responding to inquiries (day and night).
+- Name, title, phone, and email of **every contact person** responsible for jammers and compliance.
+
+#### **(b) Facility-Specific Details (for each facility where jammers will be used)**
+- Name and postal address of the penitentiary or correctional facility.
+- Whether the jammer will be used **sporadically or continuously**.
+- **Radio frequency bands** in which it will operate.
+- **Month and year** when use is intended to begin.
+
+#### **(c) For Exemptions Under (b)**  
+If the exemption applies to a third party (e.g., a contractor), the notice must include:
+- The **name of the person or entity** to which the exemption applies.
+- The **locations** where the jammer will be used.
+
+> This ensures transparency and accountability.
+
+---
+
+### **6. Updates and Annual Compliance**
+
+- **Updates** to the information provided under subsection (1) must be:
+  - **Notified immediately** if changes occur in (a) or (b) (contact details).
+  - **Notified before implementation** if changes occur in (c) or (d) (facility details or usage plans).
+
+- **Annual confirmation** of accuracy must be submitted **by the anniversary date** of the Order’s coming into force.
+
+> This ensures ongoing compliance and accountability.
+
+---
+
+### **7. Notification to NAV CANADA**
+
+**At least 28 days before first use**, the correctional authority must provide **written notice to NAV CANADA** (the national aviation authority) containing:
+- Name and postal address of the facility.
+- Date when jammer use will begin.
+- **Power levels, antenna patterns**, and **radio frequency bands** of the jammer.
+
+> This is critical because jammers can interfere with aviation communications.
+
+#### **If Changes Are Expected**
+A **new notice must be sent at least 14 days before**:
+- The first use of the jammer, or  
+- The implementation of a change in operation (if already used).
+
+> **Exception**: If the change only affects (c) (frequency or duration), and does **not increase interference**, no new notice is required.
+
+---
+
+### **8. Restrictions on Use and Operation**
+
+#### **(a) Location Restrictions**
+- Jammers **may not be installed or used** outside of locations **previously notified to the Minister**.
+
+#### **(b) Supervision Requirement**
+- Any person or entity using a jammer **must be under the supervision** of an employee listed in subsection 2(1).
+- **Only allowed for**:
+  - Testing functionality  
+  - Performing maintenance  
+  - Providing training  
+
+> No unauthorized use is permitted.
+
+#### **(c) Training Requirement**
+- All employees using jammers must have received or be receiving **specialized training** for such activities.
+
+#### **(d) Accessibility and Security**
+- Jammers must be:
+  - **Accessible only to exempt persons or entities**.
+  - **Turned off and stored securely** when not in use, including during transport.
+
+---
+
+### **9. Minimizing Interference with Radiocommunication**
+
+All users must make **every reasonable effort** to:
+- Limit interference to:
+  - The **smallest physical area**
+  - The **fewest radio frequencies**
+  - The **appropriate power level**
+  - The **minimum duration** required
+
+> This ensures that interference does not extend beyond necessary boundaries.
+
+#### **For Continuous Use**
+- Interference must also be minimized **above the facility** and **before the visitor control point**.
+
+> This protects external users (e.g., emergency services, public wireless networks).
+
+---
+
+### **10. Technical Analysis and Testing Requirements**
+
+#### **Before First Use and After Changes**
+- A **technical analysis** must be conducted for:
+  - Each new jammer or system of jammers.
+  - Any change in parameters (frequency, power, antenna pattern).
+
+The analysis must determine:
+- The jammer’s **parameters** (frequency, power, antenna).
+- **Measures to restrict interference** in accordance with section 8.
+
+> A **record of each analysis** must be maintained.
+
+---
+
+### **11. Interference Testing for Continuous Use**
+
+If a jammer is used **on a continuous basis**, a **test must be conducted** in the areas **before the visitor control point** for each frequency band affected.
+
+#### **When Testing Is Required**
+- First time continuous use at a facility.
+- After any change in jammer parameters.
+- At the request of the Minister or an inspector under paragraph 5(1)(j) of the Act.
+
+#### **Test Records Must Include**
+- Names and qualifications of testers.
+- Start and end dates.
+- Methods used.
+- Wireless services affected.
+- Times and locations of interference.
+- Actions taken to mitigate interference.
+
+> These records are mandatory and must be preserved.
+
+---
+
+### **12. Operational Logging Requirements**
+
+#### **For Continuous Jammers**
+A detailed log must be maintained for **each time the jammer is turned on or off**, including:
+- Location, date, and time (if known).
+- Frequency bands interfered with.
+- Name of responsible employee.
+- Reason for turning on/off.
+
+#### **For Sporadic Use**
+A log must be kept for each use, including:
+- Location, date, and time (if known).
+- Name of user.
+- Frequencies

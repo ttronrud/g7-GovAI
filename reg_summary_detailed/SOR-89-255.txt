@@ -1,0 +1,116 @@
+**Detailed Summary of the Regulation on Small Retransmission Systems (Copyright Act, 1988)**
+
+---
+
+### **Background and Purpose**
+
+This regulation, made under **subsection 70.64(2)** of the *Copyright Act* and approved by Her Excellency the Governor General in Council on the recommendation of the **Minister of Consumer and Corporate Affairs** and the **Minister of Communications**, defines what constitutes a **"small retransmission system"** for the purposes of **subsection 70.64(1)** of the *Copyright Act*. 
+
+The primary objective is to establish a legal framework that distinguishes **small-scale retransmission systems** from larger ones in order to determine whether such systems are subject to specific copyright licensing requirements under Canadian law. Specifically, this regulation helps clarify when a retransmission system qualifies as a "small" system — meaning one that retransmits signals to **no more than 2,000 premises** within a defined service area — thereby potentially exempting it from certain licensing obligations that apply to larger systems.
+
+> ⚠️ **Note**: This regulation was **repealed** by **SOR/2005-147, section 2**, and is no longer in force. It was superseded by updated legislation and regulations, particularly following the evolution of the Canadian broadcasting and digital media landscape.
+
+---
+
+### **Key Definitions**
+
+#### 1. **Premises**
+Refers to any of the following:
+- A **dwelling**, including:
+  - A single-unit residence (e.g., a detached house or townhome)
+  - A single unit within a multi-unit building (e.g., an apartment in a condominium)
+- A **room** in a commercial or institutional building (e.g., office space, hospital room)
+
+> This definition ensures that individual residential or functional units are counted as separate premises for determining system size.
+
+#### 2. **Service Area**
+Defined as:
+> "An area in which premises served in accordance with the laws and regulations of Canada by a retransmission system are located."
+
+This is essentially the geographic region covered by a retransmission system’s signal — the zone where its service reaches end-users.
+
+> Example: A cable system serving homes in a specific neighborhood or city district constitutes a service area.
+
+---
+
+### **Definition of a "Small Retransmission System"**
+
+#### **Core Requirement (Section 3(1))**
+A **small retransmission system** is:
+- A **cable retransmission system**, or
+- A **terrestrial retransmission system** using **Hertzian waves** (i.e., radio/TV broadcast signals via terrestrial transmission)
+
+…that retransmits a signal (with or without a fee) to **not more than 2,000 premises** within the **same service area**.
+
+> This is the central threshold for determining whether a system qualifies as "small" under copyright law.
+
+---
+
+### **Key Provisions and Interpretations**
+
+#### **Section 3(2): Aggregation of Systems in the Same Unit**
+If a **cable retransmission system** is part of a larger unit that includes one or more other cable systems, then:
+- The total number of premises served by the entire unit is considered for the purpose of determining whether the system is "small".
+- That is, the number of premises served by the **group** of systems is aggregated.
+
+> Example: If a property owner operates two cable systems (System A and System B) on the same premises, and together they serve 1,800 homes, the total is treated as 1,800 — well below the 2,000 threshold — so both systems would qualify as part of a "small" system.
+
+> This provision allows for consolidation of systems operated under common ownership or control, which may reduce administrative burdens or licensing costs.
+
+#### **Section 3(2) – Conditions for Being in the Same Unit**
+A cable system is considered part of the same unit as one or more others **if**:
+1. They are **owned or directly or indirectly controlled** by the same person or group of persons.
+2. Their service areas are each **less than 5 km apart** from at least one other system in the group.
+3. When combined, their service areas would form a **series of contiguous service areas** — either linear or non-linear — *except* for the 5 km distance barrier.
+
+> This ensures that systems that are geographically adjacent and under common control are treated as a single entity for licensing purposes.
+
+> ⚠️ **Important Exception**: This rule **does not apply** to cable retransmission systems that were already included in a unit as of **December 31, 1993**.
+
+> This likely preserves existing legal status and avoids retroactive changes to older systems.
+
+#### **Section 3(3): Exclusion of Master Antenna Systems**
+A **master antenna system (MAS)** — a type of cable system that collects signals from multiple broadcast sources and distributes them to homes — is **excluded** from being considered a "small retransmission system" **if**:
+- It is located within the service area of **another cable retransmission system** that serves **more than 2,000 premises**.
+
+> This means: if a master antenna system is feeding into a larger cable network that serves over 2,000 homes, it is **not** treated as a "small" system, even if it serves fewer than 2,000 homes.
+
+> Purpose: To prevent the misuse of "small system" status to circumvent copyright licensing requirements when a larger system is already in operation.
+
+---
+
+### **Legal and Practical Implications**
+
+| Aspect | Implication |
+|-------|-------------|
+| **Licensing Threshold** | Systems serving ≤2,000 premises may be exempt from certain copyright licensing obligations under the Copyright Act. |
+| **System Aggregation** | Multiple systems under one owner or control can be treated as a single unit, simplifying compliance. |
+| **Geographic Proximity** | Systems must be within 5 km of each other to be grouped — ensuring that only physically connected systems are combined. |
+| **Historical Exemptions** | Pre-1994 systems are protected from reclassification under this rule, maintaining stability in older infrastructure. |
+| **Exclusion of MAS** | Prevents "small" status from being used to avoid liability when a larger system is already operating in the same area. |
+
+---
+
+### **Repeal and Current Status**
+
+- This regulation was **repealed** by **SOR/2005-147, section 2**, effective in 2005.
+- It has been **replaced** by more modern, comprehensive rules governing copyright in broadcasting and retransmission, particularly under the **Copyright Act** as amended and interpreted in the context of digital media, satellite, and internet-based services.
+- The current framework for determining whether a retransmission system is "small" is likely governed by updated regulations and court interpretations, especially in light of developments in cable, satellite, and IPTV technologies.
+
+---
+
+### **Conclusion**
+
+This regulation historically provided a clear, legally binding definition of what constitutes a **small retransmission system** under Canadian copyright law, with specific rules for:
+- Counting premises,
+- Aggregating systems under common ownership,
+- Defining geographic proximity,
+- Excluding master antenna systems in certain contexts.
+
+While **no longer in force**, it played a key role in shaping early Canadian copyright policy for cable and terrestrial retransmission systems, particularly in balancing the rights of broadcasters with the needs of smaller, local service providers.
+
+> 📌 **Key Takeaway**: The regulation established a **2,000-premise threshold** for small systems, with important exceptions and aggregation rules to account for ownership and geography — all aimed at ensuring fair copyright licensing while allowing flexibility for small-scale operators.
+
+---
+
+**Note for Legal or Regulatory Use**: This summary is based on the original text and historical context. For current compliance, consult the **current version of the Copyright Act**, the **Canadian Radio-television and Telecommunications Commission (CRTC) regulations**, and relevant judicial decisions.

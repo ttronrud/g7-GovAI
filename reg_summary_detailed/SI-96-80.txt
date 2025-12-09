@@ -1,0 +1,153 @@
+Certainly. Below is a **detailed and clear summary** of the regulation you provided, interpreted in plain language while preserving its legal and financial significance.
+
+---
+
+### **Detailed Summary of the Regulation**
+
+**Regulation Reference:**  
+S.C. 1991, c. 24, s. 7(2)  
+*Issued under the Financial Administration Act, pursuant to subsection 23(2)*  
+*Issued by His Excellency the Governor General in Council, on the recommendation of the Minister of National Revenue*
+
+---
+
+### **Purpose of the Regulation**
+
+This regulation establishes a **tax relief or settlement mechanism** for certain taxpayers who participated in **"tax shelter" arrangements**—specifically, general partnerships used as **SR & ED tax shelters**—that were identified and formally addressed by the Minister of National Revenue in a **June 30, 1995 notice**.
+
+The primary objective is to **mitigate the financial impact** on taxpayers who paid taxes based on claims involving these tax shelters, which were later found to be **non-compliant or improperly structured** under Canadian tax law. The regulation allows eligible taxpayers to receive **partial refunds** of the taxes they overpaid, with interest and compensation adjustments.
+
+---
+
+### **Who Is Covered?**
+
+- **Taxpayers who are not "promoters"** (i.e., individuals or entities who initiated or organized the tax shelter).
+- Taxpayers who:
+  - Have **delivered or deliver** a **timely and duly executed agreement letter** to the Minister.
+  - The agreement letter must have been **accepted by the Minister**.
+  - The agreement must relate to a **general partnership used as a tax shelter** under the SR & ED (Savings and Retirement & Education) tax shelter scheme.
+
+> ⚠️ *Note:* Promoters (those who created or managed the tax shelter) are **excluded** from this relief.
+
+---
+
+### **What Amounts Are Refunded?**
+
+The total refund amount to each eligible taxpayer is calculated as the **sum of three components**:
+
+---
+
+#### **Component 1: Refund Based on Pre-Agreement Payments**
+
+This component compensates taxpayers for **overpayments** made before the agreement was executed.
+
+- Calculate the **difference** between:
+  - **(a)** 50% of the product of:
+    - Each payment made **before** the agreement was signed,
+    - And the **tax liability resulting from adjustments** made by the Minister to the taxpayer’s claim (i.e., the revised tax amount after audit or review),
+    - Multiplied by the **prescribed rate of interest for income tax refunds**,
+    - Compounded **daily**,
+    - For the period from the **date of the payment** to the **date of the tax assessment** (the date the Minister finalized the tax liability based on the agreement).
+
+  - **(b)** The **refund interest** that would have been due on that same payment.
+
+> So, Component 1 = 50% × [(a) – (b)]
+
+This ensures that only **half of the overpayment interest** (after adjusting for the actual refund interest) is refunded.
+
+---
+
+#### **Component 2: Refund Based on Post-Agreement Period**
+
+This component compensates for the **time between the assessment date and the implementation date** of this Order.
+
+- Calculate 50% of the product of:
+  - The **difference** from Component 1,
+  - And the **same prescribed interest rate**,
+  - Compounded **daily**,
+  - For the period from the **date of assessment** to the **date this Order is implemented**.
+
+> So, Component 2 = 50% × [Difference from Component 1] × Interest Rate × (Days between assessment and implementation), compounded daily.
+
+This component provides **additional compensation** for the time delay between when the tax liability was assessed and when the refund is actually made.
+
+---
+
+#### **Component 3: Additional Compensation for No Refund or No Order**
+
+This component accounts for **lost benefits** that would not have occurred if:
+- There had been **no refund interest**, or
+- This Order **had not been made at all**.
+
+In other words, it ensures that taxpayers receive **a fair share of the benefit** they would have otherwise lost due to the absence of a refund mechanism.
+
+> This component is a **"loss of benefit" or "equity adjustment"** to ensure fairness in the absence of a refund system.
+
+---
+
+### **Key Features and Implications**
+
+1. **Partial Refund Only**:  
+   The refund is **not a full refund** of the overpayment. Only **50%** of the interest-based difference is returned in each component. This reflects a compromise to balance public interest with the need to recover tax revenue.
+
+2. **Interest Compounded Daily**:  
+   The use of **daily compounding** ensures that interest accumulates accurately over time, reflecting the true cost of delayed payment.
+
+3. **Time-Based Calculation**:  
+   The refund is tied to specific time periods:
+   - From **payment to assessment** (pre-agreement),
+   - From **assessment to implementation** (post-agreement).
+
+4. **Focus on Non-Promoters**:  
+   The regulation protects taxpayers who were **not involved in creating** the tax shelter, avoiding a direct penalty on those who may have been misled or unaware of the structure.
+
+5. **Public Interest Justification**:  
+   The Governor General acts on the recommendation of the Minister, citing **public interest** as the basis for the remittance. This suggests the government recognizes the potential for **unfair financial burden** on individuals caught in flawed tax shelter schemes.
+
+6. **Legal Authority**:  
+   The regulation is issued under **subsection 23(2) of the Financial Administration Act**, which allows the government to make administrative decisions on tax matters when in the public interest.
+
+---
+
+### **Practical Example (Simplified)**
+
+Suppose a taxpayer:
+- Made a payment of $10,000 on January 1, 1995.
+- The Minister later adjusted the tax liability to $15,000 (a $5,000 overpayment).
+- The interest rate is 5% per year (daily compounded).
+- The assessment date was March 1, 1995.
+- This Order is implemented on January 1, 1996.
+
+**Component 1 (pre-assessment)**:
+- Difference = 50% × ($5,000 × 5% annual interest, daily compounded from Jan 1 to Mar 1)
+- Assume daily compounding yields ~$120 interest → 50% × $120 = **$60**
+
+**Component 2 (post-assessment)**:
+- 50% × $60 × 5% interest, daily compounded from Mar 1 to Jan 1, 1996 (300 days)
+- Assume compounding yields ~$40 → 50% × $40 = **$20**
+
+**Component 3 (loss of benefit)**:
+- Estimated at $10 (to cover lost opportunity cost or equity)
+
+**Total Refund** = $60 + $20 + $10 = **$90**
+
+---
+
+### **Conclusion**
+
+This regulation serves as a **targeted tax relief measure** for non-promoters involved in specific tax shelter arrangements (SR & ED partnerships) that were later found to be non-compliant. It provides a structured, interest-based, and time-sensitive refund mechanism that:
+
+- Acknowledges the financial harm caused by flawed tax shelters,
+- Balances the public interest in tax compliance with fairness to affected taxpayers,
+- Avoids full refunding of overpayments to prevent revenue loss,
+- Ensures transparency and consistency through daily interest compounding and clear calculation rules.
+
+It is a key example of how Canadian tax administration uses **administrative relief orders** to correct past errors in a fair and legally grounded manner.
+
+---
+
+**Note**: This regulation is **historical** in nature, as it was issued in 1991 and applies to tax shelters identified in 1995. It may no longer be actively enforced or updated, but it remains a significant precedent in Canadian tax administration. Modern tax shelter enforcement and settlements are likely governed by updated policies and regulations.
+
+--- 
+
+Let me know if you'd like a version tailored for legal professionals, taxpayers, or a simplified public explanation.

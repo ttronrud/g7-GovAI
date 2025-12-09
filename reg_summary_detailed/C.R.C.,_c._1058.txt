@@ -1,0 +1,163 @@
+**Detailed Summary of the *Oil Pipeline Uniform Accounting Regulations***  
+*(Cited as: Oil Pipeline Uniform Accounting Regulations)*
+
+---
+
+### **Overview**
+
+The *Oil Pipeline Uniform Accounting Regulations* establish a standardized, transparent, and consistent framework for financial accounting and reporting by companies involved in the construction, operation, and management of oil pipelines in Canada. These regulations are designed to ensure accurate, reliable, and comparable financial records that reflect the true economic condition of oil pipeline operators—particularly in relation to their transportation infrastructure, costs, revenues, and capital investments.
+
+The regulations apply exclusively to companies authorized by the **Canadian Energy Regulator (CER)**—commonly referred to as the **Commission**—to construct or operate oil pipelines. They are primarily aimed at promoting accountability, transparency, and regulatory oversight of pipeline operations.
+
+---
+
+## **Key Definitions and Concepts**
+
+| Term | Definition |
+|------|-----------|
+| **Board** | Repealed (SOR/2020-50, s.1) – no longer in effect |
+| **Book Cost** | The original cost of plant recorded in plant accounts *without* deductions for accumulated depreciation, amortization, or any other adjustments. This represents the gross cost basis. |
+| **Commission** | The Canadian Energy Regulator (CER), responsible for regulating pipeline operations and reviewing financial disclosures. |
+| **Contingent Assets** | Assets whose value is uncertain and only realized upon fulfillment of uncertain conditions. Not recognized on the balance sheet until conditions are met. |
+| **Contingent Liabilities** | Potential obligations that may arise under certain conditions but are not yet direct or assumed liabilities at the balance sheet date. |
+| **Fiscal Year** | Either the calendar year or a fiscal year approved by the Commission for a company’s accounting purposes. |
+| **Minor Item of Plant** | A component or part of a larger plant unit (e.g., a valve or pump) that is physically distinct and has material value. Included in plant accounts. |
+| **Net Salvage Value** | Salvage value minus removal costs. Represents the net proceeds from the disposal of retired plant. |
+| **Operator** | A company authorized by the Commission to operate or construct an oil pipeline, where ownership is held in *undivided interest*. |
+| **Other Plant** | Property or installations not directly related to pipeline transportation operations. Recorded separately. |
+| **Plant** | Any installation or property whose cost is recorded in the Plant Accounts (Schedule II), specifically those used in pipeline operations or held for future use. |
+| **Plant Retired** | A plant unit (whether replaced or not) or a minor item not replaced that is sold, abandoned, demolished, dismantled, or withdrawn from service. |
+| **Plant Unit** | A complete structure, apparatus, or equipment that forms a component of a pipeline installation, including physically distinct parts with material value. |
+| **Salvage Value** | Amount received for retired plant, including insurance proceeds and proceeds from salvaged materials. |
+| **Transportation Plant** | Plant used in pipeline operations or held for future pipeline operations. |
+| **Undivided Interest** | Joint beneficial ownership of pipeline assets, liabilities, revenues, and expenses by two or more companies or persons. |
+
+> **Note**: Companies may submit questions about interpretation of these regulations to the Commission for guidance.
+
+---
+
+## **Applicability and Classification of Companies**
+
+### **Group 1 Companies**
+- Defined in **Schedule VII**.
+- Must comply fully with all provisions of the Regulations.
+- Required to:
+  - Maintain separate books of account in Canada consistent with **Generally Accepted Accounting Principles (GAAP)**.
+  - Follow accounting procedures as set out in these Regulations (unless otherwise authorized by the Commission).
+  - Maintain a system of accounts as prescribed.
+- All transactions must be recorded monthly; trial balances must be prepared at month-end.
+- Final accounting entries must be completed within **30 days** after the end of each month, except for the final month of the fiscal year, where they may be completed within **90 days**.
+- All books, accounts, and records must be:
+  - Complete and detailed enough to show the full facts of each transaction.
+  - Accessible to Commission representatives upon request.
+  - Retained for **one year after the Commission grants leave to abandon** the pipeline operation.
+
+### **Group 2 Companies**
+- Any company operating or constructing an oil pipeline that is **not** a Group 1 company.
+- Must:
+  - Maintain GAAP-compliant books until one year after the Commission grants leave to abandon the pipeline.
+  - File **audited financial statements** with the Commission within **120 days** after the end of each fiscal year.
+  - Comply with specific sections (6(1), (7), (8), (9)) of the Regulations.
+- Are **exempt** from most requirements *except* as specified in paragraphs (a) to (c) of the exemption clause.
+
+> This distinction ensures that smaller or transitional pipeline operators face a more manageable compliance burden while maintaining sufficient transparency for regulated operations.
+
+---
+
+## **Required Accounting Records and Schedules**
+
+All companies must maintain the following accounts as defined in **Schedules I to VI**:
+
+### **1. Balance Sheet Accounts (Schedule I – Accounts 1 to 93)**
+- Disclose the company’s **financial position** at the balance sheet date.
+- Include:
+  - Assets (including transportation plant)
+  - Liabilities
+  - Capital stock
+  - Retained earnings or deficit
+
+> These accounts form the foundation of the company’s financial statements.
+
+### **2. Plant Accounts (Schedule II – Accounts 100)**
+- Subsidiary to balance sheet accounts **30 (Transportation Plant)** and **38 (Transportation Plant Leased to Others)**.
+- Used to classify and track transportation plant assets.
+- Must be supported by **subsidiary accounts** that record:
+  - Costs by **location** (e.g., pumping stations, main pipelines, storage facilities, delivery points)
+  - Any other facility that is separately located
+
+> *Note*: Plant accounts must reflect actual construction, acquisition, and retirement costs.
+
+### **3. Retained Earnings Accounts (Schedule III – Accounts 300)**
+- Show changes in retained earnings annually and include:
+  - Balance transferred from income
+  - Prior period adjustments
+  - Miscellaneous retained earnings adjustments
+  - Dividend appropriations
+  - Income tax on retained earnings adjustments
+
+### **4. Income Accounts (Schedule IV – Accounts 400)**
+- Summarize revenue, expenses, and **extraordinary items**.
+- **Extraordinary items** are defined as:
+  - Material gains or losses
+  - Not typical of normal operations
+  - Not expected to recur
+  - Not recurring factors in business evaluation
+
+> **Materiality Threshold**: An item qualifies as extraordinary if it exceeds:
+> - **1% of total operating revenue**, OR  
+> - **10% of the balance transferred from income to account 302** (net income before extraordinary items)
+
+> The company must **inform the Commission** of all extraordinary items and record them in:
+> - Account 402 (Extraordinary Income) or  
+> - Account 422 (Extraordinary Income Deductions)
+
+> At year-end, the **net balance of income or loss** is transferred to retained earnings.
+
+### **5. Operating Revenue Accounts (Schedule V – Accounts 500)**
+- Classify all revenue from:
+  - Pipeline operations
+  - Operations incident to pipeline operations (e.g., gathering, storage)
+
+### **6. Operating Expense Accounts (Schedule VI – Accounts 600 & 700)**
+- Cover maintenance, transportation, and general expenses.
+- Include **separate series** for:
+  - **Gathering Function**: Costs related to collecting oil from fields, refineries, or other sources and transporting it to the trunk line intake point.
+  - **Trunk Function**: Costs of transporting oil from receiving stations to connection points with other pipelines or consignees.
+
+> **Common expenses** between gathering and trunk functions must be:
+- Equitably apportioned
+- Supported by records showing the basis of apportionment
+
+> Subsidiary accounts must record expenses by:
+- Location (e.g., pipeline districts, pumping stations, tank farms)
+- Department (for general expenses)
+
+> If direct allocation is not possible, companies may use **clearing accounts**:
+- To record expenditures temporarily
+- To distribute amounts equitably to appropriate expense or plant accounts
+- Balances must be **substantially distributed before year-end**, except for future-period items
+
+> Monthly net balances in clearing accounts are recorded in:
+- Account 45 (Other Deferred Debits) or  
+- Account 78 (Other Deferred Credits)
+
+> If used to distribute to beneficial owners (in undivided interest), clearing accounts must include sufficient details to identify each owner.
+
+---
+
+## **Cost Capitalization Rules for Plant**
+
+All costs directly related to acquiring or constructing plant must be **capitalized** in the plant accounts. This includes:
+
+### **1. Acquisition or Construction Costs**
+- Costs to acquire or construct plant must be recorded in plant accounts.
+- If the consideration is **non-monetary** (e.g., equipment, land), the **money value** on the date the contract becomes effective is debited.
+- A detailed record of the actual consideration must be retained.
+
+### **2. Purchase of Existing Facilities**
+- If a company purchases all or part of another company’s existing facilities:
+  - Must **submit a proposal** to the Commission for approval of the accounting method.
+  - If purchased from an **affiliated company**, the original cost and accumulated depreciation (as per the affiliate’s records) are carried forward.
+
+### **3. Plant Under Construction (Account 39)**
+- Must be supported by

@@ -1,0 +1,186 @@
+**Detailed Summary of the Eligible Financial Contract Regulations (Winding-up and Restructuring Act)**
+
+---
+
+### **Regulatory Authority and Legal Basis**
+
+The *Eligible Financial Contract Regulations* (Winding-up and Restructuring Act) were issued by **Her Excellency the Governor General in Council**, acting on the recommendation of the **Minister of Industry**, pursuant to **subsection 22.1(3)a** of the *Winding-up and Restructuring Act* (W-11). This provision grants the government the authority to prescribe specific types of financial contracts that qualify as "eligible financial contracts" for purposes of insolvency and restructuring under the Act.
+
+These regulations are part of **Statutes of Canada, 2007, Chapter 29 (S.C. 2007, c. 29), Section 113(4)**, and are referenced in the *Regulations of the Winding-up and Restructuring Act* (R.S., c. W-11), specifically under **1996, S.C. c. 6, s. 134**.
+
+---
+
+### **Effective Date**
+
+The regulations come into force on the date that **subsection 113(2)** of the *Budget Implementation Act, 2007, Chapter 29* of the Statutes of Canada 2007 comes into force.  
+**Note:** As of November 17, 2007, these regulations were already in force (see SI/2007-106).
+
+---
+
+## **Key Definitions**
+
+### 1. **Derivatives Agreement**
+A financial agreement whose obligations are derived from, referenced to, or based on one or more underlying reference items. These include:
+- **Interest rates, indices, currencies, commodities, securities, or ownership interests**
+- **Credit or guarantee obligations**
+- **Debt securities**
+- **Climatic variables, bandwidth, freight rates, emission rights**
+- **Real property indices**
+- **Inflation or other macroeconomic data**
+
+**Specific types included:**
+- Contracts for differences (CFDs)
+- Swaps (including total return swaps, price return swaps, default swaps, basis swaps)
+- Futures agreements
+- Caps, collars, floors, and spreads
+- Options
+- Spot or forward contracts
+
+> *Note:* The term "derivatives agreement" is broad and encompasses both exchange-traded and over-the-counter (OTC) instruments, as long as they are linked to an underlying asset or variable.
+
+---
+
+### 2. **Financial Intermediary**
+A person engaged in financial services who maintains accounts for others in the ordinary course of business. This includes:
+- **Clearing agencies**
+- **Brokers**
+- **Banks**
+- **Trust companies**
+
+> *Purpose:* This definition identifies entities that play central roles in the execution and settlement of financial transactions and are therefore relevant to determining eligibility of contracts involving securities or commodities.
+
+---
+
+## **Eligible Financial Contracts – Prescribed Types**
+
+Under subsection 22.1(2) of the *Winding-up and Restructuring Act*, the following financial agreements are explicitly recognized as **eligible financial contracts**:
+
+### **(a) Derivatives Agreements**
+- Must either:
+  - Trade on a **futures or options exchange or board**, or
+  - Be subject to **recurrent dealings** in derivatives markets (including OTC markets for securities or commodities)
+
+> *This ensures that only actively traded or market-standardized derivatives are eligible*, which supports transparency and liquidity in restructuring processes.
+
+---
+
+### **(b) Agreements to Borrow or Lend Securities or Commodities**
+- Includes:
+  - Agreements to transfer securities or commodities
+  - Repayment options: with **other securities**, **commodities**, **cash**, or **cash equivalents**
+
+> *Purpose:* To capture common financing arrangements where assets are temporarily lent or borrowed, especially in corporate restructuring or asset management contexts.
+
+---
+
+### **(c) Clearing or Settlement Agreements**
+- Agreements to:
+  - Clear or settle securities, futures, options, or derivatives transactions
+
+> *Relevance:* These are essential for ensuring smooth and legally enforceable settlement of financial obligations during insolvency proceedings.
+
+---
+
+### **(d) Deposit or Delegation of Securities**
+- Agreements where a party acts as a **depository** for securities
+
+> *Example:* A custodian bank holding shares on behalf of a client.
+
+> *Purpose:* To ensure that custody arrangements are recognized as binding financial obligations under restructuring laws.
+
+---
+
+### **(e) Repurchase, Reverse Repurchase, or Buy-Sellback Agreements**
+- With respect to **securities or commodities**
+
+> *These are common in short-term financing and are often used in trading and margin operations.*
+
+> *Note:* These are considered eligible even if they are structured as "repo" transactions.
+
+---
+
+### **(f) Margin Loans**
+- Only those that are in respect of:
+  - A **securities account** or
+  - A **futures account**
+  - And are maintained by a **financial intermediary**
+
+> *Exclusion:* Margin loans not tied to such accounts are not eligible.
+
+> *Rationale:* To prevent inclusion of speculative or non-standard lending arrangements.
+
+---
+
+### **(g) Master Agreements**
+- A master agreement is eligible **if it governs**:
+  - Any agreement listed in paragraphs (a) to (e), or
+  - A master agreement itself (i.e., a master agreement governing other agreements)
+
+> *Example:* A master netting agreement that covers multiple derivative contracts.
+
+> *Purpose:* To streamline and consolidate obligations in restructuring, especially when multiple derivative contracts are involved.
+
+---
+
+### **(h) Guarantees, Indemnities, or Reimbursement Obligations**
+- Any obligation to:
+  - Guarantee, indemnify, or reimburse liabilities under any agreement listed in (a) to (g)
+
+> *Example:* A parent company guaranteeing a subsidiary’s derivative obligations.
+
+> *Rationale:* Ensures that such support obligations are recognized as part of the financial structure being restructured.
+
+---
+
+### **(i) Agreements Relating to Financial Collateral**
+- Includes:
+  - Any form of **security or security interest** in collateral
+  - A **title transfer credit support agreement** (e.g., a collateralized agreement where title transfers to support a financial obligation)
+
+> *Purpose:* To ensure that collateral arrangements—especially those involving credit support—are recognized as part of the financial obligations under restructuring.
+
+---
+
+## **Key Principles and Objectives**
+
+1. **Clarity and Scope**:  
+   The regulations define a clear, structured list of financial instruments that are eligible to be included in insolvency or restructuring proceedings under the *Winding-up and Restructuring Act*. This helps courts and insolvency professionals determine which obligations are enforceable and can be restructured.
+
+2. **Market-Based Eligibility**:  
+   The requirement that derivatives trade on regulated markets or involve recurrent dealings ensures that only **liquid, transparent, and market-recognized instruments** are included. This reduces risk and enhances predictability in restructuring.
+
+3. **Inclusion of Common Financial Instruments**:  
+   The regulations cover standard instruments used in financial markets—such as repos, swaps, futures, and margin loans—ensuring that real-world financial practices are reflected in legal frameworks.
+
+4. **Interconnection of Agreements**:  
+   The inclusion of **master agreements** and **collateral arrangements** recognizes that financial obligations often exist in complex, interlinked networks. This allows for more efficient handling of multiple obligations during restructuring.
+
+5. **Focus on Financial Intermediaries**:  
+   By defining who qualifies as a financial intermediary, the regulations ensure that only entities with established roles in financial markets are involved in the custody, settlement, and lending of assets.
+
+---
+
+## **Legal and Practical Implications**
+
+- **For Insolvency Proceedings**:  
+  These regulations allow creditors and restructuring administrators to identify which financial contracts are legally binding and can be included in restructuring plans, asset swaps, or debt settlements.
+
+- **For Financial Institutions**:  
+  Banks, brokers, and clearing agencies must ensure that their contracts with clients (especially derivative and lending arrangements) are properly classified under these rules to avoid unintended exclusion or misclassification.
+
+- **For Courts and Regulators**:  
+  The clear definitions provide a consistent legal framework for determining the enforceability and treatment of financial obligations during corporate insolvency or restructuring.
+
+- **For Market Participants**:  
+  The regulations promote transparency and legal certainty by recognizing standard, market-based financial instruments, which helps maintain confidence in financial markets during periods of distress.
+
+---
+
+## **Conclusion**
+
+The *Eligible Financial Contract Regulations* under the *Winding-up and Restructuring Act* serve a critical function in modern insolvency law by **defining which financial instruments are legally recognized as eligible** for inclusion in restructuring and winding-up processes. By focusing on **market-traded, transparent, and commonly used financial arrangements**, the regulations enhance legal clarity, promote fairness, and support effective financial restructuring—particularly in complex environments involving derivatives, securities lending, and intercompany guarantees.
+
+They represent a significant step toward aligning Canadian insolvency law with global financial market practices, ensuring that restructuring is both practical and legally sound.
+
+---  
+**Final Note:** These regulations remain in force as of the date of issuance and continue to serve as a foundational reference for insolvency practitioners, financial institutions, and courts in Canada.

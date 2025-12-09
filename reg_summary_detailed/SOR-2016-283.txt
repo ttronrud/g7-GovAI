@@ -1,0 +1,189 @@
+### **Detailed Summary of Canadian Payments Association By-law No. 2 — Finance**  
+*Approved by the Minister of Finance on October 25, 2016, and came into force on January 1, 2017*
+
+---
+
+## **Overview**
+
+This by-law establishes the financial framework governing the **Canadian Payments Association (CPA)**, specifically how **common services dues**, **transaction fees**, and **service fees** are calculated, determined, and collected from members and participants. It operates under the authority of the *Canadian Payments Act* and is designed to ensure transparency, fairness, and operational sustainability in the association’s financial management.
+
+The by-law applies to the CPA’s operations, including its systems such as the **Automated Clearing Settlement System (ACSS)** and **Lynx**, and governs the financial obligations of both members and participants in those systems.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Amalgamated Member** | A member formed by the merger or amalgamation of existing members or members and non-members. |
+| **Common Services Costs** | Costs incurred by the Association to provide services beneficial to all members (e.g., HR, accounting, policy development, research). |
+| **Common Services Dues** | Annual dues paid by members to cover common services costs, determined annually based on budget estimates. |
+| **Direct Operating Costs** | Costs directly tied to operating a specific payment system (e.g., system maintenance, technology infrastructure). |
+| **Participant** | Includes direct clearers, group clearers (as defined in By-law No. 3), or any party involved in a payment system. |
+| **Service Fees** | Fees charged for specific services provided by the Association to members or participants (e.g., access to systems, reporting). |
+| **System** | Refers to payment systems operated by the CPA, including ACSS, Lynx, or any other clearing/settlement system established by the Association. |
+| **Transaction Fees** | Fees charged per transaction in a system, based on volume or value of transactions. |
+
+> ⚠️ *Note: "Participant" definitions have been updated; Lynx and ACSS are now explicitly referenced. The older definition of "participant" was repealed in SOR/2021-182, s. 55.*
+
+---
+
+## **Core Financial Principles and Procedures**
+
+### **1. Budget-Based Fee Determination**
+
+- The **Board of Directors** must prepare an **annual operating budget** and **capital expenditures budget** under subsection 22(1) of the *Canadian Payments Act*.
+- These budgets must:
+  - Specify **common services costs** and **direct operating costs**.
+  - Include provisions for **reserves** (e.g., for future needs or unexpected expenses).
+- The **common services dues** and **transaction fees** for each fiscal year are calculated based on these budgets.
+
+> 📌 *Purpose:* To ensure fees reflect actual and projected costs of providing services.
+
+---
+
+### **2. Adjustments to Fees**
+
+#### **(a) Significant Budget Amendments**
+- If the Board makes a **significant amendment** to the operating or capital budget for a fiscal year, it must:
+  - Adjust the common services dues and transaction fees accordingly.
+  - Provide **at least 60 days’ notice** to all members and participants before implementing the change.
+
+#### **(b) New Members**
+- A **new member** (not an amalgamated member or a "bridge institution" under the CDIC Act):
+  - Must pay the **full amount** of common services dues for the fiscal year in which it joins.
+- An **amalgamated member** formed during a fiscal year must pay:
+  - The **sum of all unpaid common services dues, transaction fees, and service fees** of the members and non-members that were merged.
+
+> ✅ *Clarification:* A member changing its name (without merging) is **not considered a new member**.
+
+---
+
+### **3. Common Services Dues Formula**
+
+For each fiscal year, the common services dues are calculated using the following formula:
+
+\[
+\text{Common Services Dues} = \frac{\text{Estimated Common Services Costs}}{\text{Estimated Number of Members on First Day of Fiscal Year}}
+\]
+
+- **Estimated Common Services Costs**: Based on the Board’s previous fiscal year’s cost estimates.
+- **Estimated Number of Members**: Determined by the Board at the start of the fiscal year.
+
+#### **Timing of Determination**
+- The Board must determine and **notify members no later than 8 months before the start of the fiscal year**.
+- Notification must include:
+  - The amount of dues.
+  - The rationale for the calculation.
+
+> 🔍 *Purpose:* Ensures members receive timely and transparent information about their financial obligations.
+
+---
+
+### **4. Surplus Allocation**
+
+- If the total **common services dues collected** exceed the actual costs of providing services:
+  - The **surplus** may be allocated to a **Research and Development (R&D) Reserve Fund**.
+  - This fund supports innovation in payment systems.
+  - The **maximum amount** for the fund is set annually by the Board.
+
+> 💡 *Benefit:* Encourages investment in future technologies and system improvements.
+
+---
+
+### **5. Transaction Fees**
+
+#### **(a) Basis for Determination**
+- For each system, transaction fees are determined based on:
+  - The **estimated operating costs** of the system.
+  - One or both of:
+    - The **estimated number of transactions** by all participants.
+    - The **estimated value of those transactions**.
+- The Board must consider:
+  - Nature of the system.
+  - Number of participants.
+  - Transaction volume and value distribution across participants.
+
+#### **(b) Cost Components Included**
+The Board’s cost estimate must account for:
+- Direct operating costs.
+- A portion of common services costs not already covered by common dues or other fees.
+- **Capital investment recovery** (e.g., costs of building or upgrading systems).
+- A **fee-stabilizing charge** (a reserve to absorb minor variations between estimates and actuals).
+
+> 📌 *Fee-stabilizing charge*: A buffer to protect against small discrepancies between projected and actual transaction volume/value.
+
+#### **(c) Timing and Notification**
+- The Board must determine and **notify participants no later than 8 months before the start of the fiscal year**.
+- Notification must explain:
+  - The amount of transaction fees.
+  - The methodology used to calculate them.
+
+#### **(d) Adjustments for Withdrawals**
+- If a participant **withdraws from a system** during a fiscal year:
+  - And the system’s reserves or surplus are **insufficient** to cover the resulting loss in transaction fees:
+    - The **President** must adjust the transaction fees for that fiscal year.
+- Such adjustments require **at least 15 days’ notice** to participants.
+
+> ⚖️ *Purpose:* Maintains financial stability and ensures the system remains viable even when participant numbers fluctuate.
+
+---
+
+### **6. Fees for Services Provided**
+
+- All fees (except transaction fees) for services provided by the Association to members or participants must be:
+  - **Cost-based** — equal to the actual cost of providing the service.
+- These fees are not subject to profit margins or arbitrary pricing.
+
+---
+
+### **7. Liability Upon Withdrawal or Cessation of Membership**
+
+- A member or participant that:
+  - Ceases to be a member, or
+  - Withdraws from a system,
+- Is **not entitled to a refund** of any previously paid common services dues, transaction fees, or service fees.
+- Remains **liable for any unpaid amounts**.
+
+> ❌ *No refunds or prorated charges* — all fees are final and non-refundable upon exit.
+
+---
+
+### **8. Payment Deadlines**
+
+- **Common Services Dues**:
+  - Due on or before the **first day of each fiscal year**.
+  - Alternatively, the Board may set a different due date (under subsection 3).
+- **Transaction Fees**:
+  - Due within **15 days after an invoice is issued**.
+  - Or, if a different date is set by the Board, by that date.
+
+> ⚙️ *Operational Efficiency Note:* The Board may establish alternative due dates for administrative or operational reasons.
+
+---
+
+### **9. Interest on Late Payments**
+
+- If a member, participant, or other person fails to pay dues, fees, or service fees by the due date:
+  - Interest accrues at a rate of **not more than 0.125% per day**.
+  - Interest is calculated using a method established by a Board resolution.
+- The interest **accrues to the general revenue** of the Association.
+
+> 💡 *Purpose:* Encourages timely payments and provides a financial incentive to comply with obligations.
+
+---
+
+### **10. Exemptions and Repeals**
+
+- **Subsections 2(2), 5(2), and 6(6)** of the by-law **do not apply** to the fiscal year beginning **January 1, 2017**.
+- This by-law was **repealed** in part (specifically, the earlier definitions of "participant" and "system") by **SOR/2021-182, s. 55**, which updated the definitions to reflect current systems (e.g., Lynx and ACSS).
+
+> 📅 *Effective Date:* January 1, 2017 — the first fiscal year after the by-law came into force.
+
+---
+
+## **Key Objectives and Implications**
+
+| Objective | Impact |
+|--------|--------|
+| **Transparency** | Dues and fees are calculated transparently and communicated well

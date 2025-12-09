@@ -1,0 +1,122 @@
+### **Detailed Summary of the Solvency Funding Relief Regulations, 2009**
+
+The **Solvency Funding Relief Regulations, 2009** (S.O. 2009, c. 11) are a set of administrative regulations made under the **Pension Benefits Standards Act, 1985 (Pension Benefits Standards Act or "the Act")**. These regulations establish a framework for the **funding of solvency deficiencies** in defined benefit pension plans—specifically those that emerged in or after the 2008 plan year—by allowing plan administrators to fund such deficiencies through **annual "solvency special payments"** over a period of up to 10 years, rather than through immediate or full remediation.
+
+This summary provides a comprehensive, structured breakdown of the regulation's **purpose, definitions, key provisions, application conditions, and procedural requirements**.
+
+---
+
+## **I. Purpose and Background**
+
+- The regulations were introduced to address **solvency deficiencies** in defined benefit pension plans that arose due to **actuarial underfunding**—particularly those identified in 2008 and beyond.
+- They were developed in response to the **financial instability** of certain pension plans, where the **liabilities exceeded the value of plan assets**.
+- The goal is to **provide a flexible, structured, and legally compliant pathway** for funding these deficiencies without requiring full termination or immediate capital injections, thus protecting plan members’ benefits and maintaining plan viability.
+
+> **Legal Authority**:  
+> The regulations are made under the **Pension Benefits Standards Act**, specifically in relation to the definitions of "surplus" in various subsections (e.g., 2(1), 9(1), 10.1(2)(b)(b), 12(3), 28(1)(b)(c), 29(6)(a), and section 39d), which relate to solvency and funding obligations.
+
+---
+
+## **II. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Acceptable Rating** | A credit rating from one of four agencies: A (Dominion Bond Rating Service), A (Fitch), A2 (Moody’s), or A (S&P). Required for issuers of letters of credit. |
+| **Bank / Cooperative Credit Society** | As defined in the Bank Act or applicable provincial legislation. Must be independent of the employer. |
+| **Beneficiary** | A member or former member entitled to pension benefits, excluding those who transferred benefits under section 26 of the Act or who have received a life annuity. |
+| **Beneficiary Representative** | Union or court-appointed representative of beneficiaries. |
+| **Crown Corporation** | A federal Crown entity not exempted from employment coverage under subsection 4(6) of the Act. |
+| **Default** | Any event that terminates or threatens termination of the plan, including: <br> - Termination by employer or Superintendent; <br> - Bankruptcy filing; <br> - Failure to renew or maintain letter of credit; <br> - Non-compliance with credit requirements. |
+| **Deficiency** | A shortfall between plan liabilities and assets. Includes both **2008 solvency deficiency** and general **solvency deficiency** under subsection 9(1) of the Pension Benefits Standards Regulations. |
+| **Solvency Shortfall** | The amount by which plan liabilities exceed assets (market value-based) as of the end of the 2008 plan year, adjusted for any special payments already made. |
+| **Special Payment** | A payment (or series) used to fund the solvency shortfall, calculated under various regulations (e.g., Pension Benefits Standards Regulations, Air Canada Regulations, or these regulations). |
+| **2008 Solvency Deficiency** | A deficiency identified in a valuation between November 1, 2008, and October 31, 2009. |
+| **2008 Plan Year** | Ends no later than October 31, 2009. |
+| **2009 Plan Year** | Ends no later than October 31, 2010. |
+
+> All other terms are interpreted as in the **Pension Benefits Standards Regulations, 1985**, unless otherwise specified.
+
+---
+
+## **III. Core Provisions and Funding Mechanisms**
+
+### **1. Funding of Deficiencies via Annual Special Payments**
+
+- If a plan has a **solvency deficiency** (as defined in subsection 9(1) of the Pension Benefits Standards Regulations), it may be funded through **annual solvency special payments**.
+- These payments are calculated as follows:
+
+> **Annual Payment = (Solvency Deficiency ÷ 5) – Going Concern Special Payments (excluding those under paragraph 14(1)(c))**
+
+- The **"going concern" special payments** are those made to maintain the plan’s ongoing operation (e.g., normal cost, contributions).
+- The **divided by 5** reflects a **maximum 5-year funding period**, but the regulations allow **up to 10 years** under certain conditions.
+
+> **Note**: This formula ensures that the plan is not overfunded in the short term while still addressing the deficiency over a reasonable period.
+
+---
+
+### **2. Special Payments and Their Role**
+
+- Special payments are **not** the same as regular contributions.
+- They are **specifically designed** to fund the **solvency shortfall** and are required to be made **in annual installments**.
+- Payments are **calculated based on actuarial valuations** and must reflect the plan’s actual liabilities and asset values.
+
+> **Key Point**: The regulations **allow for partial funding** of the deficiency through special payments, even if the full deficiency is not immediately resolved.
+
+---
+
+### **3. Treatment of 2008 Solvency Deficiency**
+
+- A **2008 solvency deficiency** is defined as a deficiency identified between November 1, 2008, and October 31, 2009.
+- This deficiency may be **funded through special payments** over a period not exceeding **10 years** from the date of emergence.
+- The **present value of future special payments** due in the next 10 years is included in the calculation of the deficiency.
+
+> **Exception**: The regulations **do not apply** to solvency deficiencies arising from Air Canada’s election to fund a plan under Part 2 of the **Air Canada Pension Plan Solvency Deficiency Funding Regulations**, except for a 2008 deficiency at the end of that year.
+
+---
+
+### **4. Funding Requirements and Pre-Conditions**
+
+Before a plan can be funded under these regulations, the following **must be met**:
+
+1. **All prior payments owed to the pension fund** must have been made **before the deficiency emerges** (as required by subsection 9(14) of the Pension Benefits Standards Regulations).
+2. The administrator must **file two documents** with the Superintendent:
+   - A **written notification** that the deficiency will be funded under section 5.
+   - The **actuarial report** that values the plan as of the date the deficiency emerged.
+
+> These filings are mandatory and serve as formal justification for the funding action.
+
+---
+
+### **5. Solvency Ratio and Reporting Requirements**
+
+- For the **2009 plan year**, the **prescribed solvency ratio** is based on the actuarial report that first identified the deficiency.
+- The administrator is required to provide beneficiaries with detailed information, including:
+  - The **solvency ratio** at the time of deficiency emergence.
+  - The **amount of the deficiency** to be funded.
+  - A description of how **benefits would be reduced** if the plan were fully terminated.
+  - A warning that **extending the funding period beyond 5 years** may:
+    - Reduce the value of plan assets during the funding period.
+    - Extend the time during which assets are below liabilities.
+  - The **special payments** that would have been made under the standard regulations (section 9 of the Pension Benefits Standards Regulations).
+  - The **special payments to be made in the 2009 plan year**.
+  - A statement that **funding may continue beyond 2009** only if **less than one-third of members and less than one-third of beneficiaries (excluding members)** object.
+  - A statement that **Superintendent approval is not required** for funding under these regulations.
+  - A deadline for **objections** (not less than 30 days after the information is provided).
+  - A statement that **benefits will remain restricted** for **four additional plan years** after 2009 if the deficiency is funded under this Part.
+  - A right of access to relevant documents under paragraph 28(1)(c) of the Act.
+
+> If a beneficiary is represented by a **beneficiary representative**, the administrator must provide the information to that representative and treat the representative as acting on behalf of the beneficiaries.
+
+---
+
+### **6. Multi-Employer Plans and Collective Agreements**
+
+- In **multi-employer pension plans**, if the **annual payment required under this Part is less than the total payments required under applicable collective agreements** (excluding normal cost and special payments to liquidate unfunded liabilities), then:
+  - The **payment required under this Part shall be the full amount required under collective agreements**.
+  - The **accrual rule in subsection (4)** (see below) **does not apply** in such cases.
+
+> This ensures that **collective agreement obligations take priority** in multi-employer settings.
+
+---
+
+### **7. Accrual of Amounts (Special Provision)**

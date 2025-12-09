@@ -1,0 +1,175 @@
+The regulation you provided is a **repealed and outdated version** of a former Canadian government regulation under the *Excise Tax Act*, specifically concerning **streamlined accounting methods** for certain registrants (businesses) to calculate their excise tax liability using a simplified "quick method." However, it is **no longer in force**, and its content has been **fully repealed** by subsequent legislation.
+
+Below is a **detailed, accurate, and comprehensive summary** of the regulation as it existed at the time of enactment — with clear context, explanation, and notes on its current status.
+
+---
+
+## 🔍 **Detailed Summary of the Repealed Regulation: Streamlined Accounting Methods under the Excise Tax Act**
+
+> **Regulation Title:** Regulations prescribing streamlined accounting methods and other matters for the purposes of section 227 of the Excise Tax Act  
+> **Enacted by:** His Excellency the Governor General in Council, on the recommendation of the Minister of Finance  
+> **Authority:** Subsection 277(1) of the *Excise Tax Act*  
+> **Statutory Citation:** S.C. 1990, c. 45, s. 12  
+> **Status:** **Fully Repealed** — SOR/2006-162, s. 6 (repealed in 2006)  
+> **Note:** This regulation was superseded and replaced by more modern and simplified rules under the *Excise Tax Act*, particularly in the context of the **"Quick Method"** for calculating excise tax for small businesses.
+
+---
+
+## 📌 Purpose of the Regulation
+
+The primary purpose of these regulations was to allow **small and medium-sized businesses (registrants)** to simplify their excise tax calculations by adopting a **"quick method"** of determining their net tax liability — instead of using the full, complex accounting and reporting requirements of the standard tax regime.
+
+This streamlined approach aimed to:
+- Reduce administrative burden
+- Improve compliance for businesses with low-volume or routine taxable supplies
+- Provide a consistent and predictable tax rate based on the registrant's business activity and location
+
+---
+
+## 🔍 Key Definitions and Concepts
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Excise Tax Act* |
+| **Election** | A formal choice by a registrant to use the quick method for calculating net tax under section 227 of the Act |
+| **Specified Registrant** | A business that does not fall into certain exempt or high-risk categories (e.g., financial institutions, professional service providers, charities, non-profits). Must meet strict criteria throughout relevant fiscal quarters. |
+| **Specified Supply** | A taxable supply that is *not* exempt or deemed exempt — excludes sales of real property, capital assets, financial services, zero-rated supplies, or supplies outside Canada. |
+| **Threshold Period** | A defined time period (typically 4 fiscal quarters) used to calculate the "basic threshold amount" and determine eligibility for the quick method. |
+| **Basic Threshold Amount** | A formula-based calculation that determines the baseline for determining the quick-method rate. |
+| **Quick-Method Rate** | A fixed percentage tax rate applied to specified supplies based on the registrant’s location and the location of its permanent establishment. |
+
+---
+
+## 📐 Formula for Basic Threshold Amount
+
+The **basic threshold amount** for a reporting period is calculated using the formula:
+
+> **Basic Threshold Amount = (A + B) / C**
+
+Where:
+- **A** = Total consideration (excluding goodwill) received by the registrant for taxable supplies (excluding financial services, real property, capital assets, and deemed supplies) made in Canada.
+- **B** = Total tax under Division II (excise tax) that became collectible in the threshold period on those same supplies.
+- **C** = Number of days in the threshold period.
+
+This formula measures the **total revenue and tax collected** relative to the time period, forming the basis for eligibility and rate determination.
+
+---
+
+## 📐 Formula for Total Threshold Amount
+
+The **total threshold amount** includes:
+1. The basic threshold amount (as above), and  
+2. A sum of amounts from **associated businesses (associates)**.
+
+For each associate:
+> **Associate Amount = (D + E) / F**
+
+Where:
+- **D** = Consideration received by the associate for taxable supplies (excluding financial services, real property, capital assets).
+- **E** = Excise tax collected by the associate on those supplies.
+- **F** = Number of days in the associate’s fiscal year.
+
+This allows for **grouping of related businesses** to assess overall tax exposure.
+
+---
+
+## 💰 Cost of Tangible Personal Property
+
+The "cost" of acquiring tangible personal property (e.g., goods sold) is defined as:
+
+> **Cost = A + B + C / D**
+
+Where:
+- **A** = Consideration paid by the registrant for the property
+- **B** = Value of imported property (as per section 215 of the Act)
+- **C** = Excise tax paid on the property
+- **D** = Number of days in the threshold period
+
+This cost is used to determine whether the registrant meets the **40% threshold** for qualifying under the quick method.
+
+---
+
+## 🚦 Threshold Period Rules
+
+The threshold period is determined based on when the registrant makes the election:
+
+| Scenario | Threshold Period |
+|--------|------------------|
+| Election becomes effective during a fiscal year | The 4 quarters immediately preceding the quarter in which the election takes effect |
+| Election was effective before the start of the fiscal year | The previous fiscal year |
+
+**Special Rule for January 1, 1991:**
+- If an election is filed after the end of a fiscal year ending in 1990, the threshold period is the **last fiscal year before filing**.
+- If no filing is made, the last fiscal year before filing is used to determine the quick-method rate.
+
+---
+
+## 📊 Quick-Method Tax Rates
+
+The **quick-method rate** depends on:
+1. Where the **permanent establishment** of the registrant is located
+2. Where the **supply is made**
+
+### ✅ Quick-Method Rates (by location of permanent establishment)
+
+| Permanent Establishment | Supply Location | Tax Rate |
+|------------------------|------------------|---------|
+| **Ontario** | Ontario | 4.4% |
+| | Nova Scotia | 5.3% |
+| | New Brunswick, PEI, NL | 6.1% |
+| | Non-participating province | 0% |
+
+| **Nova Scotia** | Ontario | 3.9% |
+| | Nova Scotia | 4.7% |
+| | NB, PEI, NL | 5.6% |
+| | Non-participating | 0% |
+
+| **NB/PEI/NL** | Ontario | 3.3% |
+| | Nova Scotia | 4.2% |
+| | NB, PEI, NL | 5.0% |
+| | Non-participating | 0% |
+
+| **Non-participating province** | Ontario | 8.8% |
+| | Nova Scotia | 9.6% |
+| | NB, PEI, NL | 10.4% |
+| | Non-participating | 1.8% |
+
+> ⚠️ **Note:** These rates were **repealed in 2016** (SOR/2016-212, s. 4) and replaced with updated rates under the modern *Excise Tax Act* framework.
+
+---
+
+## 📝 Special Rules
+
+1. **Deduction under subsection 234(3)**  
+   - If a registrant is entitled to a deduction (e.g., for input tax), the supply is **deemed to be made in a non-participating province** for rate purposes.
+
+2. **Treatment of Supplies Through Permanent Establishments**  
+   - If **substantially all** of the specified supplies are made in a participating province → treat all as made in a participating province  
+   - If **substantially all** are made in non-participating provinces → treat all as made in a non-participating province
+
+3. **Net Specified Supplies**  
+   - Calculated as:  
+     > **Total consideration received + Tax collected**  
+     > **Minus** refunds, rebates, or credits given to customers or for tax
+
+4. **Change in Status**  
+   - If a registrant **ceases to be a qualified registrant** (e.g., due to revocation of election or loss of status) during a fiscal quarter, the **quick-method rate reverts to the previous quarter’s rate**.
+
+---
+
+## ⚠️ Important Notes on Repeal and Obsolescence
+
+- **Repealed by SOR/2006-162, s. 6** — This regulation was officially **repealed in 2006**.
+- **Further repealed by SOR/2016-212, s. 4** — The specific quick-method rate tables were removed in 2016.
+- The **modern Excise Tax Act** now uses a **different framework** for simplified tax calculations, including:
+  - The **"Small Business" or "Simplified Method"** under section 227
+  - Updated thresholds and rates
+  - Focus on **actual supply volume and location**, not just cost-based thresholds
+
+---
+
+## 📚 Why Was This Regulation Created?
+
+- To **reduce compliance costs** for small businesses
+- To **avoid complex accounting** required under standard excise tax rules
+-

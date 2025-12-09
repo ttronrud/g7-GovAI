@@ -1,0 +1,112 @@
+### **Detailed Summary of the *Reduction in the Release of Volatile Organic Compounds (Storage and Loading of Volatile Petroleum Liquids) Regulations***  
+**Effective Date:** February 24, 2024 (Published in *Canada Gazette*, Part I)  
+**Enacted Under:** *Canadian Environmental Protection Act, 1999* (CEPA 1999), specifically subsections 93(1)d, 330(3.2)f, and section 286.1e  
+
+---
+
+## **1. Background and Regulatory Process**
+
+The proposed regulations were introduced under **subsection 332(1)a of CEPA 1999**, which requires the Minister of the Environment to publish proposed regulations and provide a public comment period. This process allows stakeholders—including industry, environmental groups, and the public—to submit:
+- Written comments, or  
+- Notices of objection requesting a **board of review** to assess whether the proposed rules adequately protect human health and the environment.
+
+Additionally, the **National Advisory Committee** was given an opportunity (under subsection 93(3)) to provide expert advice in accordance with section 6c of CEPA 1999. This ensures scientific and technical input is considered before finalization.
+
+The Governor in Council concluded (under subsection 93(4)) that the proposed regulations:
+- Do **not overlap** with existing environmental or health regulations under other federal or provincial laws,  
+- Provide **sufficient protection** to human health and the environment,  
+- Are consistent with the intent of CEPA 1999 to reduce the release of **volatile organic compounds (VOCs)**.
+
+As a result, the **Governor in Council**, on the recommendation of the **Minister of the Environment** and the **Minister of Health**, formally adopted the regulations under CEPA 1999.
+
+---
+
+## **2. Purpose of the Regulations**
+
+The primary objective is to **reduce the release of volatile organic compounds (VOCs)** during the **storage and loading of volatile petroleum liquids**. VOCs contribute to smog formation, respiratory health issues, and long-term environmental damage. These regulations specifically target:
+- **Vapour emissions** from tanks and loading racks,
+- **Leakage events** (both liquid and vapour),
+- **Inadequate control systems** in facilities handling petroleum products.
+
+By setting performance standards, monitoring requirements, and operational controls, the regulations aim to minimize fugitive emissions and improve environmental and public health outcomes—particularly in **population centres**.
+
+---
+
+## **3. Key Definitions (Core Terminology)**
+
+The regulations define key terms to ensure clarity and consistency across enforcement and compliance:
+
+| Term | Definition |
+|------|-----------|
+| **Volatile Organic Compound (VOC)** | Any compound that participates in atmospheric photochemical reactions and is not excluded under item 60 of Part 2 of Schedule 1 to CEPA 1999. |
+| **Volatile Petroleum Liquid (VPL)** | A liquid that: <br> • Exists as a liquid at 20°C and 101.325 kPa; <br> • Contains ≥10% VOCs by weight; <br> • Has vapour pressure >10 kPa (or >3.5 kPa if benzene >2%); <br> • Is not a low-petroleum ethanol blend (<10% petroleum). |
+| **Facility** | Buildings, structures, and equipment used for storing or loading VPLs on a single property or connected properties within **2 km of each other**, sharing at least one operator. |
+| **Existing Tank/Rack/Control System** | Equipment in service **on or before the date of regulation implementation**. |
+| **Loading** | Transfer of liquid into or out of a vehicle tank or between a vehicle and a fixed roof tank. |
+| **Loading Rack** | Includes loading arms, pumps, piping, instrumentation, and structures. |
+| **Floating Roof** | A roof that floats on liquid to reduce vapour emissions. <br> - *Internal floating roof*: protected from atmosphere. <br> - *External floating roof*: exposed to atmosphere. |
+| **Inerted Tank** | A tank with a non-hydrocarbon inert gas (e.g., nitrogen) so that oxygen levels are insufficient to support combustion. |
+| **Vapour Leak** | Any release of vapour where VOC concentration exceeds: <br> • 10,000 ppmv (by volume) if detected **on or before Dec 31, 2026**; <br> • 1000 ppmv **after Dec 31, 2026**. |
+| **Liquid Leak** | A leak where ≥3 drops per minute are observed visually over 3 minutes. |
+| **Occupied Building** | A structure outside the facility boundary used for residence, work, education, healthcare, childcare, or community purposes (excluding tents, trailers, mobile homes built after regulation application). |
+| **Operator** | The individual or entity managing the facility; if multiple parties, the one designated in writing; otherwise, the owner. |
+| **Emissions Control Equipment** | Includes vapour control systems, temporary systems, internal/external floating roofs, pressure-vacuum vents, and vapour recovery/destruction systems. |
+| **Fenceline Monitoring Program** | Must meet one of the following: <br> • Standards from the *Reduction in VOC Emissions Regulations (Petroleum Sector)*; <br> • Ontario Regulation 419/05 (Air Pollution – Local Air Quality); <br> • U.S. EPA Method 325A (sampling) and 325B (analysis), with modifications: <br>   - Sampling period: 13–15 days; <br>   - All samples must be analyzed for benzene. |
+| **Loading Factor** | A numerical value indicating VOC emissions from a loading rack. |
+| **Switch Loading** | Loading a non-VPL into a vehicle previously holding a VPL without purging vapours or washing the tank. |
+| **Vehicle-to-Vehicle Loading** | Direct transfer from one vehicle to another without using a loading rack. |
+| **Pressure-Vacuum Vent** | Allows gas to enter or exit a fixed roof tank during pressure/vacuum changes. |
+| **Primary/Secondary Seal** | Seals on floating roofs to prevent vapour escape. Primary seal is closest to liquid surface; secondary seals are above it. |
+| **Scheduled Maintenance** | Maintenance planned in advance to ensure compliance with design specs, schedules, or regulatory requirements. |
+| **Standard m³** | Volume measured at 15°C and 101.325 kPa (normal conditions). |
+
+---
+
+## **4. Scope and Application**
+
+These regulations apply to any **facility** that meets **at least one** of the following conditions:
+
+1. **Total internal volume** of tanks storing volatile petroleum liquids ≥ **500 m³**  
+2. **Total volume of VPL loaded** at the facility exceeds **4,000 standard m³ per calendar year**  
+3. **At least one tank** at the facility is designated as a **high benzene tank** (benzene concentration >20% by weight)  
+4. **At least one loading rack** is designated as a **high benzene loading rack** (used to load VPL with benzene >20% by weight)
+
+> *Note:* The regulations apply to all **existing** tanks, racks, and systems in service on or before the effective date, and also to new facilities that meet these thresholds.
+
+---
+
+## **5. Key Provisions and Requirements**
+
+### **A. Emissions Control Equipment Requirements**
+- All **new or existing facilities** must install and maintain **effective emissions control equipment** to prevent VOC releases.
+- Required equipment includes:
+  - **Vapour control systems** (capture and prevent release of vapours),
+  - **Vapour recovery systems** (capture vapours for reuse, not just for heat/energy),
+  - **Vapour destruction systems** (combustion/thermal oxidation to destroy vapours),
+  - **Vapour balancing systems** (recirculate vapours from receiving tank to source tank during loading to avoid release),
+  - **Internal floating roofs** (preferred over external ones due to better vapour containment),
+  - **Inerted tanks** (for high-risk storage of benzene-rich liquids).
+
+> *Exception:* Facilities with only fixed roofs may be allowed under certain conditions, but must demonstrate equivalent emission control.
+
+---
+
+### **B. Monitoring and Reporting**
+- Facilities must implement a **fenceline monitoring program** to detect VOC emissions near occupied buildings.
+- Monitoring must:
+  - Be conducted at least annually or more frequently if required by risk level,
+  - Include sampling for **benzene** (mandatory),
+  - Use approved methods (EPA 325A/B or equivalent),
+  - Be performed by **qualified professionals** (engineers, chemists, scientists).
+
+- **Records** of all monitoring, maintenance, and leak investigations must be retained for **at least 5 years**.
+
+---
+
+### **C. Leak Detection and Response**
+- **Liquid leaks** must be detected and reported immediately if ≥3 drops per minute are observed.
+- **Vapour leaks** must be reported if VOC concentration exceeds:
+  - **10,000 ppmv** (before Dec 31, 2026),
+  - **1,000 ppmv** (after Dec 31, 2026).
+
+> *Note:* This creates a phased approach to reduce emissions over time, allowing facilities to transition to

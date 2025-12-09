@@ -1,0 +1,180 @@
+The regulation you provided is a **detailed set of definitions and contribution rules** under the **Canada Pension Plan (CPP)**, specifically outlining how employee and employer contributions are calculated, applied, and remitted. However, it is important to note that **this regulation has been partially repealed or amended**, as indicated by the header:
+
+> **[Repealed, SOR/2024-265, s. 2]**
+
+This means that **the entire regulation or its key provisions have been officially repealed** as of the date of the notice (SOR/2024-265, section 2), and thus **is no longer in force**. Therefore, **this document does not represent current law** and should not be used for compliance or administrative purposes.
+
+---
+
+## 🔍 Detailed Summary (as of the date of repeal)
+
+Despite being repealed, the content provides a comprehensive and legally precise summary of how the CPP contribution system operated prior to its repeal. Below is a **detailed, structured summary** of the **substantive provisions** that were in effect before repeal — presented in a clear, accessible format for understanding the historical framework.
+
+---
+
+## 📚 I. Definitions and Key Terms
+
+### 1. **Act**
+- Refers to the *Canada Pension Plan Act* (Loi sur le régime de la retraite du Canada).
+
+### 2. **Minister**
+- In **Parts I–IV**: Minister of National Revenue  
+- In **Part V**: Minister as defined in subsection 42(1) of the Act (typically the Minister of Finance)
+
+> ⚠️ Note: The roles of "Chairman," "Commissioner," and "Vice-Chairman" have been **repealed** (SOR/2013-61, s.1), so these are no longer used.
+
+---
+
+## 🌾 II. Definitions of Economic Activities (for determining pensionable employment)
+
+These define what types of work are considered **pensionable employment** under the CPP.
+
+| Term | Definition |
+|------|-----------|
+| **Agriculture** | Includes farming operations such as clearing land, cultivating soil, raising livestock, beekeeping, dairy farming, maple syrup production, and incidental off-farm sales or processing of agricultural products. |
+| **Agricultural Enterprise** | The business of agriculture carried out for the benefit of a farmer. |
+| **Fishing** | Any fishing for fish, shellfish, crustaceans, or aquatic plants or animals using any method. |
+| **Forestry** | Planting, breeding, harvesting, or protecting trees in forests, woodlots, or tree farms. Includes incidental services. |
+| **Horticulture** | Breeding, producing, harvesting of vegetables, flowers, shrubs, ornamental grasses, seeds, seedlings, grafts, cuttings; and incidental landscape gardening. |
+| **Hunting** | Hunting wild animals by any method, **excluding rodent extermination**. |
+| **Logging** | Converting trees into timber in forests, woodlots, or tree farms. |
+| **Lumbering** | Milling timber into lumber or boards, including preparation for milling. |
+| **Trapping** | Using traps or devices to take or destroy wild animals, **excluding rodent extermination**. |
+
+> ✅ **Timber** (for logging/lumbering): Defined broadly to include logs, lathwood, pulpwood, fuelwood, veneerwood, posts, stakes, bark, chips, and any crude wood before milling.
+
+---
+
+## 💰 III. Key Financial Definitions
+
+| Term | Meaning |
+|------|--------|
+| **Ordinary Remuneration** | The amount paid to an employee on a pay day for work during a pay period. Includes director fees if no other remuneration is paid. |
+| **Pay Day** | The regular day on which remuneration is paid. |
+| **Pay Period** | The usual period (e.g., hourly, daily, weekly) or actual payment period (e.g., one day). Can be as short as one hour. |
+| **Remuneration** | Same as “contributory salary and wages” under section 12 of the Act. |
+| **Year’s Maximum Base Contribution** | Calculated as: <br> `(Contribution Rate) × (Max Pensionable Earnings – Basic Exemption)` |
+| **Year’s Maximum First Additional Contribution** | `(First Additional Rate) × (Max Pensionable Earnings – Basic Exemption)` |
+| **Year’s Maximum Second Additional Contribution** | `(Second Additional Rate) × (Additional Max Pensionable Earnings – Max Pensionable Earnings)` |
+
+> These maximums cap how much an employee can contribute annually.
+
+---
+
+## 📌 IV. Contribution Calculation Rules
+
+### A. Base and First Additional Contributions (for qualifying payments)
+
+- **Qualifying Payment**: Portion of remuneration that is ordinary remuneration from pensionable employment.
+- **Formula**:
+  $$
+  \text{Contribution} = (\text{Payment} - \text{Basic Exemption}) \times (\text{Base Rate} + \text{First Additional Rate})
+  $$
+- **Rounding Rule**: Rounded to nearest $0.01; if equidistant, rounded **up**.
+
+> Example: If an employee earns $200 in a pay period with a $14.58 basic exemption, and rates are 9.9% and 1.5%, the contribution is calculated accordingly.
+
+---
+
+### B. Basic Exemption Amounts (by payment frequency)
+
+| Payment Frequency | Basic Exemption |
+|------------------|-----------------|
+| Hourly | $1.75 |
+| Daily | $14.58 |
+| Weekly | $67.30 |
+| Bi-weekly | $134.61 |
+| Quadri-weekly | $269.23 |
+| Semi-monthly | $145.83 |
+| Monthly | $291.66 |
+| Quarterly | $875 |
+| Semi-annually | $1,750 |
+| Annually | $3,500 |
+
+> Special cases:
+> - For employees paid only for 10 months/year:
+>   - 22 payments → $159.09
+>   - Semi-monthly → $175
+>   - Monthly → $350
+> - Otherwise: greater of:
+>   - ($3,500 × (days in period / 365))
+>   - $67.30
+
+> ⚠️ **Adjustment for 27 bi-weekly or 53 weekly periods**:
+> - Add to each pay period:  
+>   $$
+>   \left(\frac{\text{Annual Basic Exemption}}{27 \text{ or } 53}\right) \times (\text{Base Rate} + \text{First Additional Rate})
+>   $$
+> - This adjustment ensures fairer distribution of contributions across more frequent pay periods.
+
+---
+
+### C. Minimum Contribution Rule
+
+- If a payment exceeds the basic exemption for the pay period, **at least $0.01** must be deducted as contribution.
+
+---
+
+### D. Annual Contribution Caps
+
+- Total base and first additional contributions **cannot exceed**:
+  - Year’s maximum base contribution + year’s maximum first additional contribution.
+
+---
+
+## 🚀 V. Second Additional Contribution (for high earners)
+
+- **Applies only when**:
+  $$
+  \text{Payment} > \text{Total remuneration to date} \quad \text{and} \quad \text{Total remuneration} > \text{Max Pensionable Earnings}
+  $$
+- **Formula**:
+  $$
+  \text{Second Additional Contribution} = (\text{Payment} - \text{Total Remuneration to Date}) \times \text{Second Additional Rate}
+  $$
+  (Only if result > 0)
+
+> This is designed to capture contributions from **high-income earners** who exceed the standard pensionable earnings limit.
+
+- **Annual cap**: Total second additional contributions **cannot exceed** the year’s maximum second additional contribution.
+
+---
+
+## 🔁 VI. Coordination with Provincial Pension Plans
+
+To avoid **double contribution**, the CPP adjusts contributions when employees already contribute under provincial plans.
+
+### A. For Base & First Additional Contributions:
+- The employee’s CPP contribution **cannot exceed**:
+  $$
+  (\text{Max Base + Max First Additional}) - (\text{Previous contributions under provincial plan})
+  $$
+- Adjustment factor:  
+  $$
+  \text{Ratio} = \frac{\text{CPP Rate (base + first)}}{\text{Provincial Plan Rate (base + first)}}
+  $$
+
+> So if a provincial plan has a lower rate, the CPP contribution is reduced proportionally.
+
+### B. For Second Additional Contributions:
+- Similarly, the CPP contribution **cannot exceed**:
+  $$
+  \text{Max Second Additional} - (\text{Previous provincial contributions})
+  $$
+- Adjustment factor:  
+  $$
+  \text{Ratio} = \frac{\text{CPP Second Rate}}{\text{Provincial Second Rate}}
+  $$
+
+---
+
+## 💼 VII. Employer Remittance Rules
+
+- **General Rule**:  
+  Employer must remit employee and employer contributions to the **Receiver General** **on or before the 15th day of the following month** after paying remuneration.
+
+> Example: Remuneration paid in May → remittance due by June 15.
+
+### Exception for Large Employers (Average Monthly Withholding ≥ $25,000)
+
+- **If average monthly withholding ≥ $25,

@@ -1,0 +1,127 @@
+### **Detailed Summary of the Pond Inlet Airport Zoning Regulations**
+
+---
+
+#### **1. Regulatory Background and Legal Authority**
+
+The **Pond Inlet Airport Zoning Regulations** were established under the **Aeronautics Act (R.S., c. A-2)**, specifically pursuant to **paragraphs 5.4(2)(b)a and (c)a** of that Act. These provisions empower the Minister of Transport, on recommendation of the Governor General in Council, to establish zoning regulations to protect the safety and operational integrity of an airport.
+
+The proposed regulations were first published in two successive issues of the *Nunatsiaq News* on **February 10 and 17, 2012**, and then in two successive issues of the *Canada Gazette, Part I* on **March 19 and 26, 2011**. This publication process provided a **reasonable opportunity for interested parties** (including local communities, landowners, aviation stakeholders, and the public) to submit representations or objections to the proposed rules.
+
+The final regulations were formally adopted and came into force on the date when the requirements under **subsection 5.6(2)** of the Aeronautics Act were met.  
+> **Effective Date**: April 2, 2013 (as noted in the regulation)
+
+---
+
+#### **2. Purpose of the Regulations**
+
+The primary objectives of these zoning regulations are:
+
+- To **prevent land use or development adjacent to or near Pond Inlet Airport** that could compromise the **safe operation of aircraft**.
+- To **prevent interference with critical aeronautical signals and communications** (such as radar, radio, or navigation systems) that serve aircraft or airport facilities.
+
+These measures are essential for ensuring aviation safety, particularly in remote Arctic environments where visibility, terrain, and environmental factors can significantly impact flight operations.
+
+---
+
+#### **3. Key Definitions**
+
+The following terms are defined and used throughout the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Airport** | Refers specifically to **Pond Inlet Airport**, located near Pond Inlet, Nunavut. |
+| **Airport Reference Point (ARP)** | The geometric center of the runway thresholds, located at grid coordinates **8,068,145.848 N, 401,368.632 E** (latitude 72°41′18″ N, longitude 77°58′15″ W). It is 824.07 m from the end of runway 02–20 and sits at an elevation of **60.90 m above sea level**. |
+| **Approach Surface** | An imaginary inclined surface extending from each end of the runway (runway 02 and 20). It rises at a **1:40 gradient** (1 meter vertical rise per 40 meters horizontal distance) from the runway threshold to a horizontal line 3,000 meters out from the runway end. The outer ends of this line are 525 meters from the runway centerline and 75 meters above the threshold elevation. |
+| **Outer Surface** | An imaginary surface extending **4,000 meters** from the ARP in all directions. It maintains a constant elevation of **45 meters above the ARP**, but **does not fall below 9 meters above ground level**. |
+| **Strip Surface** | An imaginary rectangular surface associated with the runway. For runway 02–20, it is **150 meters wide** (75 meters on each side of the centerline), with a total length of **1,648.14 meters**. It extends from 60 meters southwest of threshold 02 to 60 meters northeast of threshold 20. The elevation varies gradually along its length based on a defined slope pattern. |
+| **Transitional Surface** | An inclined surface rising at a **1:7 gradient** (1 meter vertical per 7 meters horizontal) from the lateral edges of the strip surface and approach surfaces, extending upward until it intersects the outer surface. |
+| **Zoning Plan** | Refers to **Plan No. E 3301**, prepared by the Department of Public Works and Government Services and dated **December 1, 2008**. This plan serves as the foundational document for the spatial layout of the airport and its surrounding zones. |
+
+---
+
+#### **4. Geographic Scope of Application**
+
+The regulations apply to **all lands adjacent to or in the vicinity of Pond Inlet Airport**, within a **circular area of 4,000 meters radius** centered on the **Airport Reference Point (ARP)**.
+
+> **Inclusion of Specific Land Types**:
+> - Lands **under water**
+> - **Public road allowances** (e.g., roads running near the airport)
+
+This broad scope ensures comprehensive protection of the airport’s operational environment.
+
+---
+
+#### **5. Prohibited Activities and Developments**
+
+The regulations strictly prohibit the following activities or developments on the designated lands:
+
+##### **(a) Construction or Placement of Structures**
+- No person may **place, erect, construct**, or **permit another to do so** on any of the lands:
+  - A **building, structure, or object** (including any addition to an existing structure)
+  - Any part of which would **penetrate** any of the following surfaces:
+    - Approach surface
+    - Outer surface
+    - Transitional surface
+
+> This prevents physical obstructions (like trees, buildings, or towers) from interfering with aircraft during takeoff, landing, or approach.
+
+##### **(b) Use or Development Causing Signal Interference**
+- No person may **use or develop** any land **under the outer surface** in a way that would:
+  - Interfere with **signals or communications** to and from aircraft
+  - Interfere with **services provided by aeronautical facilities** (e.g., radio towers, navigation beacons)
+
+> This protects the integrity of communication and navigation systems essential for safe flight operations.
+
+##### **(c) Uncontrolled Growth of Natural Vegetation**
+- No person may **permit natural growth (e.g., trees, shrubs, vegetation)** to grow in a manner that would:
+  - Penetrate any of the following surfaces:
+    - Approach surface
+    - Outer surface
+    - Transitional surface
+
+> Prevents tall vegetation (such as trees) from casting shadows, creating turbulence, or blocking visibility — all of which could pose hazards during flight.
+
+##### **(d) Wildlife Attraction Activities**
+- No person may use or permit the use of lands for activities that **attract wildlife**, especially **birds**, which could pose a hazard to aviation safety (e.g., feeding birds, creating open water or food sources).
+
+> This addresses a significant aviation risk in Arctic regions where bird strikes are a known hazard.
+
+---
+
+#### **6. Exceptions and Permitted Uses**
+
+Despite the strict prohibitions, the following **exception** is allowed:
+
+> **Open Water Storage Reservoirs**  
+A person may use any of the lands as a site for an **open water storage reservoir** (e.g., for water supply or emergency use), **for a period of no more than 48 hours**.
+
+> This exception is intended to allow for emergency or temporary needs without undermining the safety of airport operations.
+
+> **Note**: The 48-hour limit is critical — any longer use would require a formal review and approval from the Minister of Transport.
+
+---
+
+#### **7. Elevation and Coordinate System**
+
+- **Grid Coordinates**: All coordinates are in the **UTM Zone 18 (1983 North American Datum)**, using a **combined average scale factor of 0.9997095** to ensure accuracy.
+- **Elevations**: All elevation values are referenced to the **Canadian Geodetic Vertical Datum (CGVD28)**, the official vertical reference system in Canada.
+
+This precise geospatial framework ensures that the regulatory boundaries are clearly defined and measurable, allowing for consistent enforcement and monitoring.
+
+---
+
+#### **8. Key Spatial Features (Summary)**
+
+| Feature | Key Parameters |
+|--------|----------------|
+| **Airport Reference Point (ARP)** | 8,068,145.848 N, 401,368.632 E; 60.90 m ASL |
+| **Runway 02–20** | Azimuth: N 25°17′53″ E; Threshold 02: 8,067,455.26 N, 401,042.22 E; Threshold 20: 8,068,836.44 N, 401,695.05 E |
+| **Strip Surface** | 150 m wide, 1,648.14 m long; ends at 60 m from thresholds; elevation increases from 62.43 m (02 end) to 58.32 m (20 end) |
+| **Approach Surfaces** | 1:40 gradient (1 m vertical per 40 m horizontal); extend 3,000 m from runway ends; outer ends at 525 m from centerline and 75 m above threshold elevation |
+| **Outer Surface** | Radius: 4,000 m from ARP; elevation: 45 m above ARP, but not less than 9 m above ground |
+| **Transitional Surfaces** | 1:7 gradient; extend from lateral edges of strip and approach surfaces to outer surface |
+
+---
+
+#### **9. Enforcement and

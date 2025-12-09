@@ -1,0 +1,132 @@
+### **Detailed Summary of the Broadcasting Fees Regulations (S.C. 2023, c. 8, s. 12(10))**
+
+---
+
+#### **1. Background and Legal Authority**
+These Broadcasting Fees Regulations were developed under **subsection 11(1)c of the Broadcasting Act** (S.C. 1991, c. 11), with the approval of the **Treasury Board**. The proposed regulations were first published in the *Canada Gazette, Part I*, on **September 2, 2023**, giving interested parties—including broadcasting undertakings and other stakeholders—a reasonable opportunity to submit representations to the **Canadian Radio-television and Telecommunications Commission (CRTC)**.
+
+The final version of the regulations was adopted and officially came into force on **April 1, 2024**, in Gatineau, Quebec.
+
+---
+
+#### **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Broadcasting Act* (S.C. 1991, c. 11). |
+| **Audiobook service** | Transmission or retransmission of audiobooks over the Internet for public reception via broadcasting devices. |
+| **Podcast service** | Transmission or retransmission of podcasts over the Internet for public reception via broadcasting devices. |
+| **Video game service** | Transmission or retransmission of video games over the Internet for public reception via broadcasting devices. |
+| **Broadcasting ownership group** | A group of affiliated broadcasters; if a single operator has no affiliates, it constitutes the group. |
+| **Excluded revenue** | Revenue from audiobook, podcast, or video game services, or from broadcasting activities exempted under licensing or regulatory orders. *Excluded revenue is not included in fee revenue.* |
+| **Exemption level** | The threshold below which a broadcasting ownership group is exempt from paying fees:<br> - For groups with **more than one undertaking**:<br>   - For each undertaking with fee revenue ≤ $2 million: the lesser of $2 million or its fee revenue, capped at $25 million total.<br> - For groups with **one undertaking**: $25 million.<br> This cap ensures smaller operators are not overburdened. |
+| **Fee revenue** | Gross revenue minus excluded revenue from broadcasting activities in Canada. Includes:<br> - Revenue from all transmitters within a single undertaking;<br> - Estimated annual revenue based on market trends, past performance, and business plans (for new or unreported undertakings);<br> - Revenue from the sale of air time by the CRTC to the undertaking;<br> - For online undertakings without a fee return: either validated gross revenue or an estimate based on market trends and business plans.<br> *Excludes inter-undertaking payments, except those from the CRTC.* |
+| **Fiscal year** | A 12-month period beginning **April 1**. |
+| **Return year** | A 12-month period beginning **September 1**. |
+| **Operator** | A person carrying on a broadcasting undertaking under the Act. |
+
+---
+
+#### **3. Scope of Application**
+
+These regulations apply to **all broadcasting undertakings** **except**:
+- Campus, community, Indigenous, or student broadcasting undertakings;
+- Broadcasting undertakings operated by the **CRTC (Corporation)**;
+- Independent corporations (as defined in the *Direction to the CRTC (Ineligibility to Hold Broadcasting Licences)*), which derive **no revenue from air time sales**.
+
+> This means that only commercial broadcasters (excluding certain non-commercial or exempt entities) are subject to the fee structure.
+
+---
+
+#### **4. Designation of Primary Undertaking in a Group**
+
+- Each **broadcasting ownership group** must designate **one broadcasting undertaking** that has the **highest fee revenue** among its members.
+- This designated undertaking is responsible for ensuring the **group complies with sections 4 to 7** of the regulations (which cover fee obligations, reporting, and compliance).
+
+---
+
+#### **5. Fee Return Requirements**
+
+- **Deadline**: Every broadcasting ownership group whose fee revenue exceeds the **exemption level** must file a **fee return** with the CRTC **by November 30** of each year.
+- The return must cover the **return year** beginning **September 1** of the year immediately preceding the filing year (e.g., a return filed in November 2024 covers the return year from September 1, 2023, to August 31, 2024).
+- The return must include consolidated fee revenue data for the entire ownership group.
+
+> **Note**: For the fiscal years **2024–2025** and **2025–2026**, the calculation of fee revenues for online undertakings will follow the conditions set out in **Broadcasting Order CRTC 2023–332**, specifically **Paragraph 4**, which governs the verification and validation of fee returns for online services.
+
+---
+
+#### **6. Payment of Broadcasting Fees**
+
+- Broadcasting fees are **paid annually**, no later than **30 days after the date on the invoice issued by the CRTC**.
+- If fees become overdue, **interest and administrative charges** apply as per the *Interest and Administrative Charges Regulations*.
+
+---
+
+#### **7. Calculation of Annual Broadcasting Fees**
+
+The total annual fee is composed of two components:
+
+##### **(a) Initial Amount (Base Fee)**  
+Calculated using the formula:
+
+\[
+\text{Initial Amount} = \left( \text{Fee Revenue} - \text{Exemption Level} \right) \times \left( \frac{\text{Total Aggregate Fee Revenue (above exemption level)} - \text{Aggregate Exemption Level}}{\text{Total Aggregate Fee Revenue (above exemption level)} - \text{Aggregate Exemption Level}} \right) \times \text{Estimated Total Regulatory Costs}
+\]
+
+> This component reflects the **proportion of the group’s fee revenue** above the exemption level, relative to the total revenue of all groups above the exemption level, multiplied by the estimated regulatory costs.
+
+##### **(b) Annual Adjustment Amount**  
+Calculated using the formula:
+
+\[
+\text{Annual Adjustment Amount} = \left( \text{Fee Revenue} - \text{Exemption Level} \right) \times \left( \frac{\text{Total Aggregate Fee Revenue (above exemption level)} - \text{Aggregate Exemption Level}}{\text{Total Aggregate Fee Revenue (above exemption level)} - \text{Aggregate Exemption Level}} \right) \times \left( \text{Actual Total Regulatory Costs} - \text{Estimated Total Regulatory Costs} \right)
+\]
+
+> This adjusts the base fee **based on actual vs. estimated regulatory costs** for the fiscal year.  
+> - If actual costs are **higher**, the fee increases.  
+> - If actual costs are **lower**, the fee decreases.  
+> - This ensures fees reflect real operational costs.
+
+> **Important**: Any adjustment is **charged or credited in the next year’s invoice**. There is **no reimbursement** possible from the Commission.
+
+---
+
+#### **8. Estimating and Reporting Regulatory Costs**
+
+- **Estimated total regulatory costs** are derived from the CRTC’s **expenditure plan** published in **Part III of the Government of Canada’s Estimates**.
+- These costs include:
+  1. Costs of the CRTC’s **broadcasting activities**;
+  2. The **share of administrative costs** attributable to broadcasting activities;
+  3. Any other costs used to determine the **net cost of operating the CRTC’s broadcasting program**, **excluding spectrum regulation costs**.
+
+- The CRTC is required to **publish annually** the estimated total regulatory costs in a **notice in the Canada Gazette, Part I**.
+
+- **Actual total regulatory costs** are calculated using actual financial data and are used to compute the annual adjustment amount.
+
+---
+
+#### **9. Transition and Repeal of Former Regulations**
+
+- The **Broadcasting Licence Fee Regulations, 1997 (SOR 97-144)** are **repealed**.
+- For **fiscal years 2024–2025 and 2025–2026**, the following transitional provisions apply:
+  - Fee revenue data from the former regulations (under section 5) will be **consolidated into the group-level fee revenue** under the new rules.
+  - The calculation of **annual adjustment amounts** and **estimated/actual regulatory costs** will follow the **former regulations’ formulas** (specifically **subsection 8(2)** and **section 9**) to ensure continuity and stability during the transition.
+
+---
+
+#### **10. Key Objectives and Implications**
+
+| Objective | Explanation |
+|--------|-------------|
+| **Fairness & Proportionality** | The exemption level protects smaller broadcasters (especially those with revenue under $2 million) from disproportionate fees. |
+| **Cost Recovery Mechanism** | Fees are directly linked to actual and projected regulatory costs, ensuring the CRTC is adequately funded. |
+| **Transparency & Accountability** | Public disclosure of estimated and actual regulatory costs enhances transparency. |
+| **Modernization** | Includes digital services (audiobooks, podcasts, video games) and online undertakings, reflecting the evolution of media consumption. |
+| **Stability & Predictability** | The use of formulas ensures consistent, rule-based fee calculations without arbitrary changes. |
+
+---
+
+#### **11. Enforcement and Compliance**
+
+- Non-compliance with filing deadlines or fee payment obligations may result in penalties, including interest and administrative charges.
+- The CRTC retains authority to verify fee returns

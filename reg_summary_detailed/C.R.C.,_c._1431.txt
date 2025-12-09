@@ -1,0 +1,119 @@
+**Detailed Summary of the Hull Construction Regulations (Hull Construction Regulations)**
+
+---
+
+### **Overview**
+
+The *Hull Construction Regulations* are a set of Canadian maritime safety regulations governing the structural design, subdivision, stability, and safety features of ships. These regulations are primarily intended to ensure that vessels are constructed to withstand damage and flooding under various conditions, thereby protecting passengers, crew, and the integrity of the vessel. The regulations apply to both **new ships** and **existing ships**, with specific provisions for different classes of vessels, particularly those carrying passengers.
+
+The regulations were amended and partially repealed by the *SOR/2017-14* (Statutory Order 2017-14), which removed several outdated or obsolete terms and provisions (e.g., "A Class division," "combustible material," "control station," "standard fire test"). As such, this summary reflects the current version of the regulations as amended and in force.
+
+---
+
+## **Key Definitions and Terminology**
+
+The following definitions are central to understanding the scope and application of the regulations:
+
+| Term | Definition |
+|------|-----------|
+| **Board** | The Board of Steamship Inspection (now largely superseded by modern maritime authorities; acts as the regulatory body responsible for enforcing compliance). |
+| **Chairman** | The Chairman of the Board of Steamship Inspection. |
+| **Minister** | The Minister of Transport, who has authority over enforcement and policy. |
+| **New Ship** | A ship built on or after specific dates: <br> - Keel laid on or after May 26, 1965 (Safety Convention ships); <br> - Converted to a Safety Convention passenger ship on or after May 26, 1965; <br> - Keel laid on or after Feb 7, 1958 (non-passenger ships); <br> - Converted to a passenger ship (non-Safety Convention) or transferred to Canadian registry after Feb 7, 1958. |
+| **Existing Ship** | Any ship that is not new; applies where reasonable and practicable. |
+| **Passenger** | A person carried on board who is not a crew member, owner, family member, or a child under one year of age. Excludes those on Safety Convention ships who are crew, owners, or shipwrecked persons. |
+| **Passenger Ship** | A vessel carrying passengers; a *passenger steamship* carries more than 12 passengers. |
+| **Passenger Space** | Areas designated for passenger use (e.g., cabins, lounges, seating). |
+| **Service Space** | Includes galleys, pantries, laundries, workshops, etc. |
+| **Breadth of the Ship** | The greatest moulded breadth at or below the deepest subdivision load waterline. |
+| **Deepest Subdivision Loadline** | The waterline corresponding to the greatest draught, used for determining compartmentalization. |
+| **Subdivision Load Waterline** | The waterline used to determine how the ship is subdivided into watertight compartments. |
+| **Bulkhead Deck** | The uppermost deck where transverse watertight bulkheads are carried. |
+| **Margin Line** | A line drawn 76 mm below the upper surface of the bulkhead deck at the side of the ship; used to determine floodable length and stability. |
+| **Floodable Length** | The maximum length of a ship portion that can be flooded without submerging the margin line when the ship is upright. |
+| **Watertight** | A structure capable of preventing water passage up to the margin line. |
+| **Weathertight** | A structure capable of preventing sea water passage under ordinary sea conditions. |
+| **Superstructure** | A decked structure above the bulkhead deck, extending side to side or with side plating within 4% of the ship’s breadth. |
+| **Machinery Space** | Space from the moulded base line to the margin line, bounded by transverse bulkheads enclosing main and auxiliary machinery, boilers, and permanent coal bunkers. |
+| **Factor of Subdivision** | A calculated value determining how efficiently a ship is subdivided into watertight compartments; derived from Schedule I. |
+| **Short International Voyage** | A voyage between two ports not exceeding 600 nautical miles, with the ship never more than 200 nautical miles from a safe port. |
+| **Safety Convention Ship** | A ship to which the International Safety Convention (e.g., SOLAS) applies. |
+
+---
+
+## **Scope of Application**
+
+### **Applicability**
+- **Parts I, II, and VII** apply to:
+  - All **new ships**;
+  - **Existing ships**, if deemed reasonable and practicable by the Board.
+- **Part VII** applies to **all passenger and non-passenger ships**.
+- **Part VIII** applies to **steamships over 5 tons gross tonnage** built or converted for towing purposes, **except** when used solely for salvaging logs.
+
+> ⚠️ **Exclusions**:
+> - Vessels covered by the *Vessel Construction and Equipment Regulations*.
+> - Fishing vessels.
+
+---
+
+## **Classification of Passenger Ships**
+
+Passenger ships are categorized into eight classes based on route, passenger load, and voyage type:
+
+| Class | Description |
+|------|-------------|
+| **Class I** | Steamships carrying >12 passengers on international voyages (non-short). |
+| **Class II** | Steamships carrying >12 passengers on short international voyages. |
+| **Class III** | Steamships carrying passengers on home-trade voyages (non-international). |
+| **Class IV** | Home-trade voyages, Class III, non-international. |
+| **Class V** | Home-trade voyages, Class IV, non-international. |
+| **Class VI** | Inland voyages, Class I. |
+| **Class VII** | Inland or minor waters voyages, Class II or minor waters, Class I. |
+| **Class VIII** | Minor waters voyages, Class II. |
+
+> Note: "Home-trade, inland, or minor waters" is defined in the *Home-Trade, Inland and Minor Waters Voyages Regulations*.
+
+---
+
+## **Structural Requirements**
+
+### **1. Subdivision and Watertight Bulkheads**
+- Every ship must be subdivided into **watertight compartments** by bulkheads extending **up to the bulkhead deck**.
+- The **maximum length** of each compartment is determined based on the ship’s **factor of subdivision** (as per Schedule I).
+- All internal structures affecting subdivision efficiency must be **watertight** and designed to maintain compartment integrity.
+
+### **2. Collision Bulkhead**
+- Must be:
+  - Watertight up to the bulkhead deck;
+  - Located **at least 5%** and **no more than 3.05 m + 5%** abaft the forward perpendicular (measured from the ship’s bow).
+- If the ship has a **forward superstructure**, the collision bulkhead must extend **weathertight** to the deck above the bulkhead deck.
+- This extension must:
+  - Be directly over the bulkhead below, **unless**:
+    - The bulkhead is at least 5% from the forward perpendicular;
+    - The step at the bulkhead deck is weathertight;
+    - The plating and stiffeners are strong enough to withstand water pressure up to the margin line (as if forming part of a bulkhead below).
+
+### **3. Afterpeak and Machinery Bulkheads**
+- A **watertight afterpeak bulkhead** must be provided.
+- Watertight bulkheads must separate machinery, boilers, and permanent coal bunkers from other spaces — all extending up to the bulkhead deck.
+- The afterpeak bulkhead may be stopped below the bulkhead deck **only if** it does not compromise safety.
+
+### **4. Stern Gland and Stern Tube**
+- The **stern gland** must be in a **watertight shaft tunnel** or separate watertight space.
+- This space must be large enough that if flooded, the **margin line is not submerged**.
+- The **stern tube** must be enclosed in a watertight compartment — the smallest volume compatible with proper ship design.
+
+### **5. Watertight Double Bottom (by length)**
+- **Ships 50 m or longer**:
+  - **50–60.99 m**: Double bottom from **forward end of machinery space to collision bulkhead** (as near as possible).
+  - **61–75.99 m**: From **machinery space forward to collision bulkhead** and **aft to afterpeak bulkhead**.
+  - **76 m or longer**: From **collision bulkhead to afterpeak bulkhead**.
+- **Ships 24–49.99 m** carrying **berthed passengers below the bulkhead deck**:
+  - Must have a **watertight double bottom** covering the full length of compartments housing passenger spaces.
+
+> **Design Requirements for Double Bottom**:
+> - The inner bottom must extend to the ship’s sides to protect the bilge.
+> - Adequacy is determined by ensuring the **intersection of the outer edge of the margin plate with the bilge plating** is **not lower** than a horizontal plane passing through the point where a diagonal line (25° to base line) intersects the frame line amidships, one half the breadth from the centerline.
+
+> **Drainage Wells**:
+> - Wells must be **small and shallow**, not less than 460 mm from the outer or inner edge of

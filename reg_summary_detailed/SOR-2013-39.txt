@@ -1,0 +1,123 @@
+**Detailed Summary of the Northwest Territories Borrowing Limits Regulations**
+
+---
+
+### **1. Regulatory Authority and Source**
+The *Northwest Territories Borrowing Limits Regulations* were issued by **His Excellency the Governor General in Council**, on the **recommendation of the Minister of Finance**, under **subsection 20(5)a of the Northwest Territories Act**.  
+- **Statutory Citation**: S.C. 2012, c. 19, s. 214(2); R.S., c. N-27  
+- These regulations establish the definition and scope of what constitutes "borrowing" for the purposes of borrowing limits and financial disclosure requirements under the *Northwest Territories Act*, specifically subsections 28(2) and (4).
+
+---
+
+### **2. Key Definitions and Scope**
+
+#### **Definition of "Government"**
+- The term **"government"** refers to the **Government Reporting Entity (GRE)** as defined in the *CPA Canada Public Sector Accounting Handbook*, as amended from time to time.  
+- This ensures consistency in financial reporting and accountability across public sector entities within the Northwest Territories.
+
+---
+
+### **3. What Constitutes Borrowing (Section 2(1))**
+
+Under these regulations, the following are considered **borrowings** for the purposes of borrowing limits and financial disclosure under the Northwest Territories Act:
+
+#### **(a) Loans Received by Government**
+- Any obligation arising from a loan of money received by the government, including:
+  - Bonds, debentures, notes, or other instruments of indebtedness issued or sold by the government.
+- **Value Calculation**:
+  - Equals the **sum of outstanding principal and accrued interest**.
+  - For **discount bonds**, the value is the **principal repayable at maturity**.
+  - **Exclusion**: Amounts held in **custodial accounts** that are outside the government’s control and used solely for loan repayment are **excluded** from the borrowing value.
+
+> *Example*: If the government issues a bond with a $10 million face value and $500,000 in accrued interest, the borrowing value is $10.5 million. If a portion of the funds is held in a non-controllable custodial account, that portion is not included.
+
+#### **(b) Capital Leases**
+- A capital lease entered into by the government is considered a borrowing **if its value exceeds the threshold for disclosure required in the Territorial Accounts**.
+- The **value of the lease obligation** is determined in accordance with the **CPA Canada Public Sector Accounting Handbook**, as amended.
+
+> *Note*: This applies only when the lease value exceeds the disclosure threshold. If the lease is below that threshold, it does not count as borrowing for regulatory purposes.
+
+#### **(c) Sale-Leaseback Transactions**
+- A liability arises when the government **sells a tangible capital asset** and then leases it back.
+- This constitutes a borrowing **only if the value of the liability exceeds the disclosure threshold** in the Territorial Accounts.
+- The **value of the liability** is determined according to the **CPA Canada Public Sector Accounting Handbook**, as amended.
+
+> *Example*: If the government sells a building for $5 million and leases it back for $1 million per year, and the lease liability exceeds the disclosure threshold, it counts as a borrowing.
+
+#### **(d) Loan Guarantees**
+- A **contingent liability** incurred when the government provides a **loan guarantee** is considered a borrowing.
+- The value of this contingent liability is equal to the **full amount disclosed in the Territorial Accounts**.
+
+> *Note*: This is a contingent liability — it only becomes a real obligation if the underlying loan defaults. However, it is still counted as borrowing for regulatory and transparency purposes.
+
+---
+
+### **4. What Does NOT Constitute Borrowing (Section 2(2))**
+
+The following **do not** count as borrowing:
+
+#### **(a) Internal Transactions Between Government Entities**
+- Any obligation, liability, or contingent liability arising from transactions **between two parties within the government** (e.g., between the Department of Finance and the Department of Transportation).
+- These are excluded because they are internal and do not represent external debt or exposure to creditors.
+
+> *Rationale*: To prevent double-counting and ensure that borrowing limits reflect actual external financial exposure.
+
+#### **(b) Specific Canada Mortgage and Housing Corporation (CMHC) Loans**
+- Portions of loans from the **Canada Mortgage and Housing Corporation (CMHC)** to the **Northwest Territories Housing Corporation (NTHC)** are **excluded** from borrowing if:
+  - The loan was made for projects under **Section 79 of the National Housing Act** or for a purpose under **Section 82 of the National Housing Act as it read before June 17, 1999**.
+  - The loan amount has been **used to reduce the outstanding balance** of the original loan.
+  - The funding from CMHC has been **used to reduce the debt** owed.
+
+> *Key Exception*: This exclusion applies **only** to those specific types of loans and only when the funds have been applied to reduce the loan balance.
+
+> *Note*: This provision recognizes historical and targeted housing financing arrangements and prevents overstatement of borrowing in those specific cases.
+
+---
+
+### **5. Purpose of the Regulations**
+
+These regulations serve several key functions:
+
+1. **Clarity in Defining Borrowing**  
+   - Establishes clear, standardized definitions of when a financial obligation counts as "borrowing" for regulatory and reporting purposes.
+
+2. **Transparency and Accountability**  
+   - Ensures that borrowing is properly disclosed in the **Territorial Accounts**, which are publicly accessible financial statements.
+
+3. **Compliance with Public Sector Accounting Standards**  
+   - Aligns borrowing calculations with **CPA Canada Public Sector Accounting Handbook**, ensuring consistency with national public sector accounting practices.
+
+4. **Prevention of Overstatement**  
+   - Excludes internal transactions and certain CMHC loans to avoid inflating borrowing totals and misrepresenting financial risk.
+
+5. **Support for Borrowing Limits**  
+   - Provides a basis for setting and monitoring borrowing limits under the *Northwest Territories Act*, which helps ensure fiscal responsibility and prudent financial management.
+
+---
+
+### **6. Effective Date**
+
+- The regulations come into force on the day that **Division 4 of Part 4 of the Jobs, Growth and Long-term Prosperity Act** comes into force.
+- If the regulations are **registered after that date**, they will come into force on the **date of registration**.
+
+> *Note*: As of March 8, 2013, these regulations were in force (SI/2013-25).
+
+---
+
+### **7. Key Takeaways and Implications**
+
+| Aspect | Key Point |
+|-------|----------|
+| **Borrowing Definition** | Broadly defined to include loans, capital leases, sale-leasebacks, and loan guarantees — all where value exceeds disclosure thresholds. |
+| **Exclusions** | Internal government transactions and specific CMHC loans used to reduce debt are excluded. |
+| **Accounting Standards** | All values are derived from the CPA Canada Public Sector Accounting Handbook. |
+| **Financial Reporting** | Ensures that borrowing is accurately reflected in Territorial Accounts for public accountability. |
+| **Fiscal Responsibility** | Supports the government’s ability to manage debt within established limits. |
+
+---
+
+### **Conclusion**
+
+The *Northwest Territories Borrowing Limits Regulations* provide a clear, transparent, and standardized framework for determining what constitutes borrowing for financial reporting and regulatory purposes. By aligning with national public sector accounting standards and excluding certain internal or targeted transactions, the regulations enhance fiscal transparency, promote responsible borrowing, and ensure that financial disclosures accurately reflect the government’s external financial obligations.
+
+These rules are essential for maintaining public trust, enabling effective budgeting, and supporting long-term financial stability in the Northwest Territories.

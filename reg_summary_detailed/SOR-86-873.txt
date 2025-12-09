@@ -1,0 +1,146 @@
+**Detailed Summary of the *Reporting of Imported Goods Regulations* (S.C. 1986, c. 1)**
+
+---
+
+### **Overview**
+
+The *Reporting of Imported Goods Regulations*, enacted on March 29, 1986, and coming into force upon the effective date of relevant provisions in the *Customs Act*, establish the procedural framework for how imported goods must be reported to the Canada Border Services Agency (CBSA). These regulations ensure timely, accurate, and consistent reporting of goods entering Canada, with provisions for both electronic and oral reporting depending on the type and circumstances of the import.
+
+This summary provides a comprehensive breakdown of the key components, definitions, reporting requirements, exceptions, and procedural details of the regulations.
+
+---
+
+## **I. Legal Authority and Background**
+
+- The regulations were published in *Part I of the Canada Gazette* on March 29, 1986, pursuant to **subsection 164(3) of the Customs Act**, which allows for public consultation before finalizing proposed regulations.
+- A reasonable opportunity was given for interested parties (e.g., importers, carriers, stakeholders) to submit representations to the Minister of National Revenue.
+- The Governor in Council, on the recommendation of the Minister, enacted the regulations under:
+  - **Section 12** of the *Customs Act* (general reporting obligations),
+  - **Subsections 14(2)** and **18(2)** (specific reporting obligations),
+  - **Paragraph 164(1)(i)** (regulatory authority to make rules).
+
+These provisions grant the Minister the power to issue detailed rules governing the reporting of imported goods.
+
+---
+
+## **II. Regulation Title and Citation**
+
+- **Title:** *Reporting of Imported Goods Regulations*
+- **Citation:** S.C. 1986, c. 1
+
+---
+
+## **III. Key Definitions**
+
+The regulations define critical terms used throughout the text:
+
+| Term | Definition |
+|------|-----------|
+| **Act** | Refers to the *Customs Act* |
+| **Airport of Arrival** | The customs office where an aircraft is expected to make a report under section 12 |
+| **Break-bulk goods** | Goods not in cargo containers, bulk, or empty containers (i.e., loose or unpackaged) |
+| **Bulk goods** | Loose or mass goods confined only by the vessel’s structure (no intermediate packaging) |
+| **Cargo container** | A permanent, reusable container designed to carry goods without reloading; includes ancillary equipment when carried with it |
+| **Chief Officer of Customs** | Manager of a customs office or group of offices serving a specific area |
+| **Commercial driver** | As defined in the *Presentation of Persons (2003) Regulations* |
+| **Commercial goods** | Goods imported for sale or commercial, industrial, occupational, or institutional use |
+| **Commercial passenger conveyance** | As defined in the *Presentation of Persons (2003) Regulations* (e.g., trains, buses, coaches) |
+| **Corporate aircraft** | Business-use aircraft (as defined in the 2003 Regulations) |
+| **Courier** | As defined in the *Persons Authorized to Account for Casual Goods Regulations* |
+| **CSA carrier/importer** | Carriers or importers under the *Accounting for Imported Goods and Payment of Duties Regulations* (PAD system) |
+| **Designated customs office** | A customs office designated under section 5 of the Act for reporting purposes |
+| **Designated holding area** | A secure area where persons in transit are held under customs control |
+| **Electronic Commerce Client Requirements Document (ECCRD)** | A technical document outlining the standards for electronic reporting (amended over time) |
+| **Eligible goods** | As defined in the *Accounting for Imported Goods and Payment of Duties Regulations* |
+| **Emergency conveyance** | Vehicles clearly marked for emergency use (e.g., ambulances, fire trucks) |
+| **Fishing vessel** | As defined in the *Fisheries Act* |
+| **Freight forwarder** | A person who arranges transport for one or more shippers or importers |
+| **International commercial transportation** | Any transport (by land, sea, or air) involving movement between Canada and abroad, or through Canada, for hire or financial return |
+| **List of Tariff Provisions** | The official list of tariff items in the *Customs Tariff* |
+| **Marine pleasure craft** | Recreational boats (as defined in 2003 Regulations) |
+| **NAV CANADA** | The national aviation service corporation established in 1995 |
+| **Port of Arrival** | The customs office where a vessel is expected to report upon arrival |
+| **Private aircraft** | Non-commercial aircraft (as defined in 2003 Regulations) |
+| **Specified goods** | A broad category of goods that are subject to mandatory reporting; includes commercial goods, goods imported for a fee, or empty containers not for sale, but excludes certain exempted cases (e.g., baggage, repairs, military, emergency goods, etc.) |
+| **Time of departure (aircraft)** | Eastern Standard Time or Daylight Saving Time when aircraft leaves the gate or dock; if not from a gate, when blocks are removed |
+| **Vessel** | Any ship, boat, barge, platform, or floating structure used for water transport |
+
+---
+
+## **IV. General Reporting Obligations**
+
+### **1. Mandatory Reporting Requirement (Section 12)**  
+> *All goods imported into Canada must be reported under section 12 of the Customs Act without delay after arrival.*
+
+- This applies to all goods, unless specifically exempted or allowed oral reporting under certain conditions.
+
+### **2. Reporting by Mode of Transport**
+
+| Mode | Reporting Trigger |
+|------|-------------------|
+| **By Water (Vessel)** | Must be reported **without delay** after the vessel **lands at a customs office** following arrival in Canada. |
+| **By Air (Aircraft)** | Must be reported **without delay** after the aircraft is **cleared by NAV CANADA to land** at an airport. |
+
+> *Note:* Reporting is not required at the nearest customs office if reported electronically.
+
+---
+
+## **V. Reporting Methods**
+
+### **Primary Method: Electronic Reporting**
+
+> Unless otherwise permitted, **all goods must be reported electronically** in accordance with the **Electronic Commerce Client Requirements Document (ECCRD)**.
+
+- The ECCRD sets out technical specifications, formats, and procedures for electronic submission.
+- This ensures standardization, efficiency, and data integrity in customs systems.
+
+---
+
+## **VI. Exceptions to Electronic Reporting (Oral Reporting Allowed)**
+
+The following goods may be reported **orally** (i.e., verbally to a customs officer), **unless an officer requires written reporting**:
+
+1. **Goods in actual possession of a person arriving in Canada**, or forming part of their baggage, when the person and baggage arrive on the **same conveyance**.
+2. **Fishing vessels** (including those operating under the *Fisheries Act*).
+3. **Eligible goods** that meet the conditions for release under **paragraph 32(2)(b)** of the *Customs Act*:
+   - Reported by a **CSA carrier** or
+   - Transported by a **commercial highway conveyance** (e.g., truck) with a driver holding authorization under the *Presentation of Persons (2003) Regulations*.
+4. **Foreign-based cargo containers** used in international commercial transportation:
+   - If operated by a person who:
+     - Maintains an inventory of containers,
+     - Keeps records showing containers were not used in Canadian domestic service or that duties were paid if used,
+     - Allows customs officers access to those records.
+   - Or if leased by a person with similar record-keeping and access rights.
+5. **Canadian-built commercial vehicles, aircraft, and cargo containers**:
+   - That qualify for entry at a **free duty rate** under tariff items **9813.00.00 or 9814.00.00** (i.e., goods returned from abroad).
+6. **Goods where prior information has been given** to CBSA under **subsection 12.1(1)** of the Act in the circumstances outlined in **subsection 22(1)** or **23(1)**.
+
+> *Note:* These exceptions are limited and require verification or documentation to justify oral reporting.
+
+---
+
+## **VII. Specific Exceptions and Special Provisions**
+
+### **1. Reporting by Commercial Passenger Conveyance (Non-Bus)**
+
+> Goods in the actual possession of a person arriving in Canada on a **commercial passenger conveyance other than a bus** must be reported **in writing**.
+
+- Applies to planes, trains, coaches, etc.
+- This is a strict requirement — oral reporting is not permitted.
+
+### **2. Crew Members Arriving by Freight Train**
+
+> Goods in the actual possession or forming part of the baggage of a **crew member arriving by freight train** must be reported **in writing**.
+
+- Must be reported **forthwith** at a place specified by a customs officer.
+
+### **3. Travelers to Places Outside Canada**
+
+> A person arriving in Canada on a commercial passenger conveyance with a destination **outside Canada**:
+- Does **not need to report** their goods **if**:
+  - They **do not disembark** in Canada,
+  - Goods are **not removed** from the conveyance in Canada,
+  - Removal is only allowed under customs control:
+    - To transfer directly to **another commercial passenger conveyance** going to a destination outside Canada, or
+    - To a **designated holding area**.
+- **If goods are transferred to

@@ -1,0 +1,149 @@
+**Detailed Summary of the Old Age Security Regulations**
+
+---
+
+### **1. Title and Citation**
+The document is titled the *Old Age Security Regulations* and may be cited as such. These regulations implement and provide detailed procedural and substantive rules under the *Old Age Security Act* (Act), governing eligibility, application processes, benefit payments, and administrative procedures related to Old Age Security (OAS) and related benefits in Canada.
+
+---
+
+### **2. Key Definitions**
+
+The Regulations define several key terms used throughout:
+
+- **Act**: Refers to the *Old Age Security Act* (Loi), which establishes the legal framework for OAS and related programs.
+- **Appeal**: A formal appeal made under subsection 28(1) of the Act or in respect of a reference to the Tax Court of Canada.
+- **Appellant**: A person who files an appeal under the Act or in response to a reference.
+- **Application Form**: The official form required by the Minister for submitting a claim for a benefit.
+- **Beneficiary**: Includes a person on whose behalf a benefit has become payable (e.g., a spouse or common-law partner receiving a pension on behalf of the applicant).
+- **Court**: The *Tax Court of Canada*, established under the *Tax Court of Canada Act*.
+- **Reference**: A referral to the Tax Court of Canada under subsection 28(2) of the Act.
+- **Request for Reconsideration**: A formal request made to the Minister under section 27.1 of the Act to review a decision.
+- **Residence and Presence**: For the purposes of these regulations:
+  - A person *resides* in Canada if they make their home and ordinarily live in any part of Canada.
+  - A person is *present* in Canada when physically present in any part of Canada.
+  - A person living on a ship outside Canada’s territorial waters is **not considered to be residing or present** in Canada.
+
+> **Note**: Several entities previously referenced in the regulations (e.g., Board, Review Committee, Regional Director, Secretary, Minister) have been **repealed** by amendments (e.g., SOR/96-521, SOR/90-813), meaning they are no longer applicable.
+
+---
+
+### **3. Application Process and Eligibility**
+
+#### **3.1 Submission of Applications**
+- Applications for benefits must be submitted using the **application form** required by the Minister.
+- An application is **deemed made only when the completed form is received by the Minister**, unless otherwise specified.
+
+#### **3.2 Exceptions to Application Requirement**
+- If the Minister determines that a person is unable due to sufficient reason to submit an application, appeal, or statement, a **responsible person or agency** may act on their behalf.
+- If a person has previously received assistance under the *Unemployment Assistance Act* or the *Canada Assistance Plan*, the **appropriate provincial authority** may make an application on their behalf.
+
+#### **3.3 Approval Timing**
+- **General Rule**: If the Minister is satisfied the applicant is qualified under sections 3–5 of the Act and approves the application after the last day of the month it was received, approval is effective on the **latest of**:
+  - The day the application was received,
+  - The day the applicant became qualified for the pension,
+  - The date specified in writing by the applicant.
+
+- **Special Case – Applicant Reached Age 65 Before Application**:
+  - If the applicant attained age 65 before the application was received, approval is effective on the **latest of**:
+    - One year before the application date,
+    - The day the applicant turned 65,
+    - The day the applicant became qualified,
+    - The month immediately before the date specified by the applicant.
+
+- **Waiver of Application Requirement**:
+  - If the Minister waives the need for an application under subsection 5(4) of the Act, approval is effective on the day the person reaches age 65.
+
+---
+
+### **4. Allowances for Spouses, Common-Law Partners, and Survivors**
+
+- **Spouse/Common-Law Partner/Survivor Allowance**:
+  - If entitled to an allowance under Part III of the Act and the amount does not exceed **$2 per month**, a monthly allowance of **$2** is payable.
+
+- **Approval Timing for Allowances**:
+  - Where the Minister approves an application for an allowance after the last day of the month it was received, approval is effective on the **later of**:
+    - The day the application was received,
+    - The day the spouse/common-law partner/survivor became entitled to the allowance.
+
+- **Special Case – Spouse or Common-Law Partner Turns 60 Before Application**:
+  - If the spouse/common-law partner reaches age 60 before the application is received, approval is effective on the **latest of**:
+    - One year before the application date,
+    - The day they turned 60,
+    - The day they became entitled to the allowance.
+
+- **Survivor Entitled Before Application**:
+  - If a survivor is entitled under section 21 before the application is received, approval is effective on the **later of**:
+    - One year before the application date,
+    - The day they became entitled.
+
+---
+
+### **5. Adjustment of Benefits (Pensions and Supplements)**
+
+#### **5.1 Adjustment Formula**
+- Adjustments to full monthly pensions or supplements are made **quarterly** under subsections 7(2) or 12(2) of the Act.
+- The adjustment is calculated as:
+  - Multiply the base amount (e.g., from paragraph 7(2)(a)) by the relevant ratio (from paragraph 7(2)(b)).
+- The resulting product is adjusted to the **nearest cent**, using the following rules:
+
+> **Rounding Rules for Fractions of a Dollar**:
+- If the **third digit** after the decimal point is **less than 5**, drop all digits beyond the second.
+- If the **third digit is 5 or greater**, increase the **second digit by 1**, then drop all digits beyond the second.
+
+#### **5.2 Ratios and Decimal Precision**
+- Ratios used in calculations (e.g., CPI-based adjustments) must be expressed as **decimal fractions**.
+- If a ratio is less than 1:
+  - It is expressed to **four digits** after the decimal point.
+  - If the **fourth digit is less than 5**, drop it.
+  - If the **fourth digit is 5 or greater**, increase the **third digit by 1**, then drop the fourth.
+
+#### **5.3 Consumer Price Index (CPI) Average**
+- The average CPI for Canada is calculated by:
+  - Summing the monthly CPI values published by Statistics Canada over a period.
+  - Dividing the total by the number of months.
+- The resulting quotient is rounded to **two decimal places**:
+  - If the **second digit is less than 5**, drop it.
+  - If the **second digit is 5 or greater**, increase the **first digit by 1**, then drop the second.
+
+---
+
+### **6. Determination of Age and Identity**
+
+#### **6.1 Sources of Age and Identity Information**
+- The Minister may determine age and identity using:
+  1. **Birth certificate or certified copy**.
+  2. If unavailable, **any other evidence** of age or identity.
+  3. Information from the **Canada Employment Insurance Commission** under subsection 28.2(5) of the *Department of Employment and Social Development Act*.
+  4. If all else fails, the Minister may **request Statistics Canada to search census records**, provided:
+     - The request is in the form prescribed by the Chief Statistician of Canada,
+     - Includes the **signed consent** of the individual,
+     - Contains specific details needed for the search,
+     - And the information obtained is **kept strictly confidential** and used only for age verification under the Act, Canada Assistance Plan, or Canada Pension Plan.
+
+> **Note**: If the age is determined under the Canada Pension Plan, that determination **may be accepted** for purposes of the OAS Act.
+
+---
+
+### **7. Residency and Presence in Canada**
+
+#### **7.1 General Definition**
+- A person resides in Canada if they make their home and ordinarily live in any part of Canada.
+- A person is present in Canada if physically present in any part of Canada.
+
+#### **7.2 Exceptions to Residency (Non-Residence)**
+A person who is **not a Canadian citizen or permanent resident** does **not reside in Canada** during any period when they are in Canada for:
+- Duties as a **diplomat, consular officer, representative, or official** of a country other than Canada,
+- The **United Nations** or its agencies,
+- Any **intergovernmental organization** in which Canada participates,
+- As a member of a **military force** in Canada for training or defense purposes (under treaty or agreement),
+- As the **spouse, common-law partner, or dependant** of someone in the above categories,
+- As a member of the staff or accompanying someone in the above roles.
+
+> **Exception for Spouses/Partners**: If a spouse or common-law partner becomes one while the other is absent under the above circumstances, the period outside Canada is considered a **period of residence and presence in Canada** if:
+- The spouse or partner returns to Canada **within six months** of the person’s return or death, **or**
+- They attain the age at which they are eligible for a pension during that absence.
+
+#### **7.3 Temporary Absences Not Interrupting Residency**
+- Absences of **temporary nature not exceeding one year** for:
+  -
