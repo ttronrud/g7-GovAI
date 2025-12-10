@@ -1,0 +1,188 @@
+**Detailed Summary of the Marine Insurance Act (Canada)**
+
+---
+
+### **Overview**
+The *Marine Insurance Act* is a foundational piece of Canadian legislation that establishes the legal framework governing marine insurance contracts. Enacted by Her Majesty in Council with the advice and consent of the Senate and House of Commons, the Act provides clear definitions, principles, and rules regarding the formation, validity, content, and enforcement of marine insurance policies. It ensures consistency and fairness in marine insurance while preserving the integrity of Canadian maritime law.
+
+This Act applies to all marine insurance contracts concluded **on or after its coming into force**, and it supersedes inconsistent rules of common law maritime law, though it does not eliminate all existing principles.
+
+---
+
+## **Key Definitions and Terminology**
+
+The Act begins by defining key terms used throughout:
+
+| Term | Definition |
+|------|-----------|
+| **Action** | Includes counterclaims and set-offs. |
+| **Contract** | A contract of marine insurance as defined in subsection 6(1). |
+| **Freight** | Profit from using a ship to carry goods or third-party payments; excludes passenger fares. |
+| **Goods** | Merchandise only; excludes personal effects, provisions, or stores. |
+| **Insurable Property** | Any ship, goods, or movables. |
+| **Marine Adventure** | Any situation where insurable property is exposed to maritime perils, including risks related to earning freight, securing loans, or incurring third-party liabilities due to such exposure. |
+| **Marine Policy** | The instrument evidencing the insurance contract. |
+| **Maritime Perils** | Includes perils of the sea, fire, war, piracy, capture, seizure, jettison, barratry, and any peril designated in the policy. |
+| **Movable** | Tangible property other than ships or goods (e.g., money, securities, documents). |
+| **Ship** | Includes hull, machinery, outfit, stores, fuel, oils, and trade-specific fittings. |
+
+Additional terms are defined in specific sections (e.g., *actual total loss*, *constructive total loss*, *general average*, *particular average*, *salvage charges*, *time policy*, *valued/unvalued policy*, etc.).
+
+> **Note:** Terms in the Schedule have specific meanings when used in a marine policy and take precedence over general definitions.
+
+---
+
+## **Scope and Applicability**
+
+- **Applicability**: Applies to all marine insurance contracts entered into **on or after the Act’s coming into force**.
+- **Rules of Maritime Law**: The general rules of Canadian maritime law continue to apply **unless they conflict with this Act**.
+- **Marine Adventures**: Any lawful marine adventure (e.g., shipping, fishing, trade) may be insured under this Act.
+
+---
+
+## **Nature of a Marine Insurance Contract**
+
+A marine insurance contract is a legal agreement where the insurer undertakes to **indemnify the insured** against losses arising from:
+
+1. **Losses incidental to a marine adventure or an adventure analogous to one** — including losses from land or air perils incidental to such adventures, if provided for in the contract or by trade usage.
+2. **Losses incidental to the building, repair, or launch of a ship.**
+
+> **Key Principle**: A lawful marine adventure may be insured, regardless of the nature of the risk.
+
+---
+
+## **Insurable Interest**
+
+An **insurable interest** is essential for a valid claim. The insured must have such an interest **at the time of loss**, though not necessarily at the time the contract is formed.
+
+### **Who Has an Insurable Interest?**
+
+- **Owner of insurable property** – has interest in its full value, even if a third party agrees to indemnify them.
+- **Buyer of goods** – has an insurable interest even if they may have rejected the goods or treated them as at the seller’s risk.
+- **Partial interest** – any partial interest (e.g., a share in cargo) is sufficient.
+- **Master and crew** – have insurable interest in their own wages.
+- **Freight advancee** – has interest in freight not repayable in case of loss.
+- **Insured in charges for insurance** – has interest in insurance premiums paid.
+- **Lender of money on ship/cargo security** – has interest in the loan.
+- **Mortgagor** – has interest in full value of property; **mortgagee** has interest in sum due under mortgage.
+- **Consignee or other interested party** – may insure on their own behalf or on behalf of others.
+
+> **Important**: An insured who assigns or parts with an insurable interest **does not lose their rights under the contract**, unless there is an express or implied agreement to the contrary.
+
+> **Exception**: A transmission of interest by operation of law (e.g., inheritance) is not subject to the insurable interest rule.
+
+---
+
+## **Void Contracts: Gaming or Wagering**
+
+- **Any contract involving gaming or wagering is void**.
+- A contract is deemed a "gaming or wagering" contract if:
+  - The insured has **no insurable interest** and the contract is entered with **no expectation of acquiring one**; or
+  - The policy contains terms such as:
+    - “Interest or no interest”
+    - “Without further proof of interest than the policy itself”
+    - “Without benefit of salvage to the insurer”
+    - Any similar term.
+
+> **Exception**: Paragraph (2)(b) does **not apply** if the policy contains “without benefit of salvage” and there is **no possibility of salvage**.
+
+---
+
+## **Insurable Value**
+
+The insurable value of the subject-matter is determined as follows:
+
+| Type of Insurance | Insurable Value |
+|------------------|-----------------|
+| **Ship** | Value at start of risk + insurance charges |
+| **Freight** | Gross freight amount (paid or unpaid) + insurance charges |
+| **Goods** | Prime cost + shipping expenses + insurance charges |
+| **Other subject-matter** | Amount at risk when policy attaches + insurance charges |
+
+> **Note**: For ships, value includes money advanced for crew wages and other disbursements to make the ship fit for the adventure.
+
+---
+
+## **Principle of Utmost Good Faith (Uberrimae Fidei)**
+
+All marine insurance contracts are based on **utmost good faith**. Both parties must act honestly and disclose material facts.
+
+### **Duty to Disclose**
+
+- The **insured** must disclose **all material circumstances** known to them **before** the contract is concluded.
+- The **agent** of the insured must disclose:
+  - All material facts known to them;
+  - All facts the insured must disclose, even if the insured learned them too late.
+
+> A circumstance is **material** if it would influence a prudent insurer’s decision on premium or whether to accept the risk.
+
+> Whether a circumstance is material is a **question of fact**.
+
+> **Exceptions to disclosure**:
+> - Circumstances that reduce risk
+> - Facts known to the insurer
+> - Facts waived by the insurer
+> - Facts already covered by express or implied warranties
+
+> **Deemed Knowledge**:
+> - Insured is deemed to know facts that should be known in ordinary business.
+> - Agent is deemed to know facts known in ordinary business or communicated to them.
+> - Insurer is presumed to know facts of common notoriety or known in ordinary business.
+
+> **Failure to disclose** allows the insurer to **avoid the contract**.
+
+---
+
+## **Material Representations**
+
+All representations made during negotiations must be **true**.
+
+- A representation is **material** if it would influence a prudent insurer.
+- A **representation as to a fact** is deemed true if the difference between what is stated and the truth would not be considered material.
+- A **representation as to belief or expectation** is deemed true if made in **good faith**.
+
+> Representations may be **withdrawn or corrected** before contract conclusion.
+
+> If a **material representation is false and not corrected**, the insurer may **avoid the contract**.
+
+---
+
+## **Formation of the Contract**
+
+- A contract is **deemed concluded** when the insured’s proposal is **accepted by the insurer**, regardless of whether the policy is issued immediately.
+- The **slip, covering note, or customary memorandum** may be used to establish acceptance.
+- A contract **effected in good faith by an agent** may be **ratified by the principal** even after a loss is discovered.
+
+> **Evidence Requirement**: A marine insurance contract is **inadmissible in evidence** unless it is evidenced by a **valid marine policy** issued under this Act.
+
+---
+
+## **Requirements for a Marine Policy**
+
+A valid marine policy must specify:
+
+1. Name of the insured or person insuring on their behalf  
+2. Subject-matter insured  
+3. Perils insured against  
+4. Voyage or period covered (or both)  
+5. Sum insured  
+6. Name of the insurer  
+
+> The policy must be **signed by or on behalf of the insurer**.  
+> For a corporation, the **corporate seal is sufficient**.
+
+> If **two or more insurers** are involved, each subscription constitutes a **separate contract** unless otherwise stated.
+
+> The subject-matter must be specified with **reasonable certainty**, but **does not need to specify the nature or extent of the insured’s interest**.
+
+> If the subject-matter is described generally, the policy is interpreted to cover the interest **intended by the insured**.
+
+> **Usage of trade** is considered when interpreting the scope of coverage.
+
+---
+
+## **Types of Policies**
+
+### 1. **Voyage Policy**
+- Covers insurance for a journey from one place to another (e.g., “from London to New York”).
+- Implies a

@@ -1,0 +1,173 @@
+### **Detailed Summary of the Canada–Finland Tax Convention Act, 2006**
+
+---
+
+#### **1. General Overview**
+The *Canada–Finland Tax Convention Act, 2006* is a legislative instrument that enables the implementation of the **Canada–Finland Convention on the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income**. This Act provides the legal framework in Canada for applying the Convention, ensuring that it has full force and effect within Canadian law.
+
+The Convention was signed to prevent double taxation and fiscal evasion by clearly defining the rules for taxing income earned by individuals and enterprises in either country, particularly when such income is derived from sources in the other country.
+
+---
+
+#### **2. Key Definitions and Interpretations**
+
+To ensure clarity and consistency, the Act defines several key terms used throughout the Convention:
+
+| Term | Definition |
+|------|-----------|
+| **Canada** | Includes the territory of Canada, including areas beyond territorial seas where Canada exercises rights over seabed and subsoil resources, and the airspace above such areas for exploration/exploitation. |
+| **Finland** | Includes the Republic of Finland and adjacent waters where Finland exercises rights over natural resources (seabed/subsoil). |
+| **Contracting State** | Either Canada or Finland, depending on context. |
+| **Person** | Includes individuals, trusts, companies, partnerships, and other bodies of persons. |
+| **Company** | Any body corporate or entity treated as such for tax purposes. |
+| **Enterprise** | The carrying on of any business. |
+| **National** | An individual or legal entity deriving status from the laws of a Contracting State. |
+| **International Traffic** | Transport by ship or aircraft operated by an enterprise of a Contracting State, *except* when operating solely between places in the other Contracting State. |
+| **Tax** | Refers to Canadian tax (income tax under the *Income Tax Act*) or Finnish tax (state income tax, corporate income tax, communal tax, church tax, withholding taxes). |
+| **Competent Authority** | In Canada: Minister of National Revenue or authorized representative; in Finland: Ministry of Finance or its authorized representative or designated authority. |
+| **Business** | Includes performance of professional services and other independent activities. |
+| **Resident** | A person liable to tax in a state due to domicile, residence, place of management, or similar criteria — *but excludes those taxed only on income from sources within that state*. |
+
+> **Note**: Terms not defined in the Convention are interpreted according to their meaning under the applicable tax laws of the relevant state, with the tax law prevailing over other laws.
+
+---
+
+#### **3. Determination of Residency**
+
+This section establishes how residency is determined for individuals and companies, which is crucial for determining which country has the right to tax income.
+
+##### **Individuals**
+An individual who is a resident of both countries is deemed to be a resident of only one state based on the following hierarchy:
+
+1. **Permanent Home Available**  
+   → Resident of the state where the individual has a permanent home.  
+   → If available in both states: resident of the state with which personal and economic relations are closer (*centre of vital interests*).
+
+2. **Centre of Vital Interests Not Determinable**  
+   → Resident of the state where the individual has an *habitual abode*.
+
+3. **Habitual Abode in Both or Neither States**  
+   → Resident of the state where the individual is a national.
+
+4. **National of Both or Neither States**  
+   → The competent authorities of both countries must resolve the issue through mutual agreement.
+
+##### **Companies**
+- A company is deemed a resident of the state in which it is **incorporated or otherwise constituted**.
+- If a person (not an individual or company) is a resident of both states, the competent authorities must resolve the issue by mutual agreement. In the absence of agreement, such persons are **not entitled to benefits** under the Convention unless otherwise agreed.
+
+---
+
+#### **4. Permanent Establishment (PE)**
+
+A **permanent establishment (PE)** is a fixed place of business through which an enterprise carries on business. Examples include:
+- Place of management  
+- Branch  
+- Office  
+- Factory  
+- Workshop  
+- Mine, oil/gas well, quarry, or other site related to natural resource exploration/exploitation  
+
+**Key Rules:**
+- A **building site or construction project** constitutes a PE only if it lasts **more than 12 months**.
+- The following activities **do not constitute a PE**:
+  - Use of facilities for storage, display, or delivery of goods.
+  - Maintenance of stock solely for storage/display/delivery.
+  - Maintenance of stock solely for processing by another enterprise.
+  - Fixed place used only for purchasing goods or collecting information.
+  - Fixed place used only for preparatory or auxiliary activities.
+- **Exception**: If a person (not an agent of independent status) has authority to conclude contracts on behalf of an enterprise and habitually exercises that authority, the enterprise is deemed to have a PE in that state — *unless* the activities are limited to those listed above and are of a preparatory or auxiliary nature.
+
+> **Important**: A company's control or ownership of another company in the other country does **not** create a PE.
+
+---
+
+#### **5. Taxation of Income from Immovable Property**
+
+Income from immovable property (land, buildings, agriculture, forestry) located in the other country may be taxed in that country.
+
+##### **Definition of Immovable Property**:
+- Includes land, property accessory to land, livestock, equipment used in agriculture/forestry, usufruct, rights to variable/fixed payments for working mineral deposits, or natural resources.
+- **Excludes**: Ships and aircraft.
+
+##### **Applicability**:
+- Applies to income from:
+  - Direct use, letting, or use in any form of immovable property.
+  - Alienation (sale) of such property.
+- If ownership of shares gives a shareholder the right to enjoy immovable property held by a company, income from that enjoyment may be taxed in the country where the property is located.
+
+> **Note**: This rule also applies to enterprise-level income from immovable property.
+
+---
+
+#### **6. Taxation of Profits of Enterprises**
+
+##### **General Rule**:
+- Profits of an enterprise of a Contracting State are taxable **only in that State**.
+- **Exception**: If the enterprise carries on business in the other country through a permanent establishment, then **only the profits attributable to that PE** may be taxed in the other country.
+
+##### **Attribution of Profits to PE**:
+- Profits attributable to a PE are determined as if the PE were a separate, independent enterprise engaged in similar activities under similar conditions.
+- This method uses a **profit attribution method** based on expected earnings under independent conditions.
+
+##### **Deductible Expenses**:
+- All expenses incurred for the PE (including executive and general administrative costs) are allowed, whether incurred in the PE country or elsewhere.
+
+##### **Exclusion**:
+- Profits are **not attributable** to a PE simply because it purchases goods or merchandise.
+
+##### **Annual Determination**:
+- Profits are calculated year by year using the same method, unless there is **good and sufficient reason** to vary it.
+
+> **Note**: If profits include income dealt with separately in other Articles (e.g., dividends), those Articles do not override this rule.
+
+---
+
+#### **7. Profits from Ships and Aircraft in International Traffic**
+
+- Profits from operating ships or aircraft in **international traffic** are taxable **only in the country of the enterprise**.
+- **Exception**: If a ship operates **primarily to transport passengers or goods exclusively between two places in one Contracting State**, its profits may be taxed in that State.
+
+> Applies to profits from participation in:
+- Pools
+- Joint ventures
+- International operating agencies
+
+---
+
+#### **8. Related-Party Transactions and Profit Shifting**
+
+This section addresses **profit shifting** through artificial or non-market conditions between related enterprises.
+
+##### **Conditions Triggering Adjustment**:
+- If one enterprise controls or is controlled by another (directly or indirectly), and:
+  - Conditions in their commercial/financial relations differ from those between independent enterprises,  
+  → Then any profits that would have accrued to one enterprise but were diverted due to these conditions may be **included in the profits of the enterprise receiving the benefit** and taxed accordingly.
+
+##### **Adjustment Requirement**:
+- If one country includes such profits in its tax base and taxes them, the **other country must adjust** its tax on those profits.
+- Adjustment must be made if it is justified and based on fair market principles.
+- Competent authorities must consult each other when necessary.
+
+##### **Time Limit**:
+- A Contracting State **cannot change** the profits of an enterprise in such circumstances **after six years** from the end of the year in which the profits would have accrued.
+
+> **Exception**: The rules do not apply in cases of **fraud, wilful default, or neglect**.
+
+---
+
+#### **9. Dividends**
+
+##### **General Rule**:
+- Dividends paid by a company resident in one country to a resident of the other country **may be taxed in the receiving country**.
+
+##### **Tax Limitations**:
+- The tax charged in the receiving country **cannot exceed**:
+  - **5%** of the gross amount of dividends if the beneficial owner is a **company owning at least 10% of voting shares** in the paying company.
+  - **15%** in all other cases.
+
+> This limitation applies **only to the dividend tax**, not to the company’s tax on profits.
+
+##### **Definition of Dividends**:
+- Income from shares or other rights (not debt claims) participating in profits.
+- Includes income taxed like

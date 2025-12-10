@@ -1,0 +1,200 @@
+**Detailed Summary of the Public Pensions Reporting Act**
+
+---
+
+### **Overview**
+
+The *Public Pensions Reporting Act* (commonly referred to as the **Public Pensions Reporting Act**) is a Canadian federal statute enacted on **December 1, 1986** (as noted in the note), designed to establish a structured and transparent system for **actuarial reviews and financial reporting** of key public sector pension plans. Its primary purpose is to ensure that the long-term financial sustainability, cost projections, and funding status of major public pensions are regularly assessed, reported, and made accessible to Parliament and the public.
+
+This Act mandates regular **actuarial reviews** of specific federal pension plans, requiring detailed cost and valuation reports to be prepared and submitted to the Minister, who in turn must present them to Parliament. The legislation strengthens accountability by requiring independent actuarial analysis and ensuring that any changes in pension plans—especially those affecting costs or liabilities—are properly evaluated.
+
+---
+
+### **Key Definitions**
+
+- **Chief Actuary**: Refers to the Chief Actuary of the **Office of the Superintendent of Financial Institutions (OSFI)**. This individual is responsible for conducting the required actuarial reviews.
+  
+- **Minister**: In relation to any provision, means the member of the **Queen’s Privy Council for Canada** designated by the **Governor in Council** for the purpose of that provision. This typically refers to the Minister of Finance or another relevant minister responsible for pensions and public finances.
+
+---
+
+### **Scope of Pension Plans Covered**
+
+The Act applies to the following federal pension plans:
+
+1. **Canadian Forces Superannuation Act**  
+2. **Members of Parliament Retiring Allowances Act**  
+3. **Public Service Superannuation Act**  
+4. **Royal Canadian Mounted Police Superannuation Act**  
+5. **Judges Act**  
+6. **Old Age Security Act (OAS)** — specifically divided into three parts:
+
+   - **Part I** (OAS for individuals aged 65 and over)  
+   - **Parts II and III** (OAS for individuals aged 65–69 and 69–70, respectively)
+
+> **Important Note**: The Act explicitly includes the **Supplementary Retirement Benefits Act (SRBA)** and the **Supplementary Retirement Benefits Account (SRBA Account)** in the scope of the pension plans referred to in the above Acts. This means that any benefits or assets related to SRBA are considered part of the pension plan for reporting purposes.
+
+---
+
+### **Review Frequency and Review Dates**
+
+The Act establishes a clear schedule for when actuarial reviews must occur:
+
+#### 1. For Plans under the First Five Acts (Canadian Forces, MPs, Public Service, RCMP, Judges):
+
+- The next review must occur **no later than four years after the last review date**.
+- After that, reviews must be conducted **no more than three years apart**.
+
+#### 2. For Part I of the Old Age Security Act:
+
+- The first review must occur **no later than December 31, 1988**.
+- After that, reviews must be conducted **no more than three years apart**.
+
+#### 3. For Parts II and III of the Old Age Security Act:
+
+- The first review date is **fixed by the Governor in Council** (i.e., determined by the federal government).
+- Subsequent reviews must occur **no more than three years apart**.
+
+---
+
+### **Last Review Dates (Baseline for Calculating Next Review)**
+
+The Act sets specific **last review dates** for each pension plan, which serve as the starting point for calculating the next review cycle:
+
+| Pension Plan | Last Review Date |
+|------------|------------------|
+| Canadian Forces Superannuation Act | December 31, 1983 |
+| Members of Parliament Retiring Allowances Act | March 31, 1982 |
+| Public Service Superannuation Act | December 31, 1983 |
+| Royal Canadian Mounted Police Superannuation Act | December 31, 1985 |
+| Judges Act | December 31, 1983 |
+
+These dates are critical for determining when the next review is due.
+
+---
+
+### **Trigger for Immediate Review**
+
+If an **amendment** is made to any of the covered pension plans and it:
+
+- Affects the **cost of benefits**, or  
+- Creates an **initial unfunded liability** (i.e., the plan is underfunded at the time of the amendment),
+
+Then the **Minister must require the Chief Actuary to conduct an actuarial review as of the effective date of the amendment**.
+
+This ensures that changes to pension structures—such as changes in retirement age, benefit formulas, or eligibility rules—are immediately assessed for financial impact.
+
+---
+
+### **Cost Certificate Requirements**
+
+Following each review, the **Chief Actuary must file a Cost Certificate** with the Minister within **18 months** of the review date.
+
+#### For Plans under the First Five Acts (Canadian Forces, MPs, Public Service, RCMP, Judges):
+
+The cost certificate must include:
+
+1. **Estimated Cost of Benefits**:
+   - Expressed as a **percentage of pensionable payroll**.
+   - Must show **separately**:
+     - Employer contributions
+     - Employee contributions
+   - For reviews falling on the **last day of a plan year**:
+     - The cost for the **next three plan years**.
+   - For reviews falling on **any other day**:
+     - The cost for the **plan year in which the review occurs**, plus the **next two plan years**.
+
+2. **Actuarial Method**:
+   - The method used to calculate the cost of benefits.
+   - If applicable, the **rule for allocating costs between employer and employees** over the next two years.
+
+3. **New Liabilities or Surpluses**:
+   - Amount of any **new initial unfunded liability** (i.e., the plan is underfunded).
+   - Any **new experience deficiency or surplus** (i.e., the plan is overfunded or underfunded due to actual experience vs. projections).
+   - Any **special payments** required to address these imbalances.
+
+#### For the Old Age Security Act (Part I):
+
+The cost certificate must show:
+
+- The **estimated annual cost** of:
+  - Monthly pensions
+  - Monthly Guaranteed Income Supplements (GIS)
+  - Allowances
+  - Other benefits (if any)
+
+- For a period of **ten years after the review date**, and then **every fifth year thereafter**, for a **minimum of 30 years**.
+
+This extended projection ensures long-term financial planning for OAS, which is a major component of Canada’s retirement system.
+
+---
+
+### **Valuation Report Requirements**
+
+The Chief Actuary must also file a **valuation report** with the Minister within the time limit specified in **section 5(1)** (which is not detailed here but is part of the broader framework).
+
+#### Key Features of the Valuation Report:
+
+- Must be prepared in accordance with:
+  - The **Canadian Institute of Actuaries’ Guides and Recommendations** for actuarial reports.
+- Must include **additional information** as required by the Minister from time to time (e.g., detailed assumptions, demographic data, investment returns, etc.).
+
+---
+
+### **Adjustment of Special Payments Based on Actuarial Assumptions**
+
+If the actuarial assumptions or methods used in a review **differ** from those used in the immediately preceding review (and a cost certificate was filed before), then:
+
+#### Case 1: Decrease in Unfunded Liability (but no excess of assets over liabilities)
+
+- The **outstanding special payments** (payments made to address past underfunding) must be **recalculated**.
+- The recalculation formula:
+  - Multiply each special payment amount by a **factor**:
+    - Numerator = **Going concern unfunded actuarial liability** (current)
+    - Denominator = **Sum of present values** of the previous special payments, **calculated using the current review’s assumptions**.
+
+> This ensures that special payments are adjusted to reflect changes in actuarial assumptions, preventing over- or under-compensation due to shifting assumptions.
+
+#### Case 2: Excess of Assets over Liabilities
+
+- If the **going concern assets exceed the going concern liabilities**, the valuation report must include a **statement** on:
+  - The **proposed method** (if any) for dealing with the surplus.
+  - This could involve:
+    - Reallocating funds to other programs
+    - Reducing future benefit levels
+    - Investing surplus funds
+    - Returning surplus to the government
+
+> This promotes fiscal responsibility and transparency in managing surplus pension assets.
+
+---
+
+### **Certification and Reporting of Assets**
+
+For the following pension plans:
+
+- Canadian Forces Superannuation Act  
+- Members of Parliament Retiring Allowances Act  
+- Public Service Superannuation Act  
+- Royal Canadian Mounted Police Superannuation Act  
+- Supplementary Retirement Benefits Act  
+
+The **Comptroller General of Canada** is responsible for:
+
+- **Certifying the assets** of these plans.
+- **Filing a report** of those assets with the Minister **at the same time** as the cost certificate is filed.
+
+> This ensures that the financial health of pension plans—including asset values—is independently verified and transparently reported.
+
+---
+
+### **Parliamentary Disclosure Requirements**
+
+The Minister is required to:
+
+- Lay before **Parliament** any cost certificate, valuation report, or assets report **within 30 sitting days** of their filing **if Parliament is then sitting**.
+- If Parliament is **not sitting**, the Minister must lay the report before Parliament on **any of the first 30 days after Parliament resumes sitting**.
+
+> This ensures that Parliament is regularly informed about the financial health and cost projections of major public pension plans.
+
+#### Exception:

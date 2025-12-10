@@ -1,0 +1,162 @@
+### **Detailed Summary of the *Canada–Norway Tax Convention Act, 2002***
+
+---
+
+#### **1. Title and Citation**
+The Act is officially titled the **Canada–Norway Tax Convention Act, 2002** and may be cited as such. It serves as the legal instrument in Canada that implements the **Canada–Norway Convention for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and on Capital**.
+
+---
+
+#### **2. Definition of Key Terms**
+The Act defines several key terms used throughout the Convention:
+- **"Convention"**: Refers to the bilateral tax treaty between Canada and the Kingdom of Norway, set out in the Schedule to the Act.
+- **"Canada"**: Includes all territory under Canadian jurisdiction, including areas beyond the territorial sea where Canada has rights to seabed and subsoil resources (as per international law).
+- **"Norway"**: Refers to the Kingdom of Norway, including areas outside territorial waters where Norway exercises rights over natural resources. *Excludes Svalbard, Jan Mayen, and other Norwegian dependencies ("biland").*
+- **"Person"**: Includes individuals, trusts, companies, partnerships, and other bodies of persons.
+- **"Company"**: Any body corporate or entity treated as such for tax purposes.
+- **"Enterprise of a Contracting State"**: An enterprise carried on by a resident of that state.
+- **"Competent Authority"**:
+  - In Canada: The Minister of National Revenue or their authorized representative.
+  - In Norway: The Minister of Finance or their authorized representative.
+- **"Tax"**: Refers to either Canadian tax (under the *Income Tax Act*) or Norwegian tax, depending on context.
+- **"National"**: An individual with nationality of a Contracting State or a legal entity deriving status from the laws of a Contracting State.
+- **"International Traffic"**: Any voyage by ship, vessel, or aircraft operated by an enterprise of a Contracting State, *except* when the vessel is operating principally between places within the other Contracting State.
+
+> *Note:* Terms not defined in the Convention are interpreted according to the law of the respective state, with domestic tax law prevailing over other laws.
+
+---
+
+#### **3. Scope and Application of the Convention**
+- The Convention applies to **residents of either or both countries**.
+- It applies to the following **existing taxes**:
+  - **In Canada**: The *Canadian tax* under the *Income Tax Act*.
+  - **In Norway**:
+    - National and municipal taxes on income (inntektsskatt til staten/fylkeskommunen/kommunen)
+    - National and municipal taxes on capital (formuesskatt til staten/kommunen)
+    - National tax on income and capital from exploration and exploitation of submarine petroleum resources and related activities
+    - National tax on remuneration to non-resident artists, etc.
+
+- The Convention also applies to **any future identical or substantially similar taxes** introduced after the date of signature, provided the Contracting States notify each other of significant changes in tax legislation.
+
+---
+
+#### **4. Residency Rules**
+The definition of **"resident of a Contracting State"** is broad and includes:
+- Individuals, companies, trusts, partnerships, and government bodies.
+- Determination based on **domicile, residence, place of management**, or other similar criteria.
+- **Exclusion**: A person is *not* considered a resident if they are taxed *only* on income from sources within that state.
+
+##### **Residency of Individuals**
+If an individual is a resident of both countries, residency is determined in this order:
+1. **Permanent home available**:
+   - Resident only in the country where they have a permanent home.
+   - If homes exist in both, residency is with the country where personal and economic relations are closer (**"centre of vital interests"**).
+2. **Centre of vital interests undetermined or no permanent home**:
+   - Resident only in the country where they have an **habitual abode**.
+3. **Habitual abode in both or neither**:
+   - Resident only in the country of their **nationality**.
+4. **Nationality of both or neither**:
+   - The issue is resolved by **mutual agreement** between competent authorities.
+
+##### **Residency of Non-Individuals (e.g., companies)**
+If a non-individual (e.g., a company) is a resident of both countries, the competent authorities must resolve the issue through **mutual agreement**.
+
+---
+
+#### **5. Permanent Establishment (PE)**
+A **permanent establishment** is a fixed place of business through which an enterprise carries on business. Examples include:
+- Place of management
+- Branch, office, factory, workshop
+- Mine, oil/gas well, quarry, or other extraction site
+
+**Key Conditions**:
+- A building site, construction, assembly, or installation project constitutes a PE **only if continued for more than 12 months**.
+- Supervisory or consultancy activities are a PE only if part of a long-term project.
+
+**Exclusions** (do not constitute a PE):
+- Use of facilities solely for storage, display, or delivery of goods
+- Maintenance of stock for storage, display, or delivery
+- Maintenance of stock solely for processing by another enterprise
+- Fixed place used only for purchasing goods or collecting information
+- Fixed place used only for preparatory or auxiliary activities
+
+**Exception**:
+- A person acting **on behalf of an enterprise** with authority to conclude contracts (not an independent agent) is deemed to have a PE in the country where they exercise such authority, **unless** their activities are limited to those excluded above.
+
+> *Note:* A company controlling or being controlled by another company in the other country does **not** create a PE.
+
+---
+
+#### **6. Taxation of Income from Immovable Property**
+- Income from **immovable property** (including agricultural or forestry income) located in the other country may be taxed in that country.
+- **Definition of immovable property**:
+  - Includes land, buildings, and property accessory to land.
+  - Includes livestock, equipment used in agriculture/forestry.
+  - Includes rights to exploit mineral deposits, sources, and natural resources.
+  - **Excludes** ships and aircraft.
+
+> **Application**:
+- Applies to income from **direct use, letting, or use** of the property.
+- Applies to **profits from alienation** (sale) of the property.
+- Applies to income from immovable property used in **independent personal services**.
+- Applies to **enterprise income** from immovable property.
+
+---
+
+#### **7. Taxation of Enterprise Profits**
+- Profits of an enterprise are generally taxable **only in the state of residence**.
+- **Exception**: If the enterprise operates through a permanent establishment in the other country, profits **attributable to that PE** may be taxed in that country.
+
+> **Attribution of Profits**:
+- Profits attributed to a PE are calculated as if it were a separate, independent enterprise engaged in the same activities under similar conditions.
+- Deductible expenses (including executive and administrative costs) are allowed, regardless of location.
+- **No attribution** for purchases of goods or merchandise.
+
+> **Method**:
+- Profits are determined annually using the same method unless good and sufficient reason exists to differ.
+
+> **Exception**:
+- If income is dealt with separately in other Articles (e.g., dividends, interest), those Articles govern and the profit attribution rules do not apply.
+
+---
+
+#### **8. Profits from Ships and Aircraft in International Traffic**
+- Profits from operating ships or aircraft in **international traffic** are taxable **only in the home state** of the enterprise.
+
+> **Exception**:
+- If a ship’s **principal purpose** is to transport passengers or goods **exclusively between places in the other country**, profits may be taxed in that country.
+- This **does not apply** to **coastal traffic** (incidental or supplementary to international traffic).
+
+> **Application to Pools, Joint Ventures, and Agencies**:
+- The rules apply to profits from participation in pools, joint businesses, or international operating agencies.
+
+> **Containers in International Traffic**:
+- Profits from use, maintenance, or rental of containers (including trailers) used in international traffic are taxable only in the home country.
+- **Exception**: If containers are used primarily between places in the other country, profits may be taxed there.
+
+> **Special Case – Scandinavian Airlines System (SAS)**:
+- Applies to SAS, a joint Norwegian-Danish-Swedish air transport consortium.
+- Only applies to the **Norwegian share (SAS Norge ASA)**.
+
+---
+
+#### **9. Transfer Pricing and Related Party Transactions**
+If:
+- A company of one country participates in the management, control, or capital of a company in the other country, or
+- The same persons participate in both companies,
+
+and **commercial or financial conditions differ** from those between independent enterprises, then any income that would have accrued to one company but did not due to these conditions may be included in the other company’s income and taxed accordingly.
+
+> *Purpose*: Prevents profit shifting and tax avoidance through artificial pricing or arrangements.
+
+---
+
+#### **10. Dividends**
+- Dividends paid by a resident company in one country to a resident in the other may be taxed in that other country.
+- However, **tax in the source country** is allowed, but **limited**:
+  - If the beneficial owner is a **company holding at least 10% of voting power**:
+    - Tax in the receiving country **cannot exceed 5%** of gross dividends.
+  - In **all other cases**:
+    - Tax cannot exceed **15%** of gross dividends.
+
+>

@@ -1,0 +1,162 @@
+**Detailed Summary of the *Commercial Arbitration Act* (Canada)**
+
+---
+
+### **Overview**
+
+The *Commercial Arbitration Act* (Act) is a comprehensive legislative framework that establishes the rules and procedures governing **commercial arbitration in Canada**, particularly when one of the parties is a **government entity**—specifically, Her Majesty in right of Canada, a **Crown corporation**, or a **departmental corporation**—or in **maritime or admiralty matters**. It is based on the **United Nations Commission on International Trade Law (UNCITRAL) Model Law on International Commercial Arbitration**, adopted on June 21, 1985, with key modifications to suit Canadian legal and institutional contexts.
+
+The Act came into force on **August 10, 1986**, through **Statutory Instrument SI/86-155**, and serves as the primary law governing commercial arbitration in Canada, especially in relation to state-owned entities and cross-border disputes.
+
+---
+
+## **Key Definitions and Interpretation Principles**
+
+### 1. **"Code"**
+- Refers to the *Commercial Arbitration Code*, which forms the core of the Act.
+- Based on the UNCITRAL Model Law of 1985, with some adaptations.
+- The Code applies to commercial arbitration, subject to any bilateral or multilateral agreements between Canada and other countries.
+
+> **Note**: The term "international" has been removed from Article 1(1), and the detailed criteria for international arbitration have been deleted. This reflects a shift toward focusing on **domestic commercial arbitration** involving state entities.
+
+---
+
+### 2. **Scope of Application**
+The Code applies **only in cases where at least one party is**:
+- Her Majesty in right of Canada,
+- A **Crown corporation**, or
+- A **departmental corporation**  
+*or* in **maritime or admiralty matters**.
+
+This means that the Code does **not apply** to purely private disputes between individuals or private businesses unless one of the parties is a government body or the matter falls under admiralty law.
+
+---
+
+### 3. **Applicability of Arbitral Agreements and Awards**
+- Applies to **arbitral agreements** (whether made before or after the Act's coming into force).
+- Applies to **arbitral awards** and **arbitration agreements** regardless of timing.
+- Includes specific claims under various **free trade agreements (FTAs)** such as:
+  - **NAFTA** (Articles 1116/1117),
+  - **USMCA** (Annex 14-C or Article 14.D.3),
+  - **Canada–Chile FTA** (Articles G-17/G-18),
+  - **Canada–Peru and Canada–Colombia FTAs** (Articles 819/820),
+  - And other provisions listed in **Schedule 2**.
+
+> This ensures that trade-related disputes involving Canada are governed by consistent, internationally recognized arbitration standards.
+
+---
+
+### 4. **Interpretation of the Code**
+- The Act is interpreted in **good faith**, using ordinary meaning in context and in light of its **object and purpose**.
+- Interpretation may refer to:
+  - The **Report of the 18th Session of UNCITRAL (1985)**,
+  - The **Analytical Commentary** by the Secretary-General.
+- The Code has **full force of law** in Canada, subject to certain exceptions.
+
+---
+
+### 5. **"Court" or "Competent Court"**
+- Refers to **superior, county, or district courts**.
+- Exceptions exist where the context requires a different judicial body (e.g., Federal Court).
+
+---
+
+## **Core Provisions of the Code**
+
+---
+
+### **1. Arbitration Agreement**
+- **Definition**: An agreement to submit disputes (arising or future) to arbitration, whether contractual or not.
+- May take the form of:
+  - An **arbitration clause in a contract**, or
+  - A **separate agreement**.
+- Must be in **writing**. A writing includes:
+  - A signed document,
+  - Exchange of letters, telex, telegrams, or other recorded communications,
+  - Statements of claim and defense where one party alleges the existence of an arbitration agreement and the other does not deny it.
+- A **reference to an arbitration clause** in a contract constitutes an arbitration agreement **if**:
+  - The contract is in writing, and
+  - The reference makes the clause part of the contract.
+
+> **Key Point**: The agreement is not invalidated just because it is not explicitly stated in a separate document.
+
+---
+
+### **2. Court Referral to Arbitration**
+- If a party brings a lawsuit in a matter governed by an arbitration agreement, **the court must refer the parties to arbitration** upon request, **unless**:
+  - The agreement is **null, void, or unenforceable**.
+- The referral **does not suspend** the litigation.
+- Arbitral proceedings may **proceed or continue** while the court issue is pending.
+- A party may request **interim protective measures** (e.g., injunctions) from the court **before or during** arbitration—this is **not incompatible** with the arbitration agreement.
+
+---
+
+### **3. Appointment of Arbitrators**
+- **Parties are free** to agree on the number and method of appointing arbitrators.
+- **Default rules**:
+  - **Three arbitrators**: Each party appoints one; the two appointees choose the third.
+    - If either fails to appoint within **30 days**, or if the two fail to agree within 30 days, the **court** (or other authority under Article 6) appoints the third.
+  - **Sole arbitrator**: If parties cannot agree, the **court** appoints the arbitrator.
+- If a party fails to act under the agreed procedure, or if a third party (e.g., an arbitration institution) fails to perform its role, any party may request the **court** to intervene.
+- **No appeal** is allowed on decisions made by the court or authority in appointing arbitrators.
+- Appointment must ensure **independence and impartiality**.
+- Courts should consider:
+  - Qualifications agreed upon by the parties,
+  - Nationality diversity (especially for sole or third arbitrators),
+  - Avoiding bias or conflict of interest.
+
+---
+
+### **4. Challenges to Arbitrators**
+- A party may challenge an arbitrator **only if**:
+  - There are **justifiable doubts** about impartiality or independence, or
+  - The arbitrator lacks qualifications agreed upon by the parties.
+- A party may challenge an arbitrator **only after** becoming aware of grounds **after appointment**.
+- **Default procedure**:
+  - Within **15 days** of becoming aware of the tribunal’s composition or any relevant circumstances, the party must send a **written statement** of reasons to the tribunal.
+  - If the arbitrator does not withdraw or the other party does not agree, the **arbitral tribunal decides** on the challenge.
+- If the challenge fails:
+  - The challenging party may request the **court** to decide within **30 days**.
+  - The decision is **final and appealable**.
+  - During this period, the tribunal may **continue proceedings and issue an award**.
+- **Termination of mandate**:
+  - If an arbitrator becomes unable to act (de jure or de facto), or fails to act without undue delay:
+    - The mandate terminates if the arbitrator withdraws or the parties agree.
+    - Otherwise, any party may request the **court** to decide on termination.
+    - The decision is **final and non-appealable**.
+  - **Note**: Termination does **not imply acceptance** of any grounds for termination.
+
+> **Substitute arbitrator**: If an arbitrator is removed, a substitute is appointed according to the original appointment rules.
+
+---
+
+### **5. Jurisdiction of the Arbitral Tribunal**
+- The tribunal may **rule on its own jurisdiction**, including:
+  - Validity of the arbitration agreement,
+  - Whether the dispute falls within the scope of the agreement.
+- An arbitration clause is treated as **independent** of the rest of the contract.
+- A decision that the contract is null and void **does not automatically invalidate** the arbitration clause.
+- A plea of **lack of jurisdiction** must be raised:
+  - **No later than the submission of the defense** (for lack of jurisdiction),
+  - **As soon as the issue arises** (for exceeding authority).
+- The tribunal may **admit a later plea** if it considers the delay justified.
+- If the tribunal rules on jurisdiction as a **preliminary question**, any party may request the **court** to decide within **30 days**.
+  - The decision is **final and non-appealable**.
+  - The tribunal may proceed with the case during this period.
+
+---
+
+### **6. Interim Measures of Protection**
+- The tribunal may, at a party’s request, order **interim protective measures** (e.g., injunctions, preservation of assets).
+- The tribunal may require the party to provide **security** (e.g., bond) to cover potential costs.
+- These measures are **not incompatible** with the arbitration agreement.
+
+---
+
+### **7. Conduct of Proceedings**
+- **Equality of parties**: All parties are treated equally and have a full opportunity to present their case.
+- **Procedure**:
+  - Parties may agree on procedures (e.g., hearings, evidence, language).
+  - If no agreement, the tribunal may conduct proceedings as it deems appropriate.
+  - The tribunal has broad power to:
+    - Determine **admissibility, relevance, materiality, and

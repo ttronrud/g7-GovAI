@@ -1,0 +1,139 @@
+### **Detailed Summary of the Spending Control Act**
+
+The **Spending Control Act** is a Canadian federal law enacted to establish strict fiscal discipline and limit government program spending during a defined period—specifically, from the **1991–92 fiscal year through the 1995–96 fiscal year**. The Act was designed as a response to concerns about rising public debt and unsustainable budget deficits, aiming to ensure that government spending remains within pre-determined financial limits.
+
+This summary provides a comprehensive, structured breakdown of the key provisions, definitions, mechanisms, and implications of the Act.
+
+---
+
+## **1. Title and Purpose**
+- **Title:** The Act may be cited as the *Spending Control Act*.
+- **Purpose:** To impose spending caps on the Government of Canada’s program expenditures for specific fiscal years, ensuring fiscal responsibility and preventing excessive spending growth without parliamentary oversight.
+
+---
+
+## **2. Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Controlled Fiscal Year** | A fiscal year subject to spending limits under this Act (i.e., 1991–92 to 1995–96). |
+| **Government** | Refers to the Government of Canada. |
+| **Minister** | The Minister of Finance, who is responsible for budget formulation and compliance with the Act. |
+| **Expenditure** | A charge in respect of net budgetary expenditures as shown in the government’s Statement of Revenues and Expenditures. |
+| **Program Spending** | All government expenditures in a fiscal year *except* those related to: <br> - Debt servicing (e.g., interest on loans); <br> - Employment Insurance employer premiums; <br> - Farm Income Protection Act expenditures (specific sections); <br> - Emergency-related spending; <br> - Pre-1991 data revisions; <br> - Settlements of old court judgments (pre-1991); <br> - Payments under the Seized Property Management Act. |
+| **Spending Limit** | The maximum allowable amount of program spending for a fiscal year, which increases or decreases based on specific conditions. It is set annually and adjusted through various mechanisms. |
+
+---
+
+## **3. Spending Limit Framework (by Fiscal Year)**
+
+The spending limit is not fixed—it is defined differently for each fiscal year, with a clear upward trend:
+
+| Fiscal Year | Spending Limit (CAD) | Key Adjustments |
+|-----------|------------------------|----------------|
+| **1991–92** | $97,200 million | Base limit; no adjustments unless certified under section 4(1). |
+| **1992–93** | $100,900 million | + increases under subsections 3(2), (3)(b), or 6(4); minus reductions under (6)(b) or 6(3). |
+| **1993–94** | $104,100 million | + increases under (3)(b), (6)(a), or 6(4); minus reductions under (3)(a), (6)(b), or 6(3). |
+| **1994–95** | $107,400 million | Same formula as 1993–94, with same adjustments. |
+| **1995–96** | $111,250 million | Higher base; includes increases under 3(2), (4), (6)(a), or 6(4); minus reductions under (3)(a), (6)(b), or 6(3). |
+
+> These figures reflect a gradual increase in the fiscal ceiling, reflecting economic growth and inflation expectations.
+
+---
+
+## **4. Rules on Budget Proposals and Spending Excesses**
+
+### **Rule 1: No Excess Spending Without Exception**
+> **Subsection (1):** Generally, the Minister **cannot propose program spending** in a controlled fiscal year that exceeds the spending limit for that year.
+
+### **Rule 2: Forward Allocation of Excess Spending (from Previous Year)**
+> If, based on prior-year expenditure data, it appears that the *actual spending* in the prior year exceeded the spending limit (without this rule), the Minister may **allocate all or part of that excess** to the current fiscal year.  
+> → The **spending limit for the current year is increased** by the amount allocated.
+
+### **Rule 3: Backward Allocation of Excess Spending (to Future Years)**
+> If the Minister proposes spending **exceeding** the limit for a particular year, they may **allocate the excess to the next two fiscal years** in proportions they determine and announce in the budget.  
+> → The **spending limit of each of the two following years is reduced** by the portion allocated.  
+> → The **spending limit of the current year is increased** by the total of the allocations.
+
+### **Rule 4: Special Provision for 1995–96**
+> For the 1995–96 fiscal year, the Minister may propose spending above the limit **if they indicate specific restraint measures** (e.g., spending cuts) to be implemented in **1996–97 or 1997–98** to offset the excess.  
+> → The spending limit for 1995–96 is **increased by the amount of the excess**.
+
+### **Rule 5: Amendments to Increase the Limit**
+> The Minister may propose spending above the limit **if they simultaneously announce proposed amendments** to this Act to raise the spending limit.  
+> → The proposed spending is allowed **only if it does not exceed the adjusted limit** under the proposed changes.
+
+### **Rule 6: Allocating Surpluses (Spending Below Limit)**
+> If the actual program spending is **less than the spending limit**, the Minister may **allocate the difference** to future fiscal years.  
+> → The **spending limit of those future years is increased** by the amount allocated.  
+> → The **spending limit of the current year is reduced** by the total of the allocations.
+
+---
+
+## **5. Certification of Specific Program Increases**
+
+### **Authority: President of the Treasury Board**
+The President of the Treasury Board can **certify** that a proposed increase in spending for a specific program is justified **if**:
+- The increase will generate **equal or greater revenue** than the cost increase in the same year, and that revenue would not occur without the increase; **OR**
+- Over a series of consecutive years including the current one, similar increases would result in **total government revenue** equal to or exceeding total expenditures, and that revenue would not occur without those increases.
+
+> This is a mechanism to allow **targeted spending increases** if they are economically justified through revenue generation.
+
+### **Disclosure Requirement**
+- A copy of any such certification must be **included in the main or supplementary estimates** for the fiscal year in which the program is funded.
+
+---
+
+## **6. Spending Excess Calculation (Section 5)**
+
+A **spending excess** is defined as the **greater of zero and**:
+
+> **Spending Excess = max(0, [Program Spending – Spending Limit])**
+
+But the Act defines a more complex formula involving **asset sales and wind-ups**:
+
+> **Spending Excess = max(0, (A + B) – C)**  
+> Where:
+> - **A** = Total amount by which the **net value of shares sold** in a Crown corporation exceeds **net proceeds of disposal** (as of March 31 before sale).  
+> - **B** = Total amount by which the **net value of shares in a wound-up Crown corporation** exceeds the **total value of financial assets received** by the government from the winding-up.  
+> - **C** = The spending limit for the year.
+
+> This means that **any loss on the disposal of Crown corporation assets** (e.g., selling shares below market value) counts as an excess, even if the government didn’t spend more.
+
+> This provision ensures that **asset sales are not used to "hide" fiscal overspending**—any shortfall in proceeds is treated as a fiscal burden.
+
+---
+
+## **7. Public Accountability and Reporting**
+
+### **Public Accounts Requirement**
+- The **Public Accounts** for each controlled fiscal year must include a **statement by the Minister** on compliance with the Act.
+- The statement must identify:
+  - All amounts included in **B** (asset disposal losses);
+  - All amounts **certified under section 4(1)**;
+  - All expenditures falling under the **eight categories of program spending** listed in section 2.
+
+### **Reporting on Excess Spending**
+- If a spending excess is found:
+  - The Minister must **allocate it to the next two fiscal years** within the next budget.
+  - Each of those years’ spending limits is **reduced** by the allocated amount.
+- If the spending limit exceeds actual program spending:
+  - The Minister may **allocate the excess to future years** (not previously allocated), increasing those years’ spending limits.
+
+---
+
+## **8. Budget Transparency and Adjustments**
+
+- In every budget presented **after the Act comes into force**, the Minister must:
+  - **State the adjusted spending limit** for each fiscal year.
+  - Provide a **clear explanation** for each adjustment (e.g., due to proposed spending, allocations, or amendments).
+
+> This ensures **transparency and accountability** in fiscal planning.
+
+---
+
+## **9. Auditor General Oversight**
+
+- The **Auditor General of Canada** must audit the Minister’s statement in the Public Accounts.
+- The Auditor General shall issue an **opinion** on whether the statement:
+  -

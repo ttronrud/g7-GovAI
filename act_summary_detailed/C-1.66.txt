@@ -1,0 +1,183 @@
+### **Detailed Summary of the Canada–Colombia Tax Convention Act, 2010**
+
+The **Canada–Colombia Tax Convention Act, 2010** is a legislative instrument that enables Canada to implement the **Canada–Colombia Convention for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and on Capital**, as set out in Schedule 1 (the Convention) and amended by Schedule 2 (the Protocol). This Act provides the legal framework under Canadian law for the application, interpretation, and enforcement of the Convention, ensuring that individuals and enterprises are not subjected to double taxation on income and capital gains derived from activities in either country.
+
+---
+
+## **1. Purpose and Scope of the Act**
+
+- **Citation**: The Act is formally known as the *Canada–Colombia Tax Convention Act, 2010*.
+- **Primary Objective**: To prevent double taxation and fiscal evasion by establishing clear rules for the taxation of income and capital gains between Canada and Colombia.
+- **Scope**: Applies to:
+  - Taxes on income and capital (e.g., income from business, investment, property, and capital gains).
+  - Residents of either Canada or Colombia.
+  - Any tax imposed by either country on income or capital, regardless of the method of levy.
+
+---
+
+## **2. Key Definitions and Interpretations**
+
+### **Convention**
+- Refers to the bilateral tax treaty between Canada and Colombia, as detailed in **Schedule 1**, as amended by the **Protocol in Schedule 2**.
+- The Convention is **approved and has full legal force in Canada** during the period it is in force.
+
+### **Precedence of the Convention**
+- In case of inconsistency between:
+  - The Convention and any other Canadian law,
+  - The Convention and the *Income Tax Conventions Interpretation Act*,
+  → The **Convention prevails** to the extent of the inconsistency.
+- However, if the *Income Tax Conventions Interpretation Act* is inconsistent with the Convention, **that Act prevails**.
+
+### **Regulations and Notifications**
+- The **Minister of National Revenue** may issue regulations to implement the Convention or give effect to its provisions.
+- The **Minister of Finance** must publish in the *Canada Gazette*:
+  - The date the Convention enters into force.
+  - The date it ceases to have effect.
+  - Within **60 days** of entry into force or termination.
+
+> ✅ **Note**: The Convention and Protocol entered into force on **June 12, 2012**, as published in *Canada Gazette Part I, Volume 146, page 2512*.
+
+---
+
+## **3. Application of the Convention**
+
+### **Who is Covered?**
+- Applies to **persons who are residents of one or both countries**.
+- Includes individuals, companies, partnerships, trusts, and other bodies of persons.
+
+### **Types of Taxes Covered**
+The Convention applies to:
+- Taxes on **total income**, **total capital**, or **elements of income or capital**.
+- Includes:
+  - Gains from the sale of movable or immovable property.
+  - Taxes on total wages/salaries paid by enterprises.
+  - Taxes on capital appreciation.
+
+### **Existing and Future Taxes**
+- Applies to:
+  - In Canada: Taxes under the *Income Tax Act* ("Canadian tax").
+  - In Colombia: 
+    - *Tax on Income and Complementary Taxes (Impuesto sobre la Renta y Complementarios)*;
+    - *National Tax on Capital* ("Colombian Tax").
+- Also applies to **any identical or substantially similar taxes introduced after the signing date**, provided they are not fundamentally different.
+- Both countries must **notify each other** of significant changes in their tax laws.
+
+---
+
+## **4. Definitions (Key Terms)**
+
+| Term | Meaning |
+|------|--------|
+| **Canada** | Includes land territory, internal waters, territorial sea, air space, exclusive economic zone, and continental shelf, as defined by Canadian law and international law. |
+| **Colombia** | The Republic of Colombia. |
+| **Contracting State** | Either Canada or Colombia, depending on context. |
+| **Person** | Individual, trust, company, partnership, or any body of persons. |
+| **Company** | Any body corporate or entity treated as such for tax purposes. |
+| **Enterprise** | Any business carried on. |
+| **International Traffic** | Transport by ship or aircraft operated by an enterprise of a Contracting State, **except when principally between places in the other country**. |
+| **Competent Authority** | In Canada: Minister of National Revenue or authorized representative. In Colombia: Minister of Finance and Public Credit or authorized representative. |
+| **National** | An individual with nationality of the country or a legal person deriving status from domestic law. |
+| **Business** | Includes professional services and independent activities. |
+
+> ⚠️ **General Rule**: Unless otherwise stated, terms are interpreted according to their meaning under the domestic tax law of the relevant country. Domestic law prevails over foreign law.
+
+---
+
+## **5. Determination of Residency**
+
+This is a critical provision determining which country has taxing rights over a person's income.
+
+### **For Individuals**
+An individual is deemed a resident of **only one** of the two countries under the following hierarchy:
+
+1. **Permanent Home**:
+   - If the individual has a permanent home in one country → resident only in that country.
+   - If they have a permanent home in **both**, resident only in the country where their **personal and economic relations are closer** ("centre of vital interests").
+
+2. **If Centre of Vital Interests Cannot Be Determined**:
+   - Resident only in the country where the individual has an **habitual abode**.
+
+3. **If No Habitual Abode in Either Country**:
+   - Resident only in the country of **nationality**.
+
+4. **If National of Both or Neither**:
+   - The competent authorities must resolve the issue by **mutual agreement**.
+
+> 📌 *Note*: Residency is determined by a combination of domicile, residence, place of management, and economic ties.
+
+---
+
+### **For Companies**
+- If a company is a national of a Contracting State and is a resident of both countries:
+  - It is deemed a resident **only of the first-mentioned State** (as listed in the Convention).
+
+### **For Other Persons (e.g., trusts, partnerships)**
+- If such a person is a resident of both countries:
+  - The competent authorities must reach a **mutual agreement** to determine residency.
+  - **In the absence of agreement**, the person is **not entitled to any tax relief or exemption** under the Convention.
+
+---
+
+## **6. Permanent Establishment (PE)**
+
+A **permanent establishment** is a fixed place of business through which an enterprise conducts business.
+
+### **Types of PE Included**
+- Place of management
+- Branch, office, factory, workshop
+- Mine, oil/gas well, quarry, or any site for exploration/exploitation of natural resources
+
+### **PE Includes (with conditions)**
+- **Building, construction, assembly, or installation projects**:
+  - Only if they last **more than 6 months**.
+- **Furnishing of services** (e.g., consulting):
+  - Only if such services are provided by employees or agents **for more than 183 days in any 12-month period**.
+
+### **Exclusions (Does NOT constitute a PE)**
+- Use of facilities for:
+  - Storage, display, or delivery of goods.
+  - Maintenance of stock solely for storage/display/delivery.
+  - Maintenance of stock for processing by another enterprise.
+  - Purchasing goods or collecting information.
+  - Preparatory or auxiliary activities (e.g., administrative functions).
+- **Exception**: If the overall activity is preparatory or auxiliary, it does not constitute a PE.
+
+> ✅ **Exception for Agents**:
+> - If a person acts on behalf of an enterprise and has **authority to conclude contracts** in a foreign country, the enterprise is deemed to have a PE **unless** the activities are limited to those excluded above.
+
+> ✅ **Insurance Exception**:
+> - An insurance enterprise resident in one country is deemed to have a PE in the other **if it collects premiums or insures risks located in that country**, **except for reinsurance**.
+
+> ❌ **No PE for Brokers or Agents**:
+> - An enterprise does **not** have a PE merely because it uses a broker, general commission agent, or independent agent.
+> - Only if the agent is acting in the ordinary course of business and under conditions typical of independent enterprises.
+
+> ⚠️ **No PE due to Control**:
+> - Merely controlling or being controlled by a company in the other country **does not** create a PE.
+
+---
+
+## **7. Taxation of Income from Immovable Property**
+
+### **Applicability**
+- Income from **immovable property** (including agricultural or forestry income) located in the other country **may be taxed in that country**.
+
+### **Definition of Immovable Property**
+- Includes:
+  - Property accessory to land.
+  - Livestock and equipment used in agriculture/forestry.
+  - Rights under general land laws (e.g., usufruct).
+  - Rights to variable/fixed payments for working or exploiting mineral deposits, natural resources.
+- **Excludes**: Ships and aircraft.
+
+> ✅ Applies to:
+> - Income from direct use, letting, or use of immovable property.
+> - Income from alienation (sale) of such property.
+> - Profits of an enterprise from such property.
+
+---
+
+## **8. Taxation of Enterprise Profits**
+
+### **General Rule**
+- Profits of an enterprise

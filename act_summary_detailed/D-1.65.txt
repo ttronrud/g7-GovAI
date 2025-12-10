@@ -1,0 +1,138 @@
+**Detailed Summary of the *Digital Services Tax Act***
+
+---
+
+### **Overview**
+
+The *Digital Services Tax Act* (DSTA) is a Canadian legislative framework designed to impose a **digital services tax** on certain foreign digital service providers that generate significant revenue from Canadian users. The Act targets companies that derive substantial income from digital platforms—such as online marketplaces, social media, targeted advertising, and user data—by assessing their **Canadian digital services revenue** and applying a **3% tax** when specific thresholds are met.
+
+This Act is intended to ensure that digital companies that profit from Canadian users—particularly through data collection, advertising, and platform access—contribute fairly to the Canadian tax base, even if they are headquartered abroad.
+
+---
+
+## **Key Components and Structure**
+
+The Act is structured into several parts, each addressing definitions, revenue determination, tax liability, and special rules. Below is a detailed breakdown of its core elements.
+
+---
+
+## **I. Definitions (Section 1 and Definitions in Part 1)**
+
+A comprehensive set of definitions establishes the legal and operational framework for the Act.
+
+| Term | Meaning |
+|------|--------|
+| **Acceptable Accounting Principles** | International Financial Reporting Standards (IFRS) or other country-specific GAAP used for public companies requiring consolidated financial statements. |
+| **Assessment** | A tax assessment or reassessment under the Act. |
+| **Bankrupt** | As defined in the *Bankruptcy and Insolvency Act*. |
+| **Canadian Digital Services Revenue** | Revenue derived from digital services provided to users located in Canada. Determined under Part 3. |
+| **Consolidated Financial Statements** | Financial statements that present the combined financial position of a group as a single economic entity. |
+| **Consolidated Group** | An ultimate parent entity and its subsidiaries required to prepare consolidated financial statements under IFRS or similar standards. Includes entities that would be required to do so if equity were publicly traded. |
+| **Constituent Entity** | Any entity included in consolidated financial statements under acceptable accounting principles, or one that would be included if the parent's equity were publicly traded. Excludes entities excluded due to size or held for sale. |
+| **Digital Content** | Digitally encoded text, video, image, sound, or software; excludes financial instruments. |
+| **Digital Interface** | A website, app, or electronic platform through which data or content is collected, viewed, consumed, or interacted with. |
+| **Entity** | A person other than an individual (e.g., corporation, trust, partnership). |
+| **Financial Instrument** | A broad category including shares, bonds, derivatives, insurance contracts, commodities, and more—excludes digital assets used primarily for exchange within platforms like gaming or rewards programs. |
+| **First Year of Application** | The calendar year when the Act comes into force or a subsequent year prescribed by regulation. |
+| **Fiscal Year** | For a taxpayer: the accounting period used for financial reporting; for a consolidated group: the period used by the ultimate parent. |
+| **Global Revenue Threshold** | A prescribed amount (by regulation) above which a company may be subject to the tax. |
+| **In-Scope Revenue Threshold** | A prescribed amount (by regulation) above which the tax applies to specific revenue streams (e.g., advertising, user data). |
+| **Minister** | The Minister of National Revenue. |
+| **Online Marketplace** | A platform enabling users to interact and trade goods/services (including digital content), but excludes platforms with a single supplier or primarily focused on payments/credit. |
+| **Online Search Engine** | A tool allowing users to search across multiple unrelated websites. |
+| **Online Targeted Advertisement** | Digital content placed on or through a digital interface, targeted based on user data (e.g., location, browsing behavior). |
+| **Person** | Includes individuals, trusts, partnerships, corporations, and any other organization. |
+| **Prescribed** | As defined by the Minister or regulation (e.g., forms, filing procedures, thresholds). |
+| **Property** | Any tangible or intangible asset, including rights, shares, money, and choses in action. |
+| **Regulation** | Rules made under this Act. |
+| **Social Media Platform** | A platform where users find and interact with each other or content created by others. |
+| **Supply** | Any form of provision of goods or services (sale, rental, license, gift, etc.). |
+| **Taxable Canadian Digital Services Revenue** | Revenue from digital services provided to Canadian users, determined under Part 4. |
+| **Taxpayer** | An entity (not a Crown-owned corporation or association) that is not owned directly or indirectly by the Government of Canada or a province. |
+| **Total Consolidated Group Revenue** | The total revenue of a consolidated group, as reported in consolidated financial statements (or under IFRS if not prepared). Excludes revenue from non-taxpayers. |
+| **Ultimate Parent Entity** | The top-level entity in a group that controls others and is required to prepare consolidated statements. |
+| **User** | Any individual or entity interacting with a digital interface, excluding operators, employees acting in business, or entities within the same group. |
+| **User Data** | Any information generated or collected from a user’s interaction with a digital interface (e.g., IP address, location, browsing history). |
+
+> **Note**: Negative or undefined results from formulas are deemed “nil” (zero) under specific provisions.
+
+---
+
+## **II. Revenue Determination Rules**
+
+### **General Rule**
+Revenue is determined using acceptable accounting principles:
+- If the taxpayer prepares consolidated financial statements → use those principles.
+- If not → use **International Financial Reporting Standards (IFRS)**.
+
+### **Currency Conversion Rules**
+- If revenue is in a currency other than the threshold currency (e.g., USD vs. CAD), convert using a rate acceptable to the Minister.
+- For fiscal years shorter than 12 months, adjust the global revenue threshold using a daily rate:
+  $$
+  \text{Adjusted Threshold} = \left(\frac{\text{Global Revenue Threshold}}{365}\right) \times \text{Number of Days in Fiscal Year}
+  $$
+
+> This ensures the tax is applied fairly across different fiscal calendar lengths.
+
+---
+
+## **III. Tax Liability (Section 10)**
+
+A taxpayer must pay a **3% tax** on its **taxable Canadian digital services revenue** in a calendar year **(except the first year of application)** if **any one** of the following conditions is met:
+
+### **Conditions for Tax Liability:**
+1. **Total Revenue Threshold**  
+   The taxpayer had total revenue ≥ **global revenue threshold** during a fiscal year ending in the **immediately preceding calendar year**.
+
+2. **Group Revenue Threshold**  
+   The taxpayer was a **constituent entity** of a consolidated group that had total consolidated group revenue ≥ **global revenue threshold** during a fiscal year ending in the immediately preceding calendar year.
+
+3. **Current Group Revenue Threshold**  
+   The taxpayer is currently a constituent entity of a consolidated group that had total consolidated group revenue ≥ **global revenue threshold** during a fiscal year ending in the immediately preceding calendar year.
+
+### **AND** at least one of the following must also be true:
+- The taxpayer’s **Canadian digital services revenue** > **in-scope revenue threshold**; OR  
+- The **sum of Canadian digital services revenue** from all constituent entities in the group during the calendar year > **in-scope revenue threshold**.
+
+> The "in-scope revenue threshold" applies to specific revenue streams (e.g., advertising, user data), ensuring the tax targets actual Canadian digital services income.
+
+---
+
+## **IV. First Year of Application (Special Rules)**
+
+For the first year the Act comes into force, the tax is applied differently:
+
+- If the taxpayer meets the conditions in Section 10(1)(a) and (b):
+  - Tax = **3% of taxable Canadian digital services revenue** for that year.
+- Otherwise:
+  - Tax = **nil**.
+
+Additionally, the Act allows for a **transition election** for years *before* the first year of application:
+
+> A taxpayer may elect (by filing on or before June 30 of the year following the first year of application) to:
+> - Exclude the first-year rule from applying to a prior year.
+> - Instead, calculate Canadian digital services revenue as:
+>   $$
+>   \text{Revenue} = (\text{Canadian digital services revenue in first year of application}) + (\text{Total revenue in the particular year})
+>   $$
+
+> **Restriction**: This election is **only allowed** if:
+> - The taxpayer made a similar election in a **calendar year after 2021** that precedes the current year.
+> - The conditions in Section 10(1)(a) and (b) were met in that prior year.
+
+> This ensures that taxpayers cannot retroactively avoid the tax without a continuous history of eligibility.
+
+---
+
+## **V. Determining Canadian Digital Services Revenue (Part 3)**
+
+Canadian digital services revenue is calculated as the sum of four revenue streams:
+
+| Stream | Determination Method |
+|-------|------------------------|
+| **Canadian Online Marketplace Services Revenue** | Revenue from an online marketplace (e.g., Amazon, eBay) where users trade goods/services. Determined under **Division A**. |
+| **Canadian Online Advertising Services Revenue** | Revenue from targeted ads placed on digital interfaces. Determined under **Division B**. |
+| **Canadian Social Media Services Revenue** | Revenue from social media platforms (e.g., Facebook, Instagram). Determined under **Division C**. |
+| **Canadian User Data Revenue** | Revenue derived from selling or licensing user data (e.g., demographics, behavior). Determined under **Division D**. |
+
+> These

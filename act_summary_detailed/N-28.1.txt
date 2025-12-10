@@ -1,0 +1,144 @@
+Certainly. Below is a **detailed and structured summary** of the *Nuclear Liability and Compensation Act*, as referenced in your query. This summary is based on the statutory text provided, with clear organization, interpretation, and contextual explanation to make the complex provisions accessible and comprehensible.
+
+---
+
+# **Detailed Summary of the Nuclear Liability and Compensation Act (Canada)**  
+**Enacted under Section 120 of Chapter 4 of the Statutes of Canada, 2015**  
+**Cited as: The Nuclear Liability and Compensation Act**  
+**In force: January 1, 2017 (as amended by SI/2016-23)**
+
+---
+
+## **1. Purpose of the Act**
+The primary objective of the *Nuclear Liability and Compensation Act* is to **establish a clear, comprehensive, and internationally aligned legal framework for civil liability and compensation** in the event of a nuclear incident. It ensures that victims of nuclear damage — including individuals, businesses, and communities — receive fair and timely compensation while maintaining a balance between accountability and financial sustainability for nuclear operators.
+
+This Act implements Canada’s obligations under the **Convention on Supplementary Compensation for Nuclear Damage (Vienna Convention, 1997)**, which provides a global standard for nuclear liability and compensation.
+
+---
+
+## **2. Key Definitions**
+
+| Term | Definition & Context |
+|------|------------------------|
+| **Approved Insurer** | An insurer or association of insurers formally designated under Section 29 as being authorized to provide liability coverage for nuclear incidents. |
+| **Contracting State** | A country that has ratified, accepted, or acceded to the Vienna Convention on Nuclear Damage. Canada is a Contracting State. |
+| **Convention** | The *Convention on Supplementary Compensation for Nuclear Damage*, signed by Canada on December 3, 2013, and amended from time to time. It sets international standards for compensation. |
+| **Installation State** | A Contracting State where a nuclear installation is located; if not located in a Contracting State, it is the state under whose authority the installation is operated. |
+| **Nuclear Fuel** | Material capable of sustaining a self-sustaining nuclear fission chain reaction (e.g., enriched uranium, plutonium). Excludes natural or depleted uranium. |
+| **Nuclear Incident** | An occurrence or series of occurrences with the same origin that results in damage for which an operator is liable under this Act. |
+| **Nuclear Installation** | Any site or means of transport designated under Section 7 as containing nuclear material or a nuclear reactor. Excludes certain definitions in the context of "Installation State." |
+| **Nuclear Material** | Includes:<br>• Nuclear fuel (excluding natural/depleted uranium) that can produce energy outside a reactor;<br>• Radioactive products or waste (excluding final-stage radioisotopes used for medical/scientific purposes). |
+| **Nuclear Reactor** | A structure containing nuclear fuel arranged so that a self-sustaining fission chain reaction can occur without external neutron sources. |
+| **Operator** | A person designated by regulation under Section 7 as responsible for a nuclear installation or transport. Only operators are liable. |
+| **Public Funds** | Amounts contributed by Contracting States under Article VII.1 of the Convention when a global compensation fund is triggered. |
+| **Radioactive Products or Waste** | Material produced during nuclear fuel use or made radioactive by exposure to radiation from nuclear processes (excluding final-stage isotopes). |
+| **Tribunal** | A nuclear claims tribunal established under subsection 41(1) to adjudicate compensation claims. |
+
+> *Note: Some definitions are modified or excluded in specific contexts (e.g., in relation to "Installation State" or certain transport scenarios).*
+
+---
+
+## **3. Scope and Application**
+
+### ✅ Applies to:
+- Nuclear incidents occurring **within Canada or its exclusive economic zone (EEZ)**.
+- Nuclear incidents occurring **within a Contracting State other than Canada or its EEZ**.
+- Damage caused by **ionizing radiation** or **toxic/explosive/hazardous properties** of nuclear material.
+
+### ❌ Does NOT Apply to:
+1. **Damage from acts of war, civil war, insurrection, or terrorism** (except as defined in subsection 83.01(1) of the *Criminal Code*).
+2. **Damage to the operator’s own nuclear installation or property used directly in its operation** (e.g., buildings, equipment, land used for operations).
+3. **Damage caused by preventive measures** (e.g., emergency actions taken to prevent harm) — *unless specifically included in liability provisions*.
+4. **Damage during transportation** to or from a nuclear installation **if it involves only the means of transport or storage** — such damage is **not compensable**.
+
+> *Exception: Compensation applies if damage arises from a combination of radioactive and hazardous properties (e.g., a radioactive substance that is also toxic or explosive).*
+
+---
+
+## **4. Liability of the Operator**
+
+### 🔹 Absolute Liability
+- Operators are **absolutely liable** for damage caused by a nuclear incident — **no need to prove fault, negligence, or breach of duty**.
+- This reflects the principle of **strict liability** in nuclear safety, recognizing that the risks associated with nuclear technology are inherently high and unpredictable.
+
+### 🔹 Who is Liable?
+- **Only the operator** is liable — no third parties (e.g., contractors, suppliers) can be held responsible under this Act.
+- Operators are liable **regardless of whether the incident was caused by human error, design flaws, or natural events**.
+
+### 🔹 When is Liability Triggered?
+
+#### A. **Within Canada or EEZ**
+Operator is liable for:
+1. Ionizing radiation emitted from:
+   - Any source within or released from the operator’s nuclear installation.
+   - Nuclear material being transported:
+     - From the installation to another installation (until liability is assumed by the receiving operator under a written contract).
+     - To a non-Contracting State (until unloaded).
+     - From a non-Contracting State to the operator (with written consent, from loading time onward).
+     - From a Contracting State (non-Canada) to the operator (before the person takes charge of the material).
+2. Ionizing radiation emitted when material is being transported **to** the operator’s installation (after liability is assumed or after the operator takes charge).
+3. **Combination of radioactive and hazardous properties** (e.g., toxic, explosive, or chemical hazards) of nuclear material.
+
+#### B. **Outside Canada (in a Contracting State or its EEZ)**
+Operator is liable for:
+1. Ionizing radiation emitted during transport:
+   - Before the receiving party takes charge (in absence of a contract).
+   - After the operator takes charge (in absence of a contract).
+2. Ionizing radiation from the installation itself.
+3. Damage from **preventive measures** taken under subsections 20(1) or 21(1) — these are emergency actions taken to prevent harm.
+
+#### C. **Transport to Non-Contracting States**
+Operator is liable for:
+- Radiation emitted during transport to a non-Contracting State (until unloading).
+- Transport from a non-Contracting State to Canada (with written consent, from loading time onward).
+- Damage from **combination of radioactive and hazardous properties**.
+
+> *Note: These provisions mirror the Vienna Convention’s international liability framework.*
+
+---
+
+## **5. Compensation for Damages**
+
+The Act provides for compensation in the following categories:
+
+| Type of Damage | Compensable? |
+|---------------|-------------|
+| **Bodily injury or death** | ✅ Yes |
+| **Damage to property** | ✅ Yes |
+| **Psychological trauma** | ✅ Yes — if it results from bodily injury caused by the incident |
+| **Economic loss** | ✅ Yes — including lost wages, income, or business interruption |
+| **Loss of use of property** | ✅ Yes — including wage loss of employees |
+| **Environmental remediation costs** | ✅ Yes — if ordered by a federal/provincial environmental authority |
+| **Emergency measures costs** | ✅ Yes — if recommended by a nuclear emergency scheme (federal/provincial) |
+| **Losses in non-Contracting States** | ✅ Yes — if caused by transport or preventive measures |
+
+> ⚠️ **Exclusions**:
+- **Failure of a nuclear power plant to generate electricity** is **not compensable**.
+- **Damage to the transport vehicle or storage site** during transit or storage is **not compensable** (unless it results from a combination of hazardous properties).
+
+> ✅ **For greater certainty**: Authorities (federal, provincial, municipal) that establish or implement **nuclear emergency schemes** are **not entitled to compensation** under this Act.
+
+---
+
+## **6. Limitation of Liability**
+
+The Act imposes **caps (liability limits)** on the total compensation an operator must pay:
+
+| Time Period | Maximum Liability |
+|-----------|-------------------|
+| First year after the Act comes into force | $650 million |
+| Second year after the first year | $750 million |
+| Third year after the second year | $850 million |
+| After the third year | $1 billion |
+
+> These limits are **tiered**, increasing over time to reflect inflation and evolving risk profiles.
+
+### 🔧 Regulatory Flexibility
+- The Governor in Council may, by **regulation**,:
+  - Increase the liability cap (e.g., due to new risks or international obligations).
+  - Reduce the liability for specific types of installations (e.g., smaller reactors, research facilities), based on:
+    - Nature of the installation.
+    - Type and quantity of nuclear material involved.
+    - Risk profile.
+
+> *Example: A

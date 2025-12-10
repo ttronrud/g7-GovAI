@@ -1,0 +1,168 @@
+**Detailed Summary of the *Air Travellers Security Charge Act***  
+
+---
+
+### **Overview**
+
+The *Air Travellers Security Charge Act* (ATSCA) establishes a **security charge** on air transportation services in Canada, designed to fund airport security and safety improvements. The Act applies to air travel services acquired **on or after March 31, 2002**, with specific transitional rules for services acquired prior to that date. It introduces a **tiered fee structure** based on the destination and whether excise tax is applicable, and it defines who is liable for the charge, when it is due, and how it is collected.
+
+The charge is **not a tax**, but rather a **security fee** paid by passengers or entities acquiring air travel services. The Act is administered by the **Minister of National Revenue** through the **Canada Revenue Agency (CRA)**, and it includes detailed definitions, exemptions, and procedural rules.
+
+---
+
+## **Key Provisions and Detailed Summary**
+
+---
+
+### **1. Definitions (Crucial for Understanding Scope)**
+
+The Act begins with a comprehensive list of key terms that define the scope and application of the legislation:
+
+| Term | Meaning |
+|------|--------|
+| **Accredited Representative** | A person entitled to tax exemptions under international treaties (e.g., diplomats, UN officials). Exempt from charge. |
+| **Agency** | The Canada Revenue Agency (CRA), continuing under the CRA Act. |
+| **Air Carrier** | Any entity engaged in transporting individuals by air. |
+| **Air Transportation Service** | A continuous journey involving one or more air carriers. |
+| **Charge** | The security fee under section 11; *excludes* "security interest" (a legal term). |
+| **Chargeable Emplanement** | A valid boarding at a listed airport that is subject to the charge. Exemptions apply for: <br> - Connecting flights (with valid prior emplanement) <br> - Reboarding for direct flights <br> - Ground/emergency services <br> - Infants (unless ticketed for seat) <br> - Employees of the carrier or its subsidiaries <br> - Aircraft under 2,730 kg or in certain designated services (e.g., air ambulance) <br> - Prescribed circumstances |
+| **Commissioner** | The CRA Commissioner. |
+| **Continental Zone** | Canada, the U.S. (excluding Hawaii), and St. Pierre and Miquelon. |
+| **Continuous Journey** | A journey with no stopover; defined by ticketing, timing, and evidence of continuity. |
+| **Data** | Any representation of information (digital or physical). |
+| **Designated Air Carrier** | A carrier authorized by the Canadian Transportation Agency (CTA) to operate domestic or international services — **excluding** those with only exempt emplanements. |
+| **Fiscal Half-Year/Month/Year** | As defined in the Excise Tax Act. |
+| **Her Majesty** | Refers to the Government of Canada. |
+| **Judge** | Superior court or Federal Court judge. |
+| **Listed Airport** | Airports specified in a schedule (not provided here). |
+| **Minister** | Minister of National Revenue. |
+| **Month** | A calendar month period, defined precisely. |
+| **Person** | Includes individuals, corporations, trusts, partnerships, and organizations. |
+| **Prescribed** | As authorized by Minister or regulation. |
+| **Record** | Any material containing data readable by humans or machines. |
+| **Registered Charity** | As defined in Income Tax Act. |
+| **Reporting Period** | As determined under section 16.1. |
+| **Secured Creditor** | A party with a security interest in property. |
+| **Security Interest** | Any interest (mortgage, lien, pledge, etc.) securing payment of an obligation. |
+| **Stopover** | Disembarkation not for transfer to a connecting flight, nor for emergency or ground services. |
+
+> **Note:** These definitions form the legal foundation for determining whether a boarding event is "chargeable" and who is responsible for paying the fee.
+
+---
+
+### **2. Application of the Act**
+
+The Act applies to:
+
+- **Acquisition of air transportation services**:
+  - **Acquired in Canada**:  
+    - Any chargeable emplanement made **after March 31, 2002**.  
+    - Service must have **consideration paid or payable after March 31, 2002**.
+  - **Acquired outside Canada**:  
+    - Any chargeable emplanement made **after May 31, 2002**.  
+    - Service must have **consideration paid or payable after May 31, 2002**.
+
+> This ensures the charge is only applied to services that were **commercially active post-2002**, aligning with the introduction of enhanced security measures.
+
+---
+
+### **3. Who Pays the Charge?**
+
+Every person who acquires **all or part** of an air transportation service that includes a **chargeable emplanement** must pay the charge.
+
+#### **Exemptions from Charge**
+
+The following are **exempt** from the charge:
+
+1. **Resale of service**:
+   - If a person buys a service to resell it and:
+     - Sells it to another person **before April 1, 2002**, and
+     - Makes **full and final payment** to the carrier **before May 1, 2002**.
+
+2. **Charitable donations**:
+   - If a **registered charity** acquires a service for **no consideration** and donates it to an individual **for charitable purposes**.
+
+> These exemptions were designed to protect small businesses and charitable activities from the fee.
+
+---
+
+### **4. When is the Charge Due?**
+
+The charge is payable at one of three times:
+
+| Scenario | When Due |
+|--------|----------|
+| **With consideration paid** | At the time any consideration is first paid or becomes payable |
+| **No consideration, ticket issued** | At the time a ticket is issued |
+| **No consideration, no ticket** | At the time of emplanement (boarding) |
+
+> This ensures timely collection and aligns with the timing of travel arrangements.
+
+---
+
+### **5. Amount of the Charge (Fee Structure)**
+
+The fee is **tiered** based on:
+
+- **Destination** (domestic vs. international, within or outside continental zone)
+- **Excise tax requirement** (under Excise Tax Act subsection 165(1))
+
+#### **A. Services Acquired in Canada**
+
+| Destination | Excise Tax Required? | Charge per Emplanement | Max Charge |
+|-----------|------------------------|------------------------|------------|
+| Domestic (within Canada) | Yes | $9.46 | $18.92 |
+| Domestic (within Canada) | No | $9.94 | $19.87 |
+| International (outside Canada, within continental zone) | Yes | $16.08 | $32.16 |
+| International (outside Canada, within continental zone) | No | $16.89 | $33.77 |
+| International (outside continental zone) | Any | $34.42 | $34.42 |
+
+> **Note:** The maximum is capped at the total for the number of chargeable emplanements (e.g., two emplanements = up to $34.42).
+
+#### **B. Services Acquired Outside Canada**
+
+| Destination | Excise Tax Required? | Charge per Emplanement | Max Charge |
+|-----------|------------------------|------------------------|------------|
+| To destination within continental zone | Yes | $16.08 | $32.16 |
+| To destination within continental zone | No | $16.89 | $33.77 |
+| To destination outside continental zone | Any | $34.42 | $34.42 |
+
+> The fee is higher for international travel outside the continental zone (e.g., to the U.S. or beyond).
+
+#### **C. Prescribed Services**
+
+For certain special services (e.g., charter flights, government contracts), the charge is the **lesser of**:
+- The amount calculated under the above rules, and
+- A **prescribed amount** or amount determined by regulation.
+
+> This allows flexibility for specific services not covered by standard rules.
+
+---
+
+### **6. Deemed Acquisition in Canada (Key Provision)**
+
+An air transportation service **acquired outside Canada** is **deemed acquired in Canada** if:
+
+1. Payment is made **from within Canada** to a foreign entity (e.g., via cheque, card, money order) sent to a ticket office, travel agent, or carrier.
+2. Payment is delivered **to a Canadian agency** that transmits it to a foreign entity.
+3. There is an **arrangement with a person outside Canada** that benefits a **Canadian resident**.
+
+> This ensures that Canadian residents are not unfairly charged when they pay from within Canada.
+
+#### **Charter Operation Exception**
+
+If a service **begins in Canada** and is acquired **outside Canada** in the course of a **charter**, it is **deemed acquired in Canada**.
+
+> This prevents double charging and ensures fairness in charter operations.
+
+---
+
+### **7. Collection of the Charge**
+
+The designated air carrier is responsible for collecting the charge **not later than** when it becomes payable.
+
+#### **Multiple Carriers Involved**
+
+- **In Canada**:  
+  - If all tickets are issued by one carrier → that carrier collects.  
+  - Otherwise → the carrier operating the **

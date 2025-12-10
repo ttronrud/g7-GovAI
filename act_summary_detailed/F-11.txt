@@ -1,0 +1,164 @@
+**Detailed Summary of the Financial Administration Act**
+
+---
+
+### **Overview**
+
+The *Financial Administration Act* (FAA) is a foundational piece of Canadian federal legislation that establishes the administrative, financial, and operational framework governing the federal public administration. It provides the legal structure for how public money is managed, how departments and agencies are organized, and how financial authority, accountability, and oversight are exercised across the federal government.
+
+This Act is central to ensuring transparency, efficiency, and accountability in the federal government’s financial operations. It defines key terms, establishes the role of the **Treasury Board**, outlines the powers and responsibilities of various officials and bodies, and governs the classification and management of departments, corporations, and public entities.
+
+---
+
+## **I. Key Definitions**
+
+The Act begins by defining essential terms used throughout the legislation:
+
+| Term | Meaning |
+|------|--------|
+| **Appropriate Minister** | Refers to the relevant minister responsible for a department, division, commission, or office. Defined differently depending on the entity (e.g., Minister of Finance for the Department of Finance, Speaker of Parliament for ethics offices). |
+| **Appropriation** | Any authority granted by Parliament to spend money from the Consolidated Revenue Fund. |
+| **Auditor General of Canada** | The independent official responsible for auditing federal government accounts (as per the Auditor General Act). |
+| **Authorized Agent** | A person authorized by a Minister to sell or accept subscriptions for securities. |
+| **Consolidated Revenue Fund (CRF)** | The central pool of all public funds held by the Receiver General. |
+| **Crown Corporation** | A corporation established by Parliament performing governmental functions (defined under subsection 83(1)). |
+| **Department** | Includes named departments, divisions, commissions, and staff of key parliamentary bodies (e.g., Senate, House of Commons). Also includes departmental corporations. |
+| **Departmental Corporation** | A corporation listed in Schedule II, established for administrative, research, or regulatory functions. |
+| **Fiscal Agent** | An entity (including the Bank of Canada) appointed to manage financial transactions involving public funds. |
+| **Fiscal Year** | April 1 to March 31 of the following year. |
+| **Minister** | Refers specifically to the Minister of Finance. |
+| **Money** | Includes negotiable instruments such as cheques, drafts, and money orders. |
+| **Negotiable Instrument** | Any instrument that can be transferred or paid without physical delivery (e.g., cheques, bills). |
+| **Non-Certificated Security** | Securities not issued in physical form; may be held in electronic systems (e.g., in a clearing system). |
+| **Parent Crown Corporation** | A Crown corporation that controls or owns other Crown corporations (as defined in subsection 83(1)). |
+| **Public Money** | All funds belonging to Canada collected or received by public officers, including revenues, loans, duties, and funds from contracts or treaties. |
+| **Public Officer** | Includes all ministers and employees of the federal public administration. |
+| **Public Property** | All non-monetary assets owned by Her Majesty in right of Canada. |
+| **Registrar** | An official (including the Bank of Canada) responsible for registering securities. |
+| **Securities** | Includes certificated and non-certificated bonds, notes, treasury bills, and other public debt instruments. |
+| **Security Certificate** | A tangible certificate representing a portion of Canada’s public debt. |
+| **Treasury Bill / Treasury Note** | Short-term debt instruments issued by the government with a maturity of up to 12 months. |
+
+---
+
+## **II. Powers of the Governor in Council**
+
+The Governor in Council (i.e., the federal Cabinet) has broad authority to modify and update the structure of the federal public administration through **orders**. These powers are critical for adapting to changes in government structure, policy, or operations.
+
+### **A. Amendments to Schedules**
+- **Schedule I.1** (Divisions/Branches of Public Administration):
+  - Can add, remove, or amend names of divisions/branches and their respective **appropriate Ministers**.
+  - Can update names when a division is reorganized or ceases to exist.
+- **Schedule II** (Departmental Corporations):
+  - Can add or remove corporations performing governmental functions (e.g., research, regulation).
+- **Schedule III** (Parent Crown Corporations):
+  - Can add, delete, or reclassify parent Crown corporations.
+  - **Criteria for inclusion in Part II (non-appropriated corporations):**
+    - Operates in a competitive environment.
+    - Not dependent on government appropriations.
+    - Earns a return on equity.
+    - Has a reasonable expectation of paying dividends.
+  - A parent Crown corporation cannot be added to Schedule III if it fails to meet these criteria.
+  - If a corporation is dissolved, its name is removed from both Schedules I and III.
+
+### **B. Exclusions from Labour Code (Schedules IV and V)**
+- The Governor in Council can:
+  - Add or remove portions of the federal public administration from **Part I (applicable to the Canada Labour Code)**.
+  - A portion may be excluded if it:
+    - No longer employs staff.
+    - Is a corporation excluded from the Labour Code.
+  - If a portion is excluded, it must be moved to the other schedule (unless it no longer has employees).
+  - Exclusion ends if the corporation is deleted from Schedule IV or V without a corresponding addition to the other schedule.
+
+> **Purpose**: To allow flexibility in applying labour standards (e.g., employment equity, working conditions) to certain entities that operate independently or in competitive markets.
+
+---
+
+## **III. Establishment and Structure of the Treasury Board**
+
+### **A. Formation and Composition**
+- The **Treasury Board** is formally established as a committee of the Queen’s Privy Council for Canada.
+- **Presided over by the President of the Treasury Board**, appointed by Commission under the Great Seal.
+- The Board consists of:
+  - The **Minister of Finance** (as a member).
+  - **Four other members** of the Privy Council, nominated by the Governor in Council.
+  - **Alternates** may be nominated to serve in place of members.
+
+> The President holds office at the pleasure of the Governor in Council and presides over meetings.
+
+---
+
+### **B. Key Officers Appointed by the Governor in Council**
+The Governor in Council may appoint the following officers, all of whom rank as **deputy heads of departments**:
+1. **Secretary of the Treasury Board** – Manages administrative and operational functions.
+2. **Chief Human Resources Officer (CHRO)** – Oversees HR, employment equity, official languages, values, and ethics.
+3. **Comptroller General of Canada** – Responsible for financial oversight and internal audit.
+4. **Chief Information Officer (CIO)** – Manages information technology and digital transformation.
+
+> These officers are appointed for the duration of their pleasure and serve as key enablers of Treasury Board functions.
+
+---
+
+### **C. Delegation of Powers**
+The Treasury Board may delegate powers and functions to its officers or to departmental executives, subject to conditions it deems appropriate. Delegation includes:
+
+| Officer | Delegated Powers |
+|--------|------------------|
+| **President of the Treasury Board** | Broad delegation of powers under Acts and orders (excluding appointment powers). |
+| **Chief Human Resources Officer** | Powers related to HR, employment equity, official languages, values, and ethics under the *Public Service Employment Act*. |
+| **Chief Information Officer** | Powers related to information technology and digital systems. |
+
+> **Sub-delegation** is allowed: any person receiving delegated powers may sub-delegate them to individuals under their jurisdiction.
+
+---
+
+### **D. Responsibilities of the Treasury Board**
+
+The Treasury Board has extensive authority to act on behalf of the Queen’s Privy Council for Canada in key areas:
+
+#### **1. General Administrative Policy**
+- Organization of the federal public administration.
+- Determination of establishments (e.g., offices, positions).
+
+#### **2. Financial Management**
+- Approval of **estimates**, **expenditures**, **financial commitments**, **fees**, **rentals**, **revenues**, and **property dispositions**.
+- Oversight of how departments manage and record revenues.
+
+#### **3. Expenditure Review**
+- Reviews annual and long-term expenditure plans and programs.
+- Sets priorities for spending.
+
+#### **4. Land Management**
+- Manages federal lands (excluding Canada Lands as defined in the *Canada Lands Surveys Act*).
+
+#### **5. Human Resources Management**
+- Sets terms and conditions of employment for federal employees.
+- Determines conditions for appointments not established under other Acts.
+
+#### **6. Internal Audit**
+- Oversees internal audit functions across the federal public administration.
+
+#### **7. Other Matters**
+- Any matter referred by the Governor in Council.
+
+---
+
+### **E. Exercise of Powers Under Specific Acts**
+The Treasury Board may exercise certain powers of the Governor in Council under the following statutes:
+- *Public Service Superannuation Act*
+- *Canadian Forces Superannuation Act*
+- *Defence Services Pension Continuation Act*
+- *Royal Canadian Mounted Police Superannuation and Pension Acts*
+- Any other Act where the Treasury Board is authorized to act on behalf of the Privy Council.
+
+> The Governor in Council may authorize the Treasury Board to exercise powers under **Section 41** or **subsection 122(1) or (6)** (related to financial management and appropriations), specifying conditions under which these powers apply.
+
+---
+
+### **F. Service Provision to Other Entities**
+
+- The Treasury Board may **provide services** to:
+  - Federal departments and Crown corporations.
+  - Provincial governments, municipalities, or other public bodies (with **Governor in Council authorization**).
+
+> **Important Clarifications

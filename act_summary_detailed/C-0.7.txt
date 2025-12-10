@@ -1,0 +1,177 @@
+### **Detailed Summary of the Canada–Armenia Tax Convention Act, 2004**
+
+---
+
+#### **1. Introduction and Purpose**
+The **Canada–Armenia Tax Convention Act, 2004** is a legislative instrument that enables the implementation of the **Canada–Armenia Convention for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and Capital**. This Act provides the legal framework in Canada for applying the Convention, ensuring that tax rules are interpreted and enforced in accordance with international tax agreements.
+
+- The Convention is **approved and has full legal force in Canada** during the period it is in force under its own terms.
+- In cases of **inconsistency** between this Act, the Convention, and other Canadian laws, the provisions of this Act and the Convention **prevail**.
+- If there is a conflict between the Convention and the *Income Tax Conventions Interpretation Act*, the latter prevails to the extent of the inconsistency.
+
+---
+
+#### **2. Regulatory and Administrative Provisions**
+- The **Minister of National Revenue** may issue regulations to implement the Convention or give effect to its provisions.
+- The **Minister of Finance** is responsible for publishing in the *Canada Gazette*:
+  - The date the Convention enters into force.
+  - The date it ceases to have effect.
+  - This publication must occur within **60 days** of the Convention’s entry into force or termination.
+
+---
+
+#### **3. Scope and Applicability of the Convention**
+The Convention applies broadly to:
+- **Residents of either or both Contracting States** (Canada and Armenia).
+- **Taxes on income and capital** imposed by either country, regardless of how they are levied.
+
+##### **Definition of Taxes on Income and Capital**
+The Convention defines "taxes on income and capital" broadly to include:
+- Taxes on total income or capital.
+- Taxes on elements of income or capital.
+- Taxes on gains from the sale of movable or immovable property.
+- Taxes on total wages paid by enterprises.
+- Taxes on capital appreciation.
+
+##### **Specific Taxes Covered**
+- In **Canada**: The income and capital taxes under the *Income Tax Act* (referred to as "Canadian tax").
+- In **Armenia**: The following taxes:
+  - Profit tax
+  - Income tax
+  - Property tax
+  - Land tax  
+  (collectively referred to as "Armenian tax")
+
+> The Convention also applies to **any new or substantially similar taxes** introduced after the date of signing, whether replacing or supplementing existing ones.
+
+---
+
+#### **4. Definitions and Interpretation**
+Key definitions are provided to ensure clarity and consistency across jurisdictions:
+
+| Term | Definition |
+|------|-----------|
+| **Contracting State** | Either Canada or Armenia, depending on context |
+| **Canada (geographically)** | Includes land, territorial sea, air space, exclusive economic zone, and continental shelf under international law |
+| **Armenia (geographically)** | Includes internal waters and areas under its sovereign jurisdiction under domestic and international law |
+| **Person** | Includes individuals, trusts, companies, partnerships, and other bodies |
+| **Company** | Any body corporate or entity treated as such for tax purposes |
+| **Enterprise** | An enterprise carried on by a resident of a Contracting State |
+| **Competent Authority** | In Canada: Minister of National Revenue or authorized representative; in Armenia: Minister of Finance and Economy or Minister of State Revenues and their representatives |
+| **National** | Individuals or legal persons deriving status from laws of a Contracting State |
+| **International Traffic** | Voyages of ships or aircraft operated by a Contracting State for transport purposes, **excluding** those primarily intended to transport passengers or goods between places within the other Contracting State |
+
+> For undefined terms, the meaning under the **domestic tax law** of the relevant state prevails over other legal meanings.
+
+---
+
+#### **5. Determination of Resident Status**
+Resident status is crucial for determining which country has taxing rights. The rules are structured hierarchically:
+
+##### **For Individuals**
+1. **Permanent Home**: The individual is deemed a resident only of the State where they have a permanent home.
+2. If permanent home exists in both countries:
+   - Resident is deemed to be in the State where their **centre of vital interests** (personal and economic ties) is located.
+3. If centre of vital interests cannot be determined or no permanent home exists:
+   - Resident is deemed to be in the State where they have an **habitual abode**.
+4. If habitual abode exists in both or neither:
+   - Resident is deemed to be in the State of which the individual is a **national**.
+5. If the individual is a national of both or neither:
+   - The **competent authorities** of both countries must resolve the issue by mutual agreement.
+
+##### **For Companies**
+- A company is deemed a resident only in the State where it is **incorporated**.
+- If not incorporated in either country:
+  - Resident status is determined by the **place of effective management**.
+
+##### **For Other Persons (e.g., trusts, partnerships)**
+- The competent authorities must resolve resident status by **mutual agreement**.
+- In the absence of agreement, such persons **cannot claim any tax relief or exemption** under the Convention.
+
+---
+
+#### **6. Permanent Establishment (PE)**
+A **permanent establishment (PE)** is a fixed place of business through which an enterprise conducts business. It is a key concept in determining where profits are taxable.
+
+##### **Included in PE:**
+- Place of management
+- Branch
+- Office
+- Factory
+- Workshop
+- Mine, oil/gas well, quarry, or other natural resource exploration/exploitation site
+
+##### **Also Includes (with conditions):**
+- A **building site**, **construction**, **assembly**, or **installation project**, **only if it lasts more than 9 months**.
+- **Furnishing of services** (e.g., consultancy) through employees or personnel, **only if activities continue for more than 9 months in any 12-month period**.
+
+##### **Excluded from PE:**
+- Use of facilities for **storage or display** of goods.
+- Maintenance of stock for **storage, display, or processing** by another enterprise.
+- Maintenance of stock solely for **purchasing goods or collecting information**.
+- Maintenance of a fixed place for **preparatory or auxiliary activities**.
+- Any combination of the above, as long as the overall activity is **preparatory or auxiliary**.
+
+##### **Special Rules for Agents and Representatives**
+- An enterprise **does not** have a PE merely because it uses a **broker, general agent, or independent agent**.
+- However, if a person:
+  - Has **authority to conclude contracts** in the name of the enterprise, **or**
+  - Habitually maintains a stock of goods and regularly delivers them on behalf of the enterprise,
+  → Then the enterprise is deemed to have a PE in that country.
+
+##### **Insurance Exception**
+- An insurance enterprise of a Contracting State is deemed to have a PE in the other state **if it collects premiums or insures risks located in that country**, **except for reinsurance**.
+
+> Note: Control or ownership of a company in another country **does not** automatically create a PE.
+
+---
+
+#### **7. Taxation of Income from Immovable Property**
+- Income derived by a resident of one country from **immovable property** (including agricultural or forestry land) located in the other country may be taxed in that other country.
+- **Immovable property** includes:
+  - Property accessory to land
+  - Livestock and equipment used in agriculture or forestry
+  - Rights related to mineral deposits, natural resources
+  - Usufruct rights
+  - Variable or fixed payments for working or right to work on natural resources
+- **Excluded**: Ships and aircraft
+
+> Applies to:
+- Direct use, letting, or use of immovable property
+- Alienation (sale) of such property
+- Income from immovable property of an enterprise
+- Income from immovable property used for independent personal services
+
+---
+
+#### **8. Taxation of Enterprise Profits**
+- Profits of an enterprise are generally taxable **only in the country where the enterprise is resident**.
+- **Exception**: If the enterprise carries on business in the other country through a **permanent establishment**, profits **attributable to that PE** may be taxed in that country.
+
+##### **Attribution of Profits to PE**
+- Profits are attributed to the PE based on what it would earn if it were a **separate, independent enterprise** under the same conditions.
+- This method is known as the **"arm's length" principle**.
+
+##### **Deductible Expenses**
+- All **deductible expenses** incurred for the PE (including executive and general administrative costs) are allowed.
+- **Excluded deductions**:
+  - Royalties, fees, or commissions paid to the **head office** or other offices for:
+    - Use of patents or rights
+    - Management services
+    - Specific services
+    - Interest on loans to the PE (except for **banking enterprises**)
+
+> Deductions are **not allowed** for payments made to head offices unless for actual expenses.
+
+##### **No Profit Attribution for Purchases**
+- Profits are **not attributed** to a PE simply because it purchases goods or merchandise for the enterprise.
+
+##### **Method of Determination**
+- Profits are determined **year by year**.
+- If a country traditionally uses **profit apportionment**, it may do so, **provided** the result aligns with the principles of this Article.
+
+> **Exception**: If profits include income dealt with separately in other Articles, those Articles govern.
+
+---
+
+#### **9. Profits from Ships and Aircraft in International Traffic

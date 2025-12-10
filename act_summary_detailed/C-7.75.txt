@@ -1,0 +1,172 @@
+**Detailed Summary of the *Canada Not-for-profit Corporations Act***  
+
+---
+
+### **Overview**
+
+The *Canada Not-for-profit Corporations Act* (the "Act") is a foundational piece of federal legislation in Canada that governs the incorporation, operation, and regulation of **corporations without share capital**—commonly known as not-for-profit corporations. It provides a legal framework for the formation, governance, and accountability of such entities, particularly those engaged in charitable, educational, cultural, social, or community-based activities.
+
+This Act does **not** apply to profit-seeking businesses or entities governed by other specific statutes (e.g., banks, insurance companies, cooperatives), and it is designed to **support non-profit organizations** by enabling them to operate legally and transparently while imposing reasonable obligations on governance and financial accountability.
+
+---
+
+## **Key Provisions and Structure**
+
+---
+
+### **1. Purpose and Scope**
+
+- **Primary Purpose**:  
+  To allow the incorporation or continuation of bodies corporate without share capital, including those formed under prior special Acts of Parliament, for the purpose of carrying out **legal activities** (such as charitable, educational, or community services).
+  
+- **Applicability**:  
+  - Applies to **every corporation** incorporated or continued under this Act.  
+  - To the extent provided in **Part 19**, extends to **bodies corporate without share capital** incorporated by a **special Act of Parliament** (e.g., certain charitable or public benefit organizations).
+
+> ⚠️ **Exclusions**:  
+> - The *Canada Business Corporations Act* (CBCA) — which governs for-profit corporations with share capital.  
+> - The *Winding-up and Restructuring Act* — which deals with insolvency and restructuring.  
+> - The Act **does not authorize** corporations to:
+>   - Act as degree-granting educational institutions.  
+>   - Regulate professions or trades.
+
+---
+
+### **2. Definitions (Key Terms)**
+
+| Term | Meaning |
+|------|--------|
+| **Body Corporate** | Any organization with legal personality, regardless of how or where it is incorporated (e.g., company, trust, joint venture). |
+| **Corporation** | A body corporate incorporated or continued under this Act and not discontinued. |
+| **Affiliate** | Two bodies are affiliates if one is a subsidiary of the other, both are subsidiaries of the same entity, or both are controlled by the same person. |
+| **Control** | A person or group controls a body corporate if they hold more than 50% of the voting rights (excluding security interests) and those votes are sufficient to elect a majority of directors. |
+| **Subsidiary** | A body corporate controlled by another, or a body controlled by a body that is itself a subsidiary. |
+| **Holding Body Corporate** | A parent body that controls another corporation. |
+| **Activities** | Any conduct or business carried on to further the corporation’s purpose — **excludes** the "affairs" of the corporation (internal management). |
+| **Affairs** | Internal relationships among the corporation, its affiliates, directors, officers, shareholders, or members. |
+| **Articles** | Original or amended incorporation documents (including amalgamation, reorganization, dissolution, revival). |
+| **Debt Obligation** | Bonds, debentures, notes, or guarantees issued by a corporation (secured or unsecured). |
+| **Issuer** | A corporation required to maintain a debt obligations register. |
+| **Director / Officer** | Individuals appointed under sections 281 or 142, or those performing similar functions. |
+| **Ordinary Resolution** | Passed by a majority of votes cast. |
+| **Special Resolution** | Passed by a majority of not less than two-thirds of votes cast. |
+| **Unanimous Member Agreement** | Agreement among members (as per section 170) or a declaration of a member. |
+| **Soliciting Corporation** | A corporation that receives significant donations or grants from non-related parties during a prescribed period. |
+
+---
+
+### **3. Affiliation and Control (Governance Structure)**
+
+- **Affiliation Rules**:
+  - Affiliates are defined by control or subsidiary relationships.
+  - If two bodies are affiliates of a third body at the same time, they are **deemed affiliates of each other**.
+  
+- **Control Threshold**:
+  - A person or group controls a corporation if they hold **more than 50% of the voting rights** (excluding security interests) and those votes would allow election of a majority of directors.
+
+> This ensures transparency in governance and prevents undue influence by a single entity or group.
+
+---
+
+### **4. Soliciting Corporation Status (Anti-Conflict of Interest Provision)**
+
+- A corporation becomes a **soliciting corporation** for a **prescribed duration** if it receives, during a prescribed period, income in excess of a prescribed amount in the form of:
+  1. **Donations or gifts** (in Quebec: gifts or legacies) from:
+     - Individuals who are **not** members, directors, officers, or employees of the corporation;
+     - The spouse or cohabiting partner (with at least one year of cohabitation);
+     - Relatives (children, parents, siblings, grandparents, aunts, uncles, nephews/nieces).
+  2. **Grants or similar financial assistance** from federal, provincial, or municipal governments or their agencies.
+  3. **Donations or gifts** from another entity that has also received such income.
+
+- **Director’s Discretion**:
+  - The **Director of Corporations** may, on application, determine that a corporation is **not a soliciting corporation** if the decision would **not be prejudicial to the public interest**.
+
+> Purpose: Prevents conflicts of interest and ensures that donations from close personal or familial relationships are not exploited for undue benefit.
+
+---
+
+### **5. Incorporation Process**
+
+#### **Who Can Incorporate?**
+- One or more individuals or bodies corporate may incorporate a corporation.
+- An individual must:
+  - Be **at least 18 years old**;
+  - **Not be incapable** (e.g., legally declared unable to manage property);
+  - **Not be bankrupt**.
+
+#### **Articles of Incorporation (Required Elements)**  
+Must include:
+- Name of the corporation;
+- Province where the **registered office** is located;
+- Classes or groups of members (and any voting rights attached);
+- Number of directors (minimum and maximum);
+- Restrictions on activities;
+- A **statement of purpose**;
+- A statement on **distribution of residual property** upon liquidation.
+
+> Additional provisions required by other Acts of Parliament must also be included.
+
+#### **By-laws**
+- The articles may include provisions that would normally be in by-laws.
+- **Any requirement to set out a by-law provision is deemed met if included in the articles**.
+- **Prevalence Rule**:  
+  - If the articles or a unanimous member agreement require a **greater number of votes** than required by this Act to take an action, **those provisions prevail**.
+  - However, **no provision may require more votes than section 130 allows to remove a director**.
+
+---
+
+### **6. Name and Identity of the Corporation**
+
+- **Name Requirements**:
+  - Name may be in:
+    - English;
+    - French;
+    - Combined English-French;
+    - Any language form for use **outside Canada**.
+  - Must be **legible** in all contracts, invoices, negotiable instruments, and orders.
+
+- **Name Reservation**:
+  - The Director may **reserve a name** for a prescribed period upon request.
+
+- **Default Name**:
+  - If no name is chosen, the Director assigns a **designating number + "Canada" + a prescribed term** (e.g., “12345 Canada Inc.”).
+
+- **Prohibited Names**:
+  - A corporation **cannot** be incorporated or operate under a name prohibited by regulations or failing to meet prescribed requirements.
+
+- **Name Change Procedures**:
+  - The Director may **direct a change of name** if:
+    - The corporation acquires a prohibited name by inadvertence or otherwise;
+    - A name was promised in a dissolution or name-change undertaking that was not honored.
+  - If a name change is not followed within a prescribed period, the Director may **revoke the name** and assign a new one.
+
+- **Public Notice**:
+  - Upon name change, the Director issues a **certificate of amendment** and publishes a notice in a publicly available publication.
+
+> The corporation may **carry on activities under or identify itself by a name other than its corporate name**, provided the corporate name is clearly stated in contracts and official records.
+
+---
+
+### **7. Pre-Existence Contracts (Binding Effect)**
+
+- A person who enters into a **written contract before a corporation comes into existence** is **personally bound** by it and entitled to its benefits.
+
+- The corporation may:
+  - **Adopt** or **ratify** the contract within a reasonable time after incorporation.
+  - Upon adoption or ratification:
+    - The corporation becomes bound by the contract as if it had existed from the start;
+    - The original party **ceases to be bound** (except as otherwise provided).
+
+- **Court Intervention**:
+  - A party to the contract may apply to a court to determine the **nature and extent of obligations** of the corporation and the individual.
+  - The court may issue any order it deems appropriate.
+
+> This protects legitimate pre-incorporation agreements and provides legal certainty.
+
+---
+
+### **8. Corporate Capacity and Powers**
+
+- A corporation has:
+  - The **capacity** of a natural person;
+  - The **rights, powers, and privileges** of a natural person, **subject

@@ -1,0 +1,179 @@
+### **Detailed Summary of the *Federal-Provincial Fiscal Arrangements Act***  
+*(Cited as the Federal-Provincial Fiscal Arrangements Act)*
+
+---
+
+## **Overview**
+
+The *Federal-Provincial Fiscal Arrangements Act* is a foundational piece of Canadian federal legislation designed to ensure equitable financial support for provinces by establishing mechanisms for **provincial revenue equalization**, **revenue stabilization**, **succession duty support**, and **post-secondary education funding**. It was enacted to address disparities in provincial fiscal capacity and to promote fiscal fairness across Canada, particularly during a period of significant economic and demographic change in the 1960s.
+
+The Act operates within a framework of **fiscal transfers** from the federal government to provinces, with payments calculated based on population, revenue structure, and specific provincial needs. It replaced the earlier *Federal-Provincial Fiscal Arrangements Act, 1960–61* (the "former Act") and introduced more refined formulas and transitional provisions.
+
+---
+
+## **Key Definitions and Interpretations**
+
+Before diving into the substantive provisions, several key terms are defined:
+
+| Term | Meaning |
+|------|--------|
+| **Fiscal Year** | 1 April to 31 March of the following year |
+| **Minister** | Minister of Finance (federal government) |
+| **Prescribed** | As defined by regulation |
+| **Province** | Excludes Northwest Territories and Yukon Territory |
+| **Revenue Source** | Includes personal income tax, corporation income tax, succession duties, sales tax, fuel tax, motor vehicle revenues, etc. (as defined by regulation) |
+| **National Average Provincial Revenue Rate** | Calculated by dividing total provincial revenue from a source by total revenue base across all provinces |
+| **Revenue Base** | Defined by regulation for each revenue source |
+| **Fiscal Period** | Timeframe used to calculate revenue rates (prescribed per source) |
+| **Population** | For a fiscal year: population on 1 June of the year the fiscal year begins; estimated using census data if no census was taken |
+| **Post-Secondary Education** | Courses requiring at least junior matriculation level, lasting ≥24 weeks, certified by provincial authority |
+
+---
+
+## **Core Provisions and Financial Mechanisms**
+
+---
+
+### **1. Provincial Revenue Equalization Payment (Section 3)**
+
+- **Purpose**: To compensate provinces for lower-than-average revenues due to differences in population, economic base, or tax structure.
+- **Eligibility**: Applies to all provinces from **April 1, 1967**, to **March 31, 1972**.
+- **Maximum Amount**: Not to exceed the amount calculated under **Section 8**.
+- **Calculation**: The equalization payment is the **greater of**:
+  - The **general equalization** (based on per capita revenue alignment with national average)
+  - A **guaranteed equalization** for certain provinces (for specific years)
+
+> **Note**: The guaranteed equalization ensures a minimum floor of support for historically disadvantaged provinces.
+
+---
+
+#### **General Equalization (Section 8)**
+
+- **Formula**:  
+  Equalization = (Population of Province × Per Capita Revenue Needed)  
+  Where per capita revenue needed is derived from:
+  - Total national revenue from all revenue sources (multiplied by population of all provinces)
+  - Divided by total national population
+
+- **Per Capita Target**: Ensures that the average per capita revenue across provinces equals the national average.
+- **Adjustments**:
+  - For **personal income tax**, the Minister may deduct federal income tax savings due to:
+    - Schooling allowances under the Youth Allowances Act
+    - Application of the *Established Programs (Interim Arrangements) Act*
+  - These deductions reflect the federal government’s share of income tax revenue, which is reduced when provinces provide public education.
+
+> This mechanism ensures that provinces that spend heavily on education (which reduces federal income tax receipts) receive greater equalization support.
+
+---
+
+#### **Guaranteed Equalization (Section 9)**
+
+- Applies to specific provinces with historical fiscal disadvantages:
+  - **Nova Scotia, New Brunswick, Newfoundland**: $10.5 million each
+  - **Prince Edward Island**: $3.5 million
+  - **Saskatchewan (Special Provision)**:
+    - 1967: 4/5 of 1966 equalization amount
+    - 1968: 3/5
+    - 1969: 2/5
+    - 1970: 1/5
+
+> This phased reduction reflects a transitional approach to fiscal adjustment in Saskatchewan, recognizing its unique economic and demographic context.
+
+---
+
+### **2. Provincial Revenue Stabilization Payment (Section 4)**
+
+- **Purpose**: To prevent sudden drops in provincial revenues due to economic fluctuations.
+- **Eligibility**: Available annually from **April 1, 1967**, onward.
+- **Calculation**:
+  > Stabilization Payment = (95% of previous year’s net general revenue) – (Adjusted current net general revenue)
+
+- **Net General Revenue**:
+  - Based on data from the *Provincial Government Finance, Revenue and Expenditure* publication
+  - Adjusted to reflect:
+    - Average revenue over **3 years** (for succession duties)
+    - Average revenue over **5 years** (for motor fuel tax)
+    - Deductions for federal tax credits (Section 8(3))
+
+- **Adjustment Payment**:
+  - A stabilization payment is **only payable** if the province submits an application to the Minister **within 18 months** of the fiscal year ending.
+
+> This provision aims to smooth out revenue volatility and protect provincial budgets from downturns.
+
+---
+
+### **3. Succession Duty Support Payments (Sections 5 & 6)**
+
+- **Purpose**: To compensate provinces for their inability to collect estate taxes or for maintaining stable succession duty rates.
+
+#### **(a) Provinces NOT levying succession duties**:
+- Receive a payment equal to the **basic estate tax** applicable to them.
+
+#### **(b) Provinces levying succession duties but not increasing rates beyond 1964 levels**:
+- Receive **one-third** of the basic estate tax.
+
+> This incentivizes provinces to maintain stable succession tax rates without increasing them, which could lead to reduced revenue.
+
+#### **Basic Estate Tax Definition (Section 5)**:
+- Based on 75% of total estate tax collected in the province:
+  - Property in the province, from residents dying in the province
+  - Property in the province, from residents dying outside the province
+  - Non-real property outside Canada, passing to residents in the province
+
+> This formula captures the economic impact of estate transfers on provincial revenue.
+
+---
+
+### **4. Post-Secondary Education Adjustment Payment (Section 12–14)**
+
+- **Purpose**: To compensate provinces for **federal revenue abatements** (i.e., federal tax reductions) related to post-secondary education funding.
+- **Eligibility**: Available from **April 1, 1967**, to **March 31, 1972**.
+- **Authorized by**: Secretary of State of Canada
+- **Maximum Amount**: Not to exceed the amount calculated under Section 13.
+
+#### **Calculation (1967 Only)**:
+> Adjustment Payment =  
+> **Greater of**  
+> - 50% of provincial operating expenditures for post-secondary education  
+> - $15 × Population of province (1967)  
+> **Minus**  
+> - Federal revenue abatement applicable to the province  
+> - In cases of Nova Scotia, NB, NL, PEI: lesser of  
+>   - Portion of equalization attributable to abatement  
+>   - Difference between general and guaranteed equalization  
+> - For other provinces: portion of equalization attributable to abatement
+
+#### **Calculation (After 1967)**:
+- If the 50% operating expenditure amount exceeds the product formula, then the **50% amount applies**.
+- Otherwise, the adjustment payment is based on a **proportional formula**:
+  > = (Previous year’s adjustment payment) × (Total operating expenditures in current year / Total in previous year)  
+  > Minus federal revenue abatement
+
+> This creates a **self-correcting mechanism** that adjusts for growth in education spending.
+
+#### **Critical Rule (Section 14)**:
+- If the calculated adjustment payment is **less than**:
+  - 50% of operating expenditures  
+  - Minus federal abatement  
+  → Then the province is **deemed to be a "special province"** (like in 1967), and will receive the 50% operating expenditure amount going forward.
+
+> This prevents provinces from being penalized for underfunding or for being caught in a revenue cycle where federal abatements reduce their ability to fund education.
+
+#### **Operating Expenditures (Section 14)**:
+- Includes all **day-to-day costs** of post-secondary institutions during the financial year related to the fiscal year.
+- **Excludes**:
+  - Student financial aid
+  - Capital costs (land, buildings, equipment)
+  - Interest or depreciation
+  - Rent (except as prescribed)
+  - Ancillary enterprises (as prescribed)
+
+> Only **operating expenses** are included, ensuring that funding supports ongoing educational services, not infrastructure.
+
+#### **Deductions in Operating Expenditure Calculation**:
+- Amounts received from:
+  - Research grants (assisted, sponsored, or contract)
+  - Canada or Canada Council
+- May be deducted **unless otherwise regulated**
+
+> This ensures that institutions are not overfunded by federal grants and that only true operating costs

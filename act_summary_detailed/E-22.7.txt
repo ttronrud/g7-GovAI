@@ -1,0 +1,183 @@
+**Detailed Summary of the *Extractive Sector Transparency Measures Act* (ESTMA)**
+
+---
+
+### **Overview**
+
+The *Extractive Sector Transparency Measures Act* (ESTMA) is a Canadian legislative framework designed to **combat corruption** in the extractive sector — namely, the exploration, extraction, and commercial development of oil, gas, and minerals — by enhancing **transparency, accountability, and reporting obligations** for entities involved in these activities.
+
+The Act aligns Canada with international anti-corruption commitments, particularly those under the **United Nations Convention against Corruption (UNCAC)** and other global standards. Its primary goal is to **deter and detect illicit payments** made to government officials, public bodies, or state-linked entities, especially those that may be used to influence decisions related to permits, licenses, or contracts.
+
+---
+
+## **Key Components of the Act**
+
+---
+
+### **1. Definitions**
+
+The Act establishes precise definitions to ensure clarity and consistency across its provisions:
+
+| Term | Definition |
+|------|-----------|
+| **Category of Payment** | Includes: taxes (excluding consumption and personal income taxes), royalties, fees (rental, entry, regulatory), production entitlements, bonuses (signature, discovery, production), dividends (non-ordinary), infrastructure improvement payments, and any other prescribed category. |
+| **Commercial Development of Oil, Gas or Minerals** | Encompasses exploration/extraction, acquisition of permits/licenses, and any other prescribed activities. |
+| **Entity** | A corporation, trust, partnership, or unincorporated organization engaged in commercial development of oil, gas, or minerals in Canada or abroad; or any entity that controls such an organization. |
+| **Gas** | Natural gas, including all substances produced with it (e.g., condensate, associated liquids). |
+| **Minerals** | All naturally occurring metallic and non-metallic minerals — including coal, salt, quarry materials, rare earths, and precious metals. |
+| **Oil** | Crude petroleum, bitumen, and oil shale. |
+| **Payee** | Includes: Canadian or foreign governments, intergovernmental bodies, government-established trusts, commissions, corporations, or authorities exercising governmental functions. Also includes any other prescribed payee. |
+| **Payment** | Any monetary or in-kind payment made to a payee in relation to commercial development of oil, gas, or minerals, falling within one of the defined categories. |
+
+> **Key Interpretations**:
+> - Payments to employees or public office holders of a payee are **deemed to have been made to the payee**.
+> - Payments received by non-payee bodies on behalf of a payee are **deemed to have been made to the payee**.
+> - If an entity is controlled by another, the **controlling entity is deemed to have made the payment**.
+> - The **value of in-kind payments** is the cost to the entity (or fair market value if cost is unascertainable).
+
+---
+
+### **2. Purpose and Policy Objectives**
+
+The central purpose of ESTMA is to:
+- Implement Canada’s international anti-corruption obligations.
+- Enhance transparency in the extractive sector.
+- Impose **mandatory reporting requirements** on entities regarding payments made to public bodies.
+- Deter and detect **corruption**, including acts prohibited under:
+  - Sections 119–121 and 341 of the *Criminal Code* (corruption of public officials).
+  - Sections 3 and 4 of the *Corruption of Foreign Public Officials Act* (CFPOA).
+
+This helps prevent **bribery, kickbacks, and undue influence** in awarding licenses, permits, or contracts.
+
+---
+
+### **3. Scope of Application**
+
+Sections 9 to 13 apply to entities that meet **one or more of the following criteria**:
+
+#### **Eligible Entities**:
+- Entities listed on a Canadian stock exchange.
+- Entities with a place of business, operations, or assets in Canada, and that meet **at least two** of the following conditions in **at least one of their two most recent financial years**:
+  - Assets ≥ $20 million
+  - Revenue ≥ $40 million
+  - Average employment ≥ 250 employees
+- Any other entity prescribed by regulation.
+
+> **Continuity Rule**: If an entity ceases to meet these criteria before the end of a reporting period (e.g., under section 12 or 13), it remains subject to the reporting obligations **until the end of the applicable period**.
+
+---
+
+### **4. Reporting Obligations**
+
+#### **Mandatory Reporting Timeline**
+- Every entity must submit a **report to the Minister** not later than **150 days after the end of each financial year**.
+
+#### **When Payments Must Be Disclosed**
+An entity must disclose payments within a category of payment if:
+- The total amount paid to the **same payee** during the year reaches:
+  - The **amount prescribed by regulation** for that category; **or**
+  - If no amount is prescribed, **$100,000**.
+
+> **Special Rule for Government Bodies**: Payments to a body established to perform governmental functions are **deemed to be payments to the government** for which it acts.
+
+#### **Content of the Report**
+- Must include an **attestation** by:
+  - A director/officer of the entity, or
+  - An independent auditor/accountant
+  - Confirming that the information is **true, accurate, and complete**.
+
+#### **Minister’s Authority to Specify Reporting Format**
+- The Minister may specify:
+  - How payments are organized (e.g., by project, region, or type)
+  - The form and structure of the report
+- These requirements must be **made publicly available**.
+
+#### **Acceptable Substitutes from Other Jurisdictions**
+- If the Minister determines that **another jurisdiction’s reporting requirements** achieve the same transparency goals, those requirements may be accepted as a substitute for ESTMA’s reporting obligations.
+- The determination must be in writing and made publicly accessible.
+- To qualify:
+  - The entity must submit the required report to the **competent authority** in that jurisdiction.
+  - Provide a **copy to the Minister** in the form and timeframe required by the jurisdiction.
+  - Meet any conditions imposed by the Minister.
+
+#### **Reporting by Parent-Subsidiary Entities**
+- If an entity and its **wholly owned subsidiary** are both subject to the Act:
+  - The **subsidiary is deemed to have reported** if:
+    1. The parent submits a full report including subsidiary payment data.
+    2. The subsidiary notifies the Minister in writing that the parent is providing the report.
+    3. The subsidiary submits its own report covering any payments not covered by the parent’s report.
+
+---
+
+### **5. Public Disclosure of Information**
+
+- Entities must make their reports and any required information **available to the public**.
+- **Manner and Duration**:
+  - As specified by the Minister.
+  - If no period is set, the information must remain public for **five years**.
+- If no regulations specify public disclosure, the report and information provided under section 10(2)(c) must be made public.
+
+> This ensures **transparency and public accountability** in extractive sector dealings.
+
+---
+
+### **6. Recordkeeping Requirements**
+
+- Entities must **retain records** of all payments made during a financial year for:
+  - A **prescribed period** (default: **seven years**), beginning on the day the entity submits its report or is deemed to have done so.
+
+> These records are essential for audits and compliance verification.
+
+---
+
+### **7. Compliance Verification Powers (Section 14 & 16)**
+
+The Minister may, by order, require an entity to provide:
+- A list of projects in which it has an interest.
+- Explanation of how a payment was classified in the report.
+- Statements of internal policies to meet reporting obligations.
+- Results of an audit of the report or payment records.
+
+> **Audit Standards**: Must be conducted in accordance with **generally accepted auditing standards (GAAS)** by an **independent auditor** meeting specified qualifications.
+
+#### **Entry and Inspection Powers (Section 16)**
+
+The Minister may designate individuals (e.g., inspectors or auditors) to enter premises or examine documents for compliance.
+
+**Powers of a Designated Person**:
+- Enter any place where there is reasonable belief that relevant information exists.
+- Examine documents, data, or computer systems.
+- Copy, print, or reproduce data.
+- Prepare documents based on data.
+- Take photographs, recordings, or sketches.
+- Prohibit access to parts of a place.
+- Remove items for examination.
+
+> **Dwelling-House Exception**: Entry into a private residence requires a **warrant issued by a justice of the peace** on ex parte application, based on:
+> - Belief that the dwelling is relevant.
+> - Necessity of entry for compliance verification.
+> - Refusal of entry or reasonable grounds to believe refusal.
+
+> **Assistance Required**: Owners and occupants must provide all reasonable assistance and access to information.
+
+> **No Obstruction**: Any person who obstructs or hinders a compliance officer is in violation of the Act.
+
+---
+
+### **8. Enforcement and Corrective Measures**
+
+If the Minister believes an entity is **non-compliant** with section 9 or 12:
+- The Minister may issue an **order requiring the entity to take corrective measures** to ensure compliance.
+
+> These orders are enforceable and may include:
+> - Re-reporting payments
+> - Correcting misclassifications
+> - Providing additional documentation
+
+> **Exemption from Statutory Instruments Act**: These orders are **not subject to Statutory Instruments Act** procedures.
+
+---
+
+### **9. International Cooperation**
+
+- The Minister may enter into **agreements

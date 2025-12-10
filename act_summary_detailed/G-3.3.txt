@@ -1,0 +1,190 @@
+**Detailed Summary of the Global Minimum Tax Act**
+
+---
+
+### **Overview**
+
+The **Global Minimum Tax Act (GloBE Act)** is a comprehensive piece of legislation designed to implement the **Global Minimum Tax (GloBE) framework** established by the **OECD’s Inclusive Framework on Tax Cooperation**. Its primary objective is to **prevent multinational enterprises (MNEs) from shifting profits to low- or no-tax jurisdictions** to reduce their global tax burdens. The Act introduces a **global minimum corporate tax rate of 15%**, applies to **all MNEs with significant cross-border operations**, and ensures that **taxes are based on economic substance and real profits**, not just book profits or transfer pricing.
+
+This summary provides a detailed breakdown of the key definitions, concepts, and structural elements of the Act, focusing on the **legal, financial, and tax mechanisms** that underpin the GloBE regime.
+
+---
+
+## **Key Definitions and Concepts**
+
+### 1. **Acceptable Financial Accounting Standard (AFAS)**
+- Refers to widely recognized accounting standards that are **recognized internationally** and used in tax compliance.
+- Includes:
+  - **Canadian GAAP**
+  - **IFRS (International Financial Reporting Standards)**
+  - GAAP from the following jurisdictions:
+    - Australia, Brazil, European Economic Area (EEA), EU, Hong Kong, Japan, Mexico, New Zealand, People’s Republic of China, India, Republic of Korea, Singapore, Switzerland, UK, and the United States.
+- Ensures **consistency and comparability** in financial reporting across jurisdictions.
+
+> *Purpose:* To provide a standardized basis for measuring financial performance and determining taxable income under the GloBE rules.
+
+---
+
+### 2. **Adjusted Covered Taxes**
+- Defined as in **subsection 22(1)**.
+- Refers to **taxes on income** that are **adjusted** to reflect the actual tax burden of an MNE group in a given jurisdiction.
+- Used to calculate **taxes owed under the GloBE regime** and to determine **tax credit or top-up amounts**.
+
+> *Purpose:* To ensure that tax liabilities reflect the true economic impact of cross-border activities and avoid double taxation or tax avoidance.
+
+---
+
+### 3. **Adjustment Year**
+- A fiscal year in which an **adjustment is made** to:
+  - GloBE income or loss
+  - Adjusted covered taxes
+  - Jurisdictional adjusted covered taxes
+- Adjustments are triggered by **ETR (Effective Tax Rate) adjustment provisions** (e.g., under paragraphs 18(23)(c), 25(6), 27(1)(b), 27(4), 37(4)(b), or (5)(b)).
+
+> *Purpose:* To correct distortions caused by **low tax rates in certain jurisdictions**, ensuring that the tax burden reflects a minimum global rate of 15%.
+
+---
+
+### 4. **Aggregate Asset Gain/Loss**
+- In the context of **election under subsection 18(23)**, refers to:
+  - **Net gain or loss** from the **disposition of local tangible assets** (e.g., property, equipment) by all constituent entities in a jurisdiction.
+  - Excludes **inter-group asset transfers** (i.e., internal reorganizations).
+- Used to assess **profitability of local asset sales** and to determine whether a group has generated or lost value in a jurisdiction.
+
+> *Purpose:* To prevent MNEs from shifting profits through **local asset sales** to reduce taxable income in high-tax jurisdictions.
+
+---
+
+### 5. **Allocable Share**
+- Same meaning as in **subsection 15(2)**.
+- Refers to the **proportion of income, expenses, or gains/losses** attributable to a particular constituent entity within an MNE group.
+- Used in **profit allocation**, **tax apportionment**, and **top-up calculations**.
+
+> *Purpose:* To fairly distribute tax obligations and benefits across group entities.
+
+---
+
+### 6. **Allocated Adjustment Top-Up Amount**
+- Defined in **subsection 30(5)**.
+- A **top-up payment** made to a jurisdiction to ensure that the effective tax rate (ETR) on a group’s income is **at least 15%**.
+- Allocated based on the **proportion of income** or **taxable profits** of each entity.
+
+> *Purpose:* To ensure that **low-tax jurisdictions do not receive undue tax benefits** due to profit shifting.
+
+---
+
+### 7. **Ancillary International Shipping Activity / Costs / Income / Revenue**
+- Refers to **supporting or secondary activities** related to international shipping.
+- Distinct from **core** shipping activities.
+- Excludes **core operations** and is treated separately in tax calculations.
+- Used to **prevent double counting** of shipping-related income and expenses.
+
+> *Purpose:* To ensure that only **core, value-adding activities** are taxed under the GloBE regime, avoiding over-taxation of ancillary operations.
+
+---
+
+### 8. **Blended Controlled Foreign Company (CFC) Tax Regime**
+- A tax regime where:
+  - The **tax liability of a domestic owner** is based on the **combined income, losses, and credits** of foreign entities in which they hold an interest.
+  - The **lowest effective tax rate** in those foreign jurisdictions is **less than the 15% minimum rate**.
+  - **Income from the domestic jurisdiction is not included** in the calculation.
+- This regime is **potentially abusive** under GloBE because it allows owners to avoid tax on foreign profits due to low rates in other jurisdictions.
+
+> *Purpose:* To **eliminate tax avoidance** through blended CFC regimes that allow owners to avoid tax on foreign earnings.
+
+---
+
+### 9. **Consolidated Financial Statements**
+- Financial statements that present the **combined financial position** of:
+  - The entity and all entities in which it has a **controlling interest**.
+- Prepared in accordance with:
+  - An **acceptable financial accounting standard (AFAS)**.
+  - If not, adjusted to **prevent material competitive distortions**.
+- Required for all **group entities** and is central to determining GloBE income and expenses.
+
+> *Purpose:* To ensure that financial reporting reflects the **true economic reality** of the MNE group and enables accurate tax computation.
+
+---
+
+### 10. **Constituent Entity**
+- A member of an MNE group.
+- Defined in **subsection 11(1)**.
+- Includes all entities (corporations, partnerships, trusts) that are part of a group and are **linked by ownership or control**.
+
+> *Purpose:* To define the **scope of the MNE group** and identify which entities are subject to GloBE rules.
+
+---
+
+### 11. **Constituent Entity-Owner**
+- An entity that **directly or indirectly holds ownership** in another entity within the same MNE group.
+- Used to establish **ownership chains** and determine **tax obligations**.
+
+> *Purpose:* To identify **ownership relationships** for tax attribution and profit allocation.
+
+---
+
+### 12. **Controlled Foreign Company (CFC) Tax Regime**
+- A tax regime where:
+  - A **domestic owner** is taxed on **all or part of the income** of a foreign entity in which they hold an ownership interest.
+  - Tax is imposed **regardless of whether the income is distributed**.
+- Applies **even if no dividends are paid**.
+- Designed to **prevent tax avoidance** by holding foreign profits in low-tax jurisdictions.
+
+> *Purpose:* To ensure that **foreign earnings are taxed** in the jurisdiction of the owner, not just in the foreign jurisdiction.
+
+---
+
+### 13. **Controlling Interest**
+- An ownership interest that allows the holder to:
+  - **Consolidate** the financial statements of the entity.
+  - **Exercise control** over its operations and financial reporting.
+- Includes a **deemed controlling interest** in a permanent establishment.
+
+> *Purpose:* To define who has **decision-making power** over a subsidiary or affiliate.
+
+---
+
+### 14. **Cooperative**
+- An entity that:
+  - Markets or acquires goods/services on behalf of its members.
+  - Operates under a **tax regime that ensures tax neutrality** for member transactions.
+- Exemptions or special rules apply to **avoid double taxation** of member transactions.
+
+> *Purpose:* To protect **cooperative structures** from being exploited for tax avoidance.
+
+---
+
+### 15. **Core vs. Ancillary International Shipping Activities**
+- **Core**: Main business activity (e.g., shipping cargo).
+- **Ancillary**: Supporting activities (e.g., logistics, maintenance).
+- Only **core shipping income and costs** are included in GloBE calculations.
+- Ancillary activities are **excluded** to prevent double counting.
+
+> *Purpose:* To ensure that only **core economic activities** are taxed under the GloBE regime.
+
+---
+
+### 16. **Corporation**
+- Broadly defined to include:
+  - Incorporated companies
+  - Partnerships
+  - Trusts
+  - Associations or organizations
+- **Excludes** central, state, or local governments and their agencies.
+
+> *Purpose:* To define the **scope of entities subject to GloBE rules**.
+
+---
+
+### 17. **Covered Taxes**
+- Defined in **subsection 23(1)**.
+- Refers to **corporate income taxes, withholding taxes, and other taxes** on income or profits.
+- Excludes certain taxes (e.g., payroll, property, excise) unless specified.
+
+> *Purpose:* To identify which taxes are subject to the GloBE regime.
+
+---
+
+### 18. **Deductible Dividend / Deductible Dividend Regime**
+- A regime where:
+ 

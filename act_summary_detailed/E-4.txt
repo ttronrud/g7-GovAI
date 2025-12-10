@@ -1,0 +1,208 @@
+**Detailed Summary of the *Electricity and Gas Inspection Act***
+
+---
+
+### **Overview**
+The *Electricity and Gas Inspection Act* is a comprehensive legislative framework designed to ensure the accuracy, integrity, and fairness of metering systems used in the sale and distribution of electricity and gas. It establishes a regulatory regime to oversee the verification, sealing, maintenance, and accountability of meters, while also defining the roles and responsibilities of key stakeholders—contractors, purchasers, inspectors, accredited meter verifiers, and the Minister.
+
+The Act ensures that measurements used to bill consumers are reliable, consistent, and subject to independent oversight. It aims to prevent fraud, ensure compliance with technical standards, and protect both consumers and suppliers through transparent and enforceable procedures.
+
+---
+
+## **Key Definitions and Interpretations**
+
+The Act begins by defining essential terms:
+
+- **Accredited Meter Verifier**: A person accredited by the Director to verify, reverify, seal, or reseal meters and perform related functions.
+- **Apparatus**: Encompasses any machine, instrument, or device used in measurement or conveyance of electricity or gas.
+- **Contractor**: Any entity supplying electricity or gas to a purchaser.
+- **Director**: The official appointed under subsection 26(1) to administer the Act.
+- **Functions**: Includes all powers and duties conferred by or under the Act.
+- **Gas**: Includes natural gas and manufactured gas.
+- **Inspector**: Any officer appointed under the Act or designated under subsection 26(3) to carry out functions.
+- **Meter**: Any device measuring electricity or gas consumption, including apparatus used to establish charges.
+- **Minister**: The Minister of Industry.
+- **Prescribed**: As defined by regulation.
+- **Purchaser**: Any individual or entity to whom electricity or gas is sold.
+- **Verified Meter**: A meter that has been verified and sealed in accordance with the Act and regulations.
+
+> **Important Interpretation**:  
+> The rendering of a meter’s seal ineffective is deemed equivalent to "breaking the seal" for the purposes of this Act.  
+> In cases where a meter is used by a contractor (e.g., for supply), references to the "owner" are interpreted as referring to the contractor, unless otherwise specified.
+
+---
+
+## **Units of Measurement**
+
+The Act prescribes standardized units for billing:
+
+### **Electricity**:
+- Watt-hour, volt-ampere hour, var-hour, or joule.
+
+### **Gas**:
+- **By volume**: Cubic metre or cubic foot  
+- **By energy units**: Joule or British Thermal Unit (BTU)  
+- **By mass**: Kilogram  
+
+> **Flexibility Clause**:  
+> A unit may be a multiple or submultiple (e.g., kilowatt-hour) if it uses a prefix from Part V of Schedule I to the *Weights and Measures Act*.  
+> **Exception**: Cubic feet and BTUs are excluded from this flexibility.
+
+> **Standard Reference Standards**:  
+> All standard apparatus required for measurement must remain under the custody of the Minister and form part of the national reference system under the *Weights and Measures Act*.
+
+---
+
+## **Requirements for Meter Verification and Use**
+
+### **Meter Verification Requirement**
+- **No meter may be put into service** unless it has been:
+  - Verified (checked for accuracy), and  
+  - Sealed (to prevent tampering)  
+- **Exception**: The Director may grant temporary permission to put a meter into service **without verification or sealing**, under strict conditions and for a limited period.
+
+### **Director’s Approval**
+- No meter may be verified unless it has received **prior approval from the Director**.
+- This approval applies to individual meters or entire classes/types of meters.
+
+### **Temporary and Permanent Exemptions**
+- **Temporary Permission (Section 9(2))**: Allows temporary use of unverified or unsealed meters under defined terms and conditions.
+- **Permanent Approval (Section 9(3))**: Grants approval for long-term use without verification or sealing.
+- These permissions or approvals can be **revoked** if the contractor or verifier fails to comply with conditions.
+
+> **Revocation Process**:
+> - Notice must be given in prescribed form.
+> - Interested parties must be given reasonable opportunity to object.
+> - The decision must take into account any representations made.
+> - Revocation of a permission or approval immediately removes the meter from service unless otherwise stated.
+
+---
+
+## **Accreditation of Meter Verifiers**
+
+### **Eligibility and Process**
+- Any person may apply to the Director for accreditation to:
+  - Verify, reverify, seal, reseal meters
+  - Perform prescribed incidental functions
+- Upon approval, the applicant receives a **certificate of accreditation** in prescribed form.
+
+> **Prohibited Individuals**:  
+> No accredited meter verifier, seller of electricity/gas, or employee/agent of such entities may be designated as an inspector under this Act.
+
+---
+
+## **Reverification and Seal Maintenance**
+
+The Act mandates regular reverification to ensure ongoing accuracy:
+
+| Meter Type | Required Reverification Period |
+|----------|-------------------------------|
+| Electricity | 8 years from initial verification or each re-verification |
+| Gas | 7 years from initial verification or each re-verification |
+
+> **Exception**: The Director may set a shorter period for specific cases or classes of meters, **but only with Ministerial approval**.  
+> If a shorter period is set, the Director must **notify all parties in advance** of the revised schedule.
+
+> **Purpose**: Ensures that meters remain within acceptable accuracy thresholds over time.
+
+---
+
+## **Authority and Powers of Inspectors**
+
+### **General Powers**
+- Inspectors may enter premises at reasonable times to:
+  - Verify or reverify meters
+  - Examine wiring, piping, fittings
+  - Test electricity or gas supply
+- These powers extend to **any premises where electricity or gas is generated, stored, distributed, or used**.
+
+### **Entry into Dwelling-Houses**
+- Inspectors **cannot enter private homes without consent**.
+- **Exception**: A justice of the peace may issue a warrant if:
+  - On ex parte application, the justice is satisfied that entry is necessary for the purpose of inspection
+  - Entry has been refused or there are reasonable grounds to believe it will be refused
+- The warrant may specify conditions.
+- **Use of Force**: Only permitted if the inspector is accompanied by a peace officer and force is specifically authorized in the warrant.
+
+---
+
+## **Responsibilities of Contractors and Purchasers**
+
+### **Contractor Obligations**
+- Must hold a **certificate of registration** to sell electricity or gas based on measurement.
+- Must provide **free access** to designated premises for testing:
+  - Electricity: Equipment, facilities, and reasonable services
+  - Gas: Gas supply, equipment, and facilities
+- Must **report service pressures** (if required by regulation) at prescribed intervals.
+- May enter a purchaser’s premises to:
+  - Inspect, test, install, repair, remove, or change meters, wiring, or piping
+  - Ascertain consumption or make other measurements
+- **Liability for Damage**: If damage occurs during entry, the contractor must **repair and make good** the damage immediately.
+
+### **Purchaser Obligations**
+- Must allow access to premises when requested by a contractor for inspection or measurement.
+- Must provide reasonable assistance and information to inspectors or verifiers.
+
+---
+
+## **Records and Accountability**
+
+### **Mandatory Record-Keeping**
+- **Owners of verified meters** must maintain records of:
+  - Meter performance
+  - Maintenance history
+  - Verification dates
+  - Any errors or issues
+- **Accredited meter verifiers** must also keep records.
+- Records must be:
+  - In prescribed form
+  - Kept at a prescribed place
+  - Retained for a prescribed period
+- Records are **open for inspection by inspectors** during normal business hours.
+- Inspectors may make copies or extracts as needed.
+
+---
+
+## **Meter Testing and Error Determination**
+
+### **Request for Testing**
+- A contractor or purchaser may request an inspector to:
+  - Test the voltage of electricity supply
+  - Issue a certificate of results
+- This can be done at any time upon payment of a prescribed fee.
+
+### **Error Assessment**
+When a meter is found to have an error (e.g., incorrect reading, faulty connection, misuse of apparatus):
+
+#### **Deemed Error Periods**:
+1. **Error due to unpermitted reading**:
+   - Deemed to have existed from **3 months before the request date**, or from the **last sealing date** (if within that period).
+
+2. **Meter overdue for re-verification**:
+   - If more than 3 months past due, the error is deemed to have existed from the **date of last required re-verification**.
+
+3. **Incorrect installation or use**:
+   - Errors due to:
+     - Incorrect connection
+     - Misuse of prescribed apparatus
+     - Incorrect multiplier
+   - Are deemed to have existed from the **date of installation** or **start of use** of the faulty component.
+
+> **Exception**: If the duration of the error is determined from past meter readings, then the deemed period does **not apply**.
+
+### **Liability for Errors**
+- The **contractor or purchaser** is liable for:
+  - The charge calculated based on the **full error**
+  - For the **entire duration** the error is deemed to have existed
+- This liability is **not limited** to the actual period of error.
+
+> **Additional Recovery Rights**:  
+> A person recovering a sum under this provision is **not barred** from claiming further compensation for other legitimate losses or damages.
+
+---
+
+## **Inspector’s Certificate and Dispute Resolution**
+
+### **Certificate of Findings**
+- After testing or inspection, the inspector must issue a **certificate** to each directly involved party (e.g., owner, purchaser).
+-

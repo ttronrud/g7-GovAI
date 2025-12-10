@@ -1,0 +1,164 @@
+### **Detailed Summary of the Investment Canada Act**
+
+---
+
+#### **Overview**
+
+The **Investment Canada Act (ICA)** is a federal law enacted to balance the benefits of foreign investment in Canada with the need to protect **national security** and **public interest**. It establishes a regulatory framework for reviewing significant investments by **non-Canadians** in Canadian businesses, ensuring that such investments contribute to **economic growth, employment, and innovation**, while also safeguarding Canada’s strategic and sensitive sectors.
+
+The Act is designed to **encourage foreign investment** while providing a transparent, predictable, and fair process to assess whether a proposed investment could pose a threat to national security, public order, or economic stability.
+
+---
+
+## **Key Purposes of the Act**
+
+1. **To promote investment and economic growth**  
+   By creating a clear and efficient review process, the Act encourages foreign investment in Canada, which brings capital, technology, and expertise that can enhance productivity, innovation, and job creation.
+
+2. **To protect national security**  
+   The Act allows for the review of investments that may have **national security implications**, such as those involving critical infrastructure, defense, energy, telecommunications, or technologies with dual-use (civil and military applications).
+
+3. **To ensure transparency and fairness**  
+   The process is structured to provide non-Canadians with clear notice, opportunities to respond, and a fair review mechanism, promoting confidence in the investment climate.
+
+---
+
+## **Key Definitions (Crucial to Understanding the Act)**
+
+| Term | Definition |
+|------|-----------|
+| **Canada** | Includes the **exclusive economic zone (EEZ)** and **continental shelf** of Canada. This expands the geographic scope of the Act beyond land borders. |
+| **Canadian** | Includes: <br> - Canadian citizens or permanent residents (residing in Canada for ≤1 year after eligibility for citizenship); <br> - Canadian government or agencies; <br> - Entities that are **Canadian-controlled** (as defined under section 26), with no prior determination or declaration under certain subsections indicating foreign control. |
+| **Canadian business** | A business that: <br> - Has a place of business in Canada; <br> - Employs individuals in Canada; <br> - Uses assets in Canada. |
+| **Non-Canadian** | Any individual, government, or entity that is **not Canadian**. |
+| **Own (beneficial ownership)** | Refers to **actual beneficial ownership**, not just legal title. |
+| **Voting interest** | A stake that gives the holder rights to vote (e.g., shares in a corporation), receive profits, or share in assets upon dissolution. |
+| **Voting share** | A share with voting rights and profit-sharing rights. |
+| **Joint venture** | An association of two or more parties where ownership interests are collectively held and not structured as a corporation, partnership, or trust. |
+| **Voting group** | Two or more individuals/entities acting together in the exercise of voting rights (e.g., through contracts, control, or shared interests). |
+| **State-owned enterprise (SOE)** | A foreign government or entity controlled or influenced by a foreign government. |
+| **New Canadian business** | A business not previously operated by the non-Canadian, and either unrelated to other operations or related to Canada’s cultural heritage or national identity. |
+
+---
+
+## **Applicability and Exemptions**
+
+The Act **does not apply** to certain types of investments that are considered routine or already regulated by other laws. These include:
+
+### **Exempt Transactions (Where the Act Does Not Apply)**
+
+1. **Acquisitions in the ordinary course of trading in securities**  
+   - E.g., buying shares as a trader or dealer in financial markets.
+
+2. **Venture capital investments**  
+   - Provided the investment is in the ordinary course of business and complies with Ministerial conditions.
+
+3. **Acquisitions linked to loan security (not for investment purposes)**  
+   - If the acquisition is subject to approval under the **Bank Act**, **Insurance Companies Act**, or **Cooperative Credit Associations Act**.
+
+4. **Financing-related acquisitions**  
+   - Acquisitions made to facilitate financing, with a requirement to **divest control within 2 years** (or longer period approved by the Minister).
+
+5. **Corporate reorganizations**  
+   - Acquisitions resulting from mergers, amalgamations, or consolidations where **control remains unchanged**.
+
+6. **Government or Crown corporation activities**  
+   - Activities carried out by **agents of Her Majesty in right of Canada**, provinces, or **Crown corporations** under the Financial Administration Act.
+
+7. **Tax-exempt businesses**  
+   - Businesses whose income is exempt under **paragraph 149(1)(d)** of the Income Tax Act.
+
+8. **Transactions under the Bank Act (Part XII.01)**  
+   - Certain banking or financial transactions are exempt.
+
+9. **Involuntary acquisitions**  
+   - Acquisitions due to estate devolution or operation of law.
+
+10. **Insurance companies and foreign SOEs**  
+   - Specific conditions apply for insurance companies or foreign SOEs acquiring control, including:
+     - Gross investment revenue must be included in taxable income.
+     - Voting interests or assets must be held in **trust** under Part XIII of the Insurance Companies Act.
+
+11. **Agricultural businesses**  
+   - Acquisitions where revenue comes from farming on real property acquired in the same transaction.
+
+> ⚠️ **Important Note**: If any exemption condition is **not met**, the exemption **does not apply**, and the transaction is subject to review under the Act.
+
+---
+
+## **Notification and Review Process**
+
+### **1. Investments Subject to Notification (Mandatory Notice)**
+
+The following investments require **advance notice** to the Director of Investments:
+
+- **Establishing a new Canadian business** (i.e., a business not previously operated by the non-Canadian).
+- **Acquiring control** of a Canadian business in any manner listed in **subsection 28(1)** — **unless** the investment is already reviewable under **section 14** (national security review).
+
+> ✅ **Notice must be given**:
+> - Before implementation, or
+> - Within **30 days** after implementation.
+
+> 🔍 **Content of Notice**: Must include information prescribed by regulation (e.g., investment details, financials, business operations, etc.).
+
+---
+
+### **2. Receipt and Determination of Review Status**
+
+When a notice is submitted:
+
+- **If complete or sufficient**:  
+  The Director sends a **receipt** certifying:
+  - The date the notice was received, or
+  - The date required information was received.
+
+  The receipt also advises the non-Canadian whether:
+  - The investment is **not reviewable under Part IV**, or
+  - A **review under section 15** will be initiated within **45 days** (or prescribed period).
+
+> ✅ **No review if**:  
+> - The information provided is accurate, and  
+> - No notice for review is issued within the 45-day window.
+
+- **If incomplete**:  
+  The Director sends a **notice of deficiency**, specifying missing information and requesting its completion.
+
+---
+
+### **3. Investments Subject to Review (Reviewable Under Part IV)**
+
+The following investments are **reviewable** under the Act:
+
+| Type of Investment | Conditions for Review |
+|-------------------|------------------------|
+| **Acquisition of control** via: <br> - (a) direct purchase of voting interests <br> - (b) indirect control via ownership <br> - (c) control through a joint venture | Review applies if the **value of assets acquired** is **$5 million or more**. |
+| **Acquisition via a joint venture** (subparagraph 28(1)(d)(i)) | Same threshold: **$5 million**. |
+| **Acquisition via a joint venture** (subparagraph 28(1)(d)(ii)) | Review applies **only if**: <br> - The **total value of assets** (Canadian business + other entities acquired) exceeds **50% of the total value of all assets acquired** in the transaction. <br> - **Value threshold**: $5 million. |
+| **Acquisition via a joint venture** (subparagraph 28(1)(d)(ii)) where **circumstances do not apply** (i.e., asset threshold not met) | Review applies if **total asset value** exceeds **$50 million**. |
+
+> 🔍 **Asset value calculation**: Determined in a manner prescribed by regulation (e.g., fair market value, adjusted for specific factors).
+
+> 📌 **Note on thresholds**:
+> - **$5 million** is the threshold for most acquisitions.
+> - **$50 million** applies to joint ventures where the acquisition represents a large share of the total transaction value.
+
+---
+
+### **4. Special Provisions for WTO Investors**
+
+Despite the standard thresholds, **a WTO investor** (a foreign investor participating in the World Trade Organization) may have a **reviewable investment** only if:
+
+- The **enterprise value** (calculated per regulation) of the assets involved is **equal to or greater than** a specified amount.
+
+> ⚠️ This provision is **repealed** as of 2017 (per section 192 of *c. 20*), meaning **no longer applies**.
+
+> ❌ **Repealed**: The clause regarding WTO investors is **no longer in force**.
+
+---
+
+## **Role of the Minister and Director of Investments**
+
+- **Minister of the Crown** (designated by Governor in Council):
+  - Responsible for administering the Act.
+  - Ensures compliance with notification and review requirements.
+  - May consult with industry,

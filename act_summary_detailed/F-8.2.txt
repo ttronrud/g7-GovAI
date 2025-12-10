@@ -1,0 +1,184 @@
+**Detailed Summary of the *Federal-Provincial Fiscal Arrangements Act, 1972***
+
+---
+
+### **Overview**
+
+The *Federal-Provincial Fiscal Arrangements Act, 1972* (commonly referred to as the **Federal-Provincial Fiscal Arrangements Act**) is a foundational piece of Canadian legislation designed to promote **fiscal equity** among the provinces by establishing two key mechanisms:
+
+1. **Provincial Revenue Equalization Payments**  
+2. **Provincial Revenue Stabilization Payments**
+
+These mechanisms aim to ensure that provinces with lower tax bases or smaller populations are not disadvantaged relative to wealthier or more populous provinces, and to protect provinces from significant revenue fluctuations due to changes in tax rates or structures.
+
+The Act was enacted in 1972 and applies to the fiscal years from **April 1, 1972, to March 31, 1977**, with a specific focus on adjusting provincial revenues to reflect population and revenue base differences.
+
+---
+
+## **Key Definitions and Scope**
+
+### **Fiscal Year**
+- Defined as the period from **April 1 to March 31** of the following year.
+
+### **Former Act**
+- Refers to the previous version of the Act: *Federal-Provincial Fiscal Arrangements Act, Chapter F-6 of the Revised Statutes of Canada, 1970*.
+
+### **Income Tax Act**
+- The primary federal tax law governing personal and corporate income taxation.
+
+### **Minister**
+- Refers to the **Minister of Finance**, who is responsible for administering the equalization and stabilization payments.
+
+### **Prescribed**
+- Means as defined or set out in **regulations** issued under the Act.
+
+### **Province**
+- Excludes the **Northwest Territories** and the **Yukon Territory**.
+
+---
+
+## **Part I: Provincial Revenue Equalization Payments**
+
+### **Purpose**
+To compensate provinces for **fiscal capacity deficiencies** — situations where a province's tax base (revenue potential) is lower than its population share relative to other provinces.
+
+### **Eligibility Period**
+Equalization payments may be made for fiscal years from **April 1, 1972, to March 31, 1977**.
+
+### **Calculation Method (Section 4)**
+
+The equalization payment is calculated through a **multi-step process** based on population and revenue base comparisons across provinces.
+
+#### **Step 1: Population Proportion**
+- Determine the **percentage of the province’s population** relative to the total population of all provinces for that fiscal year.
+
+#### **Step 2: Revenue Base Proportion**
+- For each **revenue source**, determine the **percentage of the province’s revenue base** relative to the total revenue base of all provinces for that source.
+
+> *Revenue base* = the underlying economic base from which a tax is derived (e.g., income, sales, oil, etc.). This is defined in regulations.
+
+#### **Step 3: Identify Fiscal Capacity Deficiency or Excess**
+- Compare the population percentage with the revenue base percentage for each revenue source:
+  - If **population % > revenue base %** → **fiscal capacity deficiency** (the province is under-revenue relative to its population)
+  - If **population % < revenue base %** → **fiscal capacity excess** (the province is over-revenue relative to its population)
+
+#### **Step 4: Calculate Aggregates**
+- **Deficiency Calculation**:
+  - Multiply the **total revenue from that source across all provinces** by the **fiscal capacity deficiency** of the province for that source.
+  - Sum these products across all sources with deficiencies.
+
+- **Excess Calculation**:
+  - Multiply the **total revenue from that source across all provinces** by the **fiscal capacity excess** of the province for that source.
+  - Sum these products across all sources with excesses.
+
+#### **Step 5: Final Equalization Payment**
+- The **equalization payment** is the **difference** between:
+  - The total from deficiencies (positive amount)
+  - The total from excesses (negative amount)
+
+> **Payment = (Total from deficiencies) – (Total from excesses)**  
+> If the result is negative, **no payment is made** (i.e., the province is over-revenue and receives nothing).
+
+---
+
+### **Allocation of Total Revenues to Equalize (Section 4(2))**
+
+- The Minister must allocate the total revenues to be equalized across all revenue sources so that:
+  - The **sum of revenues collected by all provinces** from each source equals the **total revenue to be equalized**.
+
+This ensures that the total pool of revenue being redistributed is accurate and consistent.
+
+---
+
+### **Definition of Revenue Sources (Section 4(3))**
+
+The Act lists **16 specific revenue sources**, including:
+
+| Revenue Source | Description |
+|---------------|-------------|
+| Personal income taxes | Taxes on individual earnings |
+| Corporation income taxes | Taxes on corporate profits |
+| Sales taxes, tobacco, amusement taxes | General and miscellaneous sales-related taxes |
+| Motive fuel taxes | Taxes on fuel used in transportation |
+| Motor vehicle licensing revenues | Fees from vehicle registration |
+| Alcoholic beverage revenues | Profits from provincial liquor boards |
+| Hospital and medical care insurance premiums | Premiums from health insurance |
+| Succession duties and gift taxes | Taxes on inheritance and gifts |
+| Race track taxes | Taxes on gambling at racetracks |
+| Forestry revenues | Revenue from forest product sales |
+| Oil revenues (Crown-owned mineral rights) | Royalties, licenses, taxes, rentals from oil on Crown lands |
+| Oil revenues (non-Crown mineral rights) | Same as above, but for private mineral rights |
+| Natural gas revenues (Crown-owned) | Same as above for natural gas |
+| Natural gas revenues (non-Crown) | Same as above for non-Crown rights |
+| Sales of Crown leases/reservations | Revenue from selling oil/gas leases |
+| Oil & gas revenues (other) | Other oil/gas revenues not covered above |
+| Metallic/non-metallic mineral revenues | Revenue from mining |
+| Water power rentals | Revenue from hydroelectric power |
+| Payroll taxes, insurance premiums, real property taxes | Miscellaneous provincial taxes |
+| Miscellaneous natural resource revenues | Franchises, sales, government enterprise remittances (excluding oil/gas) |
+| Revenues from Canada shared with provinces | Shared income from federal tax sources (e.g., personal income tax) |
+| School purpose taxes | Local taxes used for education (treated specially) |
+
+> **Note**: Regulations may revise or split any of these into **multiple separate revenue sources**.
+
+---
+
+### **Adjustments to Total Revenues to Be Equalized (Section 4(3), sub-paragraphs)**
+
+To ensure fairness and stability, certain revenue sources are treated differently:
+
+#### **1. Succession Duties & Gift Taxes**
+- For fiscal years:
+  - **1972**: Use revenue from that year
+  - **1973**: Average of current and prior year
+  - **All others**: Average of current year and two prior years  
+> This smooths out volatility in small, infrequent tax sources.
+
+#### **2. Sales of Crown Leases & Reservations**
+- Revenue is averaged over **three years** (current + two prior) to reduce volatility.
+
+#### **3. Personal & Corporation Income Taxes**
+- The Minister may **deduct** the amount of revenue Canada would have collected **if no special abatements** (tax reductions for provincial programs) had been made.
+> This ensures that provinces receiving tax abatements (to fund programs like health or education) are not overcompensated by federal tax revenues.
+
+#### **4. Oil & Gas Revenue Sources (k, k.1, l, l.1, m, n)**
+- Revenue is split into:
+  - **Basic revenue** (a base amount based on historical and market conditions)
+  - **Additional revenue** (the difference between actual and basic)
+
+> The **basic revenue** is calculated using a **market production ratio**:
+> - For oil (Crown-owned): Compare marketable production in the current year to 1973 levels
+> - For gas (Crown-owned): Compare net production withdrawals to 1973 levels
+> - For non-Crown rights: Same, but using non-Crown data
+> - For combined oil & gas: Based on the ratio of total basic oil & gas revenue to actual 1973 allocation
+
+> If the ratio is less than 1, the multiplier is set to **1** (to prevent underestimation).
+
+> **Additional revenue** = Actual revenue – Basic revenue  
+> If actual revenue is **less than basic**, it is **deemed equal to basic** (to prevent negative payments).
+
+---
+
+### **Population Definition (Section 4(4))**
+
+- For years with a **census**: Use census data.
+- For other years: Use **June 1 population** as finally determined by the **Chief Statistician of Canada** after the next census.
+
+---
+
+## **Part II: Provincial Revenue Stabilization Payments**
+
+### **Purpose**
+To protect provinces from **unplanned revenue declines** due to changes in tax rates or tax structures (e.g., rate cuts or tax reform).
+
+### **Eligibility Period**
+Also applies to fiscal years from **April 1, 1972, to March 31, 1977**.
+
+### **Calculation (Section 6)**
+
+The **stabilization payment** is the amount by which:
+- The **revenue subject to stabilization in the prior fiscal year**  
+> exceeds  
+- The **revenue subject to stabilization in the current fiscal year**, adjusted to reflect changes in tax rates or structure.
+
+> This ensures that if a province reduces tax rates

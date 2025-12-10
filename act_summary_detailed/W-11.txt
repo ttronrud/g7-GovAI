@@ -1,0 +1,176 @@
+**Detailed Summary of the *Winding-up and Restructuring Act***
+
+---
+
+### **Overview**
+
+The *Winding-up and Restructuring Act* (the "Act") is a comprehensive legislative framework in Canada designed to provide a structured process for the **winding up** or **restructuring** of insolvent or financially distressed companies. It establishes the legal procedures, criteria, and responsibilities for courts, creditors, shareholders, and regulatory authorities when a company becomes insolvent or is otherwise in need of financial reorganization.
+
+The Act applies to a wide range of corporate entities, including corporations, banks, insurance companies, financial institutions, and trading companies, with special provisions for foreign entities operating in Canada.
+
+---
+
+## **Key Definitions and Scope**
+
+### 1. **Applicable Entities**
+The Act applies to:
+- All corporations incorporated under federal or provincial legislation (including former provinces of Canada).
+- Banks and savings banks.
+- Authorized foreign banks.
+- Trust companies.
+- Insurance companies.
+- Loan companies with borrowing powers.
+- Building societies with capital stock.
+- Incorporating trading companies doing business in Canada.
+
+**Exclusions:**
+- Building societies without capital stock.
+- Railway or telegraph companies.
+
+> *Note:* The Act does not apply to all types of financial institutions — specific provisions are tailored to different sectors.
+
+---
+
+### 2. **Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Company** | Includes any corporation subject to the Act. |
+| **Capital Stock** | Includes both *de jure* and *de facto* capital stock. |
+| **Contributory** | A person liable to contribute to a company’s assets; includes any person alleged to be one. |
+| **Creditor** | Any person with a claim — present, future, certain, or contingent — for liquidated or unliquidated damages. Includes those making claims. |
+| **Court** | Varies by province: Supreme Court (NS, BC, PEI), Superior Court (ON, QC), Court of Queen’s Bench (NB, MB, SK, AB), Trial Division (NL), Supreme Court (Yukon, NWT), Nunavut Court of Justice (Nunavut). |
+| **Official Gazette** | Canada Gazette or provincial gazette; if none exists, a designated newspaper. |
+| **Superintendent** | Refers to the Superintendent of Financial Institutions (SFI), appointed under the *Office of the Superintendent of Financial Institutions Act*. |
+| **Trading Company** | Any business not specifically excluded — e.g., apothecaries, builders, brokers, etc. — that engages in buying/selling or manufacturing goods. |
+| **Winding-up Order** | A court order to wind up a company’s business, including orders for liquidation or initiation of winding-up proceedings. |
+
+> **Special Provisions:**
+> - For **authorized foreign banks**, references to "business in Canada" are interpreted under **Part XII.1 of the Bank Act**.
+> - For **foreign insurance companies**, references to creditors relate to their business in Canada.
+> - The Act applies **only to the business in Canada** of authorized foreign banks and foreign insurance companies.
+
+---
+
+## **Insolvency Determination (When a Company is Deemed Insolvent)**
+
+A company is deemed insolvent under **one or more of the following conditions**:
+
+1. **Inability to Pay Debts**  
+   Cannot pay debts as they fall due.
+
+2. **Meeting of Creditors for Compounding**  
+   Calls a meeting to negotiate repayment with creditors.
+
+3. **Statement of Inability to Meet Liabilities**  
+   Exhibits a formal statement showing inability to meet liabilities.
+
+4. **Acknowledged Insolvency**  
+   Has formally acknowledged insolvency.
+
+5. **Intentional Disposition of Assets to Defraud Creditors**  
+   Assigns, removes, or disposes of property with intent to defraud, defeat, or delay creditors.
+
+6. **Procurement of Seizure/Levying of Assets**  
+   Procures seizure or levy of property under execution processes for the purpose of defrauding creditors.
+
+7. **General Conveyance or Sale Without Creditor Consent**  
+   Makes a general assignment or sells major assets without creditor consent or satisfaction of claims.
+
+8. **Failure to Satisfy Executions**  
+   Allows an execution to remain unsatisfied for:
+   - **Four days** after the sheriff’s sale date, or
+   - **Fifteen days** after seizure.
+
+9. **Failure to Publish Notice (Federal Member Institutions)**  
+   For federal member institutions (under the *Canada Deposit Insurance Corporation Act*):
+   - If an order is made under **39.13(1)(a)** or **(b)**: Notice must be published within **60 days** (or extension period).
+   - If order is made under **39.13(1)(d)** or **(1.3)**: Notice must be published within **1 year** (or shorter period specified in order or extension).
+
+10. **Completion of Business Transfer to Bridge Institution**  
+   If a transfer of business to a "bridge institution" has been substantially completed, the institution is deemed insolvent.
+
+---
+
+### **Specific Insolvency Threshold: Failure to Pay Demand**
+
+A company is deemed unable to pay its debts **if**:
+- A creditor (debt > $200) serves a written demand.
+- The company **fails to pay or secure payment** within **60 days** of service.
+
+This threshold ensures that only significant, actionable defaults trigger winding-up proceedings.
+
+---
+
+## **Commencement of Winding-up Proceedings**
+
+- The **winding-up process begins upon service of the notice of petition** for winding-up.
+- This marks the official start of the legal process, regardless of whether the court has yet issued an order.
+
+---
+
+## **Scope of Application**
+
+The Act applies in the following situations:
+
+1. **When a company is insolvent.**
+2. **When a company is in liquidation or winding-up** and:
+   - A shareholder, creditor, assignee, or liquidator petitions to bring it under the Act.
+   - In the case of a **federal credit union**, a member, shareholder, creditor, assignee, or liquidator may petition.
+3. **When a financial institution is under the control of the Superintendent** (e.g., due to regulatory intervention) and an application is made under **section 10.1**.
+
+> **Sector-Specific Application:**
+> - For **authorized foreign banks**: Only applies to their **business in Canada** and **liquidation of assets**.
+> - For **insurance companies**: Provisions are subject to **Part III** of the Act.
+> - For **financial institutions**: Provisions are subject to **Part II**.
+
+---
+
+## **When a Winding-up Order May Be Made**
+
+A court may issue a winding-up order if:
+
+### **(a) Expiry of Incorporation Period or Dissolution Events**
+- The company’s incorporation period has expired.
+- The charter or instrument of incorporation provides for dissolution upon a specific event.
+
+### **(b) Shareholder Resolution**
+- At a special meeting of shareholders (or members/shareholders in a federal credit union), a resolution is passed requiring winding-up.
+
+### **(c) Insolvency**
+- The company is insolvent (as defined above).
+
+### **(d) Impairment of Capital Stock**
+- Capital stock is impaired by **25% or more**.
+- The court is satisfied that the lost capital **will not be restored within one year**.
+
+### **(e) Just and Equitable Reasons**
+- The court finds it **just and equitable** to wind up the company for any other reason.
+
+---
+
+## **Additional Grounds for Winding-up (Regulatory Control)**
+
+If the **Superintendent** has taken control of a financial institution or its assets under specific provisions of other Acts (e.g., Bank Act, Insurance Companies Act, Trust and Loan Companies Act), the court may issue a winding-up order **if**:
+
+| Entity Type | Grounds for Control | Trigger for Winding-up |
+|-----------|---------------------|------------------------|
+| **Bank** | Paragraphs 648(1.1)(a), (c), (e), (f) of Bank Act or national security | Court finds it just and equitable to wind up |
+| **Authorized Foreign Bank** | Paragraphs 619(2)(a), (b), (d), (f) of Bank Act or national security | Same |
+| **Trust & Loan Company** | Paragraphs 510(1.1)(a), (c), (e), (f) of Trust & Loan Companies Act or national security | Same |
+| **Insurance Company (non-foreign)** | Paragraphs 679(1.1)(a), (c), (e), (f) of Insurance Companies Act or national security | Same |
+| **Foreign Insurance Company** | Paragraphs 679(1.2)(a), (c), (e) of Insurance Companies Act or national security | Same |
+| **Cooperative Credit Association** | Paragraphs 442(1.1)(a), (c), (e), (f) of Cooperative Credit Associations Act | Same |
+
+> **Note:** National security grounds are explicitly recognized across all categories.
+
+---
+
+## **Who May File an Application for Winding-up**
+
+An application may be made by:
+
+| Situation | Who May Apply |
+|--------|---------------|
+| (a) & (b): Insolvency or dissolution | Company or shareholder (or member/shareholder in a federal credit union) |
+| (c): Capital impairment | Company or creditor for a debt of at least **$200**; for banks and insurance companies, a shareholder must hold **at least $500

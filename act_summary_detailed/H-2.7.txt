@@ -1,0 +1,188 @@
+**Detailed Summary of the *Hazardous Materials Information Review Act***
+
+---
+
+### **Overview**
+
+The *Hazardous Materials Information Review Act* (HMIRA) is a legislative framework in Canada designed to **balance public safety and environmental protection with the protection of sensitive business information** related to hazardous materials. It establishes a formal process by which suppliers and employers can **claim exemptions from mandatory disclosures** of certain chemical and product-related information — particularly chemical names, CAS numbers, impurities, and toxicological data — when such information is deemed **confidential business information (CBI)**.
+
+Despite being a relatively recent and specialized piece of legislation, it operates within the broader regulatory ecosystem of hazardous products and occupational health and safety laws, primarily referencing the *Hazardous Products Act*, the *Canada Labour Code*, and the *Canada–Newfoundland and Labrador Atlantic Accord* and *Canada–Nova Scotia Offshore Petroleum Resources Accord*.
+
+However, **important context must be noted**: several key institutions and definitions referenced in the Act — including the *Commission*, *Chief Appeals Officer*, *Chief Screening Officer*, *President*, and *rule* — have been **repealed as of 2012 or 2019**. This suggests that the Act may be **outdated, incomplete, or superseded** by other legislation or administrative reforms. The current version appears to be a **draft, transitional, or partially enacted document**, with many structural elements missing or deleted.
+
+---
+
+## **Key Provisions and Detailed Summary**
+
+---
+
+### **1. Definitions**
+
+The Act begins with a list of definitions that clarify key terms used throughout:
+
+| Term | Meaning |
+|------|--------|
+| **CAS Registry Number** | A unique identifier assigned by the Chemical Abstracts Service (CAS) to a chemical substance. |
+| **Chemical Name** | A scientifically accurate name following IUPAC or CAS nomenclature rules; must clearly identify the material. |
+| **Hazardous Product** | As defined in *Section 2 of the Hazardous Products Act* — a product posing a health, safety, or environmental risk. |
+| **Label / Safety Data Sheet (SDS)** | As defined in the *Hazardous Products Act*, must meet regulatory requirements. |
+| **Confidential Business Information (CBI)** | Business information that is: (1) not publicly available; (2) protected by reasonable measures; and (3) has actual or potential economic value because its disclosure would cause material financial loss to the business or gain to competitors. |
+| **Supplier / Employer** | Defined under the *Hazardous Products Act* and *Canada Labour Code*, respectively. |
+| **Prescribed** | Means as set out in regulations. |
+
+> **Note**: The Act explicitly excludes certain provisions of regulations made under specific sections of the *Hazardous Products Act* (e.g., section 15(1)(j)) and the *Canada Labour Code* (e.g., section 125.2 and section 157), indicating a deliberate limitation on scope.
+
+---
+
+### **2. Exemption Claims for Suppliers and Employers**
+
+#### **Who Can Claim Exemption?**
+
+Any **supplier** or **employer** required by law (under the *Hazardous Products Act*, *Canada Labour Code*, or *Accord Act*) to disclose specific information may **claim exemption** if they believe the information constitutes **confidential business information**.
+
+#### **Types of Information Protected**
+
+The Act outlines **three categories** of information that may be claimed as CBI:
+
+---
+
+#### **A. For Hazardous Products (Substances or Mixtures)**
+
+- Chemical name of the material/substance  
+- CAS registry number or any other unique identifier  
+- Chemical name of **impurities, stabilizing solvents, or additives** that:
+  - Are present in the product  
+  - Contribute to its classification under a health hazard class (e.g., carcinogenic, toxic, corrosive)  
+- Name of any **toxicological study** used to assess the material or ingredient  
+
+> *Note*: This applies whether the substance is pure or part of a mixture.
+
+---
+
+#### **B. For Ingredients in Mixtures**
+
+- Chemical name of the ingredient  
+- CAS number or unique identifier  
+- **Concentration or concentration range** of the ingredient  
+
+> *Important*: This protects the exact formulation details of hazardous mixtures.
+
+---
+
+#### **C. For Identification Information**
+
+- Product identifier (chemical name, common name, generic name, trade name, brand name)  
+- Other information that constitutes a **means of identification**  
+- Information that could **identify the supplier** of the hazardous product  
+
+> *Purpose*: Prevents disclosure of proprietary or competitive identity details.
+
+---
+
+### **3. Requirements for Filing a Claim**
+
+A claim for exemption must:
+
+- Be submitted in **prescribed form**  
+- Be filed in **prescribed manner**  
+- Be accompanied by a **prescribed fee** or a fee calculated according to prescribed rules  
+- Include the following elements:
+  - The **information** for which exemption is claimed  
+  - A **declaration** stating:
+    - That the information is CBI meeting the legal criteria  
+    - That **substantiating evidence** is in the claimant’s possession or available upon request  
+  - A **summary of the substantiating information**  
+  - Any **other prescribed information**
+
+> *Note*: The claimant must provide the **safety data sheet (SDS)** or **label** associated with the information being claimed.
+
+---
+
+### **4. Review and Determination by the Minister**
+
+- The **Minister of Health** (the sole authority under this Act) must review each claim **as soon as feasible**, based on **prescribed criteria**.
+- If additional information is needed, the claimant must provide it in the manner and timeframe specified by the Minister.
+- The Minister must **notify the claimant in writing** of the decision and the **reasons** for it within a reasonable time.
+
+---
+
+### **5. Consequences of an Invalid Claim**
+
+If the Minister determines that a claim (or part of it) is **not valid**, they may issue an **order requiring** the claimant to:
+
+- Comply with the relevant provisions of:
+  - The *Hazardous Products Act*  
+  - The *Canada Labour Code*  
+  - The *Accord Act*  
+  (in the case of employers or suppliers)
+- Or **remove specific information** from the SDS or label
+
+> The claimant is **legally obligated** to comply with the order.
+
+> **Crucially**: If the claimant complies with the order, they are **deemed to have complied** with the relevant legal provisions **from the date the order is issued**.
+
+---
+
+### **6. Valid Claims and Exemption Periods**
+
+- If a claim is **valid after all judicial reviews and appeals are exhausted**, the claimant is **exempt** from disclosure for:
+  - **Three years**, beginning on the day **after** all appeals are exhausted.
+- This exemption applies **only to the specific information** claimed and **only during the exemption period**.
+
+> *Exception*: If the claim is invalid, the claimant **cannot file a new claim** regarding the same information.
+
+---
+
+### **7. Suspension or Cancellation of Exemptions**
+
+The Minister may **suspend or cancel** an exemption if:
+
+#### **For claims under subsection 19(1)** (exemption based on valid CBI):
+- The claim is found invalid  
+- The SDS or label does not comply with regulations  
+- The claimant violates the terms of the order (e.g., fails to comply with disclosure requirements)  
+- The claimant violates any provision of the relevant Act or order  
+- Prescribed circumstances apply  
+
+#### **For claims under subsection 19(2)** (exemption based on valid CBI, but with false/misleading information):
+- There is reasonable ground to believe the claim contained **false or misleading information**  
+- The claimant violates any provision of the Act or order  
+
+> **Effect of Suspension/Cancellation**:
+- Takes effect **on the day of written notification** to the claimant  
+- Claimant has **10 days** to provide reasons why the suspension/cancellation is unfounded  
+- If the reasons are valid, the Minister **must reinstate** the exemption
+
+> *Reinstatement applies only if the grounds for suspension/cancellation no longer exist or are proven unfounded.*
+
+---
+
+### **8. Disclosure Powers of the Minister (Public Interest Exceptions)**
+
+Even when information is considered CBI, the **Minister of Health** may disclose it **without consent** or advance notice under the following conditions:
+
+#### **A. Serious and Imminent Danger**
+- Disclosure is **necessary** to address a **serious and imminent threat** to human health, safety, or the environment.
+
+#### **B. Protection from Significant Risk**
+- Disclosure is made to:
+  - A **government** or a **person from whom the Minister seeks advice**  
+- The recipient must **agree in writing** to:
+  - Maintain confidentiality  
+  - Use the information **only for the purpose** of protecting health, safety, or the environment  
+- The Minister must **notify the claimant** before disclosure (except in emergency cases)
+
+#### **C. Emergency Medical Disclosure**
+- The Minister may disclose information to a **physician or prescribed medical professional** in an emergency for diagnosis or treatment.
+
+> **Post-disclosure requirement**:  
+> The Minister must **notify the claimant no later than the next business day** after disclosure (a "business day" = not Saturday or holiday).
+
+> **Confidentiality Obligation**:  
+> Recipients (government or private parties) must **not knowingly disclose** the information to any third party **except for the original purpose**.
+
+---
+
+### **9. Fee Remission**
+
+- The Minister may **remit

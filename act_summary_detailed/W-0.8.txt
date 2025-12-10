@@ -1,0 +1,176 @@
+**Detailed Summary of the *Wage Earner Protection Program Act***
+
+---
+
+### **Overview**
+
+The *Wage Earner Protection Program Act* (WEPPA) establishes a federal program designed to protect workers who have been employed by a company that becomes insolvent — such as through bankruptcy, receivership, or foreign insolvency proceedings. The Act ensures that eligible employees receive payment for **wages owed** to them, up to a statutory maximum, in cases where the employer is unable to meet its financial obligations.
+
+This legislation operates within the broader framework of Canada’s bankruptcy and insolvency laws, particularly the *Bankruptcy and Insolvency Act (BIA)* and the *Companies’ Creditors Arrangement Act (CCAA)*, and is administered by the **Canada Industrial Relations Board (CIRB)**, with oversight from the **Minister of Employment and Social Development**.
+
+---
+
+## **Key Provisions and Detailed Summary**
+
+---
+
+### **1. Title and Citation**
+- The Act is titled the **Wage Earner Protection Program Act** and may be cited as such.
+
+---
+
+### **2. Definitions**
+
+#### **Board**
+- Refers to the **Canada Industrial Relations Board (CIRB)**, established under Section 9 of the *Canada Labour Code*.  
+- The Board plays a central role in reviewing appeals and ensuring fair administration of the program.
+
+#### **Eligible Wages**
+This is a critical definition that determines what wages can be paid under the program.
+
+- **Eligible wages** include:
+  - **Wages earned during a specific period**, which is the **longer of two periods**:
+    1. The **six-month period ending on the date of bankruptcy or the first day a receiver is appointed**.
+    2. A **six-month period beginning six months before** one of the following key dates:
+      - Filing of a proposal (or notice of intention) under **Division I of Part III of the BIA**.
+      - Commencement of proceedings under the **Companies’ Creditors Arrangement Act (CCAA)**.
+      - A court’s determination under subsection 5(5) of the BIA.
+    - This second period runs from **six months before** the event to the date of bankruptcy or the end of the receiver’s duties.
+  - **Termination pay and severance pay** related to employment that ended during:
+    - The above six-month period, **or**
+    - The period immediately following that period (from the day after it ends until the **trustee is discharged or the receiver completes their duties**).
+
+> ⚠️ **Important Exclusion**: A proposal that has a **certificate under section 65.3 of the BIA** is **not considered** a valid proposal for purposes of triggering the program. Similarly, a notice of intention made in relation to such a proposal is excluded.
+
+#### **Wages**
+- Broadly defined to include:
+  - Salaries, commissions, compensation for services rendered
+  - Vacation pay
+  - Termination pay and severance pay
+  - Any other amounts prescribed by regulation
+
+#### **Trustee and Receiver**
+- **Trustee**: Includes a **monitor** under the CCAA (as defined in subsection 2(1) of the CCAA).
+- **Receiver**: Defined as a receiver under subsection 243(2) of the BIA.
+- An employer is considered to be in **receivership** when any of its property is under the control or possession of a receiver.
+
+> All words and expressions used in the Act have the same meaning as in the *Bankruptcy and Insolvency Act*, unless otherwise specified.
+
+---
+
+### **3. Eligibility for Payment**
+
+An individual may receive a payment under the program if **all of the following conditions are met**:
+
+#### **(a) Employment Ended for a Prescribed Reason**
+- As defined by regulation (e.g., termination, resignation, layoff).
+
+#### **(b) One of the Following Applies:**
+1. The former employer is **bankrupt**.
+2. The former employer is **subject to a receivership**.
+3. The employer is the subject of a **recognized foreign proceeding** under subsection 270(1) of the BIA, and:
+   - A court determines under subsection (2) that the foreign proceeding meets criteria prescribed by regulation.
+   - A **trustee is appointed** for the purposes of this Act.
+4. The employer is subject to:
+   - Proceedings under **Division I of Part III of the BIA**, or
+   - Proceedings under the **CCAA**, and
+   - A court determines under subsection (5) that the criteria prescribed by regulation are met.
+
+> ✅ **Key Provision**: If all conditions in (b)(iii) are met, the former employer is **deemed bankrupt**, and the **date of bankruptcy is deemed to be the day all conditions are satisfied**.
+
+#### **(c) The Individual is Owed Eligible Wages**
+- The individual must have a legitimate claim to eligible wages.
+
+> 🔍 **Note**: Payments are **only available for eligible wages earned in Canada**, and **only for termination/severance related to that employment**.
+
+---
+
+### **4. Exclusions from Eligibility**
+
+An individual is **not eligible** to receive a payment if they:
+
+- Were an **officer or director** of the former employer;
+- Had a **controlling interest** in the business of the former employer;
+- Occupied a **managerial position** with the employer;
+- Were **not dealing at arm’s length** with:
+  - An officer or director;
+  - A person with a controlling interest;
+  - A person in a managerial role.
+
+> 💡 **Arm’s Length Principle**:
+- If the Minister is satisfied, based on employment terms, remuneration, and work performed, that the individual would have entered into a **substantially similar contract** if dealing at arm’s length, they are considered to be dealing at arm’s length.
+- Conversely, **related individuals are presumed not to deal at arm’s length** while related — unless proven otherwise.
+
+---
+
+### **5. Maximum Amount of Payment**
+
+- The **maximum amount** payable under the Act is **seven times the maximum weekly insurable earnings (MWIE)** under the *Employment Insurance Act*.
+- This cap applies to **all eligible wages** combined.
+
+> ⚠️ **Reduction Clause**: In certain circumstances (prescribed by regulation), the payment may be reduced by amounts provided by regulation (e.g., if the employee received other benefits or compensation).
+
+> 📌 **Multiple Situations**: If more than one situation under (b) applies, the **greatest amount** determined under each situation is taken as the final amount.
+
+---
+
+### **6. Application and Approval Process**
+
+- Any individual must **apply to the Minister** in the manner and within the time frame specified in regulations.
+- Upon application, the **Minister determines eligibility**.
+- The Minister must:
+  - Inform the applicant of their **eligibility or ineligibility**.
+  - Inform the **trustee or receiver** of the decision.
+- An applicant may **request a review** of the decision under section 10.
+
+> ✅ **Minister’s Authority**: The Minister may **confirm, vary, or rescind** a determination. If varied, the Minister must make any resulting payment.
+
+> ❌ **Finality of Minister’s Decision**: Subject to appeal under section 14, the Minister’s decision is **final and not reviewable in court**.
+
+---
+
+### **7. Appeal to the Canada Industrial Relations Board (CIRB)**
+
+- Appeals are **only allowed on questions of law or jurisdiction**, not factual issues.
+- The Board is considered to consist of only the **Chairperson and Vice-Chairpersons**.
+- The Board may:
+  - Make regulations about **appeal timelines and procedures**.
+  - Assign a **member** or appoint an **external adjudicator** to hear the appeal.
+- The adjudicator has **all powers and duties of the Board**, except for the power to rule on jurisdictional questions (as per subsection 14(2)).
+- A decision by a member or adjudicator is **deemed a decision of the Board**.
+- Members and adjudicators are **immune from civil or criminal liability** for actions taken in good faith.
+- Adjudicators are paid **remuneration and fees** fixed by the Chairperson, plus **reasonable travel and living expenses**.
+
+> 📝 **Board’s Responsibilities**:
+- Must inform the Minister when an appeal is filed.
+- Provide the Minister with documents relied upon in the original decision.
+- Provide the Minister with documents filed in the appeal.
+- The Minister may submit written representations to the Board.
+
+> ⚖️ **Appeal on the Record**:
+- No **new evidence** is allowed.
+- The appeal is based solely on the record of the original decision.
+
+> ✅ **Board’s Powers**:
+- May **confirm, vary, or rescind** the Minister’s decision.
+- If varied, the **Minister must make the resulting payment**.
+
+> 📢 **Finality of Board Decision**:
+- The Board’s decision is **final and not reviewable in any court**.
+- No court can issue an injunction, prohibition, or review of the Board’s action.
+
+---
+
+### **8. Duties of Trustee or Receiver**
+
+The trustee or receiver is responsible for:
+
+- Identifying all individuals owed eligible wages.
+- Determining the amount owed to each.
+- Informing individuals (except those in a class prescribed by regulation) of:
+  - The existence of the program.
+  - The conditions for receiving payments.
+- Providing the **Minister and each individual** with:
+  - The amount of eligible wages owed.
+  - Any other information prescribed by regulation.
+- Informing the **

@@ -1,0 +1,172 @@
+**Detailed Summary of the Canada–Ireland Tax Convention Act, 2004**
+
+---
+
+### **1. Overview and Purpose**
+
+The *Canada–Ireland Tax Convention Act, 2004* establishes the legal framework in Canada for implementing the **Canada–Ireland Tax Convention**, a bilateral agreement designed to:
+
+- Avoid **double taxation** of income and capital gains;
+- Prevent **fiscal evasion**;
+- Provide clarity and consistency in tax treatment between Canada and Ireland for residents of either country.
+
+This Act enables the Convention to have full legal force in Canada and ensures its provisions take precedence over conflicting domestic laws, subject to certain limitations.
+
+---
+
+### **2. Key Definitions and Interpretations**
+
+#### **Convention**
+- The Convention is defined as the agreement between the Government of Canada and the Government of Ireland, detailed in the Schedule to the Act.
+- It is **approved and has the force of law in Canada** during the period it is in force under its own terms.
+
+#### **Precedence of Provisions**
+- In case of **inconsistency** between this Act, the Convention, and any other Canadian law, **this Act and the Convention prevail**.
+- If there is an inconsistency between the Convention and the *Income Tax Conventions Interpretation Act*, the latter **prevails**.
+
+#### **Regulations and Notifications**
+- The **Minister of National Revenue** may issue regulations to implement or give effect to the Convention.
+- The **Minister of Finance** must publish a notice in the *Canada Gazette* within 60 days of the Convention entering into force or terminating, specifying:
+  - The date it enters into force;
+  - The date it ceases to have effect.
+
+> **Note**: The Convention came into force on **April 12, 2005** (as published in *Canada Gazette*, Part I, Vol. 139, p. 2050).
+
+---
+
+### **3. Scope of the Convention**
+
+#### **Applicable Taxation**
+The Convention applies to:
+- **Canada**: Income taxes under the *Income Tax Act* (referred to as “Canadian tax”).
+- **Ireland**: Income tax, corporation tax, and capital gains tax (referred to as “Irish tax”).
+
+#### **Future Taxes**
+- The Convention also applies to any **identical or substantially similar taxes** introduced by either country **after the date of signature**.
+- The competent authorities (tax ministries) must **notify each other** of any significant changes in tax laws.
+
+---
+
+### **4. Definitions Used in the Convention**
+
+| Term | Definition |
+|------|-----------|
+| **Canada** | Includes territorial waters, the continental shelf, and seabed/subsoil rights under international law and Canadian law. Also includes airspace above such areas for resource exploration/development. |
+| **Ireland** | Includes areas designated under Irish law as parts of the continental shelf where Ireland may exercise rights over sea bed and subsoil resources. |
+| **Contracting State** | Either Canada or Ireland; “Contracting States” collectively refers to both. |
+| **Person** | Includes individuals, companies, trusts, and other bodies of persons. |
+| **Company** | Any body corporate or entity treated as such for tax purposes. |
+| **Enterprise** | Business carried on by a resident of a Contracting State. |
+| **International Traffic** | Voyages of ships or aircraft operated by a Contracting State for transport of passengers or goods, **except** when the principal purpose is to transport between places within the other Contracting State. |
+| **National** | - In Canada: Canadian citizens, legal persons formed under Canadian law.<br>- In Ireland: Irish citizens, legal persons formed under Irish law. |
+| **Tax** | Refers to Canadian or Irish tax as context requires. |
+| **Competent Authority** | - Canada: Minister of National Revenue or authorized representative.<br>- Ireland: Revenue Commissioners or authorized representative. |
+| **Approved Stock Exchange** | - Canada: Prescribed stock exchanges (as defined in the Income Tax Act).<br>- Ireland: Irish Stock Exchange or any other stock exchange agreed upon by the competent authorities. |
+
+> **General Rule**: Any term not defined in the Convention has the meaning it has under the domestic law of the relevant country for the purposes of the applicable taxes.
+
+---
+
+### **5. Residency Rules – Determining Who Is a Resident**
+
+Residency is critical in determining where income is taxed. The Convention provides a **multi-tiered hierarchy** to determine residency:
+
+#### **For Individuals**
+1. **Permanent Home**:  
+   - Individual is a resident only of the country where a permanent home is available.
+   - If available in both countries, the individual is deemed a resident of the country with **closer personal and economic ties** ("centre of vital interests").
+
+2. **If Centre of Vital Interests Cannot Be Determined**:  
+   - Resident is deemed to be a resident of the country where the individual has an **habitual abode**.
+
+3. **If Habitual Abode Exists in Both or Neither Countries**:  
+   - Resident is deemed to be a resident of the country of which the individual is a **national**.
+
+4. **If Individual is a National of Both or Neither**:  
+   - The **competent authorities** of Canada and Ireland must resolve the issue by **mutual agreement**.
+
+#### **For Non-Individual Entities (e.g., Companies)**
+- If a company is a resident of both countries:
+  - The competent authorities must **mutually agree** on which country it shall be considered a resident of.
+  - Factors considered: place of effective management, place of incorporation, and other relevant factors.
+- **In the absence of agreement**, the entity is **not entitled** to any tax relief or exemption under the Convention, except as may be agreed upon.
+
+> This ensures that entities are not treated as residents of both countries without clear, agreed-upon status.
+
+---
+
+### **6. Permanent Establishment (PE)**
+
+A **permanent establishment (PE)** is a fixed place of business through which an enterprise carries on business.
+
+#### **Examples of PE Include**:
+- Place of management
+- Branch
+- Office
+- Factory
+- Workshop
+- Mine, oil/gas well, quarry, or other natural resource extraction site
+
+#### **Exclusions (Not a PE)**:
+- Use of facilities for **storage, display, or delivery** of goods.
+- Maintenance of stock for **storage, display, or delivery**.
+- Stock maintained solely for **processing by another enterprise**.
+- Fixed place used only for **purchasing goods or collecting information**.
+- Fixed place used only for **preparatory or auxiliary activities**.
+
+> **Exception**: A fixed place is **not** a PE if its overall activity is preparatory or auxiliary.
+
+#### **Special Rule for Agents**
+- A person (not an independent agent) acting on behalf of an enterprise and having **authority to conclude contracts** in a Contracting State is deemed to have a PE in that State **for activities undertaken**.
+- **Exception**: If the activities are limited to those excluded above (e.g., purchasing, information collection), no PE is created.
+- **No PE** is created simply because a company uses a **broker, general commission agent, or independent agent** in the other country, **provided** such agents are acting in the ordinary course of business.
+
+#### **No PE from Control or Ownership**
+- Merely **controlling or being controlled** by a company in the other country, or carrying on business there, **does not** constitute a PE.
+
+---
+
+### **7. Taxation of Income from Immovable Property**
+
+#### **Applicability**
+- Income derived by a resident of a Contracting State from **immovable property** (including agricultural or forestry land) located in the other Contracting State may be taxed in that other State.
+
+#### **Definition of Immovable Property**
+- Includes:
+  - Land and buildings
+  - Property accessory to land
+  - Livestock and equipment used in agriculture/forestry
+  - Rights under land laws (e.g., usufruct)
+  - Rights to variable/fixed payments for working or mining natural resources
+- **Excludes**: Ships and aircraft
+
+#### **Scope of Income**
+- Applies to:
+  - Direct use, letting, or use of immovable property
+  - Alienation (sale) of such property
+- Also applies to:
+  - Income from immovable property of an enterprise
+  - Income from immovable property used for **independent personal services**
+
+> This allows the host country to tax income from property located within its borders, even if the owner is a resident of the other country.
+
+---
+
+### **8. Taxation of Enterprise Profits**
+
+#### **General Rule**
+- Profits of an enterprise are **taxable only in the State of residence** of the enterprise.
+- **Exception**: If the enterprise carries on business in the other country through a **permanent establishment**, then the profits **attributable to that PE** may be taxed in the other country.
+
+#### **Attribution of Profits to PE**
+- Profits attributed to a PE are those the PE **would earn if it were a separate, independent enterprise** engaged in the same or similar activities under the same conditions.
+- This is based on **arm’s length principles** and **economic reality**.
+
+#### **Deductions Allowed**
+- All expenses incurred for the PE (including executive and general administrative expenses) are deductible, whether incurred in the PE country or elsewhere.
+
+#### **Apportionment Methods**
+- A Contracting State may use **apportionment of total enterprise profits** to different parts (e.g., by location or activity), **provided** the method is consistent with the principles of this Article.
+- The apportionment must result in a fair outcome aligned with the principles of neutrality and equity.
+
+#### **Exclusions

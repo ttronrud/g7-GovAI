@@ -1,0 +1,157 @@
+**Detailed Summary of the *Financial Institutions Depositors Compensation Act* (Canada)**
+
+---
+
+### **Overview**
+The *Financial Institutions Depositors Compensation Act* (FIDCA) is a Canadian statute enacted on **December 20, 1985**, to provide a mechanism for compensating depositors in the event that certain financial institutions fail or become insolvent, particularly in the context of a historical gap in deposit insurance coverage prior to the establishment of the Canada Deposit Insurance Corporation (CDIC). The Act serves as a **de facto deposit insurance scheme** for specific financial institutions that were not covered under the CDIC Act at the time of enactment.
+
+It applies specifically to **Canadian Commercial Bank (CCB)**, **CCB Mortgage Investment Corporation (CCBMIC)**, and **Northland Bank**, and provides a **compensation framework** for depositors whose funds were held in these institutions before September 2, 1985 — a period when the CDIC did not cover deposits in these entities.
+
+---
+
+## **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Deposit** | The unpaid balance of moneys received or held by a financial institution from a person, including interest, for which the institution has given or is obligated to give credit, issued a receipt, or is primarily liable. A deposit includes instruments like cheques, drafts, traveller’s cheques, money orders, and prepaid letters of credit. It must be repayable on demand or within a specified time. |
+| **Depositor** | A person whose account has been or is to be credited with moneys constituting a deposit, or to whom the financial institution is liable for such moneys. Includes persons with legal or equitable rights in respect of the deposit. |
+| **Financial Institution** | Specifically defined as: <br> - Canadian Commercial Bank (CCB) <br> - CCB Mortgage Investment Corporation (CCBMIC) <br> - Northland Bank |
+| **Liquidator** | A person appointed under the *Winding-up Act* or as a *curator* under the *Bank Act* to manage the affairs of a failing financial institution. |
+| **Minister** | Refers to the **Minister of Finance**. |
+| **Person** | Includes associations and governments. |
+| **Prescribed** | Means as set out in regulations made under this Act. |
+| **Security Interest** | A right or interest in a deposit that secures payment or performance of an obligation owed by the depositor to the financial institution. |
+
+---
+
+## **Core Provisions and Purpose**
+
+### **1. Compensation for Depositors (Section 3)**
+- The **Minister of Finance** may pay a depositor an amount equal to:
+  - The portion of their deposit held by a financial institution **immediately before September 2, 1985**, including any accrued or payable interest.
+  - Only the amount that the depositor is **entitled to** and that was **not insured** by the CDIC under the *Canada Deposit Insurance Corporation Act*.
+- Payment is subject to:
+  - A formal application submitted in the **prescribed form and manner**.
+  - The Minister’s determination — or that of an agent appointed under subsection 12(1) — that the depositor is entitled to the amount and that it was uninsured.
+
+> ✅ **Purpose**: To compensate depositors for uninsured deposits in the targeted institutions prior to the CDIC's full implementation.
+
+---
+
+### **2. Set-Off Rights in Cases of Debt (Section 4)**
+- If a depositor is **indebted** to the financial institution, and a **liquidator** has applied to the Minister:
+  - The depositor has been **notified** of the liquidator’s application.
+  - A **right of set-off** exists between the deposit and the obligation (e.g., a loan or overdraft).
+- Then, the Minister may pay the **amount due to the liquidator** (instead of the depositor), **to the extent of the set-off**.
+- This payment **discharges the depositor’s obligation** to the financial institution for that amount.
+
+> ✅ **Purpose**: To prevent double recovery and to ensure that debts owed by depositors are settled through set-off, rather than direct compensation.
+
+---
+
+### **3. Security Interests and Set-Off (Section 5)**
+- If a deposit was **subject to a security interest** (e.g., a loan secured by the deposit) and a set-off exists:
+  - **No payment** can be made under this Act **unless** the Minister or its agent is satisfied that:
+    - The deposit (or part of it) has been **applied** to reduce or extinguish the underlying obligation.
+    - The amount of the deposit has been **reduced accordingly**.
+- The security interest takes priority in the use of the deposit to satisfy the obligation.
+
+> ✅ **Purpose**: To protect creditors with security interests and ensure that such obligations are not compromised by compensation payments.
+
+---
+
+### **4. Dispute Resolution Mechanism (Section 6)**
+- In cases of **uncertainty** about:
+  - Whether Section 3 applies,
+  - The amount of the deposit subject to a security interest,
+  - The amount of a set-off,
+- Any party (Minister, depositor, or liquidator) may apply to a **court of competent jurisdiction** in Canada for a determination.
+
+> ✅ **Purpose**: To provide a legal avenue for resolving disputes over eligibility and the scope of compensation.
+
+---
+
+### **5. Court Application for Set-Off (Section 7)**
+- If a payment cannot be made due to a security interest, a depositor or liquidator may apply to court for an **order** that:
+  - The deposit or part of it be applied to reduce or extinguish the security interest.
+  - The amount of the deposit be reduced accordingly.
+
+> ✅ **Purpose**: To enforce the priority of security interests in the event of a compensation claim.
+
+---
+
+### **6. Dispute Between Claimants (Section 8)**
+- If **two or more claimants** dispute eligibility or the amount of compensation:
+  - The Minister may **pay the amount into court** pending resolution of the dispute.
+- This ensures that compensation is not delayed due to internal disputes.
+
+> ✅ **Purpose**: To maintain financial stability and prevent prolonged litigation during a crisis.
+
+---
+
+### **7. Payment Timeline (Section 9)**
+- **60%** of the compensation is paid **immediately** upon approval.
+- The remaining **40%** is paid on **April 1, 1986**.
+
+> ✅ **Purpose**: To ensure timely compensation while allowing time for administrative review and verification.
+
+---
+
+### **8. Payment Where Information is Incomplete (Section 10)**
+- If there is **insufficient information** to determine eligibility or payment amount:
+  - Payment may be made **once the necessary information becomes available**.
+- This allows for flexibility in cases where documentation is missing or incomplete.
+
+> ✅ **Purpose**: To avoid denial of compensation due to administrative delays.
+
+---
+
+### **9. Deadline for Applications (Section 11)**
+- **No payment may be made** unless the application is received **prior to April 1, 1986**.
+- This establishes a clear deadline for claims.
+
+> ✅ **Purpose**: To ensure timely processing and prevent claims from being submitted too late.
+
+---
+
+### **10. Discharge of Liability and Assignment of Rights (Section 12)**
+- Once a payment is made:
+  - The **Minister and any agent** are **discharged from all liability** regarding that deposit.
+  - The **rights and interests** of the depositor (including claims, actions, causes of action, and priority rights under the Bank Act or Canadian Payments Association Act) are **assigned to and vest in Her Majesty in right of Canada**.
+- This assignment:
+  - Does **not create a first charge** on the financial institution’s assets under paragraph 277(1)(a) of the *Bank Act*.
+  - Does **not affect any subrogation or assignment** of rights under section 13 of the *CDIC Act*.
+
+> ✅ **Purpose**: To transfer ownership of claims to the Crown, enabling the government to manage or pursue rights without creating new liabilities or affecting creditor priorities.
+
+---
+
+### **11. Prohibition on Set-Off After Compensation (Section 13)**
+- **No right of set-off** may be asserted with respect to a deposit **after** a payment has been made under this Act.
+
+> ✅ **Purpose**: To prevent depositors from offsetting future liabilities against already-compensated deposits.
+
+---
+
+### **12. Tax Exemption (Section 14)**
+- **Subsection 137.1(10) of the Income Tax Act** (which normally applies to interest income) **does not apply** to payments made under this Act.
+
+> ✅ **Purpose**: To ensure that compensation payments are not treated as taxable income.
+
+---
+
+### **13. Minister’s Powers (Section 15)**
+- The Minister may:
+  - Do any acts necessary to carry out the Act.
+  - Enter into **agreements or arrangements**, including:
+    - Appointing an **agent** to assist in processing claims.
+    - Paying agents for costs incurred.
+
+> ✅ **Purpose**: To provide administrative flexibility in managing claims and operations.
+
+---
+
+### **14. Role of the Canada Deposit Insurance Corporation (CDIC) as Agent (Section 16)**
+- The CDIC may enter into an agreement to act as an **agent of Her Majesty** under this Act.
+- If such an agreement is in place:
+  - The

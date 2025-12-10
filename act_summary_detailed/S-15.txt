@@ -1,0 +1,131 @@
+The **Special Import Measures Act** (SIMA) is a comprehensive piece of Canadian legislation that establishes the legal framework for investigating and addressing **dumping** and **subsidizing** of imported goods that may harm Canada’s domestic industries. The Act is designed to ensure fair trade practices in accordance with international trade obligations, particularly under the **World Trade Organization (WTO)** and the **Subsidies and Countervailing Measures Agreement (Subsidies Agreement)**, which is part of the WTO Agreement on Subsidies and Countervailing Measures.
+
+Below is a **detailed, structured summary** of the Act, including definitions, key provisions, and their implications.
+
+---
+
+## 🔍 OVERVIEW OF THE ACT
+
+### **Name and Citation**
+- The Act is officially titled: **The Special Import Measures Act**.
+- It may be cited as **S.I.M.A.** (Special Import Measures Act).
+
+### **Purpose**
+To enable Canada to:
+- Investigate and respond to **dumping** (selling goods below normal value) and **subsidizing** (government financial support for exports),
+- Impose **countervailing duties** or **anti-dumping duties** when such practices cause or threaten material injury to a Canadian domestic industry,
+- Ensure compliance with international trade rules, especially under the **WTO Subsidies Agreement** and the **Canada–United States–Mexico Agreement (CUSMA)**.
+
+---
+
+## 📚 KEY DEFINITIONS (CRITICAL TO UNDERSTANDING THE ACT)
+
+| Term | Meaning & Context |
+|------|-------------------|
+| **Amount of Subsidy** | Determined under **Section 30.4**; refers to the financial benefit conferred by a government on producers or exporters. |
+| **Arbitration Body** | Refers to the **arbitration body under Article 8.5 of the Subsidies Agreement**; used to resolve disputes between parties regarding subsidy determinations. |
+| **Canada–United States–Mexico Agreement (CUSMA)** | Defined under the **CUSMA Implementation Act**; governs trade relations among Canada, the U.S., and Mexico. |
+| **Canadian Secretary** | - When **Part I.1** is in force: Secretary under the **CUSMA Implementation Act**<br>- When **Part II** is in force: Secretary appointed under **section 77.24(1)**. |
+| **Committee** | The **Committee on Subsidies and Countervailing Measures** established under **Article 24 of the Subsidies Agreement**; advises on subsidy-related matters. |
+| **Country** | Includes external territories, dependent territories, and any territory prescribed by **Governor in Council regulation**. Excludes customs unions for dumping proceedings. |
+| **Country of Export** | For dumped goods: the country from which goods were shipped directly to Canada or would be under normal trade conditions. For subsidized goods: the country where the subsidy originated. |
+| **CUSMA Country** | A country other than Canada that is a party to CUSMA. |
+| **Government** | Refers to federal, provincial, state, municipal, or regional governments, or any entity acting under their authority. Also includes intergovernmental associations. |
+| **Government of a CUSMA Country** | A prescribed department, agency, or body within that country. |
+| **Importer** | The person who is in reality the importer of goods (not just a legal entity). |
+| **Injury** | Material injury to a domestic industry — a serious and measurable harm to production, sales, or market share. |
+| **Insignificant / Negligible** | - Margin of dumping <2% of export price<br>- Amount of subsidy <1% of export price<br>- Volume of goods <3% of total volume released into Canada, unless three or more countries together exceed 7% — then no individual country is negligible. |
+| **Like Goods** | Goods that are identical, or whose uses and characteristics closely resemble those of another good. |
+| **Margin of Dumping** | The difference between the **normal value** and **export price** of goods. |
+| **Non-Actionable Subsidy** | Subsidies that do not trigger investigation due to specific exemptions, such as: <br>• Industrial research assistance<br>• Pre-competitive development<br>• Assistance to disadvantaged regions<br>• Environmental adaptation<br>• Higher education/research support<br>• Domestic support measures for agricultural products listed in Annex 1 of the WTO Agreement, compliant with Annex 2. |
+| **Normal Value** | Determined under **Sections 15–23 and 29–30**; typically based on production cost, selling price, or resale price. |
+| **Provisional Duty** | A temporary duty imposed under **Section 8** while an investigation is ongoing. |
+| **Properly Documented Complaint** | Must: <br>• Allege dumping/subsidizing and injury/retardation<br>• Provide reasonable detail on facts<br>• Include available supporting information and information prescribed by the President. |
+| **Release** | Authorization to remove goods from customs offices, bonded warehouses, or duty-free shops for use in Canada. |
+| **Retardation** | Material delay in establishing or expanding a domestic industry. |
+| **Sale** | Includes leasing, renting, irrevocable tenders, or agreements to sell/lease. |
+| **Scope Ruling** | A ruling under **subsection 66(1)** determining whether certain goods are subject to a countervailing duty, tribunal order, or suspended undertaking. |
+| **Tribunal** | The **Canadian International Trade Tribunal (CITT)** established under the **Canadian International Trade Tribunal Act**. |
+| **Undertaking** | A written commitment by an exporter or government to: <br>• Revise export prices or stop dumping<br>• Eliminate or limit subsidies or export volumes<br>• Cease or reduce the subsidy effect on Canadian production. |
+| **United States Government** | A prescribed department, agency, or body of the U.S. federal government. |
+| **WTO Agreement** | Defined under the **World Trade Organization Agreement Implementation Act**. |
+
+---
+
+## 🔧 STRUCTURAL AND PROCEDURAL FEATURES
+
+### 1. **Domestic Industry Definition**
+- Refers to **domestic producers** of like goods.
+- A domestic industry is defined as:
+  - The **collective production** of domestic producers of like goods,
+  - Or a **major proportion** of total domestic production.
+- **Exception**: If a domestic producer is related to an exporter or importer of dumped/subsidized goods, the industry may be interpreted as the **"rest" of the producers** (to prevent self-protection).
+- **Relatedness** is determined if:
+  - The producer controls or is controlled by the exporter/importer,
+  - They are jointly controlled by a third party,
+  - Or they jointly control a third party,
+  - And there is evidence they treat the exporter/importer differently from unrelated producers.
+
+> This prevents "domestic producers" from being used to shield themselves from competition.
+
+---
+
+### 2. **Dumping and Subsidy Definitions**
+
+#### **Dumping**
+- Occurs when the **export price** of goods is **below the normal value**.
+- The **margin of dumping** is the difference between normal value and export price.
+- If the margin is **less than 2%**, it is considered **insignificant** and not actionable.
+
+#### **Subsidy**
+- A **financial contribution** by a government (other than Canada) that confers a benefit on producers/exporters.
+- **Excluded** from definition:
+  - Duty or internal tax exemptions (e.g., remissions, refunds, drawbacks),
+  - Energy/fuel used in production (if exempted),
+  - Goods incorporated into exports (if exempted),
+  - Price/income support under Article XVI of the GATT (WTO).
+- **Prohibited subsidies**:
+  - Any **export subsidy**,
+  - Any subsidy contingent on the use of goods produced or originating in the country of export.
+
+> Subsidies are only actionable if they are **specific** (i.e., targeted at a particular product or producer) and not exempted.
+
+---
+
+### 3. **Non-Actionable Subsidies**
+Certain subsidies are **exempt from investigation** under the Act because they are considered **non-distorting** or **non-competitive**:
+- Industrial research and development
+- Pre-competitive development
+- Regional development assistance
+- Environmental adaptation
+- University/research institution support
+- Agricultural support under WTO Annex 1A (if compliant with Annex 2)
+
+> These remain protected under international trade rules and do not trigger anti-dumping or countervailing duties.
+
+> ⚠️ **Note**: Agricultural domestic support measures cease to be non-actionable when the **implementation period** under the WTO Agreement on Agriculture expires.
+
+---
+
+### 4. **Threat of Injury and Foreseeability**
+- Dumping or subsidizing **must be clearly foreseen and imminent** to constitute a threat of injury.
+- A mere possibility or future risk is not sufficient.
+- This ensures that measures are only applied when there is a **real and present danger** to domestic industries.
+
+---
+
+### 5. **Procedural Safeguards**
+
+#### **Properly Documented Complaint**
+A complaint must:
+- Clearly allege dumping or subsidizing,
+- Specify the goods and link to injury or retardation,
+- Provide reasonable detail on facts,
+- Include all relevant information (prescribed or otherwise).
+
+#### **Provisional Duty**
+- Can be imposed under **Section 8** during investigation to prevent harm.
+- Serves as a temporary remedy until a final decision is made.
+
+#### **Tribunal Role**
+- The **

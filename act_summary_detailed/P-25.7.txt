@@ -1,0 +1,174 @@
+**Detailed Summary of the *Protection of Residential Mortgage or Hypothecary Insurance Act***
+
+---
+
+### **Overview of the Act**
+
+The *Protection of Residential Mortgage or Hypothecary Insurance Act* (the "Act") is a Canadian legislative instrument designed to **protect homeowners and stabilize the housing finance system** by ensuring that mortgage or hypothecary insurance policies — particularly those issued by approved insurers — remain viable even in the event of financial distress or insolvency of the insurer. The Act establishes a framework for **government-backed protection** of policyholders and lenders in cases where an insurer fails, thereby supporting market confidence and financial system stability.
+
+The core objective is to **mitigate systemic risks** arising from the failure of mortgage insurers, especially during economic downturns or financial crises, while maintaining the integrity and efficiency of the housing market.
+
+---
+
+## **Key Definitions**
+
+The Act begins with a comprehensive list of key definitions that shape its application:
+
+| Term | Meaning |
+|------|--------|
+| **Approved Mortgage Insurer** | A mortgage insurer designated by the Minister under Section 4, approved to sell mortgage/hypothecary insurance in Canada. |
+| **Company** | Refers specifically to three entities: Canada Guaranty, Genworth Financial Canada, PMI Mortgage Insurance Canada, or any successor. These are the primary insurers covered. |
+| **Court** | Specifies the relevant provincial or territorial trial courts depending on jurisdiction (e.g., Superior Court of Justice in Ontario, Supreme Court of the province in Quebec). |
+| **Eligible Mortgage Loan** | A mortgage or hypothecary loan that meets criteria established by regulations under subsection 42(1). This defines which loans are eligible for insurance protection. |
+| **Her Majesty** | Refers to the Crown of Canada, representing the state as the entity exposed to financial risk. |
+| **Liquidator** | A court-appointed official under insolvency or bankruptcy legislation (e.g., Winding-up and Restructuring Act). |
+| **Minister** | The Minister of Finance, responsible for overseeing the Act's implementation. |
+| **Mortgage Insurer** | A corporation registered under the *Insurance Companies Act* and approved by the Superintendent to offer mortgage insurance. |
+| **Policy** | A written insurance contract (in one or more documents) between an approved mortgage insurer and a qualified mortgage lender. |
+| **Prescribed** | Means as defined in regulations made under Section 41. |
+| **Qualified Mortgage Lender** | A lender designated by an approved mortgage insurer under Section 10. |
+| **Superintendent** | The head of the Office of the Superintendent of Financial Institutions (OSFI), responsible for financial oversight. |
+| **Winding-up Order** | A court order initiating insolvency proceedings against a company. |
+
+---
+
+## **Purposes of the Act**
+
+1. **To provide protection** for certain mortgage insurance contracts to:
+   - Support the efficient functioning of the housing finance market.
+   - Ensure financial stability in Canada.
+
+2. **To mitigate risks** associated with the provision of such protection — particularly to Her Majesty (the Crown) — arising from insurer failures or insolvency.
+
+---
+
+## **Designation and Oversight of Approved Mortgage Insurers**
+
+### **Designation Process**
+- The **Minister of Finance** may designate a mortgage insurer as an **approved mortgage insurer** upon written request from the insurer.
+- The designation is **subject to consultation with the Superintendent of Financial Institutions**.
+- The duration of the designation is **set by the Minister** and can be renewed.
+
+### **Suspension of Designation**
+- The Minister may **suspend** an approved insurer’s designation if it fails to comply with the Act or regulations.
+- Suspension must be **notified in writing**, specifying:
+  - Effective date
+  - Duration
+- During suspension:
+  - The insurer **cannot issue new policies**.
+  - It remains **subject to all provisions of the Act and regulations**.
+  - Must comply with any conditions or undertakings imposed by the Minister.
+
+### **Cancellation of Designation**
+- The Minister may cancel a designation if:
+  1. The insurer fails to comply with the Act or regulations;
+  2. A **winding-up order** is made against the insurer;
+  3. The insurer **ceases to be a mortgage insurer**; or
+  4. The insurer **requests cancellation in writing**.
+- Notification must include the **effective date of cancellation**.
+- The cancellation must be **published in the Canada Gazette** as soon as feasible.
+
+> **Post-Cancellation Obligations**:
+> - For as long as the Minister has **actual or potential obligations** under Section 16 (payments to beneficiaries), the insurer remains subject to:
+>   - Sections 8 and 15
+>   - Related regulations
+>   - Conditions and undertakings imposed by the Minister
+> - This applies even to companies that **have never been designated** as approved mortgage insurers — if they entered into contracts that could be deemed policies under Section 19.
+
+---
+
+## **Capital and Risk Mitigation Requirements**
+
+To protect Her Majesty from financial exposure, approved mortgage insurers must maintain **adequate capital** beyond the minimum required under the *Insurance Companies Act*.
+
+- The **adequate level of capital** is determined by the Minister, **after consulting with the Superintendent**.
+- Insurers must **pay fees** to the Receiver General to compensate Her Majesty for risks arising from the insurance protection.
+
+---
+
+## **Designation of Qualified Mortgage Lenders**
+
+- Approved mortgage insurers may **designate mortgage lenders** as **qualified mortgage lenders** if they meet **prescribed criteria**.
+- Designations are valid for a period set by the insurer.
+- The insurer may **cancel a designation** with notice stating the effective date.
+
+> **Key Restriction**:
+> - An approved mortgage insurer **may not insure any risk** unless:
+>   - The loan is an **eligible mortgage loan**;
+>   - It was made by a **qualified mortgage lender** designated by the insurer.
+
+---
+
+## **Prohibitions on Reinsurance and Affiliations**
+
+- Insurers **may not reinsure** any risk they have undertaken under their policies.
+- They **may not reinsure** risks assumed by other insurers.
+- Before establishing or acquiring a **subsidiary**, an approved mortgage insurer must obtain **Ministerial approval**.
+- The insurer must comply with any **conditions or undertakings** imposed by the Minister regarding:
+  - **Affiliates** (as defined in the Insurance Companies Act)
+  - **Related parties** (under Section 518 of the Insurance Companies Act)
+  - **Prescribed relationships** with the insurer
+
+> The Minister may impose such conditions **if he or she believes** the activities of these entities could **materially increase risks** to Her Majesty.
+
+---
+
+## **Prohibited Transactions**
+
+- An approved mortgage insurer **must not be a party to a policy** where the beneficiary is:
+  - An affiliate, related party, or entity in a prescribed relationship with the insurer.
+
+> This prevents self-insurance or conflicts of interest.
+
+---
+
+## **Recordkeeping and Information Disclosure**
+
+- Insurers must **retain books, records, and information** relevant to the Act or prescribed by regulation.
+- Upon request from the **Minister or Superintendent**, insurers must provide such records **without delay**.
+- The Minister and Superintendent may **share information** with:
+  - Governor of the Bank of Canada
+  - CEO of Canada Deposit Insurance Corporation (CDIC)
+  - Commissioner of the Financial Consumer Agency of Canada (FCAC)
+- The Minister may disclose **conditions and undertakings** imposed under the Act.
+
+> Insurers must also **make prescribed books, records, and information publicly available**.
+
+---
+
+## **Protection in the Event of Insolvency (Section 16)**
+
+This is the **core protective mechanism** of the Act.
+
+### **Triggering Events**
+- A **winding-up order** is made against a corporation that:
+  - Previously issued a policy to a qualified mortgage lender in respect of an **eligible mortgage loan**.
+- The policyholder or beneficiary makes a claim to the **liquidator** that is **related to the policy**.
+- The liquidator **allows the claim** and determines it will **not be paid in full**.
+
+> If the insured event (e.g., default) occurred **before** these conditions are met:
+> - The **Minister must pay** the beneficiary from the **Consolidated Revenue Fund**.
+>   - Payment amount =  
+>     `(Total amounts payable to beneficiary before winding-up)`  
+>     − `(Amounts already received by beneficiary)`  
+>     + `(10% of original principal amount of first eligible mortgage loan)`  
+
+> If the insured event **did not occur** before the winding-up:
+> - The Minister may choose to:
+>   1. **Pay an approved mortgage insurer or the Canada Mortgage and Housing Corporation (CMHC)** to allow it to enter into a new policy (replacing the original one), **with the policyholder’s consent**; or  
+>   2. **Satisfy future claims** that may arise from the occurrence of the insured event.
+
+> Note:  
+> - If the Minister makes a payment under (1), **no further payment** is required under this section.  
+> - A payment under (2) does **not preclude** a payment under (1).
+
+---
+
+## **Deemed Policies and Retroactive Application**
+
+### **1. Non-Eligible Loans That Were Believed to Be Eligible**
+- A contract of insurance for a **non-eligible mortgage loan** is **deemed to be a policy for an eligible loan** if:
+  - The insurer and lender **believed** the loan was eligible.
+  - The ineligibility was **not due to negligence or bad faith**.
+
+### **2.

@@ -1,0 +1,147 @@
+**Detailed Summary of the *Select Luxury Items Tax Act***
+
+---
+
+### **Overview**
+
+The *Select Luxury Items Tax Act* (SLITA) is a Canadian federal tax legislation introduced to impose a **tax on the sale or transfer of specific luxury items**—specifically, **subject aircraft, subject vehicles, and subject vessels**—that meet certain criteria related to size, use, and date of manufacture. The Act targets high-end, personal-use luxury goods, aiming to generate revenue while ensuring equitable taxation of non-essential, high-value assets.
+
+This Act applies to transactions involving these "subject items" and establishes detailed definitions, rules for when a sale is deemed to occur, valuation methods, exemptions, and administrative procedures. It also includes provisions for related parties, record-keeping, and enforcement.
+
+---
+
+## **Key Components of the Act**
+
+---
+
+### **1. Definitions (Core Terminology)**
+
+The Act provides comprehensive definitions to ensure clarity and consistency in interpretation:
+
+| Term | Meaning |
+|------|--------|
+| **Assessment** | Refers to any evaluation or reassessment of tax liability under the Act. |
+| **Bank** | A Canadian or authorized foreign bank not subject to restrictions under the Bank Act (e.g., no restrictions under subsection 524(2)). |
+| **Calendar Quarter** | A three-month period starting on January 1, April 1, July 1, or October 1. Used for reporting and compliance timelines. |
+| **Commissioner** | The Commissioner of Revenue (Canada Revenue Agency) unless otherwise specified (e.g., in sections 80–81 or specific enforcement contexts). |
+| **Common-law Partner** | Defined under the Income Tax Act; applies to partnerships for tax purposes. |
+| **Confirmed Delivery Service** | Certified mail or any service that provides verifiable proof of delivery (e.g., email confirmation, courier logs). |
+| **Consideration** | Includes any amount payable by operation of law (e.g., inheritance, court orders). |
+| **Credit Union** | As defined in subsection 137(6) of the Income Tax Act. |
+| **Export / Import** | Clear definitions: export means leaving Canada; import means entering Canada. |
+| **Government Entity** | Broad category including federal/provincial departments, municipalities, aboriginal governments, and entities with administrative/regulatory functions. |
+| **Guest** | An individual who uses or enjoys a subject item without arm’s-length consideration, such as employees, invited users, or those using it for free or nominal fees. |
+| **Identification Number** | A unique number assigned by the Minister to identify a subject item for tax purposes. |
+| **Officer** | Includes individuals enforcing the Act, and in customs contexts, officers under the *Customs Act*. |
+| **Passenger Seat** | Any seat on an aircraft other than a pilot seat. Includes flight engineer or observer seats. |
+| **Person** | Encompasses individuals, partnerships, corporations, estates, trusts, joint ventures, and organizations. |
+| **Personal Representative** | Executor, administrator, or liquidator of a deceased person’s estate. |
+| **Pilot Seat** | Includes flight engineer or flight deck observer seats. |
+| **Police Authority** | Includes RCMP, provincial police, municipal police, or government bodies responsible for public order. |
+| **Prescribed** | Refers to rules or forms authorized, specified, or regulated by the Minister. |
+| **Qualifying Aircraft User** | Entities with specific public or emergency service roles (e.g., government, police, hospitals, airports, NAV CANADA). |
+| **Record** | Any material (digital or physical) that contains information and can be read or interpreted. |
+| **Registered Vendor** | A person registered under Division 5 of the Act as a vendor of a specific type of subject item. |
+| **Select Subject Vessel** | A vessel with sleeping amenities (beds, berths), or a prescribed vessel. |
+| **Subject Aircraft** | Aircraft manufactured after 2018 with limited seating capacity (≤39 passenger seats excluding pilot seats), excluding military or cargo-only aircraft. |
+| **Subject Vehicle** | Motor vehicles with ≤10 passenger seats, ≤3,856 kg gross weight, designed for highway use, manufactured after 2018, and not used for emergency or recreational purposes (e.g., RVs). |
+| **Subject Vessel** | Leisure or recreational vessels manufactured after 2018, excluding commercial fishing, ferrying, or floating homes. |
+| **Tax** | The tax payable under the Act, except in specific sections (e.g., 15, 16, 18(2)(a)(iv), 42(1)(b)). |
+| **Vessel** | Any boat, ship, or craft designed for navigation on or over water. |
+
+> These definitions form the foundation for interpreting the scope and application of the tax.
+
+---
+
+### **2. Residency and Jurisdictional Rules**
+
+To determine tax liability, the Act defines **residency** for various types of persons:
+
+- **Corporation**: Resident if incorporated or continued in Canada and not elsewhere.
+- **Partnership/Joint Venture/Unincorporated Organization**: Resident if majority of members or participants are resident in Canada.
+- **Labour Union**: Resident if carrying out activities in Canada and has a local branch.
+- **Individual**: Resident if deemed so under Income Tax Act paragraphs 250(1)(b) to (f).
+
+These residency rules are critical for determining where tax is applied and whether a transaction is subject to the Act.
+
+---
+
+### **3. Related and Associated Persons**
+
+The Act introduces key concepts of **relatedness** and **association**, which affect how transactions are interpreted:
+
+- **Related Persons** and **Associated Persons** are deemed **not to deal at arm’s length**.
+- It is a **question of fact** whether unrelated parties are dealing at arm’s length.
+- **Relatedness** is defined under Income Tax Act subsections 251(2) to (6), with modifications:
+  - "Corporation" includes **corporations or partnerships**.
+  - "Shares" refers to **rights in a partnership or partners**.
+- A **member of a partnership is deemed related to the partnership**.
+- A **corporation is associated** with another if they are associated under Income Tax Act subsections 256(1)–(6).
+- A **non-corporate person is associated** with a corporation if the corporation is controlled by that person or a group of persons who are mutually associated.
+- A person is associated with:
+  - A **partnership** if they (and associated persons) collectively hold more than half of its profits.
+  - A **trust** if they (and associated persons) collectively hold more than half of its total value.
+
+> These provisions prevent tax avoidance through artificial structuring or shifting of ownership between related parties.
+
+---
+
+### **4. Sale and Transfer of Subject Items**
+
+#### **When a Sale Is Completed**
+Under the Act, a sale of a subject item is completed at the **earlier of**:
+1. Transfer of **possession** to the purchaser; or  
+2. Transfer of **ownership** to the purchaser.
+
+> This rule ensures tax is triggered at the time of actual delivery or transfer, not later.
+
+#### **Exception – Prescribed Time**
+If prescribed conditions exist (e.g., secured loan), the sale may be deemed completed at a **prescribed time**.
+
+#### **Deemed Sale (Non-Sale Transfers)**
+If ownership is transferred **without a sale** (e.g., via security agreement), the following applies:
+- The transfer is **not** a sale.
+- The transferee is **not** deemed to be an owner.
+- Upon repayment or forgiveness of the debt, **re-transfer** is not treated as a sale.
+
+> This prevents double taxation on secured transactions.
+
+#### **Deemed Sale in Non-Sale Transactions**
+If ownership is transferred in any manner other than a sale (e.g., gift, lease, barter), and the item is delivered in Canada:
+- The **original owner is deemed to have sold** the item.
+- The **original owner is the vendor**; the recipient is the **purchaser**.
+- The sale is deemed completed at the earlier of possession or ownership transfer.
+- The **value of consideration** is:
+  - The **retail value** of the subject item at the time of sale (as determined under paragraph (c)), **plus**
+  - A **prescribed amount** (e.g., a fixed fee or margin).
+
+> This ensures that even non-market transactions (e.g., gifts, leases) are taxed as if they were sales.
+
+---
+
+### **5. Improvements to Subject Items**
+
+An **improvement** in respect of a subject item includes:
+- Installation of **tangible personal property** (e.g., furniture, electronics) on or affixed to the item.
+- A **service** that physically modifies the item (e.g., custom paint, engine upgrades).
+- A **prescribed property or service** (as defined by regulation).
+
+> However, the following are **excluded** from being considered improvements:
+- Routine **repairs, cleaning, or maintenance**.
+- Provision of **tangible personal property to replace** another part of the item.
+
+> This ensures that only significant, value-added modifications are taxed.
+
+---
+
+### **6. Exclusions and Exceptions**
+
+The Act explicitly **excludes** certain items from being considered "subject items":
+
+#### **Excluded Subject Aircraft**
+- Aircraft designed and equipped for **military activities**.
+- Aircraft equipped **solely for carrying goods**.
+- Aircraft registered **before September 2022** with a government, where the user had possession before that date.
+
+#### **Excluded Subject Vehicles**
+-

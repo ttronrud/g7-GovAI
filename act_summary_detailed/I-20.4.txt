@@ -1,0 +1,189 @@
+### **Detailed Summary of the *International Sale of Goods Contracts Convention Act* (Canada)**
+
+This Act, formally titled the **International Sale of Goods Contracts Convention Act**, is a Canadian implementation of the **United Nations Convention on Contracts for the International Sale of Goods (CISG)**. It enables the CISG to govern international sales contracts between parties whose places of business are in different countries, provided certain conditions are met. Below is a comprehensive, structured summary of the Act, broken down by key components and provisions.
+
+---
+
+## **1. Purpose and Legal Framework**
+
+- **Title**: The Act is known as the *International Sale of Goods Contracts Convention Act*.
+- **Enactment**: Passed by the Parliament of Canada (House of Commons and Senate) with the advice and consent of Her Majesty, and comes into force on a date set by the Governor in Council.
+- **Applicability**: The Act brings the **CISG** into force in Canada, making it binding law for certain international sales contracts.
+- **Binding Authority**: The Act is binding on Her Majesty in right of Canada.
+
+---
+
+## **2. Key Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Agent Corporation** | Defined as per Part X of the *Financial Administration Act*; refers to a corporation acting as an agent of the government. |
+| **Departmental Corporation** | Defined as per the *Financial Administration Act*; refers to government-owned corporations. |
+| **Convention** | Refers to the *United Nations Convention on Contracts for the International Sale of Goods (CISG)*, as set out in the Schedule. |
+
+> These definitions ensure consistency with federal administrative and legal frameworks.
+
+---
+
+## **3. Scope and Application of the CISG in Canada**
+
+### **3.1 When Does the CISG Apply?**
+- The CISG applies to **sales of goods** between parties whose **places of business are in different countries**:
+  - If both countries are **Contracting States** to the CISG; or
+  - If private international law leads to the application of the law of a **Contracting State**.
+
+> This means the CISG governs international trade where parties are from different countries, regardless of nationality or legal system.
+
+### **3.2 Disregard of Place of Business**
+- The fact that parties have different places of business **does not matter** if:
+  - It is not evident from the contract, or
+  - It is not disclosed during negotiations or at the time of contract formation.
+
+> This promotes flexibility and avoids arbitrary jurisdictional barriers.
+
+### **3.3 Exclusions from Application**
+The CISG **does not apply** to:
+- Sales for **personal, family, or household use** (unless the seller did not know or should not have known of such use).
+- Sales by **auction**.
+- Sales **by execution or legal authority**.
+- Sales of:
+  - Stocks, shares, investment securities, negotiable instruments, or money.
+  - Ships, vessels, hovercraft, or aircraft.
+  - Electricity.
+- Contracts where the **preponderant obligation** of the seller is to provide **labor or services**, not goods.
+
+> These exclusions protect areas of law where the CISG is not designed to operate.
+
+### **3.4 Scope of Coverage**
+The CISG governs:
+- The **formation** of a contract of sale.
+- The **rights and obligations** of the seller and buyer arising from the contract.
+
+> It **does not cover**:
+- The **validity** of the contract or its terms.
+- The **effect on property rights** in goods.
+- **Liability for death or personal injury** caused by the goods.
+
+---
+
+## **4. Parties’ Right to Exclude or Modify the CISG**
+
+- Parties may **exclude** the application of the CISG **in accordance with its terms**.
+- Specifically, they can include a clause in the contract stating that **another law applies**.
+- However, **Article 12 of the CISG** limits this right — parties cannot derogate from or vary the effect of certain core provisions (e.g., those relating to formation of contract, delivery, or remedies).
+
+> This ensures that fundamental principles of fairness and uniformity in international trade are preserved.
+
+---
+
+## **5. Interpretation and Application of the CISG**
+
+### **5.1 Interpretation Principles**
+- The CISG is interpreted with due regard to:
+  - Its **international character**.
+  - The need for **uniformity** in application.
+  - The **observance of good faith** in international trade.
+
+> This ensures consistent, fair, and predictable outcomes across jurisdictions.
+
+### **5.2 Resolving Ambiguities**
+- If a matter is not settled in the Convention:
+  - It is resolved based on **general principles** underlying the Convention.
+  - If no such principles exist, it is governed by **private international law** (conflict of laws).
+
+### **5.3 Intent and Understanding**
+- Statements and conduct of a party are interpreted based on:
+  - The **intent** of the party (if known or apparent to the other party).
+  - If intent is unclear, the interpretation is based on what a **reasonable person of the same type** would have understood in similar circumstances.
+
+> This includes consideration of:
+  - Negotiations.
+  - Established practices.
+  - Usages in the relevant trade.
+  - Subsequent conduct.
+
+### **5.4 Implied Usages**
+- Unless otherwise agreed, parties are **impliedly bound** by:
+  - A **usage of trade** known and widely observed in the relevant industry.
+  - Practices established between the parties.
+
+> This ensures that commercial expectations are respected, even if not explicitly stated.
+
+---
+
+## **6. Determination of Place of Business**
+
+- If a party has **multiple places of business**, the relevant one is the one with the **closest relationship** to the contract and its performance.
+- If a party has **no place of business**, reference is made to their **habitual residence**.
+
+> This ensures clarity in determining jurisdiction and contractual obligations.
+
+---
+
+## **7. Form of Contracts**
+
+- A contract of sale **does not need to be in writing**.
+- It may be formed orally or by conduct.
+- It may be proved by **any means**, including witnesses.
+
+> This aligns with the principle of freedom of contract.
+
+### **Exception – Writing Requirements**
+- In cases where a party has a place of business in a **Contracting State that has declared under Article 96** of the CISG (a state that has opted out of certain provisions), **the requirement for written form applies**:
+  - Offers, acceptances, or modifications **must be in writing**.
+  - This provision **cannot be derogated from** by the parties.
+
+> This is a safeguard against ambiguity in high-risk international transactions.
+
+> **Note**: "Writing" includes telegrams and telex messages.
+
+---
+
+## **8. Formation of a Contract: Offers and Acceptances**
+
+### **8.1 What Constitutes an Offer**
+- An offer is a **sufficiently definite** statement that:
+  - Identifies the **goods**.
+  - Fixes or provides for determining the **quantity and price**.
+- An offer is **effective when it reaches the offeree**.
+
+> An offer may be **withdrawn** if the withdrawal reaches the offeree **before or at the same time** as the offer.
+
+### **8.2 Revocation of Offers**
+- An offer **can be revoked** if:
+  - The revocation reaches the offeree **before** the offeree sends an acceptance.
+- However, it **cannot be revoked** if:
+  - It is **irrevocable** (e.g., fixed time for acceptance).
+  - The offeree **reasonably relied** on the offer being irrevocable.
+
+### **8.3 Termination of Offers**
+- An offer is **terminated** when a **rejection** reaches the offeror.
+
+### **8.4 Acceptance**
+- Acceptance is a **clear indication of assent** to the offer.
+- **Silence or inactivity does not constitute acceptance**.
+- Acceptance becomes effective when it **reaches the offeror**.
+- If no time is fixed, it must be within a **reasonable time**, considering:
+  - The nature of the transaction.
+  - The speed of communication.
+
+> **Exception**: If the parties have established a practice (e.g., delivery of goods = acceptance), acceptance is effective when the act is performed (e.g., dispatch of goods or payment), **provided it is within the time limit**.
+
+### **8.5 Counter-Offer vs. Acceptance with Modifications**
+- A reply with **additions, limitations, or modifications** is a **rejection** and constitutes a **counter-offer**.
+- However, if the modifications are **not material** (e.g., not affecting price, quality, delivery, or dispute settlement), and the offeror **does not object within a reasonable time**, the contract is formed with the **offer’s terms plus the modifications**.
+
+> Material changes include:
+> - Price
+> - Payment terms
+> - Quality or quantity of goods
+> - Delivery time/place
+> - Liability or dispute resolution
+
+### **8.6 Time for Acceptance**
+- Time for acceptance starts:
+  - From the **date the telegram is handed in** or **date shown on the letter** (if no date, from envelope date).
+  - From the **moment the offer reaches the offeree** (in case of phone, telex, or instant communication).
+- **Official holidays or non-business days are included** in the period.
+- If acceptance is **late** and cannot be delivered on the last day due to holiday, the period is **extended to the next business day**.
+- A late acceptance is **effective

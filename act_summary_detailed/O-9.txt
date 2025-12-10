@@ -1,0 +1,138 @@
+The **Old Age Security Act** is a foundational piece of Canadian legislation that establishes the framework for the **Old Age Security (OAS) pension**, one of the country’s primary retirement income programs. Below is a **detailed, comprehensive summary** of the Act as provided in your text, organized by key components: definitions, eligibility criteria, benefit structure, income adjustments, special rules, and procedural requirements.
+
+---
+
+## 📚 OVERVIEW OF THE OLD AGE SECURITY ACT
+
+**Official Citation:** *Old Age Security Act*  
+**Purpose:** To provide a monthly pension to eligible elderly Canadians, ensuring financial support during retirement based on age, residency, and citizenship status.
+
+This Act governs the eligibility, calculation, payment, and administration of **Old Age Security (OAS) pensions** and related benefits such as the **Guaranteed Income Supplement (GIS)** — though the GIS is not explicitly detailed here. It also includes provisions for **survivors**, **residency requirements**, **income adjustments**, and **exceptions** for certain individuals.
+
+> ⚠️ Note: The Act has been significantly amended over time. Key changes (e.g., to residency rules, income deductions, and waiver procedures) are reflected in the text, particularly around key dates like 1977, 1996, 2008, 2020, and 2022.
+
+---
+
+## 🔍 KEY DEFINITIONS
+
+| Term | Meaning |
+|------|--------|
+| **Benefit** | A pension, supplement, or allowance paid under the Act. Includes OAS pensions and the Guaranteed Income Supplement (GIS). |
+| **Pension** | A monthly pension authorized under Part I (OAS pension). |
+| **Supplement** | A monthly guaranteed income supplement authorized under Part II (GIS). |
+| **Beneficiary** | A person to whom a benefit has been approved for payment. |
+| **Applicant** | A person who has applied or is deemed to have applied for a benefit. |
+| **Pensioner** | A person whose application for a pension has been approved. |
+| **Survivor** | A person whose spouse or common-law partner has died and who has not since become a spouse or common-law partner of another. |
+| **Common-law partner** | A person cohabiting with the individual in a conjugal relationship for at least one continuous year. Applies at the time of death or for survivor benefits. |
+| **Income** | Computed according to the *Income Tax Act*, with specific deductions applied depending on the time period. |
+| **Payment Period** | A fiscal year, or a 12-month period from July 1 to June 30, starting April 1, 1998. |
+| **Payment Quarter** | A three-month period beginning on April 1, July 1, October 1, or January 1 of a payment period. |
+| **First/Second Adjustment Quarter** | Used to determine cost-of-living adjustments (COLA) based on the Consumer Price Index (CPI). The first adjustment quarter precedes the payment quarter by 3 months; the second adjustment quarter precedes it by 9 months. |
+| **Consumer Price Index (CPI)** | Average CPI for Canada published by Statistics Canada, used to adjust pension amounts quarterly. |
+| **Prescribed** | As defined by regulations. |
+| **Release** | For incarcerated individuals: release on earned remission, expiry of sentence, parole, or statutory release (not revoked). |
+
+> 🚫 **Note:** Terms like "spouse" and "spouse’s allowance" were repealed in 2000 and replaced with "common-law partner" and "allowance" for surviving partners.
+
+---
+
+## 📌 ELIGIBILITY FOR A FULL MONTHLY PENSION
+
+A full monthly pension may be paid to a person if they meet **one of three categories** of eligibility:
+
+### 1. **People who were pensioners on July 1, 1977**
+- Automatically eligible without further conditions.
+
+### 2. **People who were not pensioners on July 1, 1977**
+Must meet **all** of the following:
+- Attained **65 years of age**.
+- Resided in Canada for the **ten years immediately before** the approval date of their application, **OR**
+  - If they did not reside in Canada, they must have:
+    - Resided in Canada **after age 18** for an aggregate period **equal to at least three times** their total absence from Canada during those ten years.
+    - Resided in Canada for **at least one year immediately before** the application approval date.
+- **Additional condition**: Must have attained 25 years of age on July 1, 1977, or have lived in Canada after age 18 or held a valid immigration visa.
+
+> ⚖️ This rule emphasizes **long-term residency** in Canada as a key eligibility factor.
+
+### 3. **People who were not pensioners on July 1, 1977**
+Must meet:
+- Attained **65 years of age**.
+- Resided in Canada **after age 18** and **before application approval** for an aggregate period of **at least 40 years**.
+
+> ✅ This category is designed to recognize long-term residents who may have lived abroad but maintained a strong connection to Canada.
+
+---
+
+## 📌 ELIGIBILITY FOR A PARTIAL MONTHLY PENSION
+
+A partial pension may be paid **only if** the person is **not eligible** for a full pension under the above categories, but still meets:
+
+- Attained **65 years of age**.
+- Resided in Canada after age 18 and before application approval for an aggregate period of **at least 10 years but less than 40 years**.
+- **If the aggregate period is less than 20 years**, the person must have been a **resident in Canada on the day before application approval**.
+
+### 💡 How the Amount is Calculated
+- The partial pension amount is a **proportional fraction** of the full monthly pension.
+- Formula:
+  > Partial Pension = (Residency Period / 40 years) × Full Monthly Pension  
+  (The residency period is rounded down to the nearest whole year.)
+
+> 🔁 **Important:** Once a partial pension is approved, **future periods of residence in Canada cannot increase** the monthly amount.
+
+> ❌ **No increase** after approval, even if the person later moves back to Canada.
+
+---
+
+## 📌 RESIDENCY REQUIREMENTS (WITH KEY CHANGES OVER TIME)
+
+### Pre-1996 (Before April 1996)
+- A **special qualifying factor** was used to assess eligibility.
+- For individuals who were not "specially qualified," the factor was **1**.
+- For "specially qualified individuals" (those who lived in Canada for ≥10 years after age 18), the factor was:
+  > (Years lived in Canada after age 18) / 10  
+  (Rounded down to the next lower whole number)
+
+### After March 1996
+- The definition of "specially qualified individual" changed:
+  - A person qualifies if they:
+    - Have lived in Canada after age 18 for **10+ years**, **OR**
+    - Were a **Canadian citizen or permanent resident** before March 7, 1996.
+
+> 📌 This change reflects a shift from strict residency to recognizing long-term residents and citizens.
+
+---
+
+## 📌 INCOME DEDUCTIONS (CRUCIAL FOR BENEFIT CALCULATION)
+
+Income is calculated under the *Income Tax Act*, but with **specific deductions** applied depending on the year.
+
+### Deductions (General Rules):
+
+| Time Period | Deductions |
+|-----------|-----------|
+| **Before July 2008** | Deduct **lesser of $500 or 1/5 of income from employment** |
+| **July 2008 – June 2020** | Deduct **lesser of $3,500 or full income from employment** |
+| **After June 2020** | Deduct **from combined income** (employment + self-employment):<br> - **Lesser of $5,000 and combined income**<br> - **If combined income > $5,000**, deduct **lesser of $5,000 and half the amount over $5,000** |
+
+> 📌 This creates a **progressive income cap** — higher earners see larger reductions in benefit.
+
+### Additional Deductions (from income for the year):
+- Amounts of **Employment Insurance (EI) premiums** and **Canada Pension Plan (CPP)** or provincial pension contributions.
+- **Self-employment contributions** under CPP or provincial plans.
+- **Premiums under Part VII.1 of EI Act** (e.g., for workers with disabilities or other benefits).
+
+### Post-June 2022 Additions:
+- Deduct **any payment under**:
+  - Canada Emergency Response Benefit (CERB)
+  - Part VIII.4 of EI Act
+  - Canada Recovery Benefit (CRB)
+  - Canada Worker Lockdown Benefit (CWL)
+
+> 📌 These deductions reflect temporary pandemic-era benefits that are not eligible for OAS inclusion.
+
+### Tax Adjustment Rule (Post-2022):
+- Deduct **three times** the amount by which:
+  > Total tax deductions under section 121 of the Income Tax Act  
+  > Exceeds  
+  > "Tax for the year otherwise payable under this Part" (as defined in subsection 126(7

@@ -1,0 +1,95 @@
+**Detailed Summary of the *Canada–United States Enhanced Tax Information Exchange Agreement Implementation Act***
+
+---
+
+### **Overview**
+
+The *Canada–United States Enhanced Tax Information Exchange Agreement Implementation Act* (the "Act") provides the legal framework in Canada for implementing the **Canada–United States Enhanced Tax Information Exchange Agreement** (the "Agreement"). This agreement is rooted in the broader goal of improving international tax compliance through the automatic exchange of financial account information between Canada and the United States, particularly in response to the **Foreign Account Tax Compliance Act (FATCA)** of the United States.
+
+The Act ensures that Canada recognizes and gives effect to the obligations and provisions of the Agreement, which enables automatic reporting of certain financial accounts held by Canadian and U.S. residents, while respecting legal, privacy, and compliance safeguards.
+
+---
+
+## **Key Provisions and Structure**
+
+### **1. Citation and Definitions**
+
+- The Act may be cited as the *Canada–United States Enhanced Tax Information Exchange Agreement Implementation Act*.
+- The term **"Agreement"** refers to the formal agreement between the Government of Canada and the Government of the United States, as set out in the Schedule (which includes amendments over time).
+- The Agreement is **approved and has the force of law in Canada** during the period it is in force, as per its own terms.
+
+> **Note:** The Agreement entered into force on **June 27, 2014**, and is referenced in *Canada Gazette* Part I, Volume 148, page 2234.
+
+---
+
+### **2. Precedence of Provisions**
+
+- In the event of **inconsistency** between:
+  - This Act or the Agreement and **any other law** (except **Part XVIII of the Income Tax Act**),
+  - The Agreement and the **Income Tax Conventions Interpretation Act**,
+  
+  → The **provisions of this Act and the Agreement prevail** to the extent of the inconsistency.
+
+> This ensures that the tax information exchange framework takes priority over conflicting domestic legislation (except for specific provisions in the Income Tax Act).
+
+---
+
+### **3. Regulatory Authority**
+
+- The **Minister of National Revenue** has the authority to make **regulations** necessary to implement the Agreement or give effect to its provisions.
+- The **Minister of Finance** is responsible for publishing official notices in the *Canada Gazette* within **60 days** of:
+  - The Agreement entering into force,
+  - Any amendment to the Agreement,
+  - The termination of the Agreement.
+
+> These notices include the date and a copy of the relevant instrument, ensuring transparency and public awareness.
+
+---
+
+## **Background and Policy Rationale (Whereas Clauses)**
+
+The Agreement was developed based on several key motivations:
+
+1. **Mutual Tax Compliance**: Canada and the U.S. share a long-standing relationship on tax cooperation and seek to enhance compliance through improved information exchange.
+
+2. **FATCA Implementation**: The U.S. enacted **FATCA** to require foreign financial institutions (FFIs) to report information about financial accounts held by U.S. persons (including Canadians). This led to concerns that Canadian financial institutions might be unable to comply due to **domestic legal barriers**.
+
+3. **Reciprocity**: Both governments support applying FATCA’s underlying policy—improving tax compliance—on a **reciprocal basis**, meaning Canada will implement similar reporting obligations for U.S. financial institutions.
+
+4. **Avoiding Duplication**: The U.S. recognizes the need to **coordinate reporting obligations** under FATCA with other U.S. tax reporting requirements to prevent **duplicative reporting** by Canadian institutions.
+
+5. **Practical Compliance**: An **intergovernmental approach** (rather than requiring individual institutions to comply with complex U.S. rules) facilitates compliance and protects Canadians’ rights to access financial services without undue burden.
+
+6. **Long-Term Goals**: The Parties commit to working together to establish **common reporting and due diligence standards** for financial institutions globally.
+
+---
+
+## **Core Definitions and Key Terms**
+
+| Term | Definition |
+|------|-----------|
+| **United States** | As defined in the Convention; includes District of Columbia and U.S. Territories (American Samoa, Puerto Rico, Guam, etc.) |
+| **IRS** | U.S. Internal Revenue Service |
+| **Canada** | As defined in the Convention |
+| **Partner Jurisdiction** | A country with a FATCA-compliant agreement with the U.S. (e.g., the U.S. publishes a list of such jurisdictions) |
+| **Competent Authority** | <ul><li>U.S.: Secretary of the Treasury or delegate</li><li>Canada: Minister of National Revenue or authorized representative</li></ul> |
+| **Financial Institution (FI)** | Broad category including:<br>• **Custodial Institution** – holds financial assets for others as a major part of business (≥20% of gross income)<br>• **Depository Institution** – accepts deposits (e.g., banks)<br>• **Investment Entity** – manages funds or invests on behalf of clients (e.g., mutual funds, hedge funds)<br>• **Specified Insurance Company** – issues or pays on Cash Value or Annuity Contracts |
+| **Canadian Financial Institution (CFI)** | <ul><li>Any FI resident in Canada (excluding branches outside Canada)</li><li>Any branch of a non-Canadian FI located in Canada</li></ul> |
+| **Partner Jurisdiction Financial Institution (PJFI)** | Similar to CFI but located in a Partner Jurisdiction |
+| **Reporting Financial Institution (RFI)** | Either a **Reporting Canadian Financial Institution (RCFI)** or **Reporting U.S. Financial Institution (RUSFI)** |
+| **Reporting Canadian Financial Institution (RCFI)** | Any Canadian FI that is **not** a Non-Reporting Canadian Financial Institution |
+| **Reporting U.S. Financial Institution (RUSFI)** | Any U.S.-based FI (or branch in the U.S.) that **controls, receives, or holds income** subject to reporting under Article 2 |
+| **Non-Reporting Canadian Financial Institution (NRCFI)** | Excluded from reporting obligations if:<br>• Listed in **Annex II**<br>• Deemed compliant FFI under U.S. Treasury Regulations<br>• Exempt beneficial owner under U.S. rules |
+| **Nonparticipating Financial Institution** | A nonparticipating FFI (as per U.S. Treasury Regulations), **excluding** Canadian or Partner Jurisdiction FIs, unless specifically treated as such under Article 5 |
+| **Financial Account** | A broad category of accounts held by FIs, including:<br>• Depository accounts (checking, savings, CDs)<br>• Equity or debt interests in FIs (if not regularly traded)<br>• Cash Value Insurance Contracts and Annuity Contracts (excluding certain excluded types)<br><br>**Exclusions**: Accounts explicitly excluded in **Annex II**<br><br>**"Regularly traded"** = active trading on established, supervised markets (e.g., NYSE, TSX)<br><br>**Key rule**: If an interest is registered on the books of a FI (other than a U.S. Territory FI), it is treated as a Financial Account — **unless registered before July 1, 2014**, and even then, **no requirement to apply this rule before January 1, 2016** |
+| **Depository Account** | Includes commercial, checking, savings, CDs, or similar instruments held in banking or similar businesses |
+| **Custodial Account** | Account held for another person (e.g., a trust or nominee account), including shares, bonds, derivatives, or insurance contracts |
+| **Equity Interest** | In partnerships: capital or profit interest; in trusts: interest held by settlor, beneficiary, or person with ultimate control |
+| **Insurance Contract** | Contract paying on mortality, morbidity, accident, or property risk (excluding annuities) |
+| **Annuity Contract** | Contract paying periodic payments based on life expectancy; includes contracts treated as annuities under law |
+| **Cash Value Insurance Contract** | Insurance contract with cash value > $50,000 |
+| **Cash Value** | Greater of: (i) amount payable upon surrender; (ii) amount borrowable. **Excludes**:<br>• Personal injury or sickness benefits<br>• Premium refunds (except life insurance)<br>• Policyholder dividends |
+| **Reportable Account** | Either a **Canadian Reportable Account** or **U.S. Reportable Account** |
+| **Canadian Reportable Account** | Held by a **Reporting U.S. Financial Institution** and:<br>• For an individual resident in Canada, with >$10 of interest paid annually (deposits)<br>• For a non-depository account: if U.S. source income (subject to U.S. tax under Chapter 3 or Chapter 61 of U.S. Internal Revenue Code) is paid or credited |
+| **U.S. Reportable Account** | Held by a **Reporting Canadian Financial Institution** by:<br>• A **Specified U.S. Person** (e.g., U.S. citizen, resident, trust, estate)<br>• A Non-U.S. Entity with a **Controlling U.S. Person**<br><br>**Excluded** if not identified after due diligence under **Annex I** |
+| **Account Holder** | The person listed as the owner of the account. If held for another (e.g., nominee, agent), the **beneficiary or nominee** is treated as the Account Holder.<br>• For insurance/annuities: any person entitled to access cash value or change beneficiary.<br

@@ -1,0 +1,155 @@
+**Detailed Summary of the *Canada Education Savings Act* (CESA)**
+
+---
+
+### **1. Introduction and Purpose**
+The *Canada Education Savings Act* (CESA) is a federal law enacted by Her Majesty in Right of Canada, with the advice and consent of the Senate and House of Commons, to promote early financial planning for children’s post-secondary education. The primary objective of the Act is to **encourage the financing of children’s post-secondary education through savings beginning in early childhood**, specifically via **Registered Education Savings Plans (RESPs)**.
+
+This Act establishes two key financial incentives:
+- **Canada Education Savings (CES) Grants**
+- **Canada Learning Bonds (CLBs)**
+
+These incentives are designed to support low- and middle-income families by providing direct financial assistance to RESP trusts for eligible beneficiaries.
+
+---
+
+### **2. Key Definitions and Interpretations**
+
+#### **Core Definitions in the Act**
+- **Canada Child Benefit (CCB):**  
+  A deemed overpayment under the Income Tax Act (specifically Subdivision A.1 of Division E of Part I). This is used as a proxy to determine eligibility for enhanced CES grants based on family income levels.
+
+- **Canada Learning Bond (CLB):**  
+  A one-time payment made to an RESP trust for a beneficiary who meets specific age and income criteria. It is available only to children born after 2003.
+
+- **CES Grant:**  
+  A grant paid by the Government of Canada to an RESP trust to help cover education costs. It is available for contributions made to an RESP by or on behalf of a subscriber for a beneficiary under 17 years of age at the end of the prior year.
+
+- **Primary Caregiver:**  
+  - For a beneficiary or child: the eligible individual (e.g., parent or guardian) responsible for them.  
+  - If a special allowance is payable under the *Children’s Special Allowances Act*, the department, agency, or institution maintaining the child is considered the primary caregiver.
+
+- **First Threshold & Second Threshold:**  
+  These refer to adjusted income thresholds from the Income Tax Act (paragraphs 117(2)(a) and (b)) that determine eligibility for enhanced CES grants:
+  - **First Threshold:** Income ≤ first threshold → higher CES grant (up to 20% of contribution).
+  - **Second Threshold:** Income between first and second thresholds → reduced grant (10% of contribution).
+
+> *Note:* These thresholds are adjusted annually under the Income Tax Act.
+
+- **Adjusted Income:** As defined in section 122.6 of the Income Tax Act — used to assess eligibility for CES grants and CLBs.
+
+- **Beneficiary, Contribution, Registered Education Savings Plan (RESP), Subscriber, Trust:** All defined under section 146.1 of the Income Tax Act.
+
+---
+
+### **3. Canada Education Savings (CES) Grants**
+
+#### **Eligibility and Application**
+- The Minister may pay a CES grant to a trustee of an RESP trust **on application**, in a form and manner approved by the Minister.
+- The contribution must have been made in **1998 or a subsequent year** to an RESP for a beneficiary **under 17 years of age** at the end of the preceding year.
+
+#### **Maximum Amount of CES Grant**
+The amount of a CES grant for a given year is the **lesser of**:
+1. **20% of the contribution**, or  
+2. The amount by which the lesser of:
+   - $1,000 (or $800 for years 1998–2006),
+   - The beneficiary’s **unused CES grant room**  
+   exceeds the total of all prior CES grants paid for that year (excluding those under subsection 4(4)).
+
+> *Note:* The $800 cap applies only from 1998 to 2006; from 2007 onward, it is $1,000.
+
+#### **Unused CES Grant Room**
+Calculated using a formula based on the beneficiary’s age and residency:
+- If the beneficiary was **17 years or older** at the end of the previous year → **no unused room**.
+- Otherwise:
+  - **Years alive between 1997 and 2006 (before 2007):** subtract years when ineligible or not resident in Canada.
+  - **Years alive from 2006 onward (up to and including the current year):** same adjustment.
+  - Subtract total CES grants already paid (excluding subsection 4(4)).
+
+> This ensures that a beneficiary cannot receive more than a certain total over their lifetime.
+
+#### **Enhanced Grants Based on Income**
+If the beneficiary is a **qualified dependant** of an eligible individual:
+- **If adjusted income ≤ first threshold:**  
+  → 20% of contribution **plus** an additional $100 (if under 17 years old at time of contribution).
+- **If adjusted income > first threshold but ≤ second threshold:**  
+  → 10% of contribution **plus** an additional $50 (if under 17 years old at time of contribution).
+
+> *Note:* The additional amount is only available if the individual qualifies for a Canada Child Benefit (CCB) or a special allowance.
+
+#### **Adjustment for First Month of Eligibility**
+- If no CCB eligibility was established in January, the adjusted income used is that from the **first month** in the year when eligibility was established.
+- For beneficiaries born in **December**, eligibility is considered to begin in **January of the next year**.
+- If someone becomes the primary caregiver after January, the income used is based on the **first month** when eligibility was established for that caregiver.
+
+#### **Designation of Trust**
+- The CES grant must be paid to the **trustee of a trust designated** by:
+  - The primary caregiver, or
+  - The caregiver’s cohabiting spouse or common-law partner.
+- If multiple trusts are designated, the grant is first paid to the trust where the contribution was made.
+- If the first trust receives less than the maximum, the remaining amount may be distributed to other designated trusts.
+
+#### **Lifetime Limit**
+- **No more than $7,200** in CES grants may be paid in respect of a single beneficiary over their lifetime.
+
+---
+
+### **4. Canada Learning Bond (CLB)**
+
+#### **Eligibility and Availability**
+- Available to beneficiaries born **after 2003** who are under **21 years of age** at the time of application.
+- The Minister may pay the CLB to a trustee of an RESP trust upon application.
+
+#### **When the Minister Can Proactively Open an RESP**
+- If a child born **after 2023** would be eligible for a CLB **if they were a beneficiary**, and:
+  - The child’s Social Insurance Number (SIN) is provided to the Minister,
+  - The child is **not already a beneficiary** under an RESP,
+- Then the Minister **must notify** the primary caregiver that:
+  - The child is eligible for a CLB,
+  - The Minister will open an RESP for the child to receive the bond.
+
+#### **Timing for Opening the RESP**
+- **If child is under 3 years old:**  
+  Open no earlier than the day the child turns **4**, or any date set by the Minister.
+- **If child is 3 years or older:**  
+  Open no earlier than **365 days after** the eligibility determination, or any date set by the Minister.
+
+> *Note:* The Minister may delay opening the RESP if the primary caregiver (or their spouse/common-law partner) has formally **refused** the CLB.
+
+#### **Refusal Clause**
+- The Minister **cannot open an RESP** if:
+  - The primary caregiver or their cohabiting spouse/common-law partner has **refused** the CLB in writing (in approved form).
+  - The child is already a beneficiary under an RESP.
+
+> *Exception:* An application for a CLB may still be made even if a refusal was previously communicated.
+
+---
+
+### **5. Amount of the Canada Learning Bond**
+
+#### **Benefit Year Definition**
+A "benefit year" runs from **July 1 to June 30** of the following year.
+
+#### **Payment Amounts**
+- **First Benefit Year:**
+  - $500 if:
+    - The beneficiary is under 15 years old at the beginning of the month before the benefit year,
+    - Or was born during the benefit year or the month before,
+    - And for at least one month during the year:
+      - Is a qualified dependant of an eligible individual whose adjusted income used to determine CCB was:
+        - ≤ First threshold (if ≤3 dependants), or
+        - Less than the amount calculated under subsection (2.1) (if >3 dependants), or
+      - Is a person receiving a special allowance under the *Children’s Special Allowances Act*.
+- **Subsequent Benefit Years (after first):**
+  - $100 per year, provided the beneficiary remains under 15 years old at the start of the month before the benefit year and meets the same income criteria.
+
+#### **Formula for Income Threshold (Clause 2.1)**
+For eligible individuals with **more than 3 dependants**, the threshold is calculated as:
+
+>  
+> **Threshold = First Threshold for the year**  
+> **+ (Number of dependants in excess of 2) × $2,308.27 × 0.333**
+
+> *Example:*  
+> If there are 5 dependants:  
+> Excess = 2 → 2 × $2,308.27 × 0.333

@@ -1,0 +1,225 @@
+### **Detailed Summary of the *Security of Canada Information Disclosure Act***
+
+---
+
+#### **Overview**
+The *Security of Canada Information Disclosure Act* (SCIDA) is a federal law enacted to **facilitate the responsible and effective sharing of sensitive information among Government of Canada institutions** in order to **protect Canada’s national security and the safety of its people**. It recognizes that threats to Canada’s security are increasingly complex, global, and covert, and that no single government agency can operate in isolation when responding to such threats.
+
+The Act establishes a **clear legal framework** for inter-agency information sharing, balancing the need for timely intelligence cooperation with the imperative to **respect privacy rights, uphold legal accountability, and prevent misuse of information**.
+
+---
+
+## **Key Background and Legislative Principles**
+
+The Act begins with several foundational "wheres," which establish the rationale behind its creation:
+
+1. **Right to Safety**: Canadians are entitled to live free from threats to their lives and security.
+2. **Nature of Modern Threats**: Security threats are now clandestine, deceptive, global, sophisticated, and rapidly evolving.
+3. **Core Government Duty**: Protecting the country and its citizens is the most fundamental role of government.
+4. **Non-Use as a Conduit**: Canada must not be used as a tool or channel for activities that threaten another nation’s security.
+5. **Transcendence of Institutional Capacity**: No single institution can alone manage or respond to all security threats — collaboration is essential.
+6. **Need for Information Sharing**: Effective protection requires the aggregation and disclosure of disparate information across agencies.
+7. **Accountability and Compliance**: All disclosures must be responsible, lawful, and respectful of privacy laws, including the *Charter of Rights and Freedoms* and the *Privacy Act*.
+8. **Need for Explicit Authority**: A clear, statutory authority is required to enable effective and responsible information sharing.
+
+---
+
+## **Core Definitions**
+
+### 1. **Activity that Undermines the Security of Canada**
+This is the central concept defining what constitutes a threat under the Act. It includes:
+
+- Interference with government functions in areas such as:
+  - Intelligence
+  - Defence
+  - Border operations
+  - Public safety  
+- Use of force or unlawful means to influence a Canadian government
+- Espionage, sabotage, or covert foreign-influenced operations
+- Terrorism
+- Proliferation of nuclear, chemical, radiological, or biological weapons
+- Significant or widespread interference with:
+  - Critical infrastructure (e.g., power grids, water systems)
+  - Global information infrastructure (as defined in the *Communications Security Establishment Act*)
+- Conduct occurring in Canada that undermines the security of another state
+
+> **Note**: Advocacy, protest, dissent, or artistic expression is *not* considered an activity that undermines security — unless it occurs in conjunction with a security-threatening activity.
+
+---
+
+### 2. **Government of Canada Institution**
+Refers to:
+- Any government institution defined in **section 3 of the Privacy Act**, *except* those listed in **Schedule 1** (which are excluded due to specific sensitivities).
+- Institutions explicitly listed in **Schedule 2**.
+
+> This ensures that only institutions with legitimate security-related mandates are included in the sharing framework.
+
+---
+
+### 3. **People of Canada**  
+*Note: This definition was repealed in 2019 (c. 13, s. 115)* — it is no longer part of the current Act.
+
+---
+
+## **Purpose of the Act**
+To **encourage and facilitate the disclosure of information** between Government of Canada institutions so that Canada can effectively protect itself against activities that undermine its sovereignty, security, and territorial integrity.
+
+---
+
+## **Guiding Principles for Disclosure**
+
+The Act is guided by five key principles:
+
+1. **Effective and Responsible Disclosure**  
+   Information sharing must directly contribute to protecting Canada and its people.
+
+2. **Respect for Caveats and Originator Control**  
+   The original source of information must retain control over how it is used, and any restrictions (caveats) must be respected.
+
+3. **Appropriate Entry into Information-Sharing Arrangements**  
+   Sharing should occur regularly between institutions that already exchange information — indicating a proven need and operational relationship.
+
+4. **Feedback Mechanism**  
+   Recipient institutions must provide feedback on:
+   - How the information was used
+   - Whether it was useful in preventing or responding to threats  
+   This promotes accountability and continuous improvement.
+
+5. **Limited Access Based on Jurisdiction**  
+   Only individuals within an institution who carry out duties related to activities that undermine security should receive disclosed information — ensuring minimal exposure and targeted access.
+
+---
+
+## **When and How Information Can Be Disclosed**
+
+### **Section 5 – Authority to Disclose Information**
+
+A Government of Canada institution may disclose information **if**:
+
+- The disclosure will help the recipient institution:
+  - Exercise its jurisdiction under an Act of Parliament
+  - Carry out its responsibilities under a lawful authority
+  - In relation to activities that undermine the security of Canada
+
+- The disclosure will **not affect any individual’s privacy interest more than is reasonably necessary**.
+
+> This is a **permissive, discretionary power** — institutions may act on their own initiative or upon request.
+
+### **Mandatory Disclosure Requirements**
+
+Upon disclosure, the **disclosing institution must provide**:
+- A statement of **accuracy** of the information
+- A statement of **reliability** of the method used to obtain it
+
+This ensures transparency and helps build trust in the integrity of shared intelligence.
+
+---
+
+## **Retention and Destruction of Personal Information**
+
+### **Section 5.1 – Handling of Personal Information**
+
+- Any personal information (as defined in the *Privacy Act*) that is **not necessary** for the institution to fulfill its security-related duties must be:
+  - **Destroyed**, or
+  - **Returned** to the disclosing institution
+
+> This is a strict requirement to protect individual privacy rights.
+
+### **Exceptions**
+- The rule **does not apply** if:
+  - Retention is required by law
+  - The **Canadian Security Intelligence Service (CSIS)** is involved and the information relates to its duties under **section 12 of the CSIS Act**
+
+> This recognizes CSIS’s unique mandate and legal immunity in certain cases.
+
+---
+
+## **Prohibitions and Limitations**
+
+- **No Authorization for Collection or Use**  
+  The Act **does not authorize** the collection or use of information beyond what is disclosed. It only governs the sharing of existing information.
+
+- **No Presumption of Joint Investigation or Waiver of Privilege**  
+  Disclosure under this Act:
+  - Does **not** imply that the disclosing and receiving institutions are conducting a joint investigation
+  - Does **not** create a presumption that the disclosing institution has the same obligations (e.g., to produce evidence in legal proceedings)
+  - Does **not** waive any legal privilege (e.g., confidentiality in court) or require consent for disclosure to non-government entities
+
+> This protects institutional independence and legal rights.
+
+---
+
+## **Privacy Act Implications**
+
+- The Act **explicitly includes** the authority to disclose **personal information** under the *Privacy Act* (paragraph 8(2)(b))  
+- This means that even personal data (e.g., names, addresses, biometrics) can be shared under this Act, provided it meets the thresholds of necessity and proportionality.
+
+> This is a significant expansion of information-sharing powers, but is tightly constrained by privacy safeguards.
+
+---
+
+## **Recordkeeping Requirements**
+
+All institutions involved must maintain detailed records of all disclosures and receptions:
+
+### **For Institutions That Disclose Information (Disclosure Records)**  
+Must include:
+- Description of the information
+- Name of individual who authorized disclosure
+- Name of recipient institution
+- Date of disclosure
+- Description of information used to justify the disclosure
+- Any other information specified by regulation
+
+### **For Institutions That Receive Information (Reception Records)**  
+Must include:
+- Description of the information
+- Name of disclosing institution
+- Name or position of the head of the recipient institution (or designated person)
+- Date received
+- Whether the information was destroyed or returned
+- If destroyed: date of destruction
+- If returned: date of return
+- Any other information specified by regulation
+
+> These records ensure **transparency, accountability, and auditability**.
+
+---
+
+## **Annual Reporting to the National Security and Intelligence Review Agency (NSIRA)**
+
+- **Within 30 days after the end of each calendar year**, every institution that:
+  - Disclosed information under Section 5, or
+  - Received such information  
+  must submit a **copy of all relevant records** to the **NSIRA**.
+
+> This allows independent oversight and public accountability, while protecting sensitive details through redaction.
+
+---
+
+## **Regulatory Powers (Governor in Council)**
+
+The Governor in Council (i.e., the federal government) may make regulations to:
+
+1. **Specify the manner of disclosure** under Section 5  
+2. **Define specific types of information** for purposes of certain clauses (e.g., paragraph 9(1)(f) or (2)(f))  
+3. **Prescribe how records are to be prepared, kept, and retained**, including:
+   - Format
+   - Duration of retention (e.g., 5 years, 10 years)
+
+> These regulations allow flexibility to adapt to emerging threats and technological changes.
+
+---
+
+## **Schedules and Institutional Inclusion**
+
+### **Schedule 1**  
+Lists institutions **excluded** from the scope of the Act due to high sensitivity (e.g., institutions dealing with personal data or classified operations).  
+> The Governor in Council can **add or remove** institutions from this list.
+
+### **Schedule 2**  
+Lists institutions that are **included** in the Act’s scope.  
+> Can be amended or updated by order.
+
+### **Schedule 3**  
+Lists **

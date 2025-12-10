@@ -1,0 +1,116 @@
+**Detailed Summary of the *Members of Parliament Retiring Allowances Act***
+
+---
+
+### **Overview**
+
+The *Members of Parliament Retiring Allowances Act* (commonly referred to as the "Retiring Allowances Act") is a Canadian federal statute that establishes a retirement benefit system for members of Parliament (MPs) — both in the House of Commons and the Senate. It provides a structured framework for calculating, contributing to, and receiving retirement pensions or lump-sum payments upon retirement or cessation of service.
+
+This Act is designed to ensure that MPs receive financial security after leaving office, particularly through a defined benefit retirement plan that mirrors principles of the Canada Pension Plan (CPP), while also addressing unique aspects of parliamentary service such as sessional indemnities, salary, and annual allowances.
+
+The Act has undergone several amendments over time, most notably in 1991, 1998, 2000, and 2015, and includes provisions for transitional rules, survivor benefits, and special elections for members who were in office prior to certain key dates.
+
+---
+
+## **Key Components and Definitions**
+
+### **1. Core Definitions**
+
+| Term | Meaning |
+|------|--------|
+| **Member** | A member of the Senate or House of Commons. |
+| **Salary** | Includes salary under the Salaries Act or Parliament of Canada Act (e.g., section 4, 4.1, 60–62.2), or as a minister of state or minister without portfolio. |
+| **Sessional Indemnity** | A form of parliamentary allowance. Historically, it varied by period: before 1970, under section 55 and 63(3); after 1974, under sections 55 or 55.1. For members of the Senate, it was 5/6 of the full amount; for Commons, it was the full amount. |
+| **Annual Allowance** | A fixed payment payable to a member under section 62, 62.3, or 62.4 of the *Parliament of Canada Act*, or under an appropriation Act as Deputy Chair or Assistant Deputy Chair of a committee. |
+| **Pensionable Earnings** | The sum of: (a) sessional indemnity, (b) annual allowance, and (c) salary for a given calendar year. |
+| **Average Annual Pensionable Earnings** | The average of pensionable earnings over a five-year period of consecutive service (or selected periods totaling five years). |
+| **Average Annual Sessional Indemnity** | The average of sessional indemnities over a five-year period of consecutive service. |
+| **Average Maximum Pensionable Earnings** | For former members, the average of the "Year’s Maximum Pensionable Earnings" (as defined in the CPP) for the year they ceased to be a member and the four years before, or the year they become entitled to CPP retirement pension. |
+| **Defined Benefit Limit** | A cap on earnings that triggers pension accrual. Was $1,722.22 before 1995; thereafter, set by regulation. |
+| **Earnings Limit** | The maximum amount of earnings that can be subject to contribution for pension purposes. Before 2016, calculated as defined benefit limit ÷ 0.02. From 2016 onward, it is determined by a formula involving the defined benefit limit, a factor set by the Chief Actuary, and the Year’s Maximum Pensionable Earnings. |
+| **Reduction Factor** | A calculation used to reduce benefits for former members based on age or service length. |
+| **Child** | A child or stepchild under 18, or aged 18–25 in full-time education (with no significant interruption since age 18 or death of the parent). |
+| **Survivor** | A spouse or cohabiting partner who was married or in a conjugal relationship with the member for at least one year immediately before death. |
+| **Retiring Allowances Account** | A fund established to hold contributions and interest for retiring MPs. |
+| **Compensation Arrangements Account** | A separate account established under section 27 to manage compensation arrangements. |
+| **Chief Actuary** | The Chief Actuary of the Office of the Superintendent of Financial Institutions, responsible for setting contribution rates and calculating pension values. |
+| **Minister** | The President of the Treasury Board. |
+
+---
+
+## **Core Provisions and Key Features**
+
+### **1. Contribution Requirements and Rates**
+
+- **Mandatory Contributions**: MPs are required to contribute a portion of their pensionable earnings (salary, sessional indemnity, and annual allowance) to the Retiring Allowances Account.
+- **Contribution Rates**:
+  - The Chief Actuary sets contribution rates annually.
+  - Rates are **not differentiated** between Senators and MPs.
+  - From 2013 to 2015, special rates were applied:
+    - **Paragraph 31.1(1)(a)**: 4%, 5%, 6% (2013–2015)
+    - **Paragraph 31.1(1)(b)**: 4%, 5%, 6%
+    - **Paragraph 31.1(1)(c)**: 8%, 9%, 10%
+    - **For members under subsection 12(2)** (required to contribute): 4% (on earnings above earnings limit), increasing to 5% and 6% in 2014 and 2015.
+    - **For members who would contribute if under 71**: 1% on all earnings.
+- **Objective**: The Chief Actuary aims to ensure that by **January 1, 2017**, total contributions under Parts I and II will be sufficient to provide a stable, sustainable retirement benefit system.
+
+> **Note**: The Minister must publish the fixed contribution rates in the *Canada Gazette* as soon as possible after they are established.
+
+---
+
+### **2. Earnings Limit and Benefit Accrual**
+
+- The **earnings limit** determines how much of a member’s income is subject to pension contributions.
+- Before 2016:  
+  Earnings Limit = Defined Benefit Limit ÷ 0.02  
+  (e.g., $1,722.22 ÷ 0.02 = $86,111)
+- From 2016 onward:  
+  Earnings Limit = (Defined Benefit Limit) × (Factor from Chief Actuary) × (Year’s Maximum Pensionable Earnings)  
+  This formula adjusts for inflation and changes in CPP maximums.
+
+> This ensures that contributions are tied to the actual income of MPs, preventing over-contribution or under-contribution relative to inflation and economic conditions.
+
+---
+
+### **3. Pensionable Service and Credit for Service**
+
+- **Pensionable service** is defined as periods during which a member is:
+  - Prohibited from contributing (e.g., under paragraph 12(1)(b) or (c) or 34(1)(b) prior to Jan 1, 2013)
+  - Required to make contributions (under subsection 12(2) or 12(2.1))
+- These periods are **deemed to be pensionable service** for the purpose of calculating average annual pensionable earnings and sessional indemnity.
+
+> This ensures that MPs who are temporarily barred from contributing (e.g., due to illness or other reasons) still have their service counted toward retirement benefits.
+
+---
+
+### **4. Retirement Benefits and Withdrawal Allowance**
+
+- **Withdrawal Allowance**: A **lump-sum payment** available to a member upon retirement, equal to:
+  - The total contributions made under this Act and the former Act (Parts I, III, IV)
+  - Plus interest on those contributions (from section 11, 33(1)(c)/(2)(d), or section 23 of the former Act)
+
+> **Important**: For members who served **six or more years before October 25, 1993**, the withdrawal allowance is **reduced** by the amount of contributions and interest paid for pensionable service prior to that date.
+
+- **Interest Calculation**:
+  - Interest is calculated under subsection 63(2), as if:
+    - Paragraphs (2)(a) and (b) were included in (2)(a)
+    - References to "the year in which the person ceased to be a member" were replaced with "the year in which the allowance became payable"
+
+> This ensures interest is earned from the time of retirement, not from the time of leaving office.
+
+---
+
+### **5. Survivor Benefits**
+
+- The Act provides for **survivor benefits** to spouses or cohabiting partners who were in a conjugal relationship with the member for at least one year before death.
+- These benefits are calculated based on the member’s pensionable earnings and average annual pensionable earnings.
+
+> *Note*: The provision for "joint and survivor benefit" was **repealed in 2000** (c. 12, s. 176), so current survivor benefits are limited to the individual's retirement pension.
+
+---
+
+### **6. Special Provisions for Members of the 35th Parliament**
+
+- The 35th Parliament (which began in 2011) introduced a **special election mechanism** allowing MPs to choose whether to continue contributing under certain provisions:
+  - **Section 2.1** allows:
+    - A member who was contributing under subsections 9(1)/(2), 11(1), 12(2),

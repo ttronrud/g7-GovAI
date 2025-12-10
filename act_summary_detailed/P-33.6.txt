@@ -1,0 +1,164 @@
+**Detailed Summary of the *Public Service Pension Adjustment Act***
+
+---
+
+### **Overview**
+
+The *Public Service Pension Adjustment Act* is a Canadian legislative instrument designed to adjust the annual rate of pensions paid to certain public service recipients—specifically employees, widows, children, and orphans—based on factors such as pension class, salary basis, and length of service. The primary objective of the Act is to ensure that pension amounts are increased in a fair, structured, and equitable manner, while respecting financial limits and preventing overpayment.
+
+The Act applies to pensions under specific public service pension plans, including those governed by the *Public Service Superannuation Act*, the *Civil Service Superannuation Act*, and certain other relevant pension plans or enactments listed in Schedule I. It establishes detailed rules for calculating increases in pension payments, with special provisions for multi-pension recipients, salary-based adjustments, and caps on total increases.
+
+---
+
+## **Key Definitions**
+
+Before proceeding to the substantive provisions, the Act defines key terms:
+
+- **Child**: A person receiving a pension due to being a child of an employee. *Excludes orphans* unless otherwise specified.
+- **Employee**: A person receiving a pension who was employed in:
+  - The public service of Canada,
+  - The Canadian Forces (regular forces), or
+  - The Royal Canadian Mounted Police (RCMP).
+- **Forces**: Refers to the regular components of the Canadian Armed Forces, including historical designations such as the Royal Canadian Navy, Canadian Army, Royal Canadian Air Force, and Permanent Active Militia.
+- **Orphan**: A child of an employee who receives a pension due to being an orphan (i.e., parent deceased and no surviving parent).
+- **Pension**: Includes the basic pension, annual allowance, or annuity payable under a pension plan listed in Schedule I. It is calculated based solely on the employee’s length of pensionable service, *without regard to any subsequent reductions*.
+- **Recipient**: Any of the following: employee, widow, child, or orphan.
+- **Salary**: Includes wages, pay, and allowances.
+- **Widow**: A person receiving a pension due to being the widow of an employee.
+
+---
+
+## **Core Provisions and Mechanism of Pension Increases**
+
+### **1. General Increase Rule (Section 1)**
+
+For recipients whose pension **does not exceed** the annual rate specified in **Column 2 of Schedule III** for their class:
+
+- The pension is increased by **two components**:
+  
+  **Component A**:  
+  The lesser of:
+  - The recipient’s current pension rate, or  
+  - The rate in **Column 1 of Schedule III** for their class  
+  multiplied by a **rate factor** from **Columns 2 to 7 of Schedule II**, which corresponds to:
+  - The **salary basis** used to calculate the pension (e.g., low, medium, high), and  
+  - The **latest period of service** used in the pension calculation (as listed in Column 1 of Schedule II).
+
+  This component adjusts the pension based on the recipient’s salary level and service history.
+
+  **Component B**:  
+  The difference between:
+  - The **maximum allowable pension rate** (Column 2 of Schedule III), and  
+  - The recipient’s current pension rate.
+
+  This ensures that the pension is increased up to the maximum threshold for the recipient’s class.
+
+> **Example**: If a recipient has a pension of $30,000 and the maximum allowed is $40,000, Component B is $10,000. If the salary factor (from Schedule II) yields a 5% adjustment, Component A may be $1,500 (5% of $30,000), and the total increase is $11,500.
+
+---
+
+### **2. Deemed Ten-Year Average Salary Basis (Section 1, subsection)**
+
+If a pension was originally calculated using the **average annual salary over a period of service**, but **would have been calculated on a ten-year average** if the employee had 10+ years of pensionable service, then **for the purposes of this Act**, the pension is treated as being based on a **ten-year average salary**.
+
+> This ensures consistency in pension adjustments for individuals who may have had shorter service periods but whose pension was based on a longer-term salary average.
+
+---
+
+### **3. Multi-Pension Recipient Rules (Section 2)**
+
+Where a recipient receives **two pensions**, the increase is applied differently depending on the total pension amount and individual pension levels:
+
+#### **Case A**: First pension ≥ Column 1 of Schedule III  
+- Only the **first pension** is increased using the formula in **Section 3**.
+- The **second pension receives no increase**.
+
+> *Rationale*: If the first pension is already at or above the base threshold, it is considered sufficient, so no additional increase is needed for the second.
+
+#### **Case B**: Sum of both pensions < Column 1 of Schedule III  
+- **Both pensions** are increased using the formula in **Section 3**.
+
+#### **Case C**: First pension < Column 1 of Schedule III, but total > Column 1  
+- Both pensions are increased using the formula in **Section 3**.
+- For the second pension, the amount is **deemed** to be the difference between:
+  - Column 1 rate (the base threshold), and  
+  - The first pension rate.
+
+> This ensures that the total of both pensions reaches or exceeds the base threshold, even if one is below it.
+
+> **Important Limit**: The **total of all pensions + increases** must **not exceed** the maximum rate in **Column 2 of Schedule III** for the recipient’s class.
+
+---
+
+### **4. Three or More Pensions (Section 3)**
+
+If a recipient has **three or more pensions**, and the **total annual rate** of all pensions does **not exceed** the maximum rate in **Column 2 of Schedule III**:
+
+- Each pension is increased by an amount **determined by the Treasury Board**.
+- The **total increase** across all pensions is capped at the **lesser of**:
+  - The maximum annual increase in **Column 3 of Schedule III** for the recipient’s class, or  
+  - The amount remaining after subtracting the total pension amount from the Column 2 maximum.
+
+> This provides flexibility for multi-pension recipients while preventing excessive increases.
+
+---
+
+### **5. Special Provisions for Recipients Who Are Both Employees and Widows (Section 4)**
+
+This is a **critical exception** to the general increase rules:
+
+- If a person is **both an employee and a widow** (i.e., receiving pensions from both roles), then:
+
+  **A. If total pension exceeds $3,000/year**:  
+  → **No increase** is made in any pension.
+
+  **B. If total pension does not exceed $3,000/year**:  
+  → Each pension is increased **using the formula in Section 3**, subject to the same rules as in Section 2.
+
+> **Additional Cap on Total Increase**:
+> The **total increase** (across all pensions) must not exceed the lesser of:
+> - The amount remaining after subtracting the total pension amount from $3,000, and  
+> - An amount **determined by the Treasury Board**, but **no more than $640 per year**.
+
+> This protects low-income dual recipients from excessive increases while ensuring some benefit.
+
+---
+
+### **6. Exclusions and Limitations**
+
+- **No increase for pensions before August 1, 1959**:  
+  Pensions for service prior to August 1, 1959, are **not eligible** for adjustment under this Act.
+
+- **Only applies to pensions under specific Acts**:  
+  Increases are only made for pensions under:
+  - The *Public Service Superannuation Act* (for service in public service),
+  - The *Civil Service Superannuation Act* (for service in civil service),
+  - Other pension plans listed in Schedule I (e.g., National Harbours Board, Defence Services Pension Act, etc.).
+
+- **No increases for pensions under non-eligible plans**:  
+  For example, pensions under private or non-public service plans are excluded.
+
+---
+
+### **7. Regulatory Flexibility (Section 5)**
+
+- The **Governor in Council** (i.e., the federal government) may make **regulations** that:
+  - Allow for **reduction or suspension** of pension increases in cases where the recipient holds a position or performs services whose remuneration is paid from the **Consolidated Revenue Fund** or through an agent of Her Majesty in right of Canada.
+
+> This provides a mechanism to adjust increases in cases where public funds are being used for other purposes (e.g., high-level positions with special pay).
+
+---
+
+### **8. Timing of Increases (Section 6)**
+
+- The increase for a recipient who was a **"described recipient"** (i.e., one receiving pensions from April 1, 1959, to July 8, 1959) is **payable from April 1, 1959**, **notwithstanding Section 9** (which may otherwise delay payments).
+
+> This ensures that pension adjustments are applied promptly even in transitional periods.
+
+---
+
+### **9. Deemed Payment for Estate (Section 7)**
+
+- For purposes of **Section 15 of the Public Service Superannuation Act** (or similar provisions in other superannuation acts), any increase paid under this Act is **deemed to have been paid to the recipient under the relevant superannuation Act**.
+
+> This is important for estate claims: if a recipient dies, the estate can claim the increase as

@@ -1,0 +1,165 @@
+**Detailed Summary of the *Canadian Ownership and Control Determination Act***  
+
+---
+
+### **Overview**  
+The *Canadian Ownership and Control Determination Act* (COCD Act) is a legislative framework designed to establish clear and consistent standards for determining **Canadian ownership and control status** of individuals, corporations, partnerships, trusts, and other entities. Its primary purpose is to assess whether a person is "Canadian controlled" — a key factor in determining eligibility for certain types of investments, approvals, or benefits under Canadian foreign investment and ownership regimes.
+
+This Act operates in conjunction with the *Foreign Investment Review Act (FIRA)* and provides a structured methodology for evaluating ownership structures, including both **formal equity** and **informal equity**, to determine whether a person is Canadian controlled or not. It also governs the issuance, revocation, amendment, and redetermination of **certificates of Canadian ownership and control status**.
+
+---
+
+## **Key Definitions and Concepts**
+
+| Term | Meaning |
+|------|--------|
+| **Certificate** | A formal document issued by the Minister of Natural Resources that confirms a person’s Canadian ownership rate and/or control status. |
+| **Control Status** | Determines whether a person is "Canadian controlled" based on ownership structure and equity holdings. |
+| **Direct Equity Percentage** | The percentage of formal equity directly owned by a person in another entity. If the entity has multiple classes of equity, it is calculated as the aggregate fair market value of the person’s equity divided by the total fair market value of all equity. |
+| **Formal Equity** | Legally recognized ownership interests such as shares in a corporation, capital or income interests in a partnership, or beneficial interests in a trust. Excludes equity excluded by regulation. |
+| **Informal Equity** | Interests or rights (not formal) to participate in or benefit from the assets, revenues, or business activities of another person — e.g., management rights, voting influence, or residual profit-sharing — subject to regulation. |
+| **Investor** | A person who holds more than zero total equity percentage in an applicant for a certificate. |
+| **Owned** | Means beneficially owned; used interchangeably with "owner" and "ownership." |
+| **Person** | Includes individuals, corporations, partnerships, trusts, government bodies, segregated funds, and any other entity prescribed by regulation. |
+| **Prescribed** | Refers to rules or procedures set out in regulations or by order of the Minister. |
+
+---
+
+## **Core Principles and Framework**
+
+### **1. Determination of "Canadian Controlled" Status**
+- A person is **Canadian controlled** if:
+  - They are **not a non-eligible person**, and
+  - They meet the ownership thresholds under this Act and regulations.
+- A person is **not Canadian controlled** if they are a **non-eligible person**.
+
+> **Non-eligible person**: Defined under the *Foreign Investment Review Act (FIRA)*, but with specific modifications in this Act:
+> - As of **September 1, 1987**, subparagraph (a)(ii) of FIRA’s definition of non-eligible person is **deleted**.
+> - The clause about permanent residents who have lived in Canada for over one year after becoming eligible for citizenship is **removed**.
+> - This ensures that certain foreign nationals (especially long-term residents) may be treated differently than under the original FIRA.
+
+> **For partnerships and trusts**, the Act treats them as **corporations** for the purposes of determining control:
+> - The interests in capital or income are treated as **shares**.
+> - Beneficial owners are treated as **shareholders**.
+> - In a limited partnership, the **general partner** is treated as a **board member**.
+> - In a trust, **beneficial interests** are treated as shares; **trustees** are treated as **board members**.
+
+> **Minister’s FIRA Opinions Are Binding**:
+> - If the Minister designated under FIRA determines a person is **not a non-eligible person**, they are deemed **Canadian controlled** for as long as that opinion remains binding.
+> - If the Minister determines a person **is a non-eligible person** or demands notice, they are deemed **not Canadian controlled** until the opinion or demand ends.
+
+---
+
+### **2. Calculation of Total Equity Percentage**
+
+To determine ownership, the Act uses a **layered equity calculation**:
+
+#### **Direct Equity Percentage**
+- The proportion of formal equity directly held by a person in another entity.
+
+#### **Indirect Equity Percentage**
+- Calculated by multiplying:
+  - A person’s **direct equity** in another entity (say, A),
+  - By the **total equity percentage** (direct + indirect) of that other entity in the applicant (say, B).
+
+> Formula:  
+> Indirect equity in applicant = (Person’s direct equity in A) × (A’s total equity in applicant)
+
+> **Total Equity Percentage** =  
+> (Direct equity in applicant) +  
+> (Sum of [Equity in other person × that person’s direct equity in applicant])
+
+This method allows for **multi-tiered ownership chains** to be accounted for — e.g., A owns 50% of B, and B owns 30% of C; the total equity of A in C is calculated through the chain.
+
+---
+
+### **3. Role of Informal Equity**
+- The Minister may **adjust the Canadian ownership rate** based on **informal equity** if it is deemed appropriate in the circumstances.
+- Informal equity includes non-legal ownership interests such as:
+  - Management control
+  - Decision-making power
+  - Voting rights
+  - Profit-sharing arrangements
+- This gives flexibility to account for real-world influence beyond formal shareholding.
+
+> **Note**: The Act allows the Minister to **exercise discretion** in adjusting ownership rates where informal influence is significant, even if not reflected in formal equity.
+
+---
+
+## **Eligibility to Apply for a Certificate**
+
+Only the following entities may apply for a certificate:
+
+1. **Individuals** who are **not non-eligible persons**.
+2. **Corporations incorporated in Canada**.
+3. **Partnerships** where the partnership structure is governed by provincial law.
+4. **Trustees** of trusts where the trustee and beneficiaries are governed by provincial law.
+5. **Insurance companies** in Canada, in respect of their **segregated funds** (as defined in regulations).
+6. Any **person prescribed** by regulation or falling into a prescribed class.
+
+---
+
+## **Application Process and Requirements**
+
+- Every application must be:
+  - Filed in the **prescribed form and manner**.
+  - Include or be accompanied by **prescribed information and documentation**.
+- The Minister will:
+  - Acknowledge receipt of the application within **30 days** (by personal delivery or registered mail).
+  - Examine the application and any supplementary materials.
+  - Determine the **Canadian ownership rate** and/or **control status** in accordance with this Act and regulations.
+
+> **Timeframe for Issuance**:
+> - A certificate must be issued **within 90 days** of the acknowledged receipt date.
+> - If additional information is needed, the 90-day period **pauses** until the request is fulfilled or the audit completes.
+> - The new timeline resumes and runs for a period equal to:
+>   - **30 days**, plus
+>   - The **remaining time** from the original deadline.
+
+---
+
+## **Certificate Issuance and Effectiveness**
+
+- A certificate is **effective as of the acknowledged date** of receipt.
+- It remains valid for:
+  - **12 months** by default, or
+  - Up to **24 months** (in prescribed cases).
+- The Minister may:
+  - **Extend** the certificate by up to **6 months** for any class of persons.
+  - Issue a certificate with a **shorter effective period** upon request.
+  - **Reduce** the effective period of an existing certificate upon request.
+
+> **Automatic Renewal**:
+> - If a holder applies for a new certificate **before expiration** and complies substantially with the Act, the Minister may issue a new certificate **effective as of the expiry date** of the old one.
+
+---
+
+## **When a Certificate Must Be Amended or Replaced**
+
+A certificate must be amended or replaced if any of the following events occur:
+
+| Event | Description |
+|------|-------------|
+| **(a)** Holder ceases to be Canadian controlled | Certificate must be amended or replaced. |
+| **(b)** Canadian ownership rate drops by more than a prescribed number of percentage points | Requires amendment. |
+| **(c)** Applicant knows or should know that the certificate was based on an **error or false/misleading information** | Must be corrected. |
+| **(d)** Breach of any agreement, arrangement, or undertaking submitted with the application | Must be amended. |
+| **(e)** Minister issues a written notice requiring amendment | Holder must comply within 30 days (or longer if allowed). |
+
+> **Failure to Comply**:
+> - If the holder fails to respond to a ministerial notice within the deadline, the certificate **ceases to be effective** on the day the event occurred.
+
+---
+
+## **Amendments to Existing Certificates**
+
+- A holder may apply to:
+  - File a **new application** or **amend** the original one if:
+    - Their ownership has increased,
+    - They have become Canadian controlled,
+    - Or they believe their status has changed.
+
+> **Effective Dates of New Certificates**:
+> - For changes due to **increase in ownership or becoming controlled**: Effective as of the day the change occurred.
+> - For changes due to **decrease in ownership or breach**: Effective as of the day the current certificate became effective.
+> - For new applications (e.g., renewal): Effective

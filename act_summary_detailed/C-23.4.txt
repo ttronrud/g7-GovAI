@@ -1,0 +1,204 @@
+**Detailed Summary of the *Canadian Transportation Accident Investigation and Safety Board Act***  
+
+---
+
+### **Overview**
+
+The *Canadian Transportation Accident Investigation and Safety Board Act* (the "Act") establishes the **Canadian Transportation Accident Investigation and Safety Board (CTAISB)**, an independent, non-punitive body tasked with enhancing transportation safety across Canada. The Act provides the legal framework for the Board’s mandate, structure, powers, duties, and operational procedures in relation to aviation, marine, railway, and pipeline transportation occurrences.
+
+The Board operates independently of government departments and is empowered to conduct investigations into transportation accidents and incidents, identify safety deficiencies, and make public recommendations to prevent future harm. It does **not assign fault or liability**, but instead focuses on root causes and contributing factors to promote systemic safety improvements.
+
+---
+
+## **Key Provisions and Detailed Summary**
+
+---
+
+### **1. Definition of Key Terms**
+
+The Act defines several core terms to clarify scope and application:
+
+- **Aircraft**: Any machine (including rockets) that derives lift from atmospheric reactions, excluding machines that rely on propulsion against Earth’s surface (e.g., ground vehicles).
+  
+- **Aviation Occurrence**:  
+  - Any accident or incident involving aircraft;  
+  - Any situation the Board reasonably believes could lead to such an accident if unaddressed.
+
+- **Marine Occurrence**:  
+  - Any accident or incident involving ships;  
+  - Any situation the Board believes could lead to such an accident if unattended.
+
+- **Railway Occurrence**:  
+  - Any accident or incident involving rolling stock on railways;  
+  - Any condition that could lead to such an incident.
+
+- **Pipeline Occurrence**:  
+  - Any accident or incident involving pipelines;  
+  - Any condition the Board believes could lead to such an incident.
+
+- **Rolling Stock**: All railway equipment designed for movement on rails (e.g., locomotives, cars, tenders, snowplows).
+
+- **Ship**: Includes all vessels and crafts used for marine navigation, including dynamically supported crafts (e.g., hovercrafts or vessels with dynamic lift).
+
+- **Transportation Occurrence**: A general term encompassing any of the above—aviation, marine, railway, or pipeline occurrences.
+
+- **Coroner**: Includes medical examiners or any person fulfilling coroner duties.
+
+- **Department**: Refers to any federal department, including the Minister and any person acting on their behalf, or bodies established by them.
+
+- **Dynamically Supported Craft**: A vessel that uses forces other than hydrostatics to balance its weight or operates at speeds where $ v/\sqrt{gL} \geq 0.9 $ (a measure of dynamic stability).
+
+---
+
+### **2. Jurisdiction and Application of the Act**
+
+The Act applies to transportation occurrences in specific geographic and situational contexts:
+
+#### **Aviation Occurrences**
+Applies when:
+- Occurring **in or over Canada**;
+- Occurring **in or over areas under Canadian air traffic control**;
+- Occurring **elsewhere**, if:
+  - Canada is requested to investigate by an appropriate authority; or
+  - The aircraft is operated by a person holding a Canadian aviation document (under Part I of the *Aeronautics Act*).
+
+#### **Marine Occurrences**
+Applies when:
+- Occurring **in Canada**;
+- Occurring **abroad**, if:
+  - Requested by an appropriate authority;
+  - Involves a ship **registered or licensed in Canada**;
+  - A competent witness or person with relevant information arrives or is found in Canada.
+
+**Special Provision**: Applies to marine or pipeline occurrences related to **exploration or exploitation of Canada’s continental shelf**.
+
+#### **Railway and Pipeline Occurrences**
+Applies when:
+- Occurring **in Canada**, if the railway or pipeline falls within **Parliament’s legislative authority**;
+- Occurring **outside Canada**, if requested by an appropriate authority.
+
+> ⚠️ **National Security Exception**: The application of the Act to transportation occurrences may be restricted by the *National Defence Act* or by regulations or orders made by the Governor in Council, particularly where national security is at stake.
+
+---
+
+### **3. Establishment of the Board**
+
+- The Board is formally established as a **body corporate** and is an **agent of Her Majesty in right of Canada**.
+- Composed of **no more than five members**, appointed by the **Governor in Council**.
+- **At least three members must be full-time**.
+- Members are appointed based on **collective expertise in air, marine, rail, and pipeline transportation**.
+
+#### **Term of Office**
+- Initial term: **up to seven years**.
+- May be **reappointed**.
+- Can be **removed at any time for cause**.
+- The Governor in Council is required to ensure that, despite periodic changes, the Board **retains at least some members with prior experience** as Board members.
+
+#### **Remuneration and Expenses**
+- Full-time members receive **fixed remuneration**.
+- Part-time members receive **fees**.
+- Members are entitled to **reasonable travel and living expenses** incurred while performing duties outside their ordinary place of work/residence.
+
+#### **Public Service Status**
+- Full-time members are **deemed employed in the public service** under the *Public Service Superannuation Act*.
+- Members are **deemed employees** under the *Government Employees Compensation Act* and are considered part of **federal public administration** under regulations under the *Aeronautics Act*.
+
+---
+
+### **4. Role of the Chairperson**
+
+- The Chairperson is **designated by the Governor in Council**.
+- Serves as the **chief executive officer** of the Board and has **exclusive responsibility** for:
+  - Managing personnel, financial, and property matters;
+  - Directing staff and apportioning work (subject to section 10(2) and (3));
+  - Directing members and apportioning their work (subject to section 8);
+  - Convening and presiding over Board meetings (as per by-laws).
+
+#### **Delegation Powers**
+- The Chairperson may delegate:
+  - Authority to convene or preside at meetings;
+  - Authority to direct members or apportion work.
+- **Cannot delegate** powers related to financial or property management.
+- Delegations can be **revoked at any time** by the Chairperson.
+
+#### **Succession in Absence or Vacancy**
+- If the Chairperson is absent or incapacitated, a **designated member** (previously or newly appointed) acts as Chairperson until a new one is named.
+
+---
+
+### **5. Conflict of Interest and Personal Restrictions**
+
+To ensure independence and impartiality, members are prohibited from:
+
+- Being directly or indirectly:
+  - Engaged in **any transportation undertaking or business** (air, marine, rail, pipeline);
+  - Holding an **interest** (ownership, equity, partnership, etc.) in such undertakings or in the **manufacture or distribution of transportation equipment**.
+
+> ⚠️ **Exception**: Distribution of goods that is merely incidental to general merchandising is permitted.
+
+- **Immediate Disposal of Interests**: If a member acquires an interest (by gift, will, succession, etc.), they must **dispose of it absolutely within three months**.
+
+- **Additional Restrictions During Term of Office**:
+  - Cannot accept any office, employment, or activity inconsistent with their duties.
+
+These rules are designed to prevent bias and ensure the Board’s independence and credibility.
+
+---
+
+### **6. Objectives and Core Functions**
+
+The primary objectives of the Board are:
+
+1. **Conduct independent investigations** (including public inquiries) into selected transportation occurrences to determine:
+   - Causes and contributing factors;
+   - Safety deficiencies.
+
+2. **Identify and recommend actions** to eliminate or reduce identified safety deficiencies.
+
+3. **Publish public reports** on findings and recommendations.
+
+> 🔍 **Important Clarification**:  
+> - The Board **does not assign fault or determine civil or criminal liability**.  
+> - However, it **must fully report on causes and contributing factors**, even if fault or liability may be inferred.  
+> - **Findings are not binding** on any parties involved in legal, disciplinary, or other proceedings.
+
+---
+
+### **7. Board Governance and Decision-Making**
+
+At meetings convened under section 12, the Board is empowered to:
+
+- Make **by-laws** governing meeting conduct;
+- Establish **policies** on:
+  - Which types of transportation occurrences to investigate;
+  - Procedures and standards for conducting investigations;
+- Review reports from Directors of Investigations and **require further investigation** if needed;
+- **Determine findings** on causes and contributing factors;
+- Identify **safety deficiencies**;
+- Make **recommendations** deemed appropriate.
+
+> ✅ The Board must make public any policies established under these powers.
+
+---
+
+### **8. Staffing and Leadership**
+
+- The Board appoints necessary employees under the *Public Service Employment Act*.
+- Includes:
+  - **Director of Investigations (Air)** – leads aviation investigations;
+  - **Director of Investigations (Marine)** – leads marine investigations;
+  - **Director of Investigations (Rail and Pipelines)** – leads rail and pipeline investigations;
+  - **Other investigators** to support the Directors.
+
+#### **Authority of Directors**
+- Each Director has **exclusive authority** to conduct investigations in their respective domain (aviation, marine, rail/pipeline).
+- Must operate **in accordance with Board policies** (as established under section 8).
+- Must **report to the Board** and may be required to conduct further investigations as directed.
+
+#### **Temporary Technical Assistance**
+- The Chairperson may engage **temporary experts** with specialized knowledge (e.g., engineers, accident analysts) to assist in investigations.
+- These experts are paid by the Board with **Treasury Board approval**.
+
+---
+
+### **9. Legal Status

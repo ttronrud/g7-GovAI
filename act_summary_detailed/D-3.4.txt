@@ -1,0 +1,104 @@
+**Detailed Summary of the *Divorce Act* (Canada)**
+
+---
+
+### **Overview**
+
+The *Divorce Act* is a foundational piece of federal legislation in Canada that governs family law matters related to divorce, spousal support, child support, parenting arrangements, and related issues. It provides a comprehensive legal framework for resolving disputes between spouses or former spouses, with a primary focus on the best interests of children and the protection of family members from abuse and conflict.
+
+This summary provides a detailed, structured breakdown of key definitions, jurisdictional rules, procedural mechanisms, and principles underpinning the Act — particularly emphasizing its evolution, modernization, and emphasis on child welfare.
+
+---
+
+## **I. Key Definitions and Interpretations**
+
+The Act begins with a comprehensive list of definitions that establish the legal language and scope of the legislation. These definitions are critical for interpreting the rights, responsibilities, and procedural requirements of parties involved in family law proceedings.
+
+| Term | Meaning and Significance |
+|------|--------------------------|
+| **Age of Majority (for a child)** | The age at which a child becomes legally independent. For children residing in Canada, it is the age of majority under provincial law. If outside Canada, it is 18 years. This determines whether a child is considered a "child of the marriage" and whether they can withdraw from parental charge. |
+| **Appellate Court** | The court that hears appeals from lower courts in a jurisdiction. In family law, this may involve the Federal Court or provincial appellate courts. |
+| **Applicable Guidelines** | Determines how child support is calculated. If both spouses reside in the same province and that province has comprehensive child support guidelines (as designated by order), those provincial rules apply. Otherwise, the **Federal Child Support Guidelines** apply. The Federal guidelines are based on income, number of children, and other factors. |
+| **Child of the Marriage** | A child under the age of majority who has not withdrawn from parental care, or a child over the age of majority who is unable due to illness, disability, or other reasons to obtain basic necessities or withdraw from parental care. Includes children where one parent is a legal parent and the other stands in the place of a parent. |
+| **Child Support Order** | A court-ordered payment made by one parent to another for the financial support of a child. Established under section 15.1(1). |
+| **Competent Authority** | A foreign tribunal or entity that has jurisdiction over a matter under its own laws — relevant when resolving cross-border family law issues (e.g., international child support or custody). |
+| **Contact Order** | An order allowing a child to maintain regular contact with a parent or family member who does not have primary parenting time. Made under section 16.5(1). |
+| **Corollary Relief Proceeding** | A proceeding where one or both former spouses seek a child support, spousal support, or parenting order *alongside* a divorce or separation. These are often bundled with divorce proceedings. |
+| **Court (by Province)** | Specifies which provincial court has jurisdiction in each province. Includes Superior Courts, Supreme Courts, and Court of Queen’s Bench. Also allows for designation of additional courts by the Lieutenant Governor in Council. |
+| **Decision-Making Responsibility** | The right and duty to make major decisions about a child’s life, including health, education, religion, culture, and extracurricular activities. Not the same as parenting time. |
+| **Divorce Proceeding** | A legal process initiated by either or both spouses to obtain a divorce. May include requests for spousal or child support or parenting orders. |
+| **Family Dispute Resolution Process** | Encourages parties to resolve disputes outside of court through negotiation, mediation, or collaborative law. A key principle of the Act to reduce litigation and promote cooperation. |
+| **Family Justice Services** | Public or private services (e.g., legal aid, counseling, mediation) designed to assist individuals during separation or divorce. |
+| **Family Member** | Includes members of a household, spouses, former spouses, and dating partners who participate in household activities. Broadens the definition to include emotional and social connections. |
+| **Family Violence** | A broad definition including physical, sexual, psychological, financial, emotional, and property-related abuse. Includes threats, harassment, failure to provide basic needs, and stalking. Explicitly includes children’s exposure to such conduct. |
+| **Federal Child Support Guidelines** | The official guidelines established under section 26.1 to determine child support amounts based on income, number of children, and other factors. Used when no provincial guidelines exist. |
+| **Legal Adviser** | A qualified individual (e.g., lawyer) who can provide legal advice or represent a party in a proceeding under the Act. |
+| **Order Assignee** | A government body (e.g., a ministry or agency) to whom a child support order is assigned to collect and enforce payments. |
+| **Parenting Order** | A court order that outlines parenting responsibilities, including decision-making and parenting time. Made under section 16.1(1). |
+| **Parenting Time** | The time a child spends in the care of a parent, even if not physically present during the entire period. Includes overnight stays, holidays, etc. |
+| **Provincial Child Support Service** | A government agency or body designated under agreements with provinces to administer and enforce child support orders. |
+| **Relocation** | A significant change in a child’s residence or a parent’s residence that could disrupt the child’s relationship with a parent or guardian. Triggers special procedures to assess impact. |
+| **Spousal Support Order** | A court-ordered payment from one former spouse to another to compensate for loss of income or lifestyle after separation. Made under section 15.2(1). |
+| **Spouse** | Includes former spouses in the context of support and parenting orders. |
+| **Support Order** | A general term covering both child support and spousal support. |
+| **Variation Order** | A court order modifying an existing support or parenting order (e.g., due to a change in circumstances). Made under section 17(1). |
+| **Variation Proceeding** | A legal process to seek a modification of an existing order. |
+
+> **Note on Repealed Provisions**:  
+> The definitions of *custody* and *custody order* were **repealed in 2019** (via *c. 16, s. 1*) and replaced with **parenting orders** and **decision-making responsibility**, reflecting a shift from traditional custody models to a more child-centered, holistic approach focused on the child’s well-being.
+
+---
+
+## **II. Jurisdiction and Court Jurisdiction Rules**
+
+The Act establishes clear rules about which court has jurisdiction to hear various types of family law proceedings. These rules are designed to ensure fairness, avoid duplication, and protect children from conflicting decisions.
+
+### **1. Divorce Proceedings**
+
+- A court in a province has jurisdiction if **either spouse has been habitually resident** in that province for **at least one year** before the proceeding begins.
+- If **two divorce proceedings** are filed in different provinces on different days:
+  - The **first proceeding** has **exclusive jurisdiction**.
+  - The second proceeding is **deemed discontinued**.
+- If both proceedings begin on the **same day** and neither is discontinued within **40 days**:
+  - The **Federal Court** decides which court retains jurisdiction.
+  - Rules for determining jurisdiction:
+    - If **any proceeding includes a parenting order**: jurisdiction goes to the province where the **child is habitually resident**.
+    - If **no parenting order is involved**: jurisdiction goes to the province where the spouses **last shared a habitual residence** (if one spouse is resident there).
+    - In all other cases: the Federal Court determines the most appropriate court.
+
+> This ensures that family law matters involving children are handled in the most appropriate location — usually where the child lives.
+
+---
+
+### **2. Corollary Relief Proceedings** (e.g., child or spousal support, parenting orders)
+
+- Jurisdiction exists if:
+  - Either former spouse is **habitually resident** in the province at the start of the proceeding; **or**
+  - Both spouses **accept jurisdiction**.
+- Same rules apply as for divorce proceedings when two proceedings are filed:
+  - First-filed proceeding has **exclusive jurisdiction**.
+  - If filed on the same day and no discontinuance within 40 days, the **Federal Court** determines jurisdiction.
+  - Rules are identical to those in divorce proceedings, with special emphasis on **child residency** and **shared residence history**.
+
+---
+
+### **3. Variation Proceedings** (modifying existing orders)
+
+- Jurisdiction exists if:
+  - Either former spouse is **habitually resident** in the province; **or**
+  - Both accept jurisdiction.
+- Same conflict resolution rules apply:
+  - First-filed proceeding wins unless discontinued.
+  - If filed on the same day and no discontinuance within 40 days, the **Federal Court** resolves jurisdiction.
+  - Rules:
+    - If variation involves a **parenting order**: jurisdiction goes to the province where the **child is habitually resident**.
+    - If no parenting order is involved: jurisdiction goes to the province where the spouses **last shared a habitual residence** (if one is resident).
+    - Otherwise: Federal Court determines the most appropriate court.
+
+> This ensures consistency and avoids multiple overlapping proceedings.
+
+---
+
+### **4. Transfer of Proceedings (When Child Resides Elsewhere)**
+
+- If a **parenting order** application is filed in a province, but the **child is habitually resident in another province**, the court may **transfer** the proceeding to the province where the child lives — on application by a spouse or

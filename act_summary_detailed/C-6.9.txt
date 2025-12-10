@@ -1,0 +1,174 @@
+### **Detailed Summary of the Canada–Moldova Tax Convention Act, 2002**
+
+---
+
+#### **1. Overview of the Act**
+
+The **Canada–Moldova Tax Convention Act, 2002** is a domestic legislation enacted by the Government of Canada to give legal force and effect in Canada to the **Canada–Moldova Convention for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income**, which was signed on December 13, 2002, and entered into force on the same date. This Act ensures that the Convention is legally binding and enforceable within Canada, thereby facilitating tax cooperation between Canada and the Republic of Moldova.
+
+---
+
+#### **2. Key Definitions and Interpretations**
+
+The Act establishes clear definitions of key terms used throughout the Convention to ensure consistency and clarity in its application:
+
+- **"Convention"**: Refers to the bilateral tax treaty between Canada and Moldova, as set out in **Schedule 1**, as amended by the **Protocol in Schedule 2**.
+- **"Contracting States"**: Canada and the Republic of Moldova.
+- **"Canada" (geographically)**: Includes Canada’s territorial waters, seabed, subsoil, and natural resources, as well as airspace above these areas, under international law and Canadian law.
+- **"Moldova" (geographically)**: Includes all land, subsoil, waters, and aerial space within its sovereign borders, as per its internal laws and international obligations.
+- **"Person"**: Encompasses individuals, trusts, companies, partnerships, and other legal entities.
+- **"Company"**: Any body corporate or entity treated as such for tax purposes.
+- **"Enterprise"**: A business carried on by a resident of one of the Contracting States.
+- **"Competent Authority"**:
+  - In Canada: Minister of National Revenue or their authorized representative.
+  - In Moldova: Minister of Finance or their authorized representative.
+- **"National"**: An individual or legal entity deriving status from the laws of a Contracting State.
+- **"International Traffic"**: Transport via ships or aircraft operated by a Contracting State’s enterprise, **excluding** transport primarily for passenger or property movement between places in the other country.
+
+> **Note**: Terms not defined in the Convention are interpreted according to their meaning under the domestic tax laws of the respective country at the time of application.
+
+---
+
+#### **3. Residency Rules**
+
+Residency is a foundational concept in determining where income is taxable. The Act provides detailed rules for determining residency for individuals and companies.
+
+##### **For Individuals:**
+An individual is considered a resident of a Contracting State if they have:
+- A **permanent home** (domicile, residence, place of management, registration, or incorporation).
+- **Exception**: Individuals not taxed only on income from sources within the State are excluded.
+
+If an individual is a resident of both countries:
+1. **Centre of vital interests** (personal and economic ties) determines residency — if shared, the state with closer ties wins.
+2. If no such centre can be determined or no permanent home exists, residency is assigned to the state where the individual has an **habitual abode**.
+3. If habitual abode exists in both or neither, residency is assigned to the **nationality** of the individual.
+4. If the individual is a national of both or neither, the **competent authorities** must resolve the issue through mutual agreement.
+
+##### **For Companies:**
+A company is a resident of only one country:
+- If it is a national of one country → resident of that country.
+- If it is a national of neither → resident of the country where its **place of effective management** is located.
+
+##### **For Other Persons (e.g., trusts, partnerships):**
+- The competent authorities must resolve residency by mutual agreement.
+- In the absence of agreement, such persons are **not entitled** to any tax relief or exemption under the Convention.
+
+---
+
+#### **4. Permanent Establishment (PE)**
+
+A **permanent establishment (PE)** is a fixed place of business through which an enterprise conducts business. This is critical in determining where profits are taxed.
+
+##### **What Constitutes a PE:**
+- Place of management
+- Branch, office, factory, workshop
+- Mine, oil/gas well, quarry, or other natural resource exploration/exploitation site
+
+> **Important**: A building site, construction project, or supervisory activity **only constitutes a PE if it lasts more than 12 months**.
+
+##### **Exclusions from PE Status:**
+The following activities do **not** constitute a PE:
+- Use of facilities solely for **storage, display, or delivery** of goods.
+- Maintenance of goods stock for **storage, display, or delivery**.
+- Maintenance of stock for **processing by another enterprise**.
+- Fixed place used only for **purchasing goods or collecting information**.
+- Fixed place used only for **preparatory or auxiliary activities**.
+
+> **Exception**: If the overall activity is preparatory or auxiliary, it still does not constitute a PE.
+
+##### **Special Rule for Agents**:
+- An individual acting on behalf of an enterprise with **authority to conclude contracts** is deemed to have a PE in the host country **unless** their activities are limited to those excluded above.
+
+##### **Special Rule for Insurance Enterprises**:
+- An insurance company of a Contracting State is deemed to have a PE in the other country **if it collects premiums or insures risks in that country**, **except** in the case of reinsurance.
+
+> **Note**: Control or business activity through a PE **does not** automatically create a PE for the other company.
+
+---
+
+#### **5. Taxation of Income from Immovable Property**
+
+Income derived from **immovable property** (real estate) located in the other country may be taxed in that country.
+
+##### **Definition of Immovable Property**:
+Includes:
+- Land and buildings
+- Property accessory to real estate
+- Livestock and equipment used in agriculture or forestry
+- Rights to mineral deposits, natural resources
+- Usufruct rights
+- Payments for working or rights to work in natural resources
+
+> **Exclusion**: Ships and aircraft are **not** considered immovable property.
+
+##### **Applicability**:
+- Income from **direct use, letting, or alienation** of immovable property.
+- Income from **enterprises** using immovable property.
+- Income from **independent personal services** performed on such property.
+
+> This means the country where the property is located may tax income generated from it — even if the resident is from the other country.
+
+---
+
+#### **6. Taxation of Profits of Enterprises**
+
+General rule:
+- Profits of an enterprise are taxable **only in the State of residence** of the enterprise.
+- **Exception**: If the enterprise carries on business in the other country through a **permanent establishment**, then profits attributable to that PE may be taxed in the other country.
+
+##### **Attribution of Profits to a PE**:
+- Profits are attributed to the PE as if it were a **separate, independent enterprise** under similar conditions.
+- The attribution is based on **expected profits** under market conditions.
+
+##### **Deductible Expenses**:
+- All expenses incurred for the PE are deductible, including executive and administrative costs.
+- **Exclusions**:
+  - Royalties, fees, commissions, or interest paid to the head office or other offices **for use of patents, management, or services**.
+  - **Exception**: Interest payments are allowed only in the case of **banking enterprises**.
+
+> **No profit attribution** occurs simply because the PE purchases goods or merchandise.
+
+##### **Annual Methodology**:
+- Profits are determined **year by year** using the same method unless there is **good and sufficient reason** to vary it.
+
+> **Note**: If income is already covered under other articles (e.g., dividends, royalties), those articles are not affected.
+
+---
+
+#### **7. Profits from Ships and Aircraft in International Traffic**
+
+General rule:
+- Profits from operating ships or aircraft in **international traffic** are taxable **only in the home country** of the enterprise.
+
+##### **Exception**:
+- If a ship or aircraft is used **primarily to transport passengers or property exclusively between places in the other country**, then the profits may be taxed in that other country.
+
+> Applies to:
+- Chartering or renting ships or aircraft
+- Rental of containers or related equipment
+- If such operations are **incidental** to the core operation of the vessel or aircraft.
+
+---
+
+#### **8. Transfer Pricing and Related Party Transactions**
+
+This section addresses situations where **related enterprises** (same owners or management) operate under **unequal or non-market terms**.
+
+##### **Key Provisions**:
+- If one enterprise controls or is controlled by another, or if the same persons control both, and commercial or financial conditions differ from those between independent enterprises:
+  - Any income that would have accrued to one enterprise but was **diverted due to non-market conditions** may be included in the income of the enterprise and taxed accordingly.
+
+- If a country includes income in its tax base that was previously taxed in the other country, and such income would have accrued to the first country under market conditions:
+  - The other country must make an **appropriate tax adjustment** to avoid double taxation.
+
+> **Adjustment Limitations**:
+- The tax change **cannot occur after five years** from the end of the year in which the income would have accrued.
+- The adjustment must be made within the time limits provided by national law.
+
+> **Exemption**: These rules **do not apply** in cases of **fraud, wilful default, or neglect**.
+
+---
+
+#### **9. Dividends**
+
+Dividends paid by a Canadian-resident company to a Moldovan-resident shareholder may be taxed in Mold

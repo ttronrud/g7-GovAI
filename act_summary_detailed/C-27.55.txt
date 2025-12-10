@@ -1,0 +1,178 @@
+**Detailed Summary of the *Charities Registration (Security Information) Act***
+
+---
+
+### **Act Title**  
+*Charities Registration (Security Information) Act*
+
+---
+
+### **Purpose and Objectives**
+
+The primary purpose of this Act is to:
+
+1. **Support Canada’s international commitment** to denying support to individuals and organizations involved in terrorist activities.
+2. **Protect the integrity of Canada’s charitable registration system** under the *Income Tax Act*, ensuring that only organizations operating exclusively for charitable purposes receive registration benefits.
+3. **Maintain public confidence among Canadian taxpayers** by ensuring that charitable registration is not abused by entities linked to terrorism or other prohibited activities.
+
+This Act operates within a framework that balances **national security concerns** with **transparency and fairness** in the evaluation process.
+
+---
+
+### **Key Principles**
+
+Two foundational principles guide the operation of the Act:
+
+1. **National Security and Safety First**:  
+   Taxpayers’ confidence may require the use of sensitive information (e.g., security or criminal intelligence) that, if disclosed, could harm national security or endanger individuals.
+
+2. **Fairness and Transparency in Decision-Making**:  
+   Despite the sensitivity of the information involved, the process for determining whether an applicant or registered charity is eligible must be as **fair, transparent, and accountable** as possible—while respecting national security and public safety.
+
+---
+
+### **Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Applicant** | A corporation, organization, or trust applying to the Minister of National Revenue to become a registered charity. |
+| **Information** | Includes security or criminal intelligence information, and information obtained in confidence from: <br> • Canadian sources <br> • Foreign governments <br> • International organizations of states <br> • Institutions of such governments or organizations. |
+| **Judge** | The Chief Justice of the Federal Court or a judge designated by the Chief Justice. |
+| **Minister** | The Minister of Public Safety and Emergency Preparedness (not the Minister of National Revenue, though both are involved). |
+| **Registered Charity** | As defined in subsection 248(1) of the *Income Tax Act*—an entity operating exclusively for charitable purposes. |
+
+---
+
+### **Certificate Process: Determining Eligibility**
+
+#### **1. Issuance of a Certificate**
+- The **Minister of Public Safety and Emergency Preparedness** and the **Minister of National Revenue** may jointly issue a **certificate** stating that, based on confidential information, there are **reasonable grounds to believe** that:
+  - An applicant or registered charity has, makes, or will make available resources (directly or indirectly) to a **"listed entity"** (as defined in subsection 83.01(1) of the *Criminal Code*), which is engaged in or supports terrorist activities;
+  - Or, that the applicant or charity has made or will make available resources to an entity that is **engaged in or will engage in terrorist activities**.
+
+> **Note**: A certificate is **not a statutory instrument** under the *Statutory Instruments Act*—it is a formal administrative determination based on intelligence.
+
+#### **2. Service of the Certificate**
+- As soon as the certificate is signed, the Minister (or an authorized person) must:
+  - Serve a **copy of the certificate** and a **notice** to the applicant or charity **personally or by registered mail** to its last known address.
+  - The notice must inform the entity that:
+    - The certificate will be **referred to the Federal Court** no earlier than **seven days after service**.
+    - If the Court determines the certificate is reasonable, the entity will be **ineligible to register** or its **registration will be revoked**.
+
+#### **3. Non-Reviewability of the Certificate**
+- The certificate and all matters arising from it are **not subject to review, restraint, removal, or appeal**—except as provided for in this Act.
+
+---
+
+### **Federal Court Review Process**
+
+#### **4. Filing and Service**
+- Within **seven days of service** (or as soon as practicable), the Minister must:
+  - File a copy of the certificate in the **Federal Court** under section 7.
+  - Serve a notice on the applicant or charity informing them of the filing.
+
+#### **5. Determination by the Judge**
+The Federal Court judge will determine whether the certificate is **reasonable** based on the available information and evidence. Key provisions include:
+
+- **Confidentiality of Sensitive Information**:  
+  Any information whose disclosure would injure national security **must be returned to the Ministers** and **not considered** by the judge unless:
+  - The judge determines it is not relevant, or
+  - It is part of a summary provided to the applicant/charity, or
+  - The matter is withdrawn.
+
+- **Right to Be Heard**:  
+  The applicant or registered charity is given a **full opportunity to be heard** before the judge.
+
+- **Admissible Evidence**:  
+  The judge may accept **any evidence that is reliable and appropriate**, even if it would be inadmissible in a regular court proceeding (e.g., intelligence reports, unverified sources).  
+  → This is governed by **sections 38.2 to 38.45 of the Canada Evidence Act**.
+
+- **Final Determination**:  
+  The judge decides whether the certificate is **reasonable** based on the information available.
+
+#### **6. Outcome of the Determination**
+- If the judge finds the certificate **not reasonable**, it is **quashed**.
+- If the certificate is found to be **reasonable**, it becomes **conclusive proof** that:
+  - For an applicant: it is **ineligible to become a registered charity**.
+  - For a registered charity: it **does not comply** with the requirements to remain registered.
+
+> **Finality**: The judge’s determination is **final and not subject to appeal or judicial review**.
+
+---
+
+### **Public Notification**
+
+- The Minister must, **without delay**, publish the certificate in the **Canada Gazette** after a determination that it is reasonable.
+
+> *Note*: This publication serves as public notice of the decision and reinforces accountability.
+
+---
+
+### **Review Mechanism (When Circumstances Change)**
+
+An applicant or former registered charity that believes there has been a **material change in circumstances** since the original determination may apply for a **review** of the certificate.
+
+#### **Process for Review**
+- The applicant must submit a written application to the Minister.
+- The Minister must **notify the Minister of National Revenue** of the application within a reasonable time.
+- The Ministers may consider:
+  - Submissions from the applicant.
+  - Any new information provided.
+- The Ministers must issue a decision within **120 days** of receiving the application.
+
+#### **Possible Outcomes of Review**
+- **No Material Change**: The Ministers deny the review request.
+- **Material Change in Circumstances**: The Ministers assess whether there are **reasonable grounds** to believe the entity now supports terrorism. If so, they may:
+  - **Continue** the certificate (i.e., maintain the ineligibility).
+  - **Cancel** the certificate (i.e., allow registration or continuation).
+- If no decision is made within 120 days, the certificate is **automatically cancelled** at the end of that period.
+
+#### **Service of Review Decision**
+- As soon as a decision is made or the certificate is cancelled, the applicant is served with notice by registered mail or personal delivery.
+
+---
+
+### **Judicial Review of Ministerial Decisions**
+
+An applicant or former charity may apply to the **Federal Court** for a judicial review of a decision made by the Ministers under the review process.
+
+#### **Process**
+- The Court follows the **same procedures as the original determination** (section 6), with any necessary adaptations.
+- If the Court **quashes**:
+  - A decision under **paragraph 10(5)(a)** (no material change), the Court refers the matter back to the Ministers for a new decision.
+  - A decision under **subparagraph 10(5)(b)(i)** (material change and continuation), the certificate is **automatically cancelled** as of the date of the quashing decision.
+
+> **Finality**: The Court’s decision is **final and not subject to appeal or judicial review**.
+
+---
+
+### **Cancellation and Publication of Cancellation**
+
+- The Minister must publish in the **Canada Gazette** a notice of cancellation in one of the following cases:
+  - A decision under **subparagraph 10(5)(b)(ii)** (cancellation due to material change and cancellation of certificate).
+  - Operation of **subsection 10(6)** (no decision made within 120 days).
+  - A Federal Court determination under **subsection 11(4)** (quashing of a ministerial decision).
+
+---
+
+### **Duration of Certificates**
+
+- A certificate is **effective for seven years** from the day it is first determined to be reasonable.
+- After this period, it expires unless renewed or cancelled earlier.
+
+---
+
+### **Regulatory Authority**
+
+- The **Governor in Council** (i.e., the federal government) may make **regulations** necessary to implement the Act, including procedural details, definitions, or administrative requirements.
+
+---
+
+### **Key Legal and Policy Implications**
+
+| Feature | Significance |
+|--------|-------------|
+| **Use of Confidential Intelligence** | Allows use of sensitive security information to prevent terrorist financing through charities. |
+| **Judicial Oversight** | Provides a formal, court-based review to ensure decisions are not arbitrary, even though finality is absolute. |
+| **Limited Public Access** | The identities of applicants or charities may be protected from public disclosure through judicial orders. |
+| **Transparency and Fairness** | Entities are given a hearing and can submit evidence, even if intelligence

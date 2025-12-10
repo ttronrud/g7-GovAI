@@ -1,0 +1,164 @@
+**Detailed Summary of the Canada–Turkey Tax Convention Act, 2010**
+
+---
+
+### **Overview**
+
+The *Canada–Turkey Tax Convention Act, 2010* is a domestic enabling legislation that gives legal force and effect in Canada to the **Canada–Turkey Convention for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and on Capital**, as set out in Schedule 1 and amended by the Protocol in Schedule 2. This Act ensures that the international tax treaty between Canada and Turkey is fully recognized, implemented, and enforceable within Canada’s legal framework.
+
+The primary objective of the Convention is to **prevent double taxation** and **avoid fiscal evasion** by clearly defining how income and capital gains are taxed for residents of either country, and establishing rules for tax credits, exemptions, and mutual agreements on tax treatment.
+
+---
+
+## **Key Provisions and Detailed Summary**
+
+---
+
+### **1. Citation and Definitions**
+
+- **Citation**: The Act is titled *Canada–Turkey Tax Convention Act, 2010*.
+- **"Convention"**: Refers to the bilateral tax treaty between Canada and Turkey, as detailed in Schedule 1, and amended by the Protocol in Schedule 2.
+- **Force of Law**: The Convention is approved and has full legal force in Canada **during the period it is in force**, as stipulated in the treaty itself.
+- **Hierarchy of Law**: In case of inconsistency:
+  - The provisions of **this Act and the Convention prevail** over any conflicting domestic law.
+  - If there is an inconsistency between the Convention and the *Income Tax Conventions Interpretation Act*, then **that Act prevails** to the extent of the inconsistency.
+- **Regulations Power**: The **Minister of National Revenue** may issue regulations necessary to implement the Convention or give effect to its provisions.
+- **Notice of Entry/Exit**: The **Minister of Finance** must publish in the *Canada Gazette* within 60 days of the Convention’s entry into force or termination, the dates on which it begins and ends.
+
+> **Note**: The Agreement and Protocol entered into force on **May 4, 2011**, as published in *Canada Gazette*, Part I, Vol. 145, p. 2023.
+
+---
+
+### **2. Scope of the Convention**
+
+#### **Applicability**
+- Applies to **persons who are residents of either or both Contracting States** (Canada or Turkey).
+- Applies to **taxes on income and capital** imposed by either country, regardless of the method of levy.
+
+#### **Types of Taxes Covered**
+The Convention applies to:
+- In **Canada**: Taxes under the *Income Tax Act* (Canadian tax).
+- In **Turkey**: 
+  - Income tax (*Gelir Vergisi*)
+  - Corporation tax (*Kurumlar Vergisi*)
+  - A levy on income and corporation tax (often a withholding tax or additional tax)
+
+#### **Future Taxes**
+- The Convention also applies to **substantially similar taxes** introduced after the date of signature.
+- The competent authorities (tax ministries) must **notify each other of substantial changes** in domestic tax laws.
+
+---
+
+### **3. Definitions (Key Terms)**
+
+| Term | Definition |
+|------|-----------|
+| **Canada** | Includes land, internal waters, territorial sea, air space, exclusive economic zone (EEZ), and continental shelf, as per Canadian law and international law. |
+| **Turkey** | Includes land, territorial sea, and maritime areas with sovereign rights for natural resource exploration/exploitation/conservation under international law. |
+| **Contracting State** | Either Canada or Turkey, depending on context. |
+| **Person** | Includes individuals, estates, trusts, companies, and any other body of persons. |
+| **Company** | Any body corporate or entity treated as such for tax purposes. |
+| **Enterprise** | A business carried on by a resident of a Contracting State. |
+| **Competent Authority** | In Canada: Minister of National Revenue or authorized representative; in Turkey: Minister of Finance or authorized representative. |
+| **Tax** | Any tax covered under Article 2. |
+| **International Traffic** | Transport by ship or aircraft operated by a resident enterprise, **except when the route is solely between territories of the other Contracting State**. |
+| **National** | Individuals or legal persons deriving status from the laws of a Contracting State. |
+| **Resident** | Determined by domicile, residence, place of registration, management, or other similar criteria under domestic law. |
+
+---
+
+### **4. Determination of Residency (Residence Rules)**
+
+This is a detailed and nuanced rule to resolve **dual residency** situations.
+
+#### For **Individuals**:
+1. **Permanent Home**:
+   - If the individual has a permanent home in one country → deemed resident only in that country.
+   - If permanent homes exist in both → resident only in the country with **closer personal and economic ties** (center of vital interests).
+2. **No Permanent Home**:
+   - If center of vital interests cannot be determined → resident only in the country where the individual has an **habitual abode**.
+3. **No Habitual Abode**:
+   - If habitual abode exists in both or neither → resident only in the country of **nationality**.
+4. **Dual Nationality**:
+   - If the individual is a national of both or neither → the competent authorities must resolve the issue by **mutual agreement**.
+
+#### For **Non-Individuals (e.g., companies, trusts)**:
+- Resident only in the country where the entity is **incorporated or registered**.
+- If not incorporated in either country → the competent authorities must reach **mutual agreement** to determine residency.
+- **In the absence of agreement**, such entities **cannot claim any tax relief or exemption** under the Convention.
+
+> This ensures clarity and prevents tax avoidance through artificial incorporation.
+
+---
+
+### **5. Permanent Establishment (PE)**
+
+A **permanent establishment** is a fixed place of business through which business is carried on.
+
+#### **Includes**:
+- Place of management
+- Branch, office, factory, workshop
+- Mines, oil/gas wells, quarries (natural resource extraction)
+- Building sites, construction, assembly, installation projects — **only if lasting more than 6 months**
+- Provision of services (e.g., consulting) by an enterprise through employees or agents — **only if activities continue for more than 183 days in a 12-month period**
+
+#### **Excludes**:
+- Use of facilities solely for **storage, display, or delivery** of goods
+- Maintenance of stock for **storage, display, or delivery**
+- Maintenance of stock solely for **processing by another enterprise**
+- Fixed place for **purchasing goods or collecting information**
+- Fixed place for **preparatory or auxiliary activities**
+
+> These exclusions prevent the creation of a PE for purely administrative or logistical functions.
+
+#### **Special Rule for Agents**:
+- An individual acting on behalf of a foreign enterprise **does not create a PE** if:
+  - They have authority to conclude contracts in the name of the enterprise, **unless** their activities are limited to those excluded in paragraph 4.
+  - They lack authority but maintain a stock of goods from which they regularly deliver goods **on behalf of the enterprise**.
+
+> Important: **Agents of independent status** (e.g., brokers, general agents) do **not** create a PE, even if they operate in a foreign country, as long as they are acting in the ordinary course of business.
+
+#### **No PE due to Control or Ownership**:
+- Simply owning or being controlled by a company in the other country **does not create a PE**.
+
+---
+
+### **6. Taxation of Income from Immovable Property**
+
+- Income derived by a resident of one country from **immovable property** (land, buildings, agriculture, forestry) located in the other country may be taxed in that other country.
+- **Definition of immovable property**:
+  - Includes property accessory to land, livestock, equipment used in agriculture/forestry
+  - Rights to variable/fixed payments for working or accessing mineral deposits, natural resources
+  - Usufruct rights
+  - **Excludes** ships and aircraft
+
+> Applies to:
+- Direct use, letting, or use of immovable property
+- Income from immovable property of an enterprise
+- Income from immovable property used for **independent personal services**
+
+> **Note**: The term is defined under the law of the country where the property is located.
+
+---
+
+### **7. Taxation of Enterprise Profits**
+
+#### **General Rule**:
+- Profits of an enterprise of a Contracting State are **taxable only in that State**.
+- **Exception**: If the enterprise carries on business in the other country through a **permanent establishment**, then profits attributable to that PE may be taxed in the other country.
+
+#### **Attribution of Profits to a PE**:
+- The profits attributed to a PE are those it **would have earned** if it were a separate, independent enterprise under similar conditions.
+- This is known as the **"arm’s length" or "profit attribution" principle**.
+
+#### **Deductible Expenses**:
+- All expenses incurred for the PE are deductible, including:
+  - Executive and general administrative expenses
+- **Excluded**:
+  - Royalties, fees, or commissions paid to head office or other offices for use of licenses, patents, or management (unless in banking)
+  - Interest paid to the PE (except in banking enterprises)
+
+> **Exception**: No profit is attributed to a PE simply because it purchases goods or merchandise for the enterprise.
+
+#### **No Impact on Other Articles**:
+- If income is dealt with separately in other Articles (e.g

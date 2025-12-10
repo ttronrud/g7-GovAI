@@ -1,0 +1,155 @@
+**Detailed Summary of the *Canada Development Corporation Reorganization Act* (1985)**
+
+---
+
+### **Overview**
+
+The *Canada Development Corporation Reorganization Act* (often referred to as the **CDCA Reorganization Act**) was enacted on **December 20, 1985**, to restructure and re-establish the **Canada Development Corporation (CDC)** under a new legal framework. This Act replaced the original *Canada Development Corporation Act* and provided a comprehensive reorganization of the CDC’s corporate structure, governance, share issuance, ownership constraints, and regulatory oversight. The Act was designed to ensure transparency, prevent concentration of control, and maintain government oversight while enabling the CDC to function as a stable, publicly accountable development entity.
+
+The Act came into force on **December 20, 1985**, and the **certificate of continuance** for the CDC was officially issued on **May 1, 1986**, as noted in the Canada Gazette. The Act was subsequently repealed in its entirety upon the issuance of the certificate of continuance, with its provisions being fully implemented through the new corporate structure.
+
+---
+
+## **Key Provisions and Detailed Summary**
+
+---
+
+### **1. Title and Scope**
+- **Title**: The Act is titled the *Canada Development Corporation Reorganization Act*.
+- **Purpose**: To reorganize the Canada Development Corporation (Corporation) under the *Canada Business Corporations Act* (CBCA), ensuring continuity, stability, and appropriate governance.
+
+---
+
+### **2. Definitions and Interpretation**
+- **Corporation**: Refers to the Canada Development Corporation, established under the original *Canada Development Corporation Act* and now continued under the CBCA via this Act.
+- **Minister**: Defined as the **Minister of Regional Industrial Expansion**, responsible for overseeing key decisions related to the Corporation.
+- **General Meaning of Terms**: Words and expressions used in the Act have the same meaning as under the *Canada Business Corporations Act*, unless otherwise specified.
+- **Name Change**: If the Corporation changes its name, all references in the Act are automatically interpreted as referring to it by its new name.
+
+---
+
+### **3. Disposal of Securities by the Minister**
+- The **Minister** (with approval of the Governor in Council) may:
+  - Dispose of any securities held by **Her Majesty in right of Canada** from the Corporation.
+  - Dispose of any securities acquired from the Corporation by or on behalf of Her Majesty (e.g., through purchase, dividend, or other means).
+- The Minister has full authority to take all necessary actions to carry out such dispositions.
+
+> **Purpose**: To allow the government to manage and eventually divest its ownership stake in the CDC, ensuring orderly transitions of ownership.
+
+---
+
+### **4. Application for Certificate of Continuance**
+- Within **four months** of the Act coming into force, the Minister must submit an application to the **Governor in Council** for a **certificate of continuance** under **section 181 of the CBCA**.
+- Once the Governor in Council approves the application, the **directors of the Corporation must submit the application to the Director** (i.e., the Director of the CBCA) within **two weeks**.
+- Such an application is **deemed to have been made under section 181(1) of the CBCA** for all purposes.
+
+> **Significance**: This process legally continues the existence of the CDC under the CBCA, replacing the old *Canada Development Corporation Act*.
+
+---
+
+### **5. Ownership Restrictions in Articles of Continuance**
+To prevent excessive concentration of voting power, the articles of continuance of the Corporation must include specific **voting restrictions** on share ownership:
+
+#### **(a) Resident Ownership Limit**
+- No single **resident** (including their associates) may hold or beneficially own, **except as security**, more than **25% of the voting power** (i.e., votes that may be cast to elect directors).
+
+#### **(b) Non-Resident Ownership Limit**
+- No single **non-resident** (including their associates) may hold or beneficially own, **except as security**, more than **10% of the voting power**.
+
+#### **(c) Aggregate Non-Resident Ownership Limit**
+- Non-residents collectively (in the aggregate) may not hold or beneficially own more than **25% of the voting power**.
+
+#### **(d) Enforcement Mechanisms**
+- The articles must include provisions to enforce these limits, such as:
+  - Filing declarations of ownership.
+  - Suspension of voting rights.
+  - Forfeiture of dividends.
+  - Refusal to register new securities.
+
+#### **(e) Exemption for Small Holdings**
+- Any subscription or transfer involving securities attached to **not more than 2,000 votes** is **exempt** from these constraints.
+
+#### **(f) Exclusion of Government Ownership**
+- The ownership restrictions **do not apply** to:
+  - **Her Majesty in right of Canada**.
+  - **Provincial governments** or their agents.
+  - Any corporation owned or controlled by them.
+
+> **Purpose**: To prevent foreign or private entities from gaining excessive control over the Corporation, while preserving government influence.
+
+---
+
+### **6. Definition of "Associate"**
+A person is considered an **associate** of another if any of the following apply:
+- One is a corporation where the other is an officer or director.
+- One controls directly or indirectly the other.
+- One is a partner in a partnership where the other is a partner.
+- Both are controlled by the same government (Canadian or foreign), individual, or corporation.
+- Both are members of a voting trust related to the Corporation.
+- One is a corporation and the other is an associate of one or more persons, and together they own >50% of voting shares in that corporation.
+- Both are associates of the same resident or non-resident.
+- Both are parties to an agreement or arrangement designed to act in concert.
+
+> **Exception (Paragraph 7(6))**:
+- A resident who submits a declaration stating that no securities are held (or will be held) in the right of, or for the benefit of, any associate (including themselves) is **not considered an associate** as long as the declaration is not violated.
+- Two corporations are **not associates** merely because each is an associate of the same person.
+- If a person holds securities attached to **≤2,000 votes**, they are **not an associate** of any other person.
+
+> **Purpose**: To prevent "shadow ownership" and collusion among related parties.
+
+---
+
+### **7. Share Authorization and Structure**
+The Corporation is authorized to issue the following types of shares:
+
+| Share Type | Quantity | Stated Capital Limit |
+|-----------|--------|------------------------|
+| **Senior Preferred Shares** | 20 million | $200 million |
+| **Public Preferred Shares** | 130 million | $650 million |
+| **Preferred Shares** | 30 million | $150 million |
+| **Common Shares** | 200 million | No limit (unlimited) |
+
+- All shares are **without nominal or par value**.
+- Shares are **issuable in one or more series**.
+- The stated capital at any time cannot exceed the limits listed above.
+
+> **Additional Flexibility**:
+- The articles may allow directors to **establish new series** of preferred shares after the certificate of continuance is issued.
+- The articles may also include provisions to align with the CBCA.
+
+> **Restriction**:
+- No changes to the **attributes of existing shares** (e.g., voting rights, dividends) may be made unless:
+  - Required to comply with the CBCA or paragraph 5(1)(e), or
+  - Approved by shareholders in the manner required under **section 261** of the CBCA.
+
+> **Amendment Rule**:
+- Any provision approved under this rule is deemed an **amendment under subsection 261(2)** of the CBCA.
+
+> **Final Note**:
+- After continuance, the Corporation and its shareholders/directors may still amend the articles under the CBCA, **but not in a way that contradicts the ownership restrictions** in sections 5(1)(a)–(c).
+
+---
+
+### **8. Board of Directors**
+- The **Board of Directors** must consist of between **18 and 21 directors**.
+- The number may be set by the Board from time to time.
+- This is a **non-technical** provision, allowing flexibility in governance structure.
+
+---
+
+### **9. Expiry of Provisions**
+- **Section 5 (Ownership Restrictions)** expires on the **later of**:
+  - Two years after December 20, 1985 (i.e., **December 20, 1987**), or
+  - The day when Her Majesty in right of Canada’s voting power drops **below 10%** of total voting power.
+
+- **Section 6 (Ministerial Director Appointments)** expires on **April 30, 1989**.
+
+> **Purpose**: To ensure that these transitional and temporary provisions are phased out as the Corporation stabilizes and becomes fully independent.
+
+---
+
+### **10. Ministerial Appointment of Directors**
+- The Minister (with Governor in Council approval) may **appoint up to five directors** annually in lieu of voting on resolutions involving Her Majesty’s securities.
+- Appointments must be made by **written notice at least 30 days** before the annual meeting.
+- The Corporation must **notify the Minister at least 45 days** in advance of the annual meeting date.
+- If a director dies, resigns, or becomes incapacitated, the Minister may appoint a replacement with Governor in Council

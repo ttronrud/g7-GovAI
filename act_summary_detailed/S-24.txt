@@ -1,0 +1,182 @@
+**Detailed Summary of the *Supplementary Retirement Benefits Act***  
+*(Note: This Act is largely obsolete and has been repealed or superseded by amendments in 1992, as indicated in the text. However, this summary provides a comprehensive analysis of its original provisions as written.)*
+
+---
+
+### **Overview of the Act**
+
+The *Supplementary Retirement Benefits Act* establishes a system of **supplementary retirement benefits** for certain individuals receiving pensions under various federal public service and government-related retirement schemes. These benefits are designed to **adjust pension amounts over time** based on inflation and changes in the cost of living, ensuring that retirees receive a fair and stable level of income despite inflation.
+
+Despite its original purpose, the Act was **repealed in 1992** (via *Statute Law Amendment Act, 1992, c. 46, s. 98–104*), and its functions have since been absorbed into other legislation, particularly the **Public Service Pension Adjustment Act** and modernized retirement benefit frameworks.
+
+---
+
+## **Key Definitions and Key Terms**
+
+| Term | Meaning |
+|------|--------|
+| **Benefit Index** | A measure used to adjust supplementary retirement benefits. For years listed in Schedule II, it is a fixed figure; for 1985 and later, it is calculated annually using a formula based on the previous year’s Benefit Index and the ratio of the current to prior Pension Index. |
+| **Pension Index** | The average of the Consumer Price Index (CPI) for Canada over a 12-month period ending September 30 of the year before the reference year. Published by Statistics Canada under the *Statistics Act*. |
+| **Disabled** | A person incapable of pursuing any substantially gainful occupation. |
+| **Minister** | The designated member of the Queen’s Privy Council for Canada responsible for administering the Act. |
+| **Pension** | Any pension, annual allowance, or annuity payable under a federal retirement scheme listed in **Schedule I** (e.g., Civil Service Superannuation Act, Judges Act, etc.). |
+| **Recipient** | A person who qualifies under one of several defined categories, including: |
+| &nbsp;&nbsp;• | Age 60 and receiving a pension |
+| &nbsp;&nbsp;• | Under age 60 but receiving a pension and is disabled |
+| &nbsp;&nbsp;• | Receiving a pension under specific Acts (e.g., Members of Parliament, Judges, Diplomats, RCMP, Defence Services) |
+| &nbsp;&nbsp;• | Receiving a pension based on at least a specified number of years of service (26+ years at age 59, 30+ at age 55) |
+| &nbsp;&nbsp;• | A survivor or child of a pensioner |
+| **Supplementary Retirement Benefits Account (SRBA)** | A government account established to track contributions and disbursements related to supplementary benefits. |
+| **Survivor** | A surviving spouse or dependent under the relevant pension legislation. |
+
+---
+
+## **Core Provisions and Mechanism of Benefits**
+
+### **1. Payment of Supplementary Retirement Benefits**
+
+- **Every eligible recipient** (defined above) is entitled to a **supplementary retirement benefit**.
+- The benefit for a given month in a year is calculated using the following formula:
+
+> **Supplementary Benefit = (Pension × (Benefit Index for Year / Benefit Index for Retirement Year)) − Pension**
+
+This means:
+- The benefit is **proportional to the change in the Benefit Index** between the retirement year and the current year.
+- It effectively **increases pension amounts in line with inflation** (as reflected in the Benefit Index), but **only if the Benefit Index rises**.
+
+> Example: If the Benefit Index increases from 100 to 110, the supplementary benefit increases by 10%, even though the pension amount itself remains unchanged.
+
+---
+
+### **2. Calculation of the Benefit Index**
+
+- For years listed in **Schedule II**, the Benefit Index is a fixed value (e.g., 100 in 1982).
+- For **1985 and later**, the Benefit Index is calculated as:
+  
+> **New Benefit Index = Previous Benefit Index × (Pension Index for Current Year / Pension Index for Previous Year)**
+
+This ensures that the benefit adjusts **in tandem with inflation**, measured by the CPI.
+
+> This mechanism links the benefit directly to **consumer price changes**, making it inflation-protected.
+
+---
+
+### **3. Special Rules for Retirement Years 1982 and Later**
+
+If a person retires **on or after June 22, 1982**, the supplementary benefit is adjusted for **partial months** in the year immediately following retirement.
+
+#### **For the month immediately after retirement:**
+> Supplementary Benefit = (Base Benefit × (Remaining Months in Retirement Year / 12))
+
+This ensures that the benefit is **pro-rated** if retirement occurs mid-year.
+
+#### **For subsequent years (after the first year post-retirement):**
+- The **pension amount used** in the calculation is **increased by the supplementary benefit** from the year after retirement.
+- The **Benefit Index used** is **the one from the year immediately after retirement**, not the retirement year.
+
+> This prevents a "step-down" in benefit due to timing of retirement and ensures continuity.
+
+---
+
+### **4. Minimum Benefit Guarantees**
+
+To prevent erosion of benefits due to inflation or timing issues, the Act includes **minimum floor provisions**:
+
+#### **General Rule (Section 7):**
+> The total of pension + supplementary benefit in any year must **not be less than** the total in the prior year.
+
+#### **For retirement years 1976 and later:**
+> The supplementary benefit must be **at least equal to the difference** between:
+> - The **maximum possible pension + supplementary benefit** that would have been payable if retirement had occurred in that month,
+> - And the actual pension amount.
+
+This ensures that **no retiree receives a net reduction** in income due to inflation or timing of retirement.
+
+> This rule is applied differently depending on whether the retiree is a person appointed by the Governor in Council (e.g., a senior official) or a public servant (e.g., civil servant), with the **Governor in Council** or **Treasury Board** setting thresholds.
+
+---
+
+### **5. Payment Timing and Conditions**
+
+- Supplementary benefits are paid **at the same times, in the same manner, during the same periods, and under the same terms** as the pension.
+- This ensures **predictability and consistency** in financial planning for retirees.
+
+---
+
+### **6. Return of Contributions and Death Benefits**
+
+#### **For Contributors Who Cease to Contribute:**
+- If a person stops contributing and **no pension is payable**, they are entitled to:
+  - All contributions made to the SRBA
+  - Plus interest (calculated at 4% per year, compounded annually)
+
+#### **For Death:**
+- If a contributor dies and:
+  - No beneficiary receives a benefit, or
+  - Beneficiaries die or lose entitlements,
+- Then the **excess** of:
+  - Total contributions + interest
+  - Minus all amounts paid to beneficiaries or the contributor
+- Is paid as a **death benefit** to the estate.
+- If the excess is **less than $1,000**, the Minister may direct it to be paid to a beneficiary or retained.
+
+> This provides a **financial safety net** for contributors and their families.
+
+---
+
+### **7. Interest on Contributions**
+
+- Interest is calculated at **4% per annum, compounded annually**:
+  - On contributions made **before 1974**
+  - On each **contribution year (1974 onwards)** from December 31 of that year to the year before cessation of contributions.
+
+> This ensures that contributions grow over time, even in periods of low inflation.
+
+---
+
+### **8. Error Recovery**
+
+- If an erroneous payment is made under the Act, the **Minister may deduct the amount** from future payments (pension or supplementary benefit) without prejudice to other legal remedies.
+
+> This protects the government from financial loss due to administrative errors.
+
+---
+
+### **9. Funding and Accounting**
+
+- All benefits are paid from the **Consolidated Revenue Fund**.
+- **Exceptions**:
+  - Benefits calculated for pensions **after December 1973** for individuals whose retirement year is **before 1970** → paid from general fund.
+  - Benefits **exceeding the balance in the SRBA** (i.e., when pension + supplementary benefit exceeds total contributions + interest) → charged to the SRBA.
+  - Benefits under the **Governor General’s Act** or **Judges Act** → charged to the SRBA.
+
+> This ensures that the SRBA is **sustainable** and that overpayments are not left unaccounted for.
+
+---
+
+### **10. Interest Accrual and Annual Reporting**
+
+- The **Treasury Board** sets the interest rate on the SRBA balance.
+- Each year, the **Minister must report to Parliament**:
+  - Amounts paid into and out of the SRBA
+  - Financial performance
+  - Additional information as required by the Governor in Council
+
+> This provides **transparency and accountability** in the administration of the Act.
+
+---
+
+### **11. Regulatory Authority**
+
+The Minister may make regulations to:
+- Define how the **Pension Index average** is calculated
+- Define how the **Benefit Index** and ratios are computed
+- Specify how **errors** or deductions from benefits are handled
+
+> These regulations allow flexibility in implementation while maintaining consistency.
+
+---
+
+### **12. Adjustment for CPI Changes**
+
+- If the **Consumer Price Index (C

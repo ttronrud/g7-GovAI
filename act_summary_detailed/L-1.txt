@@ -1,0 +1,164 @@
+**Detailed Summary of the *Labour Adjustment Benefits Act***  
+
+---
+
+### **Overview**  
+The *Labour Adjustment Benefits Act* (LABA) is a federal Canadian law designed to provide financial support to employees who lose their jobs due to **significant economic changes** in specific industries or regions. It ensures that workers affected by **non-cyclical economic restructuring** — such as technological change or import competition — are not left without income support during periods of unemployment. The Act establishes a structured process involving two key bodies: the **Labour Adjustment Review Board (Board)** and the **Canada Employment Insurance Commission (Commission)**, to determine eligibility and administer benefits.
+
+---
+
+## **Key Definitions and Key Concepts**
+
+| Term | Definition |
+|------|-----------|
+| **Employee** | Any individual employed at a Canadian establishment (i.e., a business producing goods or providing services). |
+| **Lay-off** | A separation from employment for an indefinite period due solely to a reduction in the number of employees at a workplace. |
+| **Industrial Restructuring** | Includes technological change, automation, or shifts in production methods that lead to job losses. |
+| **Designated Industry** | An industry formally designated by the Governor in Council as undergoing significant non-cyclical economic adjustment resulting in substantial job losses. |
+| **Labour Adjustment Benefits (LABs)** | Weekly financial benefits paid to eligible employees who were laid off in a designated industry. |
+| **Effective Date of Lay-off** | The date the employee was laid off, determined by the Board. |
+| **Average Weekly Insurable Earnings (AWIE)** | The weekly average of an employee’s insurable earnings, calculated under the *Employment Insurance Act*. |
+| **Qualified Employee** | An employee who meets all eligibility criteria set out by the Commission and is certified by the Board to receive LABs. |
+
+> **Age Rule**: For age-related purposes, a person is deemed to have reached age 65 at the beginning of the month following the month they actually turn 65.
+
+---
+
+## **Designation of Industries (Section 3)**
+
+The Governor in Council may designate an industry as a **designated industry** under two scenarios:
+
+### 1. **General Designation (Canada-wide)**
+- **Trigger**: The industry is undergoing significant non-cyclical economic adjustment due to:
+  - Import competition, or  
+  - Government-led industrial restructuring.
+- **Requirement**: Must result in a **significant loss of employment** across Canada generally.
+- **Duration**: Initially valid for up to **3 years**. Can be extended once (maximum 3 years), with no more than one extension per original order.
+
+### 2. **Regional Designation (Specific Region)**
+- **Trigger**: The industry in a specific region is experiencing significant non-cyclical adjustment causing:
+  - Severe economic disruption and  
+  - A significant loss of employment in that region.
+- **Duration**: Initially valid for **1 year**. Can be extended once (up to 6 months), and a second extension is allowed (also up to 6 months).
+
+> **Retroactivity**: The Governor in Council may declare that a designation is **retroactive**, applying to lay-offs occurring **on or after May 1, 1978**, but not earlier.
+
+> **Important Note**: Revocation or expiration of a designation **does not affect** the rights of employees laid off during the period. Those employees can still apply for benefits under the designation.
+
+---
+
+## **Establishment of the Labour Adjustment Review Board (Section 6)**
+
+A **Labour Adjustment Review Board (Board)** is created to evaluate applications for certification of eligibility.
+
+### **Composition**
+- Up to **five members**.
+- **One employee representative** (appointed after consultation with employee organizations).
+- **One employer representative** (appointed after consultation with employer organizations).
+- Remaining members appointed by the **Minister of Employment and Social Development**.
+
+> **Acting Members**: If a member is absent or unable to act, the Minister may appoint a substitute for up to **90 days**, with Ministerial approval required.
+
+### **Leadership**
+- One member is **Chairman**; another is **Vice-Chairman**.
+- If the Chairman is absent, the Vice-Chairman acts as Chief Executive Officer and presides over meetings.
+
+### **Functions & Powers**
+- May sit at any time and place.
+- May make **rules** regarding:
+  - Sittings
+  - Procedures for handling applications
+  - Exercise of powers
+- May request professional, technical, or administrative assistance from the Minister.
+- Has authority to conduct investigations and issue certifications.
+
+> **Remuneration**: Members not in federal public service are paid by the Governor in Council for their services.
+
+---
+
+## **Application Process (Sections 11 & 13)**
+
+### **Step 1: Application to the Board (Section 11)**
+- Any laid-off employee may apply directly or through an employer, union, or third party.
+- Application must include:
+  - Employee’s name
+  - Effective date of lay-off
+  - Other information required by the Board
+- The Board investigates eligibility and determines the **effective date of lay-off**.
+
+### **Eligibility Criteria for Certification (Section 11(4))**
+An employee is eligible for certification if:
+1. They were laid off.
+2. The Canadian establishment where they worked was part of a **designated industry** at the time of lay-off.
+3. The establishment experienced a **reduction of at least 10% or 50 employees** (whichever is less) in any 12-month period including the lay-off date.
+4. The lay-off resulted from **economic adjustment** as defined in Section 3 (e.g., industrial restructuring or import competition).
+
+> **Note**: The Board certifies that the employee is eligible to apply to the **Commission** for benefits.
+
+---
+
+## **Application to the Commission (Section 13)**
+
+Once certified, the employee applies to the **Canada Employment Insurance Commission (Commission)** for actual benefits.
+
+### **Eligibility Criteria (Section 14)**
+
+An employee qualifies for benefits if they meet **all of the following**:
+
+| Requirement | Details |
+|-----------|--------|
+| **1. Citizenship/Residency** | Must be a Canadian citizen or permanent resident. |
+| **2. Employment History** | At least **10 years** of employment in the **relevant designated industry** in the **15 years before** the lay-off. |
+| **3. Age** | Must be **between 54 and 65 years of age** on the lay-off date. |
+| **4. Employment Insurance (EI) Exhaustion** | Must have claimed and exhausted all EI benefits after lay-off. |
+| **5. No Prospects of Employment** | No present prospect of employment (with or without training/relocation), or has accepted employment with earnings **less than AWIE**. |
+
+> **Exception – Severe Financial Hardship (Section 14(2))**  
+If the employee would otherwise qualify except for age or years of service, and the Commission determines they would suffer **severe financial hardship**, they may qualify **if**:
+- Age + years of service ≥ **80**
+- Age < 65 on lay-off
+
+> **Exception – Substantial Compliance (Section 14(3))**  
+If the employee **does not meet the years of service requirement** due to illness, disability, lay-off, or other "good cause," the Commission may waive this requirement if they show **substantial compliance**.
+
+> **Special Rule – Employment in Other Designated Industries**  
+If the employee worked in another designated industry prior to the lay-off, those periods may count toward the required 10 years of employment in the relevant industry.
+
+---
+
+## **Review of Eligibility (Section 16)**
+
+The Commission must **review the employee’s situation at least every six months** to determine if they still meet the **"no prospect of employment"** requirement (paragraph 14(1)(f)).
+
+### **Review Process**
+- Commission may require the employee to attend in person to provide information.
+- Failure to comply **without waiver** means the employee remains **unqualified**.
+- Commission may **waive attendance** if circumstances warrant it.
+- If the employee **meets the requirement after a review**, the Commission **revokes the prior decision** and notifies them in writing.
+
+---
+
+## **Payment of Benefits (Section 18)**
+
+### **Start Date of Benefits**
+Benefits begin on the **later of**:
+1. The week immediately following the week when the employee exhausted their **EI benefits** after lay-off, or  
+2. The week during which the employee **applied to the Commission** for benefits.
+
+> **Special Case**: If the employee was certified by the Board **after** exhausting EI benefits, benefits start on the **later of**:
+- That week (when EI was exhausted), and  
+- The week they applied to the Board for certification  
+...**to the week they were certified**.
+
+### **Payment Schedule**
+- Benefits are paid **every two weeks in arrears**.
+- The **initial weekly benefit** is **60% of the employee’s Average Weekly Insurable Earnings (AWIE)**.
+- Rounded to the nearest cent (if equidistant, rounded up).
+
+### **Annual Adjustment**
+- The weekly benefit is **adjusted annually** using the **Pension Index**.
+- Formula:
+  > **New Weekly Benefit** = (Initial Benefit) × (Pension Index of following year / Pension Index of lay-off year)  
+  → Rounded to the nearest **one-thousandth** (e.g., 0.001), with equidistant values rounded up.
+
+> Example: If the pension index increased from 1.000 to 1

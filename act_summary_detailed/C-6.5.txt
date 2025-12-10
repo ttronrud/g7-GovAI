@@ -1,0 +1,180 @@
+Certainly. Below is a **detailed, comprehensive summary** of the **Canada–Korea Tax Convention, 2006**, specifically focusing on **Part III (Articles 1 to 14)**, which governs the taxation of income and the avoidance of double taxation. This summary is structured for clarity, legal precision, and practical understanding, drawing directly from the text provided.
+
+---
+
+## 📚 **Detailed Summary of the Canada–Korea Tax Convention, 2006 (Part III: Taxation of Income)**
+
+This section of the Convention establishes the rules governing the taxation of income between Canada and the Republic of Korea (Korea), with the primary objective of **avoiding double taxation** and **preventing fiscal evasion**. It defines key concepts such as residency, permanent establishments, source of income, and tax treatment of various types of income (e.g., dividends, interest, profits from business operations).
+
+---
+
+### 🔍 1. **Scope and Applicability**
+
+- The Convention applies to **persons who are residents of one or both Contracting States** (Canada or Korea).
+- It covers the following **existing taxes**:
+  - In **Korea**: Income tax, corporation tax, inhabitant tax, and special tax for rural development ("Korean tax").
+  - In **Canada**: Income taxes under the *Income Tax Act* ("Canadian tax").
+- The Convention also applies to **any new or substantially similar taxes** introduced after the date of signature, provided they are equivalent in nature or scope.
+- The **competent authorities** of both countries must notify each other of **significant changes** in domestic tax laws.
+
+---
+
+### 🌍 2. **Definitions and Interpretations**
+
+Key definitions used throughout the Convention:
+
+| Term | Meaning |
+|------|--------|
+| **Korea** | The Republic of Korea, including its territorial sea, air space, and adjacent areas with sovereign rights over natural resources. |
+| **Canada** | All of Canada’s territory, including territorial sea and adjacent areas with sovereign rights over natural resources. |
+| **Contracting State** | Either Canada or Korea, depending on context. |
+| **Tax** | Refers to Canadian tax or Korean tax as applicable. |
+| **Person** | Includes individuals, trusts, companies, and any other body of persons. |
+| **Company** | Any body corporate or entity treated as such for tax purposes. |
+| **Enterprise of a Contracting State** | A business carried on by a resident of that State. |
+| **International Traffic** | Any voyage of a ship or aircraft operated by a resident enterprise to transport passengers or goods — **except** when the principal purpose is to transport between places within the other Contracting State. |
+| **National** | An individual or legal person (including partnerships or associations) deriving status from the laws of a Contracting State. |
+| **Competent Authority** | In Korea: Minister of Finance and Economy or authorized representative; in Canada: Minister of National Revenue or authorized representative. |
+
+> ⚖️ **General Principle**: If a term is not defined, it shall have the meaning it has under the domestic tax law of the relevant State at the time of application — and **domestic tax law prevails over other laws**.
+
+---
+
+### 🏠 3. **Residency Rules**
+
+Residency determines which country has the right to tax an individual or entity’s income.
+
+#### For Individuals:
+An individual is deemed a resident of **only one** Contracting State based on the following hierarchy:
+
+1. **Permanent Home**  
+   - If the individual has a permanent home in one State, they are a resident of that State.  
+   - If they have a permanent home in **both**, the individual is a resident of the State where their **centre of vital interests** (personal and economic ties) lies.
+
+2. **Centre of Vital Interests**  
+   - If the centre of vital interests cannot be determined, or if there is no permanent home in either country, the individual is a resident of the State where they have an **habitual abode**.
+
+3. **Habitual Abode**  
+   - If the individual has a habitual abode in both or neither country, they are a resident of the State of which they are a **national**.
+
+4. **Dual Nationality**  
+   - If the individual is a national of both or neither country, the **competent authorities** of the two States must resolve the issue by **mutual agreement**.
+
+> ✅ This rule ensures that individuals are not taxed in multiple jurisdictions on the same income and prevents double taxation through a clear, objective hierarchy.
+
+#### For Persons Other Than Individuals (e.g., Companies, Trusts):
+- If a non-individual is a resident of both countries, the **competent authorities must reach mutual agreement** to determine residency.
+- If no agreement is reached, such a person is **deemed not to be a resident of either State** for the purposes of enjoying benefits under the Convention.
+
+> ⚠️ This prevents tax complications arising from corporate or institutional dual residency.
+
+---
+
+### 🏭 4. **Permanent Establishment (PE)**
+
+A **permanent establishment (PE)** is a fixed place of business through which an enterprise carries on business.
+
+#### Included in PE:
+- Place of management  
+- Branch  
+- Office  
+- Factory  
+- Workshop  
+- Mine, oil/gas well, quarry, or any natural resource extraction site  
+
+> ✅ A **building site, construction, assembly, or installation project** constitutes a PE **only if it lasts more than six months**.
+
+#### Excluded from PE (if solely for preparatory or auxiliary purposes):
+- Use of facilities for **storage, display, or delivery** of goods  
+- Maintenance of stock for **storage, display, or delivery**  
+- Maintenance of stock **for processing by another enterprise**  
+- Fixed place for **purchasing goods or collecting information**  
+- Fixed place for **preparatory or auxiliary activities**  
+- Any combination of the above — **if overall activity is preparatory or auxiliary**
+
+> ✅ These exclusions protect businesses from being taxed simply for logistical or administrative functions.
+
+#### Special Rule: Authority to Conclude Contracts
+- If a person (not an independent agent) acts on behalf of an enterprise and has **authority to conclude contracts** in a Contracting State, then the enterprise is deemed to have a PE in that State — **unless** the activities are limited to those excluded above.
+
+> 🔍 This ensures that enterprises with significant operational authority in a foreign country are taxed appropriately.
+
+#### Exclusion for Independent Agents
+- An enterprise **does not** have a PE merely because it uses a **broker, general commission agent, or independent agent** acting in the ordinary course of business.
+
+> ✅ Prevents tax abuse through use of third-party agents.
+
+#### No PE Due to Control or Ownership
+- Merely **controlling or being controlled** by a company in the other country, or carrying on business there, **does not** create a PE.
+
+> ✅ Prevents tax on mere ownership or control.
+
+---
+
+### 🏡 5. **Taxation of Income from Immovable Property**
+
+#### Key Principle:
+- Income derived by a resident of one Contracting State from **immovable property** (including agricultural or forestry income) located in the other State may be taxed in that other State.
+
+#### Definition of Immovable Property:
+- Includes:
+  - Land and buildings  
+  - Property accessory to land  
+  - Livestock and equipment used in agriculture/forestry  
+  - Rights to variable or fixed payments for working mineral deposits or natural resources  
+  - Usufruct (right to use property)  
+- **Excludes**: Ships and aircraft
+
+> ✅ This allows the host country to tax income from land-based assets.
+
+#### Scope of Application:
+- Applies to:
+  - Direct use, letting, or use of immovable property  
+  - Alienation (sale or disposal) of such property  
+- Applies to:
+  - Income from immovable property of an enterprise  
+  - Income from immovable property used for **independent personal services**
+
+> ✅ Ensures that income from land-based activities is not double-taxed.
+
+---
+
+### 💼 6. **Taxation of Business Profits (General Rule)**
+
+#### General Rule:
+- Profits of an enterprise of a Contracting State are taxable **only in that State**.
+- **Exception**: If the enterprise carries on business in the other State through a **permanent establishment (PE)**, then:
+  - The profits attributable to that PE may be taxed in the other State.
+  - Only the portion of profits attributable to the PE is taxable in the other State.
+
+#### Allocation of Profits:
+- Profits attributable to a PE are determined as if the PE were a **separate, independent enterprise**:
+  - Engaged in the same or similar activities  
+  - Under the same or similar conditions  
+  - Dealing independently with other parties
+
+#### Deductible Expenses:
+- All **deductible expenses** incurred for the PE — including executive and general administrative costs — are allowed, whether incurred in the host country or elsewhere.
+
+> ✅ Promotes fair and equitable profit allocation.
+
+#### Exclusion:
+- **No profit attribution** arises simply from the purchase of goods or merchandise by the PE.
+
+> ✅ Prevents taxation on mere procurement activities.
+
+#### Methodology:
+- Profits are determined **year by year** using the same method, unless there is **good and sufficient reason** to change it.
+
+> ✅ Ensures consistency and transparency in profit allocation.
+
+#### Exception:
+- Where income is dealt with separately in other Articles (e.g., dividends, interest), those Articles **do not override** this rule.
+
+> ✅ Prevents overlap and double application.
+
+---
+
+### 🚢 7. **Profits from Ships or Aircraft in International Traffic**
+
+#### General Rule

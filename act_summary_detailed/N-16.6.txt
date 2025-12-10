@@ -1,0 +1,180 @@
+### **Detailed Summary of the *National Security and Intelligence Committee of Parliamentarians Act***  
+
+This Act establishes the **National Security and Intelligence Committee of Parliamentarians (NSICP)**, a parliamentary oversight body designed to provide independent, non-partisan review of Canada’s national security and intelligence activities. The Act ensures transparency, accountability, and checks on executive power in sensitive areas of government operations while balancing national security concerns.
+
+---
+
+## **1. Purpose and Scope of the Act**
+
+The primary purpose of the Act is to **establish a formal, independent parliamentary committee** to review the **legislative, regulatory, policy, administrative, and financial frameworks** governing national security and intelligence activities in Canada. It aims to enhance democratic accountability by allowing members of Parliament to scrutinize intelligence and security operations without compromising operational secrecy—provided such secrecy is justified and necessary.
+
+The Act applies to:
+- All departments, divisions, branches, and corporations involved in national security or intelligence.
+- Activities related to national security or intelligence, **except ongoing operations** where disclosure would be injurious to national security.
+
+---
+
+## **2. Key Definitions**
+
+| Term | Definition |
+|------|-----------|
+| **Appropriate Minister** | The minister responsible for a specific department, division, or corporation. For example: <br> - For departments listed in Schedule I of the *Financial Administration Act*, it is the presiding minister.<br> - For divisions in Schedule I.1, it is the minister named in column II.<br> - For corporations, it is the minister designated by the Governor in Council.<br> - For the Canadian Forces, it is the Minister of National Defence. |
+| **Committee** | The NSICP, composed of up to 10 members (Chair + 9 others), all of whom are members of either the Senate or House of Commons, but **not ministers, ministers of state, or parliamentary secretaries**. |
+| **Department** | Includes federal departments, divisions, branches (excluding review bodies), Crown corporations, parent Crown corporations, and the Canadian Forces. |
+| **Review Body** | Two specific bodies:<br> - Civilian Review and Complaints Commission for the Royal Canadian Mounted Police (RCMP)<br> - National Security and Intelligence Review Agency (NSIRA) |
+| **Secretariat** | A support office established to assist the Committee with administrative, logistical, and operational functions. |
+
+---
+
+## **3. Composition and Appointment of the Committee**
+
+### **Membership Requirements**
+- Maximum of **10 members** total:
+  - **No more than 3 from the Senate**
+  - **No more than 8 from the House of Commons**
+- **No more than 5 House of Commons members can be from the government party.**
+- Members must **not hold ministerial office**.
+- All members are **non-partisan** and must be elected members of Parliament.
+
+### **Appointment Process**
+- Appointed by the **Governor in Council**, on the **recommendation of the Prime Minister**.
+- Must occur within **60 days after a general election** when Parliament is summoned.
+- **Senate members** require consultation with:
+  - Leader of the Government in the Senate
+  - Leader of the Opposition in the Senate
+  - Leaders or Facilitators of all other recognized parties
+- **House of Commons members** from non-government parties (with ≥12 members) require consultation with their party leader.
+
+### **Term and Resignation**
+- Office is **during pleasure** (no fixed term).
+- A member ceases to serve upon:
+  - Appointment as a minister or parliamentary secretary
+  - Ceasing to be a member of Parliament
+- May resign by **written notice** to the Prime Minister; effective date is the later of when the Prime Minister receives the notice or the date specified.
+
+### **Chair Appointment**
+- Designated by the Governor in Council, on the Prime Minister’s recommendation.
+- If the Chair is absent or incapacitated, another member may act as Chair for up to **90 days**, subject to Governor in Council approval.
+
+---
+
+## **4. Mandate of the Committee**
+
+The Committee has broad authority to review:
+
+1. **The entire legislative, regulatory, policy, administrative, and financial framework** for national security and intelligence.
+2. **Any activity by a department related to national security or intelligence**, **unless**:
+   - It is an **ongoing operational activity**, and
+   - The **appropriate Minister determines** that review would be **injurious to national security**.
+3. **Any matter referred to the Committee by a Crown minister**.
+
+> **Important**: If a Minister determines that a review would be injurious to national security, they must **inform the Committee of their determination and reasons**. If the situation changes (e.g., operation ends or threat diminishes), the Minister must notify the Committee that review may proceed.
+
+---
+
+## **5. Cooperation with Review Bodies**
+
+- The Committee and review bodies (NSIRA and RCMP Review Commission) must **cooperate to avoid duplication** of work.
+- Review bodies may provide information to the Committee **only if**:
+  - It is relevant to the Committee’s mandate
+  - It does not fall under restricted categories (e.g., confidential sources, litigation privilege)
+
+> **Prohibited disclosures** include:
+> - Identity of confidential sources
+> - Information from ongoing law enforcement investigations
+> - Information protected by litigation or solicitor-client privilege
+
+---
+
+## **6. Security and Confidentiality Obligations**
+
+### **Security Clearances**
+- All members must obtain and maintain **security clearance** from the Government of Canada.
+
+### **Oath and Compliance**
+- Must take the **oath or solemn affirmation** set out in the Schedule.
+- Must comply with **regulations** governing procedures and practices.
+
+### **Non-Disclosure Obligations**
+- **Strict confidentiality** applies to members, former members, and Secretariat staff:
+  - **Prohibited**: Knowingly disclosing any information obtained or accessed during duties that a department is protecting.
+  - **Exception**: Disclosure is permitted **for the purpose of fulfilling duties under this Act** or as required by other laws.
+
+### **No Parliamentary Immunity**
+- Despite parliamentary privilege, **no member can claim immunity** in legal proceedings for:
+  - Violating subsection 11(1) (prohibited disclosures)
+  - Breaching the *Foreign Interference and Security of Information Act*
+  - Any other disclosure prohibited under subsection 11(1)
+
+> **Evidence admissibility**: Statements made by members before Parliament or its committees are **admissible in court** in proceedings related to prohibited disclosures.
+
+---
+
+## **7. Access to Information**
+
+### **General Access Rights**
+- The Committee has **right of access to any information under the control of a department** that relates to its mandate.
+- This includes information protected by:
+  - Litigation privilege
+  - Solicitor-client privilege
+  - Professional secrecy of advocates and notaries
+
+> **Key clarification**: Disclosure under this section **does not waive** any of these privileges.
+
+### **Limitations on Access**
+The Committee **cannot access** information that is:
+1. A **confidence of the Queen’s Privy Council** (as defined in *Canada Evidence Act*)
+2. Information described in *Witness Protection Program Act* (11(1))
+3. Identity of a **confidential source** (person who provides intelligence)
+4. Information from an **ongoing investigation** that could lead to prosecution
+
+### **Request Process**
+- The Committee may **request information** from the appropriate Minister.
+- If the information involves an **identifiable person/entity** and was collected by the **Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)** under anti-money laundering or terrorist financing laws, the request must be made to the **appropriate Minister**.
+
+> For **parent Crown corporations**, the department must provide information to the **appropriate Minister** upon request.
+
+### **Refusal of Information**
+A Minister may **refuse to provide information** only if:
+- The information is **special operational information** (as defined in *Foreign Interference and Security of Information Act*)
+- Disclosure would be **injurious to national security**
+
+> **Mandatory reporting**: If a refusal occurs, the Minister must:
+- Inform the Committee of the decision and reasons
+- Provide the decision and reasons to:
+  - The **National Security and Intelligence Review Agency (NSIRA)** (for most cases)
+  - The **RCMP Civilian Review and Complaints Commission** (if involving RCMP)
+
+---
+
+## **8. Meetings and Procedures**
+
+- Meetings are **called by the Chair**.
+- Meetings are held **in private** if:
+  - Information the department is protecting is likely to be disclosed
+  - The Chair deems it necessary
+- The **Chair may vote only in the case of a tie**.
+- The Committee may **establish its own procedures** for hearings, appearances, and evidence collection (subject to regulations).
+
+---
+
+## **9. Reporting Requirements**
+
+### **Annual Reports**
+- The Committee must submit an annual report to the **Prime Minister** by the end of each year. The report must include:
+  - Findings and recommendations
+  - Summary of activities
+  - Number of times:
+    - A Minister determined a review would be injurious to national security
+    - A Minister refused to provide information under subsection 16(1)
+
+### **Special Reports**
+- The Committee may submit a **special report** at any time if it deems a particular issue requires urgent scrutiny.
+- Before submitting, the Committee must **notify the Prime Minister** of its intention.
+- Special reports **do not need to be laid before Parliament** if they are the subject of a notification under subsection (3).
+
+### **Prime Minister’s Review Power**
+- If the Prime Minister believes that certain information in a report would be injurious to:
+  - National security
+  - National defence
+  - International relations

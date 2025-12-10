@@ -1,0 +1,168 @@
+**Detailed Summary of the *Federal Prompt Payment for Construction Work Act***
+
+---
+
+### **Overview and Purpose**
+
+The *Federal Prompt Payment for Construction Work Act* (commonly referred to as the **Federal Prompt Payment Act**) is a legislative framework designed to **ensure timely and fair payment to contractors and subcontractors** involved in construction projects on federal real property or federal immovables in Canada. Its primary objective is to **promote the orderly and efficient execution of construction projects** by addressing delays and non-payment, which can otherwise disrupt project timelines, damage business relationships, and undermine the stability of the construction industry.
+
+By establishing clear timelines for payment, defining contractual obligations, and creating a binding adjudication mechanism, the Act aims to provide **predictability, transparency, and legal recourse** for those performing construction work under federal contracts.
+
+---
+
+## **Key Definitions**
+
+The Act begins with a comprehensive set of definitions that clarify key terms used throughout:
+
+| Term | Meaning |
+|------|--------|
+| **Adjudicator** | An individual formally designated by the Adjudicator Authority to resolve payment disputes. |
+| **Adjudicator Authority** | The body responsible for appointing adjudicators; established under section 15. |
+| **Capital Repair** | Repairs intended to extend the useful life or improve value of real property—*excludes routine maintenance*. |
+| **Construction Project** | Includes addition, alteration, capital repair, restoration, construction, erection, installation, or demolition of federal real property or immovable. |
+| **Construction Work** | Supply of materials, services, or rental of equipment for a construction project in Canada. |
+| **Contractor** | A party contracted by Her Majesty or a service provider to perform construction work—*excludes lessors or lessees*. |
+| **Federal Real Property / Immovable** | As defined in the *Federal Real Property and Federal Immovables Act*. |
+| **Her Majesty** | Refers to the Crown in right of Canada. |
+| **Minister** | The member of the Queen’s Privy Council designated under section 3 to administer the Act. |
+| **Notice of Adjudication** | A written notice initiating dispute resolution with an adjudicator. |
+| **Notice of Non-Payment** | A written notice justifying refusal to pay a contractor or subcontractor. |
+| **Proper Invoice** | A valid invoice submitted according to the Act and contract terms (without requiring prior verification of work). |
+| **Service Provider** | A party contracted by Her Majesty to deliver services related to federal property and may subcontract construction work—*excludes lessors/lessees*. |
+| **Subcontractor** | A party performing construction work for a contractor or another party under a subcontract, including those in a chain of subcontracting. |
+
+> **Note**: The definitions exclude employees performing work under employment contracts.
+
+---
+
+## **Scope and Application**
+
+### **Who is Covered?**
+- Her Majesty (the federal government)
+- Any **service provider** contracting with Her Majesty
+- Any **contractor or subcontractor** performing construction work on federal real property or immovable in Canada
+
+### **Geographic Scope**
+- Applies to construction projects located **within Canada**.
+- **Exclusion**: A construction project that **straddles two or more provinces** is *not* subject to this Act under subsection (2), meaning the full Act does not apply across provincial borders.
+
+### **Provincial Exemptions and Equivalents**
+- The Governor in Council may **designate a province** for exemption from the Act if:
+  1. That province has enacted a **payment regime reasonably similar** to this Act.
+  2. It has a **similar adjudication regime** for non-payment disputes.
+- If such a designation occurs:
+  - Sections 8(2), 9(5), 10–14, and 16(5) **do not apply** to contractors in that province.
+  - The Act **does not apply** to:
+    - Subcontractors working on projects in that province.
+    - Service providers paying for work in that province.
+  - However, the Governor in Council may **adapt provisions** of the Act to align with provincial laws and resolve inconsistencies.
+
+> This allows provinces with robust, comparable systems to operate under their own rules while maintaining fairness and consistency where applicable.
+
+### **Exemptions**
+- The Governor in Council may **exempt specific construction projects** from the Act via order, allowing flexibility for unique or exceptional circumstances.
+
+---
+
+## **Payment Timelines and Obligations**
+
+### **1. Contractor’s Obligation to Submit Invoices**
+- Contractors must submit a **proper invoice monthly or as specified in the contract**.
+- The invoice must cover:
+  - Work performed by the contractor.
+  - Work performed and invoiced by subcontractors in the chain.
+- **No prior verification of work is required**—this reduces administrative delays.
+
+### **2. Payment by Her Majesty or Service Provider**
+- Must pay the contractor **within 28 days** of receiving a proper invoice.
+- This deadline is **non-negotiable** unless a notice of non-payment is issued.
+
+### **3. Notice of Non-Payment**
+- Her Majesty or a service provider may **decline to pay** some or all of the work **if they provide a notice of non-payment within 21 days** of receiving the invoice.
+- The notice must include:
+  - Description of the construction work involved.
+  - Amount not being paid.
+  - Reasons for non-payment (e.g., lack of funds).
+  - Whether the non-payment is due to receiving a similar notice from another party.
+  - Any other information prescribed by regulation.
+
+> This provision allows for **financial justification** and protects public entities from being forced into immediate payment without financial capacity.
+
+---
+
+## **Subcontractor Payment Obligations**
+
+The Act establishes a **tiered payment chain** that ensures payments flow down the subcontracting hierarchy with clear timeframes and obligations.
+
+### **Contractor Pays Subcontractors**
+- Must pay subcontractors **within 35 days** of receiving the proper invoice from Her Majesty or the service provider.
+- If only partially paid:
+  - First, pay subcontractors whose work is **not covered** by a notice of non-payment (on a **rateable basis**).
+  - Then, pay subcontractors whose work is **partially covered** by a notice of non-payment (again on a rateable basis).
+- A contractor may **decline to pay** some or all work by issuing a **notice of non-payment** to a subcontractor **within 28 days** of receiving the invoice.
+
+### **Subcontractor Pays Lower-Level Subcontractors**
+- Must pay lower-tier subcontractors **within 42 days** of the invoice receipt.
+- If only partially paid:
+  - First, pay those whose work is **not covered** by a notice of non-payment.
+  - Then, pay those whose work is **partially covered**.
+- May issue a notice of non-payment to lower-tier subcontractors **within 35 days**.
+
+### **Chain of Subcontractors**
+- The rules apply recursively down the subcontracting chain:
+  - Each level must pay its subcontractors **within 7-day increments**:
+    - Level 1 (contractor): 35 days
+    - Level 2 (subcontractor): 42 days
+    - Level 3: 49 days
+    - Level 4: 56 days
+    - And so on...
+- Each level may issue a **notice of non-payment** within:
+  - 28 days (contractor)
+  - 35 days (subcontractor)
+  - 42 days (next level)
+  - 49 days (next level)
+  - Etc.
+
+> This ensures that **payment obligations are cascaded** and that **all parties have a defined timeline** to receive and pass on funds.
+
+---
+
+## **Holdbacks and Contractual Flexibility**
+
+- Payments may include a **holdback** (a percentage withheld until completion or final inspection).
+- However:
+  - The **maximum holdback** cannot exceed what would be allowed under **provincial construction law**.
+  - The holdback must be **paid by the same date** as it would be under provincial law.
+- This ensures **provincial fairness** while maintaining national consistency.
+
+---
+
+## **Interest on Unpaid Amounts**
+
+Interest begins to accrue on unpaid amounts from the **expiry of the payment deadline** or from the **shorter contractual deadline**, whichever is earlier.
+
+### **Interest Applies To:**
+1. **Amounts not covered** by a notice of non-payment.
+2. **Amounts covered by a notice of non-payment**, **if**:
+   - The non-payment is due to the payer lacking funds (because they also received a notice of non-payment).
+3. **Amounts covered by a notice of non-payment**, **if**:
+   - There is a reason for non-payment other than lack of funds (e.g., dispute, breach of contract), **but only for the portion ordered by an adjudicator**.
+
+### **Interest Rate**
+- The rate is set by **regulation**.
+- If the contract specifies a rate, the **higher** of the two rates applies.
+
+> This provides a **financial incentive** for timely payment and compensates for delays.
+
+---
+
+## **Adjudication Mechanism**
+
+### **When Can a Dispute Be Resolved?**
+A contractor or subcontractor may request adjudication if:
+- They have not been fully paid within the time limit (28 days or contractual shorter period).
+- The dispute arises after:
+  - Receipt of a **certificate of completion** from Her Majesty or a service provider, **or**
+  - The expiry of the payment time limit for the last proper invoice.
+
+> The notice of adjudication must be submitted **no later than

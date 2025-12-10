@@ -1,0 +1,186 @@
+### **Detailed Summary of the *Foreign Extraterritorial Measures Act***  
+**(Act Citation: Foreign Extraterritorial Measures Act)**
+
+---
+
+#### **1. Purpose and Scope of the Act**
+
+The *Foreign Extraterritorial Measures Act* (FEMA) is a Canadian law designed to protect Canadian economic interests, sovereignty, and legal autonomy in international trade and commerce by enabling the Canadian government to respond to foreign legal actions, judgments, and regulatory measures that may harm Canadian businesses, trade, or national interests. It provides mechanisms for Canada to:
+
+- Restrict the use of Canadian records or information in foreign legal proceedings;
+- Prevent compliance with adverse foreign laws or policies;
+- Block or modify the enforcement of foreign judgments that harm Canadian interests;
+- Allow recovery of costs and damages from parties who benefit from such judgments;
+- Ensure accountability and enforcement of violations.
+
+The Act applies to **foreign jurisdictions** and **foreign legal institutions**, including foreign states, their political subdivisions, government bodies, agencies, and tribunals.
+
+---
+
+#### **2. Key Definitions**
+
+The Act defines several critical terms:
+
+- **Antitrust Law**:  
+  Any foreign law (including statutes, regulations, or judicial decisions) aimed at preserving or enhancing competition, preventing monopolies, or prohibiting restrictive trade practices. This includes laws equivalent to Canada’s *Competition Act*.
+
+- **Foreign State**:  
+  A country other than Canada, including:
+  - Political subdivisions (e.g., provinces, municipalities);
+  - Government bodies and departments;
+  - Agencies and authorities within those entities.
+
+- **Foreign Trade Law**:  
+  Any foreign law that directly or indirectly affects trade or commerce between:
+  - Canada, provinces, Canadian citizens/residents, or businesses operating in Canada;
+  - And any foreign person or state.
+
+- **Foreign Tribunal**:  
+  A court, administrative body, or international organization operating outside Canada.
+
+- **Judgment**:  
+  Includes decrees, orders, rulings, or decisions issued by a foreign tribunal.
+
+- **Record**:  
+  Any documentary material — physical, digital, or electronic — including correspondence, maps, photos, films, sound recordings, data files, and copies or portions thereof.
+
+- **Tribunal**:  
+  Broadly defined to include any body or individual with authority to collect or receive information — including courts, regulatory agencies, or quasi-judicial bodies.
+
+---
+
+#### **3. Powers of the Attorney General of Canada**
+
+##### **(a) Amendment of the Schedule (Section 2)**  
+The Attorney General (with Minister of Foreign Affairs' concurrence) can:
+- **Add** a foreign trade law or provision to the *Schedule* if it is contrary to **international law or international comity** (respect for foreign legal systems).
+- **Remove** a provision if it is no longer appropriate or if it no longer poses a threat to Canadian interests.
+
+> *Note: The Schedule is a key reference list of foreign laws subject to Canadian oversight under this Act.*
+
+---
+
+#### **4. Prohibitions and Restrictions on Disclosure to Foreign Tribunals (Section 3)**
+
+When the Attorney General determines that a foreign tribunal is acting in a way that:
+- Adversely affects significant Canadian trade or commerce;
+- Infringes Canadian sovereignty or jurisdiction;
+- Violates Canadian interests due to enforcement of a foreign trade law in the Schedule,
+
+The Attorney General may issue an order to:
+- **Prohibit or restrict**:
+  - The **production, disclosure, or identification** of records in Canada (or in possession of Canadian citizens/residents);
+  - Any act in Canada that would lead to such disclosure;
+  - The **giving of information** to a foreign tribunal about records in Canada.
+
+> **Scope of Orders**:
+> - Can target **specific persons**, **classes of persons**, **specific tribunals**, or **classes of records**.
+> - May apply to **records currently in Canada** or those **in the possession or control** of Canadians.
+
+> **Effect on Canadian Tribunals**:
+> - A Canadian court **shall not accept** records or information from a foreign tribunal if:
+>   - The order is a **prohibition** (i.e., outright ban); or
+>   - The order is a **restriction** (i.e., limitation), and accepting it would **contravene** the order.
+
+> **Seizure Warrant (Section 3(4))**:
+> - If a superior court finds that an order cannot be complied with due to practical difficulties in serving it, it may issue a **warrant** authorizing:
+>   - Seizure of relevant records;
+>   - Delivery to the court or a designated person for safekeeping;
+>   - Conditions on access or return of records, based on the purpose of the order.
+
+---
+
+#### **5. Prohibiting Compliance with Foreign Measures (Section 5)**
+
+When a foreign state or tribunal is taking or proposing measures (e.g., laws, judgments, directives, policy statements) that:
+- Adversely affect Canadian trade or commerce;
+- Infringe Canadian sovereignty or jurisdiction,
+
+The Attorney General (with Minister of Foreign Affairs' approval) may issue an order requiring or prohibiting:
+- **Notice** to Canadian persons of such measures (e.g., policy shifts or directives);
+- **Compliance** with those measures or communications from persons who influence policy.
+
+> **Scope**:
+> - Orders can be directed at **specific individuals or classes** of persons.
+
+> **Service of Orders (Section 6)**:
+> - For individuals: Delivered personally or left at their latest known address with a person aged 16+.
+> - For corporations: Delivered to a manager, secretary, or executive officer.
+> - If service cannot be made to all in a class, a court may authorize **alternative service** (e.g., via mail, email, or public notice).
+
+> **Revocation/Variation Orders**:
+> - Can be served in any manner available for original orders.
+
+---
+
+#### **6. Offences and Penalties (Section 7)**
+
+Any person who **contravenes** an order under Section 3 or 5 is guilty of an offence and liable:
+
+- **On indictment**:
+  - **Corporation**: Fine up to **$1,500,000**
+  - **Individual**: Fine up to **$150,000** or **imprisonment up to 5 years**, or both
+
+- **On summary conviction**:
+  - **Corporation**: Fine up to **$150,000**
+  - **Individual**: Fine up to **$15,000** or **imprisonment up to 2 years**, or both
+
+> **Extra Jurisdictional Application**:
+> - A contravention committed **outside Canada** is still an offence under this Act and can be **tried and punished in Canada** as if committed within the country.
+
+> **Sentencing Considerations**:
+> - Courts must consider:
+>   - Premeditation;
+>   - Scale and nature of operations;
+>   - Whether economic benefits accrued to the offender.
+
+---
+
+#### **7. Non-Enforcement of Certain Foreign Judgments (Section 8)**
+
+The Attorney General may **block or reduce** the recognition or enforcement of foreign judgments under two main categories:
+
+##### **(a) Antitrust Judgments**
+- If enforcement would harm Canadian trade or sovereignty, the AG may:
+  - **Declare the judgment not enforceable in Canada**; or
+  - **Reduce the monetary amount** of the judgment (e.g., from $1 million to $500,000).
+
+##### **(b) Foreign Trade Law Judgments**
+- Same powers apply to judgments under foreign trade laws listed in the Schedule.
+
+> **Effect of Orders**:
+> - In the case of a **prohibition**, the judgment is **not recognized or enforceable** in Canada.
+> - In the case of a **reduction**, the judgment may be enforced **only at the reduced amount**.
+> - The judgment remains enforceable **unless** the order applies.
+
+> **Important Exception**:
+> - **No inference** is drawn from the **absence of an order** that the judgment is valid or enforceable. This prevents parties from assuming enforcement rights based solely on lack of opposition.
+
+---
+
+#### **8. Recovery of Damages and Costs (Section 8.1)**
+
+When a judgment is **blocked or reduced**, a party affected (e.g., a Canadian citizen, resident, corporation, or business) may recover:
+
+##### **(a) In the case of a prohibited judgment**:
+- Any amount obtained from the party under the judgment;
+- All expenses incurred in defending the original proceedings and in instituting this Act (including legal fees);
+- Any loss or damage suffered due to enforcement.
+
+##### **(b) In the case of a reduced judgment**:
+- Amounts obtained **in excess** of the reduced amount;
+- Specified expenses (as determined by the AG);
+- Expenses incurred in defending and instituting proceedings;
+- A **proportion** of loss or damage (as specified by the AG).
+
+> **Note**: The AG must identify the relevant provisions of Canadian law (e.g., *Civil Procedure Rules*, *Criminal Code*) under which recovery may occur.
+
+---
+
+#### **9. Right to Sue for Costs in Ongoing Proceedings (Section 8.2)**
+
+If a party is **not yet subject to a final judgment** in a foreign antitrust or trade law proceeding, and is a Canadian citizen/resident or business entity, they may:
+- With the **consent of the Attorney General**, sue the person who initiated the foreign action;
+- Recover **all expenses** incurred in defending the foreign proceedings and in instituting this Act (including legal fees).
+
+> This gives Canadian businesses a legal recourse even before a final judgment is rendered

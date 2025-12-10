@@ -1,0 +1,192 @@
+**Detailed Summary of the *State Immunity Act***
+
+---
+
+### **Overview**
+The *State Immunity Act* establishes the legal framework governing the jurisdiction of Canadian courts over foreign states, balancing the principle of state immunity — a long-standing principle of international law — with specific exceptions to allow accountability in cases involving commercial activity, personal injury, terrorism, and property-related claims. It provides mechanisms for limiting or waiving immunity, especially when a foreign state is linked to terrorism or engages in commercial conduct in Canada.
+
+This Act is designed to protect the sovereignty of foreign states from being sued in Canadian courts while ensuring that Canada can pursue justice in key areas such as human rights violations, commercial transactions, and acts of terrorism.
+
+---
+
+## **Key Definitions**
+
+1. **Foreign State**  
+   Includes:
+   - Sovereign heads (e.g., heads of state or government) acting in public capacity
+   - Governments and political subdivisions (e.g., provinces, states) of foreign countries
+   - Any agency of a foreign state (a legal entity that operates under the foreign state but is separate from it)
+
+2. **Political Subdivision**  
+   Refers to a provincial or state-level division within a federal foreign state (e.g., a province in a federal country like the United States).
+
+3. **Commercial Activity**  
+   Any transaction, conduct, or regular course of action that has a commercial character — whether one-off or ongoing.
+
+4. **Terrorist Activity**  
+   Defined as per *section 83.01(1)* of the *Criminal Code*, meaning acts or omissions that are punishable under sections 83.02 to 83.04 and 83.18 to 83.23 of the *Criminal Code*.  
+   **Special Provision**: A foreign state listed under subsection 6.1(2) is deemed to have committed terrorist activity if it did so *on or after January 1, 1985*.
+
+5. **Supports Terrorism**  
+   A foreign state supports terrorism if it commits an act or omission — for the benefit of or in relation to a "listed entity" (as defined in the *Criminal Code*) — that would be punishable under the relevant terrorism provisions of the *Criminal Code*.
+
+---
+
+## **Core Principles and Immunity Rules**
+
+### **1. General Immunity from Jurisdiction**
+> *“Except as provided by this Act, a foreign state is immune from the jurisdiction of any court in Canada.”*
+
+- This is the foundational principle: foreign states are generally not subject to Canadian court jurisdiction.
+- **Immunity applies regardless of whether the foreign state has taken any action in the proceedings** — even if it has not responded or participated.
+
+---
+
+### **2. Waiver of Immunity**
+A foreign state **waives immunity** if it:
+- Explicitly submits to the jurisdiction of a Canadian court via:
+  - Written agreement before or after proceedings begin
+  - Initiating proceedings in the court
+  - Intervening or taking any step in the proceedings
+
+> **Exception (Paragraph 2(c))**:  
+> Waiver does **not** apply to:
+> - Steps taken to **claim immunity** itself
+> - Steps taken in **ignorance** of facts that would entitle the state to immunity, provided:
+>   - Those facts could not reasonably have been known
+>   - Immunity is claimed as soon as reasonably practicable after discovery
+
+> **Effect of Waiver**:  
+> If a foreign state initiates proceedings or intervenes (excluding steps under (c)), it **submits to jurisdiction** not only in the original matter but also:
+> - In **third-party proceedings** arising from the same subject matter
+> - In **counterclaims** arising from the same facts
+
+> **Appeal and Supervisory Jurisdiction**:  
+> A submission to jurisdiction is deemed to extend to **any appellate or supervisory proceedings** that may arise later — meaning the state is subject to review or appeal in higher courts.
+
+---
+
+### **3. Exceptions to Immunity (When Jurisdiction Applies)**
+
+#### **(a) Commercial Activity**
+> A foreign state is **not immune** in proceedings related to **commercial activity**.
+
+- Includes transactions, conduct, or regular practices that are inherently commercial.
+- Applies to both direct commercial disputes and business-related claims.
+
+#### **(b) Personal Injury or Property Damage**
+> Not immune in proceedings involving:
+- Death
+- Personal or bodily injury
+- Damage to or loss of property occurring in Canada
+
+> This aligns with international norms allowing accountability for harm caused within a country's territory.
+
+#### **(c) Support of Terrorism (Listed States)**
+> Foreign states listed under subsection 6.1(2) are **not immune** in proceedings related to:
+- Their **support of terrorism** on or after January 1, 1985
+- **Terrorist activity** carried out by them
+
+> This is a critical exception enabling Canada to hold states accountable for supporting terrorism, even if they are otherwise immune.
+
+#### **(d) Maritime and Cargo Claims**
+> Not immune in proceedings involving:
+- **Action in rem** (against a ship) or **action in personam** (for enforcement) regarding:
+  - A ship or cargo **owned or operated** by the foreign state
+- **Condition**: At the time the claim arose or proceedings began, the ship or cargo was:
+  - Being used or intended for use in **commercial activity**
+
+> Applies to both ships and cargo, and includes:
+> - Ships or cargo in the **possession or control** of the state
+> - Ships or cargo in which the state **claims an interest**
+
+> This allows Canadian courts to enforce claims against state-owned vessels engaged in commercial operations.
+
+#### **(e) Succession, Gift, or Bona Vacantia Property Rights**
+> Not immune in proceedings involving:
+- An interest or, in Quebec, a **right of the state in property** arising by:
+  - Succession
+  - Gift
+  - Bona vacantia (property acquired by the state through no legal claim)
+
+> This allows enforcement of property rights that arise through legal succession or ownership mechanisms.
+
+---
+
+## **Service of Documents**
+
+### **On a Foreign State (not an agency):**
+Service may occur via:
+1. Agreement between the state and Canada
+2. International treaty to which the state is a party
+3. **Default method**: Delivery of a copy to the **Deputy Minister of Foreign Affairs** or a designated person, who then transmits it to the foreign state.
+
+> **Service is deemed complete** when the Deputy Minister certifies to the court that the document has been transmitted.
+
+### **On an Agency of a Foreign State:**
+Service may occur via:
+1. Agreement between the agency and Canada
+2. International convention applicable to the agency
+3. Applicable court rules
+
+> If service cannot be made under (1) or (2), a **court may issue an order** directing how service should proceed.
+
+> **Service is deemed complete** when the Deputy Minister or designated person certifies transmission.
+
+---
+
+## **Procedural Consequences of Failure to Respond**
+
+- If a foreign state **fails to take the initial step required of a defendant** (e.g., filing a response, appearing) within the time limit set by court rules:
+  - **No further steps toward judgment** may be taken **except after 60 days** from the date of service.
+
+- If judgment is entered against the foreign state and the state fails to respond:
+  - A **certified copy of the judgment** must be served:
+    - If service was on an **agency**: as ordered by the court
+    - Otherwise: via the method specified in subsection 9(1)(c)
+
+> If required, the service of the judgment follows the same rules as the original originating document.
+
+---
+
+## **Right to Challenge Judgment**
+
+- A foreign state may apply to **set aside or revoke** a judgment within **60 days** of receiving a certified copy of the judgment.
+
+---
+
+## **Restrictions on Relief (Injunctions, Specific Performance, etc.)**
+
+> **No relief** (such as injunctions, specific performance, or recovery of land or property) may be granted **unless**:
+- The foreign state **consents in writing** to the relief
+- And the relief granted is **no greater** than what the state has consented to
+
+> **Important Exception**:  
+> Submission to jurisdiction (e.g., initiating proceedings) is **not** considered consent for the purposes of this section.
+
+> **Note**: This restriction does **not apply** to:
+- Agencies of foreign states
+- Foreign states listed under 6.1(2) in terrorism-related proceedings
+
+---
+
+## **Immunity of Property in Canada**
+
+> **General Rule**:  
+> Property of a foreign state located in Canada is **immune from attachment, execution, arrest, detention, seizure, and forfeiture**, **unless**:
+
+1. The state **explicitly or by implication waived** immunity (and has not withdrawn the waiver)
+2. The property is used or intended for:
+   - A **commercial activity**
+   - **Supporting terrorism** (if the state is on the terrorism list)
+3. The execution relates to:
+   - Rights acquired by **succession, gift, or in immovable property in Canada**
+4. The state is on the terrorism list and the attachment/execution relates to:
+   - A judgment for **support of terrorism** or **terrorist activity**
+   - And the property is **not of cultural or historical value**
+
+> **Exceptions to Immunity**:
+- **Military property**:
+  - Property used or intended for **military activity**
+  - Property that is **military in nature** or under **military authority/defence agency control** → immune
+- **Central Banks / Monetary Authorities

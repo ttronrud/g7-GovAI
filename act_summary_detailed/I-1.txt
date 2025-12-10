@@ -1,0 +1,162 @@
+**Detailed Summary of the *Identification of Criminals Act***
+
+---
+
+### **Overview**
+The *Identification of Criminals Act* is a legislative instrument that establishes the legal framework for the collection, use, and management of biometric and identifying data (such as fingerprints and photographs) from individuals who are charged with, convicted of, or apprehended in connection with serious criminal offences. The Act is binding on Her Majesty in right of Canada or any province and provides authority to law enforcement and judicial authorities to conduct identification procedures under specific conditions.
+
+It also includes provisions related to the use of remote proceedings in the criminal justice system and mandates independent reviews and parliamentary oversight of those practices.
+
+---
+
+### **Key Provisions and Detailed Summary**
+
+---
+
+#### **1. Who May Be Subjected to Identification Procedures?**
+
+The Act authorizes fingerprinting, photography, or other approved identification processes (such as physical measurements or biometric scans) for the following categories of individuals:
+
+- **Persons in lawful custody** who are:
+  - Charged with or convicted of an **indictable offence**, or
+  - Convicted of an offence punishable on **summary conviction** *if* that offence could also have been prosecuted by indictment.
+
+> **Exclusions**:
+> - Offences designated as **contraventions** under the *Contraventions Act*, where the **Attorney General has made an election** under section 50 of that Act.
+> - Offences under the *Foreign Interference and Security of Information Act* — these are **not excluded**; the Act explicitly includes them.
+
+- **Persons apprehended under the Extradition Act** — individuals being extradited or detained in connection with international extradition proceedings.
+
+- **Persons required to appear** due to an appearance notice, undertaking, summons, or order under specific sections of the *Criminal Code*:
+  - Subsections 485.2(1), 500(3), 501(4), or 509(5)
+  - Section 515.01 of the *Criminal Code*
+  
+> These individuals are alleged to have committed an indictable offence or a summary conviction offence that could have been prosecuted by indictment — **excluding**:
+> - Contraventions where the Attorney General has made an election under section 50 of the *Contraventions Act*
+> - Offences where proceedings were initiated by a peace officer under **section 51 of the Cannabis Act**
+
+- **Persons in lawful custody under section 83.3 of the Criminal Code** — this refers to individuals detained under specific provisions related to the investigation or apprehension of suspects.
+
+> **Note**: The 2022 repeal of a clause (section [repealed, 2022, c. 17, s. 62]) removed a prior provision that may have expanded the scope of identification to certain non-criminal or minor offences. This reflects a narrowing of scope to serious criminal matters.
+
+---
+
+#### **2. Use of Force**
+
+- Law enforcement or custodial personnel may use **reasonable force** necessary to carry out the identification procedures (e.g., to obtain fingerprints or photographs) if required to do so effectively.
+
+> This ensures that procedures can be completed even if a person resists or is uncooperative, as long as the force is proportionate and justified.
+
+---
+
+#### **3. Use and Publication of Identification Data**
+
+- The **results** of the identification processes (e.g., fingerprints, photographs) may be **published or shared** with law enforcement officers and others involved in law enforcement or judicial administration.
+
+> Purpose: To assist in identifying suspects, matching records, and supporting investigations or prosecutions.
+
+> This publication is strictly for **law enforcement and administrative purposes**, not for public dissemination.
+
+---
+
+#### **4. Immunity from Liability**
+
+No individual shall face **civil or criminal liability** for anything lawfully done under this Act if they are:
+
+- A person having custody of someone described in subsection 2(1), or
+- Acting in aid or under the direction of such a custodian, or
+- Involved in the publication of the results of identification procedures under subsection 2(3)
+
+> This provision provides **legal protection** to officers, custodians, and officials involved in identification processes, reducing the risk of lawsuits or criminal charges arising from lawful but potentially intrusive actions.
+
+---
+
+#### **5. Destruction of Biometric Data in Certain Cases**
+
+- **When the Attorney General makes an election under section 50 of the Contraventions Act**:
+  - If a person charged with a **contravention** is fingerprinted or photographed, the fingerprints or photographs **must be destroyed** after the election is made.
+
+> This reflects a policy of minimizing data retention for minor offences, where the potential for misuse or overreach is considered lower.
+
+- **When the Attorney General makes an election under section 58 of the Cannabis Act**:
+  - If a person charged with an offence listed in **paragraphs 51(2)(a) to (j)** of the *Cannabis Act* is fingerprinted or photographed, the biometric data must be **destroyed** after the election is made.
+
+> This provision targets cannabis-related offences, which are generally considered less serious, and aligns with efforts to limit data collection in non-violent or regulatory matters.
+
+---
+
+#### **6. Application to Ongoing Proceedings**
+
+- For greater certainty, the amendments made by this Act **apply to ongoing criminal proceedings** that were in effect on the day the Act came into force.
+
+> This ensures that individuals already in the system (e.g., already charged or in custody) are not left outside the scope of the new rules, and that the law applies retroactively where necessary.
+
+---
+
+#### **7. Independent Review of Remote Proceedings in Criminal Justice**
+
+The **Minister of Justice** is required to initiate **one or more independent reviews** on the use of **remote proceedings** (e.g., virtual court appearances, remote hearings, online bail hearings) no later than **three years after the Act receives royal assent**.
+
+The review must assess whether remote proceedings:
+
+- **Enhance, preserve, or adversely affect access to justice**
+- **Maintain fundamental principles of the administration of justice** (e.g., fairness, due process, right to a fair trial)
+- **Adequately address the rights and obligations** of participants, especially **accused persons**, including their right to counsel, confrontation, and due process
+
+> This is a significant policy initiative aimed at evaluating the legitimacy and effectiveness of remote justice processes in light of public health, technological advances, and equity concerns.
+
+---
+
+#### **8. Reporting Requirements for Reviews**
+
+- The Minister must **cause a report** on the review to be laid before **each House of Parliament** no later than **five years after the review is initiated**.
+
+> This ensures **transparency and accountability**, allowing Parliament to scrutinize findings and recommendations.
+
+---
+
+#### **9. Parliamentary Review of the Act’s Provisions**
+
+- At the **start of the fifth year** after the Act receives royal assent:
+  - The provisions enacted or amended by this Act must be referred to:
+    - A **Senate committee**
+    - A **House of Commons committee**
+  - These committees may be designated or established specifically for this purpose.
+
+> The committees are to:
+  - Review the **provisions of the Act**
+  - Review the **use of remote proceedings** in criminal justice
+  - Submit **reports** to their respective Houses of Parliament
+  - Include **statements** outlining any **recommended changes** to the Act or its implementation
+
+> This establishes a formal **parliamentary oversight mechanism**, ensuring that the Act remains aligned with democratic values, public interest, and evolving societal norms.
+
+---
+
+### **Key Themes and Policy Implications**
+
+| Theme | Significance |
+|------|-------------|
+| **Balancing Security and Privacy** | The Act enables identification for serious crimes while providing safeguards (e.g., data destruction for minor offences, immunity for officials) to protect individual rights. |
+| **Legal Protection for Officials** | Immunity provisions reduce the risk of litigation against law enforcement, promoting cooperation and effective identification. |
+| **Targeted Data Retention** | Biometric data is only retained for serious offences or when required by law; it is destroyed in cases of minor or contravention-level offences. |
+| **Transparency and Accountability** | Mandatory parliamentary reviews and independent assessments ensure that the use of remote justice and biometric data is subject to public scrutiny. |
+| **Adaptation to Modern Justice Needs** | The inclusion of remote proceedings reflects a response to the realities of modern policing, public health (e.g., pandemic), and technological advancement. |
+
+---
+
+### **Conclusion**
+
+The *Identification of Criminals Act* is a carefully balanced piece of legislation that:
+
+- Authorizes the collection of biometric data (fingerprinting, photography) for serious criminal offences,
+- Provides legal protections for law enforcement and custodial staff,
+- Limits data retention in minor or non-serious cases,
+- Introduces robust oversight mechanisms through independent reviews and parliamentary committees,
+- And adapts to modern challenges in the delivery of justice — particularly through the use of remote proceedings.
+
+While it supports law enforcement capabilities, it also demonstrates a commitment to **proportionality, accountability, and respect for individual rights**, especially in the context of privacy and data protection.
+
+---
+
+**Note**: The Act was significantly updated in 2022 (repealing certain provisions), indicating ongoing legislative refinement to ensure alignment with current legal, ethical, and public policy standards.
